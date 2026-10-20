@@ -1,0 +1,1447 @@
+{
+  "title": "Inson tanasi, aʼzolar va harakat",
+  "category": "Human Body & Anatomy",
+  "group": "topic",
+  "words": [
+    {
+      "english": "head",
+      "pronunciation_uz": "hed",
+      "uzbek": "bosh",
+      "pos": "noun",
+      "example_en": "Wear a warm cap to keep your head protected from the wind.",
+      "example_uz": "Boshingizni shamoldan himoya qilish uchun issiq qalpoq kiying.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "skull",
+      "pronunciation_uz": "skal",
+      "uzbek": "bosh suyagi, chanoq",
+      "pos": "noun",
+      "example_en": "The hard skull protects the brain from injury.",
+      "example_uz": "Qattiq bosh suyagi miyani jarohatdan himoya qiladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "scalp",
+      "pronunciation_uz": "skelp",
+      "uzbek": "bosh terisi",
+      "pos": "noun",
+      "example_en": "Massaging the scalp improves blood circulation to the hair.",
+      "example_uz": "Bosh terisini uqalash sochlarga qon aylanishini yaxshilaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "forehead",
+      "pronunciation_uz": "forhed",
+      "uzbek": "peshona",
+      "pos": "noun",
+      "example_en": "She placed a cool hand on the child's warm forehead.",
+      "example_uz": "U bolaning issiq peshonasiga salqin qoʻlini qoʻydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "temple",
+      "pronunciation_uz": "templ",
+      "uzbek": "chakka",
+      "pos": "noun",
+      "example_en": "He rubbed his temples gently after hours of reading.",
+      "example_uz": "U bir necha soatlik mutolaadan soʻng chakkalarini ohista uqaladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "eyebrow",
+      "pronunciation_uz": "aybrau",
+      "uzbek": "qosh",
+      "pos": "noun",
+      "example_en": "He raised an eyebrow in surprise at the news.",
+      "example_uz": "Yangilikni eshitib, u hayrat bilan qoshini chimirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "eyelid",
+      "pronunciation_uz": "aylid",
+      "uzbek": "qovoq (koʻz qovogʻi)",
+      "pos": "noun",
+      "example_en": "The baby's heavy eyelids slowly closed as he fell asleep.",
+      "example_uz": "Chaqaloq uxlab qolar ekan, uning ogʻir qovoqlari sekin yumildi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "eyelash",
+      "pronunciation_uz": "aylesh",
+      "uzbek": "kiprik",
+      "pos": "noun",
+      "example_en": "Long eyelashes help keep dust out of the eyes.",
+      "example_uz": "Uzun kipriklar koʻzga chang kirishidan saqlashga yordam beradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "pupil",
+      "pronunciation_uz": "pyupil",
+      "uzbek": "koʻz qorachigʻi",
+      "pos": "noun",
+      "example_en": "The pupil of the eye narrows in bright sunlight.",
+      "example_uz": "Yorqin quyosh nurida koʻz qorachigʻi torayadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "iris",
+      "pronunciation_uz": "ayris",
+      "uzbek": "koʻzning rangdor pardasi",
+      "pos": "noun",
+      "example_en": "The iris gives the human eye its brown, blue, or green color.",
+      "example_uz": "Rangdor parda inson koʻziga jigarrang, koʻk yoki yashil rang beradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "retina",
+      "pronunciation_uz": "retina",
+      "uzbek": "koʻz toʻrpardasi",
+      "pos": "noun",
+      "example_en": "Light enters the eye and focuses on the retina.",
+      "example_uz": "Yorugʻlik koʻzga kirib, toʻrpardada jamlanadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "cornea",
+      "pronunciation_uz": "kornia",
+      "uzbek": "koʻzning shox pardasi",
+      "pos": "noun",
+      "example_en": "A clear cornea is essential for sharp vision.",
+      "example_uz": "Oʻtkir koʻrish qobiliyati uchun tiniq shox parda juda muhim.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "ear",
+      "pronunciation_uz": "ir",
+      "uzbek": "quloq",
+      "pos": "noun",
+      "example_en": "She whispered the secret softly into her sister's ear.",
+      "example_uz": "U sirni singlisining qulogʻiga past ovozda pichirladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "earlobe",
+      "pronunciation_uz": "irloub",
+      "uzbek": "quloq yumshogʻi",
+      "pos": "noun",
+      "example_en": "Small pearl earrings hung from her earlobes.",
+      "example_uz": "Uning quloq yumshoqlarida kichik marvarid ziraklar osilib turardi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "eardrum",
+      "pronunciation_uz": "irdram",
+      "uzbek": "quloq pardasi",
+      "pos": "noun",
+      "example_en": "Very loud noises can damage the delicate eardrum.",
+      "example_uz": "Juda baland shovqin nozik quloq pardasiga zarar yetkazishi mumkin.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "nose",
+      "pronunciation_uz": "nouz",
+      "uzbek": "burun",
+      "pos": "noun",
+      "example_en": "Breathe in deeply through your nose in the pine forest.",
+      "example_uz": "Qaragʻay oʻrmonida burningiz orqali chuqur nafas oling.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "nostril",
+      "pronunciation_uz": "nostril",
+      "uzbek": "burun katagi, teshigi",
+      "pos": "noun",
+      "example_en": "Cold mountain air filled his nostrils.",
+      "example_uz": "Sovuq togʻ havosi uning burun kataklarini toʻldirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "cheek",
+      "pronunciation_uz": "chik",
+      "uzbek": "yanoq, bet, lunj",
+      "pos": "noun",
+      "example_en": "The cold winter wind turned the children's cheeks rosy.",
+      "example_uz": "Sovuq qish shamoli bolalarning yanoqlarini qizartirib yubordi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "cheekbone",
+      "pronunciation_uz": "chikboun",
+      "uzbek": "yanoq suyagi",
+      "pos": "noun",
+      "example_en": "The portrait artist highlighted her high cheekbones.",
+      "example_uz": "Portretchi rassom uning baland yanoq suyaklarini alohida tasvirladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "dimple",
+      "pronunciation_uz": "dimpl",
+      "uzbek": "kuldirgich (yuzdagi chuqurcha)",
+      "pos": "noun",
+      "example_en": "Two cheerful dimples appear whenever she smiles.",
+      "example_uz": "U jilmayganida yanoqlarida ikkita yoqimli kuldirgich paydo boʻladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "jaw",
+      "pronunciation_uz": "jo",
+      "uzbek": "jagʻ",
+      "pos": "noun",
+      "example_en": "Clenching your jaw tightly can cause tension.",
+      "example_uz": "Jagʻni qattiq qisish zoʻriqishga sabab boʻlishi mumkin.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "chin",
+      "pronunciation_uz": "chin",
+      "uzbek": "iyak, engak",
+      "pos": "noun",
+      "example_en": "He rested his chin on his hand while thinking.",
+      "example_uz": "U oʻylanib oʻtirarkan, iyagini qoʻliga tiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "mouth",
+      "pronunciation_uz": "maus",
+      "uzbek": "ogʻiz",
+      "pos": "noun",
+      "example_en": "Cover your mouth with a tissue when you sneeze.",
+      "example_uz": "Aksirganingizda ogʻzingizni qogʻoz salfetka bilan yoping.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "lip",
+      "pronunciation_uz": "lip",
+      "uzbek": "lab",
+      "pos": "noun",
+      "example_en": "Use lip balm in winter so your lips don't chap.",
+      "example_uz": "Qishda lablaringiz yorilmasligi uchun lab balzamidan foydalaning.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tongue",
+      "pronunciation_uz": "tang",
+      "uzbek": "til",
+      "pos": "noun",
+      "example_en": "Tiny taste buds on the tongue detect sweet and sour flavors.",
+      "example_uz": "Tildagi mayda taʼm bilish kurtaklari shirin va nordon taʼmlarni sezadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "palate",
+      "pronunciation_uz": "pelet",
+      "uzbek": "tanglay",
+      "pos": "noun",
+      "example_en": "Hot tea can burn the roof of your palate if you drink too fast.",
+      "example_uz": "Juda tez ichsangiz, qaynoq choy tanglayingizni kuydirishi mumkin.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tooth",
+      "pronunciation_uz": "tus",
+      "uzbek": "tish",
+      "pos": "noun",
+      "example_en": "The six-year-old boy lost his first baby tooth.",
+      "example_uz": "Olti yoshli bola birinchi sut tishini tushirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "gum",
+      "pronunciation_uz": "gam",
+      "uzbek": "milk (tish milki)",
+      "pos": "noun",
+      "example_en": "Gentle brushing keeps both teeth and gums healthy.",
+      "example_uz": "Yumshoq tozalash tishlarni ham, milklarni ham sogʻlom saqlaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "throat",
+      "pronunciation_uz": "srout",
+      "uzbek": "tomoq, halqum",
+      "pos": "noun",
+      "example_en": "Warm milk with honey soothes a dry throat.",
+      "example_uz": "Asalli iliq sut quruq tomoqni yumshatadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "neck",
+      "pronunciation_uz": "nek",
+      "uzbek": "boʻyin",
+      "pos": "noun",
+      "example_en": "Wrap a wool scarf around your neck before going out.",
+      "example_uz": "Koʻchaga chiqishdan oldin boʻyningizga jun sharf oʻrang.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "nape",
+      "pronunciation_uz": "neyp",
+      "uzbek": "ensa, boʻyinning orqa qismi",
+      "pos": "noun",
+      "example_en": "A cool breeze blew across the nape of his neck.",
+      "example_uz": "Salqin shabada uning ensasini silab oʻtdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "shoulder",
+      "pronunciation_uz": "shoulder",
+      "uzbek": "yelka, kift",
+      "pos": "noun",
+      "example_en": "He carried the heavy sack of flour on his shoulder.",
+      "example_uz": "U ogʻir un qopini yelkasida koʻtarib bordi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "collarbone",
+      "pronunciation_uz": "kollarboun",
+      "uzbek": "oʻmrov suyagi",
+      "pos": "noun",
+      "example_en": "The cyclist fell and bruised his collarbone.",
+      "example_uz": "Velosipedchi yiqilib, oʻmrov suyagini latjedirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "shoulder blade",
+      "pronunciation_uz": "shoulder bleyd",
+      "uzbek": "kurak suyagi",
+      "pos": "noun",
+      "example_en": "Stretch your arms to relax the muscles between your shoulder blades.",
+      "example_uz": "Kurak suyaklari orasidagi mushaklarni boʻshashtirish uchun qoʻllaringizni choʻzing.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "arm",
+      "pronunciation_uz": "arm",
+      "uzbek": "qoʻl (yelkadan bilakkacha)",
+      "pos": "noun",
+      "example_en": "She carried a basket of fresh apples under her arm.",
+      "example_uz": "U qoʻltigʻida bir savat yangi olma koʻtarib olgan edi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "armpit",
+      "pronunciation_uz": "armpit",
+      "uzbek": "qoʻltiq",
+      "pos": "noun",
+      "example_en": "Old mercury thermometers were placed under the armpit.",
+      "example_uz": "Eski simobli termometrlar qoʻltiq ostiga qoʻyilar edi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "elbow",
+      "pronunciation_uz": "elbou",
+      "uzbek": "tirsak",
+      "pos": "noun",
+      "example_en": "Do not rest your elbows on the dining table.",
+      "example_uz": "Ovqatlanish stoliga tirsaklaringizni tiramang.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "forearm",
+      "pronunciation_uz": "forarm",
+      "uzbek": "bilak (tirsakdan kaftgacha)",
+      "pos": "noun",
+      "example_en": "The baker rolled up his sleeves to his forearms.",
+      "example_uz": "Novvoy yenglarini bilagigacha shimarib oldi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "wrist",
+      "pronunciation_uz": "rist",
+      "uzbek": "bilak boʻgʻini, toʻpiq (qoʻlda)",
+      "pos": "noun",
+      "example_en": "He wears a classic leather watch on his left wrist.",
+      "example_uz": "U chap bilagiga klassik charm soat taqadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "palm",
+      "pronunciation_uz": "pam",
+      "uzbek": "kaft, hovuch",
+      "pos": "noun",
+      "example_en": "He held three ripe cherries in the palm of his hand.",
+      "example_uz": "U kaftida uchta pishgan gilos tutib turardi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "fist",
+      "pronunciation_uz": "fist",
+      "uzbek": "musht",
+      "pos": "noun",
+      "example_en": "The boxer clenched his hand into a tight fist.",
+      "example_uz": "Bokschi qoʻlini qattiq musht qilib tugdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "knuckle",
+      "pronunciation_uz": "nakl",
+      "uzbek": "barmoq boʻgʻini",
+      "pos": "noun",
+      "example_en": "He rapped politely on the wooden door with his knuckles.",
+      "example_uz": "U barmoq boʻgʻinlari bilan yogʻoch eshikni odob bilan taqillatdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "finger",
+      "pronunciation_uz": "finger",
+      "uzbek": "qoʻl barmogʻi",
+      "pos": "noun",
+      "example_en": "The guitarist moved his fingers swiftly across the strings.",
+      "example_uz": "Gitarachi barmoqlarini torlar ustida chaqqon harakatlantirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "thumb",
+      "pronunciation_uz": "sam",
+      "uzbek": "bosh barmoq",
+      "pos": "noun",
+      "example_en": "He gave a thumbs-up sign to show everything was ready.",
+      "example_uz": "Hammasi tayyorligini bildirish uchun bosh barmogʻini koʻrsatdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "index finger",
+      "pronunciation_uz": "indeks finger",
+      "uzbek": "koʻrsatkich barmoq",
+      "pos": "noun",
+      "example_en": "She pointed to the mountain peak with her index finger.",
+      "example_uz": "U koʻrsatkich barmogʻi bilan togʻ choʻqqisini koʻrsatdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "fingernail",
+      "pronunciation_uz": "fingerneyl",
+      "uzbek": "tirnoq (qoʻl tirnogʻi)",
+      "pos": "noun",
+      "example_en": "Keep your fingernails trimmed and clean.",
+      "example_uz": "Qoʻl tirnoqlaringizni olingan va toza tuting.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "chest",
+      "pronunciation_uz": "chest",
+      "uzbek": "koʻkrak, koʻks",
+      "pos": "noun",
+      "example_en": "In Uzbekistan, placing a hand over the chest is a gesture of sincerity.",
+      "example_uz": "Oʻzbekistonda qoʻlni koʻksiga qoʻyish samimiylik va hurmat belgisidir.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "bosom",
+      "pronunciation_uz": "buzom",
+      "uzbek": "bagʻir, koʻks",
+      "pos": "noun",
+      "example_en": "The mother held the child close to her bosom.",
+      "example_uz": "Ona farzandini bagʻriga mahkam bosdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "ribcage",
+      "pronunciation_uz": "ribkeyj",
+      "uzbek": "qovurgʻa qafasi, koʻkrak qafasi",
+      "pos": "noun",
+      "example_en": "The ribcage surrounds and protects the heart and lungs.",
+      "example_uz": "Koʻkrak qafasi yurak va oʻpkani oʻrab, himoya qilib turadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "abdomen",
+      "pronunciation_uz": "ebdomen",
+      "uzbek": "qorin boʻshligʻi, qorin",
+      "pos": "noun",
+      "example_en": "The doctor gently pressed on the patient's abdomen.",
+      "example_uz": "Shifokor bemorning qorin sohasini ohista bosib koʻrdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "belly",
+      "pronunciation_uz": "belli",
+      "uzbek": "qorin",
+      "pos": "noun",
+      "example_en": "The puppy rolled over so we would scratch its belly.",
+      "example_uz": "Kuchukcha qornini qashlab qoʻyishimiz uchun agʻdarilib yotdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "navel",
+      "pronunciation_uz": "neyvl",
+      "uzbek": "kindik",
+      "pos": "noun",
+      "example_en": "Take deep breaths so that your navel rises and falls.",
+      "example_uz": "Kindik sohasi koʻtarilib-tushadigan qilib chuqur nafas oling.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "waist",
+      "pronunciation_uz": "veyst",
+      "uzbek": "bel",
+      "pos": "noun",
+      "example_en": "The groom tied a patterned belbog scarf around his waist.",
+      "example_uz": "Kuyov beliga naqshinkor belbogʻ bogʻladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "back",
+      "pronunciation_uz": "bek",
+      "uzbek": "orqa, kurak, bel",
+      "pos": "noun",
+      "example_en": "Lifting heavy boxes with a bent back can cause strain.",
+      "example_uz": "Belni bukib ogʻir qutilarni koʻtarish zoʻriqishga olib kelishi mumkin.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "spine",
+      "pronunciation_uz": "spayn",
+      "uzbek": "umurtqa pogʻonasi",
+      "pos": "noun",
+      "example_en": "Sitting upright keeps your spine aligned.",
+      "example_uz": "Tik oʻtirish umurtqa pogʻonasini toʻgʻri tutadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "vertebra",
+      "pronunciation_uz": "vyortebra",
+      "uzbek": "umurtqa suyagi",
+      "pos": "noun",
+      "example_en": "Flexible discs cushion each vertebra in the spinal column.",
+      "example_uz": "Egiluvchan disklar umurtqa pogʻonasidagi har bir umurtqa suyagini yumshatib turadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "hip",
+      "pronunciation_uz": "hip",
+      "uzbek": "chanoq, son-chanoq boʻgʻini, biqin",
+      "pos": "noun",
+      "example_en": "She stood in the garden with her hands on her hips.",
+      "example_uz": "U qoʻllarini beliga (biqiniga) tirab bogʻda turardi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "pelvis",
+      "pronunciation_uz": "pelvis",
+      "uzbek": "chanoq suyagi",
+      "pos": "noun",
+      "example_en": "The pelvis connects the spine to the upper leg bones.",
+      "example_uz": "Chanoq suyagi umurtqa pogʻonasini son suyaklari bilan bogʻlaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "lap",
+      "pronunciation_uz": "lep",
+      "uzbek": "tizza usti, quchoq (oʻtirganda)",
+      "pos": "noun",
+      "example_en": "The sleepy kitten curled up on my lap.",
+      "example_uz": "Uyqusiragan mushukcha tizzam ustida gʻujanak boʻlib oldi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "leg",
+      "pronunciation_uz": "leg",
+      "uzbek": "oyoq (sondan tovongacha)",
+      "pos": "noun",
+      "example_en": "After hiking ten kilometers, our legs felt heavy.",
+      "example_uz": "Oʻn kilometr piyoda yurgandan soʻng oyoqlarimiz ogʻirlashib qoldi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "thigh",
+      "pronunciation_uz": "say",
+      "uzbek": "son",
+      "pos": "noun",
+      "example_en": "Cycling uphill builds strong muscles in the thighs.",
+      "example_uz": "Tepalikka velosiped haydash son mushaklarini chiniqtiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "knee",
+      "pronunciation_uz": "ni",
+      "uzbek": "tizza",
+      "pos": "noun",
+      "example_en": "The boy scraped his knee while playing football.",
+      "example_uz": "Bola futbol oʻynayotib tizzasini shilib oldi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "kneecap",
+      "pronunciation_uz": "nikep",
+      "uzbek": "tizza qopqogʻi, koʻzagi",
+      "pos": "noun",
+      "example_en": "Knee pads protect the kneecap during sports.",
+      "example_uz": "Tizza himoyalagichlar sport paytida tizza qopqogʻini asraydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "shin",
+      "pronunciation_uz": "shin",
+      "uzbek": "boldirning old qismi, toʻpiqdan tizzagacha suyak",
+      "pos": "noun",
+      "example_en": "Soccer players wear guards to protect their shins.",
+      "example_uz": "Futbolchilar boldirlarini himoya qilish uchun qalqoncha taqadilar.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "calf",
+      "pronunciation_uz": "kaf",
+      "uzbek": "boldir mushagi",
+      "pos": "noun",
+      "example_en": "Running on sand gives your calf muscles a workout.",
+      "example_uz": "Qumda yugurish boldir mushaklarini mashq qildiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "ankle",
+      "pronunciation_uz": "enkl",
+      "uzbek": "oshigʻ, toʻpiq",
+      "pos": "noun",
+      "example_en": "Be careful on the icy path so you don't twist your ankle.",
+      "example_uz": "Muzlagan yoʻlakda toʻpigʻingizni qayiltirib olmaslik uchun ehtiyot boʻling.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "foot",
+      "pronunciation_uz": "fut",
+      "uzbek": "oyoq panjasi, kafti",
+      "pos": "noun",
+      "example_en": "It feels refreshing to walk with bare feet on cool grass.",
+      "example_uz": "Salqin maysa ustida yalangoyoq yurish odamga huzur bagʻishlaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "heel",
+      "pronunciation_uz": "hil",
+      "uzbek": "tovon, poshna",
+      "pos": "noun",
+      "example_en": "New leather boots can rub against your heel.",
+      "example_uz": "Yangi charm etik tovoningizni urib qoʻyishi mumkin.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "sole",
+      "pronunciation_uz": "soul",
+      "uzbek": "oyoq tagi, kafti",
+      "pos": "noun",
+      "example_en": "A sharp pebble pricked the sole of his foot.",
+      "example_uz": "Oʻtkir shagʻal toshi uning oyoq tagiga botdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "instep",
+      "pronunciation_uz": "instep",
+      "uzbek": "oyoq panjasining ustki qismi",
+      "pos": "noun",
+      "example_en": "These shoes are too tight across the instep.",
+      "example_uz": "Bu poyabzal oyoq ustini biroz qisyapti.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "toe",
+      "pronunciation_uz": "tou",
+      "uzbek": "oyoq barmogʻi",
+      "pos": "noun",
+      "example_en": "She dipped her toes into the cool mountain stream.",
+      "example_uz": "U oyoq barmoqlarini muzdek togʻ soyiga botirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "toenail",
+      "pronunciation_uz": "touneyl",
+      "uzbek": "oyoq tirnogʻi",
+      "pos": "noun",
+      "example_en": "Trim your toenails straight across to prevent discomfort.",
+      "example_uz": "Noqulaylik tugʻdirmasligi uchun oyoq tirnoqlaringizni tekis qilib oling.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "skin",
+      "pronunciation_uz": "skin",
+      "uzbek": "teri",
+      "pos": "noun",
+      "example_en": "Drink plenty of water to keep your skin hydrated.",
+      "example_uz": "Teringiz namligini saqlash uchun koʻp suv iching.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "pore",
+      "pronunciation_uz": "por",
+      "uzbek": "teri teshikchasi, gʻovak",
+      "pos": "noun",
+      "example_en": "Steam in the bathhouse opens the pores of the skin.",
+      "example_uz": "Hammomdagi bugʻ teri teshikchalarini ochadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "freckle",
+      "pronunciation_uz": "frekl",
+      "uzbek": "sepkil",
+      "pos": "noun",
+      "example_en": "Summer sunshine brought out tiny freckles on his nose.",
+      "example_uz": "Yozgi quyosh nuri uning burnida mayda sepkillarni paydo qildi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "mole",
+      "pronunciation_uz": "moul",
+      "uzbek": "xol",
+      "pos": "noun",
+      "example_en": "She has a small beauty mole near her left cheek.",
+      "example_uz": "Uning chap yanogʻi yonida kichkina xoli bor.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "wrinkle",
+      "pronunciation_uz": "rinkl",
+      "uzbek": "ajin",
+      "pos": "noun",
+      "example_en": "Kind wrinkles gathered around the grandfather's smiling eyes.",
+      "example_uz": "Boboning kulib turgan koʻzlari atrofida mehribon ajinlar toʻplandi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "scar",
+      "pronunciation_uz": "skar",
+      "uzbek": "chandiq",
+      "pos": "noun",
+      "example_en": "A small scar remained on his chin from childhood.",
+      "example_uz": "Bolalikdan uning iyagida kichik chandiq qolgan.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "hair",
+      "pronunciation_uz": "her",
+      "uzbek": "soch, tuk",
+      "pos": "noun",
+      "example_en": "She braided her long dark hair into two plaits.",
+      "example_uz": "U uzun qora sochini ikkita qilib oʻrdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "beard",
+      "pronunciation_uz": "bird",
+      "uzbek": "soqol",
+      "pos": "noun",
+      "example_en": "The wise elder had a long silver beard.",
+      "example_uz": "Dono oqsoqolning uzun kumushrang soqoli bor edi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "mustache",
+      "pronunciation_uz": "mastash",
+      "uzbek": "moʻylov",
+      "pos": "noun",
+      "example_en": "The barber trimmed the gentleman's mustache neatly.",
+      "example_uz": "Sartarosh mijozning moʻylovini tekislab qoʻydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "muscle",
+      "pronunciation_uz": "masl",
+      "uzbek": "mushak, muskul",
+      "pos": "noun",
+      "example_en": "Swimming exercises almost every muscle in the body.",
+      "example_uz": "Suzish tanadagi deyarli har bir mushakni harakatga keltiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tendon",
+      "pronunciation_uz": "tendon",
+      "uzbek": "pay",
+      "pos": "noun",
+      "example_en": "Strong tendons attach muscles firmly to bones.",
+      "example_uz": "Mustahkam paylar mushaklarni suyaklarga mahkam bogʻlab turadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "ligament",
+      "pronunciation_uz": "ligament",
+      "uzbek": "boʻgʻim boylami, pay",
+      "pos": "noun",
+      "example_en": "Warm up before sports to avoid stretching a ligament.",
+      "example_uz": "Pay choʻzilishining oldini olish uchun sportdan oldin chigil yozing.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "cartilage",
+      "pronunciation_uz": "kartilij",
+      "uzbek": "togʻay",
+      "pos": "noun",
+      "example_en": "The tip of the nose is made of flexible cartilage.",
+      "example_uz": "Burun uchi egiluvchan togʻaydan iborat.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "skeleton",
+      "pronunciation_uz": "skeleton",
+      "uzbek": "skelet, suyaklar tizimi",
+      "pos": "noun",
+      "example_en": "An adult human skeleton consists of over two hundred bones.",
+      "example_uz": "Katta yoshli inson skeleti ikki yuzdan ortiq suyakdan tashkil topgan.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "marrow",
+      "pronunciation_uz": "merrou",
+      "uzbek": "ilik, koʻmik",
+      "pos": "noun",
+      "example_en": "Red blood cells are produced inside the bone marrow.",
+      "example_uz": "Qizil qon tanachalari suyak koʻmigi ichida hosil boʻladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "nerve",
+      "pronunciation_uz": "nyorv",
+      "uzbek": "asab tolasi, nerv",
+      "pos": "noun",
+      "example_en": "Sensory nerves carry signals from the skin to the brain.",
+      "example_uz": "Sezgi nervlari signallarni teridan miyaga yetkazadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "vein",
+      "pronunciation_uz": "veyn",
+      "uzbek": "vena qon tomiri, koʻk tomir",
+      "pos": "noun",
+      "example_en": "Veins carry blood back toward the heart.",
+      "example_uz": "Vena tomirlari qonni yurakka qaytarib olib boradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "artery",
+      "pronunciation_uz": "arteri",
+      "uzbek": "arteriya, qizil qon tomiri",
+      "pos": "noun",
+      "example_en": "Arteries deliver oxygen-rich blood throughout the body.",
+      "example_uz": "Arteriyalar kislorodga boy qonni butun tana boʻylab yetkazib beradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "capillary",
+      "pronunciation_uz": "kapilleri",
+      "uzbek": "kapillyar, qil tomir",
+      "pos": "noun",
+      "example_en": "Tiny capillaries connect arteries and veins in tissues.",
+      "example_uz": "Mayda qil tomirlar toʻqimalarda arteriya va venalarni tutashtiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "pulse",
+      "pronunciation_uz": "pals",
+      "uzbek": "tomir urishi, puls",
+      "pos": "noun",
+      "example_en": "The doctor checked the patient's pulse at the wrist.",
+      "example_uz": "Shifokor bemorning bilagidan tomir urishini tekshirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "heartbeat",
+      "pronunciation_uz": "hartbit",
+      "uzbek": "yurak urishi",
+      "pos": "noun",
+      "example_en": "The mother listened to her baby's steady heartbeat.",
+      "example_uz": "Ona chaqalogʻining bir maromdagi yurak urishini tingladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "lung",
+      "pronunciation_uz": "lang",
+      "uzbek": "oʻpka",
+      "pos": "noun",
+      "example_en": "Fill your lungs with fresh morning air.",
+      "example_uz": "Oʻpkangizni toza ertalabki havo bilan toʻldiring.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "windpipe",
+      "pronunciation_uz": "vindpayp",
+      "uzbek": "kekirdak, traxeya, nafas yoʻli",
+      "pos": "noun",
+      "example_en": "Never talk while chewing so food doesn't enter the windpipe.",
+      "example_uz": "Ovqat nafas yoʻliga ketib qolmasligi uchun chaynayotganda gapirmang.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "diaphragm",
+      "pronunciation_uz": "dayafram",
+      "uzbek": "diafragma, koʻkrak-qorin toʻsigʻi",
+      "pos": "noun",
+      "example_en": "Singers train their diaphragm for strong breath control.",
+      "example_uz": "Xonandalar nafasni kuchli boshqarish uchun diafragmani mashq qildiradilar.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "kidney",
+      "pronunciation_uz": "kidni",
+      "uzbek": "buyrak",
+      "pos": "noun",
+      "example_en": "The kidneys filter waste from the blood.",
+      "example_uz": "Buyraklar qonni ortiqcha moddalardan tozalaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "gallbladder",
+      "pronunciation_uz": "golbledder",
+      "uzbek": "oʻt pufagi",
+      "pos": "noun",
+      "example_en": "The gallbladder stores bile to help digest fats.",
+      "example_uz": "Oʻt pufagi yogʻlarni hazm qilishga yordam beradigan safroni saqlaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "pancreas",
+      "pronunciation_uz": "penkrias",
+      "uzbek": "meʼda osti bezi",
+      "pos": "noun",
+      "example_en": "The pancreas produces insulin to regulate blood sugar.",
+      "example_uz": "Meʼda osti bezi qondagi qand miqdorini boshqarish uchun insulin ishlab chiqaradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "spleen",
+      "pronunciation_uz": "splin",
+      "uzbek": "taloq, qorataloq",
+      "pos": "noun",
+      "example_en": "The spleen plays an important role in the immune system.",
+      "example_uz": "Taloq immun tizimida muhim rol oʻynaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "intestine",
+      "pronunciation_uz": "intestin",
+      "uzbek": "ichak",
+      "pos": "noun",
+      "example_en": "Nutrients from food are absorbed through the intestine.",
+      "example_uz": "Ovqatdagi ozuqa moddalari ichak orqali soʻriladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "bowel",
+      "pronunciation_uz": "bauel",
+      "uzbek": "ichak (yoʻgʻon ichak)",
+      "pos": "noun",
+      "example_en": "Eating fiber-rich vegetables supports healthy bowel function.",
+      "example_uz": "Kletchatkaga boy sabzavotlarni isteʼmol qilish ichak faoliyatini yaxshilaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "bladder",
+      "pronunciation_uz": "bledder",
+      "uzbek": "qovuq, siydik pufagi",
+      "pos": "noun",
+      "example_en": "Drink water regularly throughout the day for bladder health.",
+      "example_uz": "Qovuq salomatligi uchun kun davomida muntazam suv iching.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "gland",
+      "pronunciation_uz": "glend",
+      "uzbek": "bez",
+      "pos": "noun",
+      "example_en": "Sweat glands help cool the body during hot weather.",
+      "example_uz": "Ter bezlari issiq havoda tanani sovitishga yordam beradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "hormone",
+      "pronunciation_uz": "hormoun",
+      "uzbek": "gormon",
+      "pos": "noun",
+      "example_en": "Sleep is regulated by a natural hormone called melatonin.",
+      "example_uz": "Uyqu melatonin deb ataladigan tabiiy gormon tomonidan boshqariladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tissue",
+      "pronunciation_uz": "tishyu",
+      "uzbek": "toʻqima; qogʻoz salfetka",
+      "pos": "noun",
+      "example_en": "Protein is needed to repair muscle tissue.",
+      "example_uz": "Mushak toʻqimalarini tiklash uchun oqsil zarur.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "organ",
+      "pronunciation_uz": "organ",
+      "uzbek": "aʼzo, organ",
+      "pos": "noun",
+      "example_en": "The skin is actually the largest organ of the human body.",
+      "example_uz": "Teri aslida inson tanasining eng katta aʼzosidir.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "digestion",
+      "pronunciation_uz": "dayjestchen",
+      "uzbek": "ovqat hazm qilish",
+      "pos": "noun",
+      "example_en": "A short walk after dinner aids digestion.",
+      "example_uz": "Kechki ovqatdan keyin qisqa sayr qilish hazm qilishga yordam beradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "circulation",
+      "pronunciation_uz": "syorkyuleyshn",
+      "uzbek": "qon aylanishi",
+      "pos": "noun",
+      "example_en": "Morning gymnastics stimulates blood circulation.",
+      "example_uz": "Ertalabki badantarbiya qon aylanishini faollashtiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "respiration",
+      "pronunciation_uz": "respireyshn",
+      "uzbek": "nafas olish",
+      "pos": "noun",
+      "example_en": "Slow, deep respiration calms the nervous system.",
+      "example_uz": "Sekin va chuqur nafas olish asab tizimini tinchlantiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "perspiration",
+      "pronunciation_uz": "perspireyshn",
+      "uzbek": "terlash, ter",
+      "pos": "noun",
+      "example_en": "Wipe the perspiration from your forehead with a towel.",
+      "example_uz": "Peshonangizdagi terni sochiq bilan arting.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "sweat",
+      "pronunciation_uz": "svet",
+      "uzbek": "ter; terlamoq",
+      "pos": "noun",
+      "example_en": "Hard work in the garden made him break into a sweat.",
+      "example_uz": "Bogʻdagi ogʻir mehnat uni terlatib yubordi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "saliva",
+      "pronunciation_uz": "salayva",
+      "uzbek": "soʻlak",
+      "pos": "noun",
+      "example_en": "The smell of fresh bread makes your mouth produce saliva.",
+      "example_uz": "Issiq non hidi ogʻizda soʻlak ajralishini kuchaytiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tear",
+      "pronunciation_uz": "tir",
+      "uzbek": "koʻz yoshi",
+      "pos": "noun",
+      "example_en": "A tear of joy rolled down the mother's cheek.",
+      "example_uz": "Onaning yanogʻidan quvonch koʻz yoshi dumalab tushdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "sight",
+      "pronunciation_uz": "sayt",
+      "uzbek": "koʻrish qobiliyati, nazar",
+      "pos": "noun",
+      "example_en": "Carrots are rich in vitamin A, which is good for your sight.",
+      "example_uz": "Sabzi koʻrish qobiliyati uchun foydali boʻlgan A vitaminiga boy.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "vision",
+      "pronunciation_uz": "vijn",
+      "uzbek": "koʻrish, koʻz nuri",
+      "pos": "noun",
+      "example_en": "The pilot has twenty-twenty vision.",
+      "example_uz": "Uchuvchining koʻrish qobiliyati juda oʻtkir.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "hearing",
+      "pronunciation_uz": "hiring",
+      "uzbek": "eshitish qobiliyati",
+      "pos": "noun",
+      "example_en": "Protect your hearing when working near loud machinery.",
+      "example_uz": "Baland ovozli uskunalar yonida ishlaganda eshitish qobiliyatingizni asrang.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "smell",
+      "pronunciation_uz": "smel",
+      "uzbek": "hid bilish; hid",
+      "pos": "noun",
+      "example_en": "Dogs have a much keener sense of smell than humans.",
+      "example_uz": "Itlarning hid bilish sezgisi insonnikidan ancha oʻtkir.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "touch",
+      "pronunciation_uz": "tach",
+      "uzbek": "sezish (teri orqali); teginmoq",
+      "pos": "noun",
+      "example_en": "Blind people read Braille using their sense of touch.",
+      "example_uz": "Koʻzi ojiz insonlar Brayl yozuvini barmoq sezgisi orqali oʻqiydilar.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "posture",
+      "pronunciation_uz": "poscher",
+      "uzbek": "qomat, gavda tutishi",
+      "pos": "noun",
+      "example_en": "Good posture prevents back and neck ache.",
+      "example_uz": "Qomatni toʻgʻri tutish bel va boʻyin ogʻrigʻining oldini oladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "stance",
+      "pronunciation_uz": "stens",
+      "uzbek": "turish holati",
+      "pos": "noun",
+      "example_en": "The wrestler took a wide, balanced stance.",
+      "example_uz": "Kurashchi keng va muvozanatli turish holatini oldi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "gait",
+      "pronunciation_uz": "geyt",
+      "uzbek": "yurish tarzi, qadam tashlash",
+      "pos": "noun",
+      "example_en": "I recognized my grandfather from afar by his calm gait.",
+      "example_uz": "Bobomni uzoqdan vazmin yurish tarzidan tanidim.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "stride",
+      "pronunciation_uz": "strayd",
+      "uzbek": "katta qadam; odimlamoq",
+      "pos": "noun",
+      "example_en": "He crossed the courtyard in a few long strides.",
+      "example_uz": "U bir necha katta qadam bilan hovlini kesib oʻtdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tiptoe",
+      "pronunciation_uz": "tiptou",
+      "uzbek": "oyoq uchida yurmoq",
+      "pos": "verb",
+      "example_en": "She walked on tiptoe so she wouldn't wake the baby.",
+      "example_uz": "U chaqaloqni uygʻotib yubormaslik uchun oyoq uchida yurdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "crawl",
+      "pronunciation_uz": "krol",
+      "uzbek": "emaklamoq",
+      "pos": "verb",
+      "example_en": "At eight months, the baby began to crawl across the rug.",
+      "example_uz": "Sakkiz oyligida chaqaloq gilam ustida emaklay boshladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "kneel",
+      "pronunciation_uz": "nil",
+      "uzbek": "tiz choʻkmoq",
+      "pos": "verb",
+      "example_en": "Kneel on the soft mat to plant the seedlings.",
+      "example_uz": "Koʻchatlarni ekish uchun yumshoq toʻshama ustiga tiz choʻking.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "crouch",
+      "pronunciation_uz": "krauch",
+      "uzbek": "choʻqqayib oʻtirmoq, egilmoq",
+      "pos": "verb",
+      "example_en": "He crouched down to tie his shoelaces.",
+      "example_uz": "U poyabzal bogʻichini bogʻlash uchun choʻqqayib oʻtirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "squat",
+      "pronunciation_uz": "skvot",
+      "uzbek": "choʻqqaymoq, oʻtirib-turish mashqini bajarmoq",
+      "pos": "verb",
+      "example_en": "Doing twenty squats every morning strengthens your legs.",
+      "example_uz": "Har kuni ertalab yigirma marta oʻtirib-turish mashqini bajarish oyoqlarni chiniqtiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "stretch",
+      "pronunciation_uz": "stretch",
+      "uzbek": "choʻzmoq, kerishmoq",
+      "pos": "verb",
+      "example_en": "Stretch your arms and back after sitting at a desk.",
+      "example_uz": "Stol yonida oʻtirgandan keyin qoʻl va belingizni choʻzib chigil yozing.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "shrug",
+      "pronunciation_uz": "shrag",
+      "uzbek": "yelka qismoq",
+      "pos": "verb",
+      "example_en": "He merely shrugged his shoulders when asked the question.",
+      "example_uz": "Savol berilganda u shunchaki yelkasini qisib qoʻydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "blink",
+      "pronunciation_uz": "blink",
+      "uzbek": "koʻz ochib-yummoq, pirpiratmoq",
+      "pos": "verb",
+      "example_en": "Bright camera flashes made everyone blink.",
+      "example_uz": "Kamera chaqnashi hammani koʻzini pirpiratishga majbur qildi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "wink",
+      "pronunciation_uz": "vink",
+      "uzbek": "koʻz qismoq",
+      "pos": "verb",
+      "example_en": "Grandfather winked playfully at the children.",
+      "example_uz": "Bobom bolalarga hazillashib koʻz qisib qoʻydilar.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "stare",
+      "pronunciation_uz": "ster",
+      "uzbek": "tikilib qolmoq, baqraymoq",
+      "pos": "verb",
+      "example_en": "It is impolite to stare at strangers on the train.",
+      "example_uz": "Poyezdda notanish odamlarga tikilib qarash odobdan emas.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "gaze",
+      "pronunciation_uz": "geyz",
+      "uzbek": "termulmoq, mahliyo boʻlib qaramoq",
+      "pos": "verb",
+      "example_en": "We stood on the hill to gaze at the starry sky.",
+      "example_uz": "Yulduzli osmonga termulish uchun tepalikda turdik.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "glance",
+      "pronunciation_uz": "glens",
+      "uzbek": "koʻz qirini tashlamoq, bir qarab qoʻymoq",
+      "pos": "verb",
+      "example_en": "He glanced at his wristwatch before entering the hall.",
+      "example_uz": "U zalga kirishdan oldin qoʻl soatiga bir qarab qoʻydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "frown",
+      "pronunciation_uz": "fraun",
+      "uzbek": "qosh chimirmoq, xoʻmraymoq",
+      "pos": "verb",
+      "example_en": "Don't frown; every problem has a solution.",
+      "example_uz": "Qoshingizni chimirmang, har bir muammoning yechimi bor.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "blush",
+      "pronunciation_uz": "blash",
+      "uzbek": "uyatdan qizarmoq",
+      "pos": "verb",
+      "example_en": "The shy student blushed when the principal praised her.",
+      "example_uz": "Direktor maqtaganida tortinchoq oʻquvchi qiz uyalib qizardi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "yawn",
+      "pronunciation_uz": "yon",
+      "uzbek": "esnamoq",
+      "pos": "verb",
+      "example_en": "He began to yawn because it was past midnight.",
+      "example_uz": "Yarim tundan oshgani uchun u esnay boshladi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "sigh",
+      "pronunciation_uz": "say",
+      "uzbek": "uf tortmoq, xoʻrsinmoq",
+      "pos": "verb",
+      "example_en": "She sighed with relief when the exam was over.",
+      "example_uz": "Imtihon tugagach, u yengil nafas olib xoʻrsindi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "pant",
+      "pronunciation_uz": "pent",
+      "uzbek": "hansiramoq, halloslamoq",
+      "pos": "verb",
+      "example_en": "The runner was panting heavily at the finish line.",
+      "example_uz": "Yuguruvchi marraga yetganda qattiq hansirab nafas olardi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "inhale",
+      "pronunciation_uz": "inheyl",
+      "uzbek": "nafas olmoq, ichga tortmoq",
+      "pos": "verb",
+      "example_en": "Inhale slowly through your nose for four seconds.",
+      "example_uz": "Toʻrt soniya davomida burningiz orqali sekin nafas oling.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "exhale",
+      "pronunciation_uz": "eksheyl",
+      "uzbek": "nafas chiqarmoq",
+      "pos": "verb",
+      "example_en": "Exhale gently through your mouth to release tension.",
+      "example_uz": "Zoʻriqishni ketkazish uchun ogʻzingiz orqali ohista nafas chiqaring.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "sneeze",
+      "pronunciation_uz": "sniz",
+      "uzbek": "aksirmoq, chuchkurmoq",
+      "pos": "verb",
+      "example_en": "Black pepper dust made the cook sneeze.",
+      "example_uz": "Qora murch kukuni oshpazni aksirtirib yubordi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "hiccup",
+      "pronunciation_uz": "hikkap",
+      "uzbek": "hiqichoq tutmoq; hiqichoq",
+      "pos": "verb",
+      "example_en": "Drinking a glass of cold water helps stop hiccups.",
+      "example_uz": "Bir stakan sovuq suv ichish hiqichoqni toʻxtatishga yordam beradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "snore",
+      "pronunciation_uz": "snor",
+      "uzbek": "xurrak otmoq",
+      "pos": "verb",
+      "example_en": "Sleeping on your side can prevent you from snoring.",
+      "example_uz": "Yonboshlab uxlash xurrak otishning oldini olishi mumkin.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "shiver",
+      "pronunciation_uz": "shiver",
+      "uzbek": "titramoq, qaltiramoq (sovuqdan)",
+      "pos": "verb",
+      "example_en": "The wet puppy was shivering in the autumn rain.",
+      "example_uz": "Hoʻl kuchukcha kuzgi yomgʻirda qaltirab turardi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tremble",
+      "pronunciation_uz": "trembl",
+      "uzbek": "qaltiramoq, titramoq (hayajondan)",
+      "pos": "verb",
+      "example_en": "His hands trembled slightly before going on stage.",
+      "example_uz": "Sahna oldidan uning qoʻllari biroz titrardi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "shudder",
+      "pronunciation_uz": "shadder",
+      "uzbek": "seskanmoq, eti jimirlamoq",
+      "pos": "verb",
+      "example_en": "He shuddered at the thought of the freezing water.",
+      "example_uz": "Muzdek suv haqida oʻylab u seskanib ketdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "whisper",
+      "pronunciation_uz": "visper",
+      "uzbek": "pichirlamoq, shivirlamoq",
+      "pos": "verb",
+      "example_en": "Please whisper when you are inside the reading room.",
+      "example_uz": "Oʻquv zalida boʻlganingizda, iltimos, pichirlab gapiring.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "gesture",
+      "pronunciation_uz": "jescher",
+      "uzbek": "imo-ishora, qoʻl harakati",
+      "pos": "noun",
+      "example_en": "He made a welcoming gesture toward the open door.",
+      "example_uz": "U ochiq eshik tomon marhamat maʼnosida qoʻl ishorasini qildi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "reflex",
+      "pronunciation_uz": "rifleks",
+      "uzbek": "refleks, beixtiyor harakat",
+      "pos": "noun",
+      "example_en": "Pulling your hand away from a hot stove is a fast reflex.",
+      "example_uz": "Qoʻlni qizigan pechdan tortib olish tez sodir boʻladigan refleksdir.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "coordination",
+      "pronunciation_uz": "koordineyshn",
+      "uzbek": "harakatlar uygʻunligi, koordinatsiya",
+      "pos": "noun",
+      "example_en": "Playing table tennis improves hand-eye coordination.",
+      "example_uz": "Stol tennisi oʻynash qoʻl va koʻz harakatlari uygʻunligini yaxshilaydi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "agility",
+      "pronunciation_uz": "ejiliti",
+      "uzbek": "chaqqonlik, epchillik",
+      "pos": "noun",
+      "example_en": "Gymnasts train daily to develop balance and agility.",
+      "example_uz": "Gimnastikachilar muvozanat va epchillikni rivojlantirish uchun har kuni mashq qiladilar.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "crown of the head",
+      "pronunciation_uz": "kraun ov ze hed",
+      "uzbek": "bosh tepasi",
+      "pos": "noun",
+      "example_en": "The skullcap sits neatly on the crown of the head.",
+      "example_uz": "Doʻppi bosh tepasida chiroyli joylashib turadi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "jawbone",
+      "pronunciation_uz": "joboun",
+      "uzbek": "jagʻ suyagi",
+      "pos": "noun",
+      "example_en": "The lower jawbone is the only movable bone of the skull.",
+      "example_uz": "Pastki jagʻ suyagi bosh chanogʻidagi yagona harakatchan suyakdir.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "breastbone",
+      "pronunciation_uz": "brestboun",
+      "uzbek": "toʻsh suyagi",
+      "pos": "noun",
+      "example_en": "The ribs are connected at the front to the breastbone.",
+      "example_uz": "Qovurgʻalar old tomondan toʻsh suyagiga birikkan.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "tailbone",
+      "pronunciation_uz": "teylboun",
+      "uzbek": "dumgʻaza suyagi",
+      "pos": "noun",
+      "example_en": "Falling on the ice bruised his tailbone.",
+      "example_uz": "Muz ustida yiqilish uning dumgʻaza suyagini lat yedirdi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "hamstring",
+      "pronunciation_uz": "hemstring",
+      "uzbek": "son orqa mushagi va payi",
+      "pos": "noun",
+      "example_en": "Runners stretch their hamstrings carefully before a race.",
+      "example_uz": "Yuguruvchilar musobaqa oldidan son orqa paylarini ehtiyotkorlik bilan choʻzadilar.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "biceps",
+      "pronunciation_uz": "bayseps",
+      "uzbek": "elka old mushagi, bitseps",
+      "pos": "noun",
+      "example_en": "Lifting dumbbells strengthens the biceps in your upper arm.",
+      "example_uz": "Gantel koʻtarish yelkaning old mushaklarini (bitsepsni) chiniqtiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    },
+    {
+      "english": "vocal cords",
+      "pronunciation_uz": "voukal kordz",
+      "uzbek": "ovoz paychalari",
+      "pos": "noun",
+      "example_en": "Warm herbal tea rests the singer's vocal cords.",
+      "example_uz": "Iliq giyohli choy xonandaning ovoz paychalarini tinchlantiradi.",
+      "category": "Inson tanasi, aʼzolar va harakat"
+    }
+  ]
+}

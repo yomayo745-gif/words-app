@@ -1,0 +1,979 @@
+{
+  "title": "Pul, bank ishi, moliya va soliq",
+  "category": "Money, Banking & Finance",
+  "group": "topic",
+  "words": [
+    {
+      "english": "money",
+      "pronunciation_uz": "mani",
+      "uzbek": "pul",
+      "pos": "noun",
+      "example_en": "Save a portion of your money each month for future goals.",
+      "example_uz": "Kelajakdagi maqsadlar uchun har oyda pulingizning bir qismini jamgʻarib boring.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "safe",
+      "pronunciation_uz": "seyf",
+      "uzbek": "seyf (temir sandiq)",
+      "pos": "noun",
+      "example_en": "Important contracts and jewelry are locked inside the steel safe.",
+      "example_uz": "Muhim shartnomalar va zargarlik buyumlari poʻlat seyf ichida qulflangan.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "vault",
+      "pronunciation_uz": "volt",
+      "uzbek": "bank ombori (xazinasi)",
+      "pos": "noun",
+      "example_en": "Gold bars are stored inside the underground bank vault.",
+      "example_uz": "Oltin quymalar yer ostidagi bank xazinasida saqlanadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "treasury",
+      "pronunciation_uz": "trejeri",
+      "uzbek": "gʻazna, davlat xazinasi",
+      "pos": "noun",
+      "example_en": "Tax revenues flow directly into the state treasury.",
+      "example_uz": "Soliq tushumlari toʻgʻridan-toʻgʻri davlat gʻaznasiga kelib tushadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "central bank",
+      "pronunciation_uz": "sentral benk",
+      "uzbek": "markaziy bank",
+      "pos": "noun",
+      "example_en": "The central bank regulates the money supply and key interest rate.",
+      "example_uz": "Markaziy bank pul massasini va asosiy foiz stavkasini tartibga soladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "teller",
+      "pronunciation_uz": "teler",
+      "uzbek": "bank kassiri, operatsion xodim",
+      "pos": "noun",
+      "example_en": "The bank teller counted the banknotes on an electronic machine.",
+      "example_uz": "Bank kassiri qogʻoz pullarni elektron mashinada sanadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "account",
+      "pronunciation_uz": "ekaunt",
+      "uzbek": "bank hisobraqami, hisob",
+      "pos": "noun",
+      "example_en": "He opened a savings account at the commercial bank.",
+      "example_uz": "U tijorat bankida jamgʻarma hisobraqamini ochdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "savings",
+      "pronunciation_uz": "seyvingz",
+      "uzbek": "jamgʻarma, yigʻilgan pul",
+      "pos": "noun",
+      "example_en": "They used their family savings as a down payment on an apartment.",
+      "example_uz": "Ular oilaviy jamgʻarmalarini kvartira uchun boshlangʻich toʻlov sifatida ishlatishdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "withdrawal",
+      "pronunciation_uz": "uithdroal",
+      "uzbek": "pul yechib olish (hisobdan)",
+      "pos": "noun",
+      "example_en": "You receive an SMS notification after every cash withdrawal.",
+      "example_uz": "Har bir naqd pul yechib olingandan soʻng sizga SMS-xabarnoma keladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "remittance",
+      "pronunciation_uz": "rimitans",
+      "uzbek": "pul oʻtkazmasi (xalqaro pul joʻnatmasi)",
+      "pos": "noun",
+      "example_en": "Mobile apps make receiving an international remittance fast and easy.",
+      "example_uz": "Mobil ilovalar xalqaro pul oʻtkazmasini qabul qilishni tez va oson qiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "wire transfer",
+      "pronunciation_uz": "uayr trensfer",
+      "uzbek": "bank pul oʻtkazmasi",
+      "pos": "noun",
+      "example_en": "The importer paid for the machinery by international wire transfer.",
+      "example_uz": "Import qiluvchi uskunalar haqini xalqaro bank oʻtkazmasi orqali toʻladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "transaction",
+      "pronunciation_uz": "trenzekshn",
+      "uzbek": "tranzaksiya, moliyaviy operatsiya",
+      "pos": "noun",
+      "example_en": "Every electronic transaction is recorded in the bank database.",
+      "example_uz": "Har bir elektron tranzaksiya bank maʼlumotlar bazasida qayd etiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "down payment",
+      "pronunciation_uz": "daun peyment",
+      "uzbek": "boshlangʻich toʻlov (oldindan beriladigan badal)",
+      "pos": "noun",
+      "example_en": "The buyer paid a twenty percent down payment for the new car.",
+      "example_uz": "Xaridor yangi mashina uchun yigirma foizlik boshlangʻich toʻlovni amalga oshirdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "reimbursement",
+      "pronunciation_uz": "riimbersment",
+      "uzbek": "xarajatlarni qoplab berish, kompensatsiya",
+      "pos": "noun",
+      "example_en": "Keep your hotel receipts for travel expense reimbursement.",
+      "example_uz": "Xizmat safari xarajatlarini qoplab olish uchun mehmonxona cheklarini saqlab qoʻying.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "debit card",
+      "pronunciation_uz": "debit kard",
+      "uzbek": "debet karta (oddiy bank kartasi)",
+      "pos": "noun",
+      "example_en": "Salary is transferred directly to the employee's debit card.",
+      "example_uz": "Ish haqi toʻgʻridan-toʻgʻri xodimning debet kartasiga oʻtkaziladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "credit card",
+      "pronunciation_uz": "kredit kard",
+      "uzbek": "kredit karta",
+      "pos": "noun",
+      "example_en": "Pay off your credit card balance on time to avoid extra interest.",
+      "example_uz": "Qoʻshimcha foiz toʻlamaslik uchun kredit karta qarzini oʻz vaqtida yoping.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "ATM",
+      "pronunciation_uz": "ey-ti-em",
+      "uzbek": "bankomat",
+      "pos": "noun",
+      "example_en": "There is a twenty-four-hour ATM at the metro entrance.",
+      "example_uz": "Metroga kiraverishda tunu kun ishlaydigan bankomat bor.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "overdraft",
+      "pronunciation_uz": "ouverdraft",
+      "uzbek": "overdraft (hisobdagi mablagʻdan ortiqcha sarf)",
+      "pos": "noun",
+      "example_en": "The bank allows a small short-term overdraft for corporate clients.",
+      "example_uz": "Bank korporativ mijozlar uchun qisqa muddatli kichik overdraftga ruxsat beradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "mortgage",
+      "pronunciation_uz": "morgij",
+      "uzbek": "ipoteka krediti",
+      "pos": "noun",
+      "example_en": "Young families can apply for a twenty-year housing mortgage.",
+      "example_uz": "Yosh oilalar yigirma yillik uy-joy ipoteka kreditiga ariza topshirishlari mumkin.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "arrears",
+      "pronunciation_uz": "erirz",
+      "uzbek": "muddati oʻtgan qarzdorlik, boqimanda",
+      "pos": "noun",
+      "example_en": "Tenants must clear any utility arrears before moving out.",
+      "example_uz": "Ijarachilar koʻchib chiqishdan oldin kommunal xizmatlar boʻyicha muddati oʻtgan qarzdorlikni toʻlashlari shart.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "creditor",
+      "pronunciation_uz": "kreditor",
+      "uzbek": "kreditor, qarz beruvchi",
+      "pos": "noun",
+      "example_en": "The company reached a repayment schedule with its main creditor.",
+      "example_uz": "Kompaniya oʻzining asosiy kreditori bilan qarzni qaytarish jadvali boʻyicha kelishib oldi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "debtor",
+      "pronunciation_uz": "detor",
+      "uzbek": "qarzdor",
+      "pos": "noun",
+      "example_en": "The bank sent a polite reminder notice to the debtor.",
+      "example_uz": "Bank qarzdorga xushmuomala eslatma xabarnomasini yubordi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "collateral",
+      "pronunciation_uz": "kolateral",
+      "uzbek": "garov, kredit taʼminoti",
+      "pos": "noun",
+      "example_en": "The commercial building was used as collateral for the bank loan.",
+      "example_uz": "Tijorat binosi bank krediti uchun garov sifatida qoʻyildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "guarantor",
+      "pronunciation_uz": "gerentor",
+      "uzbek": "kafil (kredit boʻyicha kafil shaxs)",
+      "pos": "noun",
+      "example_en": "His older brother signed the loan contract as a guarantor.",
+      "example_uz": "Uning akasi kredit shartnomasiga kafil sifatida imzo qoʻydi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "interest",
+      "pronunciation_uz": "interest",
+      "uzbek": "foiz (kredit yoki omonat foizi)",
+      "pos": "noun",
+      "example_en": "The savings account earns compound interest every month.",
+      "example_uz": "Jamgʻarma hisobraqami har oyda murakkab foiz daromadini keltiradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "interest rate",
+      "pronunciation_uz": "interest reyt",
+      "uzbek": "foiz stavkasi",
+      "pos": "noun",
+      "example_en": "A lower interest rate encourages businesses to invest in new factories.",
+      "example_uz": "Past foiz stavkasi tadbirkorlarni yangi zavodlarga sarmoya kiritishga undaydi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "principal sum",
+      "pronunciation_uz": "prinsipal sam",
+      "uzbek": "asosiy qarz summasi (foizsiz asosiy qarz)",
+      "pos": "noun",
+      "example_en": "Each monthly payment reduces both the interest and the principal sum.",
+      "example_uz": "Har bir oylik toʻlov ham foizni, ham asosiy qarz summasini kamaytiradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "rebate",
+      "pronunciation_uz": "ribeyt",
+      "uzbek": "keshbek, toʻlovning bir qismini qaytarish",
+      "pos": "noun",
+      "example_en": "Homeowners get a tax rebate for installing solar panels.",
+      "example_uz": "Uy egalari quyosh panellarini oʻrnatganlik uchun soliq keshbegini oladilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "budget",
+      "pronunciation_uz": "bajet",
+      "uzbek": "byudjet, daromad va xarajatlar smetasi",
+      "pos": "noun",
+      "example_en": "Planning a monthly family budget helps avoid unnecessary spending.",
+      "example_uz": "Oylik oilaviy byudjetni rejalashtirish ortiqcha xarajatlardan saqlanishga yordam beradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "earnings",
+      "pronunciation_uz": "erningz",
+      "uzbek": "ishlab topilgan daromad, foyda",
+      "pos": "noun",
+      "example_en": "The company reinvested half of its annual earnings into modern equipment.",
+      "example_uz": "Kompaniya yillik daromadining yarmini zamonaviy uskunalarga qayta tikdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "proceeds",
+      "pronunciation_uz": "prousidz",
+      "uzbek": "sotuvdan tushgan pul (tushum)",
+      "pos": "noun",
+      "example_en": "All proceeds from the charity concert went to the children's hospital.",
+      "example_uz": "Xayriya konsertidan tushgan barcha mablagʻ bolalar shifoxonasiga yoʻnaltirildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "profit",
+      "pronunciation_uz": "profit",
+      "uzbek": "foyda, sof daromad",
+      "pos": "noun",
+      "example_en": "The bakery made a healthy net profit in its first year.",
+      "example_uz": "Nonvoyxona birinchi yilidayoq yaxshigina sof foyda koʻrdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "dividend",
+      "pronunciation_uz": "dividend",
+      "uzbek": "dividend (aksiya boʻyicha foyda ulushi)",
+      "pos": "noun",
+      "example_en": "The bank paid an annual dividend to all its shareholders.",
+      "example_uz": "Bank oʻzining barcha aksiyadorlariga yillik dividend toʻladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "royalty",
+      "pronunciation_uz": "royalti",
+      "uzbek": "royalti, qalam haqi (mualliflik haqi)",
+      "pos": "noun",
+      "example_en": "The writer receives a ten percent royalty on every book sold.",
+      "example_uz": "Yozuvchi sotilgan har bir kitobdan oʻn foiz mualliflik haqi oladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "expense",
+      "pronunciation_uz": "ikspens",
+      "uzbek": "xarajat, chiqim",
+      "pos": "noun",
+      "example_en": "Rent is the largest monthly expense for the small shop.",
+      "example_uz": "Ijara haqi kichik doʻkon uchun eng katta oylik xarajatdir.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "expenditure",
+      "pronunciation_uz": "ikspendicher",
+      "uzbek": "sarflangan mablagʻ, xarajatlar",
+      "pos": "noun",
+      "example_en": "Public expenditure on schools and hospitals rose this year.",
+      "example_uz": "Bu yil maktablar va shifoxonalar uchun davlat xarajatlari oshdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "overhead",
+      "pronunciation_uz": "ouverhed",
+      "uzbek": "ustama xarajatlar (ijara, kommunal va maʼmuriy xarajatlar)",
+      "pos": "noun",
+      "example_en": "Working from a smaller office reduced their monthly overhead.",
+      "example_uz": "Kichikroq ofisda ishlash ularning oylik maʼmuriy xarajatlarini kamaytirdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "loss",
+      "pronunciation_uz": "los",
+      "uzbek": "zarar, yoʻqotish",
+      "pos": "noun",
+      "example_en": "Good crop insurance protected the orchard from financial loss.",
+      "example_uz": "Yaxshi hosil sugʻurtasi bogʻni moliyaviy zarardan himoya qildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "asset",
+      "pronunciation_uz": "eset",
+      "uzbek": "aktiv, mol-mulk, boylik",
+      "pos": "noun",
+      "example_en": "Real estate and machinery are listed as fixed assets on the balance sheet.",
+      "example_uz": "Koʻchmas mulk va dastgohlar balansda asosiy vositalar (aktivlar) sifatida koʻrsatiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "equity",
+      "pronunciation_uz": "ekviti",
+      "uzbek": "xususiy kapital, aksiya ulushi",
+      "pos": "noun",
+      "example_en": "The investor bought a twenty percent equity stake in the startup.",
+      "example_uz": "Investor startapning yigirma foizlik ulushini sotib oldi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "wealth",
+      "pronunciation_uz": "uelth",
+      "uzbek": "boylik, farovonlik",
+      "pos": "noun",
+      "example_en": "Knowledge and health are the greatest wealth a person can have.",
+      "example_uz": "Bilim va salomatlik inson ega boʻlishi mumkin boʻlgan eng katta boylikdir.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "fortune",
+      "pronunciation_uz": "forchen",
+      "uzbek": "katta boylik, davlat",
+      "pos": "noun",
+      "example_en": "The merchant built a fortune through honest silk trading.",
+      "example_uz": "Savdogar halol ipak savdosi orqali katta davlat orttirdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "property",
+      "pronunciation_uz": "properti",
+      "uzbek": "mulk, mol-mulk",
+      "pos": "noun",
+      "example_en": "Private property is protected by the constitution.",
+      "example_uz": "Xususiy mulk konstitutsiya bilan himoyalanadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "gold reserve",
+      "pronunciation_uz": "gould rizerv",
+      "uzbek": "oltin zaxirasi",
+      "pos": "noun",
+      "example_en": "A strong gold reserve supports the stability of the national currency.",
+      "example_uz": "Kuchli oltin zaxirasi milliy valyuta barqarorligini qoʻllab-quvvatlaydi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "endowment",
+      "pronunciation_uz": "indaument",
+      "uzbek": "xayriya maqsadli kapital fond",
+      "pos": "noun",
+      "example_en": "The university endowment funds scholarships for talented youth.",
+      "example_uz": "Universitet maqsadli fondi iqtidorli yoshlar uchun stipendiyalarni moliyalashtiradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "subsidy",
+      "pronunciation_uz": "sabsidi",
+      "uzbek": "subsidiya (davlat tomonidan beriladigan moliyaviy yordam)",
+      "pos": "noun",
+      "example_en": "Farmers receive a state subsidy for installing water-saving equipment.",
+      "example_uz": "Fermerlar suv tejovchi uskunalar oʻrnatganlik uchun davlat subsidiyasini oladilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "investment",
+      "pronunciation_uz": "investment",
+      "uzbek": "investitsiya, sarmoya",
+      "pos": "noun",
+      "example_en": "Foreign investment helped build the new wind power plant.",
+      "example_uz": "Xorijiy investitsiya yangi shamol elektr stansiyasini qurishga yordam berdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "investor",
+      "pronunciation_uz": "investor",
+      "uzbek": "investor, sarmoyador",
+      "pos": "noun",
+      "example_en": "An angel investor provided seed money for the software company.",
+      "example_uz": "Biznes-farishta (investor) dasturiy taʼminot kompaniyasiga boshlangʻich sarmoya kiritdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "venture capital",
+      "pronunciation_uz": "vencher kepital",
+      "uzbek": "venchur kapital (innovatsion loyihalar sarmoyasi)",
+      "pos": "noun",
+      "example_en": "The biotech firm raised two million dollars in venture capital.",
+      "example_uz": "Biotexnologiya firmasi ikki million dollar venchur sarmoyasini jalb qildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "shareholding",
+      "pronunciation_uz": "sherhoulding",
+      "uzbek": "aksiyalar paketi (egalik qilinadigan aksiyalar ulushi)",
+      "pos": "noun",
+      "example_en": "The investment fund increased its shareholding in the textile mill.",
+      "example_uz": "Investitsiya fondi toʻqimachilik kombinatidagi aksiyalar paketini koʻpaytirdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "share",
+      "pronunciation_uz": "sher",
+      "uzbek": "aksiya, ulush",
+      "pos": "noun",
+      "example_en": "He bought one hundred shares of the energy company.",
+      "example_uz": "U energetika kompaniyasining yuzta aksiyasini sotib oldi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "shareholder",
+      "pronunciation_uz": "sherhoulder",
+      "uzbek": "aksiyador",
+      "pos": "noun",
+      "example_en": "Every shareholder has the right to vote at the annual meeting.",
+      "example_uz": "Har bir aksiyador yillik yigʻilishda ovoz berish huquqiga ega.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "stockholder",
+      "pronunciation_uz": "stokhoulder",
+      "uzbek": "aksiya egasi, aksiyador",
+      "pos": "noun",
+      "example_en": "The quarterly report was mailed to every stockholder.",
+      "example_uz": "Choraklik hisobot har bir aksiya egasiga yuborildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "security",
+      "pronunciation_uz": "sikyuriti",
+      "uzbek": "qimmatli qogʻoz (yoki xavfsizlik)",
+      "pos": "noun",
+      "example_en": "Stocks and bonds are traded on the securities market.",
+      "example_uz": "Aksiyalar va obligatsiyalar qimmatli qogʻozlar bozorida sotiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "stock exchange",
+      "pronunciation_uz": "stok ikscheynj",
+      "uzbek": "fond birjasi",
+      "pos": "noun",
+      "example_en": "The Tashkent Stock Exchange lists shares of major joint-stock companies.",
+      "example_uz": "Toshkent fond birjasida yirik aksiyadorlik jamiyatlarining aksiyalari kotirovka qilinadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "bourse",
+      "pronunciation_uz": "burs",
+      "uzbek": "birja (valyuta yoki tovar birjasi)",
+      "pos": "noun",
+      "example_en": "Cotton and cement are traded daily on the commodity bourse.",
+      "example_uz": "Paxta va sement har kuni tovar-xomashyo birjasida sotiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "market index",
+      "pronunciation_uz": "market indeks",
+      "uzbek": "birja indeksi (bozor koʻrsatkichi)",
+      "pos": "noun",
+      "example_en": "The main market index rose by two percent after positive news.",
+      "example_uz": "Ijobiy yangiliklardan soʻng asosiy birja indeksi ikki foizga koʻtarildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "bull market",
+      "pronunciation_uz": "bul market",
+      "uzbek": "oʻsuvchi bozor (narxlar koʻtarilayotgan birja)",
+      "pos": "noun",
+      "example_en": "Investors made strong gains during the two-year bull market.",
+      "example_uz": "Ikki yillik oʻsuvchi bozor davrida investorlar katta daromad koʻrdilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "bear market",
+      "pronunciation_uz": "ber market",
+      "uzbek": "pasayuvchi bozor (narxlar tushayotgan birja)",
+      "pos": "noun",
+      "example_en": "Cautious traders move to safe bonds during a bear market.",
+      "example_uz": "Ehtiyotkor treyderlar pasayuvchi bozor paytida xavfsiz obligatsiyalarga oʻtadilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "speculation",
+      "pronunciation_uz": "spekyuleyshn",
+      "uzbek": "spekulyatsiya, chayqovchilik (birjada tavakkal savdo)",
+      "pos": "noun",
+      "example_en": "Short-term currency speculation carries a high risk of loss.",
+      "example_uz": "Qisqa muddatli valyuta spekulyatsiyasi yuqori zarar xavfiga ega.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "bankruptcy",
+      "pronunciation_uz": "benkraptsi",
+      "uzbek": "bankrotlik, sinish, kasodga uchrash",
+      "pos": "noun",
+      "example_en": "Careful financial planning saved the firm from bankruptcy.",
+      "example_uz": "Puxta moliyaviy rejalashtirish firmani bankrotlikdan saqlab qoldi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "insolvency",
+      "pronunciation_uz": "insolvensi",
+      "uzbek": "toʻlovga qobiliyatsizlik",
+      "pos": "noun",
+      "example_en": "Heavy debt and falling sales led the company into insolvency.",
+      "example_uz": "Katta qarz va savdoning tushib ketishi kompaniyani toʻlovga qobiliyatsizlik holatiga olib keldi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "liquidation",
+      "pronunciation_uz": "likvideyshn",
+      "uzbek": "tugatish (korxonani tugatib mulkini sotish)",
+      "pos": "noun",
+      "example_en": "During liquidation, the company's assets are sold to pay creditors.",
+      "example_uz": "Tugatish jarayonida kreditorlar bilan hisob-kitob qilish uchun kompaniya aktivlari sotiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "GDP",
+      "pronunciation_uz": "ji-di-pi",
+      "uzbek": "yalpi ichki mahsulot (YaIM)",
+      "pos": "noun",
+      "example_en": "The country's GDP grew by six percent last year.",
+      "example_uz": "Mamlakat yalpi ichki mahsuloti oʻtgan yili olti foizga oʻsdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "inflation",
+      "pronunciation_uz": "infleyshn",
+      "uzbek": "inflyatsiya (pulning qadrsizlanishi)",
+      "pos": "noun",
+      "example_en": "Keeping inflation low protects the purchasing power of wages.",
+      "example_uz": "Inflyatsiyani past darajada ushlab turish ish haqining xarid qobiliyatini himoya qiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "deflation",
+      "pronunciation_uz": "difleyshn",
+      "uzbek": "deflyatsiya (narxlarning umumiy pasayishi)",
+      "pos": "noun",
+      "example_en": "A seasonal deflation in food prices often occurs in summer.",
+      "example_uz": "Yozda koʻpincha oziq-ovqat narxlarining mavsumiy pasayishi kuzatiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "devaluation",
+      "pronunciation_uz": "divelyueyshn",
+      "uzbek": "devalvatsiya (valyuta qadrining pasayishi)",
+      "pos": "noun",
+      "example_en": "Currency devaluation makes imported goods more expensive.",
+      "example_uz": "Valyuta devalvatsiyasi import tovarlarini qimmatlashtiradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "recession",
+      "pronunciation_uz": "riseshn",
+      "uzbek": "retsessiya, iqtisodiy pasayish",
+      "pos": "noun",
+      "example_en": "Infrastructure projects helped the economy recover from the recession.",
+      "example_uz": "Infratuzilma loyihalari iqtisodiyotning pasayishdan chiqishiga yordam berdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "stagnation",
+      "pronunciation_uz": "stegneyshn",
+      "uzbek": "turgʻunlik (iqtisodiy turgʻunlik)",
+      "pos": "noun",
+      "example_en": "New tax reforms helped overcome economic stagnation.",
+      "example_uz": "Yangi soliq islohotlari iqtisodiy turgʻunlikni yengib oʻtishga yordam berdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "crisis",
+      "pronunciation_uz": "kraysis",
+      "uzbek": "inqiroz, krizis",
+      "pos": "noun",
+      "example_en": "Diversifying exports protects a country during a global financial crisis.",
+      "example_uz": "Eksportni diversifikatsiya qilish jahon moliyaviy inqirozi davrida mamlakatni himoya qiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "taxation",
+      "pronunciation_uz": "tekseyshn",
+      "uzbek": "soliqqa tortish, soliq tizimi",
+      "pos": "noun",
+      "example_en": "Fair and simple taxation encourages entrepreneurs to work legally.",
+      "example_uz": "Adolatli va sodda soliq tizimi tadbirkorlarni qonuniy ishlashga undaydi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "taxpayer",
+      "pronunciation_uz": "tekspeyer",
+      "uzbek": "soliq toʻlovchi",
+      "pos": "noun",
+      "example_en": "Each responsible taxpayer contributes to roads, schools, and healthcare.",
+      "example_uz": "Har bir masʼuliyatli soliq toʻlovchi yoʻllar, maktablar va tibbiyot rivojiga hissa qoʻshadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "income tax",
+      "pronunciation_uz": "inkam teks",
+      "uzbek": "daromad soligʻi",
+      "pos": "noun",
+      "example_en": "Personal income tax in Uzbekistan has a flat twelve percent rate.",
+      "example_uz": "Oʻzbekistonda jismoniy shaxslardan olinadigan daromad soligʻi oʻn ikki foizlik yagona stavkaga ega.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "VAT",
+      "pronunciation_uz": "vi-ey-ti",
+      "uzbek": "qoʻshilgan qiymat soligʻi (QQS)",
+      "pos": "noun",
+      "example_en": "The twelve percent VAT is included in the retail price on the receipt.",
+      "example_uz": "Oʻn ikki foizlik qoʻshilgan qiymat soligʻi chekdagi chakana narx ichiga kiritilgan.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "excise",
+      "pronunciation_uz": "eksayz",
+      "uzbek": "aksiz soligʻi",
+      "pos": "noun",
+      "example_en": "Tobacco and alcohol are subject to a high excise tax.",
+      "example_uz": "Tamaki va alkogol mahsulotlariga yuqori aksiz soligʻi solinadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "tariff",
+      "pronunciation_uz": "terif",
+      "uzbek": "bojxona tarifi (boj stavkasi) yoki narx jadvali",
+      "pos": "noun",
+      "example_en": "Zero import tariffs were set for solar panels and generators.",
+      "example_uz": "Quyosh panellari va generatorlar uchun nol darajali import bojlari belgilandi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "customs duty",
+      "pronunciation_uz": "kastomz dyuti",
+      "uzbek": "bojxona boji",
+      "pos": "noun",
+      "example_en": "The importer paid the customs duty through the electronic portal.",
+      "example_uz": "Import qiluvchi bojxona bojini elektron portal orqali toʻladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "exemption",
+      "pronunciation_uz": "igzempshn",
+      "uzbek": "soliq imtiyozi (soliqdan ozod qilish)",
+      "pos": "noun",
+      "example_en": "IT Park residents enjoy a corporate tax exemption.",
+      "example_uz": "IT-park rezidentlari korporativ soliqdan ozod qilish imtiyozidan foydalanadilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "deduction",
+      "pronunciation_uz": "didakshn",
+      "uzbek": "chegirib qolish (soliq yoki maoshdan chegirma)",
+      "pos": "noun",
+      "example_en": "Charitable donations qualify for a tax deduction.",
+      "example_uz": "Xayriya ehsonlari soliq chegirilmasiga ega boʻlish huquqini beradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "accounting",
+      "pronunciation_uz": "ekaunting",
+      "uzbek": "buxgalteriya hisobi",
+      "pos": "noun",
+      "example_en": "Cloud accounting software simplifies monthly tax reporting.",
+      "example_uz": "Bulutli buxgalteriya dasturi oylik soliq hisobotlarini soddalashtiradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "bookkeeping",
+      "pronunciation_uz": "bukkiping",
+      "uzbek": "hisob-kitob yuritish (hisobchilik)",
+      "pos": "noun",
+      "example_en": "Accurate bookkeeping is essential for every small shop.",
+      "example_uz": "Har bir kichik doʻkon uchun aniq hisob-kitob yuritish juda muhimdir.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "ledger",
+      "pronunciation_uz": "lejer",
+      "uzbek": "bosh hisob kitobi, daftar (buxgalteriya daftari)",
+      "pos": "noun",
+      "example_en": "All debit and credit entries are recorded in the general ledger.",
+      "example_uz": "Barcha debet va kredit yozuvlari bosh buxgalteriya kitobida qayd etiladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "balance sheet",
+      "pronunciation_uz": "belens shit",
+      "uzbek": "buxgalteriya balansi",
+      "pos": "noun",
+      "example_en": "The balance sheet shows the company's assets and liabilities.",
+      "example_uz": "Buxgalteriya balansi kompaniyaning aktivlari va majburiyatlarini koʻrsatadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "audit",
+      "pronunciation_uz": "odit",
+      "uzbek": "audit, moliyaviy tekshiruv",
+      "pos": "noun",
+      "example_en": "The bank undergoes an independent international audit every year.",
+      "example_uz": "Bank har yili mustaqil xalqaro audit tekshiruvidan oʻtadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "valuation",
+      "pronunciation_uz": "velyueyshn",
+      "uzbek": "baholash (mulk yoki biznes qiymatini aniqlash)",
+      "pos": "noun",
+      "example_en": "The startup's valuation reached ten million dollars after the new round.",
+      "example_uz": "Yangi bosqichdan soʻng startapning baholanish qiymati oʻn million dollarga yetdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "depreciation",
+      "pronunciation_uz": "diprishieyshn",
+      "uzbek": "amortizatsiya, eskirish (qiymatning kamayishi)",
+      "pos": "noun",
+      "example_en": "Accountants calculate annual depreciation for factory vehicles.",
+      "example_uz": "Hisobchilar zavod transport vositalari uchun yillik amortizatsiyani hisoblaydilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "insurance",
+      "pronunciation_uz": "inshurens",
+      "uzbek": "sugʻurta",
+      "pos": "noun",
+      "example_en": "Every car owner must have valid civil liability insurance.",
+      "example_uz": "Har bir avtomobil egasi amaldagi fuqarolik javobgarligi sugʻurtasiga ega boʻlishi shart.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "policyholder",
+      "pronunciation_uz": "polisihoulder",
+      "uzbek": "sugʻurta polisi egasi (sugʻurtalanuvchi)",
+      "pos": "noun",
+      "example_en": "The insurance company paid compensation to the policyholder within a week.",
+      "example_uz": "Sugʻurta kompaniyasi polis egasiga bir hafta ichida tovon pulini toʻlab berdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "premium",
+      "pronunciation_uz": "primium",
+      "uzbek": "sugʻurta badali (mukofoti)",
+      "pos": "noun",
+      "example_en": "Drivers with no accidents pay a lower annual insurance premium.",
+      "example_uz": "Avariyasiz yurgan haydovchilar kamroq yillik sugʻurta badali toʻlaydilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "compensation",
+      "pronunciation_uz": "kompenseyshn",
+      "uzbek": "kompensatsiya, tovon puli",
+      "pos": "noun",
+      "example_en": "Farmers received state compensation for crops damaged by frost.",
+      "example_uz": "Dehqonlar sovuq urgan ekinlar uchun davlat kompensatsiyasini oldilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "pension fund",
+      "pronunciation_uz": "penshn fand",
+      "uzbek": "pensiya jamgʻarmasi",
+      "pos": "noun",
+      "example_en": "Monthly social contributions are transferred to the state pension fund.",
+      "example_uz": "Oylik ijtimoiy badallar davlat pensiya jamgʻarmasiga oʻtkaziladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "charity",
+      "pronunciation_uz": "cheriti",
+      "uzbek": "xayriya, saxovat",
+      "pos": "noun",
+      "example_en": "The entrepreneur donated ten percent of his profit to charity.",
+      "example_uz": "Tadbirkor oʻz foydasining oʻn foizini xayriya ishlariga ehson qildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "donation",
+      "pronunciation_uz": "douneyshn",
+      "uzbek": "xayriya ehsoni, ianot",
+      "pos": "noun",
+      "example_en": "Your generous donation will help buy books for rural libraries.",
+      "example_uz": "Sizning saxovatli ehsoningiz qishloq kutubxonalari uchun kitoblar sotib olishga yordam beradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "save",
+      "pronunciation_uz": "seyv",
+      "uzbek": "jamgʻarmoq, tejamoq",
+      "pos": "verb",
+      "example_en": "They save twenty percent of their monthly income for a house.",
+      "example_uz": "Ular uy olish uchun oylik daromadlarining yigirma foizini jamgʻarib boradilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "owe",
+      "pronunciation_uz": "ou",
+      "uzbek": "qarzdor boʻlmoq",
+      "pos": "verb",
+      "example_en": "After paying the final installment, we no longer owe the bank anything.",
+      "example_uz": "Oxirgi boʻlib toʻlash qismini toʻlaganimizdan soʻng, bankdan hech qanday qarzimiz qolmadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "repay",
+      "pronunciation_uz": "ripey",
+      "uzbek": "qarzni qaytarmoq, uzmoq",
+      "pos": "verb",
+      "example_en": "The student will repay the educational loan after starting work.",
+      "example_uz": "Talaba ish boshlaganidan soʻng taʼlim kreditini qaytaradi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "withdraw",
+      "pronunciation_uz": "uithdro",
+      "uzbek": "yechib olmoq (hisobdan yoki bankomatdan pul)",
+      "pos": "verb",
+      "example_en": "You can withdraw cash from any ATM across the city.",
+      "example_uz": "Shahar boʻylab istalgan bankomatdan naqd pul yechib olishingiz mumkin.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "remit",
+      "pronunciation_uz": "rimit",
+      "uzbek": "pul joʻnatmoq, oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "Workers abroad remit money to their families through banking apps.",
+      "example_uz": "Xorijdagi ishchilar bank ilovalari orqali oilalariga pul joʻnatadilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "insure",
+      "pronunciation_uz": "inshur",
+      "uzbek": "sugʻurtalamoq",
+      "pos": "verb",
+      "example_en": "Exporters always insure their cargo against damage during transport.",
+      "example_uz": "Eksport qiluvchilar har doim oʻz yuklarini tashish paytidagi shikastlanishdan sugʻurtalaydilar.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "donate",
+      "pronunciation_uz": "douneyt",
+      "uzbek": "ehson qilmoq, xayriya qilmoq",
+      "pos": "verb",
+      "example_en": "Graduates decided to donate fifty trees to their school garden.",
+      "example_uz": "Bitiruvchilar oʻz maktab bogʻiga ellik tup daraxt xayriya qilishga qaror qilishdi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "underwrite",
+      "pronunciation_uz": "anderrayt",
+      "uzbek": "moliyaviy kafillikka olmoq, sugʻurtalamoq",
+      "pos": "verb",
+      "example_en": "A consortium of banks agreed to underwrite the new bond issue.",
+      "example_uz": "Banklar konsorsiumi yangi obligatsiyalar chiqarilishini moliyaviy kafillikka olishga rozi boʻldi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "monetary",
+      "pronunciation_uz": "maniteri",
+      "uzbek": "pulga oid, monetar",
+      "pos": "adj",
+      "example_en": "The central bank announced a new monetary policy to curb inflation.",
+      "example_uz": "Markaziy bank inflyatsiyani jilovlash uchun yangi pul-kredit (monetar) siyosatini eʼlon qildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "fiscal",
+      "pronunciation_uz": "fiskal",
+      "uzbek": "fiskal, byudjet va soliqlarga oid",
+      "pos": "adj",
+      "example_en": "Every store uses an online cash register that prints a fiscal code.",
+      "example_uz": "Har bir doʻkon fiskal kodni chop etadigan onlayn nazorat-kassa mashinasidan foydalanadi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "solvent",
+      "pronunciation_uz": "solvent",
+      "uzbek": "toʻlovga qobiliyatli",
+      "pos": "adj",
+      "example_en": "Strong cash reserves kept the enterprise solvent during winter.",
+      "example_uz": "Kuchli pul zaxiralari qishda korxonaning toʻlovga qobiliyatli boʻlib qolishini taʼminladi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "bankrupt",
+      "pronunciation_uz": "benkrapt",
+      "uzbek": "bankrot boʻlgan, kasodga uchragan",
+      "pos": "adj",
+      "example_en": "The poorly managed firm went bankrupt after two years.",
+      "example_uz": "Yomon boshqarilgan firma ikki yildan soʻng bankrot boʻldi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "affluent",
+      "pronunciation_uz": "efluent",
+      "uzbek": "badavlat, boy, toʻq",
+      "pos": "adj",
+      "example_en": "Rising exports have made the orchard district more affluent.",
+      "example_uz": "Eksportning oʻsishi bogʻdorchilik tumanini yanada farovon va badavlat qildi.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "wealthy",
+      "pronunciation_uz": "uelthi",
+      "uzbek": "boy, badavlat",
+      "pos": "adj",
+      "example_en": "A wealthy merchant funded the construction of the historic madrasa.",
+      "example_uz": "Badavlat savdogar tarixiy madrasa qurilishini moliyalashtirgan.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    },
+    {
+      "english": "tax-free",
+      "pronunciation_uz": "teks-fri",
+      "uzbek": "soliqdan xoli (soliq olinmaydigan)",
+      "pos": "adj",
+      "example_en": "International tourists can claim a tax-free refund at the airport.",
+      "example_uz": "Xalqaro sayyohlar aeroportda soliqdan xoli (tax-free) qaytimni olishlari mumkin.",
+      "category": "Pul, bank ishi, moliya va soliq"
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "title": "Tabiat, oʻsimliklar va dehqonchilik",
+  "category": "Nature, Plants & Agriculture",
+  "group": "topic",
+  "words": [
+    {
+      "english": "acorn",
+      "pronunciation_uz": "eykorn",
+      "uzbek": "eman yongʻogʻi (choʻchqa yongʻoq)",
+      "pos": "noun",
+      "example_en": "A giant oak tree grows from a tiny acorn.",
+      "example_uz": "Ulkan eman daraxti kichkina eman yongʻogʻidan oʻsib chiqadi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "agriculture",
+      "pronunciation_uz": "agrikalcher",
+      "uzbek": "qishloq xoʻjaligi (dehqonchilik)",
+      "pos": "noun",
+      "example_en": "Modern agriculture uses drip irrigation to save water.",
+      "example_uz": "Zamonaviy qishloq xoʻjaligi suvni tejash uchun tomchilatib sugʻorishdan foydalanadi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "alfalfa",
+      "pronunciation_uz": "alfalfa",
+      "uzbek": "beda",
+      "pos": "noun",
+      "example_en": "Farmers grow alfalfa as nutritious fodder for cattle.",
+      "example_uz": "Dehqonlar chorva mollari uchun toʻyimli yem-xashak sifatida beda yetishtiradilar.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "algae",
+      "pronunciation_uz": "alji",
+      "uzbek": "suvoʻtlar",
+      "pos": "noun",
+      "example_en": "Green algae covered the surface of the quiet pond.",
+      "example_uz": "Yashil suvoʻtlar tinch hovuz yuzasini qoplagan edi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "arable",
+      "pronunciation_uz": "erabl",
+      "uzbek": "haydaladigan (ekin ekiladigan)",
+      "pos": "adj",
+      "example_en": "Only a fraction of the rocky valley is arable land.",
+      "example_uz": "Toshloq vodiyning faqat kichik bir qismi ekin ekiladigan yerdir.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "bark",
+      "pronunciation_uz": "bark",
+      "uzbek": "daraxt poʻstlogʻi",
+      "pos": "noun",
+      "example_en": "The rough bark protects the tree trunk from insects.",
+      "example_uz": "Dagʻal poʻstloq daraxt tanasini hasharotlardan himoya qiladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "barn",
+      "pronunciation_uz": "barn",
+      "uzbek": "omborxona (molxona/pichanxona)",
+      "pos": "noun",
+      "example_en": "The farmer stored bales of hay inside the wooden barn.",
+      "example_uz": "Fermer pichan toyalarini yogʻoch omborxona ichida saqladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "berry",
+      "pronunciation_uz": "beri",
+      "uzbek": "rezavor meva",
+      "pos": "noun",
+      "example_en": "Wild berries grow along the mountain stream.",
+      "example_uz": "Togʻ soyining boʻyida yovvoyi rezavor mevalar oʻsadi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "birch",
+      "pronunciation_uz": "berch",
+      "uzbek": "qayin daraxti",
+      "pos": "noun",
+      "example_en": "You can recognize a birch tree by its white bark.",
+      "example_uz": "Qayin daraxtini oq poʻstlogʻidan tanib olishingiz mumkin.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "bloom",
+      "pronunciation_uz": "blum",
+      "uzbek": "gullamoq",
+      "pos": "verb",
+      "example_en": "Tulips bloom on the hillsides in April.",
+      "example_uz": "Lolalar aprel oyida togʻ yonbagʻirlarida gullaydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "blossom",
+      "pronunciation_uz": "blosom",
+      "uzbek": "gul (daraxt guli)",
+      "pos": "noun",
+      "example_en": "Pink cherry blossoms covered the orchard in spring.",
+      "example_uz": "Bahorda pushti olcha gullari mevazorni qopladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "botanical",
+      "pronunciation_uz": "botanikal",
+      "uzbek": "botanikaga oid",
+      "pos": "adj",
+      "example_en": "We visited the Tashkent Botanical Garden on Sunday.",
+      "example_uz": "Biz yakshanba kuni Toshkent botanika bogʻiga tashrif buyurdik.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "bud",
+      "pronunciation_uz": "bad",
+      "uzbek": "kurtak (gʻuncha)",
+      "pos": "noun",
+      "example_en": "Green leaf buds appeared on the branches after the rain.",
+      "example_uz": "Yomgʻirdan keyin shoxlarda yashil barg kurtaklari paydo boʻldi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "bush",
+      "pronunciation_uz": "bush",
+      "uzbek": "buta",
+      "pos": "noun",
+      "example_en": "Roses grew on a thorny bush near the fence.",
+      "example_uz": "Panjaraning yonidagi tikanli butada atirgullar oʻsardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "cactus",
+      "pronunciation_uz": "kaktus",
+      "uzbek": "kaktus",
+      "pos": "noun",
+      "example_en": "A cactus stores water inside its thick stem.",
+      "example_uz": "Kaktus oʻzining qalin poyasi ichida suv saqlaydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "canopy",
+      "pronunciation_uz": "kenopi",
+      "uzbek": "daraxtlar soyaboni (shox-shabbalar qatlami)",
+      "pos": "noun",
+      "example_en": "Sunlight filtered through the dense forest canopy.",
+      "example_uz": "Quyosh nuri qalin oʻrmon shox-shabbalari orasidan sizib oʻtdi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "cedar",
+      "pronunciation_uz": "sidar",
+      "uzbek": "kedr daraxti",
+      "pos": "noun",
+      "example_en": "Cedar wood has a pleasant scent that repels moths.",
+      "example_uz": "Kedr yogʻochi kuyalarni haydaydigan yoqimli hidga ega.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "cereal",
+      "pronunciation_uz": "sirial",
+      "uzbek": "boshoqli don ekinlari",
+      "pos": "noun",
+      "example_en": "Wheat and oats are important cereal crops.",
+      "example_uz": "Bugʻdoy va suli muhim boshoqli don ekinlaridir.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "clover",
+      "pronunciation_uz": "klouver",
+      "uzbek": "sebarga",
+      "pos": "noun",
+      "example_en": "Bees gathered nectar from the white clover flowers.",
+      "example_uz": "Arilar oq sebarga gullaridan nektar yigʻdi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "compost",
+      "pronunciation_uz": "kompost",
+      "uzbek": "kompost (chirindi oʻgʻit)",
+      "pos": "noun",
+      "example_en": "Adding organic compost enriches the garden soil.",
+      "example_uz": "Organik kompost qoʻshish bogʻ tuprogʻini boyitadi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "conifer",
+      "pronunciation_uz": "konifer",
+      "uzbek": "ignabargli daraxt",
+      "pos": "noun",
+      "example_en": "Pines and firs are evergreen conifers.",
+      "example_uz": "Qaragʻay va oqqaragʻaylar doim yashil ignabargli daraxtlardir.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "countryside",
+      "pronunciation_uz": "kantrisayd",
+      "uzbek": "qishloq joy (shahar tashqarisi)",
+      "pos": "noun",
+      "example_en": "We spent the weekend walking in the quiet countryside.",
+      "example_uz": "Biz dam olish kunlarini tinch qishloq tabiatida sayr qilib oʻtkazdik.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "crop",
+      "pronunciation_uz": "krop",
+      "uzbek": "ekin (hosil)",
+      "pos": "noun",
+      "example_en": "Crop rotation keeps the farmland fertile.",
+      "example_uz": "Almashlab ekish ekin maydonlarini unumdor saqlaydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "cultivate",
+      "pronunciation_uz": "kaltiveyt",
+      "uzbek": "yerga ishlov bermoq (yetishtirmoq)",
+      "pos": "verb",
+      "example_en": "Villagers cultivate vegetables on the terraced slopes.",
+      "example_uz": "Qishloq aholisi pogʻonali yonbagʻirlarda sabzavot yetishtiradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "cypress",
+      "pronunciation_uz": "saypres",
+      "uzbek": "sarv daraxti (kiparis)",
+      "pos": "noun",
+      "example_en": "Slender cypress trees stand near the historic courtyard.",
+      "example_uz": "Tarixiy hovli yaqinida xushqomat sarv daraxtlari qad rostlagan.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "daisy",
+      "pronunciation_uz": "deyzi",
+      "uzbek": "moychechak (romashka)",
+      "pos": "noun",
+      "example_en": "A daisy has white petals around a yellow center.",
+      "example_uz": "Moychechakning sariq markazi atrofida oq gulbarglari boʻladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "dandelion",
+      "pronunciation_uz": "dendelayon",
+      "uzbek": "qoqioʻt (momoqaymoq)",
+      "pos": "noun",
+      "example_en": "The wind blew the fluffy seeds of the dandelion.",
+      "example_uz": "Shamol momoqaymoqning momiq urugʻlarini uchirib ketdi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "ditch",
+      "pronunciation_uz": "dich",
+      "uzbek": "zovur (ariqcha)",
+      "pos": "noun",
+      "example_en": "Dig a drainage ditch to carry away excess rainwater.",
+      "example_uz": "Ortiqcha yomgʻir suvini oqizib yuborish uchun zovur qazing.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "elm",
+      "pronunciation_uz": "elm",
+      "uzbek": "qayragʻoch (gujum)",
+      "pos": "noun",
+      "example_en": "A dense elm tree provides cool shade in the yard.",
+      "example_uz": "Qalin shoxli qayragʻoch hovlida salqin soya beradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "erosion",
+      "pronunciation_uz": "irojn",
+      "uzbek": "eroziya (tuproq yemirilishi)",
+      "pos": "noun",
+      "example_en": "Planting trees along slopes prevents soil erosion.",
+      "example_uz": "Yonbagʻirlar boʻylab daraxt ekish tuproq eroziyasining oldini oladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "eucalyptus",
+      "pronunciation_uz": "yukaliptus",
+      "uzbek": "evkalipt",
+      "pos": "noun",
+      "example_en": "Eucalyptus leaves contain aromatic essential oils.",
+      "example_uz": "Evkalipt barglarida xushboʻy efir moylari mavjud.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "evergreen",
+      "pronunciation_uz": "evergrin",
+      "uzbek": "doim yashil (archa kabi)",
+      "pos": "adj",
+      "example_en": "Evergreen trees keep their needles throughout the winter.",
+      "example_uz": "Doim yashil daraxtlar qish boʻyi oʻz ignabarglarini saqlab qoladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "farm",
+      "pronunciation_uz": "farm",
+      "uzbek": "ferma (dehqon xoʻjaligi)",
+      "pos": "noun",
+      "example_en": "His family runs a dairy and fruit farm.",
+      "example_uz": "Uning oilasi sut va meva xoʻjaligini boshqaradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "farmland",
+      "pronunciation_uz": "farmlend",
+      "uzbek": "ekin maydoni (qishloq xoʻjaligi yeri)",
+      "pos": "noun",
+      "example_en": "Fertile farmland stretches along both sides of the river.",
+      "example_uz": "Unumdor ekin maydonlari daryoning ikki qirgʻogʻi boʻylab choʻzilgan.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "fern",
+      "pronunciation_uz": "fern",
+      "uzbek": "qirqquloq (paporotnik)",
+      "pos": "noun",
+      "example_en": "Ferns thrive in damp and shady forest corners.",
+      "example_uz": "Qirqquloqlar oʻrmonning nam va soyali burchaklarida yaxshi oʻsadi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "fertilizer",
+      "pronunciation_uz": "fertilayzer",
+      "uzbek": "oʻgʻit",
+      "pos": "noun",
+      "example_en": "Natural fertilizer helps young saplings grow strong.",
+      "example_uz": "Tabiiy oʻgʻit yosh koʻchatlarning baquvvat oʻsishiga yordam beradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "field",
+      "pronunciation_uz": "fild",
+      "uzbek": "dala",
+      "pos": "noun",
+      "example_en": "Sunflowers turned toward the sun across the wide field.",
+      "example_uz": "Keng dalada kungaboqarlar quyoshga qarab burildi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "flora",
+      "pronunciation_uz": "flora",
+      "uzbek": "oʻsimlik dunyosi (flora)",
+      "pos": "noun",
+      "example_en": "The mountain reserve protects rare alpine flora.",
+      "example_uz": "Togʻ qoʻriqxonasi noyob alp oʻsimlik dunyosini himoya qiladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "flower",
+      "pronunciation_uz": "flauer",
+      "uzbek": "gul",
+      "pos": "noun",
+      "example_en": "She placed a fresh wild flower in a glass vase.",
+      "example_uz": "U shisha guldon ichiga yangi uzilgan dala gulini qoʻydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "foliage",
+      "pronunciation_uz": "fouliij",
+      "uzbek": "barglar (yaprogʻlar qoplami)",
+      "pos": "noun",
+      "example_en": "In October, the tree foliage turns gold and crimson.",
+      "example_uz": "Oktyabr oyida daraxt barglari oltin va qirmizi rangga kiradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "fungus",
+      "pronunciation_uz": "fangas",
+      "uzbek": "zamburugʻ",
+      "pos": "noun",
+      "example_en": "Mushrooms are a type of fungus that grows in moist woods.",
+      "example_uz": "Qoʻziqorinlar nam oʻrmonlarda oʻsadigan zamburugʻ turidir.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "germinate",
+      "pronunciation_uz": "jermineyt",
+      "uzbek": "unib chiqmoq (urugʻ haqida)",
+      "pos": "verb",
+      "example_en": "Warmth and moisture cause the seeds to germinate.",
+      "example_uz": "Issiqlik va namlik urugʻlarning unib chiqishiga sabab boʻladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "grain",
+      "pronunciation_uz": "greyn",
+      "uzbek": "don (gʻalla)",
+      "pos": "noun",
+      "example_en": "Sacks of harvested grain were stored in the silo.",
+      "example_uz": "Yigʻib olingan don qoplari elevatorda saqlandi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "grass",
+      "pronunciation_uz": "gras",
+      "uzbek": "oʻt (maysa)",
+      "pos": "noun",
+      "example_en": "Morning dew glistened on the green grass.",
+      "example_uz": "Ertalabki shudring yashil maysa ustida yaltirab turardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "grassland",
+      "pronunciation_uz": "graslend",
+      "uzbek": "yaylov (oʻtloq yerlar)",
+      "pos": "noun",
+      "example_en": "Herds of horses graze across the open grassland.",
+      "example_uz": "Ochiq yaylovlarda yilqi uyurlari oʻtlab yuradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "graze",
+      "pronunciation_uz": "greyz",
+      "uzbek": "oʻtlamoq",
+      "pos": "verb",
+      "example_en": "Sheep graze peacefully on the green hillside.",
+      "example_uz": "Qoʻylar yashil tepalik yonbagʻrida tinchgina oʻtlaydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "greenhouse",
+      "pronunciation_uz": "grinhaus",
+      "uzbek": "issiqxona (teplitsa)",
+      "pos": "noun",
+      "example_en": "Farmers grow tomatoes in a heated greenhouse during winter.",
+      "example_uz": "Dehqonlar qishda isitiladigan issiqxonada pomidor yetishtiradilar.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "grove",
+      "pronunciation_uz": "grouv",
+      "uzbek": "daraxtzor (kichik oʻrmoncha)",
+      "pos": "noun",
+      "example_en": "We rested in the shade of an ancient walnut grove.",
+      "example_uz": "Biz qadimiy yongʻoqzor soyasida dam oldik.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "harvest",
+      "pronunciation_uz": "harvest",
+      "uzbek": "hosil (hosilni yigʻib olmoq)",
+      "pos": "noun",
+      "example_en": "This year's wheat harvest exceeded all expectations.",
+      "example_uz": "Bu yilgi bugʻdoy hosili barcha kutilganidan aʼlo boʻldi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "hay",
+      "pronunciation_uz": "hey",
+      "uzbek": "pichan (quruq oʻt)",
+      "pos": "noun",
+      "example_en": "Villagers stacked dry hay for the winter months.",
+      "example_uz": "Qishloq ahli qish oylari uchun quruq pichan gʻaramini toʻpladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "herb",
+      "pronunciation_uz": "herb",
+      "uzbek": "shifobaxsh oʻt (koʻkat)",
+      "pos": "noun",
+      "example_en": "Mint and chamomile are soothing medicinal herbs.",
+      "example_uz": "Yalpiz va moychechak tinchlantiruvchi shifobaxsh oʻtlardir.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "horticulture",
+      "pronunciation_uz": "hortikalcher",
+      "uzbek": "bogʻdorchilik",
+      "pos": "noun",
+      "example_en": "Modern horticulture focuses on disease-resistant fruit trees.",
+      "example_uz": "Zamonaviy bogʻdorchilik kasalliklarga chidamli mevali daraxtlarga eʼtibor qaratadi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "irrigate",
+      "pronunciation_uz": "irigeyt",
+      "uzbek": "sugʻormoq",
+      "pos": "verb",
+      "example_en": "Farmers irrigate the orchards early in the morning.",
+      "example_uz": "Dehqonlar bogʻlarni erta tongda sugʻoradilar.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "irrigation",
+      "pronunciation_uz": "irigeyshn",
+      "uzbek": "sugʻorish (irrigatsiya)",
+      "pos": "noun",
+      "example_en": "Drip irrigation saves up to fifty percent of water.",
+      "example_uz": "Tomchilatib sugʻorish ellik foizgacha suvni tejaydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "ivy",
+      "pronunciation_uz": "ayvi",
+      "uzbek": "pechak (devorpechak)",
+      "pos": "noun",
+      "example_en": "Green ivy climbed up the brick wall of the university.",
+      "example_uz": "Yashil pechak universitetning gʻisht devori boʻylab oʻrmalab chiqdi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "leaf",
+      "pronunciation_uz": "lif",
+      "uzbek": "barg (yaproq)",
+      "pos": "noun",
+      "example_en": "A single maple leaf floated down onto the path.",
+      "example_uz": "Bitta zarang bargi yoʻlak ustiga ohista tushdi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "lily",
+      "pronunciation_uz": "lili",
+      "uzbek": "nilufar (yoki liliya guli)",
+      "pos": "noun",
+      "example_en": "White water lilies floated on the surface of the pond.",
+      "example_uz": "Oq suv nilufarlari hovuz yuzasida suzib yurardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "livestock",
+      "pronunciation_uz": "layvstok",
+      "uzbek": "chorva mollari",
+      "pos": "noun",
+      "example_en": "Providing clean water for livestock is essential in summer.",
+      "example_uz": "Yozda chorva mollari uchun toza suv taʼminoti juda muhim.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "log",
+      "pronunciation_uz": "log",
+      "uzbek": "gʻoʻla (kesilgan daraxt tanasi)",
+      "pos": "noun",
+      "example_en": "We sat on a fallen wooden log near the campfire.",
+      "example_uz": "Biz gulxan yonidagi agʻdarilgan yogʻoch gʻoʻla ustida oʻtirdik.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "maple",
+      "pronunciation_uz": "meypl",
+      "uzbek": "zarang daraxti",
+      "pos": "noun",
+      "example_en": "Maple leaves turn bright red in the autumn.",
+      "example_uz": "Zarang barglari kuzda yorqin qizil rangga kiradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "mill",
+      "pronunciation_uz": "mil",
+      "uzbek": "tegirmon",
+      "pos": "noun",
+      "example_en": "The old water mill ground wheat into fine flour.",
+      "example_uz": "Eski suv tegirmoni bugʻdoyni mayin un qilib tortardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "moss",
+      "pronunciation_uz": "mos",
+      "uzbek": "yoʻsin (mox)",
+      "pos": "noun",
+      "example_en": "Soft green moss covered the north side of the rocks.",
+      "example_uz": "Yumshoq yashil yoʻsin qoyalarning shimoliy tomonini qoplagan edi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "nectar",
+      "pronunciation_uz": "nektar",
+      "uzbek": "nektar (gul shirasining suvi)",
+      "pos": "noun",
+      "example_en": "Flowers produce sweet nectar to attract pollinators.",
+      "example_uz": "Gullar changlatuvchilarni jalb qilish uchun shirin nektar ishlab chiqaradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "oak",
+      "pronunciation_uz": "ouk",
+      "uzbek": "eman daraxti",
+      "pos": "noun",
+      "example_en": "The hundred-year-old oak stood in the center of the village.",
+      "example_uz": "Yuz yillik eman daraxti qishloq markazida qad rostlab turardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "orchard",
+      "pronunciation_uz": "orchard",
+      "uzbek": "mevazor bogʻ",
+      "pos": "noun",
+      "example_en": "My grandfather planted an apple and pear orchard.",
+      "example_uz": "Bobom olma va nok bogʻini barpo etgan.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "orchid",
+      "pronunciation_uz": "orkid",
+      "uzbek": "orxideya",
+      "pos": "noun",
+      "example_en": "Keep the tropical orchid in indirect sunlight.",
+      "example_uz": "Tropik orxideyani bilvosita quyosh nurida saqlang.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "pasture",
+      "pronunciation_uz": "pascher",
+      "uzbek": "yaylov (oʻtloq)",
+      "pos": "noun",
+      "example_en": "Shepherds led the flock to high summer pastures.",
+      "example_uz": "Choʻponlar suruvni baland yozgi yaylovlarga olib chiqdilar.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "pebble",
+      "pronunciation_uz": "pebl",
+      "uzbek": "shagʻal tosh (silliq toshcha)",
+      "pos": "noun",
+      "example_en": "Clear water flowed over smooth river pebbles.",
+      "example_uz": "Tiniq suv silliq daryo toshchalari ustidan oqib oʻtardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "petal",
+      "pronunciation_uz": "petal",
+      "uzbek": "gulbarg",
+      "pos": "noun",
+      "example_en": "Rose petals are used to make fragrant rosewater.",
+      "example_uz": "Atirgul gulbarglari xushboʻy gulob tayyorlashda ishlatiladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "photosynthesis",
+      "pronunciation_uz": "fotosintesis",
+      "uzbek": "fotosintez",
+      "pos": "noun",
+      "example_en": "Plants convert sunlight into energy through photosynthesis.",
+      "example_uz": "Oʻsimliklar fotosintez orqali quyosh nurini energiyaga aylantiradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "pine",
+      "pronunciation_uz": "payn",
+      "uzbek": "qaragʻay",
+      "pos": "noun",
+      "example_en": "The mountain air smelled of fresh pine needles.",
+      "example_uz": "Togʻ havosidan yangi qaragʻay ignabarglarining hidi kelardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "plant",
+      "pronunciation_uz": "plent",
+      "uzbek": "oʻsimlik (ekmoq)",
+      "pos": "noun",
+      "example_en": "Water the indoor plants twice a week.",
+      "example_uz": "Xona oʻsimliklarini haftada ikki marta sugʻoring.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "plantation",
+      "pronunciation_uz": "planteyshn",
+      "uzbek": "plantatsiya (yirik ekinzor)",
+      "pos": "noun",
+      "example_en": "Workers picked green leaves on the tea plantation.",
+      "example_uz": "Ishchilar choy plantatsiyasida yashil barglarni terdilar.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "plow",
+      "pronunciation_uz": "plau",
+      "uzbek": "omon (yer haydamoq / shudgorlamoq)",
+      "pos": "verb",
+      "example_en": "Tractors plow the fields in autumn to prepare for spring.",
+      "example_uz": "Traktorlar bahorga tayyorgarlik koʻrish uchun kuzda dalalarni shudgorlaydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "pollen",
+      "pronunciation_uz": "polen",
+      "uzbek": "gulchang",
+      "pos": "noun",
+      "example_en": "Bees carry yellow pollen from flower to flower.",
+      "example_uz": "Arilar sariq gulchangni guldan gulga tashiydi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "pollinate",
+      "pronunciation_uz": "polineyt",
+      "uzbek": "changlatmoq (gullarni)",
+      "pos": "verb",
+      "example_en": "Insects and wind help pollinate fruit trees.",
+      "example_uz": "Hasharotlar va shamol mevali daraxtlarni changlatishga yordam beradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "poplar",
+      "pronunciation_uz": "poplar",
+      "uzbek": "terak",
+      "pos": "noun",
+      "example_en": "Rows of tall poplar trees protect the fields from wind.",
+      "example_uz": "Baland terak qatorlari dalalarni shamoldan himoya qiladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "poppy",
+      "pronunciation_uz": "popi",
+      "uzbek": "lolaqizgʻaldoq (koʻknor)",
+      "pos": "noun",
+      "example_en": "Red poppies bloomed along the roadside in May.",
+      "example_uz": "May oyida yoʻl boʻylarida qizil lolaqizgʻaldoqlar ochildi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "reap",
+      "pronunciation_uz": "rip",
+      "uzbek": "oʻrib olmoq (hosil yigʻmoq)",
+      "pos": "verb",
+      "example_en": "Combine harvesters reap the golden wheat in June.",
+      "example_uz": "Kombaynlar iyun oyida oltinrang bugʻdoyni oʻrib oladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "reed",
+      "pronunciation_uz": "rid",
+      "uzbek": "qamish",
+      "pos": "noun",
+      "example_en": "Birds hid among the tall reeds near the riverbank.",
+      "example_uz": "Qushlar daryo boʻyidagi baland qamishlar orasiga yashirindi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "ripen",
+      "pronunciation_uz": "raypen",
+      "uzbek": "pishmoq (yetilmoq)",
+      "pos": "verb",
+      "example_en": "Grapes ripen quickly in the warm late-summer sun.",
+      "example_uz": "Uzumlar yoz oxiridagi issiq quyoshda tez pishadi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "rock",
+      "pronunciation_uz": "rok",
+      "uzbek": "qoya (tosh)",
+      "pos": "noun",
+      "example_en": "Lizards warmed themselves on a flat sun-baked rock.",
+      "example_uz": "Kaltakesaklar quyoshda qizigan yassi tosh ustida isinardi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "root",
+      "pronunciation_uz": "rut",
+      "uzbek": "ildiz",
+      "pos": "noun",
+      "example_en": "Deep roots allow desert plants to reach underground water.",
+      "example_uz": "Chuqur ildizlar choʻl oʻsimliklariga yer osti suvlariga yetib borish imkonini beradi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "rose",
+      "pronunciation_uz": "rouz",
+      "uzbek": "atirgul",
+      "pos": "noun",
+      "example_en": "Fragrant red roses bloomed in the courtyard.",
+      "example_uz": "Hovlida xushboʻy qizil atirgullar ochildi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "sapling",
+      "pronunciation_uz": "sepling",
+      "uzbek": "nihol (yosh koʻchat)",
+      "pos": "noun",
+      "example_en": "Students planted two hundred tree saplings around the school.",
+      "example_uz": "Oʻquvchilar maktab atrofida ikki yuzta daraxt koʻchati ekdilar.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "seedling",
+      "pronunciation_uz": "sidling",
+      "uzbek": "koʻchat (unib chiqqan nihol)",
+      "pos": "noun",
+      "example_en": "Transplant the tomato seedlings into the open ground.",
+      "example_uz": "Pomidor koʻchatlarini ochiq yerga koʻchirib oʻtkazing.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "shrub",
+      "pronunciation_uz": "shrab",
+      "uzbek": "buta (past boʻyli oʻsimlik)",
+      "pos": "noun",
+      "example_en": "Flowering shrubs decorate the entrance to the park.",
+      "example_uz": "Gullaydigan butalar bogʻ kirish qismini bezab turibdi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "soil",
+      "pronunciation_uz": "soyl",
+      "uzbek": "tuproq",
+      "pos": "noun",
+      "example_en": "Loosen the soil around the roots with a hoe.",
+      "example_uz": "Ketmon bilan ildizlar atrofidagi tuproqni yumshating.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "sow",
+      "pronunciation_uz": "sou",
+      "uzbek": "urugʻ sepib ekmoq",
+      "pos": "verb",
+      "example_en": "Farmers sow spring wheat as soon as the frost ends.",
+      "example_uz": "Dehqonlar sovuq tushishi tugashi bilanoq bahorgi bugʻdoy urugʻini sepadilar.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "sprout",
+      "pronunciation_uz": "spraut",
+      "uzbek": "kurtak yozmoq (unib chiqmoq)",
+      "pos": "verb",
+      "example_en": "Green shoots began to sprout after the spring rain.",
+      "example_uz": "Bahorgi yomgʻirdan keyin yashil maysalar unib chiqa boshladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "stem",
+      "pronunciation_uz": "stem",
+      "uzbek": "poya (gul yoki oʻsimlik tanasi)",
+      "pos": "noun",
+      "example_en": "Cut the flower stems at an angle before putting them in water.",
+      "example_uz": "Gul poyalarini suvga solishdan oldin qiya qilib kesing.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "sunflower",
+      "pronunciation_uz": "sanflauer",
+      "uzbek": "kungaboqar",
+      "pos": "noun",
+      "example_en": "Sunflower seeds are pressed to produce cooking oil.",
+      "example_uz": "Kungaboqar urugʻlari oʻsimlik yogʻi olish uchun siqiladi.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    },
+    {
+      "english": "thorn",
+      "pronunciation_uz": "torn",
+      "uzbek": "tikan",
+      "pos": "noun",
+      "example_en": "Be careful not to prick your finger on a rose thorn.",
+      "example_uz": "Barmogʻingizga atirgul tikani kirib ketishidan ehtiyot boʻling.",
+      "category": "Tabiat, oʻsimliklar va dehqonchilik"
+    }
+  ]
+}

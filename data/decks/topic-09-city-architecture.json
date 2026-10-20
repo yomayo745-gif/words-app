@@ -1,0 +1,1051 @@
+{
+  "title": "Shahar, binolar va infratuzilma",
+  "category": "City, Architecture & Urban Life",
+  "group": "topic",
+  "words": [
+    {
+      "english": "skyscraper",
+      "pronunciation_uz": "skayskreyper",
+      "uzbek": "osmonoʻpar bino",
+      "pos": "noun",
+      "example_en": "The new skyscraper dominates the city skyline.",
+      "example_uz": "Yangi osmonoʻpar bino shahar manzarasida ajralib turibdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "sidewalk",
+      "pronunciation_uz": "sayduok",
+      "uzbek": "yoʻlak (trotuar)",
+      "pos": "noun",
+      "example_en": "Pedestrians should walk on the sidewalk for safety.",
+      "example_uz": "Piyodalar xavfsizlik uchun yoʻlakdan yurishlari kerak.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "pavement",
+      "pronunciation_uz": "peyvment",
+      "uzbek": "tosh yoʻlak, asfalt qoplama",
+      "pos": "noun",
+      "example_en": "The wet pavement glistened under the streetlights.",
+      "example_uz": "Hoʻl yoʻlak koʻcha chiroqlari ostida yaltirab turardi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "crosswalk",
+      "pronunciation_uz": "krosuok",
+      "uzbek": "piyodalar oʻtish joyi",
+      "pos": "noun",
+      "example_en": "Always look both ways before stepping onto the crosswalk.",
+      "example_uz": "Piyodalar oʻtish joyiga qadam qoʻyishdan oldin har doim ikki tomonga qarang.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "intersection",
+      "pronunciation_uz": "intersekshn",
+      "uzbek": "chorraha",
+      "pos": "noun",
+      "example_en": "A traffic light was installed at the busy intersection.",
+      "example_uz": "Gavjum chorrahaga svetofor oʻrnatildi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "roundabout",
+      "pronunciation_uz": "raundebaut",
+      "uzbek": "aylanma chorraha",
+      "pos": "noun",
+      "example_en": "Take the second exit at the roundabout.",
+      "example_uz": "Aylanma chorrahadan ikkinchi chiqish yoʻliga buriling.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "boulevard",
+      "pronunciation_uz": "bulvard",
+      "uzbek": "xiyobon, shohkoʻcha",
+      "pos": "noun",
+      "example_en": "Tall plane trees line the wide boulevard.",
+      "example_uz": "Keng shohkoʻcha boʻylab baland chinorlar qatorlashib turibdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "avenue",
+      "pronunciation_uz": "evenyu",
+      "uzbek": "shohkoʻcha, prospekt",
+      "pos": "noun",
+      "example_en": "Many boutiques are located along the main avenue.",
+      "example_uz": "Asosiy shohkoʻcha boʻylab koʻplab doʻkonlar joylashgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "alley",
+      "pronunciation_uz": "elli",
+      "uzbek": "tor koʻcha, jin koʻcha",
+      "pos": "noun",
+      "example_en": "The small cafe is hidden in a quiet alley.",
+      "example_uz": "Kichik qahvaxona tinch tor koʻchada yashiringan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "lane",
+      "pronunciation_uz": "leyn",
+      "uzbek": "yoʻlakcha, tor koʻcha",
+      "pos": "noun",
+      "example_en": "This narrow lane leads directly to the old square.",
+      "example_uz": "Bu tor koʻcha toʻgʻri eski maydonga olib boradi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "suburb",
+      "pronunciation_uz": "saberb",
+      "uzbek": "shahar atrofi",
+      "pos": "noun",
+      "example_en": "They decided to move to a quiet suburb outside the capital.",
+      "example_uz": "Ular poytaxt tashqarisidagi tinch shahar atrofiga koʻchib oʻtishga qaror qilishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "outskirts",
+      "pronunciation_uz": "autskerts",
+      "uzbek": "shahar chekkasi",
+      "pos": "noun",
+      "example_en": "Several industrial plants are on the outskirts of the town.",
+      "example_uz": "Shahar chekkasida bir nechta sanoat korxonalari joylashgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "downtown",
+      "pronunciation_uz": "dauntaun",
+      "uzbek": "shahar markazi",
+      "pos": "noun",
+      "example_en": "Traffic in downtown gets heavy in the late afternoon.",
+      "example_uz": "Kechki payt shahar markazida tirbandlik kuchayadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "district",
+      "pronunciation_uz": "distrikt",
+      "uzbek": "tuman, daha",
+      "pos": "noun",
+      "example_en": "This residential district has three new schools.",
+      "example_uz": "Ushbu turar-joy tumanida uchta yangi maktab bor.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "quarter",
+      "pronunciation_uz": "kuorter",
+      "uzbek": "daha, mavze",
+      "pos": "noun",
+      "example_en": "Tourists love exploring the historic quarter of the city.",
+      "example_uz": "Sayyohlar shaharning tarixiy dahasini aylanishni yaxshi koʻradilar.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "slum",
+      "pronunciation_uz": "slam",
+      "uzbek": "xaroba mahalla",
+      "pos": "noun",
+      "example_en": "The municipality launched a program to rebuild the old slum.",
+      "example_uz": "Hokimiyat eski xaroba mahallani qayta qurish dasturini boshladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "metropolis",
+      "pronunciation_uz": "metropolis",
+      "uzbek": "megapolis, yirik shahar",
+      "pos": "noun",
+      "example_en": "Tashkent has grown into a bustling modern metropolis.",
+      "example_uz": "Toshkent gavjum zamonaviy megapolisga aylandi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "municipality",
+      "pronunciation_uz": "myunisipeliti",
+      "uzbek": "shahar hokimiyati, munitsipalitet",
+      "pos": "noun",
+      "example_en": "The municipality approved the new urban park design.",
+      "example_uz": "Shahar hokimiyati yangi shahar bogʻi loyihasini tasdiqladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "zoning",
+      "pronunciation_uz": "zouning",
+      "uzbek": "hududlarni zonalarga ajratish",
+      "pos": "noun",
+      "example_en": "Strict zoning laws prevent factories near housing areas.",
+      "example_uz": "Hududlarni zonalarga ajratishning qatʼiy qonunlari turar-joylar yaqinida zavod qurishni taqiqlaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "architecture",
+      "pronunciation_uz": "arkitekcher",
+      "uzbek": "meʼmorchilik, arxitektura",
+      "pos": "noun",
+      "example_en": "Samarkand is famous for its stunning Islamic architecture.",
+      "example_uz": "Samarqand oʻzining betakror islom meʼmorchiligi bilan mashhur.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "blueprint",
+      "pronunciation_uz": "bluprint",
+      "uzbek": "chizma, loyiha rejasi",
+      "pos": "noun",
+      "example_en": "The engineer examined the blueprint of the new stadium.",
+      "example_uz": "Muhandis yangi stadionning loyiha chizmasini koʻzdan kechirdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "edifice",
+      "pronunciation_uz": "edifis",
+      "uzbek": "muhtasham bino, inshoot",
+      "pos": "noun",
+      "example_en": "The marble edifice stands in the middle of the plaza.",
+      "example_uz": "Marmar inshoot maydonning oʻrtasida qad rostlab turibdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "facade",
+      "pronunciation_uz": "fasad",
+      "uzbek": "bino old qismi, fasad",
+      "pos": "noun",
+      "example_en": "Workers are restoring the ornate facade of the theater.",
+      "example_uz": "Ishchilar teatrning naqshinkor fasadini taʼmirlamoqdalar.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "pillar",
+      "pronunciation_uz": "piller",
+      "uzbek": "ustun",
+      "pos": "noun",
+      "example_en": "Massive stone pillars support the roof of the hall.",
+      "example_uz": "Katta tosh ustunlar zalning tomini koʻtarib turadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "minaret",
+      "pronunciation_uz": "minaret",
+      "uzbek": "minora",
+      "pos": "noun",
+      "example_en": "The ancient minaret can be seen from miles away.",
+      "example_uz": "Qadimiy minorani bir necha chaqirim uzoqlikdan koʻrish mumkin.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "spire",
+      "pronunciation_uz": "spayr",
+      "uzbek": "nayzasimon uch, shpil",
+      "pos": "noun",
+      "example_en": "The tall spire of the cathedral reaches toward the clouds.",
+      "example_uz": "Soborning baland nayzasimon uchi bulutlarga tutashib ketgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "tower",
+      "pronunciation_uz": "tauer",
+      "uzbek": "minora, burj",
+      "pos": "noun",
+      "example_en": "The television tower is the tallest structure in the city.",
+      "example_uz": "Teleminora shahardagi eng baland inshootdir.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "monument",
+      "pronunciation_uz": "monyument",
+      "uzbek": "yodgorlik, haykal",
+      "pos": "noun",
+      "example_en": "People laid flowers at the base of the historic monument.",
+      "example_uz": "Odamlar tarixiy yodgorlik poyiga gullar qoʻyishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "memorial",
+      "pronunciation_uz": "memoriel",
+      "uzbek": "xotira yodgorligi",
+      "pos": "noun",
+      "example_en": "We visited the war memorial on the national holiday.",
+      "example_uz": "Umummilliy bayramda xotira yodgorligini ziyorat qildik.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "statue",
+      "pronunciation_uz": "stetyu",
+      "uzbek": "haykal",
+      "pos": "noun",
+      "example_en": "A bronze statue stands in the center of the square.",
+      "example_uz": "Maydon markazida bronza haykal oʻrnatilgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "plaza",
+      "pronunciation_uz": "plaza",
+      "uzbek": "ochiq maydon, plaza",
+      "pos": "noun",
+      "example_en": "An outdoor concert was held in the central plaza.",
+      "example_uz": "Markaziy ochiq maydonda ochiq osmon ostidagi konsert boʻlib oʻtdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "square",
+      "pronunciation_uz": "skver",
+      "uzbek": "maydon, xiyobon",
+      "pos": "noun",
+      "example_en": "Independence Square is a popular place for evening walks.",
+      "example_uz": "Mustaqillik maydoni kechki sayrlar uchun mashhur maskandir.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "terrace",
+      "pronunciation_uz": "terres",
+      "uzbek": "terrasa, ochiq sath",
+      "pos": "noun",
+      "example_en": "The rooftop terrace offers a panoramic view of the mountains.",
+      "example_uz": "Tomdagi terrasa togʻlarning keng manzarasini taqdim etadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "lobby",
+      "pronunciation_uz": "lobbi",
+      "uzbek": "vestibyul, foye",
+      "pos": "noun",
+      "example_en": "Let's meet in the main lobby of the building at noon.",
+      "example_uz": "Tush payti binoning asosiy foyesida uchrashaylik.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "escalator",
+      "pronunciation_uz": "eskaleytor",
+      "uzbek": "eskalator",
+      "pos": "noun",
+      "example_en": "Take the escalator to the third level of the mall.",
+      "example_uz": "Savdo markazining uchinchi qavatiga eskalator orqali chiqing.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "girder",
+      "pronunciation_uz": "gerder",
+      "uzbek": "temir toʻsin, balka",
+      "pos": "noun",
+      "example_en": "A crane lifted the steel girder to the top of the frame.",
+      "example_uz": "Kran poʻlat toʻsinni karkasning eng yuqori qismiga koʻtardi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "scaffolding",
+      "pronunciation_uz": "skaffolding",
+      "uzbek": "qurilish havozasi",
+      "pos": "noun",
+      "example_en": "Painters climbed the scaffolding to repaint the exterior walls.",
+      "example_uz": "Boʻyoqchilar tashqi devorlarni qayta boʻyash uchun qurilish havozasiga chiqishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "timber",
+      "pronunciation_uz": "timber",
+      "uzbek": "yogʻoch-taxta, qurilish yogʻochi",
+      "pos": "noun",
+      "example_en": "High-quality timber is used for the roof rafters.",
+      "example_uz": "Tom stropilalari uchun yuqori sifatli qurilish yogʻochi ishlatiladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "marble",
+      "pronunciation_uz": "marbl",
+      "uzbek": "marmar",
+      "pos": "noun",
+      "example_en": "The metro station walls are decorated with white marble.",
+      "example_uz": "Metro bekati devorlari oq marmar bilan bezatilgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "granite",
+      "pronunciation_uz": "grenit",
+      "uzbek": "granit",
+      "pos": "noun",
+      "example_en": "Granite steps are extremely durable in harsh weather.",
+      "example_uz": "Granit zinalar ogʻir ob-havo sharoitida juda chidamli boʻladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "asphalt",
+      "pronunciation_uz": "esfolt",
+      "uzbek": "asfalt",
+      "pos": "noun",
+      "example_en": "Fresh asphalt was laid on the main road yesterday.",
+      "example_uz": "Kecha asosiy yoʻlga yangi asfalt yotqizildi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "steel",
+      "pronunciation_uz": "stil",
+      "uzbek": "poʻlat",
+      "pos": "noun",
+      "example_en": "Modern suspension bridges rely on strong steel cables.",
+      "example_uz": "Zamonaviy osma koʻpriklar mustahkam poʻlat troslarga tayanadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "insulation",
+      "pronunciation_uz": "insuleyshn",
+      "uzbek": "issiqlik va ovoz izolyatsiyasi",
+      "pos": "noun",
+      "example_en": "Proper wall insulation reduces winter heating costs.",
+      "example_uz": "Devorlarning toʻgʻri izolyatsiyasi qishki isitish xarajatlarini kamaytiradi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "ventilation",
+      "pronunciation_uz": "ventileyshn",
+      "uzbek": "shamollatish tizimi, ventilyatsiya",
+      "pos": "noun",
+      "example_en": "Good ventilation keeps the indoor air fresh and clean.",
+      "example_uz": "Yaxshi shamollatish tizimi xona ichidagi havoni toza va musaffo saqlaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "plumbing",
+      "pronunciation_uz": "plaming",
+      "uzbek": "suv quvurlari tizimi, santexnika",
+      "pos": "noun",
+      "example_en": "The old building needs a complete replacement of its plumbing.",
+      "example_uz": "Eski binoning suv quvurlari tizimini toʻliq almashtirish kerak.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "sewage",
+      "pronunciation_uz": "suij",
+      "uzbek": "oqova suv, kanalizatsiya",
+      "pos": "noun",
+      "example_en": "The city modernized its underground sewage treatment plant.",
+      "example_uz": "Shahar oʻzining yer osti oqova suvlarni tozalash inshootini modernizatsiya qildi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "drainage",
+      "pronunciation_uz": "dreynij",
+      "uzbek": "suv qochirish tizimi, drenaj",
+      "pos": "noun",
+      "example_en": "Poor drainage caused puddles to form after the rain.",
+      "example_uz": "Suv qochirish tizimining yomonligi yomgʻirdan keyin koʻlmaklar paydo boʻlishiga olib keldi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "pipeline",
+      "pronunciation_uz": "payplayn",
+      "uzbek": "quvur yoʻli, magistral quvur",
+      "pos": "noun",
+      "example_en": "A new water pipeline supplies clean water to the settlement.",
+      "example_uz": "Yangi suv quvuri posyolkaga toza suv yetkazib beradi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "power grid",
+      "pronunciation_uz": "pauer grid",
+      "uzbek": "elektr tarmogʻi",
+      "pos": "noun",
+      "example_en": "Solar panels were connected to the municipal power grid.",
+      "example_uz": "Quyosh panellari shahar elektr tarmogʻiga ulandi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "streetlight",
+      "pronunciation_uz": "stritlayt",
+      "uzbek": "koʻcha chirogʻi",
+      "pos": "noun",
+      "example_en": "Every streetlight on our avenue now uses LED bulbs.",
+      "example_uz": "Shohkoʻchamizdagi har bir koʻcha chirogʻi endi svetodiodli lampalardan foydalanadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "hydrant",
+      "pronunciation_uz": "haydrant",
+      "uzbek": "yongʻin gidranti",
+      "pos": "noun",
+      "example_en": "Parking directly in front of a fire hydrant is illegal.",
+      "example_uz": "Yongʻin gidranti roʻparasida mashina toʻxtatish qonunga xilofdir.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "manhole",
+      "pronunciation_uz": "menhoul",
+      "uzbek": "quduq qopqogʻi, lyuk",
+      "pos": "noun",
+      "example_en": "Workers opened the manhole to inspect the underground cables.",
+      "example_uz": "Ishchilar yer osti kabellarini tekshirish uchun quduq qopqogʻini ochishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "curb",
+      "pronunciation_uz": "kerb",
+      "uzbek": "yoʻl cheti toshi, bordyur",
+      "pos": "noun",
+      "example_en": "He pulled the car over and parked close to the curb.",
+      "example_uz": "U mashinani chetga oldi va bordyurga yaqin qilib toʻxtatdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "overpass",
+      "pronunciation_uz": "ouverpas",
+      "uzbek": "yoʻl oʻtkazgich, estakada",
+      "pos": "noun",
+      "example_en": "A concrete overpass crosses above the railway tracks.",
+      "example_uz": "Beton yoʻl oʻtkazgich temir yoʻl izlari ustidan oʻtadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "underpass",
+      "pronunciation_uz": "anderpas",
+      "uzbek": "yer osti oʻtish yoʻli",
+      "pos": "noun",
+      "example_en": "Use the pedestrian underpass to cross the wide avenue safely.",
+      "example_uz": "Keng shohkoʻchadan xavfsiz oʻtish uchun yer osti oʻtish yoʻlidan foydalaning.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "viaduct",
+      "pronunciation_uz": "vayadakt",
+      "uzbek": "viaduk, baland koʻprik",
+      "pos": "noun",
+      "example_en": "The train crossed a long stone viaduct over the valley.",
+      "example_uz": "Poyezd vodiy ustidagi uzun tosh viadukdan oʻtdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "tunnel",
+      "pronunciation_uz": "tannel",
+      "uzbek": "tonnel, yer osti yoʻli",
+      "pos": "noun",
+      "example_en": "The mountain tunnel shortened the travel time by an hour.",
+      "example_uz": "Togʻ tonneli safar vaqtini bir soatga qisqartirdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "aqueduct",
+      "pronunciation_uz": "ekvidakt",
+      "uzbek": "suv oʻtkazgich koʻprik, akveduk",
+      "pos": "noun",
+      "example_en": "Remains of a Roman aqueduct still stand near the town.",
+      "example_uz": "Rim akvedukining qoldiqlari shahar yaqinida hali ham saqlanib qolgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "canal",
+      "pronunciation_uz": "kanal",
+      "uzbek": "kanal, sunʼiy suv yoʻli",
+      "pos": "noun",
+      "example_en": "Willow trees grow along the banks of the city canal.",
+      "example_uz": "Shahar kanali qirgʻoqlari boʻylab majnuntollar oʻsadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "embankment",
+      "pronunciation_uz": "imbenkment",
+      "uzbek": "sohil boʻyi, qirgʻoq koʻchasi",
+      "pos": "noun",
+      "example_en": "Couples strolled along the river embankment at sunset.",
+      "example_uz": "Juftliklar quyosh botishida daryo sohil boʻylab sayr qilishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "reservoir",
+      "pronunciation_uz": "rezervuar",
+      "uzbek": "suv ombori",
+      "pos": "noun",
+      "example_en": "The mountain reservoir provides drinking water to the valley.",
+      "example_uz": "Togʻ suv ombori vodiyni ichimlik suvi bilan taʼminlaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "dam",
+      "pronunciation_uz": "dem",
+      "uzbek": "toʻgʻon, damba",
+      "pos": "noun",
+      "example_en": "The hydroelectric dam generates clean electricity for the region.",
+      "example_uz": "Gidroelektr toʻgʻoni hudud uchun toza elektr energiyasi ishlab chiqaradi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "landfill",
+      "pronunciation_uz": "lendfil",
+      "uzbek": "chiqindixona, poligon",
+      "pos": "noun",
+      "example_en": "Recycling helps reduce the amount of waste sent to the landfill.",
+      "example_uz": "Qayta ishlash chiqindixonaga yuboriladigan axlat miqdorini kamaytirishga yordam beradi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "incinerator",
+      "pronunciation_uz": "insinereytor",
+      "uzbek": "chiqindi yoqish zavodi",
+      "pos": "noun",
+      "example_en": "The modern waste incinerator converts trash into heat energy.",
+      "example_uz": "Zamonaviy chiqindi yoqish zavodi axlatni issiqlik energiyasiga aylantiradi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "substation",
+      "pronunciation_uz": "sabsteyshn",
+      "uzbek": "nimstansiya (elektr podstansiyasi)",
+      "pos": "noun",
+      "example_en": "A lightning strike caused a brief outage at the electrical substation.",
+      "example_uz": "Yashin urishi elektr nimstansiyasida qisqa muddatli uzilishga sabab boʻldi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "warehouse",
+      "pronunciation_uz": "verhaus",
+      "uzbek": "omborxona",
+      "pos": "noun",
+      "example_en": "Imported goods are stored in a large warehouse near the ring road.",
+      "example_uz": "Import qilingan tovarlar halqa yoʻli yaqinidagi katta omborxonada saqlanadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "depot",
+      "pronunciation_uz": "depou",
+      "uzbek": "depo, baza",
+      "pos": "noun",
+      "example_en": "Electric buses return to the central depot every midnight.",
+      "example_uz": "Elektrobuslar har yarim tunda markaziy depoga qaytadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "stadium",
+      "pronunciation_uz": "steydium",
+      "uzbek": "stadion",
+      "pos": "noun",
+      "example_en": "Forty thousand fans cheered inside the national stadium.",
+      "example_uz": "Milliy stadion ichida qirq ming muxlis olqishladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "arena",
+      "pronunciation_uz": "arina",
+      "uzbek": "arena, yopiq sport saroyi",
+      "pos": "noun",
+      "example_en": "The indoor arena hosts ice hockey matches and concerts.",
+      "example_uz": "Yopiq sport saroyida xokkey oʻyinlari va konsertlar oʻtkaziladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "amphitheater",
+      "pronunciation_uz": "emfithieter",
+      "uzbek": "amfiteatr",
+      "pos": "noun",
+      "example_en": "Summer plays are staged in the open-air amphitheater.",
+      "example_uz": "Yozgi spektakllar ochiq osmon ostidagi amfiteatrda sahnalashtiriladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "auditorium",
+      "pronunciation_uz": "oditorium",
+      "uzbek": "majlislar zali, auditoriya",
+      "pos": "noun",
+      "example_en": "All guests took their seats in the main auditorium.",
+      "example_uz": "Barcha mehmonlar asosiy majlislar zalida oʻz joylarini egallashdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "pavilion",
+      "pronunciation_uz": "pavilyon",
+      "uzbek": "pavilyon, koʻrgazma binosi",
+      "pos": "noun",
+      "example_en": "Artisans displayed their crafts inside the exhibition pavilion.",
+      "example_uz": "Hunarmandlar koʻrgazma pavilyoni ichida oʻz buyumlarini namoyish etishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "arcade",
+      "pronunciation_uz": "arkeyd",
+      "uzbek": "ustunli galereya, yopiq savdo qatori",
+      "pos": "noun",
+      "example_en": "Small jewelry shops line the historic shopping arcade.",
+      "example_uz": "Tarixiy yopiq savdo qatori boʻylab kichik zargarlik doʻkonlari joylashgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "butchery",
+      "pronunciation_uz": "butcheri",
+      "uzbek": "qassobxona",
+      "pos": "noun",
+      "example_en": "My father buys fresh lamb from the local butchery.",
+      "example_uz": "Otam mahalliy qassobxonadan yangi qoʻy goʻshti sotib oladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "laundromat",
+      "pronunciation_uz": "londromat",
+      "uzbek": "oʻz-oʻziga xizmat koʻrsatish kirxonasi",
+      "pos": "noun",
+      "example_en": "Students wash their clothes at the neighborhood laundromat.",
+      "example_uz": "Talabalar kiyimlarini mahalladagi kirxonada yuvadilar.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "dispensary",
+      "pronunciation_uz": "dispenseri",
+      "uzbek": "dispanser, dorixona boʻlimi",
+      "pos": "noun",
+      "example_en": "Patients receive prescribed medication at the health dispensary.",
+      "example_uz": "Bemorlar tibbiy dispanserda yozib berilgan dori-darmonlarni oladilar.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "courthouse",
+      "pronunciation_uz": "korthaus",
+      "uzbek": "sud binosi",
+      "pos": "noun",
+      "example_en": "Lawyers gathered on the steps of the provincial courthouse.",
+      "example_uz": "Huquqshunoslar viloyat sud binosi zinalarida toʻplanishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "embassy",
+      "pronunciation_uz": "embassi",
+      "uzbek": "elchixona",
+      "pos": "noun",
+      "example_en": "She submitted her visa documents to the foreign embassy.",
+      "example_uz": "U viza hujjatlarini xorijiy elchixonaga topshirdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "consulate",
+      "pronunciation_uz": "konsulat",
+      "uzbek": "konsullik",
+      "pos": "noun",
+      "example_en": "Citizens can renew their documents at the nearest consulate.",
+      "example_uz": "Fuqarolar eng yaqin konsullikda hujjatlarini yangilashlari mumkin.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "city hall",
+      "pronunciation_uz": "siti hol",
+      "uzbek": "shahar hokimligi binosi",
+      "pos": "noun",
+      "example_en": "The mayor held a press conference at city hall.",
+      "example_uz": "Shahar hokimi hokimlik binosida matbuot anjumani oʻtkazdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "parliament",
+      "pronunciation_uz": "parlament",
+      "uzbek": "parlament, Oliy Majlis",
+      "pos": "noun",
+      "example_en": "The new parliament building features classical white columns.",
+      "example_uz": "Yangi parlament binosi mumtoz oq ustunlarga ega.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "cathedral",
+      "pronunciation_uz": "kathidral",
+      "uzbek": "bosh cherkov, sobor",
+      "pos": "noun",
+      "example_en": "The gothic cathedral attracts thousands of architecture lovers.",
+      "example_uz": "Gotika uslubidagi sobor minglab meʼmorchilik ixlosmandlarini oʻziga jalb qiladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "mosque",
+      "pronunciation_uz": "mosk",
+      "uzbek": "masjid",
+      "pos": "noun",
+      "example_en": "Worshippers gathered at the central mosque for Friday prayers.",
+      "example_uz": "Namozxonlar juma namozi uchun markaziy masjidda toʻplanishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "madrasa",
+      "pronunciation_uz": "madrasa",
+      "uzbek": "madrasa",
+      "pos": "noun",
+      "example_en": "Three grand madrasas face each other on Registan Square.",
+      "example_uz": "Registon maydonida uchta muhtasham madrasa bir-biriga yuzlanib turadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "mausoleum",
+      "pronunciation_uz": "mozolium",
+      "uzbek": "maqbara",
+      "pos": "noun",
+      "example_en": "The Gur-e-Amir mausoleum is a masterpiece of Timurid architecture.",
+      "example_uz": "Goʻri Amir maqbarasi Temuriylar meʼmorchiligining durdonasidir.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "shrine",
+      "pronunciation_uz": "shrayn",
+      "uzbek": "ziyoratgoh, muqaddas qadamjo",
+      "pos": "noun",
+      "example_en": "Pilgrims travel from afar to visit the ancient shrine.",
+      "example_uz": "Ziyoratchilar qadimiy ziyoratgohni koʻrish uchun uzoq joylardan kelishadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "citadel",
+      "pronunciation_uz": "sitadel",
+      "uzbek": "ark, ichki qalʼa",
+      "pos": "noun",
+      "example_en": "The Ark of Bukhara is a massive ancient citadel.",
+      "example_uz": "Buxoro arki ulkan qadimiy qalʼadir.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "fortress",
+      "pronunciation_uz": "fortres",
+      "uzbek": "qalʼa, qoʻrgʻon",
+      "pos": "noun",
+      "example_en": "Thick mud-brick walls surrounded the desert fortress.",
+      "example_uz": "Choʻl qalʼasini qalin paxsa devorlar oʻrab turgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "palace",
+      "pronunciation_uz": "peles",
+      "uzbek": "saroy",
+      "pos": "noun",
+      "example_en": "The summer palace is surrounded by lush rose gardens.",
+      "example_uz": "Yozgi saroy yam-yashil atirgul bogʻlari bilan oʻralgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "mansion",
+      "pronunciation_uz": "menshn",
+      "uzbek": "hashamatli uy, koshona",
+      "pos": "noun",
+      "example_en": "The merchant built a two-story mansion in the nineteenth century.",
+      "example_uz": "Savdogar oʻn toʻqqizinchi asrda ikki qavatli koshona qurdirgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "villa",
+      "pronunciation_uz": "villa",
+      "uzbek": "villa, dala hovli",
+      "pos": "noun",
+      "example_en": "They rented a quiet villa overlooking the lake.",
+      "example_uz": "Ular koʻlga qaragan tinch villani ijaraga olishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "cottage",
+      "pronunciation_uz": "kottij",
+      "uzbek": "kottej, kichik shahar tashqarisidagi uy",
+      "pos": "noun",
+      "example_en": "We spent the weekend in a wooden cottage in the hills.",
+      "example_uz": "Biz dam olish kunlarini adirdagi yogʻoch kottejda oʻtkazdik.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "bungalow",
+      "pronunciation_uz": "bangalou",
+      "uzbek": "bir qavatli uy, bungalo",
+      "pos": "noun",
+      "example_en": "An elderly couple lives in the cozy brick bungalow.",
+      "example_uz": "Keksa er-xotin shinam gʻishtli bir qavatli uyda yashaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "penthouse",
+      "pronunciation_uz": "penthaus",
+      "uzbek": "penthaus (eng yuqori qavatdagi hashamatli xonadon)",
+      "pos": "noun",
+      "example_en": "The penthouse occupies the entire top floor of the tower.",
+      "example_uz": "Penthaus minoraning butun eng yuqori qavatini egallaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "condominium",
+      "pronunciation_uz": "kondominium",
+      "uzbek": "kondominium, xususiy xonadonlar majmuasi",
+      "pos": "noun",
+      "example_en": "Residents of the condominium share a swimming pool and gym.",
+      "example_uz": "Majmua aholisi umumiy suzish havzasi va sport zalidan foydalanadilar.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "dormitory",
+      "pronunciation_uz": "dormitori",
+      "uzbek": "talabalar yotoqxonasi",
+      "pos": "noun",
+      "example_en": "First-year students live in a five-story dormitory.",
+      "example_uz": "Birinchi kurs talabalari besh qavatli yotoqxonada yashaydilar.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "hostel",
+      "pronunciation_uz": "hostel",
+      "uzbek": "xostel, arzon yotoqxona",
+      "pos": "noun",
+      "example_en": "Backpackers stayed at a clean hostel near the train station.",
+      "example_uz": "Sayohatchilar vokzal yaqinidagi toza xostelda tunashdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "barracks",
+      "pronunciation_uz": "berraks",
+      "uzbek": "kazarma, harbiylar yotoqxonasi",
+      "pos": "noun",
+      "example_en": "Soldiers returned to their barracks after morning training.",
+      "example_uz": "Askarlar ertalabki mashgʻulotlardan soʻng kazarmlariga qaytishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "conservatory",
+      "pronunciation_uz": "konservatori",
+      "uzbek": "issiqxona, oranjereya (yoki konservatoriya)",
+      "pos": "noun",
+      "example_en": "Rare tropical orchids bloom inside the glass conservatory.",
+      "example_uz": "Oynavand oranjereya ichida noyob tropik orxideyalar gullaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "planetarium",
+      "pronunciation_uz": "planetarium",
+      "uzbek": "planetariy",
+      "pos": "noun",
+      "example_en": "Schoolchildren watched a show about stars at the planetarium.",
+      "example_uz": "Maktab oʻquvchilari planetariyda yulduzlar haqidagi namoyishni tomosha qilishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "observatory",
+      "pronunciation_uz": "obzervatori",
+      "uzbek": "rasadxona, observatoriya",
+      "pos": "noun",
+      "example_en": "Ulugh Beg built a famous astronomical observatory in Samarkand.",
+      "example_uz": "Ulugʻbek Samarqandda mashhur astronomik rasadxona barpo etgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "aquarium",
+      "pronunciation_uz": "akvarium",
+      "uzbek": "okeanarium, katta akvarium",
+      "pos": "noun",
+      "example_en": "The city aquarium features a glass tunnel with sharks.",
+      "example_uz": "Shahar okeanariumida akulalar suzib yuradigan oynavand tonnel bor.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "botanical garden",
+      "pronunciation_uz": "botanikal garden",
+      "uzbek": "botanika bogʻi",
+      "pos": "noun",
+      "example_en": "Thousands of plant species grow in the botanical garden.",
+      "example_uz": "Botanika bogʻida minglab oʻsimlik turlari oʻsadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "promenade",
+      "pronunciation_uz": "promenad",
+      "uzbek": "sayilgoh, sayr yoʻlagi",
+      "pos": "noun",
+      "example_en": "Families enjoy evening walks along the brightly lit promenade.",
+      "example_uz": "Oilalar yorugʻ sayilgoh boʻylab kechki sayrlardan zavqlanishadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "gazebo",
+      "pronunciation_uz": "gazibou",
+      "uzbek": "shiyponcha, besedka",
+      "pos": "noun",
+      "example_en": "We took shelter from the sudden rain inside a wooden gazebo.",
+      "example_uz": "Toʻsatdan yoʻqqan yomgʻirdan yogʻoch shiyponcha ichida panoh topdik.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "pergola",
+      "pronunciation_uz": "pergola",
+      "uzbek": "tok soʻrisi, soya yoʻlak",
+      "pos": "noun",
+      "example_en": "Grapevines climb over the wooden pergola in the yard.",
+      "example_uz": "Hovlidagi yogʻoch soʻri ustiga tok novdalari chirmashib oʻsgan.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "bollard",
+      "pronunciation_uz": "bollard",
+      "uzbek": "yoʻl toʻsiq ustunchasi",
+      "pos": "noun",
+      "example_en": "Metal bollards prevent cars from entering the pedestrian zone.",
+      "example_uz": "Metall toʻsiq ustunchalari mashinalarning piyodalar hududiga kirishiga yoʻl qoʻymaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "carport",
+      "pronunciation_uz": "karport",
+      "uzbek": "avtomobil soyaboni (ayvoni)",
+      "pos": "noun",
+      "example_en": "They built a metal carport to protect the car from sun and hail.",
+      "example_uz": "Ular mashinani quyosh va doʻldan himoya qilish uchun metall soyabon qurishdi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "partition",
+      "pronunciation_uz": "partishn",
+      "uzbek": "yupqa toʻsiq devor, pardevor",
+      "pos": "noun",
+      "example_en": "A glass partition divides the open workspace into smaller rooms.",
+      "example_uz": "Oynavand toʻsiq devor ochiq ish joyini kichikroq xonalarga ajratadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "demolish",
+      "pronunciation_uz": "demolish",
+      "uzbek": "buzib tashlamoq, yiqitmoq",
+      "pos": "verb",
+      "example_en": "The city plans to demolish the unsafe abandoned warehouse.",
+      "example_uz": "Shahar xavfli qarovsiz omborxonani buzib tashlashni rejalashtirmoqda.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "construct",
+      "pronunciation_uz": "konstrakt",
+      "uzbek": "qurmoq, barpo etmoq",
+      "pos": "verb",
+      "example_en": "Engineers will construct a modern suspension bridge next year.",
+      "example_uz": "Muhandislar kelasi yili zamonaviy osma koʻprik barpo etadilar.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "excavate",
+      "pronunciation_uz": "ekskaveyt",
+      "uzbek": "qazimoq, kotlovan qazimoq",
+      "pos": "verb",
+      "example_en": "Heavy machinery began to excavate the ground for the basement.",
+      "example_uz": "Ogʻir texnikalar yertoʻla uchun yer qazishni boshladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "pave",
+      "pronunciation_uz": "peyv",
+      "uzbek": "tosh yoki asfalt yotqizmoq",
+      "pos": "verb",
+      "example_en": "The crew will pave the village streets before winter arrives.",
+      "example_uz": "Ishchilar guruhi qish kelishidan oldin qishloq koʻchalariga asfalt yotqizadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "urban",
+      "pronunciation_uz": "erban",
+      "uzbek": "shaharga oid, shahar",
+      "pos": "adj",
+      "example_en": "Urban green spaces improve the quality of life for residents.",
+      "example_uz": "Shahardagi yashil hududlar aholining turmush sifatini yaxshilaydi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "suburban",
+      "pronunciation_uz": "saberban",
+      "uzbek": "shahar atrofidagi",
+      "pos": "adj",
+      "example_en": "Suburban areas usually offer quieter streets and larger yards.",
+      "example_uz": "Shahar atrofidagi hududlar odatda tinchroq koʻchalar va kattaroq hovlilarni taqdim etadi.",
+      "category": "Shahar, binolar va infratuzilma"
+    },
+    {
+      "english": "civic",
+      "pronunciation_uz": "sivik",
+      "uzbek": "fuqarolik, shaharga oid",
+      "pos": "adj",
+      "example_en": "The new civic center includes a theater and a youth club.",
+      "example_uz": "Yangi shahar jamoatchilik markazi teatr va yoshlar klubini oʻz ichiga oladi.",
+      "category": "Shahar, binolar va infratuzilma"
+    }
+  ]
+}

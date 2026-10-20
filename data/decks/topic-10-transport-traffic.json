@@ -1,0 +1,1213 @@
+{
+  "title": "Transport, avtomobil va yoʻl harakati",
+  "category": "Transport, Vehicles & Traffic",
+  "group": "topic",
+  "words": [
+    {
+      "english": "vehicle",
+      "pronunciation_uz": "viikl",
+      "uzbek": "transport vositasi",
+      "pos": "noun",
+      "example_en": "Every motor vehicle must pass an annual safety inspection.",
+      "example_uz": "Har bir avtotransport vositasi yillik texnik koʻrikdan oʻtishi shart.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "sedan",
+      "pronunciation_uz": "sedan",
+      "uzbek": "sedan (yengil avtomobil)",
+      "pos": "noun",
+      "example_en": "A four-door sedan is practical for daily family use.",
+      "example_uz": "Toʻrt eshikli sedan kundalik oilaviy foydalanish uchun qulay.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "hatchback",
+      "pronunciation_uz": "hetchbek",
+      "uzbek": "xetchbek",
+      "pos": "noun",
+      "example_en": "She parked her compact hatchback in a tight space.",
+      "example_uz": "U oʻzining ixcham xetchbegini tor joyga qoʻydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "convertible",
+      "pronunciation_uz": "konvertibl",
+      "uzbek": "kabriolet (tomi ochiladigan mashina)",
+      "pos": "noun",
+      "example_en": "He drove a red convertible along the coastal road.",
+      "example_uz": "U sohil boʻyidagi yoʻlda qizil kabrioletni haydab ketdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "minivan",
+      "pronunciation_uz": "miniven",
+      "uzbek": "miniven",
+      "pos": "noun",
+      "example_en": "Our large family rented a seven-seat minivan for the trip.",
+      "example_uz": "Katta oilamiz safar uchun yetti oʻrinli minivenni ijaraga oldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "van",
+      "pronunciation_uz": "ven",
+      "uzbek": "furgon, mikroavtobus",
+      "pos": "noun",
+      "example_en": "The delivery van arrived with our new refrigerator.",
+      "example_uz": "Yetkazib berish furgoni yangi muzlatkichimizni olib keldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "lorry",
+      "pronunciation_uz": "lorri",
+      "uzbek": "yuk mashinasi",
+      "pos": "noun",
+      "example_en": "A heavy lorry was carrying timber across the mountain pass.",
+      "example_uz": "Ogʻir yuk mashinasi dovon orqali yogʻoch-taxta olib ketayotgan edi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "truck",
+      "pronunciation_uz": "trak",
+      "uzbek": "yuk avtomobili",
+      "pos": "noun",
+      "example_en": "The dump truck unloaded gravel at the construction site.",
+      "example_uz": "Yuk avtomobili qurilish maydonchasiga shagʻal toʻkdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "trailer",
+      "pronunciation_uz": "treyler",
+      "uzbek": "tirkama, pritsep",
+      "pos": "noun",
+      "example_en": "The tractor pulled a long trailer loaded with cotton.",
+      "example_uz": "Traktor paxta ortilgan uzun tirkamani tortib borardi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "tractor",
+      "pronunciation_uz": "traktor",
+      "uzbek": "traktor",
+      "pos": "noun",
+      "example_en": "The farmer plowed the field with a modern diesel tractor.",
+      "example_uz": "Fermer dalani zamonaviy dizel traktori bilan shudgor qildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "bulldozer",
+      "pronunciation_uz": "buldouzer",
+      "uzbek": "buldozer",
+      "pos": "noun",
+      "example_en": "A bulldozer cleared the rocks from the mountain road.",
+      "example_uz": "Buldozer togʻ yoʻlidagi toshlarni surib tozaladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "excavator",
+      "pronunciation_uz": "ekskaveytor",
+      "uzbek": "ekskavator",
+      "pos": "noun",
+      "example_en": "The yellow excavator dug a deep trench for the pipes.",
+      "example_uz": "Sariq ekskavator quvurlar uchun chuqur xandaq qazidi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "forklift",
+      "pronunciation_uz": "forklift",
+      "uzbek": "avtoyuklagich (kara)",
+      "pos": "noun",
+      "example_en": "The warehouse operator used a forklift to move heavy pallets.",
+      "example_uz": "Ombor xodimi ogʻir tagliklarni koʻchirish uchun avtoyuklagichdan foydalandi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "fire engine",
+      "pronunciation_uz": "fayr enjin",
+      "uzbek": "oʻt oʻchirish mashinasi",
+      "pos": "noun",
+      "example_en": "Two fire engines rushed toward the burning warehouse.",
+      "example_uz": "Ikkita oʻt oʻchirish mashinasi yonayotgan omborxona tomon shoshildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "patrol car",
+      "pronunciation_uz": "patrol kar",
+      "uzbek": "patrul mashinasi",
+      "pos": "noun",
+      "example_en": "A police patrol car was parked near the highway exit.",
+      "example_uz": "Yoʻl-patrul mashinasi katta yoʻldan chiqish joyi yaqinida turardi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "taxi",
+      "pronunciation_uz": "taksi",
+      "uzbek": "taksi",
+      "pos": "noun",
+      "example_en": "We ordered a taxi through a mobile app.",
+      "example_uz": "Biz mobil ilova orqali taksi buyurtma qildik.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "cab",
+      "pronunciation_uz": "keb",
+      "uzbek": "taksi mashinasi",
+      "pos": "noun",
+      "example_en": "The yellow cab stopped at the corner to pick up a fare.",
+      "example_uz": "Sariq taksi mashinasi yoʻlovchi olish uchun burchakda toʻxtadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "shuttle",
+      "pronunciation_uz": "shattl",
+      "uzbek": "qatnov avtobusi, shattl",
+      "pos": "noun",
+      "example_en": "A free shuttle runs between the terminals every ten minutes.",
+      "example_uz": "Terminallar orasida har oʻn daqiqada bepul qatnov avtobusi yuradi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "coach",
+      "pronunciation_uz": "kouch",
+      "uzbek": "shaharlararo avtobus (yoki vagon)",
+      "pos": "noun",
+      "example_en": "We traveled to Bukhara on a comfortable air-conditioned coach.",
+      "example_uz": "Biz Buxoroga konditsionerli qulay shaharlararo avtobusda bordik.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "minibus",
+      "pronunciation_uz": "minibas",
+      "uzbek": "mikroavtobus, marshrutka",
+      "pos": "noun",
+      "example_en": "The minibus takes passengers directly to the mountain resort.",
+      "example_uz": "Mikroavtobus yoʻlovchilarni toʻgʻri togʻ kurortiga olib boradi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "trolleybus",
+      "pronunciation_uz": "trollibas",
+      "uzbek": "trolleybus",
+      "pos": "noun",
+      "example_en": "An electric trolleybus runs quietly along the main street.",
+      "example_uz": "Elektr trolleybus asosiy koʻcha boʻylab shovqinsiz harakatlanadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "tram",
+      "pronunciation_uz": "trem",
+      "uzbek": "tramvay",
+      "pos": "noun",
+      "example_en": "Samarkand introduced a modern electric tram line.",
+      "example_uz": "Samarqandda zamonaviy elektr tramvay liniyasi ishga tushirildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "streetcar",
+      "pronunciation_uz": "stritkar",
+      "uzbek": "tramvay vagoni",
+      "pos": "noun",
+      "example_en": "The vintage streetcar is popular with city tourists.",
+      "example_uz": "Eski uslubdagi tramvay vagoni shahar sayyohlari orasida mashhur.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "subway",
+      "pronunciation_uz": "sabuey",
+      "uzbek": "metro",
+      "pos": "noun",
+      "example_en": "Taking the subway is the fastest way to cross the city.",
+      "example_uz": "Metroda yurish shaharning narigi chekkasiga oʻtishning eng tez usulidir.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "metro",
+      "pronunciation_uz": "metrou",
+      "uzbek": "metropoliten, metro",
+      "pos": "noun",
+      "example_en": "Tashkent Metro stations are famous for their artistic designs.",
+      "example_uz": "Toshkent metropoliteni bekatlari oʻzining badiiy bezaklari bilan mashhur.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "locomotive",
+      "pronunciation_uz": "lokomotiv",
+      "uzbek": "lokomotiv, teplovoz, elektrovoz",
+      "pos": "noun",
+      "example_en": "A powerful electric locomotive pulls the high-speed train.",
+      "example_uz": "Kuchli elektrovoz tezyurar poyezdni tortib boradi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "carriage",
+      "pronunciation_uz": "kerrij",
+      "uzbek": "poyezd vagoni (yoki izvosh)",
+      "pos": "noun",
+      "example_en": "Our seats are in the third carriage of the express train.",
+      "example_uz": "Bizning joylarimiz tezyurar poyezdning uchinchi vagonida.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "compartment",
+      "pronunciation_uz": "kompartment",
+      "uzbek": "kupe (vagon boʻlmasi)",
+      "pos": "noun",
+      "example_en": "Four travelers shared a sleeping compartment on the night train.",
+      "example_uz": "Tungi poyezdda toʻrt nafar yoʻlovchi bitta yotoq kupesida ketishdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "freight train",
+      "pronunciation_uz": "freyt treyn",
+      "uzbek": "yuk poyezdi",
+      "pos": "noun",
+      "example_en": "A long freight train carried coal and grain across the border.",
+      "example_uz": "Uzun yuk poyezdi chegara orqali koʻmir va gʻalla olib oʻtdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "railroad",
+      "pronunciation_uz": "reylroud",
+      "uzbek": "temir yoʻl",
+      "pos": "noun",
+      "example_en": "The new railroad connects the fertile valley with the capital.",
+      "example_uz": "Yangi temir yoʻl serhosil vodiyni poytaxt bilan bogʻlaydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "track",
+      "pronunciation_uz": "trek",
+      "uzbek": "temir yoʻl izi, rels",
+      "pos": "noun",
+      "example_en": "Never walk across the railway track when the barrier is down.",
+      "example_uz": "Shlagbaum tushirilgan paytda hech qachon temir yoʻl izidan oʻtmang.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "platform",
+      "pronunciation_uz": "platform",
+      "uzbek": "perron, platforma",
+      "pos": "noun",
+      "example_en": "The high-speed train to Samarkand departs from platform two.",
+      "example_uz": "Samarqandga boradigan tezyurar poyezd ikkinchi perrondan joʻnaydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "turnstile",
+      "pronunciation_uz": "ternstayl",
+      "uzbek": "turniket",
+      "pos": "noun",
+      "example_en": "Tap your transport card on the turnstile to enter the metro.",
+      "example_uz": "Metroga kirish uchun transport kartangizni turniketga tekkizing.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "motorcycle",
+      "pronunciation_uz": "motorsaykl",
+      "uzbek": "mototsikl",
+      "pos": "noun",
+      "example_en": "The rider wore a protective helmet on his motorcycle.",
+      "example_uz": "Chavandoz mototsiklida himoya dubulgʻasini kiyib olgan edi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "scooter",
+      "pronunciation_uz": "skuter",
+      "uzbek": "skuter, samokat",
+      "pos": "noun",
+      "example_en": "Electric scooters have become popular for short urban trips.",
+      "example_uz": "Elektr skuterlar qisqa shahar safarlari uchun ommalashib ketdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "moped",
+      "pronunciation_uz": "mouped",
+      "uzbek": "moped",
+      "pos": "noun",
+      "example_en": "The courier delivers hot pizzas on a small moped.",
+      "example_uz": "Kuryer kichik mopedda issiq pitssalarni yetkazib beradi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "handlebar",
+      "pronunciation_uz": "hendlbar",
+      "uzbek": "velosiped yoki mototsikl ruli",
+      "pos": "noun",
+      "example_en": "He attached a small bell and a light to the handlebar.",
+      "example_uz": "U velosiped ruliga kichik qoʻngʻiroqcha va chiroq oʻrnatdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "pedal",
+      "pronunciation_uz": "pedal",
+      "uzbek": "pedal, tepki",
+      "pos": "noun",
+      "example_en": "Push the brake pedal gently when driving on icy roads.",
+      "example_uz": "Muzlagan yoʻllarda haydaganda tormoz pedalini ohista bosing.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "saddle",
+      "pronunciation_uz": "seddl",
+      "uzbek": "egar (velosiped oʻrindigʻi)",
+      "pos": "noun",
+      "example_en": "She adjusted the height of the bicycle saddle.",
+      "example_uz": "U velosiped oʻrindigʻining balandligini mosladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "motor",
+      "pronunciation_uz": "moutor",
+      "uzbek": "elektr motor, dvigatel",
+      "pos": "noun",
+      "example_en": "This hybrid car combines a gasoline engine with an electric motor.",
+      "example_uz": "Bu gibrid avtomobil benzinli dvigatelni elektr motor bilan birlashtiradi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "exhaust",
+      "pronunciation_uz": "igzost",
+      "uzbek": "tutun chiqarish quvuri (glushitel), chiqindi gaz",
+      "pos": "noun",
+      "example_en": "Thick white smoke came out of the broken exhaust pipe.",
+      "example_uz": "Buzilgan tutun chiqarish quvuridan qalin oq tutun chiqdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "muffler",
+      "pronunciation_uz": "mafler",
+      "uzbek": "shovqin pasaytirgich (glushitel)",
+      "pos": "noun",
+      "example_en": "A damaged muffler makes the car sound extremely loud.",
+      "example_uz": "Shikastlangan shovqin pasaytirgich mashinaning juda baland ovoz chiqarishiga sabab boʻladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "transmission",
+      "pronunciation_uz": "transmishn",
+      "uzbek": "uzatmalar qutisi (korobka peredach)",
+      "pos": "noun",
+      "example_en": "Most new city cars come with an automatic transmission.",
+      "example_uz": "Aksariyat yangi shahar mashinalari avtomatik uzatmalar qutisi bilan chiqadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "clutch",
+      "pronunciation_uz": "klatch",
+      "uzbek": "ulash muftasi (stsepleniye)",
+      "pos": "noun",
+      "example_en": "Press the clutch before shifting into first gear.",
+      "example_uz": "Birinchi uzatmaga oʻtkazishdan oldin ulash muftasini bosing.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "gearbox",
+      "pronunciation_uz": "girboks",
+      "uzbek": "uzatmalar qutisi",
+      "pos": "noun",
+      "example_en": "The mechanic repaired the faulty gearbox in two days.",
+      "example_uz": "Mexanik nosoz uzatmalar qutisini ikki kunda taʼmirladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "gear",
+      "pronunciation_uz": "gir",
+      "uzbek": "uzatma (skorost), tishli gʻildirak",
+      "pos": "noun",
+      "example_en": "Use a lower gear when driving down a steep hill.",
+      "example_uz": "Tik tepalikdan tushayotganda pastroq uzatmadan foydalaning.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "accelerator",
+      "pronunciation_uz": "ekselereytor",
+      "uzbek": "gaz pedali, akselerator",
+      "pos": "noun",
+      "example_en": "He took his foot off the accelerator to slow down.",
+      "example_uz": "U tezlikni pasaytirish uchun oyogʻini gaz pedalidan oldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "steering wheel",
+      "pronunciation_uz": "stiring uil",
+      "uzbek": "rul chambaragi",
+      "pos": "noun",
+      "example_en": "Keep both hands on the steering wheel while driving.",
+      "example_uz": "Haydash paytida ikkala qoʻlingizni rul chambaragida tuting.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "dashboard",
+      "pronunciation_uz": "deshbord",
+      "uzbek": "asboblar paneli (torpeda)",
+      "pos": "noun",
+      "example_en": "A red warning light flashed on the dashboard.",
+      "example_uz": "Asboblar panelida qizil ogohlantiruvchi chiroq miltilladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "speedometer",
+      "pronunciation_uz": "spidometer",
+      "uzbek": "spidometr (tezlik oʻlchagich)",
+      "pos": "noun",
+      "example_en": "The speedometer showed that the car was going eighty kilometers per hour.",
+      "example_uz": "Spidometr mashina soatiga sakson kilometr tezlikda ketayotganini koʻrsatdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "odometer",
+      "pronunciation_uz": "oudometer",
+      "uzbek": "odometr (bosib oʻtilgan masofa hisoblagichi)",
+      "pos": "noun",
+      "example_en": "The odometer reads fifty thousand kilometers.",
+      "example_uz": "Odometr ellik ming kilometrni koʻrsatmoqda.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "windshield",
+      "pronunciation_uz": "uindshild",
+      "uzbek": "old oyna (lobovoy oyna)",
+      "pos": "noun",
+      "example_en": "A small stone cracked the front windshield.",
+      "example_uz": "Kichkina tosh old oynani darz ketkazdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "wiper",
+      "pronunciation_uz": "uayper",
+      "uzbek": "oyna artgich (dvornik)",
+      "pos": "noun",
+      "example_en": "Turn on the windshield wipers during heavy rain.",
+      "example_uz": "Kuchli yomgʻir paytida oyna artgichlarni yoqing.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "headlight",
+      "pronunciation_uz": "hedlayt",
+      "uzbek": "old chiroq (fara)",
+      "pos": "noun",
+      "example_en": "Switch on your headlights before entering the dark tunnel.",
+      "example_uz": "Qorongʻi tonnelga kirishdan oldin old chiroqlarni yoqing.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "taillight",
+      "pronunciation_uz": "teyllayt",
+      "uzbek": "orqa chiroq (stop-signal)",
+      "pos": "noun",
+      "example_en": "The police officer noticed that one taillight was broken.",
+      "example_uz": "Yoʻl harakati xodimi bitta orqa chiroq singanini payqadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "indicator",
+      "pronunciation_uz": "indikeytor",
+      "uzbek": "burilish chirogʻi (povorotnik)",
+      "pos": "noun",
+      "example_en": "Use your indicator before changing lanes.",
+      "example_uz": "Boʻlakni almashtirishdan oldin burilish chirogʻingizni yoqing.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "horn",
+      "pronunciation_uz": "horn",
+      "uzbek": "signal (ovozli signal)",
+      "pos": "noun",
+      "example_en": "Do not honk your horn near hospitals or schools.",
+      "example_uz": "Shifoxonalar yoki maktablar yaqinida signal chalmang.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "bumper",
+      "pronunciation_uz": "bamper",
+      "uzbek": "bamper",
+      "pos": "noun",
+      "example_en": "The plastic bumper was scratched in the parking lot.",
+      "example_uz": "Avtoturargohda plastik bamper tirnalib qoldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "fender",
+      "pronunciation_uz": "fender",
+      "uzbek": "qanot (gʻildirak usti qoplamasi, krilo)",
+      "pos": "noun",
+      "example_en": "Mud splashed onto the front fender of the truck.",
+      "example_uz": "Yuk mashinasining old qanotiga loy sachradi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "trunk",
+      "pronunciation_uz": "trank",
+      "uzbek": "yukxona (bagajnik)",
+      "pos": "noun",
+      "example_en": "We put all our suitcases into the trunk of the car.",
+      "example_uz": "Biz barcha jomadonlarimizni mashina yukxonasiga joyladik.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "seatbelt",
+      "pronunciation_uz": "sitbelt",
+      "uzbek": "xavfsizlik kamari",
+      "pos": "noun",
+      "example_en": "Fasten your seatbelt before the vehicle starts moving.",
+      "example_uz": "Transport vositasi harakatlana boshlashidan oldin xavfsizlik kamarini taqing.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "airbag",
+      "pronunciation_uz": "erbeg",
+      "uzbek": "xavfsizlik yostiqchasi",
+      "pos": "noun",
+      "example_en": "The front airbag inflates instantly during a collision.",
+      "example_uz": "Toʻqnashuv vaqtida old xavfsizlik yostiqchasi bir zumda shishadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "tire",
+      "pronunciation_uz": "tayr",
+      "uzbek": "shina, balon",
+      "pos": "noun",
+      "example_en": "You should switch to winter tires before the first snow.",
+      "example_uz": "Birinchi qor yogʻishidan oldin qishki shinalarga oʻtishingiz kerak.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "wheel",
+      "pronunciation_uz": "uil",
+      "uzbek": "gʻildirak",
+      "pos": "noun",
+      "example_en": "The mechanic tightened the bolts on the rear wheel.",
+      "example_uz": "Mexanik orqa gʻildirakdagi boltlarni mahkamladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "axle",
+      "pronunciation_uz": "eksl",
+      "uzbek": "oʻq (most)",
+      "pos": "noun",
+      "example_en": "The heavy load put too much pressure on the rear axle.",
+      "example_uz": "Ogʻir yuk orqa oʻqqa haddan tashqari bosim tushirdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "puncture",
+      "pronunciation_uz": "pankcher",
+      "uzbek": "teshilish (shina teshilishi)",
+      "pos": "noun",
+      "example_en": "A sharp nail on the road caused a tire puncture.",
+      "example_uz": "Yoʻldagi oʻtkir mix shinaning teshilishiga sabab boʻldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "jack",
+      "pronunciation_uz": "jek",
+      "uzbek": "domkrat (mashina koʻtargich)",
+      "pos": "noun",
+      "example_en": "Use the car jack to lift the vehicle and change the flat tire.",
+      "example_uz": "Mashinani koʻtarish va yorilgan shinani almashtirish uchun domkratdan foydalaning.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "gasoline",
+      "pronunciation_uz": "gesolin",
+      "uzbek": "benzin",
+      "pos": "noun",
+      "example_en": "We stopped at a service station to fill the tank with gasoline.",
+      "example_uz": "Bakni benzin bilan toʻldirish uchun yoqilgʻi quyish shoxobchasida toʻxtadik.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "petrol",
+      "pronunciation_uz": "petrol",
+      "uzbek": "benzin (yoqilgʻi)",
+      "pos": "noun",
+      "example_en": "The price of high-octane petrol rose slightly this month.",
+      "example_uz": "Yuqori oktanli benzin narxi shu oyda biroz oshdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "diesel",
+      "pronunciation_uz": "dizel",
+      "uzbek": "dizel yoqilgʻisi (solyarka)",
+      "pos": "noun",
+      "example_en": "Heavy buses and freight trucks usually run on diesel.",
+      "example_uz": "Ogʻir avtobuslar va yuk mashinalari odatda dizel yoqilgʻisida ishlaydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "lubricant",
+      "pronunciation_uz": "lubrikant",
+      "uzbek": "surtma moy, moylash materiali",
+      "pos": "noun",
+      "example_en": "Synthetic lubricant protects engine parts from friction.",
+      "example_uz": "Sintetik moylash materiali dvigatel qismlarini ishqalanishdan himoya qiladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "charging station",
+      "pronunciation_uz": "charjing steyshn",
+      "uzbek": "quvvatlash shoxobchasi",
+      "pos": "noun",
+      "example_en": "More electric vehicle charging stations are opening across the city.",
+      "example_uz": "Shahar boʻylab elektromobillarni quvvatlash shoxobchalari koʻproq ochilmoqda.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "traffic",
+      "pronunciation_uz": "trefik",
+      "uzbek": "yoʻl harakati, qatnov",
+      "pos": "noun",
+      "example_en": "Morning traffic moves slowly near the bridge.",
+      "example_uz": "Ertalabki yoʻl harakati koʻprik yaqinida sekinlashadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "traffic jam",
+      "pronunciation_uz": "trefik jem",
+      "uzbek": "avtomobil tirbandligi (probka)",
+      "pos": "noun",
+      "example_en": "We were stuck in a traffic jam for forty minutes.",
+      "example_uz": "Biz qirq daqiqa davomida avtomobil tirbandligida qolib ketdik.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "rush hour",
+      "pronunciation_uz": "rash auer",
+      "uzbek": "tigʻiz vaqt (pik soati)",
+      "pos": "noun",
+      "example_en": "Subway trains are crowded during morning and evening rush hour.",
+      "example_uz": "Ertalabki va kechki tigʻiz vaqtlarda metro vagonlari gavjum boʻladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "gridlock",
+      "pronunciation_uz": "gridlok",
+      "uzbek": "butunlay tirband boʻlib qolish",
+      "pos": "noun",
+      "example_en": "Heavy snow caused complete gridlock on the ring road.",
+      "example_uz": "Kuchli qor halqa yoʻlida butunlay tirbandlikni keltirib chiqardi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "traffic light",
+      "pronunciation_uz": "trefik layt",
+      "uzbek": "svetofor",
+      "pos": "noun",
+      "example_en": "Stop immediately when the traffic light turns red.",
+      "example_uz": "Svetofor qizil yonganda darhol toʻxtang.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "road sign",
+      "pronunciation_uz": "roud sayn",
+      "uzbek": "yoʻl belgisi",
+      "pos": "noun",
+      "example_en": "A triangular road sign warns drivers of a sharp curve ahead.",
+      "example_uz": "Uchburchak yoʻl belgisi haydovchilarni oldinda keskin burilish borligidan ogohlantiradi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "speed limit",
+      "pronunciation_uz": "spid limit",
+      "uzbek": "tezlik cheklovi",
+      "pos": "noun",
+      "example_en": "The speed limit near schools is thirty kilometers per hour.",
+      "example_uz": "Maktablar yaqinida tezlik cheklovi soatiga oʻttiz kilometrni tashkil etadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "radar",
+      "pronunciation_uz": "reydar",
+      "uzbek": "radar (tezlikni aniqlash moslamasi)",
+      "pos": "noun",
+      "example_en": "A speed radar camera records vehicles exceeding the limit.",
+      "example_uz": "Tezlik radari kamerasi belgilangan meʼyordan oshgan mashinalarni qayd etadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "registration",
+      "pronunciation_uz": "rejistreyshn",
+      "uzbek": "roʻyxatdan oʻtkazish (texpasport)",
+      "pos": "noun",
+      "example_en": "Keep your vehicle registration document inside the glove box.",
+      "example_uz": "Avtomobilni roʻyxatdan oʻtkazish hujjatini (texpasportni) mashina boʻlmasida saqlang.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "toll",
+      "pronunciation_uz": "toul",
+      "uzbek": "pullik yoʻl toʻlovi",
+      "pos": "noun",
+      "example_en": "Drivers pay a small toll to use the new mountain tunnel.",
+      "example_uz": "Haydovchilar yangi togʻ tonnelidan foydalanish uchun kichik toʻlov toʻlaydilar.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "detour",
+      "pronunciation_uz": "ditur",
+      "uzbek": "aylanma yoʻl",
+      "pos": "noun",
+      "example_en": "Road repairs forced buses to take a long detour.",
+      "example_uz": "Yoʻl taʼmirlash ishlari avtobuslarni uzoq aylanma yoʻldan yurishga majbur qildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "bypass",
+      "pronunciation_uz": "baypas",
+      "uzbek": "shahar chetidan aylanib oʻtuvchi yoʻl",
+      "pos": "noun",
+      "example_en": "Freight trucks use the southern bypass to avoid city streets.",
+      "example_uz": "Yuk mashinalari shahar koʻchalariga kirmaslik uchun janubiy aylanma yoʻldan foydalanadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "median",
+      "pronunciation_uz": "midian",
+      "uzbek": "yoʻl oʻrtasidagi ajratuvchi boʻlak",
+      "pos": "noun",
+      "example_en": "Green bushes were planted along the highway median.",
+      "example_uz": "Katta yoʻl oʻrtasidagi ajratuvchi boʻlak boʻylab yashil butalar ekildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "guardrail",
+      "pronunciation_uz": "gardreyl",
+      "uzbek": "yoʻl chetidagi himoya toʻsigʻi",
+      "pos": "noun",
+      "example_en": "Steel guardrails protect cars along the steep mountain pass.",
+      "example_uz": "Poʻlat himoya toʻsiqlari tik togʻ dovoni boʻylab mashinalarni himoya qiladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "pothole",
+      "pronunciation_uz": "pothoul",
+      "uzbek": "yoʻldagi chuqurcha, oʻydim-chuqur",
+      "pos": "noun",
+      "example_en": "Workers repaired the potholes that formed after winter frosts.",
+      "example_uz": "Ishchilar qishki ayozlardan keyin paydo boʻlgan yoʻl chuqurchalarini taʼmirlashdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "collision",
+      "pronunciation_uz": "kolijn",
+      "uzbek": "toʻqnashuv",
+      "pos": "noun",
+      "example_en": "Thick fog on the highway led to a minor collision.",
+      "example_uz": "Katta yoʻldagi qalin tuman kichik toʻqnashuvga sabab boʻldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "wreck",
+      "pronunciation_uz": "rek",
+      "uzbek": "avariya, halokatga uchragan transport",
+      "pos": "noun",
+      "example_en": "A tow truck removed the wreck from the middle of the road.",
+      "example_uz": "Evakuator halokatga uchragan mashinani yoʻl oʻrtasidan olib ketdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "tow truck",
+      "pronunciation_uz": "tou trak",
+      "uzbek": "evakuator (shatakka oluvchi mashina)",
+      "pos": "noun",
+      "example_en": "We called a tow truck when our car broke down at night.",
+      "example_uz": "Kechasi mashinamiz buzilib qolganda evakuator chaqirdik.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "pedestrian",
+      "pronunciation_uz": "pedestrian",
+      "uzbek": "piyoda",
+      "pos": "noun",
+      "example_en": "Drivers must always yield to a pedestrian on the zebra crossing.",
+      "example_uz": "Haydovchilar piyodalar oʻtish joyidagi piyodaga har doim yoʻl berishlari shart.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "commuter",
+      "pronunciation_uz": "komyuter",
+      "uzbek": "qatnab ishlovchi yoʻlovchi",
+      "pos": "noun",
+      "example_en": "Suburban trains carry thousands of commuters every morning.",
+      "example_uz": "Shahar atrofi poyezdlari har ertalab minglab qatnab ishlovchi yoʻlovchilarni tashiydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "motorist",
+      "pronunciation_uz": "moutorist",
+      "uzbek": "avtomobil haydovchisi",
+      "pos": "noun",
+      "example_en": "Every motorist should carry a first-aid kit and fire extinguisher.",
+      "example_uz": "Har bir avtomobil haydovchisi birinchi yordam qutisi va oʻt oʻchirgich olib yurishi kerak.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "cyclist",
+      "pronunciation_uz": "sayklist",
+      "uzbek": "velosipedchi",
+      "pos": "noun",
+      "example_en": "A special green lane was painted for cyclists.",
+      "example_uz": "Velosipedchilar uchun maxsus yashil yoʻlak chizildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "chauffeur",
+      "pronunciation_uz": "shoufer",
+      "uzbek": "shaxsiy haydovchi, shofyor",
+      "pos": "noun",
+      "example_en": "The embassy chauffeur waited outside the main entrance.",
+      "example_uz": "Elchixona haydovchisi asosiy kirish eshigi tashqarisida kutib turdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "mechanic",
+      "pronunciation_uz": "mekanik",
+      "uzbek": "avtomexanik, usta",
+      "pos": "noun",
+      "example_en": "An experienced mechanic diagnosed the engine noise quickly.",
+      "example_uz": "Tajribali avtomexanik dvigatel shovqini sababini tezda aniqladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "conductor",
+      "pronunciation_uz": "kondaktor",
+      "uzbek": "konduktor, vagon kuzatuvchisi",
+      "pos": "noun",
+      "example_en": "The train conductor checked our electronic tickets at the door.",
+      "example_uz": "Vagon kuzatuvchisi eshik oldida elektron chiptalarimizni tekshirdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "pilot",
+      "pronunciation_uz": "paylot",
+      "uzbek": "uchuvchi, pilot",
+      "pos": "noun",
+      "example_en": "The pilot announced that we would land in twenty minutes.",
+      "example_uz": "Uchuvchi yigirma daqiqadan soʻng qoʻnishimizni eʼlon qildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "cockpit",
+      "pronunciation_uz": "kokpit",
+      "uzbek": "uchuvchilar kabinasi",
+      "pos": "noun",
+      "example_en": "Only authorized crew members may enter the cockpit.",
+      "example_uz": "Uchuvchilar kabinasiga faqat vakolatli ekipaj aʼzolari kirishi mumkin.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "fuselage",
+      "pronunciation_uz": "fyuzelaj",
+      "uzbek": "fyuzelyaj (samolyot korpusi)",
+      "pos": "noun",
+      "example_en": "Engineers inspected the aircraft fuselage before takeoff.",
+      "example_uz": "Muhandislar parvozdan oldin samolyot korpusini koʻzdan kechirishdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "wing",
+      "pronunciation_uz": "uing",
+      "uzbek": "qanot",
+      "pos": "noun",
+      "example_en": "Ice was cleared from the airplane wings before departure.",
+      "example_uz": "Joʻnab ketishdan oldin samolyot qanotlari muzdan tozalandi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "propeller",
+      "pronunciation_uz": "propeller",
+      "uzbek": "parrak, vint",
+      "pos": "noun",
+      "example_en": "The small plane has a twin-blade propeller on its nose.",
+      "example_uz": "Kichik samolyotning old qismida ikki pallali parrak bor.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "turbine",
+      "pronunciation_uz": "terbayn",
+      "uzbek": "turbina",
+      "pos": "noun",
+      "example_en": "Jet turbines produce tremendous thrust during takeoff.",
+      "example_uz": "Reaktiv turbinalar havoga koʻtarilish paytida ulkan tortish kuchini hosil qiladi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "runway",
+      "pronunciation_uz": "ranuey",
+      "uzbek": "uchish-qoʻnish yoʻlagi",
+      "pos": "noun",
+      "example_en": "The jet taxied slowly toward the main runway.",
+      "example_uz": "Samolyot asosiy uchish-qoʻnish yoʻlagi tomon sekin harakatlandi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "hangar",
+      "pronunciation_uz": "hengar",
+      "uzbek": "angar (samolyotlar garaji)",
+      "pos": "noun",
+      "example_en": "Maintenance crews service the aircraft inside a huge hangar.",
+      "example_uz": "Texnik xizmat guruhlari ulkan angar ichida samolyotga xizmat koʻrsatadilar.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "helicopter",
+      "pronunciation_uz": "helikopter",
+      "uzbek": "vertolyot",
+      "pos": "noun",
+      "example_en": "A rescue helicopter landed on the mountain plateau.",
+      "example_uz": "Qutqaruv vertolyoti togʻ platosiga qoʻndi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "glider",
+      "pronunciation_uz": "glayder",
+      "uzbek": "planer (motorsiz uchish apparati)",
+      "pos": "noun",
+      "example_en": "The light glider soared silently on warm air currents.",
+      "example_uz": "Yengil planer iliq havo oqimlarida ovozsiz parvoz qildi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "parachute",
+      "pronunciation_uz": "parashut",
+      "uzbek": "parashyut",
+      "pos": "noun",
+      "example_en": "The skydiver opened his parachute at the right altitude.",
+      "example_uz": "Parashyutchi kerakli balandlikda parashyutini ochdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "altitude",
+      "pronunciation_uz": "eltityud",
+      "uzbek": "balandlik (uchish balandligi)",
+      "pos": "noun",
+      "example_en": "The aircraft is cruising at an altitude of ten thousand meters.",
+      "example_uz": "Samolyot oʻn ming metr balandlikda uchib bormoqda.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "turbulence",
+      "pronunciation_uz": "terbyulens",
+      "uzbek": "turbulentlik (havo chayqalishi)",
+      "pos": "noun",
+      "example_en": "Please keep your seatbelt fastened in case of turbulence.",
+      "example_uz": "Havo chayqalishi ehtimoli tufayli xavfsizlik kamarini taqilgan holda saqlang.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "vessel",
+      "pronunciation_uz": "vessel",
+      "uzbek": "kema, suzish vositasi",
+      "pos": "noun",
+      "example_en": "A cargo vessel entered the harbor early in the morning.",
+      "example_uz": "Yuk kemasi erta tongda bandargohga kirib keldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "ship",
+      "pronunciation_uz": "ship",
+      "uzbek": "kema",
+      "pos": "noun",
+      "example_en": "The massive container ship carries thousands of steel boxes.",
+      "example_uz": "Ulkan konteyner kemasi minglab poʻlat qutilarni tashiydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "boat",
+      "pronunciation_uz": "bout",
+      "uzbek": "qayiq",
+      "pos": "noun",
+      "example_en": "We rented a wooden rowboat on the mountain lake.",
+      "example_uz": "Biz togʻ koʻlida yogʻoch eshkakli qayiqni ijaraga oldik.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "ferry",
+      "pronunciation_uz": "ferri",
+      "uzbek": "parom (kechuv kemasi)",
+      "pos": "noun",
+      "example_en": "A car ferry connects the mainland with the island.",
+      "example_uz": "Avtomobil paromi materikni orol bilan bogʻlaydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "yacht",
+      "pronunciation_uz": "yot",
+      "uzbek": "yaxta",
+      "pos": "noun",
+      "example_en": "White yachts were anchored in the calm bay.",
+      "example_uz": "Tinch koʻrfazda oq yaxtalar langar tashlab turardi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "barge",
+      "pronunciation_uz": "barj",
+      "uzbek": "barja (yalpoq tubli yuk kemasi)",
+      "pos": "noun",
+      "example_en": "A flat barge transported sand and gravel down the river.",
+      "example_uz": "Yalpoq barja daryo boʻylab qum va shagʻal tashidi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "submarine",
+      "pronunciation_uz": "sabmarin",
+      "uzbek": "suv osti kemasi",
+      "pos": "noun",
+      "example_en": "The research submarine dived deep into the ocean trench.",
+      "example_uz": "Tadqiqot suv osti kemasi okean botigʻiga chuqur shoʻngʻidi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "rudder",
+      "pronunciation_uz": "radder",
+      "uzbek": "kema ruli",
+      "pos": "noun",
+      "example_en": "The captain turned the rudder to steer away from the rocks.",
+      "example_uz": "Kapitan qoyalardan uzoqlashish uchun kema rulini burdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "mast",
+      "pronunciation_uz": "mast",
+      "uzbek": "machta (yelkan ustuni)",
+      "pos": "noun",
+      "example_en": "A national flag fluttered at the top of the tall mast.",
+      "example_uz": "Baland machta uchida milliy bayroq hilpirab turardi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "sail",
+      "pronunciation_uz": "seyl",
+      "uzbek": "yelkan",
+      "pos": "noun",
+      "example_en": "Strong wind filled the white canvas sail.",
+      "example_uz": "Kuchli shamol oq brezent yelkanni toʻldirdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "oar",
+      "pronunciation_uz": "or",
+      "uzbek": "eshkak",
+      "pos": "noun",
+      "example_en": "He pulled both oars steadily to row across the river.",
+      "example_uz": "U daryoning narigi betiga oʻtish uchun ikkala eshkakni bir maromda eshdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "port",
+      "pronunciation_uz": "port",
+      "uzbek": "port, dengiz bandargohi",
+      "pos": "noun",
+      "example_en": "This international port handles millions of tons of freight.",
+      "example_uz": "Bu xalqaro port millionlab tonna yuklarni qabul qilib joʻnatadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "pier",
+      "pronunciation_uz": "pir",
+      "uzbek": "pirs, iskala",
+      "pos": "noun",
+      "example_en": "Tourists walked to the end of the wooden pier.",
+      "example_uz": "Sayyohlar yogʻoch pirsning oxirigacha borishdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "dock",
+      "pronunciation_uz": "dok",
+      "uzbek": "dok, kema toʻxtash joyi",
+      "pos": "noun",
+      "example_en": "Workers unloaded crates of fruit at the dock.",
+      "example_uz": "Ishchilar kema toʻxtash joyida meva qutilarini tushirishdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "lighthouse",
+      "pronunciation_uz": "laythaus",
+      "uzbek": "mayoq",
+      "pos": "noun",
+      "example_en": "The bright beam of the lighthouse guides ships at night.",
+      "example_uz": "Mayoqning yorqin nuri tunda kemalarga yoʻl koʻrsatadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "cargo",
+      "pronunciation_uz": "kargou",
+      "uzbek": "yuk (kema yoki samolyot yuki)",
+      "pos": "noun",
+      "example_en": "The plane carried medical supplies as urgent cargo.",
+      "example_uz": "Samolyot shoshilinch yuk sifatida tibbiy buyumlarni olib keldi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "freight",
+      "pronunciation_uz": "freyt",
+      "uzbek": "tashiladigan yuk, fraxt",
+      "pos": "noun",
+      "example_en": "Rail freight is economical for heavy raw materials.",
+      "example_uz": "Temir yoʻl orqali yuk tashish ogʻir xomashyolar uchun tejamkor hisoblanadi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "decelerate",
+      "pronunciation_uz": "diselereyt",
+      "uzbek": "tezlikni pasaytirmoq, sekinlashmoq",
+      "pos": "verb",
+      "example_en": "Drivers must decelerate when approaching a school zone.",
+      "example_uz": "Haydovchilar maktab hududiga yaqinlashganda tezlikni pasaytirishlari shart.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "steer",
+      "pronunciation_uz": "stir",
+      "uzbek": "rulni boshqarmoq, yoʻnaltirmoq",
+      "pos": "verb",
+      "example_en": "It is difficult to steer a heavy truck on muddy roads.",
+      "example_uz": "Loyli yoʻllarda ogʻir yuk mashinasining rulini boshqarish qiyin.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "overtake",
+      "pronunciation_uz": "ouvertyek",
+      "uzbek": "quvib oʻtmoq",
+      "pos": "verb",
+      "example_en": "Never overtake another vehicle on a blind curve.",
+      "example_uz": "Koʻrinmas burilishda hech qachon boshqa transport vositasini quvib oʻtmang.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "commute",
+      "pronunciation_uz": "komyut",
+      "uzbek": "qatnab ishlamoq (yoʻl yurmoq)",
+      "pos": "verb",
+      "example_en": "She commutes from Chirchiq to Tashkent by train every day.",
+      "example_uz": "U har kuni Chirchiqdan Toshkentga poyezdda qatnab ishlaydi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "embark",
+      "pronunciation_uz": "imbark",
+      "uzbek": "kemaga yoki samolyotga chiqmoq",
+      "pos": "verb",
+      "example_en": "Passengers waited at the gate to embark on the ferry.",
+      "example_uz": "Yoʻlovchilar paromga chiqish uchun darvoza oldida kutib turishdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "disembark",
+      "pronunciation_uz": "disimbark",
+      "uzbek": "kemadan yoki samolyotdan tushmoq",
+      "pos": "verb",
+      "example_en": "Crew members helped elderly travelers disembark safely.",
+      "example_uz": "Ekipaj aʼzolari keksa yoʻlovchilarga xavfsiz tushishga yordam berishdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    },
+    {
+      "english": "tow",
+      "pronunciation_uz": "tou",
+      "uzbek": "shatakka olmoq, tortib ketmoq",
+      "pos": "verb",
+      "example_en": "They had to tow the broken bus to the nearest depot.",
+      "example_uz": "Ular buzilgan avtobusni eng yaqin depoga shatakka olib borishga majbur boʻlishdi.",
+      "category": "Transport, avtomobil va yoʻl harakati"
+    }
+  ]
+}

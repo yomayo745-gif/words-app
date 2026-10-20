@@ -1,0 +1,1132 @@
+{
+  "title": "Sanʼat, musiqa, kino va adabiyot",
+  "category": "Art, Music, Literature & Cinema",
+  "group": "topic",
+  "words": [
+    {
+      "english": "accordion",
+      "pronunciation_uz": "akordion",
+      "uzbek": "akkordeon",
+      "pos": "noun",
+      "example_en": "The musician played a lively folk tune on the accordion.",
+      "example_uz": "Musiqachi akkordeonda shoʻx xalq kuyini chaldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "acoustic",
+      "pronunciation_uz": "akustik",
+      "uzbek": "akustik (tabiiy ovozli)",
+      "pos": "adj",
+      "example_en": "He accompanied the singer on an acoustic guitar.",
+      "example_uz": "U xonandaga akustik gitarada joʻr boʻldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "acting",
+      "pronunciation_uz": "ekting",
+      "uzbek": "aktyorlik mahorati",
+      "pos": "noun",
+      "example_en": "Her natural acting won praise from film critics.",
+      "example_uz": "Uning tabiiy aktyorlik mahorati kinotanqidchilar olqishiga sazovor boʻldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "actress",
+      "pronunciation_uz": "ektres",
+      "uzbek": "aktrisa",
+      "pos": "noun",
+      "example_en": "The talented actress received the best performance award.",
+      "example_uz": "Isteʼdodli aktrisa eng yaxshi ijro uchun mukofot oldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "adaptation",
+      "pronunciation_uz": "adapteyshn",
+      "uzbek": "ekranlashtirish (moslashtirilgan asar)",
+      "pos": "noun",
+      "example_en": "The film is a faithful adaptation of Qodiriy's famous novel.",
+      "example_uz": "Film Qodiriyning mashhur romaniga sodiq qolgan holda ekranlashtirilgan asardir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "animation",
+      "pronunciation_uz": "animeyshn",
+      "uzbek": "animatsiya (multfilm sanʼati)",
+      "pos": "noun",
+      "example_en": "Modern 3D animation brings fairy tales to life.",
+      "example_uz": "Zamonaviy 3D animatsiya ertaklarni jonlantiradi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "applause",
+      "pronunciation_uz": "aploz",
+      "uzbek": "qarsaklar (olqishlar)",
+      "pos": "noun",
+      "example_en": "Thunderous applause filled the theater as the curtain fell.",
+      "example_uz": "Parda tushishi bilan teatrni gulduros qarsaklar toʻldirdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "aria",
+      "pronunciation_uz": "aria",
+      "uzbek": "ariya (opera yakkanavoz qoʻshigʻi)",
+      "pos": "noun",
+      "example_en": "The soprano sang a moving aria at the Navoi Theater.",
+      "example_uz": "Soprano xonandasi Navoiy teatrida taʼsirli ariya kuyladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "art",
+      "pronunciation_uz": "art",
+      "uzbek": "sanʼat",
+      "pos": "noun",
+      "example_en": "The Savitsky Museum in Nukus holds a world-famous art collection.",
+      "example_uz": "Nukusdagi Savitskiy muzeyida dunyoga mashhur sanʼat kolleksiyasi saqlanadi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "art gallery",
+      "pronunciation_uz": "art galeri",
+      "uzbek": "sanʼat galereyasi (koʻrgazma zali)",
+      "pos": "noun",
+      "example_en": "Young painters exhibited their works at the city art gallery.",
+      "example_uz": "Yosh rassomlar shahar sanʼat galereyasida oʻz asarlarini namoyish etdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "artist",
+      "pronunciation_uz": "artist",
+      "uzbek": "rassom (sanʼatkor)",
+      "pos": "noun",
+      "example_en": "The artist mixed oil paints on a wooden palette.",
+      "example_uz": "Rassom yogʻoch palitrada moyboʻyoqlarni aralashtirdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "artwork",
+      "pronunciation_uz": "artvork",
+      "uzbek": "sanʼat asari",
+      "pos": "noun",
+      "example_en": "Lighting in the museum protects delicate historic artwork.",
+      "example_uz": "Muzeydagi yoritish tizimi nozik tarixiy sanʼat asarlarini himoya qiladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "audience",
+      "pronunciation_uz": "odiens",
+      "uzbek": "tomoshabinlar (tinglovchilar)",
+      "pos": "noun",
+      "example_en": "The audience stood up to applaud the symphony orchestra.",
+      "example_uz": "Tomoshabinlar simfonik orkestrni olqishlash uchun oʻrinlaridan turdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "audition",
+      "pronunciation_uz": "odishn",
+      "uzbek": "kasting (ijodiy koʻrik / sinov)",
+      "pos": "noun",
+      "example_en": "Over a hundred young actors attended the film audition.",
+      "example_uz": "Kino kastingida yuzdan ortiq yosh aktyorlar ishtirok etdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "autobiography",
+      "pronunciation_uz": "otobayografi",
+      "uzbek": "avtobiografiya (tarjimai hol asari)",
+      "pos": "noun",
+      "example_en": "The Baburnama is a masterpiece of historical autobiography.",
+      "example_uz": "Boburnoma tarixiy avtobiografiya janrining shoh asaridir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "backstage",
+      "pronunciation_uz": "beksteyj",
+      "uzbek": "sahna orti (kulis orti)",
+      "pos": "noun",
+      "example_en": "Actors waited quietly backstage for their cue.",
+      "example_uz": "Aktyorlar sahna ortida oʻz chiqish navbatini jimgina kutdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "ballad",
+      "pronunciation_uz": "balad",
+      "uzbek": "ballada (lirik qoʻshiq yoki doston)",
+      "pos": "noun",
+      "example_en": "The singer performed a slow emotional ballad.",
+      "example_uz": "Xonanda sekin va taʼsirli ballada kuyladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "ballet",
+      "pronunciation_uz": "baley",
+      "uzbek": "balet",
+      "pos": "noun",
+      "example_en": "We watched the Swan Lake ballet at the opera house.",
+      "example_uz": "Biz opera va balet teatrida Oqqush koʻli baletini tomosha qildik.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "bass",
+      "pronunciation_uz": "beys",
+      "uzbek": "bas (yoʻgʻon ovoz yoki bas-gitara)",
+      "pos": "noun",
+      "example_en": "The deep bass rhythm kept the whole band in time.",
+      "example_uz": "Chuqur bas ritmi butun guruhni bir maromda ushlab turdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "bestseller",
+      "pronunciation_uz": "bestseler",
+      "uzbek": "bestseller (eng koʻp sotilgan kitob)",
+      "pos": "noun",
+      "example_en": "Her new detective novel became an instant bestseller.",
+      "example_uz": "Uning yangi detektiv romani tezda bestsellerga aylandi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "biography",
+      "pronunciation_uz": "bayografi",
+      "uzbek": "biografiya (hayot va ijod haqida asar)",
+      "pos": "noun",
+      "example_en": "I read a fascinating biography of Mirzo Ulugbek.",
+      "example_uz": "Men Mirzo Ulugʻbek haqida qiziqarli biografik asar oʻqidim.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "blockbuster",
+      "pronunciation_uz": "blokbaster",
+      "uzbek": "blokbaster (katta daromadli mashhur film)",
+      "pos": "noun",
+      "example_en": "The summer blockbuster broke box office records.",
+      "example_uz": "Yozgi blokbaster kassa tushumlari boʻyicha rekord oʻrnatdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "box office",
+      "pronunciation_uz": "boks ofis",
+      "uzbek": "teatr yoki kino kassasi",
+      "pos": "noun",
+      "example_en": "Pick up your reserved tickets at the theater box office.",
+      "example_uz": "Band qilingan chiptalaringizni teatr kassasidan oling.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "bronze statue",
+      "pronunciation_uz": "bronz stechu",
+      "uzbek": "bronza haykal",
+      "pos": "noun",
+      "example_en": "A majestic bronze statue stands in the center of the square.",
+      "example_uz": "Maydon markazida muhtasham bronza haykal qad rostlagan.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "bust",
+      "pronunciation_uz": "bast",
+      "uzbek": "byust (koʻkrakkacha boʻlgan haykal)",
+      "pos": "noun",
+      "example_en": "The sculptor carved a marble bust of the poet.",
+      "example_uz": "Haykaltarosh shoirning marmar byustini yaratdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "caricature",
+      "pronunciation_uz": "kerikacher",
+      "uzbek": "karikatura (hajviy rasm)",
+      "pos": "noun",
+      "example_en": "Street artists drew funny caricatures for tourists.",
+      "example_uz": "Koʻcha rassomlari sayyohlar uchun kulgili karikaturalar chizdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "cartoon",
+      "pronunciation_uz": "kartun",
+      "uzbek": "multfilm (yoki hajviy rasm)",
+      "pos": "noun",
+      "example_en": "Children love watching animated cartoons on Saturday mornings.",
+      "example_uz": "Bolalar shanba kuni ertalab multfilm koʻrishni yaxshi koʻradilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "cast",
+      "pronunciation_uz": "kast",
+      "uzbek": "aktyorlar tarkibi",
+      "pos": "noun",
+      "example_en": "The entire cast bowed together at the end of the play.",
+      "example_uz": "Spektakl yakunida butun aktyorlar tarkibi birgalikda taʼzim qildi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "cello",
+      "pronunciation_uz": "chelou",
+      "uzbek": "violonchel",
+      "pos": "noun",
+      "example_en": "The cello has a warm, rich tone similar to the human voice.",
+      "example_uz": "Violonchel inson ovoziga oʻxshash iliq va boy tembrga ega.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "chapter",
+      "pronunciation_uz": "chepter",
+      "uzbek": "bob (kitob bobi)",
+      "pos": "noun",
+      "example_en": "Read the first three chapters of the book for Monday.",
+      "example_uz": "Dushanba kuni uchun kitobning dastlabki uchta bobini oʻqing.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "character",
+      "pronunciation_uz": "kerakter",
+      "uzbek": "personaj (qahramon / obraz)",
+      "pos": "noun",
+      "example_en": "Otabek is the central character in the novel Days Gone By.",
+      "example_uz": "Otabek Oʻtkan kunlar romanining bosh qahramonidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "chord",
+      "pronunciation_uz": "kord",
+      "uzbek": "akkord (tovushlar uygʻunligi)",
+      "pos": "noun",
+      "example_en": "Learn three basic guitar chords to play many songs.",
+      "example_uz": "Koʻplab qoʻshiqlarni chalish uchun uchta asosiy gitara akkordini oʻrganing.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "choreographer",
+      "pronunciation_uz": "koriografer",
+      "uzbek": "xoreograf (raqs sahnalashtiruvchi)",
+      "pos": "noun",
+      "example_en": "The choreographer taught the dancers a new ensemble routine.",
+      "example_uz": "Xoreograf raqqosalarga yangi jamoaviy raqsni oʻrgatdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "choreography",
+      "pronunciation_uz": "koriografi",
+      "uzbek": "xoreografiya (raqs sanʼati)",
+      "pos": "noun",
+      "example_en": "The stage musical featured energetic choreography.",
+      "example_uz": "Musiqiy spektaklda joʻshqin xoreografiya namoyish etildi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "chorus",
+      "pronunciation_uz": "korus",
+      "uzbek": "naqorat (qoʻshiq naqorati)",
+      "pos": "noun",
+      "example_en": "Everyone in the hall sang along during the chorus.",
+      "example_uz": "Zaldagi hamma qoʻshiq naqoratiga joʻr boʻlib kuyladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "cinema",
+      "pronunciation_uz": "sinema",
+      "uzbek": "kino (kinoteatr / kinematografiya)",
+      "pos": "noun",
+      "example_en": "The Tashkent International Film Festival celebrates world cinema.",
+      "example_uz": "Toshkent xalqaro kinofestivali jahon kinematografiyasini ulugʻlaydi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "cinematography",
+      "pronunciation_uz": "sinematografi",
+      "uzbek": "operatorlik sanʼati (kinematografiya)",
+      "pos": "noun",
+      "example_en": "The movie won an award for its stunning desert cinematography.",
+      "example_uz": "Film choʻldagi betakror operatorlik ishi uchun mukofotga sazovor boʻldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "clarinet",
+      "pronunciation_uz": "klarinet",
+      "uzbek": "klarnet",
+      "pos": "noun",
+      "example_en": "The clarinet solo opened the orchestral piece.",
+      "example_uz": "Orkestr asarini klarnet yakkaxon ijrosi boshlab berdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "classical music",
+      "pronunciation_uz": "klasikal myuzik",
+      "uzbek": "mumtoz musiqa (klassik musiqa)",
+      "pos": "noun",
+      "example_en": "Shashmaqom is a pinnacle of Central Asian classical music.",
+      "example_uz": "Shashmaqom Markaziy Osiyo mumtoz musiqasining choʻqqisidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "climax",
+      "pronunciation_uz": "klaymeks",
+      "uzbek": "kulminatsiya (eng yuqori nuqta)",
+      "pos": "noun",
+      "example_en": "Tension builds steadily toward the climax of the thriller.",
+      "example_uz": "Trillerning kulminatsion nuqtasiga qadar keskinlik muttasil ortib boradi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "comedy",
+      "pronunciation_uz": "komedi",
+      "uzbek": "komediya",
+      "pos": "noun",
+      "example_en": "Mahallada duv-duv gap is a beloved Uzbek comedy film.",
+      "example_uz": "Mahallada duv-duv gap sevimli oʻzbek komediya filmidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "comic book",
+      "pronunciation_uz": "komik buk",
+      "uzbek": "komiks kitob",
+      "pos": "noun",
+      "example_en": "The illustrator drew superheroes for a popular comic book.",
+      "example_uz": "Illyustrator mashhur komiks kitobi uchun superqahramonlar rasmini chizdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "compose",
+      "pronunciation_uz": "kompouz",
+      "uzbek": "bastalamoq (asar yozmoq)",
+      "pos": "verb",
+      "example_en": "It took the maestro two years to compose the opera.",
+      "example_uz": "Maestroga operani bastalash uchun ikki yil vaqt kerak boʻldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "critic",
+      "pronunciation_uz": "kritik",
+      "uzbek": "tanqidchi (sanʼatshunos)",
+      "pos": "noun",
+      "example_en": "Literary critics praised the young writer's debut collection.",
+      "example_uz": "Adabiyotshunos tanqidchilar yosh yozuvchining ilk toʻplamini yuqori baholadilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "curator",
+      "pronunciation_uz": "kyureytor",
+      "uzbek": "kurator (muzey yoki koʻrgazma rahbari)",
+      "pos": "noun",
+      "example_en": "The museum curator explained the history of the ancient frescoes.",
+      "example_uz": "Muzey kuratori qadimiy freskalarning tarixini tushuntirib berdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "dialogue",
+      "pronunciation_uz": "dayalog",
+      "uzbek": "dialog (suhbat)",
+      "pos": "noun",
+      "example_en": "Sharp, natural dialogue makes the screenplay engaging.",
+      "example_uz": "Oʻtkir va tabiiy dialog ssenariyni qiziqarli qiladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "documentary",
+      "pronunciation_uz": "dokyumentari",
+      "uzbek": "hujjatli film",
+      "pos": "noun",
+      "example_en": "We watched a nature documentary about the Aral Sea.",
+      "example_uz": "Biz Orol dengizi haqida tabiatga oid hujjatli film tomosha qildik.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "dramatist",
+      "pronunciation_uz": "dramatist",
+      "uzbek": "dramaturg",
+      "pos": "noun",
+      "example_en": "The dramatist wrote plays about social change and family.",
+      "example_uz": "Dramaturg ijtimoiy oʻzgarishlar va oila haqida pyesalar yozgan.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "drummer",
+      "pronunciation_uz": "dramer",
+      "uzbek": "barabanchi (doirachi)",
+      "pos": "noun",
+      "example_en": "The skilled drummer amazed the crowd with rapid rhythms.",
+      "example_uz": "Mohir doirachi tezkor usullar bilan olomonni hayratda qoldirdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "duet",
+      "pronunciation_uz": "duet",
+      "uzbek": "duet (ikki kishilik ijro)",
+      "pos": "noun",
+      "example_en": "Two famous singers recorded a romantic duet.",
+      "example_uz": "Ikki mashhur xonanda romantik duet yozdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "encore",
+      "pronunciation_uz": "onkor",
+      "uzbek": "bis (takroriy ijro talabi)",
+      "pos": "noun",
+      "example_en": "The audience clapped until the pianist returned for an encore.",
+      "example_uz": "Pianinochi takroriy ijro uchun sahnaga qaytmaguncha tomoshabinlar qarsak chaldilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "ensemble",
+      "pronunciation_uz": "onsombl",
+      "uzbek": "ansambl",
+      "pos": "noun",
+      "example_en": "The traditional maqom ensemble performed on dutar and tanbur.",
+      "example_uz": "Anʼanaviy maqom ansambli dutor va tanburda kuy ijro etdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "epic",
+      "pronunciation_uz": "epik",
+      "uzbek": "epos (doston / epik asar)",
+      "pos": "noun",
+      "example_en": "Alpomish is a heroic folk epic of the Uzbek people.",
+      "example_uz": "Alpomish oʻzbek xalqining qahramonlik dostonidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "episode",
+      "pronunciation_uz": "episoud",
+      "uzbek": "qism (serial qismi / epizod)",
+      "pos": "noun",
+      "example_en": "The final episode of the series airs next Sunday.",
+      "example_uz": "Serialning soʻnggi qismi kelasi yakshanba kuni efirga uzatiladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "fable",
+      "pronunciation_uz": "feybl",
+      "uzbek": "masal",
+      "pos": "noun",
+      "example_en": "A fable often uses talking animals to teach a moral lesson.",
+      "example_uz": "Masalda koʻpincha axloqiy xulosa chiqarish uchun gapiradigan hayvonlar obrazidan foydalaniladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "fairy tale",
+      "pronunciation_uz": "feri teyl",
+      "uzbek": "ertak",
+      "pos": "noun",
+      "example_en": "Grandmothers tell wonderful folk fairy tales to children.",
+      "example_uz": "Buvilar bolalarga ajoyib xalq ertaklarini aytib beradilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "fantasy",
+      "pronunciation_uz": "fentasi",
+      "uzbek": "fentezi (xayoliy-fantastik janr)",
+      "pos": "noun",
+      "example_en": "Dragons and wizards are common elements in fantasy novels.",
+      "example_uz": "Ajdarlar va sehrgarlar fentezi romanlarida koʻp uchraydigan unsurlardir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "fiction",
+      "pronunciation_uz": "fikshn",
+      "uzbek": "badiiy adabiyot",
+      "pos": "noun",
+      "example_en": "Do you prefer reading historical fiction or science books?",
+      "example_uz": "Tarixiy badiiy adabiyot oʻqishni afzal koʻrasizmi yoki ilmiy kitoblarnimi?",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "film",
+      "pronunciation_uz": "film",
+      "uzbek": "film (kino)",
+      "pos": "noun",
+      "example_en": "The director shot the entire film on location in Bukhara.",
+      "example_uz": "Rejissyor butun filmni Buxoroning oʻzida tasvirga oldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "filmmaker",
+      "pronunciation_uz": "filmmeyker",
+      "uzbek": "kinoijodkor (kinorejissyor)",
+      "pos": "noun",
+      "example_en": "Young filmmakers presented their short movies at the festival.",
+      "example_uz": "Yosh kinoijodkorlar festivalda oʻzlarining qisqa metrajli filmlarini taqdim etdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "flute",
+      "pronunciation_uz": "flut",
+      "uzbek": "fleyta (nay)",
+      "pos": "noun",
+      "example_en": "The gentle sound of the wooden flute echoed across the valley.",
+      "example_uz": "Yogʻoch nayning mayin ovozi vodiy uzra aks-sado berdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "folk music",
+      "pronunciation_uz": "fouk myuzik",
+      "uzbek": "xalq musiqasi (folklor)",
+      "pos": "noun",
+      "example_en": "Bakhshis preserve ancient oral traditions through folk music.",
+      "example_uz": "Baxshilar xalq musiqasi orqali qadimiy ogʻzaki anʼanalarni saqlab keladilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "folklore",
+      "pronunciation_uz": "fouklor",
+      "uzbek": "folklor (xalq ogʻzaki ijodi)",
+      "pos": "noun",
+      "example_en": "Proverbs, legends, and songs are part of national folklore.",
+      "example_uz": "Maqollar, afsonalar va qoʻshiqlar milliy folklorning bir qismidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "fresco",
+      "pronunciation_uz": "freskou",
+      "uzbek": "freska (devoriy surat)",
+      "pos": "noun",
+      "example_en": "Archaeologists uncovered ancient wall frescoes at Afrosiyob.",
+      "example_uz": "Arxeologlar Afrosiyobda qadimiy devoriy freskalarni topdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "genre",
+      "pronunciation_uz": "jonra",
+      "uzbek": "janr",
+      "pos": "noun",
+      "example_en": "Mystery is her favorite literary and film genre.",
+      "example_uz": "Detektiv uning eng sevimli adabiy va kino janridir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "guitar",
+      "pronunciation_uz": "gitar",
+      "uzbek": "gitara",
+      "pos": "noun",
+      "example_en": "He tuned the six strings of his classical guitar.",
+      "example_uz": "U klassik gitarasining oltita torini sozladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "guitarist",
+      "pronunciation_uz": "gitarist",
+      "uzbek": "gitarachi",
+      "pos": "noun",
+      "example_en": "The lead guitarist played an impressive melodic solo.",
+      "example_uz": "Yetakchi gitarachi taʼsirli kuy yakkanavozligini ijro etdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "harp",
+      "pronunciation_uz": "harp",
+      "uzbek": "arfa (changsimon cholgʻu)",
+      "pos": "noun",
+      "example_en": "The harpist plucked the golden strings of the concert harp.",
+      "example_uz": "Arfachi konsert arfasining oltinrang torlarini chertdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "headline",
+      "pronunciation_uz": "hedlayn",
+      "uzbek": "bosh sahnaga chiqmoq (sarlavha)",
+      "pos": "verb",
+      "example_en": "A famous orchestra will headline the closing gala concert.",
+      "example_uz": "Yakuniy gala-konsertda mashhur orkestr asosiy dasturni namoyish etadi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "illustration",
+      "pronunciation_uz": "ilustreyshn",
+      "uzbek": "illyustratsiya (kitob bezagi/rasmi)",
+      "pos": "noun",
+      "example_en": "Children's books are filled with bright watercolor illustrations.",
+      "example_uz": "Bolalar kitoblari yorqin akvarel illyustratsiyalarga boy boʻladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "illustrator",
+      "pronunciation_uz": "ilustreytor",
+      "uzbek": "illyustrator (kitob rassomi)",
+      "pos": "noun",
+      "example_en": "The illustrator designed a captivating cover for the novel.",
+      "example_uz": "Rassom-illyustrator roman uchun jozibali muqova yaratdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "improvisation",
+      "pronunciation_uz": "improvizeyshn",
+      "uzbek": "improvizatsiya (badiha)",
+      "pos": "noun",
+      "example_en": "Jazz musicians are masters of melodic improvisation.",
+      "example_uz": "Jaz musiqachilari ohangdor improvizatsiya ustalaridir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "instrument",
+      "pronunciation_uz": "instrument",
+      "uzbek": "musiqa asbobi (cholgʻu)",
+      "pos": "noun",
+      "example_en": "The tanbur is a long-necked stringed musical instrument.",
+      "example_uz": "Tanbur uzun dastali torli musiqa cholgʻusidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "intermission",
+      "pronunciation_uz": "intermishn",
+      "uzbek": "antrakt (tanaffus)",
+      "pos": "noun",
+      "example_en": "There is a twenty-minute intermission between the two acts.",
+      "example_uz": "Ikki parda oraligʻida yigirma daqiqalik antrakt boʻladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "jazz",
+      "pronunciation_uz": "jez",
+      "uzbek": "jaz musiqasi",
+      "pos": "noun",
+      "example_en": "Tashkent hosts an international jazz festival every spring.",
+      "example_uz": "Toshkent har bahorda xalqaro jaz festivaliga mezbonlik qiladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "keyboard instrument",
+      "pronunciation_uz": "kibord instrument",
+      "uzbek": "klavishli cholgʻu asbobi",
+      "pos": "noun",
+      "example_en": "The piano and organ are classic keyboard instruments.",
+      "example_uz": "Fortepiano va organ mumtoz klavishli cholgʻu asboblaridir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "legend",
+      "pronunciation_uz": "lejend",
+      "uzbek": "afsona (rivoyat)",
+      "pos": "noun",
+      "example_en": "Every ancient fortress has a romantic local legend.",
+      "example_uz": "Har bir qadimiy qalʼaning oʻziga xos romantik mahalliy afsonasi bor.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "lyrics",
+      "pronunciation_uz": "liriks",
+      "uzbek": "qoʻshiq matni (soʻzlari)",
+      "pos": "noun",
+      "example_en": "The composer wrote music to the poet's beautiful lyrics.",
+      "example_uz": "Bastakor shoirning goʻzal sheʼri soʻzlariga musiqa bastaladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "masterpiece",
+      "pronunciation_uz": "masterpis",
+      "uzbek": "shoh asar (durdona)",
+      "pos": "noun",
+      "example_en": "The Registan ensemble is a masterpiece of Eastern architecture.",
+      "example_uz": "Registon majmuasi Sharq meʼmorchiligining shoh asaridir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "melody",
+      "pronunciation_uz": "melodi",
+      "uzbek": "melodiya (kuy / ohang)",
+      "pos": "noun",
+      "example_en": "That haunting melody stayed in my mind all day.",
+      "example_uz": "Oʻsha dilrabo kuy kun boʻyi xayolimdan ketmadi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "memoir",
+      "pronunciation_uz": "memvar",
+      "uzbek": "memuar (esdaliklar / xotiralar)",
+      "pos": "noun",
+      "example_en": "The veteran actor published a memoir about his stage career.",
+      "example_uz": "Faxriy aktyor oʻzining sahnadagi faoliyati haqida xotiralar kitobini nashr etdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "metaphor",
+      "pronunciation_uz": "metafor",
+      "uzbek": "metafora (istiora)",
+      "pos": "noun",
+      "example_en": "Poets use vivid metaphors to express deep emotions.",
+      "example_uz": "Shoirlar chuqur tuygʻularni ifodalash uchun yorqin metaforalardan foydalanadilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "miniature",
+      "pronunciation_uz": "miniacher",
+      "uzbek": "miniatyura (nafis kichik tasvir)",
+      "pos": "noun",
+      "example_en": "Kamoliddin Behzod is the legendary master of Eastern miniature painting.",
+      "example_uz": "Kamoliddin Behzod Sharq miniatyura sanʼatining afsonaviy ustasidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "monologue",
+      "pronunciation_uz": "monolog",
+      "uzbek": "monolog",
+      "pos": "noun",
+      "example_en": "Hamlet's famous monologue requires powerful stage presence.",
+      "example_uz": "Gamletning mashhur monologi sahnada kuchli mahoratni talab qiladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "mosaic",
+      "pronunciation_uz": "mouzeyik",
+      "uzbek": "mozaika (koshinkor naqsh)",
+      "pos": "noun",
+      "example_en": "Intricate blue mosaics decorate the portals of Samarkand.",
+      "example_uz": "Murakkab moviy mozaikalar Samarqand peshtoqlarini bezab turibdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "movie",
+      "pronunciation_uz": "muvi",
+      "uzbek": "kino (film)",
+      "pos": "noun",
+      "example_en": "Let's watch a family movie together this Friday night.",
+      "example_uz": "Keling, shu juma oqshomida birgalikda oilaviy film tomosha qilamiz.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "mural",
+      "pronunciation_uz": "myural",
+      "uzbek": "devoriy rasm (monumental tasvir)",
+      "pos": "noun",
+      "example_en": "Artists painted a colorful mural on the side of the building.",
+      "example_uz": "Rassomlar bino devoriga rang-barang monumental rasm chizdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "music",
+      "pronunciation_uz": "myuzik",
+      "uzbek": "musiqa",
+      "pos": "noun",
+      "example_en": "Traditional music brings people together during holidays.",
+      "example_uz": "Milliy musiqa bayramlarda insonlarni birlashtiradi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "musical",
+      "pronunciation_uz": "myuzikal",
+      "uzbek": "myuzikl (musiqiy spektakl)",
+      "pos": "noun",
+      "example_en": "The Broadway musical combined acting, singing, and dance.",
+      "example_uz": "Brodvey myuzikli aktyorlik, qoʻshiq va raqsni oʻzida mujassam etdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "myth",
+      "pronunciation_uz": "mis",
+      "uzbek": "mif (asotir)",
+      "pos": "noun",
+      "example_en": "Ancient myths explain how constellations were named.",
+      "example_uz": "Qadimgi asotirlar yulduz turkumlari qanday nomlanganini tushuntiradi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "narrator",
+      "pronunciation_uz": "nereytor",
+      "uzbek": "hikoyachi (roviy / suxandon)",
+      "pos": "noun",
+      "example_en": "A warm-voiced narrator reads the audiobook.",
+      "example_uz": "Yoqimli ovozli suxandon audiokitobni oʻqiydi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "nonfiction",
+      "pronunciation_uz": "nonfikshn",
+      "uzbek": "hujjatli-ilmiy adabiyot (nobadiiy)",
+      "pos": "noun",
+      "example_en": "Biographies and history books belong to the nonfiction section.",
+      "example_uz": "Biografiyalar va tarix kitoblari hujjatli-ilmiy adabiyot boʻlimiga kiradi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "novel",
+      "pronunciation_uz": "novel",
+      "uzbek": "roman",
+      "pos": "noun",
+      "example_en": "Starry Nights is a famous historical novel by Pirimqul Qodirov.",
+      "example_uz": "Yulduzli tunlar Pirimqul Qodirovning mashhur tarixiy romanidir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "novelist",
+      "pronunciation_uz": "novelist",
+      "uzbek": "romannavis (yozuvchi)",
+      "pos": "noun",
+      "example_en": "The novelist spent five years researching historical archives.",
+      "example_uz": "Romannavis tarixiy arxivlarni oʻrganishga besh yil sarfladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "oil painting",
+      "pronunciation_uz": "oyl peynting",
+      "uzbek": "moyboʻyoq kartinasi (rangtasvir)",
+      "pos": "noun",
+      "example_en": "An oil painting takes weeks to dry completely.",
+      "example_uz": "Moyboʻyoqda chizilgan kartina toʻliq qurishi uchun haftalar ketadi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "opera",
+      "pronunciation_uz": "opera",
+      "uzbek": "opera",
+      "pos": "noun",
+      "example_en": "Maysara's Tricks is a famous comic opera.",
+      "example_uz": "Maysaraning ishi mashhur komik operadir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "orchestra",
+      "pronunciation_uz": "orkestra",
+      "uzbek": "orkestr",
+      "pos": "noun",
+      "example_en": "Over sixty musicians play in the national symphony orchestra.",
+      "example_uz": "Milliy simfonik orkestrda oltmishdan ortiq sozanda ijro etadi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "painting",
+      "pronunciation_uz": "peynting",
+      "uzbek": "kartina (surat / rassomlik)",
+      "pos": "noun",
+      "example_en": "The landscape painting captures morning light in the mountains.",
+      "example_uz": "Manzara kartinasida togʻlardagi ertalabki yorugʻlik aks ettirilgan.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "palette",
+      "pronunciation_uz": "palet",
+      "uzbek": "palitra (boʻyoq aralashtirgich)",
+      "pos": "noun",
+      "example_en": "Squeeze a small amount of cobalt blue onto the palette.",
+      "example_uz": "Palitraga ozgina kobalt koʻk boʻyogʻidan siqib chiqaring.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "percussion",
+      "pronunciation_uz": "perkashn",
+      "uzbek": "urma cholgʻular",
+      "pos": "noun",
+      "example_en": "Drums, cymbals, and xylophones are percussion instruments.",
+      "example_uz": "Barabanlar, tarelkalar va ksilofonlar urma cholgʻu asboblaridir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "performance",
+      "pronunciation_uz": "performans",
+      "uzbek": "ijro (tomosha / namoyish)",
+      "pos": "noun",
+      "example_en": "The evening theater performance begins at seven sharp.",
+      "example_uz": "Kechki teatr tomoshasi roppa-rosa soat yettida boshlanadi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "pianist",
+      "pronunciation_uz": "pianist",
+      "uzbek": "pianinochi",
+      "pos": "noun",
+      "example_en": "The young pianist won first prize at the international competition.",
+      "example_uz": "Yosh pianinochi xalqaro tanlovda birinchi oʻrinni qoʻlga kiritdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "piano",
+      "pronunciation_uz": "pianou",
+      "uzbek": "pianino (fortepiano)",
+      "pos": "noun",
+      "example_en": "A black grand piano stood at the center of the concert stage.",
+      "example_uz": "Konsert sahnasi markazida qora royal turardi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "playwright",
+      "pronunciation_uz": "pleyrayt",
+      "uzbek": "dramaturg (pyesa muallifi)",
+      "pos": "noun",
+      "example_en": "The playwright attended the opening night of her new drama.",
+      "example_uz": "Dramaturg oʻzining yangi dramasi premyerasida qatnashdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "plot",
+      "pronunciation_uz": "plot",
+      "uzbek": "syujet (voqealar rivoji)",
+      "pos": "noun",
+      "example_en": "The detective movie has a clever plot full of surprises.",
+      "example_uz": "Detektiv film kutilmagan voqealarga boy aqlli syujetga ega.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "poem",
+      "pronunciation_uz": "pouem",
+      "uzbek": "sheʼr",
+      "pos": "noun",
+      "example_en": "Students recited a patriotic poem by Erkin Vohidov.",
+      "example_uz": "Oʻquvchilar Erkin Vohidovning vatanparvarlik ruhidagi sheʼrini yoddan aytdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "poet",
+      "pronunciation_uz": "pouet",
+      "uzbek": "shoir",
+      "pos": "noun",
+      "example_en": "Zulfiya is one of the most beloved poets of Uzbekistan.",
+      "example_uz": "Zulfiya Oʻzbekistonning eng sevimli shoiralaridan biridir.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "poetry",
+      "pronunciation_uz": "pouetri",
+      "uzbek": "sheʼriyat (nazm)",
+      "pos": "noun",
+      "example_en": "Ghazal poetry has been cherished in the East for centuries.",
+      "example_uz": "Gʻazal sheʼriyati Sharqda asrlar davomida eʼzozlab kelinadi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "premiere",
+      "pronunciation_uz": "primier",
+      "uzbek": "premyera (ilk namoyish)",
+      "pos": "noun",
+      "example_en": "Actors walked the red carpet at the movie premiere.",
+      "example_uz": "Aktyorlar film premyerasida qizil gilamdan oʻtdilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "prose",
+      "pronunciation_uz": "prouz",
+      "uzbek": "nasr (proza)",
+      "pos": "noun",
+      "example_en": "He writes equally well in both lyrical poetry and narrative prose.",
+      "example_uz": "U ham lirik nazmda, ham badiiy nasrda birdek mahorat bilan ijod qiladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "protagonist",
+      "pronunciation_uz": "protagonist",
+      "uzbek": "bosh qahramon",
+      "pos": "noun",
+      "example_en": "Readers quickly sympathize with the brave young protagonist.",
+      "example_uz": "Kitobxonlar jasur yosh bosh qahramonga tezda xayrixoh boʻlib qoladilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "rehearsal",
+      "pronunciation_uz": "rihersal",
+      "uzbek": "repetitsiya (tayyorgarlik mashqi)",
+      "pos": "noun",
+      "example_en": "The cast held a full dress rehearsal before opening night.",
+      "example_uz": "Ijodiy jamoa premyera oldidan sahna liboslarida bosh repetitsiya oʻtkazdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "rehearse",
+      "pronunciation_uz": "rihers",
+      "uzbek": "repetitsiya qilmoq (mashq qilmoq)",
+      "pos": "verb",
+      "example_en": "Musicians rehearse for four hours every day before a tour.",
+      "example_uz": "Musiqachilar gastrol oldidan har kuni toʻrt soat mashq qiladilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "rhyme",
+      "pronunciation_uz": "raym",
+      "uzbek": "qofiya",
+      "pos": "noun",
+      "example_en": "Children's verses use simple rhythm and rhyme.",
+      "example_uz": "Bolalar sheʼrlarida oddiy vazn va qofiyadan foydalaniladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "rhythm",
+      "pronunciation_uz": "rizm",
+      "uzbek": "ritm (usul / marom)",
+      "pos": "noun",
+      "example_en": "Dancers move in perfect sync with the rhythm of the doira.",
+      "example_uz": "Raqqosalar doira usuliga mukammal uygʻunlikda harakat qiladilar.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "role",
+      "pronunciation_uz": "roul",
+      "uzbek": "rol",
+      "pos": "noun",
+      "example_en": "Playing a historical figure was the most challenging role of his career.",
+      "example_uz": "Tarixiy shaxs obrazini yaratish uning faoliyatidagi eng murakkab rol boʻldi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "saxophone",
+      "pronunciation_uz": "seksofoun",
+      "uzbek": "saksofon",
+      "pos": "noun",
+      "example_en": "A smooth saxophone solo filled the evening jazz club.",
+      "example_uz": "Mayin saksofon yakkaxon ijrosi kechki jaz klubini toʻldirdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "scene",
+      "pronunciation_uz": "sin",
+      "uzbek": "sahna (kadr / lavha)",
+      "pos": "noun",
+      "example_en": "The final wedding scene was filmed in an old courtyard.",
+      "example_uz": "Yakuniy toʻy sahnasi eski hovlida suratga olindi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "screenplay",
+      "pronunciation_uz": "skrinpley",
+      "uzbek": "kinossenariy",
+      "pos": "noun",
+      "example_en": "She won first prize for writing an original screenplay.",
+      "example_uz": "U original kinossenariy yozgani uchun birinchi mukofotni qoʻlga kiritdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "sculpture",
+      "pronunciation_uz": "skalpcher",
+      "uzbek": "haykal (haykaltaroshlik)",
+      "pos": "noun",
+      "example_en": "Modern wood and metal sculptures stood in the courtyard.",
+      "example_uz": "Hovlida zamonaviy yogʻoch va metall haykallar turardi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "sequel",
+      "pronunciation_uz": "sikvel",
+      "uzbek": "davomi (film yoki kitobning keyingi qismi)",
+      "pos": "noun",
+      "example_en": "Following the success of the movie, the studio announced a sequel.",
+      "example_uz": "Film muvaffaqiyatidan soʻng studiya uning davomi suratga olinishini eʼlon qildi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "series",
+      "pronunciation_uz": "siriz",
+      "uzbek": "serial (yoki turkum)",
+      "pos": "noun",
+      "example_en": "The historical television series has twelve episodes.",
+      "example_uz": "Tarixiy teleserial oʻn ikki qismdan iborat.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "song",
+      "pronunciation_uz": "song",
+      "uzbek": "qoʻshiq (ashula)",
+      "pos": "noun",
+      "example_en": "Everyone knows the words to that traditional folk song.",
+      "example_uz": "Oʻsha milliy xalq qoʻshigʻining soʻzlarini hamma biladi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "soundtrack",
+      "pronunciation_uz": "saundtrek",
+      "uzbek": "saundtrek (film musiqasi)",
+      "pos": "noun",
+      "example_en": "Orchestral music gave the film an unforgettable soundtrack.",
+      "example_uz": "Orkestr musiqasi filmga unutilmas saundtrek baxsh etdi.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    },
+    {
+      "english": "stanza",
+      "pronunciation_uz": "stenza",
+      "uzbek": "band (sheʼr bandi)",
+      "pos": "noun",
+      "example_en": "Each stanza of the poem consists of four rhyming lines.",
+      "example_uz": "Sheʼrning har bir bandi qofiyalangan toʻrt misradan iborat.",
+      "category": "Sanʼat, musiqa, kino va adabiyot"
+    }
+  ]
+}

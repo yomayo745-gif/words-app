@@ -1,0 +1,1339 @@
+{
+  "title": "Muhim soʻz birikmalari (Collocations)",
+  "category": "Essential English Collocations",
+  "group": "topic",
+  "words": [
+    {
+      "english": "make a decision",
+      "pronunciation_uz": "meyk e disizhen",
+      "uzbek": "qaror qabul qilmoq",
+      "pos": "verb",
+      "example_en": "You need to make a decision before Friday.",
+      "example_uz": "Juma kunigacha bir qarorga kelishingiz kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make progress",
+      "pronunciation_uz": "meyk progres",
+      "uzbek": "oldinga siljimoq, rivojlanishga erishmoq",
+      "pos": "verb",
+      "example_en": "She is making steady progress in her English studies.",
+      "example_uz": "U ingliz tilini oʻrganishda barqaror oʻsishga erishmoqda.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take into account",
+      "pronunciation_uz": "teyk intu ekaunt",
+      "uzbek": "hisobga olmoq, inobatga olmoq",
+      "pos": "verb",
+      "example_en": "We must take transportation costs into account.",
+      "example_uz": "Transport xarajatlarini ham inobatga olishimiz shart.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pay attention",
+      "pronunciation_uz": "pey etenshen",
+      "uzbek": "eʼtibor bermoq, diqqat qilmoq",
+      "pos": "verb",
+      "example_en": "Please pay attention to the safety instructions.",
+      "example_uz": "Iltimos, xavfsizlik qoidalariga diqqat bilan eʼtibor bering.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "keep in mind",
+      "pronunciation_uz": "kip in maynd",
+      "uzbek": "yodda tutmoq, esda saqlamoq",
+      "pos": "verb",
+      "example_en": "Keep in mind that the museum closes at five.",
+      "example_uz": "Muzey soat beshda yopilishini yodda tuting.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "play a vital role",
+      "pronunciation_uz": "pley e vaytl roul",
+      "uzbek": "muhim oʻrin tutmoq, hal qiluvchi rol oʻynamoq",
+      "pos": "verb",
+      "example_en": "Sleep plays a vital role in physical recovery.",
+      "example_uz": "Uyqu jismoniy tiklanishda juda muhim oʻrin tutadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "reach an agreement",
+      "pronunciation_uz": "rich en egriment",
+      "uzbek": "kelishuvga erishmoq",
+      "pos": "verb",
+      "example_en": "After long talks, both sides reached an agreement.",
+      "example_uz": "Uzoq muzokaralardan soʻng har ikki tomon kelishuvga erishdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "meet a deadline",
+      "pronunciation_uz": "mit e dedlayn",
+      "uzbek": "belgilangan muddatga ulgurmoq",
+      "pos": "verb",
+      "example_en": "Our team worked overtime to meet the deadline.",
+      "example_uz": "Jamoamiz belgilangan muddatga ulgurish uchun ish vaqtidan tashqari ishladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "raise awareness",
+      "pronunciation_uz": "reyz eueyrnes",
+      "uzbek": "xabardorlikni oshirmoq, targʻib qilmoq",
+      "pos": "verb",
+      "example_en": "The campaign aims to raise awareness about water conservation.",
+      "example_uz": "Kampaniya suvni tejash boʻyicha xabardorlikni oshirishga qaratilgan.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "draw a conclusion",
+      "pronunciation_uz": "dro e konkluzhen",
+      "uzbek": "xulosa chiqarmoq",
+      "pos": "verb",
+      "example_en": "It is too early to draw a conclusion from these initial results.",
+      "example_uz": "Bu dastlabki natijalardan xulosa chiqarishga hali erta.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make an effort",
+      "pronunciation_uz": "meyk en efort",
+      "uzbek": "harakat qilmoq, urinib koʻrmoq",
+      "pos": "verb",
+      "example_en": "He made a genuine effort to finish the report early.",
+      "example_uz": "U hisobotni erta tugatish uchun astoydil harakat qildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "do research",
+      "pronunciation_uz": "du ruserch",
+      "uzbek": "ilmiy tadqiqot olib bormoq, izlanmoq",
+      "pos": "verb",
+      "example_en": "Scientists are doing research on renewable energy storage.",
+      "example_uz": "Olimlar qayta tiklanuvchi energiyani saqlash boʻyicha tadqiqot olib borishmoqda.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take responsibility",
+      "pronunciation_uz": "teyk risponsibiliti",
+      "uzbek": "masʼuliyatni oʻz zimmasiga olmoq",
+      "pos": "verb",
+      "example_en": "The director took full responsibility for the delay.",
+      "example_uz": "Direktor kechikish uchun toʻliq masʼuliyatni oʻz zimmasiga oldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "have an impact",
+      "pronunciation_uz": "hev en impekt",
+      "uzbek": "taʼsir koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "Social media has a huge impact on modern communication.",
+      "example_uz": "Ijtimoiy tarmoqlar zamonaviy muloqotga ulkan taʼsir koʻrsatadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "break a habit",
+      "pronunciation_uz": "breyk e hebit",
+      "uzbek": "odatni tashlamoq",
+      "pos": "verb",
+      "example_en": "It takes strong willpower to break a bad habit.",
+      "example_uz": "Yomon odatni tashlash uchun kuchli iroda talab etiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "catch a cold",
+      "pronunciation_uz": "kech e kold",
+      "uzbek": "shamollab qolmoq",
+      "pos": "verb",
+      "example_en": "Wear a warm scarf so you don't catch a cold.",
+      "example_uz": "Shamollab qolmaslik uchun issiq sharf oʻrab oling.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "come to terms with",
+      "pronunciation_uz": "kam tu termz uiz",
+      "uzbek": "koʻnikmoq, tan olmoq va qabul qilmoq",
+      "pos": "verb",
+      "example_en": "She finally came to terms with the changes in her career.",
+      "example_uz": "U nihoyat kasbidagi oʻzgarishlarga koʻnikib, ularni qabul qildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "conduct a survey",
+      "pronunciation_uz": "kondakt e servey",
+      "uzbek": "soʻrovnoma oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "The university conducted a survey among first-year students.",
+      "example_uz": "Universitet birinchi kurs talabalari oʻrtasida soʻrovnoma oʻtkazdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "do damage",
+      "pronunciation_uz": "du demij",
+      "uzbek": "zarar yetkazmoq, ziyon keltirmoq",
+      "pos": "verb",
+      "example_en": "The frost did severe damage to the apricot trees.",
+      "example_uz": "Sovuq urishi oʻrik daraxtlariga jiddiy zarar yetkazdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "do someone a favor",
+      "pronunciation_uz": "du samuan e feyvor",
+      "uzbek": "birovga yaxshilik qilmoq, iltimosini bajarmoq",
+      "pos": "verb",
+      "example_en": "Could you do me a favor and mail this letter?",
+      "example_uz": "Menga bir yaxshilik qilib, shu xatni pochta orqali joʻnata olasizmi?",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "earn a living",
+      "pronunciation_uz": "ern e living",
+      "uzbek": "tirikchilik qilmoq, roʻzgʻor tebratish uchun pul topmoq",
+      "pos": "verb",
+      "example_en": "He earns a living by designing mobile applications.",
+      "example_uz": "U mobil ilovalar yaratish orqali tirikchilik qiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "express an opinion",
+      "pronunciation_uz": "ekspres en opinyon",
+      "uzbek": "fikr bildirmoq",
+      "pos": "verb",
+      "example_en": "Every participant was invited to express an opinion freely.",
+      "example_uz": "Har bir ishtirokchiga oʻz fikrini erkin bildirish taklif etildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "find a solution",
+      "pronunciation_uz": "faynd e solushen",
+      "uzbek": "yechim topmoq",
+      "pos": "verb",
+      "example_en": "Engineers worked together to find a solution to the problem.",
+      "example_uz": "Muhandislar muammoga yechim topish uchun birgalikda ishladilar.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "follow instructions",
+      "pronunciation_uz": "folou instrakshenz",
+      "uzbek": "koʻrsatmalarga amal qilmoq",
+      "pos": "verb",
+      "example_en": "Always follow the instructions on the medicine bottle.",
+      "example_uz": "Har doim dori idishidagi koʻrsatmalarga amal qiling.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "gain experience",
+      "pronunciation_uz": "geyn ekspiriyens",
+      "uzbek": "tajriba orttirmoq",
+      "pos": "verb",
+      "example_en": "Volunteering is a great way to gain practical experience.",
+      "example_uz": "Koʻngilli boʻlib ishlash amaliy tajriba orttirishning ajoyib usulidir.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "get permission",
+      "pronunciation_uz": "get permishen",
+      "uzbek": "ruxsat olmoq",
+      "pos": "verb",
+      "example_en": "You must get permission before using these photographs.",
+      "example_uz": "Ushbu fotosuratlardan foydalanishdan oldin ruxsat olishingiz shart.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "give a presentation",
+      "pronunciation_uz": "giv e prezenteyshen",
+      "uzbek": "taqdimot qilmoq",
+      "pos": "verb",
+      "example_en": "Tomorrow I have to give a presentation to the board.",
+      "example_uz": "Ertaga kengash oldida taqdimot qilishim kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "give priority to",
+      "pronunciation_uz": "giv prayoriti tu",
+      "uzbek": "ustuvorlik bermoq, birinchi oʻringa qoʻymoq",
+      "pos": "verb",
+      "example_en": "The government decided to give priority to public education.",
+      "example_uz": "Hukumat xalq taʼlimiga ustuvor ahamiyat berishga qaror qildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "go bankrupt",
+      "pronunciation_uz": "gou benkrapt",
+      "uzbek": "kasodga uchramoq, bankrot boʻlmoq",
+      "pos": "verb",
+      "example_en": "Poor financial management caused the firm to go bankrupt.",
+      "example_uz": "Notoʻgʻri moliyaviy boshqaruv firmaning kasodga uchrashiga sabab boʻldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "heavy rain",
+      "pronunciation_uz": "hevi reyn",
+      "uzbek": "kuchli yomgʻir, jala",
+      "pos": "noun",
+      "example_en": "Heavy rain flooded several streets in the city center.",
+      "example_uz": "Kuchli yomgʻir shahar markazidagi bir nechta koʻchalarni suvga toʻldirdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "heavy traffic",
+      "pronunciation_uz": "hevi trefik",
+      "uzbek": "kuchli tirbandlik",
+      "pos": "noun",
+      "example_en": "We were late because of heavy traffic on the bridge.",
+      "example_uz": "Koʻprikdagi kuchli tirbandlik tufayli kechikib qoldik.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "high quality",
+      "pronunciation_uz": "hay kuoliti",
+      "uzbek": "yuqori sifat",
+      "pos": "noun",
+      "example_en": "This factory is famous for producing goods of high quality.",
+      "example_uz": "Bu zavod yuqori sifatli mahsulotlar ishlab chiqarish bilan mashhur.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "highly likely",
+      "pronunciation_uz": "hayli laykli",
+      "uzbek": "ehtimoli juda yuqori",
+      "pos": "adj",
+      "example_en": "It is highly likely that interest rates will fall next quarter.",
+      "example_uz": "Keyingi chorakda foiz stavkalari tushishi ehtimoli juda yuqori.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "highly recommended",
+      "pronunciation_uz": "hayli rekomendid",
+      "uzbek": "juda tavsiya etilgan",
+      "pos": "adj",
+      "example_en": "This historical novel comes highly recommended by critics.",
+      "example_uz": "Ushbu tarixiy roman tanqidchilar tomonidan juda tavsiya etiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "hold a meeting",
+      "pronunciation_uz": "hold e miting",
+      "uzbek": "yigʻilish oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "The department will hold a meeting on Monday morning.",
+      "example_uz": "Boʻlim dushanba kuni ertalab yigʻilish oʻtkazadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "impose a fine",
+      "pronunciation_uz": "impouz e fayn",
+      "uzbek": "jarima solmoq",
+      "pos": "verb",
+      "example_en": "Authorities impose a heavy fine for littering in national parks.",
+      "example_uz": "Rasmiylar milliy bogʻlarda chiqindi tashlaganlik uchun katta jarima soladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "keep a promise",
+      "pronunciation_uz": "kip e promis",
+      "uzbek": "vaʼdasining ustidan chiqmoq",
+      "pos": "verb",
+      "example_en": "People trust her because she always keeps a promise.",
+      "example_uz": "Odamlar unga ishonishadi, chunki u har doim vaʼdasining ustidan chiqadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "keep a secret",
+      "pronunciation_uz": "kip e sikrit",
+      "uzbek": "sir saqlamoq",
+      "pos": "verb",
+      "example_en": "Can I trust you to keep a secret?",
+      "example_uz": "Sir saqlashingizga ishonsam boʻladimi?",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "keep calm",
+      "pronunciation_uz": "kip kam",
+      "uzbek": "xotirjamlikni saqlamoq",
+      "pos": "verb",
+      "example_en": "In an emergency, the most important thing is to keep calm.",
+      "example_uz": "Favqulodda vaziyatda eng muhimi xotirjamlikni saqlashdir.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "keep in touch",
+      "pronunciation_uz": "kip in tach",
+      "uzbek": "aloqada boʻlib turmoq, xabarlashib turmoq",
+      "pos": "verb",
+      "example_en": "We promised to keep in touch after graduation.",
+      "example_uz": "Oʻqishni bitirganimizdan keyin xabarlashib turishga vaʼda berdik.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "keep quiet",
+      "pronunciation_uz": "kip kuayet",
+      "uzbek": "tinchlik saqlamoq, jim turmoq",
+      "pos": "verb",
+      "example_en": "Visitors must keep quiet inside the reading hall.",
+      "example_uz": "Tashrif buyuruvchilar oʻquv zalida tinchlik saqlashlari shart.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "keep records",
+      "pronunciation_uz": "kip rekordz",
+      "uzbek": "qaydlarni va hisobotlarni yuritmoq",
+      "pos": "verb",
+      "example_en": "Every business must keep accurate financial records.",
+      "example_uz": "Har bir korxona aniq moliyaviy qaydlarni yuritishi kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "launch a campaign",
+      "pronunciation_uz": "lonch e kempeyn",
+      "uzbek": "targʻibot kampaniyasini boshlamoq",
+      "pos": "verb",
+      "example_en": "The ministry launched a campaign to promote reading among youth.",
+      "example_uz": "Vazirlik yoshlar oʻrtasida kitobxonlikni targʻib qilish kampaniyasini boshladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "launch a product",
+      "pronunciation_uz": "lonch e prodakt",
+      "uzbek": "yangi mahsulotni bozorga chiqarmoq",
+      "pos": "verb",
+      "example_en": "The company plans to launch a new product in autumn.",
+      "example_uz": "Kompaniya kuzda yangi mahsulotni bozorga chiqarishni rejalashtirmoqda.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "lead to a result",
+      "pronunciation_uz": "lid tu e rizalt",
+      "uzbek": "natijaga olib kelmoq",
+      "pos": "verb",
+      "example_en": "Consistent practice will inevitably lead to a positive result.",
+      "example_uz": "Muntazam mashq qilish muqarrar ravishda ijobiy natijaga olib keladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "lose patience",
+      "pronunciation_uz": "luz peyshens",
+      "uzbek": "sabri tugamoq, toqati toq boʻlmoq",
+      "pos": "verb",
+      "example_en": "The teacher never loses patience with slow learners.",
+      "example_uz": "Oʻqituvchi sekin oʻzlashtiradigan oʻquvchilarga nisbatan hech qachon sabrini yoʻqotmaydi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "lose temper",
+      "pronunciation_uz": "luz temper",
+      "uzbek": "jahli chiqmoq, qiziqqonlik qilib oʻzini tutolmaslik",
+      "pos": "verb",
+      "example_en": "He apologized for losing his temper during the discussion.",
+      "example_uz": "U muhokama paytida qiziqqonlik qilib jahlga berilgani uchun uzr soʻradi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make a contribution",
+      "pronunciation_uz": "meyk e kontribyushen",
+      "uzbek": "hissa qoʻshmoq",
+      "pos": "verb",
+      "example_en": "Ibn Sina made a lasting contribution to world medicine.",
+      "example_uz": "Ibn Sino jahon tibbiyotiga ulkan va boqiy hissa qoʻshgan.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make a difference",
+      "pronunciation_uz": "meyk e diferens",
+      "uzbek": "ijobiy oʻzgarish yasamoq, ahamiyatga ega boʻlmoq",
+      "pos": "verb",
+      "example_en": "Even small acts of kindness can make a big difference.",
+      "example_uz": "Hatto kichik bir mehr-oqibat ham katta ijobiy oʻzgarish yasashi mumkin.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make a fortune",
+      "pronunciation_uz": "meyk e forchen",
+      "uzbek": "katta boylik orttirmoq, boyib ketmoq",
+      "pos": "verb",
+      "example_en": "He made a fortune by investing in solar energy early.",
+      "example_uz": "U quyosh energiyasiga erta sarmoya kiritib katta boylik orttirdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make a living",
+      "pronunciation_uz": "meyk e living",
+      "uzbek": "kun koʻrmoq, roʻzgʻor tebratmoq",
+      "pos": "verb",
+      "example_en": "She makes a living as a freelance translator.",
+      "example_uz": "U mustaqil tarjimon boʻlib ishlab roʻzgʻor tebratadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make a mistake",
+      "pronunciation_uz": "meyk e misteyk",
+      "uzbek": "xato qilmoq",
+      "pos": "verb",
+      "example_en": "Don't be afraid to make a mistake when speaking a foreign language.",
+      "example_uz": "Chet tilida gapirayotganda xato qilishdan qoʻrqmang.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make a profit",
+      "pronunciation_uz": "meyk e profit",
+      "uzbek": "foyda koʻrmoq, daromad olmoq",
+      "pos": "verb",
+      "example_en": "The bakery started to make a profit within six months.",
+      "example_uz": "Nonvoyxona olti oy ichida foyda keltira boshladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make a reservation",
+      "pronunciation_uz": "meyk e rezerveyshen",
+      "uzbek": "oldindan joy band qilmoq",
+      "pos": "verb",
+      "example_en": "I called the restaurant to make a reservation for four people.",
+      "example_uz": "Toʻrt kishilik joy band qilish uchun restoranga qoʻngʻiroq qildim.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make an appointment",
+      "pronunciation_uz": "meyk en epoyntment",
+      "uzbek": "qabulga yozilmoq, uchrashuv belgilamoq",
+      "pos": "verb",
+      "example_en": "I need to make an appointment with my dentist this week.",
+      "example_uz": "Shu hafta tish shifokorimning qabuliga yozilishim kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make an exception",
+      "pronunciation_uz": "meyk en eksepshen",
+      "uzbek": "istisno qilmoq",
+      "pos": "verb",
+      "example_en": "Rules are strict, so we cannot make an exception for anyone.",
+      "example_uz": "Qoidalar qatʼiy, shuning uchun hech kimga istisno qila olmaymiz.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make an excuse",
+      "pronunciation_uz": "meyk en ekskyuz",
+      "uzbek": "bahona qilmoq, bahona topmoq",
+      "pos": "verb",
+      "example_en": "Instead of making an excuse, he admitted that he overslept.",
+      "example_uz": "Bahona topish oʻrniga, u uxlab qolganini tan oldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make arrangements",
+      "pronunciation_uz": "meyk ereynjments",
+      "uzbek": "tayyorgarlik koʻrmoq, tashkiliy ishlarni hal qilmoq",
+      "pos": "verb",
+      "example_en": "Our secretary will make all the travel arrangements for the guests.",
+      "example_uz": "Kotibamiz mehmonlarning barcha safar tashkiliy ishlarini hal qiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make room for",
+      "pronunciation_uz": "meyk rum for",
+      "uzbek": "joy boʻshatmoq, joy ochmoq",
+      "pos": "verb",
+      "example_en": "We moved the old sofa to make room for a bookshelf.",
+      "example_uz": "Kitob javoniga joy ochish uchun eski divanni surdik.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make sense",
+      "pronunciation_uz": "meyk sens",
+      "uzbek": "mantiqiy boʻlmoq, tushunarli boʻlmoq",
+      "pos": "verb",
+      "example_en": "Your explanation makes complete sense now.",
+      "example_uz": "Endi tushuntirishingiz toʻliq mantiqiy va tushunarli boʻldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make sure",
+      "pronunciation_uz": "meyk shur",
+      "uzbek": "ishonch hosil qilmoq",
+      "pos": "verb",
+      "example_en": "Make sure that all windows are locked before leaving.",
+      "example_uz": "Ketishdan oldin barcha derazalar qulflanganiga ishonch hosil qiling.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "make up your mind",
+      "pronunciation_uz": "meyk ap yor maynd",
+      "uzbek": "bir qarorga kelmoq",
+      "pos": "verb",
+      "example_en": "Have you made up your mind about which university to attend?",
+      "example_uz": "Qaysi universitetga kirish haqida bir qarorga keldingizmi?",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "meet expectations",
+      "pronunciation_uz": "mit ekspekteyshenz",
+      "uzbek": "kutilgan natijani oqlamoq, umidlarni oqlamoq",
+      "pos": "verb",
+      "example_en": "The new smartphone failed to meet customer expectations.",
+      "example_uz": "Yangi smartfon mijozlarning umidlarini oqlay olmadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "meet requirements",
+      "pronunciation_uz": "mit rikuayrments",
+      "uzbek": "talablarga javob bermoq",
+      "pos": "verb",
+      "example_en": "All candidates must meet the minimum language requirements.",
+      "example_uz": "Barcha nomzodlar minimal til talablariga javob berishi shart.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "miss a flight",
+      "pronunciation_uz": "mis e flayt",
+      "uzbek": "samolyot reysiga kechikmoq",
+      "pos": "verb",
+      "example_en": "We left home early so we wouldn't miss our flight.",
+      "example_uz": "Reysimizga kechikmaslik uchun uydan erta chiqdik.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "miss an opportunity",
+      "pronunciation_uz": "mis en oportyuniti",
+      "uzbek": "imkoniyatni qoʻldan boy bermoq",
+      "pos": "verb",
+      "example_en": "Don't miss an opportunity to learn from experienced mentors.",
+      "example_uz": "Tajribali ustozlardan oʻrganish imkoniyatini qoʻldan boy bermang.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "native speaker",
+      "pronunciation_uz": "neytiv spiker",
+      "uzbek": "ona tili sifatida gapiruvchi kishi",
+      "pos": "noun",
+      "example_en": "Practicing with a native speaker improves your pronunciation quickly.",
+      "example_uz": "Shu til ona tili boʻlgan inson bilan mashq qilish talaffuzingizni tez yaxshilaydi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "narrow the gap",
+      "pronunciation_uz": "nerou ze gep",
+      "uzbek": "tafovutni qisqartirmoq, farqni kamaytirmoq",
+      "pos": "verb",
+      "example_en": "New rural schools helped narrow the gap in educational quality.",
+      "example_uz": "Yangi qishloq maktablari taʼlim sifatidagi tafovutni qisqartirishga yordam berdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "overcome an obstacle",
+      "pronunciation_uz": "ouverkam en obstakl",
+      "uzbek": "toʻsiqni yengib oʻtmoq",
+      "pos": "verb",
+      "example_en": "With determination, she overcame every obstacle in her path.",
+      "example_uz": "Qatʼiyat bilan u yoʻlidagi barcha toʻsiqlarni yengib oʻtdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pass a law",
+      "pronunciation_uz": "pas e lo",
+      "uzbek": "qonun qabul qilmoq",
+      "pos": "verb",
+      "example_en": "Parliament passed a new law to protect small investors.",
+      "example_uz": "Parlament kichik sarmoyadorlarni himoya qilish uchun yangi qonun qabul qildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pass an exam",
+      "pronunciation_uz": "pas en egzam",
+      "uzbek": "imtihondan muvaffaqiyatli oʻtmoq",
+      "pos": "verb",
+      "example_en": "He studied diligently and passed the entrance exam with high marks.",
+      "example_uz": "U qunt bilan oʻqidi va kirish imtihonidan yuqori ball bilan oʻtdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pay a compliment",
+      "pronunciation_uz": "pey e kompliment",
+      "uzbek": "maqtamoq, xushomad yoki iltifot koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "The guest paid a warm compliment to the chef.",
+      "example_uz": "Mehmon oshpazga samimiy maqtov aytdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pay a visit",
+      "pronunciation_uz": "pey e vizit",
+      "uzbek": "tashrif buyurmoq, yoʻqlab bormoq",
+      "pos": "verb",
+      "example_en": "We should pay a visit to our grandparents this Sunday.",
+      "example_uz": "Shu yakshanba kuni bobo va buvimizni yoʻqlab borishimiz kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pay by card",
+      "pronunciation_uz": "pey bay kard",
+      "uzbek": "plastik karta orqali toʻlamoq",
+      "pos": "verb",
+      "example_en": "Can I pay by card at this bookstore, or is it cash only?",
+      "example_uz": "Bu kitob doʻkonida karta orqali toʻlasam boʻladimi yoki faqat naqd pulmi?",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pay in cash",
+      "pronunciation_uz": "pey in kesh",
+      "uzbek": "naqd pulda toʻlamoq",
+      "pos": "verb",
+      "example_en": "Customers who pay in cash receive a small discount.",
+      "example_uz": "Naqd pulda toʻlagan mijozlar kichik chegirmaga ega boʻladilar.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pay respect",
+      "pronunciation_uz": "pey rispekt",
+      "uzbek": "hurmat bajo keltirmoq, ehtirom koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "Thousands gathered at the monument to pay respect to the heroes.",
+      "example_uz": "Minglab odamlar qahramonlarga hurmat bajo keltirish uchun yodgorlik yoniga toʻplandilar.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "play a part",
+      "pronunciation_uz": "pley e part",
+      "uzbek": "ishtirok etmoq, hissa qoʻshmoq",
+      "pos": "verb",
+      "example_en": "Diet and genetics both play a part in longevity.",
+      "example_uz": "Uzoq umr koʻrishda ovqatlanish ham, irsiyat ham muhim rol oʻynaydi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "pose a threat",
+      "pronunciation_uz": "pouz e sret",
+      "uzbek": "xavf tugʻdirmoq, tahdid solmoq",
+      "pos": "verb",
+      "example_en": "Plastic pollution poses a serious threat to marine life.",
+      "example_uz": "Plastik ifloslanish dengiz jonivorlariga jiddiy xavf tugʻdiradi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "put into practice",
+      "pronunciation_uz": "put intu prektis",
+      "uzbek": "amaliyotga tatbiq etmoq, amalda qoʻllamoq",
+      "pos": "verb",
+      "example_en": "The workshop helped teachers put new methods into practice.",
+      "example_uz": "Seminar oʻqituvchilarga yangi usullarni amaliyotga tatbiq etishga yordam berdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "put pressure on",
+      "pronunciation_uz": "put presher on",
+      "uzbek": "bosim oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "Parents should encourage children rather than put excessive pressure on them.",
+      "example_uz": "Ota-onalar bolalarga haddan tashqari bosim oʻtkazish oʻrniga ularni ruhlantirishlari kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "put an end to",
+      "pronunciation_uz": "put en end tu",
+      "uzbek": "chek qoʻymoq, barham bermoq",
+      "pos": "verb",
+      "example_en": "The new treaty put an end to the trade dispute.",
+      "example_uz": "Yangi shartnoma savdo nizosiga barham berdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "quick snack",
+      "pronunciation_uz": "kuik snek",
+      "uzbek": "yengil tamaddi",
+      "pos": "noun",
+      "example_en": "I only had time for a quick snack between lectures.",
+      "example_uz": "Maʼruzalar orasida faqat yengil tamaddi qilib olishga vaqtim boʻldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "raise capital",
+      "pronunciation_uz": "reyz kepital",
+      "uzbek": "biznes uchun sarmoya jalb qilmoq",
+      "pos": "verb",
+      "example_en": "The tech startup managed to raise capital from foreign investors.",
+      "example_uz": "Texnologik startap xorijiy sarmoyadorlardan mablagʻ jalb qilishga muvaffaq boʻldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "raise a family",
+      "pronunciation_uz": "reyz e femili",
+      "uzbek": "oila boqmoq, farzandlarni voyaga yetkazmoq",
+      "pos": "verb",
+      "example_en": "They moved to a quiet suburb to raise a family.",
+      "example_uz": "Ular farzandlarini katta qilish uchun shahar chetidagi tinch hududga koʻchib oʻtishdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "raise a question",
+      "pronunciation_uz": "reyz e kueschen",
+      "uzbek": "savol yoki masala oʻrtaga tashlamoq",
+      "pos": "verb",
+      "example_en": "The auditor raised an important question about the budget.",
+      "example_uz": "Auditor byudjet boʻyicha muhim savolni oʻrtaga tashladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "raise taxes",
+      "pronunciation_uz": "reyz teksiz",
+      "uzbek": "soliqlarni oshirmoq",
+      "pos": "verb",
+      "example_en": "The city council decided not to raise taxes this year.",
+      "example_uz": "Shahar kengashi bu yil soliqlarni oshirmaslikka qaror qildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "reach a compromise",
+      "pronunciation_uz": "rich e kompromayz",
+      "uzbek": "oʻzaro murosaga kelmoq",
+      "pos": "verb",
+      "example_en": "Both partners had to yield a little to reach a compromise.",
+      "example_uz": "Murosaga kelish uchun har ikki hamkor biroz yon bosishga majbur boʻldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "reach a goal",
+      "pronunciation_uz": "rich e goul",
+      "uzbek": "maqsadga erishmoq",
+      "pos": "verb",
+      "example_en": "Setting small daily targets helps you reach a long-term goal.",
+      "example_uz": "Kundalik kichik vazifalar belgilash uzoq muddatli maqsadga erishishga yordam beradi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "reduce costs",
+      "pronunciation_uz": "ridyus kosts",
+      "uzbek": "xarajatlarni kamaytirmoq",
+      "pos": "verb",
+      "example_en": "Automating warehouse tasks helped the firm reduce costs.",
+      "example_uz": "Ombor vazifalarini avtomatlashtirish firmaga xarajatlarni kamaytirishga yordam berdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "restore order",
+      "pronunciation_uz": "ristor order",
+      "uzbek": "tartibni tiklamoq",
+      "pos": "verb",
+      "example_en": "Extra traffic officers were sent to restore order at the intersection.",
+      "example_uz": "Chorrahada tartibni tiklash uchun qoʻshimcha yoʻl patrul xodimlari yuborildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "run a business",
+      "pronunciation_uz": "ran e biznes",
+      "uzbek": "biznes yuritmoq, tadbirkorlikni boshqarmoq",
+      "pos": "verb",
+      "example_en": "Running a business requires patience, vision, and financial discipline.",
+      "example_uz": "Biznes yuritish sabr-toqat, uzoqni koʻra bilish va moliyaviy intizomni talab qiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "run a risk",
+      "pronunciation_uz": "ran e risk",
+      "uzbek": "tavakkal qilmoq, xavf ostida qolmoq",
+      "pos": "verb",
+      "example_en": "If you drive without snow tires in winter, you run a serious risk.",
+      "example_uz": "Qishda qishki shinalarsiz mashina haydasangiz, jiddiy xavf ostida qolasiz.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "run out of time",
+      "pronunciation_uz": "ran aut of taym",
+      "uzbek": "vaqti tugab qolmoq",
+      "pos": "verb",
+      "example_en": "Many examinees ran out of time before finishing the last essay.",
+      "example_uz": "Koʻplab imtihon topshiruvchilarning oxirgi inshoni tugatmasdan vaqti tugab qoldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "save energy",
+      "pronunciation_uz": "seyv enerji",
+      "uzbek": "energiyani tejamoq",
+      "pos": "verb",
+      "example_en": "LED bulbs save energy and last much longer than old lamps.",
+      "example_uz": "LED lampalar energiyani tejaydi va eski lampalarga qaraganda ancha uzoq xizmat qiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "save money",
+      "pronunciation_uz": "seyv mani",
+      "uzbek": "pul tejamoq, pul yigʻmoq",
+      "pos": "verb",
+      "example_en": "Cooking at home is the easiest way to save money.",
+      "example_uz": "Uyda ovqat tayyorlash pul tejashning eng oson yoʻlidir.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "save time",
+      "pronunciation_uz": "seyv taym",
+      "uzbek": "vaqtni tejamoq",
+      "pos": "verb",
+      "example_en": "Buying train tickets online saves a lot of time.",
+      "example_uz": "Poyezd chiptalarini onlayn xarid qilish juda koʻp vaqtni tejaydi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "set a goal",
+      "pronunciation_uz": "set e goul",
+      "uzbek": "maqsad qoʻymoq",
+      "pos": "verb",
+      "example_en": "At the start of the year, she set a goal to read thirty books.",
+      "example_uz": "Yil boshida u oʻttizta kitob oʻqishni oʻz oldiga maqsad qilib qoʻydi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "set a record",
+      "pronunciation_uz": "set e rekord",
+      "uzbek": "rekord oʻrnatmoq",
+      "pos": "verb",
+      "example_en": "The Uzbek weightlifter set a new Olympic record.",
+      "example_uz": "Oʻzbekistonlik ogʻir atletikachi yangi Olimpiya rekordini oʻrnatdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "set a table",
+      "pronunciation_uz": "set e teybl",
+      "uzbek": "dasturxon tuzamoq",
+      "pos": "verb",
+      "example_en": "The children helped their mother set the table for dinner.",
+      "example_uz": "Bolalar kechki ovqat uchun onasiga dasturxon tuzashga yordam berishdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "set an alarm",
+      "pronunciation_uz": "set en elarm",
+      "uzbek": "uygʻotkichni (budilnikni) qoʻymoq",
+      "pos": "verb",
+      "example_en": "Don't forget to set an alarm for five-thirty tomorrow morning.",
+      "example_uz": "Ertaga ertalab soat besh yarimga uygʻotkich qoʻyishni unutmang.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "set an example",
+      "pronunciation_uz": "set en egzampl",
+      "uzbek": "oʻrnak boʻlmoq, namuna koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "Older siblings should set a good example for the younger ones.",
+      "example_uz": "Katta aka-opalar kichiklarga yaxshi oʻrnak boʻlishlari kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "set fire to",
+      "pronunciation_uz": "set fayr tu",
+      "uzbek": "oʻt qoʻymoq, yoqib yubormoq",
+      "pos": "verb",
+      "example_en": "Never leave matches where children might set fire to something.",
+      "example_uz": "Bolalar biror narsaga oʻt qoʻyib yuborishi mumkin boʻlgan joyda gugurt qoldirmang.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "solve a problem",
+      "pronunciation_uz": "solv e problem",
+      "uzbek": "muammoni hal qilmoq",
+      "pos": "verb",
+      "example_en": "Calm discussion is the best way to solve a problem.",
+      "example_uz": "Vazmin muhokama — muammoni hal qilishning eng yaxshi yoʻlidir.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "spend time",
+      "pronunciation_uz": "spend taym",
+      "uzbek": "vaqt oʻtkazmoq, vaqt sarflamoq",
+      "pos": "verb",
+      "example_en": "He loves to spend time gardening on weekends.",
+      "example_uz": "U dam olish kunlari bogʻdorchilik bilan shugʻullanib vaqt oʻtkazishni yaxshi koʻradi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "strong coffee",
+      "pronunciation_uz": "strong kofi",
+      "uzbek": "achchiq qahva",
+      "pos": "noun",
+      "example_en": "He drinks a cup of strong coffee every morning before work.",
+      "example_uz": "U har kuni ertalab ishdan oldin bir finjon achchiq qahva ichadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "strong wind",
+      "pronunciation_uz": "strong uind",
+      "uzbek": "kuchli shamol",
+      "pos": "noun",
+      "example_en": "A strong wind blew off several roof tiles during the night.",
+      "example_uz": "Tunda esgan kuchli shamol bir nechta tom cherepitsalarini uchirib ketdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "suffer consequences",
+      "pronunciation_uz": "safer konsikuensiz",
+      "uzbek": "oqibatini tortmoq, jabrini koʻrmoq",
+      "pos": "verb",
+      "example_en": "If you ignore health advice, you will eventually suffer the consequences.",
+      "example_uz": "Agar shifokor maslahatiga beparvo boʻlsangiz, oxir-oqibat uning jabrini tortasiz.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take a break",
+      "pronunciation_uz": "teyk e breyk",
+      "uzbek": "tanaffus qilmoq, nafas rostlamoq",
+      "pos": "verb",
+      "example_en": "You have been typing for three hours; take a short break.",
+      "example_uz": "Uch soatdan beri yozuv yozyapsiz, qisqa tanaffus qilib oling.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take a look",
+      "pronunciation_uz": "teyk e luk",
+      "uzbek": "koʻz yugurtirmoq, qarab koʻrmoq",
+      "pos": "verb",
+      "example_en": "Could you take a look at my essay and check the grammar?",
+      "example_uz": "Inshoimga bir koʻz yugurtirib, grammatikasini tekshirib bera olasizmi?",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take a chance",
+      "pronunciation_uz": "teyk e chens",
+      "uzbek": "tavakkal qilib urinib koʻrmoq",
+      "pos": "verb",
+      "example_en": "She decided to take a chance and apply for the international fellowship.",
+      "example_uz": "U tavakkal qilib, xalqaro stipendiyaga hujjat topshirishga qaror qildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take a seat",
+      "pronunciation_uz": "teyk e sit",
+      "uzbek": "oʻtirmoq, joy egallamoq",
+      "pos": "verb",
+      "example_en": "Please take a seat in the waiting room; the doctor will see you shortly.",
+      "example_uz": "Iltimos, kutish xonasiga oʻtiring, shifokor sizni tez orada qabul qiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take a taxi",
+      "pronunciation_uz": "teyk e teksi",
+      "uzbek": "taksiga oʻtirmoq, taksida bormoq",
+      "pos": "verb",
+      "example_en": "Since it was raining heavily, we decided to take a taxi.",
+      "example_uz": "Kuchli yomgʻir yogʻayotgani sababli taksida ketishga qaror qildik.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take action",
+      "pronunciation_uz": "teyk ekshen",
+      "uzbek": "chora koʻrmoq, amaliy harakat boshlamoq",
+      "pos": "verb",
+      "example_en": "We must take immediate action to stop soil erosion.",
+      "example_uz": "Tuproq yemirilishini toʻxtatish uchun darhol amaliy chora koʻrishimiz shart.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take advantage of",
+      "pronunciation_uz": "teyk edvantij of",
+      "uzbek": "unumli foydalanib qolmoq",
+      "pos": "verb",
+      "example_en": "Students should take full advantage of the university library.",
+      "example_uz": "Talabalar universitet kutubxonasidan toʻliq va unumli foydalanishlari kerak.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take notes",
+      "pronunciation_uz": "teyk nouts",
+      "uzbek": "qaydlar yozib bormoq, konspekt qilmoq",
+      "pos": "verb",
+      "example_en": "Good students always take notes during history lectures.",
+      "example_uz": "Yaxshi talabalar tarix maʼruzalari davomida doim muhim qaydlarni yozib borishadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take pride in",
+      "pronunciation_uz": "teyk prayd in",
+      "uzbek": "faxrlanmoq, gʻururlanmoq",
+      "pos": "verb",
+      "example_en": "Master craftsmen take great pride in the quality of their work.",
+      "example_uz": "Usta hunarmandlar oʻz ishlarining sifatidan juda faxrlanadilar.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "take turns",
+      "pronunciation_uz": "teyk ternz",
+      "uzbek": "navbatma-navbat bajarmoq",
+      "pos": "verb",
+      "example_en": "The two drivers took turns at the wheel during the long trip.",
+      "example_uz": "Uzoq safar davomida ikki haydovchi rulni navbatma-navbat boshqardi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "tell the difference",
+      "pronunciation_uz": "tel ze diferens",
+      "uzbek": "farqini ajratmoq",
+      "pos": "verb",
+      "example_en": "Can you tell the difference between natural silk and synthetic fabric?",
+      "example_uz": "Tabiiy ipak bilan sunʼiy matoning farqini ajrata olasizmi?",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "tell the truth",
+      "pronunciation_uz": "tel ze trus",
+      "uzbek": "rostini aytmoq, haqiqatni gapirmoq",
+      "pos": "verb",
+      "example_en": "It is always better to tell the truth from the very beginning.",
+      "example_uz": "Har doim eng boshidanoq rostini aytgan maʼqul.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "vivid memory",
+      "pronunciation_uz": "vivid memori",
+      "uzbek": "yorqin xotira",
+      "pos": "noun",
+      "example_en": "I still have a vivid memory of my first day at school.",
+      "example_uz": "Maktabdagi birinchi kunim haqida hali ham yorqin xotiram bor.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "waste money",
+      "pronunciation_uz": "ueyst mani",
+      "uzbek": "pulni behuda sarflamoq, isrof qilmoq",
+      "pos": "verb",
+      "example_en": "Don't waste money on things you will never use.",
+      "example_uz": "Hech qachon ishlatmaydigan narsalaringizga pulni behuda sarflamang.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "waste time",
+      "pronunciation_uz": "ueyst taym",
+      "uzbek": "vaqtni bekorga oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "Stop wasting time scrolling through endless videos.",
+      "example_uz": "Cheksiz videolarni varaqlab vaqtni behuda oʻtkazishni bas qiling.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "wide range of",
+      "pronunciation_uz": "uayd reynj of",
+      "uzbek": "keng koʻlamli, xilma-xil",
+      "pos": "noun",
+      "example_en": "The market offers a wide range of fresh spices and dried fruits.",
+      "example_uz": "Bozorda yangi ziravorlar va quritilgan mevalarning keng turlari taklif etiladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "win an award",
+      "pronunciation_uz": "uin en euord",
+      "uzbek": "mukofot yutib olmoq",
+      "pos": "verb",
+      "example_en": "The documentary won an international award for cinematography.",
+      "example_uz": "Hujjatli film operatorlik ishi uchun xalqaro mukofotni qoʻlga kiritdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "win trust",
+      "pronunciation_uz": "uin trast",
+      "uzbek": "ishonchni qozonmoq",
+      "pos": "verb",
+      "example_en": "It takes years to win trust, but only seconds to lose it.",
+      "example_uz": "Ishonchni qozonish uchun yillar kerak boʻladi, uni yoʻqotish uchun esa bir necha soniya kifoya.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "work closely with",
+      "pronunciation_uz": "uork klousli uiz",
+      "uzbek": "bilan yaqindan hamkorlikda ishlamoq",
+      "pos": "verb",
+      "example_en": "Architects work closely with structural engineers on tall buildings.",
+      "example_uz": "Meʼmorlar baland binolar qurilishida konstruktor-muhandislar bilan yaqindan hamkorlikda ishlaydilar.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "work hard",
+      "pronunciation_uz": "uork hard",
+      "uzbek": "qattiq mehnat qilmoq",
+      "pos": "verb",
+      "example_en": "If you work hard and stay humble, success will follow.",
+      "example_uz": "Agar qattiq mehnat qilsangiz va kamtar boʻlsangiz, muvaffaqiyat oʻzi keladi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "yield results",
+      "pronunciation_uz": "yild rizalts",
+      "uzbek": "natija bermoq, samara keltirmoq",
+      "pos": "verb",
+      "example_en": "The new agricultural reforms are already yielding positive results.",
+      "example_uz": "Yangi qishloq xoʻjaligi islohotlari allaqachon ijobiy samara bermoqda.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "bear in mind",
+      "pronunciation_uz": "beyr in maynd",
+      "uzbek": "yodda tutmoq, unutmaslik",
+      "pos": "verb",
+      "example_en": "Bear in mind that mountain weather can change rapidly.",
+      "example_uz": "Togʻ ob-havosi juda tez oʻzgarishi mumkinligini yodda tuting.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "bitterly cold",
+      "pronunciation_uz": "biterli kold",
+      "uzbek": "qahraton sovuq, suyakdan oʻtadigan sovuq",
+      "pos": "adj",
+      "example_en": "Winters in the northern steppe can be bitterly cold.",
+      "example_uz": "Shimoliy dashtlarda qish suyakdan oʻtadigan darajada qahraton sovuq boʻlishi mumkin.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "boost morale",
+      "pronunciation_uz": "bust moral",
+      "uzbek": "kayfiyat va ruhiyatni koʻtarmoq",
+      "pos": "verb",
+      "example_en": "The bonus helped boost morale among factory workers.",
+      "example_uz": "Qoʻshimcha mukofot puli zavod ishchilarining ruhiyatini koʻtarishga yordam berdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "breach a contract",
+      "pronunciation_uz": "brich e kontrakt",
+      "uzbek": "shartnoma shartlarini buzmoq",
+      "pos": "verb",
+      "example_en": "The supplier was sued for breaching a contract.",
+      "example_uz": "Yetkazib beruvchi shartnoma shartlarini buzgani uchun sudga berildi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "bridge the gap",
+      "pronunciation_uz": "brij ze gep",
+      "uzbek": "oʻrtadagi tafovutni yoʻqotmoq, bogʻlovchi koʻprik boʻlmoq",
+      "pos": "verb",
+      "example_en": "Dialogue helps bridge the gap between different generations.",
+      "example_uz": "Muloqot turli avlodlar oʻrtasidagi tafovutni yoʻqotishga yordam beradi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "bright future",
+      "pronunciation_uz": "brayt fyucher",
+      "uzbek": "porloq kelajak",
+      "pos": "noun",
+      "example_en": "With her talent and work ethic, she has a bright future ahead.",
+      "example_uz": "Isteʼdodi va mehnatsevarligi tufayli uni oldinda porloq kelajak kutmoqda.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "bring to justice",
+      "pronunciation_uz": "bring tu jastis",
+      "uzbek": "javobgarlikka tortmoq, odil sud oldida javob berdirmoq",
+      "pos": "verb",
+      "example_en": "The authorities vowed to bring the cybercriminals to justice.",
+      "example_uz": "Rasmiylar kiberjinoyatchilarni qonun oldida javobgarlikka tortishga vaʼda berdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "call a meeting",
+      "pronunciation_uz": "kol e miting",
+      "uzbek": "yigʻilish chaqirmoq",
+      "pos": "verb",
+      "example_en": "The principal called an urgent meeting of all teachers.",
+      "example_uz": "Maktab direktori barcha oʻqituvchilarning shoshilinch yigʻilishini chaqirdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "carry out an investigation",
+      "pronunciation_uz": "keri aut en investigeyshen",
+      "uzbek": "tergov yoki tekshiruv oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "Inspectors carried out a thorough investigation of the accident.",
+      "example_uz": "Inspektorlar hodisa yuzasidan sinchiklab tekshiruv oʻtkazdilar.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "cast doubt on",
+      "pronunciation_uz": "kast daut on",
+      "uzbek": "shubha ostiga qoʻymoq",
+      "pos": "verb",
+      "example_en": "New archaeological findings cast doubt on the previous theory.",
+      "example_uz": "Yangi arxeologik topilmalar avvalgi nazariyani shubha ostiga qoʻydi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "catch fire",
+      "pronunciation_uz": "kech fayr",
+      "uzbek": "yonib ketmoq, olov olmoq",
+      "pos": "verb",
+      "example_en": "Dry grass can easily catch fire during hot summer months.",
+      "example_uz": "Quruq oʻt issiq yoz oylarida osongina olov olishi mumkin.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "catch sight of",
+      "pronunciation_uz": "kech sayt of",
+      "uzbek": "koʻzi tushib qolmoq, koʻrib qolmoq",
+      "pos": "verb",
+      "example_en": "I caught sight of an eagle soaring above the canyon.",
+      "example_uz": "Dara ustida parvoz qilayotgan burgutga koʻzim tushib qoldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "catch someone's eye",
+      "pronunciation_uz": "kech samuanz ay",
+      "uzbek": "birovning eʼtiborini tortmoq",
+      "pos": "verb",
+      "example_en": "A handmade ceramic plate caught my eye at the bazaar.",
+      "example_uz": "Bozorda qoʻlda yasalgan sopol lagan eʼtiborimni tortdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "change the subject",
+      "pronunciation_uz": "cheynj ze sabjekt",
+      "uzbek": "gap mavzusini oʻzgartirmoq",
+      "pos": "verb",
+      "example_en": "Whenever someone mentions money, he quickly changes the subject.",
+      "example_uz": "Qachonki kimdir pul haqida gap ochsa, u darrov mavzuni oʻzgartiradi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "claim responsibility",
+      "pronunciation_uz": "kleym risponsibiliti",
+      "uzbek": "javobgarlikni boʻyniga olmoq",
+      "pos": "verb",
+      "example_en": "No group has yet claimed responsibility for the cyberattack.",
+      "example_uz": "Hozircha hech bir guruh kiberhujum uchun javobgarlikni oʻz boʻyniga olmadi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "close a deal",
+      "pronunciation_uz": "klouz e dil",
+      "uzbek": "bitim tuzmoq, kelishuvni muvaffaqiyatli yakunlamoq",
+      "pos": "verb",
+      "example_en": "The sales team flew to Samarkand to close a major deal.",
+      "example_uz": "Savdo jamoasi yirik bitimni imzolash uchun Samarqandga uchib ketdi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "come into effect",
+      "pronunciation_uz": "kam intu efekt",
+      "uzbek": "kuchga kirmoq (qonun yoki qoida haqida)",
+      "pos": "verb",
+      "example_en": "The new traffic regulations will come into effect on January first.",
+      "example_uz": "Yangi yoʻl harakati qoidalari birinchi yanvardan kuchga kiradi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "come to a standstill",
+      "pronunciation_uz": "kam tu e stendstil",
+      "uzbek": "butunlay toʻxtab qolmoq",
+      "pos": "verb",
+      "example_en": "Traffic came to a standstill after the heavy snowfall.",
+      "example_uz": "Kuchli qor yogʻganidan keyin transport harakati butunlay toʻxtab qoldi.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "commit a crime",
+      "pronunciation_uz": "komit e kraym",
+      "uzbek": "jinoyat sodir etmoq",
+      "pos": "verb",
+      "example_en": "Those who commit a crime must face legal punishment.",
+      "example_uz": "Jinoyat sodir etgan shaxslar qonuniy jazoga tortilishi shart.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    },
+    {
+      "english": "common knowledge",
+      "pronunciation_uz": "komon nolij",
+      "uzbek": "hammaga maʼlum haqiqat",
+      "pos": "noun",
+      "example_en": "It is common knowledge that smoking harms the lungs.",
+      "example_uz": "Chekish oʻpkaga zarar yetkazishi hammaga maʼlum haqiqatdir.",
+      "category": "Muhim soʻz birikmalari (Collocations)"
+    }
+  ]
+}

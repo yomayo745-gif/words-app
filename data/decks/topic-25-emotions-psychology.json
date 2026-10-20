@@ -1,0 +1,1159 @@
+{
+  "title": "His-tuygʻular, kayfiyat va ruhiyat",
+  "category": "Emotions, Moods & Psychology",
+  "group": "topic",
+  "words": [
+    {
+      "english": "emotion",
+      "pronunciation_uz": "imoushn",
+      "uzbek": "his-tuygʻu",
+      "pos": "noun",
+      "example_en": "Fear is a very strong human emotion.",
+      "example_uz": "Qoʻrquv juda kuchli insoniy his-tuygʻudir.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "feeling",
+      "pronunciation_uz": "filing",
+      "uzbek": "tuygʻu",
+      "pos": "noun",
+      "example_en": "I had a strange feeling that someone was watching me.",
+      "example_uz": "Menda kimdir meni kuzatayotgandek gʻalati tuygʻu bor edi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "mood",
+      "pronunciation_uz": "mud",
+      "uzbek": "kayfiyat",
+      "pos": "noun",
+      "example_en": "Listening to music always puts me in a good mood.",
+      "example_uz": "Musiqa tinglash har doim kayfiyatimni koʻtaradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "joy",
+      "pronunciation_uz": "joy",
+      "uzbek": "quvonch",
+      "pos": "noun",
+      "example_en": "She jumped for joy when she heard the news.",
+      "example_uz": "U yangilikni eshitib quvonchdan sakrab yubordi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "joyful",
+      "pronunciation_uz": "joyful",
+      "uzbek": "quvonchli",
+      "pos": "adj",
+      "example_en": "The wedding was a joyful occasion for the whole family.",
+      "example_uz": "Toʻy butun oila uchun quvonchli voqea boʻldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "delight",
+      "pronunciation_uz": "dilayt",
+      "uzbek": "zavq",
+      "pos": "noun",
+      "example_en": "The children squealed with delight at the circus.",
+      "example_uz": "Bolalar sirkda zavq bilan qichqirishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "ecstasy",
+      "pronunciation_uz": "ekstasi",
+      "uzbek": "sarxushlik",
+      "pos": "noun",
+      "example_en": "Winning the championship brought fans pure ecstasy.",
+      "example_uz": "Chempionlikni qoʻlga kiritish muxlislarga chinakam sarxushlik baxsh etdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "ecstatic",
+      "pronunciation_uz": "ikstatik",
+      "uzbek": "boshi osmonga yetgan",
+      "pos": "adj",
+      "example_en": "He was ecstatic about his new job offer.",
+      "example_uz": "U yangi ish taklifidan boshi osmonga yetgudek xursand edi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "euphoria",
+      "pronunciation_uz": "yuforiya",
+      "uzbek": "eyforiya",
+      "pos": "noun",
+      "example_en": "A sense of euphoria swept through the crowd.",
+      "example_uz": "Olomon orasida eyforiya hissi tarqaldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "bliss",
+      "pronunciation_uz": "blis",
+      "uzbek": "saodat",
+      "pos": "noun",
+      "example_en": "Sitting by the quiet lake was pure bliss.",
+      "example_uz": "Tinch koʻl boʻyida oʻtirish chinakam saodat edi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "blissful",
+      "pronunciation_uz": "blisful",
+      "uzbek": "saodatli",
+      "pos": "adj",
+      "example_en": "They spent a blissful week in the mountains.",
+      "example_uz": "Ular togʻlarda saodatli bir hafta oʻtkazishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "elated",
+      "pronunciation_uz": "ileytid",
+      "uzbek": "ruhlangan",
+      "pos": "adj",
+      "example_en": "The team felt elated after their unexpected victory.",
+      "example_uz": "Jamoa kutilmagan gʻalabadan soʻng ruhlanib ketdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "thrilled",
+      "pronunciation_uz": "srild",
+      "uzbek": "hayajonlangan",
+      "pos": "adj",
+      "example_en": "I am thrilled to meet my favorite author.",
+      "example_uz": "Sevimli yozuvchim bilan uchrashganimdan juda hayajondaman.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "pleasure",
+      "pronunciation_uz": "plejer",
+      "uzbek": "huzur",
+      "pos": "noun",
+      "example_en": "Reading a good book gives me great pleasure.",
+      "example_uz": "Yaxshi kitob oʻqish menga katta huzur bagʻishlaydi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "satisfaction",
+      "pronunciation_uz": "satisfakshn",
+      "uzbek": "qoniqish",
+      "pos": "noun",
+      "example_en": "Completing the project brought a deep sense of satisfaction.",
+      "example_uz": "Loyihani yakunlash chuqur qoniqish hissini berdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "contentment",
+      "pronunciation_uz": "kontentment",
+      "uzbek": "shukronalik",
+      "pos": "noun",
+      "example_en": "He found true contentment in a simple life.",
+      "example_uz": "U oddiy hayotdan haqiqiy shukronalik topdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "relief",
+      "pronunciation_uz": "rilif",
+      "uzbek": "yengillik",
+      "pos": "noun",
+      "example_en": "I breathed a sigh of relief when the exam ended.",
+      "example_uz": "Imtihon tugagach, yengil nafas oldim.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "relieved",
+      "pronunciation_uz": "rilivd",
+      "uzbek": "xotirjam tortgan",
+      "pos": "adj",
+      "example_en": "The parents were relieved to see their child safe.",
+      "example_uz": "Ota-onalar farzandlarini sogʻ-omon koʻrib xotirjam tortishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "optimistic",
+      "pronunciation_uz": "optimistik",
+      "uzbek": "nekbin",
+      "pos": "adj",
+      "example_en": "We remain optimistic about the company's future.",
+      "example_uz": "Biz kompaniyaning kelajagi borasida nekbinlikni saqlab qolamiz.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "pessimism",
+      "pronunciation_uz": "pesimizm",
+      "uzbek": "pessimizm",
+      "pos": "noun",
+      "example_en": "Deep pessimism prevented him from trying again.",
+      "example_uz": "Chuqur pessimizm uning yana urinib koʻrishiga toʻsqinlik qildi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "pessimistic",
+      "pronunciation_uz": "pesimistik",
+      "uzbek": "tushkun fikrli",
+      "pos": "adj",
+      "example_en": "Don't be so pessimistic about your exam results.",
+      "example_uz": "Imtihon natijalaringiz haqida bunchalik tushkun fikrda boʻlmang.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "hopeless",
+      "pronunciation_uz": "houples",
+      "uzbek": "umidsiz",
+      "pos": "adj",
+      "example_en": "The situation seemed hopeless at first glance.",
+      "example_uz": "Vaziyat birinchi qarashda umidsiz tuyuldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "despair",
+      "pronunciation_uz": "disper",
+      "uzbek": "noumidlik",
+      "pos": "noun",
+      "example_en": "Failure drove the young artist to deep despair.",
+      "example_uz": "Muvaffaqiyatsizlik yosh rassomni chuqur noumidlikka tushirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "sorrow",
+      "pronunciation_uz": "sorou",
+      "uzbek": "qaygʻu",
+      "pos": "noun",
+      "example_en": "Time slowly heals the deepest sorrow.",
+      "example_uz": "Vaqt eng chuqur qaygʻuni ham sekin-asta davolaydi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "sorrowful",
+      "pronunciation_uz": "sorouful",
+      "uzbek": "qaygʻuli",
+      "pos": "adj",
+      "example_en": "A sorrowful melody echoed through the empty hall.",
+      "example_uz": "Boʻsh zal boʻylab qaygʻuli kuy aks-sado berdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "grief",
+      "pronunciation_uz": "grif",
+      "uzbek": "alam",
+      "pos": "noun",
+      "example_en": "She was overcome with grief after losing her mentor.",
+      "example_uz": "Ustozini yoʻqotgach, uni qattiq alam qamrab oldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "grieve",
+      "pronunciation_uz": "griv",
+      "uzbek": "motam tutmoq",
+      "pos": "verb",
+      "example_en": "People need time to grieve after a painful loss.",
+      "example_uz": "Ogʻir yoʻqotishdan soʻng odamlar qaygʻurishi uchun vaqt kerak.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "misery",
+      "pronunciation_uz": "mizeri",
+      "uzbek": "azob-uqubat",
+      "pos": "noun",
+      "example_en": "The cold rain added to the campers' misery.",
+      "example_uz": "Sovuq yomgʻir lagerdagilarning azob-uqubatini yanada oshirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "miserable",
+      "pronunciation_uz": "mizerabl",
+      "uzbek": "baxtsiz",
+      "pos": "adj",
+      "example_en": "A bad cold made him feel completely miserable.",
+      "example_uz": "Qattiq shamollash uni butunlay holsiz va baxtsiz qilib qoʻydi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "melancholy",
+      "pronunciation_uz": "melankoli",
+      "uzbek": "maʼyuslik",
+      "pos": "noun",
+      "example_en": "Autumn days often bring a gentle sense of melancholy.",
+      "example_uz": "Kuz kunlari koʻpincha yengil maʼyuslik hissini olib keladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "gloom",
+      "pronunciation_uz": "glum",
+      "uzbek": "gʻamginlik",
+      "pos": "noun",
+      "example_en": "A sense of gloom settled over the defeated players.",
+      "example_uz": "Magʻlub boʻlgan oʻyinchilarni gʻamginlik qopladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "gloomy",
+      "pronunciation_uz": "glumi",
+      "uzbek": "xoʻmraygan",
+      "pos": "adj",
+      "example_en": "Why are you looking so gloomy this morning?",
+      "example_uz": "Bugun ertalab nega bunchalik gʻamgin koʻrinasan?",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "heartbroken",
+      "pronunciation_uz": "hartbrouken",
+      "uzbek": "dili vayron",
+      "pos": "adj",
+      "example_en": "She was heartbroken when her best friend moved away.",
+      "example_uz": "Eng yaqin doʻsti koʻchib ketganida uning dili vayron boʻldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "devastated",
+      "pronunciation_uz": "devasteytid",
+      "uzbek": "larzaga tushgan",
+      "pos": "adj",
+      "example_en": "The community was devastated by the sudden flood.",
+      "example_uz": "Toʻsatdan kelgan toshqin mahalliy aholini larzaga soldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "depression",
+      "pronunciation_uz": "dipreshn",
+      "uzbek": "depressiya",
+      "pos": "noun",
+      "example_en": "Clinical depression requires professional psychological support.",
+      "example_uz": "Klinik depressiya professional psixologik yordamni talab qiladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "loneliness",
+      "pronunciation_uz": "lounlines",
+      "uzbek": "yolgʻizlik",
+      "pos": "noun",
+      "example_en": "Moving to a huge city can sometimes cause loneliness.",
+      "example_uz": "Katta shaharga koʻchib oʻtish baʼzan yolgʻizlikka sabab boʻlishi mumkin.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "nostalgia",
+      "pronunciation_uz": "nostalja",
+      "uzbek": "nostalgiya",
+      "pos": "noun",
+      "example_en": "Looking at old photos filled her with warm nostalgia.",
+      "example_uz": "Eski suratlarni tomosha qilish uni iliq nostalgiyaga choʻmdirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "nostalgic",
+      "pronunciation_uz": "nostaljik",
+      "uzbek": "oʻtmishni qoʻmsagan",
+      "pos": "adj",
+      "example_en": "Hearing that song always makes my father nostalgic.",
+      "example_uz": "Oʻsha qoʻshiqni eshitish otamga har doim oʻtmishni eslatadi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "yearning",
+      "pronunciation_uz": "yorning",
+      "uzbek": "intizorlik",
+      "pos": "noun",
+      "example_en": "He felt a deep yearning for his peaceful village.",
+      "example_uz": "U oʻzining tinch qishlogʻiga nisbatan chuqur intizorlik his qildi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "longing",
+      "pronunciation_uz": "longing",
+      "uzbek": "sogʻinch",
+      "pos": "noun",
+      "example_en": "She gazed at the sea with a quiet longing.",
+      "example_uz": "U dengizga sokin sogʻinch bilan tikildi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "anger",
+      "pronunciation_uz": "enger",
+      "uzbek": "gʻazab",
+      "pos": "noun",
+      "example_en": "He tried hard to control his rising anger.",
+      "example_uz": "U kuchayib borayotgan gʻazabini jilovlashga qattiq harakat qildi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "fury",
+      "pronunciation_uz": "fyuri",
+      "uzbek": "qahr",
+      "pos": "noun",
+      "example_en": "The unfair accusation filled him with sudden fury.",
+      "example_uz": "Adolatsiz ayblov uni toʻsatdan qahrga toʻldirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "rage",
+      "pronunciation_uz": "reyj",
+      "uzbek": "jahl",
+      "pos": "noun",
+      "example_en": "His face turned red with uncontrollable rage.",
+      "example_uz": "Uning yuzi tiyib boʻlmas jahldan qizarib ketdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "outrage",
+      "pronunciation_uz": "autreyj",
+      "uzbek": "nafratli gʻazab",
+      "pos": "noun",
+      "example_en": "The scandal caused widespread public outrage.",
+      "example_uz": "Janjal jamoatchilikning keng koʻlamli gʻazabiga sabab boʻldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "resentment",
+      "pronunciation_uz": "rizentment",
+      "uzbek": "alamzadalik",
+      "pos": "noun",
+      "example_en": "Holding onto resentment only harms your own peace.",
+      "example_uz": "Alamzadalikni saqlab yurish faqat oʻz halovatingizga zarar yetkazadi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "resentful",
+      "pronunciation_uz": "rizentful",
+      "uzbek": "gina saqlagan",
+      "pos": "adj",
+      "example_en": "He felt resentful about being overlooked for promotion.",
+      "example_uz": "U lavozimi koʻtarilmay qolganidan gina saqlab yurdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "indignation",
+      "pronunciation_uz": "indigneyshn",
+      "uzbek": "norozilik",
+      "pos": "noun",
+      "example_en": "She reacted with righteous indignation to the insult.",
+      "example_uz": "U haqoratga haqli norozilik bilan munosabat bildirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "irritation",
+      "pronunciation_uz": "iriteyshn",
+      "uzbek": "gʻashlik",
+      "pos": "noun",
+      "example_en": "He could not hide his irritation at the delay.",
+      "example_uz": "U kechikishdan paydo boʻlgan gʻashligini yashira olmadi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "irritated",
+      "pronunciation_uz": "iriteytid",
+      "uzbek": "asabiylashgan",
+      "pos": "adj",
+      "example_en": "The constant noise made the neighbors irritated.",
+      "example_uz": "Tinimsiz shovqin qoʻshnilarni asabiylashtirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "annoyance",
+      "pronunciation_uz": "enoyans",
+      "uzbek": "jahl chiqishi",
+      "pos": "noun",
+      "example_en": "Much to my annoyance, the bus left early.",
+      "example_uz": "Jahlimni chiqarib, avtobus erta joʻnab ketdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "annoyed",
+      "pronunciation_uz": "enoyd",
+      "uzbek": "ranjigan",
+      "pos": "adj",
+      "example_en": "She was annoyed by the frequent interruptions.",
+      "example_uz": "Tez-tez gapining boʻlinishi uni ranjitdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "frustration",
+      "pronunciation_uz": "frastreyshn",
+      "uzbek": "xunoblik",
+      "pos": "noun",
+      "example_en": "He banged the table in sheer frustration.",
+      "example_uz": "U qattiq xunob boʻlganidan stolga musht tushirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "frustrated",
+      "pronunciation_uz": "frastreytid",
+      "uzbek": "hafsalasi pir boʻlgan",
+      "pos": "adj",
+      "example_en": "Slow internet makes everyone feel frustrated.",
+      "example_uz": "Sekin ishlaydigan internet har kimning hafsalasini pir qiladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "hostility",
+      "pronunciation_uz": "hostiliti",
+      "uzbek": "adovat",
+      "pos": "noun",
+      "example_en": "There was no hostility between the two rivals.",
+      "example_uz": "Ikki raqib oʻrtasida hech qanday adovat yoʻq edi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "bitterness",
+      "pronunciation_uz": "biternes",
+      "uzbek": "achchiqlanish",
+      "pos": "noun",
+      "example_en": "She spoke about her past without any bitterness.",
+      "example_uz": "U oʻz oʻtmishi haqida hech qanday achchiqlanishsiz gapirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "hatred",
+      "pronunciation_uz": "heytrid",
+      "uzbek": "nafrat",
+      "pos": "noun",
+      "example_en": "Love is always much stronger than hatred.",
+      "example_uz": "Muhabbat har doim nafratdan ancha kuchliroqdir.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "contempt",
+      "pronunciation_uz": "kontempt",
+      "uzbek": "mensimaslik",
+      "pos": "noun",
+      "example_en": "He showed complete contempt for dishonest behavior.",
+      "example_uz": "U nopok xulq-atvorga nisbatan nafrat va mensimaslik bildirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "disgust",
+      "pronunciation_uz": "disgast",
+      "uzbek": "jirkanish",
+      "pos": "noun",
+      "example_en": "He turned away in disgust at the spoiled food.",
+      "example_uz": "U aynigan ovqatdan jirkanib yuzini burdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "disgusted",
+      "pronunciation_uz": "disgastid",
+      "uzbek": "jirkangan",
+      "pos": "adj",
+      "example_en": "Voters were disgusted by the corrupt practices.",
+      "example_uz": "Saylovchilar korrupsion holatlardan qattiq jirkanishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "fearful",
+      "pronunciation_uz": "firful",
+      "uzbek": "xavotirli",
+      "pos": "adj",
+      "example_en": "People were fearful of another strong earthquake.",
+      "example_uz": "Odamlar yana bir kuchli zilzila boʻlishidan xavotirda edilar.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "terror",
+      "pronunciation_uz": "teror",
+      "uzbek": "dahshat",
+      "pos": "noun",
+      "example_en": "The villagers fled in terror from the wildfire.",
+      "example_uz": "Qishloq aholisi oʻrmon yongʻinidan dahshat ichida qochishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "terrified",
+      "pronunciation_uz": "terifayd",
+      "uzbek": "qoʻrqib ketgan",
+      "pos": "adj",
+      "example_en": "The little boy was terrified of thunder.",
+      "example_uz": "Kichkina bola momaqaldiroqdan qattiq qoʻrqib ketgan edi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "panic",
+      "pronunciation_uz": "panik",
+      "uzbek": "vahima",
+      "pos": "noun",
+      "example_en": "Stay calm and do not give in to panic.",
+      "example_uz": "Tinchlaning va vahimaga berilmang.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "dread",
+      "pronunciation_uz": "dred",
+      "uzbek": "vahimali kutish",
+      "pos": "noun",
+      "example_en": "He awaited the medical test results with dread.",
+      "example_uz": "U tibbiy tahlil natijalarini vahima bilan kutdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "fright",
+      "pronunciation_uz": "frayt",
+      "uzbek": "choʻchish",
+      "pos": "noun",
+      "example_en": "The sudden loud noise gave me a terrible fright.",
+      "example_uz": "Toʻsatdan chiqqan baland ovoz meni qattiq choʻchitib yubordi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "phobia",
+      "pronunciation_uz": "fobiya",
+      "uzbek": "fobiya",
+      "pos": "noun",
+      "example_en": "Acrophobia is an extreme phobia of heights.",
+      "example_uz": "Akrofobiya — balandlikdan haddan tashqari qoʻrqish fobiyasidir.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "anxiety",
+      "pronunciation_uz": "engzayeti",
+      "uzbek": "xavotir",
+      "pos": "noun",
+      "example_en": "Deep breathing exercises can reduce anxiety.",
+      "example_uz": "Chuqur nafas olish mashqlari xavotirni kamaytirishi mumkin.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "unease",
+      "pronunciation_uz": "aniz",
+      "uzbek": "bezovtalik",
+      "pos": "noun",
+      "example_en": "A growing sense of unease filled the quiet room.",
+      "example_uz": "Sokin xonani tobora ortib borayotgan bezovtalik hissi egalladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "uneasy",
+      "pronunciation_uz": "anizi",
+      "uzbek": "notinch",
+      "pos": "adj",
+      "example_en": "I felt uneasy about walking home alone at night.",
+      "example_uz": "Kechasi uyga yolgʻiz piyoda qaytishdan koʻnglim notinch edi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "apprehension",
+      "pronunciation_uz": "aprihenshn",
+      "uzbek": "xavfsirash",
+      "pos": "noun",
+      "example_en": "She opened the official letter with some apprehension.",
+      "example_uz": "U rasmiy xatni biroz xavfsirash bilan ochdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "worry",
+      "pronunciation_uz": "vori",
+      "uzbek": "tashvish",
+      "pos": "noun",
+      "example_en": "Financial worry kept him awake all night.",
+      "example_uz": "Moliyaviy tashvish uni tun boʻyi uxlashga qoʻymadi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "worried",
+      "pronunciation_uz": "vorid",
+      "uzbek": "tashvishlangan",
+      "pos": "adj",
+      "example_en": "Parents are naturally worried when children are late.",
+      "example_uz": "Bolalar kechiksa, ota-onalar tabiiyki tashvishlanadilar.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "stressed",
+      "pronunciation_uz": "strest",
+      "uzbek": "toliqqan",
+      "pos": "adj",
+      "example_en": "She feels stressed before important presentations.",
+      "example_uz": "U muhim taqdimotlar oldidan oʻzini ruhiy toliqqan his qiladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "overwhelmed",
+      "pronunciation_uz": "ouvervelmd",
+      "uzbek": "koʻmilib ketgan",
+      "pos": "adj",
+      "example_en": "She felt overwhelmed by the amount of work.",
+      "example_uz": "Ishning koʻpligidan u oʻzini boshi qotib qolgandek his qildi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "burnout",
+      "pronunciation_uz": "bornaut",
+      "uzbek": "ruhiy charchash",
+      "pos": "noun",
+      "example_en": "Working without rest often leads to severe burnout.",
+      "example_uz": "Dam olmasdan ishlash koʻpincha ogʻir ruhiy charchashga olib keladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "trauma",
+      "pronunciation_uz": "troma",
+      "uzbek": "ruhiy jarohat",
+      "pos": "noun",
+      "example_en": "Recovering from emotional trauma takes patience and time.",
+      "example_uz": "Ruhiy jarohatdan forigʻ boʻlish sabr va vaqt talab etadi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "shock",
+      "pronunciation_uz": "shok",
+      "uzbek": "shok",
+      "pos": "noun",
+      "example_en": "The sudden announcement left everyone in complete shock.",
+      "example_uz": "Toʻsatdan qilingan eʼlon hammani shok holatiga tushirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "shocked",
+      "pronunciation_uz": "shokt",
+      "uzbek": "hayratdan qotib qolgan",
+      "pos": "adj",
+      "example_en": "We were shocked by the unexpected resignation.",
+      "example_uz": "Kutilmagan isteʼfodan hayratda qoldik.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "surprise",
+      "pronunciation_uz": "serprayz",
+      "uzbek": "hayrat",
+      "pos": "noun",
+      "example_en": "To my great surprise, the door was unlocked.",
+      "example_uz": "Mening qattiq hayratimga sabab, eshik qulflanmagan ekan.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "surprised",
+      "pronunciation_uz": "serprayzd",
+      "uzbek": "hayron qolgan",
+      "pos": "adj",
+      "example_en": "She looked surprised when we sang for her.",
+      "example_uz": "Unga qoʻshiq kuylaganimizda u hayron qoldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "astonishment",
+      "pronunciation_uz": "astonishment",
+      "uzbek": "taajjub",
+      "pos": "noun",
+      "example_en": "He stared at the magician in utter astonishment.",
+      "example_uz": "U sehrgarga tamoman taajjub ichida tikilib qoldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "astonished",
+      "pronunciation_uz": "astonisht",
+      "uzbek": "lol qolgan",
+      "pos": "adj",
+      "example_en": "The judges were astonished by the young pianist's skill.",
+      "example_uz": "Hakamlar yosh pianinochining mahoratiga lol qolishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "amazement",
+      "pronunciation_uz": "emeyzment",
+      "uzbek": "hayratlanish",
+      "pos": "noun",
+      "example_en": "They watched the northern lights in silent amazement.",
+      "example_uz": "Ular shimol yogʻdusini ovozsiz hayrat bilan tomosha qilishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "amazed",
+      "pronunciation_uz": "emeyzd",
+      "uzbek": "qoyil qolgan",
+      "pos": "adj",
+      "example_en": "I am amazed by how quickly you learned Uzbek.",
+      "example_uz": "Oʻzbek tilini naqadar tez oʻrganganingizga qoyil qoldim.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "wonder",
+      "pronunciation_uz": "vander",
+      "uzbek": "hayrat va zavq",
+      "pos": "noun",
+      "example_en": "The child's eyes were wide with wonder.",
+      "example_uz": "Bolaning koʻzlari hayrat va zavqdan katta-katta ochilgan edi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "awe",
+      "pronunciation_uz": "o",
+      "uzbek": "ehtiromli hayrat",
+      "pos": "noun",
+      "example_en": "We stood in awe before the ancient mountains.",
+      "example_uz": "Qadimiy togʻlar qarshisida ehtiromli hayrat bilan turdik.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "bewildered",
+      "pronunciation_uz": "bivilderd",
+      "uzbek": "dovdirab qolgan",
+      "pos": "adj",
+      "example_en": "The tourist looked bewildered by the complex map.",
+      "example_uz": "Sayyoh murakkab xaritaga qarab dovdirab qoldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "baffled",
+      "pronunciation_uz": "bafld",
+      "uzbek": "boshi qotgan",
+      "pos": "adj",
+      "example_en": "Scientists were baffled by the strange signal.",
+      "example_uz": "Olimlar gʻalati signaldan boshlari qotib qoldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "perplexed",
+      "pronunciation_uz": "perplekst",
+      "uzbek": "ikkilanib qolgan",
+      "pos": "adj",
+      "example_en": "She gave me a perplexed look and asked again.",
+      "example_uz": "U menga tushunmagandek qaradi va qayta soʻradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "confusion",
+      "pronunciation_uz": "konfyujn",
+      "uzbek": "chalkashlik",
+      "pos": "noun",
+      "example_en": "Clear instructions will prevent any confusion.",
+      "example_uz": "Aniq koʻrsatmalar har qanday chalkashlikning oldini oladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "shame",
+      "pronunciation_uz": "sheym",
+      "uzbek": "uyat",
+      "pos": "noun",
+      "example_en": "He hung his head in shame after breaking the promise.",
+      "example_uz": "Vaʼdasini buzgach, uyatdan boshini egdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "guilt",
+      "pronunciation_uz": "gilt",
+      "uzbek": "aybdorlik hissi",
+      "pos": "noun",
+      "example_en": "A heavy sense of guilt troubled his conscience.",
+      "example_uz": "Ogʻir aybdorlik hissi uning vijdonini qiynardi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "remorse",
+      "pronunciation_uz": "rimors",
+      "uzbek": "pushaymonlik",
+      "pos": "noun",
+      "example_en": "He expressed deep remorse for his careless words.",
+      "example_uz": "U oʻylamay aytgan soʻzlari uchun chuqur pushaymonligini bildirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "regret",
+      "pronunciation_uz": "rigret",
+      "uzbek": "afsus",
+      "pos": "noun",
+      "example_en": "She left the company with no regret at all.",
+      "example_uz": "U kompaniyani hech qanday afsussiz tark etdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "embarrassment",
+      "pronunciation_uz": "imbarasment",
+      "uzbek": "xijolat",
+      "pos": "noun",
+      "example_en": "Her cheeks burned with embarrassment when she tripped.",
+      "example_uz": "Qoqilib ketganida yonoqlari xijolatdan lovullab ketdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "humiliation",
+      "pronunciation_uz": "hyumilieyshn",
+      "uzbek": "kamsitilish",
+      "pos": "noun",
+      "example_en": "Losing the match at home was a painful humiliation.",
+      "example_uz": "Oʻz maydonida oʻyinni boy berish ogʻriqli kamsitilish boʻldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "envy",
+      "pronunciation_uz": "envi",
+      "uzbek": "hasad",
+      "pos": "noun",
+      "example_en": "He looked at his neighbor's new car with envy.",
+      "example_uz": "U qoʻshnisining yangi mashinasiga hasad bilan qaradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "envious",
+      "pronunciation_uz": "envies",
+      "uzbek": "hasadgoʻy",
+      "pos": "adj",
+      "example_en": "Don't be envious of other people's success.",
+      "example_uz": "Boshqalarning muvaffaqiyatiga hasad qilmang.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "jealousy",
+      "pronunciation_uz": "jelasi",
+      "uzbek": "rashk",
+      "pos": "noun",
+      "example_en": "Unfounded jealousy can destroy a strong relationship.",
+      "example_uz": "Asossiz rashk mustahkam munosabatni buzishi mumkin.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "pride",
+      "pronunciation_uz": "prayd",
+      "uzbek": "gʻurur",
+      "pos": "noun",
+      "example_en": "She watched her daughter graduate with immense pride.",
+      "example_uz": "U qizining oʻqishni bitirishini cheksiz gʻurur bilan kuzatdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "dignity",
+      "pronunciation_uz": "digniti",
+      "uzbek": "qadr-qimmat",
+      "pos": "noun",
+      "example_en": "Every human being deserves to live with dignity.",
+      "example_uz": "Har bir inson qadr-qimmat bilan yashashga loyiqdir.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "self-esteem",
+      "pronunciation_uz": "self-istim",
+      "uzbek": "oʻzini qadrlash",
+      "pos": "noun",
+      "example_en": "Praise from teachers boosts a child's self-esteem.",
+      "example_uz": "Oʻqituvchilarning maqtovi bolaning oʻziga boʻlgan hurmatini oshiradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "empathetic",
+      "pronunciation_uz": "empatetik",
+      "uzbek": "hamdard",
+      "pos": "adj",
+      "example_en": "She is very empathetic toward people in trouble.",
+      "example_uz": "U qiyinchilikka tushgan odamlarga juda hamdard.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "passion",
+      "pronunciation_uz": "pashn",
+      "uzbek": "ishtiyoq",
+      "pos": "noun",
+      "example_en": "He speaks about astronomy with incredible passion.",
+      "example_uz": "U astronomiya haqida aqlbovar qilmas ishtiyoq bilan gapiradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "passionate",
+      "pronunciation_uz": "pashenit",
+      "uzbek": "ehtirosli",
+      "pos": "adj",
+      "example_en": "She is passionate about protecting the environment.",
+      "example_uz": "U atrof-muhitni asrashga butun qalbi bilan berilgan.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "enthusiasm",
+      "pronunciation_uz": "insuziazm",
+      "uzbek": "gʻayrat",
+      "pos": "noun",
+      "example_en": "The students began the project with great enthusiasm.",
+      "example_uz": "Talabalar loyihani katta gʻayrat bilan boshlashdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "enthusiastic",
+      "pronunciation_uz": "insuziastik",
+      "uzbek": "zavqqa toʻla",
+      "pos": "adj",
+      "example_en": "The audience gave an enthusiastic applause.",
+      "example_uz": "Tomoshabinlar zavq-shavq bilan qarsak chalishdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "eagerness",
+      "pronunciation_uz": "igernes",
+      "uzbek": "intilish",
+      "pos": "noun",
+      "example_en": "His eagerness to learn impressed all the professors.",
+      "example_uz": "Uning ilm olishga boʻlgan intilishi barcha professorlarda taassurot qoldirdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "apathy",
+      "pronunciation_uz": "apati",
+      "uzbek": "befarqlik",
+      "pos": "noun",
+      "example_en": "Voter apathy led to a very low turnout.",
+      "example_uz": "Saylovchilarning befarqligi davomatning juda past boʻlishiga olib keldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "indifference",
+      "pronunciation_uz": "indiferens",
+      "uzbek": "loqaydlik",
+      "pos": "noun",
+      "example_en": "He shrugged his shoulders in complete indifference.",
+      "example_uz": "U butunlay loqaydlik bilan yelka qisdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "indifferent",
+      "pronunciation_uz": "indiferent",
+      "uzbek": "beparvo",
+      "pos": "adj",
+      "example_en": "How can anyone remain indifferent to such beauty?",
+      "example_uz": "Bunday goʻzallikka qanday qilib beparvo qolish mumkin?",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "boredom",
+      "pronunciation_uz": "bordom",
+      "uzbek": "zerikish",
+      "pos": "noun",
+      "example_en": "He started drawing pictures out of sheer boredom.",
+      "example_uz": "U qattiq zerikkanidan rasm chizishni boshladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "psychologist",
+      "pronunciation_uz": "saykolojist",
+      "uzbek": "psixolog",
+      "pos": "noun",
+      "example_en": "The school psychologist helped the student adapt.",
+      "example_uz": "Maktab psixologi oʻquvchiga moslashishda yordam berdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "psychological",
+      "pronunciation_uz": "saykolojikal",
+      "uzbek": "psixologik",
+      "pos": "adj",
+      "example_en": "Victory gave the team a huge psychological advantage.",
+      "example_uz": "Gʻalaba jamoaga katta psixologik ustunlik berdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "mindset",
+      "pronunciation_uz": "mayndset",
+      "uzbek": "dunyoqarash",
+      "pos": "noun",
+      "example_en": "A growth mindset helps you learn from failures.",
+      "example_uz": "Rivojlanishga yoʻnalgan dunyoqarash xatolardan saboq olishga yordam beradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "consciousness",
+      "pronunciation_uz": "konshasnes",
+      "uzbek": "hush",
+      "pos": "noun",
+      "example_en": "The patient regained consciousness after the operation.",
+      "example_uz": "Bemor operatsiyadan soʻng hushiga keldi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "subconscious",
+      "pronunciation_uz": "sabkonshas",
+      "uzbek": "ong osti",
+      "pos": "adj",
+      "example_en": "Dreams often reflect our subconscious desires.",
+      "example_uz": "Tushlar koʻpincha bizning ong osti istaklarimizni aks ettiradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "unconscious",
+      "pronunciation_uz": "ankonshas",
+      "uzbek": "behush",
+      "pos": "adj",
+      "example_en": "The injured climber was found unconscious in the snow.",
+      "example_uz": "Jarohatlangan alpinist qorda behush holda topildi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "perception",
+      "pronunciation_uz": "persepshn",
+      "uzbek": "idrok",
+      "pos": "noun",
+      "example_en": "Light and shadow affect our perception of depth.",
+      "example_uz": "Yorugʻlik va soya chuqurlikni idrok etishimizga taʼsir qiladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "cognition",
+      "pronunciation_uz": "kognishn",
+      "uzbek": "bilish jarayoni",
+      "pos": "noun",
+      "example_en": "Sleep plays a vital role in human cognition.",
+      "example_uz": "Uyqu insonning bilish jarayonida muhim rol oʻynaydi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "cognitive",
+      "pronunciation_uz": "kognitiv",
+      "uzbek": "kognitiv",
+      "pos": "adj",
+      "example_en": "Puzzles are great for developing cognitive skills.",
+      "example_uz": "Boshqotirmalar kognitiv koʻnikmalarni rivojlantirish uchun juda foydali.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "recall",
+      "pronunciation_uz": "rikol",
+      "uzbek": "eslamoq",
+      "pos": "verb",
+      "example_en": "I cannot recall where I left my umbrella.",
+      "example_uz": "Soyabonimni qayerda qoldirganimni eslay olmayapman.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "attention",
+      "pronunciation_uz": "etenshn",
+      "uzbek": "diqqat",
+      "pos": "noun",
+      "example_en": "Please pay close attention to the safety instructions.",
+      "example_uz": "Iltimos, xavfsizlik qoidalariga diqqat bilan eʼtibor bering.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "concentration",
+      "pronunciation_uz": "konsentreyshn",
+      "uzbek": "diqqatni jamlash",
+      "pos": "noun",
+      "example_en": "Playing chess requires deep concentration.",
+      "example_uz": "Shaxmat oʻynash diqqatni chuqur jamlashni talab qiladi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "motivation",
+      "pronunciation_uz": "motiveyshn",
+      "uzbek": "motivatsiya",
+      "pos": "noun",
+      "example_en": "Clear goals provide strong motivation to succeed.",
+      "example_uz": "Aniq maqsadlar muvaffaqiyatga erishish uchun kuchli motivatsiya beradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "instinct",
+      "pronunciation_uz": "instinkt",
+      "uzbek": "instinkt",
+      "pos": "noun",
+      "example_en": "Birds fly south in autumn by natural instinct.",
+      "example_uz": "Qushlar kuzda tabiiy instinkt boʻyicha janubga uchib ketishadi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "intuition",
+      "pronunciation_uz": "intuishn",
+      "uzbek": "ichki sezgi",
+      "pos": "noun",
+      "example_en": "Her intuition told her to take the other road.",
+      "example_uz": "Ichki sezgisi unga boshqa yoʻldan yurishni aytdi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    },
+    {
+      "english": "resilience",
+      "pronunciation_uz": "riziliens",
+      "uzbek": "bardoshlilik",
+      "pos": "noun",
+      "example_en": "Emotional resilience helps people recover from setbacks.",
+      "example_uz": "Ruhiy bardoshlilik odamlarga qiyinchiliklardan keyin oʻzini tiklashga yordam beradi.",
+      "category": "His-tuygʻular, kayfiyat va ruhiyat"
+    }
+  ]
+}

@@ -1,0 +1,1258 @@
+{
+  "title": "Hayvonot olami, qushlar va hasharotlar",
+  "category": "Animals, Birds & Marine Life",
+  "group": "topic",
+  "words": [
+    {
+      "english": "alligator",
+      "pronunciation_uz": "aligeytor",
+      "uzbek": "alligator (timsoh turi)",
+      "pos": "noun",
+      "example_en": "An alligator floated motionless near the river bank.",
+      "example_uz": "Alligator daryo qirgʻogʻi yaqinida qimirlamay suzib turardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "amphibian",
+      "pronunciation_uz": "amfibian",
+      "uzbek": "suvda hamda quruqlikda yashovchi (amfibiya)",
+      "pos": "noun",
+      "example_en": "Frogs and salamanders are cold-blooded amphibians.",
+      "example_uz": "Qurbaqalar va salamandralar sovuqqonli amfibiyalardir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "ant",
+      "pronunciation_uz": "ent",
+      "uzbek": "chumoli",
+      "pos": "noun",
+      "example_en": "Worker ants carry food back to their underground colony.",
+      "example_uz": "Ishchi chumolilar oziq-ovqatni yer osti uyasiga tashiydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "antelope",
+      "pronunciation_uz": "antiloup",
+      "uzbek": "antilopa (ohular oilasi)",
+      "pos": "noun",
+      "example_en": "The saiga antelope lives on the steppes of Central Asia.",
+      "example_uz": "Saygʻoq antilopasi Markaziy Osiyo choʻllarida yashaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "antler",
+      "pronunciation_uz": "entler",
+      "uzbek": "bugʻu shoxi (tarvaqaylagan shox)",
+      "pos": "noun",
+      "example_en": "Male deer shed and regrow their antlers every year.",
+      "example_uz": "Erkak bugʻular har yili shoxlarini tashlab, yangisini oʻstiradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "ape",
+      "pronunciation_uz": "eyp",
+      "uzbek": "odamsimon maymun",
+      "pos": "noun",
+      "example_en": "Chimpanzees and gorillas are intelligent great apes.",
+      "example_uz": "Shimpanzelar va gorillalar aqlli yirik odamsimon maymunlardir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "badger",
+      "pronunciation_uz": "bejer",
+      "uzbek": "boʻrsiq",
+      "pos": "noun",
+      "example_en": "A badger digs a deep burrow with its strong claws.",
+      "example_uz": "Boʻrsiq oʻzining kuchli tirnoqlari bilan chuqur in qaziydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "bat",
+      "pronunciation_uz": "bet",
+      "uzbek": "koʻrshapalak",
+      "pos": "noun",
+      "example_en": "Bats use echolocation to hunt insects in the dark.",
+      "example_uz": "Koʻrshapalaklar qorongʻida hasharotlarni ovlash uchun exolokatsiyadan foydalanadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "beak",
+      "pronunciation_uz": "bik",
+      "uzbek": "tumshuq (qush tumshugʻi)",
+      "pos": "noun",
+      "example_en": "The eagle has a sharp curved beak.",
+      "example_uz": "Burgutning oʻtkir qayrilgan tumshugʻi bor.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "bear",
+      "pronunciation_uz": "ber",
+      "uzbek": "ayiq",
+      "pos": "noun",
+      "example_en": "The brown bear hibernates in a den during winter.",
+      "example_uz": "Qoʻngʻir ayiq qishda uyasida qishki uyquga ketadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "beaver",
+      "pronunciation_uz": "biver",
+      "uzbek": "qunduz",
+      "pos": "noun",
+      "example_en": "Beavers build dams across forest streams using branches.",
+      "example_uz": "Qunduzlar shox-shabbalar yordamida oʻrmon soylarida toʻgʻon quradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "bee",
+      "pronunciation_uz": "bi",
+      "uzbek": "ari (asalari)",
+      "pos": "noun",
+      "example_en": "Honeybees play a vital role in pollinating orchards.",
+      "example_uz": "Asalarilar bogʻlarni changlatishda muhim rol oʻynaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "beetle",
+      "pronunciation_uz": "bitl",
+      "uzbek": "qoʻngʻiz",
+      "pos": "noun",
+      "example_en": "A shiny black beetle crawled across the garden path.",
+      "example_uz": "Bogʻ yoʻlagi boʻylab yaltiroq qora qoʻngʻiz oʻrmalab oʻtdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "bird",
+      "pronunciation_uz": "berd",
+      "uzbek": "qush",
+      "pos": "noun",
+      "example_en": "Migratory birds fly south before the cold weather arrives.",
+      "example_uz": "Koʻchmanchi qushlar sovuq tushishidan oldin janubga uchib ketadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "bison",
+      "pronunciation_uz": "bayson",
+      "uzbek": "bizon (zubr)",
+      "pos": "noun",
+      "example_en": "Massive herds of bison once roamed the plains.",
+      "example_uz": "Bir vaqtlar tekisliklarda ulkan bizon podalari kezib yurgan.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "boar",
+      "pronunciation_uz": "bor",
+      "uzbek": "yovvoyi choʻchqa (toʻngʻiz)",
+      "pos": "noun",
+      "example_en": "A wild boar searched for roots in the mountain forest.",
+      "example_uz": "Yovvoyi toʻngʻiz togʻ oʻrmonida ildizlarni qidirdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "breed",
+      "pronunciation_uz": "brid",
+      "uzbek": "zot (nasl / koʻpaytirmoq)",
+      "pos": "noun",
+      "example_en": "The Karakul is a famous breed of sheep in Uzbekistan.",
+      "example_uz": "Qorakoʻl Oʻzbekistondagi mashhur qoʻy zotidir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "buffalo",
+      "pronunciation_uz": "bafalou",
+      "uzbek": "qoʻtos (buyvol)",
+      "pos": "noun",
+      "example_en": "Water buffalo help farmers plow muddy rice paddies.",
+      "example_uz": "Suv buyvollari dehqonlarga loyqa sholi dalalarini haydashda yordam beradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "bull",
+      "pronunciation_uz": "bul",
+      "uzbek": "buqa",
+      "pos": "noun",
+      "example_en": "The strong bull stood inside the fenced paddock.",
+      "example_uz": "Baquvvat buqa oʻralgan qoʻra ichida turardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "burrow",
+      "pronunciation_uz": "barou",
+      "uzbek": "in (yer ostidagi uya)",
+      "pos": "noun",
+      "example_en": "The rabbit disappeared quickly into its underground burrow.",
+      "example_uz": "Quyon yer ostidagi iniga tezda kirib gʻoyib boʻldi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "butterfly",
+      "pronunciation_uz": "baterflay",
+      "uzbek": "kapalak",
+      "pos": "noun",
+      "example_en": "A colorful butterfly landed gently on the lavender flower.",
+      "example_uz": "Rang-barang kapalak lavanda guliga ohista qoʻndi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "camel",
+      "pronunciation_uz": "kemel",
+      "uzbek": "tuya",
+      "pos": "noun",
+      "example_en": "Two-humped camels can travel long distances across the desert.",
+      "example_uz": "Ikki oʻrkachli tuyalar choʻl boʻylab uzoq masofalarni bosib oʻta oladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "canary",
+      "pronunciation_uz": "kaneri",
+      "uzbek": "kanareyka",
+      "pos": "noun",
+      "example_en": "The yellow canary sang cheerfully every morning.",
+      "example_uz": "Sariq kanareyka har ertalab xushchaqchaq sayrardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "carnivore",
+      "pronunciation_uz": "karnivor",
+      "uzbek": "yirtqich (goʻshtxoʻr hayvon)",
+      "pos": "noun",
+      "example_en": "Lions, wolves, and tigers are apex carnivores.",
+      "example_uz": "Sherlar, boʻrilar va yoʻlbarslar yirik yirtqichlardir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cat",
+      "pronunciation_uz": "ket",
+      "uzbek": "mushuk",
+      "pos": "noun",
+      "example_en": "Our cat loves sleeping on the warm windowsill.",
+      "example_uz": "Mushugimiz iliq deraza tokchasida uxlashni yaxshi koʻradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "caterpillar",
+      "pronunciation_uz": "katerpilar",
+      "uzbek": "kapalak qurti (qurt)",
+      "pos": "noun",
+      "example_en": "The green caterpillar will soon transform into a butterfly.",
+      "example_uz": "Yashil qurt tez orada kapalakka aylanadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cattle",
+      "pronunciation_uz": "ketl",
+      "uzbek": "qoramol",
+      "pos": "noun",
+      "example_en": "Villagers drive their cattle to the pasture at sunrise.",
+      "example_uz": "Qishloq ahli quyosh chiqishida qoramollarini yaylovga haydaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "chameleon",
+      "pronunciation_uz": "kamilion",
+      "uzbek": "buqalamun (xameleon)",
+      "pos": "noun",
+      "example_en": "A chameleon changes its skin color to blend with leaves.",
+      "example_uz": "Buqalamun barglar bilan uygʻunlashish uchun teri rangini oʻzgartiradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cheetah",
+      "pronunciation_uz": "chita",
+      "uzbek": "gepard",
+      "pos": "noun",
+      "example_en": "The cheetah is the fastest land mammal in the world.",
+      "example_uz": "Gepard dunyodagi eng tez yuguradigan quruqlik sutemizuvchisidir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "chimpanzee",
+      "pronunciation_uz": "chimpanzi",
+      "uzbek": "shimpanze",
+      "pos": "noun",
+      "example_en": "Chimpanzees use sticks and stones as simple tools.",
+      "example_uz": "Shimpanzelar tayoq va toshlardan oddiy qurol sifatida foydalanadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "claw",
+      "pronunciation_uz": "klo",
+      "uzbek": "panja tirnogʻi (changal)",
+      "pos": "noun",
+      "example_en": "The hawk caught its prey with sharp claws.",
+      "example_uz": "Qirgʻiy oʻljasini oʻtkir changallari bilan tutib oldi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cobra",
+      "pronunciation_uz": "koubra",
+      "uzbek": "kobra (koʻzoynakli ilon)",
+      "pos": "noun",
+      "example_en": "A cobra spreads its hood when it feels threatened.",
+      "example_uz": "Kobra xavf sezganida boʻynini kengaytiradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cockroach",
+      "pronunciation_uz": "kokrouch",
+      "uzbek": "suvarak (tarakan)",
+      "pos": "noun",
+      "example_en": "Keep the kitchen clean to prevent cockroaches.",
+      "example_uz": "Suvaraklar paydo boʻlmasligi uchun oshxonani toza tuting.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cocoon",
+      "pronunciation_uz": "kokun",
+      "uzbek": "pilla",
+      "pos": "noun",
+      "example_en": "The silkworm spins a white silk cocoon around itself.",
+      "example_uz": "Ipak qurti oʻz atrofida oq ipak pilla oʻraydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "colt",
+      "pronunciation_uz": "koult",
+      "uzbek": "toychoq (yosh ot)",
+      "pos": "noun",
+      "example_en": "The young colt galloped across the green meadow.",
+      "example_uz": "Yosh toychoq yashil oʻtloq boʻylab chopib ketdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "coral",
+      "pronunciation_uz": "koral",
+      "uzbek": "marjon (korall)",
+      "pos": "noun",
+      "example_en": "Warm shallow seas support vibrant coral colonies.",
+      "example_uz": "Iliq sayoz dengizlar rang-barang marjon koloniyalarini qoʻllab-quvvatlaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cow",
+      "pronunciation_uz": "kau",
+      "uzbek": "sigir",
+      "pos": "noun",
+      "example_en": "A dairy cow produces several gallons of fresh milk daily.",
+      "example_uz": "Sogʻin sigir kuniga bir necha litr yangi sut beradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "creature",
+      "pronunciation_uz": "kricher",
+      "uzbek": "jonzot (mavjudot)",
+      "pos": "noun",
+      "example_en": "The deep sea is full of mysterious glowing creatures.",
+      "example_uz": "Chuqur dengiz sirli nur sochuvchi jonzotlarga toʻla.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cricket",
+      "pronunciation_uz": "kriket",
+      "uzbek": "chigirtka (qora chigirtka / chirildoq)",
+      "pos": "noun",
+      "example_en": "We heard crickets chirping in the warm summer night.",
+      "example_uz": "Biz iliq yoz tunida chirildoqlarning chirillashini eshitdik.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "crocodile",
+      "pronunciation_uz": "krokodayl",
+      "uzbek": "timsoh (krokodil)",
+      "pos": "noun",
+      "example_en": "The Nile crocodile has powerful jaws and thick scales.",
+      "example_uz": "Nil timsohi kuchli jagʻlar va qalin tangachalarga ega.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "crow",
+      "pronunciation_uz": "krou",
+      "uzbek": "qargʻa",
+      "pos": "noun",
+      "example_en": "Crows are clever birds that can solve puzzles.",
+      "example_uz": "Qargʻalar boshqotirmalarni yecha oladigan aqlli qushlardir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "cub",
+      "pronunciation_uz": "kab",
+      "uzbek": "yirtqich hayvon bolasi (ayiqcha/shervachcha)",
+      "pos": "noun",
+      "example_en": "The mother bear fiercely protected her two cubs.",
+      "example_uz": "Ona ayiq oʻzining ikki ayiqchasini qattiq himoya qildi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "deer",
+      "pronunciation_uz": "dir",
+      "uzbek": "bugʻu (kiyik)",
+      "pos": "noun",
+      "example_en": "A Bukhara deer was spotted near the Amu Darya forest.",
+      "example_uz": "Amudaryo toʻqayzorlari yaqinida Buxoro bugʻusi koʻrindi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "den",
+      "pronunciation_uz": "den",
+      "uzbek": "uya (yirtqich hayvon ini)",
+      "pos": "noun",
+      "example_en": "The wolf cubs stayed safe inside their rocky den.",
+      "example_uz": "Boʻri bolalari toshloq uyasi ichida xavfsiz qoldilar.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "dog",
+      "pronunciation_uz": "dog",
+      "uzbek": "it (kuchuk)",
+      "pos": "noun",
+      "example_en": "The shepherd's dog guards the flock from wolves.",
+      "example_uz": "Choʻponning iti suruvni boʻrilardan qoʻriqlaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "dolphin",
+      "pronunciation_uz": "dolfin",
+      "uzbek": "delfin",
+      "pos": "noun",
+      "example_en": "Playful dolphins leaped out of the water near the boat.",
+      "example_uz": "Shoʻx delfinlar qayiq yonida suvdan sakrab chiqdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "donkey",
+      "pronunciation_uz": "donki",
+      "uzbek": "eshak",
+      "pos": "noun",
+      "example_en": "A sturdy donkey carried baskets up the mountain path.",
+      "example_uz": "Baquvvat eshak togʻ soʻqmogʻi boʻylab savatlarni koʻtarib chiqdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "dove",
+      "pronunciation_uz": "dav",
+      "uzbek": "kabutar (musicha)",
+      "pos": "noun",
+      "example_en": "A white dove is a universal symbol of peace.",
+      "example_uz": "Oq kabutar tinchlikning umuminsoniy ramzidir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "dragonfly",
+      "pronunciation_uz": "dregonflay",
+      "uzbek": "ninachi",
+      "pos": "noun",
+      "example_en": "A blue dragonfly hovered above the water lilies.",
+      "example_uz": "Moviy ninachi suv nilufarlari ustida muallaq uchib turardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "eagle",
+      "pronunciation_uz": "igl",
+      "uzbek": "burgut",
+      "pos": "noun",
+      "example_en": "The golden eagle soared high above the mountain peaks.",
+      "example_uz": "Burgut togʻ choʻqqilari uzra baland parvoz qildi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "eel",
+      "pronunciation_uz": "il",
+      "uzbek": "ilonbaliq",
+      "pos": "noun",
+      "example_en": "An eel has a long, slippery, snake-like body.",
+      "example_uz": "Ilonbaliqning tanasi uzun, silliq va ilonga oʻxshash boʻladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "elephant",
+      "pronunciation_uz": "elefant",
+      "uzbek": "fil",
+      "pos": "noun",
+      "example_en": "An elephant uses its trunk to drink water and pick up food.",
+      "example_uz": "Fil suv ichish va ovqat olish uchun xartumidan foydalanadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "endangered",
+      "pronunciation_uz": "endeynjerd",
+      "uzbek": "yoʻqolib ketish xavfi ostidagi",
+      "pos": "adj",
+      "example_en": "The snow leopard is an endangered mountain species.",
+      "example_uz": "Qor qoploni yoʻqolib ketish xavfi ostidagi togʻ jonivoridir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "extinction",
+      "pronunciation_uz": "ekstinkshn",
+      "uzbek": "qirilib ketish (yoʻq boʻlib ketish)",
+      "pos": "noun",
+      "example_en": "Conservation laws protect rare animals from extinction.",
+      "example_uz": "Tabiatni muhofaza qilish qonunlari noyob hayvonlarni qirilib ketishdan saqlaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "falcon",
+      "pronunciation_uz": "falkon",
+      "uzbek": "lochin",
+      "pos": "noun",
+      "example_en": "The peregrine falcon dives at incredible speeds.",
+      "example_uz": "Lochin aql bovar qilmas tezlikda pastga shoʻngʻiydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "fang",
+      "pronunciation_uz": "feng",
+      "uzbek": "qoziq tish (zaharli tish)",
+      "pos": "noun",
+      "example_en": "Venomous snakes inject poison through hollow fangs.",
+      "example_uz": "Zaharli ilonlar zaharni ichi boʻsh tishlari orqali yuboradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "fauna",
+      "pronunciation_uz": "fona",
+      "uzbek": "hayvonot dunyosi (fauna)",
+      "pos": "noun",
+      "example_en": "Biologists cataloged the diverse fauna of the desert.",
+      "example_uz": "Biologlar choʻlning xilma-xil hayvonot dunyosini roʻyxatga oldilar.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "fin",
+      "pronunciation_uz": "fin",
+      "uzbek": "suzish qanoti (baliq suzgichi)",
+      "pos": "noun",
+      "example_en": "The shark's dorsal fin cut through the surface of the waves.",
+      "example_uz": "Akulaning orqa suzgichi toʻlqinlar yuzasini kesib oʻtdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "flamingo",
+      "pronunciation_uz": "flamingou",
+      "uzbek": "flamingo (qizilgʻoz)",
+      "pos": "noun",
+      "example_en": "Pink flamingos gather at shallow salt lakes during migration.",
+      "example_uz": "Pushti flamingolar koʻchish davrida sayoz shoʻr koʻllarda toʻplanadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "flea",
+      "pronunciation_uz": "fli",
+      "uzbek": "burga",
+      "pos": "noun",
+      "example_en": "Veterinarians give pets medicine to prevent fleas and ticks.",
+      "example_uz": "Veterinarlar uy hayvonlariga burga va kanalarning oldini olish uchun dori beradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "flock",
+      "pronunciation_uz": "flok",
+      "uzbek": "suruv (qoʻylar) yoki gala (qushlar)",
+      "pos": "noun",
+      "example_en": "A flock of starlings wheeled across the evening sky.",
+      "example_uz": "Chugʻurchuqlar galasi kechki osmon boʻylab aylanib uchdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "foal",
+      "pronunciation_uz": "foul",
+      "uzbek": "qulun (toychoq)",
+      "pos": "noun",
+      "example_en": "The mare stayed close to her newborn foal.",
+      "example_uz": "Biya yangi tugʻilgan qulunining yonidan uzoqlashmadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "fox",
+      "pronunciation_uz": "foks",
+      "uzbek": "tulki",
+      "pos": "noun",
+      "example_en": "A red fox trotted silently across the snowy field.",
+      "example_uz": "Qizil tulki qorli dala boʻylab ovozsiz yugurib oʻtdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "frog",
+      "pronunciation_uz": "frog",
+      "uzbek": "qurbaqa",
+      "pos": "noun",
+      "example_en": "Green frogs croaked loudly near the irrigation ditch.",
+      "example_uz": "Yashil qurbaqalar ariq boʻyida baland ovozda qurillardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "gazelle",
+      "pronunciation_uz": "gazel",
+      "uzbek": "jayron (ohu)",
+      "pos": "noun",
+      "example_en": "The graceful goitered gazelle can run swiftly across sand.",
+      "example_uz": "Xushqomat jayron qum ustida chaqqon yugura oladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "gill",
+      "pronunciation_uz": "gil",
+      "uzbek": "jabra (baliq nafas olish aʼzosi)",
+      "pos": "noun",
+      "example_en": "Fish absorb oxygen from water through their gills.",
+      "example_uz": "Baliqlar suvdan kislorodni jabralari orqali oladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "giraffe",
+      "pronunciation_uz": "jiraf",
+      "uzbek": "jirafa",
+      "pos": "noun",
+      "example_en": "A giraffe's long neck allows it to reach high acacia leaves.",
+      "example_uz": "Jirafaning uzun boʻyni baland akatsiya barglariga yetish imkonini beradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "goat",
+      "pronunciation_uz": "gout",
+      "uzbek": "echki",
+      "pos": "noun",
+      "example_en": "Mountain goats climb steep rocky cliffs with ease.",
+      "example_uz": "Togʻ echkilari tik qoyalarga osongina tirmashib chiqadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "gorilla",
+      "pronunciation_uz": "gorila",
+      "uzbek": "gorilla",
+      "pos": "noun",
+      "example_en": "Gorillas live in family groups in tropical mountain forests.",
+      "example_uz": "Gorillalar tropik togʻ oʻrmonlarida oilaviy guruh boʻlib yashaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "grasshopper",
+      "pronunciation_uz": "grashoper",
+      "uzbek": "chigirtka",
+      "pos": "noun",
+      "example_en": "A green grasshopper leaped high out of the dry grass.",
+      "example_uz": "Yashil chigirtka quruq oʻt orasidan balandga sakradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hamster",
+      "pronunciation_uz": "hemster",
+      "uzbek": "ogʻmaxon (xomyak)",
+      "pos": "noun",
+      "example_en": "The hamster stuffed sunflower seeds into its cheek pouches.",
+      "example_uz": "Ogʻmaxon kungaboqar urugʻlarini lunj xaltachalariga joyladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hare",
+      "pronunciation_uz": "her",
+      "uzbek": "yovvoyi quyon (tovushqon)",
+      "pos": "noun",
+      "example_en": "A desert hare has long ears that help release heat.",
+      "example_uz": "Choʻl tovushqonining issiqlikni chiqarishga yordam beradigan uzun quloqlari bor.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hawk",
+      "pronunciation_uz": "hok",
+      "uzbek": "qirgʻiy",
+      "pos": "noun",
+      "example_en": "A hawk circled patiently above the wheat field.",
+      "example_uz": "Qirgʻiy bugʻdoy dalasi ustida sabr bilan aylanib uchardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hedgehog",
+      "pronunciation_uz": "hejhok",
+      "uzbek": "tipratikan",
+      "pos": "noun",
+      "example_en": "The hedgehog curled into a spiny ball when approached.",
+      "example_uz": "Tipratikan yaqinlashganda tikanli koptok boʻlib gʻujanak boʻlib oldi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hen",
+      "pronunciation_uz": "hen",
+      "uzbek": "tovuq (makiyon)",
+      "pos": "noun",
+      "example_en": "The brown hen laid fresh eggs in the straw nest.",
+      "example_uz": "Jigarrang tovuq somon uyaga yangi tuxum qoʻydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "herbivore",
+      "pronunciation_uz": "herbivor",
+      "uzbek": "oʻtxoʻr hayvon",
+      "pos": "noun",
+      "example_en": "Deer, elephants, and horses are plant-eating herbivores.",
+      "example_uz": "Bugʻular, fillar va otlar oʻsimlik bilan oziqlanadigan oʻtxoʻr hayvonlardir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "herd",
+      "pronunciation_uz": "herd",
+      "uzbek": "poda (uyur)",
+      "pos": "noun",
+      "example_en": "A herd of wild horses galloped across the steppe.",
+      "example_uz": "Yovvoyi otlar uyuri dasht boʻylab chopib oʻtdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "heron",
+      "pronunciation_uz": "heron",
+      "uzbek": "qoʻton (qarqara)",
+      "pos": "noun",
+      "example_en": "A tall gray heron stood motionless in the shallow water.",
+      "example_uz": "Boʻydor kulrang qarqara sayoz suvda qimir etmay turardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hibernate",
+      "pronunciation_uz": "hayberneyt",
+      "uzbek": "qishki uyquga ketmoq",
+      "pos": "verb",
+      "example_en": "Marmots hibernate in deep burrows throughout the cold winter.",
+      "example_uz": "Sugʻurlar sovuq qish boʻyi chuqur inlarida qishki uyquga ketadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hive",
+      "pronunciation_uz": "hayv",
+      "uzbek": "ari uyasi",
+      "pos": "noun",
+      "example_en": "The beekeeper inspected the wooden bee hives.",
+      "example_uz": "Asalarichi yogʻoch ari uyalarini koʻzdan kechirdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hoof",
+      "pronunciation_uz": "huf",
+      "uzbek": "tuyoq",
+      "pos": "noun",
+      "example_en": "The blacksmith fitted iron shoes onto the horse's hooves.",
+      "example_uz": "Temirchi otning tuyoqlariga temir taqa qoqdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "horse",
+      "pronunciation_uz": "hors",
+      "uzbek": "ot",
+      "pos": "noun",
+      "example_en": "The Akhal-Teke horse is famous for its speed and endurance.",
+      "example_uz": "Axaltaka oti oʻzining tezligi va chidamliligi bilan mashhur.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hound",
+      "pronunciation_uz": "haund",
+      "uzbek": "ov iti (tozi)",
+      "pos": "noun",
+      "example_en": "The Tazi hound is a traditional sighthound of Central Asia.",
+      "example_uz": "Tozi iti Markaziy Osiyoning anʼanaviy ov itidir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "hump",
+      "pronunciation_uz": "hamp",
+      "uzbek": "oʻrkach (tuya oʻrkachi)",
+      "pos": "noun",
+      "example_en": "A camel's hump stores fat rather than water.",
+      "example_uz": "Tuyaning oʻrkachi suv emas, balki yogʻ zaxirasini saqlaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "insect",
+      "pronunciation_uz": "insekt",
+      "uzbek": "hasharot",
+      "pos": "noun",
+      "example_en": "All insects have six legs and a three-part body.",
+      "example_uz": "Barcha hasharotlarning oltita oyogʻi va uch qismli tanasi boʻladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "jellyfish",
+      "pronunciation_uz": "jelifish",
+      "uzbek": "meduza",
+      "pos": "noun",
+      "example_en": "Translucent jellyfish drifted with the ocean current.",
+      "example_uz": "Shaffof meduzalar okean oqimi bilan suzib yurardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "kangaroo",
+      "pronunciation_uz": "kengaru",
+      "uzbek": "kenguru",
+      "pos": "noun",
+      "example_en": "A female kangaroo carries her baby in a front pouch.",
+      "example_uz": "Urgʻochi kenguru bolasini oldingi xaltachasida koʻtarib yuradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "kitten",
+      "pronunciation_uz": "kiten",
+      "uzbek": "mushukcha",
+      "pos": "noun",
+      "example_en": "The playful kitten chased a ball of wool across the rug.",
+      "example_uz": "Shoʻx mushukcha gilam ustida jun koptokni quvib oʻynadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "koala",
+      "pronunciation_uz": "kouala",
+      "uzbek": "koala",
+      "pos": "noun",
+      "example_en": "Koalas spend most of the day sleeping in eucalyptus trees.",
+      "example_uz": "Koalalar kunning koʻp qismini evkalipt daraxtlarida uxlab oʻtkazadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "ladybug",
+      "pronunciation_uz": "leydibag",
+      "uzbek": "xonqizi (qoʻngʻizcha)",
+      "pos": "noun",
+      "example_en": "Gardeners love ladybugs because they eat harmful aphids.",
+      "example_uz": "Bogʻbonlar xonqizilarni yaxshi koʻradilar, chunki ular zararli shiralarni yeydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "larva",
+      "pronunciation_uz": "larva",
+      "uzbek": "lichinka (qurtcha)",
+      "pos": "noun",
+      "example_en": "A mosquito larva develops in standing water.",
+      "example_uz": "Chivin lichinkasi turgʻun suvda rivojlanadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "leopard",
+      "pronunciation_uz": "lepard",
+      "uzbek": "qoplon (leopard)",
+      "pos": "noun",
+      "example_en": "A snow leopard blends seamlessly into rocky cliffs.",
+      "example_uz": "Qor qoploni toshloq qoyalar bilan mukammal uygʻunlashib ketadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "lion",
+      "pronunciation_uz": "layon",
+      "uzbek": "sher (arslon)",
+      "pos": "noun",
+      "example_en": "The male lion has a thick mane around its neck.",
+      "example_uz": "Erkak sherning boʻyni atrofida qalin yoli boʻladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "lizard",
+      "pronunciation_uz": "lizard",
+      "uzbek": "kaltakesak",
+      "pos": "noun",
+      "example_en": "A desert monitor lizard can grow over one meter long.",
+      "example_uz": "Choʻl echkiemari bir metrdan ortiq uzunlikda oʻsishi mumkin.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "lynx",
+      "pronunciation_uz": "links",
+      "uzbek": "silovsin",
+      "pos": "noun",
+      "example_en": "You can recognize a lynx by the black tufts on its ears.",
+      "example_uz": "Silovsinni quloqlari uchidagi qora popuklaridan tanib olish mumkin.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "mammal",
+      "pronunciation_uz": "memal",
+      "uzbek": "sutemizuvchi hayvon",
+      "pos": "noun",
+      "example_en": "Whales and dolphins are warm-blooded marine mammals.",
+      "example_uz": "Kitlar va delfinlar issiqqonli dengiz sutemizuvchilaridir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "mane",
+      "pronunciation_uz": "meyn",
+      "uzbek": "yol (ot yoki sher yoli)",
+      "pos": "noun",
+      "example_en": "She braided the horse's long black mane before the show.",
+      "example_uz": "U koʻrgazmadan oldin otning uzun qora yolini oʻrdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "monkey",
+      "pronunciation_uz": "manki",
+      "uzbek": "maymun",
+      "pos": "noun",
+      "example_en": "Monkeys swung effortlessly from branch to branch.",
+      "example_uz": "Maymunlar shoxdan shoxga qiyinchiliksiz sakrab oʻtardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "moose",
+      "pronunciation_uz": "mus",
+      "uzbek": "los (yirik bugʻu)",
+      "pos": "noun",
+      "example_en": "The moose is the largest member of the deer family.",
+      "example_uz": "Los bugʻular oilasining eng yirik vakilidir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "mosquito",
+      "pronunciation_uz": "moskitou",
+      "uzbek": "chivin",
+      "pos": "noun",
+      "example_en": "Apply insect repellent to avoid mosquito bites.",
+      "example_uz": "Chivin chaqishining oldini olish uchun hasharotlarga qarshi vosita surting.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "moth",
+      "pronunciation_uz": "mos",
+      "uzbek": "parvona (tungi kapalak / kuya)",
+      "pos": "noun",
+      "example_en": "A night moth fluttered around the porch lantern.",
+      "example_uz": "Tungi parvona ayvon chirogʻi atrofida pirpirab uchardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "mule",
+      "pronunciation_uz": "myul",
+      "uzbek": "xachir",
+      "pos": "noun",
+      "example_en": "Sure-footed mules carry supplies along steep mountain trails.",
+      "example_uz": "Mustahkam oyoqli xachirlar tik togʻ soʻqmoqlari boʻylab yuk tashiydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "nest",
+      "pronunciation_uz": "nest",
+      "uzbek": "in (qush uyasi)",
+      "pos": "noun",
+      "example_en": "A pair of storks built a huge nest on top of the pole.",
+      "example_uz": "Bir juft laylak ustun tepasiga ulkan in qurdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "nightingale",
+      "pronunciation_uz": "naytingeyl",
+      "uzbek": "bulbul",
+      "pos": "noun",
+      "example_en": "The nightingale's melodious song echoed through the garden.",
+      "example_uz": "Bulbulning xushovoz xonishi bogʻ boʻylab yangradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "octopus",
+      "pronunciation_uz": "oktopus",
+      "uzbek": "sakkizoyoq",
+      "pos": "noun",
+      "example_en": "An octopus has eight flexible arms and remarkable intelligence.",
+      "example_uz": "Sakkizoyoqning sakkizta egiluvchan paypaslagichi va ajoyib aqli bor.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "ostrich",
+      "pronunciation_uz": "ostrich",
+      "uzbek": "tuyaqush",
+      "pos": "noun",
+      "example_en": "An ostrich cannot fly, but it can run faster than a horse.",
+      "example_uz": "Tuyaqush ucha olmaydi, lekin otdan tezroq yugura oladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "otter",
+      "pronunciation_uz": "oter",
+      "uzbek": "qunduz (suv suvsari)",
+      "pos": "noun",
+      "example_en": "River otters are agile swimmers that hunt fish.",
+      "example_uz": "Daryo suvsarlari baliq ovlaydigan chaqqon suzuvchilardir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "owl",
+      "pronunciation_uz": "aul",
+      "uzbek": "boyqush (ukki)",
+      "pos": "noun",
+      "example_en": "An owl has large eyes and can turn its head almost all the way around.",
+      "example_uz": "Boyqushning koʻzlari katta boʻlib, boshini deyarli toʻliq aylantira oladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "ox",
+      "pronunciation_uz": "oks",
+      "uzbek": "hoʻkiz",
+      "pos": "noun",
+      "example_en": "In ancient times, pairs of oxen pulled heavy wooden plows.",
+      "example_uz": "Qadim zamonlarda juft hoʻkizlar ogʻir yogʻoch omocharni tortgan.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "panda",
+      "pronunciation_uz": "penda",
+      "uzbek": "panda",
+      "pos": "noun",
+      "example_en": "Giant pandas feed almost entirely on bamboo shoots.",
+      "example_uz": "Ulkan pandalar deyarli faqat bambuk novdalari bilan oziqlanadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "parrot",
+      "pronunciation_uz": "perot",
+      "uzbek": "toʻtiqush",
+      "pos": "noun",
+      "example_en": "A clever parrot can mimic human words and laughter.",
+      "example_uz": "Aqlli toʻtiqush inson soʻzlari va kulgisini taqlid qila oladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "paw",
+      "pronunciation_uz": "po",
+      "uzbek": "panja (hayvon oyogʻi)",
+      "pos": "noun",
+      "example_en": "The puppy placed its soft paw in my hand.",
+      "example_uz": "Kuchukcha yumshoq panjasini qoʻlimga qoʻydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "peacock",
+      "pronunciation_uz": "pikok",
+      "uzbek": "tovus",
+      "pos": "noun",
+      "example_en": "The peacock spread its magnificent tail feathers like a fan.",
+      "example_uz": "Tovus oʻzining muhtasham dum patlarini yelpigʻichdek yoydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "pelican",
+      "pronunciation_uz": "pelikan",
+      "uzbek": "saqoqush (pelikan)",
+      "pos": "noun",
+      "example_en": "A pelican scoops up fish in its large throat pouch.",
+      "example_uz": "Saqoqush oʻzining katta tomoq xaltasida baliqlarni tutib oladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "penguin",
+      "pronunciation_uz": "pengvin",
+      "uzbek": "pingvin",
+      "pos": "noun",
+      "example_en": "Emperor penguins survive freezing Antarctic winters.",
+      "example_uz": "Imperator pingvinlari Antarktidaning qahraton qishlariga bardosh beradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "pet",
+      "pronunciation_uz": "pet",
+      "uzbek": "uy hayvoni",
+      "pos": "noun",
+      "example_en": "Having a pet teaches children responsibility and kindness.",
+      "example_uz": "Uy hayvonini boqish bolalarga masʼuliyat va mehr-oqibatni oʻrgatadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "pigeon",
+      "pronunciation_uz": "pijin",
+      "uzbek": "kabutar",
+      "pos": "noun",
+      "example_en": "Flocks of pigeons gathered in the city square.",
+      "example_uz": "Shahar maydonida kabutarlar galasi toʻplandi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "polar bear",
+      "pronunciation_uz": "poular ber",
+      "uzbek": "oq ayiq (qutb ayigʻi)",
+      "pos": "noun",
+      "example_en": "The polar bear hunts seals on the Arctic sea ice.",
+      "example_uz": "Oq ayiq Arktika dengiz muzliklarida tyulenlarni ovlaydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "pony",
+      "pronunciation_uz": "pouni",
+      "uzbek": "poni (pakana ot)",
+      "pos": "noun",
+      "example_en": "Children rode a gentle pony around the park.",
+      "example_uz": "Bolalar bogʻ atrofida yuvosh ponini mindilar.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "predator",
+      "pronunciation_uz": "predator",
+      "uzbek": "yirtqich",
+      "pos": "noun",
+      "example_en": "Camouflage helps small animals hide from predators.",
+      "example_uz": "Niqoblanish mayda hayvonlarga yirtqichlardan yashirinishga yordam beradi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "prey",
+      "pronunciation_uz": "prey",
+      "uzbek": "oʻlja",
+      "pos": "noun",
+      "example_en": "The owl glided silently toward its unsuspecting prey.",
+      "example_uz": "Boyqush bexabar oʻljasi tomon ovozsiz uchib bordi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "puppy",
+      "pronunciation_uz": "papi",
+      "uzbek": "kuchukcha",
+      "pos": "noun",
+      "example_en": "We adopted an energetic shepherd puppy.",
+      "example_uz": "Biz harakatchan choʻpon iti kuchukchasini boqib oldik.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "rabbit",
+      "pronunciation_uz": "rebit",
+      "uzbek": "quyon",
+      "pos": "noun",
+      "example_en": "The white rabbit nibbled on fresh clover leaves.",
+      "example_uz": "Oq quyon yangi sebarga barglarini kemirardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "ram",
+      "pronunciation_uz": "rem",
+      "uzbek": "qoʻchqor",
+      "pos": "noun",
+      "example_en": "Two mountain rams clashed their curved horns.",
+      "example_uz": "Ikki togʻ qoʻchqori qayrilma shoxlarini bir-biriga urishtirdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "rat",
+      "pronunciation_uz": "ret",
+      "uzbek": "kalamush",
+      "pos": "noun",
+      "example_en": "Grain silos are sealed tightly to keep rats out.",
+      "example_uz": "Kalamushlar kirmasligi uchun don omborlari mahkam yopiladi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "reptile",
+      "pronunciation_uz": "reptayl",
+      "uzbek": "sudralib yuruvchi (reptiliya)",
+      "pos": "noun",
+      "example_en": "Turtles, snakes, and lizards are scaly reptiles.",
+      "example_uz": "Toshbaqalar, ilonlar va kaltakesaklar tangachali sudralib yuruvchilardir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "rhinoceros",
+      "pronunciation_uz": "raynoseros",
+      "uzbek": "karkidon",
+      "pos": "noun",
+      "example_en": "A rhinoceros has thick armor-like skin and a horn on its snout.",
+      "example_uz": "Karkidonning zirhga oʻxshash qalin terisi va burni ustida shoxi bor.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "rooster",
+      "pronunciation_uz": "ruster",
+      "uzbek": "xoʻroz",
+      "pos": "noun",
+      "example_en": "The village rooster crowed loudly at daybreak.",
+      "example_uz": "Qishloq xoʻrozi tong otganda baland ovozda qichqirdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "scorpion",
+      "pronunciation_uz": "skorpion",
+      "uzbek": "chayon",
+      "pos": "noun",
+      "example_en": "Shake out your boots in the desert to check for scorpions.",
+      "example_uz": "Choʻlda chayonlar yoʻqligini tekshirish uchun etiklaringizni qoqib kiying.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "seagull",
+      "pronunciation_uz": "sigal",
+      "uzbek": "chayka (baliqchi qush)",
+      "pos": "noun",
+      "example_en": "Seagulls followed the ferry across the sea.",
+      "example_uz": "Chaykalar dengiz boʻylab parom ortidan ergashib uchdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "shark",
+      "pronunciation_uz": "shark",
+      "uzbek": "akula (nahang)",
+      "pos": "noun",
+      "example_en": "A great white shark has rows of replaceable teeth.",
+      "example_uz": "Oq akulaning oʻrniga yangisi chiqadigan qator tishlari bor.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "sheep",
+      "pronunciation_uz": "ship",
+      "uzbek": "qoʻy",
+      "pos": "noun",
+      "example_en": "Farmers shear the sheep's wool once a year in spring.",
+      "example_uz": "Fermerlar bahorda yiliga bir marta qoʻy junini qirqadilar.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "silkworm",
+      "pronunciation_uz": "silkvorm",
+      "uzbek": "ipak qurti",
+      "pos": "noun",
+      "example_en": "Raising silkworms is an ancient tradition in Margilan.",
+      "example_uz": "Ipak qurti boqish Margʻilonda qadimiy anʼanadir.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "snake",
+      "pronunciation_uz": "sneyk",
+      "uzbek": "ilon",
+      "pos": "noun",
+      "example_en": "Most garden snakes are harmless and eat pests.",
+      "example_uz": "Koʻpchilik bogʻ ilonlari zararsiz boʻlib, zararkunandalarni yeydi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "sparrow",
+      "pronunciation_uz": "sperou",
+      "uzbek": "chumchuq",
+      "pos": "noun",
+      "example_en": "Small brown sparrows hopped around the courtyard.",
+      "example_uz": "Kichkina jigarrang chumchuqlar hovli boʻylab sakrab yurardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "spider",
+      "pronunciation_uz": "spayder",
+      "uzbek": "oʻrgimchak",
+      "pos": "noun",
+      "example_en": "A spider spun an intricate web between two branches.",
+      "example_uz": "Oʻrgimchak ikki shox orasida murakkab toʻr toʻqidi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "squirrel",
+      "pronunciation_uz": "skvirel",
+      "uzbek": "olmaxon",
+      "pos": "noun",
+      "example_en": "The squirrel hid acorns in the hollow of a tree.",
+      "example_uz": "Olmaxon daraxt kovagiga eman yongʻoqlarini yashirdi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "stork",
+      "pronunciation_uz": "stork",
+      "uzbek": "laylak",
+      "pos": "noun",
+      "example_en": "White storks are welcomed as symbols of good luck.",
+      "example_uz": "Oq laylaklar omad va baraka ramzi sifatida kutib olinadi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    },
+    {
+      "english": "swan",
+      "pronunciation_uz": "svon",
+      "uzbek": "oqqush",
+      "pos": "noun",
+      "example_en": "Two graceful swans glided across the mirror-like lake.",
+      "example_uz": "Ikki xushqomat oqqush oynadek koʻl yuzasida suzib yurardi.",
+      "category": "Hayvonot olami, qushlar va hasharotlar"
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "title": "Internet, smartfon va aloqa",
+  "category": "Internet, Smartphones & Social Media",
+  "group": "topic",
+  "words": [
+    {
+      "english": "adapter",
+      "pronunciation_uz": "adapter",
+      "uzbek": "adapter (quvvatlagich moslamasi)",
+      "pos": "noun",
+      "example_en": "Plug the travel adapter into the wall socket.",
+      "example_uz": "Sayohat adapterini devordagi rozetkaga ulang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "airplane mode",
+      "pronunciation_uz": "eyrpleyn moud",
+      "uzbek": "parvoz rejimi",
+      "pos": "noun",
+      "example_en": "Please switch your phone to airplane mode before takeoff.",
+      "example_uz": "Uchishdan oldin telefoningizni parvoz rejimiga oʻtkazing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "airtime",
+      "pronunciation_uz": "eyrtaym",
+      "uzbek": "efir vaqti (aloqa daqiqalari)",
+      "pos": "noun",
+      "example_en": "She bought prepaid airtime for her mobile phone.",
+      "example_uz": "U mobil telefoni uchun oldindan toʻlangan aloqa daqiqalarini sotib oldi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "alert",
+      "pronunciation_uz": "alert",
+      "uzbek": "ogohlantirish xabari",
+      "pos": "noun",
+      "example_en": "The weather app sent an urgent storm alert.",
+      "example_uz": "Ob-havo ilovasi shoshilinch boʻron haqida ogohlantirish yubordi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "app store",
+      "pronunciation_uz": "ep stor",
+      "uzbek": "ilovalar doʻkoni",
+      "pos": "noun",
+      "example_en": "You can download the dictionary from the app store.",
+      "example_uz": "Lugʻatni ilovalar doʻkonidan yuklab olishingiz mumkin.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "attachment",
+      "pronunciation_uz": "atachment",
+      "uzbek": "biriktirilgan fayl (ilova)",
+      "pos": "noun",
+      "example_en": "Please find the invoice in the email attachment.",
+      "example_uz": "Iltimos, hisob-fakturani elektron pochta ilovasidan toping.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "audio message",
+      "pronunciation_uz": "odio mesij",
+      "uzbek": "ovozli xabar",
+      "pos": "noun",
+      "example_en": "He sent a quick audio message while walking.",
+      "example_uz": "U yurib ketayotib qisqa ovozli xabar yubordi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "authentication",
+      "pronunciation_uz": "otentikeyshn",
+      "uzbek": "autentifikatsiya (shaxsni tasdiqlash)",
+      "pos": "noun",
+      "example_en": "Two-factor authentication keeps your profile safe.",
+      "example_uz": "Ikki bosqichli autentifikatsiya profilingizni xavfsiz saqlaydi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "avatar",
+      "pronunciation_uz": "avatar",
+      "uzbek": "avatar (profil rasmi)",
+      "pos": "noun",
+      "example_en": "She chose a cartoon illustration as her avatar.",
+      "example_uz": "U avatari sifatida multfilm illyustratsiyasini tanladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "bio",
+      "pronunciation_uz": "bayo",
+      "uzbek": "qisqacha maʼlumot (bio)",
+      "pos": "noun",
+      "example_en": "Put a link to your portfolio in your profile bio.",
+      "example_uz": "Profil biosiga portfoliongiz havolasini joylashtiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "blog",
+      "pronunciation_uz": "blog",
+      "uzbek": "blog (shaxsiy sayt)",
+      "pos": "noun",
+      "example_en": "He writes a popular travel blog about Central Asia.",
+      "example_uz": "U Markaziy Osiyo haqida mashhur sayohat blogini yuritadi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "blogger",
+      "pronunciation_uz": "bloger",
+      "uzbek": "bloger",
+      "pos": "noun",
+      "example_en": "The tech blogger reviewed the newest smartphone.",
+      "example_uz": "Texnobloger eng yangi smartfonni koʻrib chiqdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "bluetooth",
+      "pronunciation_uz": "blutus",
+      "uzbek": "Bluetooth (simsiz aloqa)",
+      "pos": "noun",
+      "example_en": "Pair the wireless earbuds with your phone via Bluetooth.",
+      "example_uz": "Simsiz quloqchinlarni Bluetooth orqali telefoningizga ulang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "broadband",
+      "pronunciation_uz": "brodbend",
+      "uzbek": "keng polosali internet",
+      "pos": "noun",
+      "example_en": "Rural schools now have access to high-speed broadband.",
+      "example_uz": "Qishloq maktablari endi yuqori tezlikdagi keng polosali internetga ega.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "browse",
+      "pronunciation_uz": "brauz",
+      "uzbek": "koʻzdan kechirmoq (internetda)",
+      "pos": "verb",
+      "example_en": "She likes to browse online bookstores in the evening.",
+      "example_uz": "U kechqurun onlayn kitob doʻkonlarini koʻzdan kechirishni yaxshi koʻradi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "browser",
+      "pronunciation_uz": "brauzer",
+      "uzbek": "brauzer",
+      "pos": "noun",
+      "example_en": "Open the link in a modern web browser.",
+      "example_uz": "Havolani zamonaviy veb-brauzerda oching.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "buffer",
+      "pronunciation_uz": "bafer",
+      "uzbek": "buferlashmoq (yuklanib turmoq)",
+      "pos": "verb",
+      "example_en": "The video started to buffer because the Wi-Fi was slow.",
+      "example_uz": "Wi-Fi sekin boʻlgani uchun video buferlashni boshladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "call log",
+      "pronunciation_uz": "kol log",
+      "uzbek": "qoʻngʻiroqlar tarixi",
+      "pos": "noun",
+      "example_en": "Check your call log to see when he rang.",
+      "example_uz": "U qachon qoʻngʻiroq qilganini koʻrish uchun qoʻngʻiroqlar tarixini tekshiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "caller",
+      "pronunciation_uz": "koler",
+      "uzbek": "qoʻngʻiroq qiluvchi",
+      "pos": "noun",
+      "example_en": "The screen displayed the name of the caller.",
+      "example_uz": "Ekranda qoʻngʻiroq qiluvchining ismi koʻrindi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "caption",
+      "pronunciation_uz": "kepshn",
+      "uzbek": "izoh (rasm ostidagi yozuv)",
+      "pos": "noun",
+      "example_en": "She wrote a funny caption under her vacation photo.",
+      "example_uz": "U taʼtil surati ostiga kulgili izoh yozdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "carrier",
+      "pronunciation_uz": "keriyer",
+      "uzbek": "aloqa operatori",
+      "pos": "noun",
+      "example_en": "Which mobile carrier offers the best 5G coverage here?",
+      "example_uz": "Qaysi mobil aloqa operatori bu yerda eng yaxshi 5G qamrovini taqdim etadi?",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "cell tower",
+      "pronunciation_uz": "sel tauer",
+      "uzbek": "uyali aloqa minorasi",
+      "pos": "noun",
+      "example_en": "They built a new cell tower near the highway.",
+      "example_uz": "Ular katta yoʻl yaqinida yangi uyali aloqa minorasini qurdilar.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "cellular",
+      "pronunciation_uz": "selyular",
+      "uzbek": "uyali (mobil aloqaga oid)",
+      "pos": "adj",
+      "example_en": "Turn off cellular data when roaming abroad.",
+      "example_uz": "Chet elda roumingda boʻlganda uyali maʼlumotlarni oʻchirib qoʻying.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "charger",
+      "pronunciation_uz": "charjer",
+      "uzbek": "quvvatlagich (zaryadka)",
+      "pos": "noun",
+      "example_en": "I forgot my phone charger at the hotel.",
+      "example_uz": "Men telefon quvvatlagichimni mehmonxonada unutib qoldiribman.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "chat room",
+      "pronunciation_uz": "chat rum",
+      "uzbek": "suhbat xonasi (chat)",
+      "pos": "noun",
+      "example_en": "Students discussed the assignment in an online chat room.",
+      "example_uz": "Talabalar topshiriqni onlayn suhbat xonasida muhokama qildilar.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "click",
+      "pronunciation_uz": "klik",
+      "uzbek": "bosmoq (sichqoncha tugmasini)",
+      "pos": "verb",
+      "example_en": "Click the confirm button to complete your registration.",
+      "example_uz": "Roʻyxatdan oʻtishni yakunlash uchun tasdiqlash tugmasini bosing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "clipboard",
+      "pronunciation_uz": "klipbord",
+      "uzbek": "vaqtinchalik xotira (bufer)",
+      "pos": "noun",
+      "example_en": "The invite link was copied to your clipboard.",
+      "example_uz": "Taklif havolasi vaqtinchalik xotiraga nusxalandi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "cloud storage",
+      "pronunciation_uz": "klaud storij",
+      "uzbek": "bulutli xotira",
+      "pos": "noun",
+      "example_en": "My photos are automatically backed up to cloud storage.",
+      "example_uz": "Suratlarim avtomatik ravishda bulutli xotiraga saqlanadi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "connection",
+      "pronunciation_uz": "konekshn",
+      "uzbek": "ulanish (aloqa)",
+      "pos": "noun",
+      "example_en": "A stable internet connection is required for the online test.",
+      "example_uz": "Onlayn test uchun barqaror internet ulanishi talab qilinadi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "contact list",
+      "pronunciation_uz": "kontakt list",
+      "uzbek": "kontaktlar roʻyxati",
+      "pos": "noun",
+      "example_en": "I saved her new number in my contact list.",
+      "example_uz": "Men uning yangi raqamini kontaktlar roʻyxatimga saqlab qoʻydim.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "content creator",
+      "pronunciation_uz": "kontent krieytor",
+      "uzbek": "kontent yaratuvchi (kreyator)",
+      "pos": "noun",
+      "example_en": "She works full-time as a digital content creator.",
+      "example_uz": "U toʻliq stavkada raqamli kontent yaratuvchi boʻlib ishlaydi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "coverage",
+      "pronunciation_uz": "kaverij",
+      "uzbek": "aloqa qamrovi",
+      "pos": "noun",
+      "example_en": "Network coverage is weak in the high mountains.",
+      "example_uz": "Baland togʻlarda tarmoq qamrovi sust.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "credentials",
+      "pronunciation_uz": "kridenshls",
+      "uzbek": "kirish maʼlumotlari (login va parol)",
+      "pos": "noun",
+      "example_en": "Never share your login credentials with anyone.",
+      "example_uz": "Kirish maʼlumotlaringizni hech qachon hech kim bilan boʻlishmang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "cyberbullying",
+      "pronunciation_uz": "sayberbuling",
+      "uzbek": "kiberbulling (internetdagi taʼqib)",
+      "pos": "noun",
+      "example_en": "Schools educate teenagers about preventing cyberbullying.",
+      "example_uz": "Maktablar oʻsmirlarga kiberbullingning oldini olish haqida tushuntirish beradi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "dark mode",
+      "pronunciation_uz": "dark moud",
+      "uzbek": "tungi rejim (qorongʻi rejim)",
+      "pos": "noun",
+      "example_en": "Using dark mode at night reduces eye strain.",
+      "example_uz": "Kechasi tungi rejimdan foydalanish koʻz charchashini kamaytiradi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "data plan",
+      "pronunciation_uz": "deyta plen",
+      "uzbek": "internet tarif rejasi",
+      "pos": "noun",
+      "example_en": "I upgraded to an unlimited mobile data plan.",
+      "example_uz": "Men cheksiz mobil internet tarif rejasiga oʻtdim.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "dial",
+      "pronunciation_uz": "dayl",
+      "uzbek": "raqam termoq",
+      "pos": "verb",
+      "example_en": "Dial the country code before the phone number.",
+      "example_uz": "Telefon raqamidan oldin mamlakat kodini tering.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "direct message",
+      "pronunciation_uz": "dayrekt mesij",
+      "uzbek": "shaxsiy xabar (lichka)",
+      "pos": "noun",
+      "example_en": "Send us a direct message if you have questions.",
+      "example_uz": "Savollaringiz boʻlsa, bizga shaxsiy xabar yuboring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "disconnect",
+      "pronunciation_uz": "diskonekt",
+      "uzbek": "uzilmoq (aloqani uzmoq)",
+      "pos": "verb",
+      "example_en": "Remember to disconnect from public Wi-Fi networks.",
+      "example_uz": "Ommaviy Wi-Fi tarmoqlaridan uzilishni unutmang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "download",
+      "pronunciation_uz": "daunloud",
+      "uzbek": "yuklab olmoq",
+      "pos": "verb",
+      "example_en": "You can download the PDF guide for free.",
+      "example_uz": "PDF qoʻllanmani bepul yuklab olishingiz mumkin.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "earbuds",
+      "pronunciation_uz": "irbadz",
+      "uzbek": "kichik quloqchinlar (vkladish)",
+      "pos": "noun",
+      "example_en": "Wireless earbuds fit easily inside a small case.",
+      "example_uz": "Simsiz quloqchinlar kichik gʻilof ichiga osongina joylashadi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "email",
+      "pronunciation_uz": "imeyl",
+      "uzbek": "elektron pochta",
+      "pos": "noun",
+      "example_en": "Please check your email for the confirmation link.",
+      "example_uz": "Tasdiqlash havolasi uchun elektron pochtangizni tekshiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "emoji",
+      "pronunciation_uz": "imoji",
+      "uzbek": "emodji (smaylik)",
+      "pos": "noun",
+      "example_en": "He replied with a thumbs-up emoji.",
+      "example_uz": "U bosh barmoq koʻtarilgan emodji bilan javob berdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "fiber optic",
+      "pronunciation_uz": "fayber optik",
+      "uzbek": "optik tolali",
+      "pos": "adj",
+      "example_en": "Fiber optic cables transmit internet data using light.",
+      "example_uz": "Optik tolali kabellar internet maʼlumotlarini yorugʻlik yordamida uzatadi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "follower",
+      "pronunciation_uz": "folouer",
+      "uzbek": "obunachi (kuzatuvchi)",
+      "pos": "noun",
+      "example_en": "The account gained a thousand new followers this week.",
+      "example_uz": "Sahifa shu haftada mingta yangi obunachiga ega boʻldi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "font",
+      "pronunciation_uz": "font",
+      "uzbek": "shrift",
+      "pos": "noun",
+      "example_en": "Increase the font size to make the text easier to read.",
+      "example_uz": "Matnni oʻqish osonroq boʻlishi uchun shrift oʻlchamini kattalashtiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "fullscreen",
+      "pronunciation_uz": "fulskrin",
+      "uzbek": "toʻliq ekran rejimi",
+      "pos": "noun",
+      "example_en": "Watch the tutorial video in fullscreen mode.",
+      "example_uz": "Oʻquv videoni toʻliq ekran rejimida tomosha qiling.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "gallery",
+      "pronunciation_uz": "galeri",
+      "uzbek": "fotogalereya",
+      "pos": "noun",
+      "example_en": "Open the phone gallery to view your recent screenshots.",
+      "example_uz": "Soʻnggi skrinshotlaringizni koʻrish uchun telefon galereyasini oching.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "group chat",
+      "pronunciation_uz": "grup chat",
+      "uzbek": "guruh chati",
+      "pos": "noun",
+      "example_en": "Classmates share exam notes in the group chat.",
+      "example_uz": "Sinfdoshlar imtihon konspektlarini guruh chatida ulashadilar.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "hashtag",
+      "pronunciation_uz": "heshteg",
+      "uzbek": "xeshteg",
+      "pos": "noun",
+      "example_en": "Add a relevant hashtag so users can find your post.",
+      "example_uz": "Foydalanuvchilar postingizni topishi uchun mos xeshteg qoʻshing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "headphones",
+      "pronunciation_uz": "hedfounz",
+      "uzbek": "quloqchin (naushnik)",
+      "pos": "noun",
+      "example_en": "Noise-canceling headphones are great for studying.",
+      "example_uz": "Shovqinni pasaytiruvchi quloqchinlar oʻqish uchun juda qulay.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "home screen",
+      "pronunciation_uz": "houm skrin",
+      "uzbek": "bosh ekran (asosiy ekran)",
+      "pos": "noun",
+      "example_en": "Place your most used apps on the home screen.",
+      "example_uz": "Eng koʻp ishlatiladigan ilovalarni bosh ekranga joylashtiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "homepage",
+      "pronunciation_uz": "houmpeyj",
+      "uzbek": "bosh sahifa",
+      "pos": "noun",
+      "example_en": "The company redesigned its website homepage.",
+      "example_uz": "Kompaniya oʻz veb-saytining bosh sahifasini qayta loyihaladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "hotspot",
+      "pronunciation_uz": "hotspot",
+      "uzbek": "hotspot (internet tarqatish nuqtasi)",
+      "pos": "noun",
+      "example_en": "I turned on my phone hotspot to connect my laptop.",
+      "example_uz": "Noutbukimni ulash uchun telefonimdagi hotspotni yoqdim.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "hyperlink",
+      "pronunciation_uz": "hayperlink",
+      "uzbek": "giperhavola",
+      "pos": "noun",
+      "example_en": "Click the blue hyperlink to open the reference article.",
+      "example_uz": "Maʼlumotnoma maqolasini ochish uchun koʻk giperhavolani bosing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "icon",
+      "pronunciation_uz": "aykon",
+      "uzbek": "belgi (ikonka)",
+      "pos": "noun",
+      "example_en": "Tap the gear icon to open the settings menu.",
+      "example_uz": "Sozlamalar menyusini ochish uchun tishli gʻildirak belgisini bosing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "inbox",
+      "pronunciation_uz": "inboks",
+      "uzbek": "kiruvchi xabarlar qutisi",
+      "pos": "noun",
+      "example_en": "There are twenty unread messages in my inbox.",
+      "example_uz": "Kiruvchi xabarlar qutimda yigirmata oʻqilmagan xabar bor.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "influencer",
+      "pronunciation_uz": "influenser",
+      "uzbek": "inflyuyenser (mashhur bloger)",
+      "pos": "noun",
+      "example_en": "The fitness influencer shared a morning workout routine.",
+      "example_uz": "Fitnes inflyuyenser ertalabki mashqlar dasturini ulashdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "keypad",
+      "pronunciation_uz": "kiped",
+      "uzbek": "raqamlar paneli (klaviatura)",
+      "pos": "noun",
+      "example_en": "Enter your PIN code on the numeric keypad.",
+      "example_uz": "Raqamlar panelida PIN-kodingizni kiriting.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "livestream",
+      "pronunciation_uz": "layvstrim",
+      "uzbek": "jonli efir (translyatsiya)",
+      "pos": "noun",
+      "example_en": "Thousands of fans watched the concert livestream.",
+      "example_uz": "Minglab muxlislar konsertning jonli efirini tomosha qildilar.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "lock screen",
+      "pronunciation_uz": "lok skrin",
+      "uzbek": "qulf ekrani",
+      "pos": "noun",
+      "example_en": "Notifications appear directly on the lock screen.",
+      "example_uz": "Bildirishnomalar toʻgʻridan-toʻgʻri qulf ekranida paydo boʻladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "meme",
+      "pronunciation_uz": "mim",
+      "uzbek": "mem (hazil rasm yoki video)",
+      "pos": "noun",
+      "example_en": "That funny cat meme went viral overnight.",
+      "example_uz": "Oʻsha kulgili mushuk memi bir kechada mashhur boʻlib ketdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "message",
+      "pronunciation_uz": "mesij",
+      "uzbek": "xabar",
+      "pos": "noun",
+      "example_en": "Leave a message if I do not pick up the phone.",
+      "example_uz": "Agar telefonni koʻtarmasam, xabar qoldiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "messenger",
+      "pronunciation_uz": "mesenjer",
+      "uzbek": "messenjer (xabar almashish ilovasi)",
+      "pos": "noun",
+      "example_en": "Instant messengers have largely replaced text messages.",
+      "example_uz": "Tezkor messenjerlar SMS xabarlarning oʻrnini deyarli egalladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "microphone",
+      "pronunciation_uz": "maykrofoun",
+      "uzbek": "mikrofon",
+      "pos": "noun",
+      "example_en": "Please mute your microphone when you are not speaking.",
+      "example_uz": "Gapirmayotgan vaqtingizda mikrofoningizni oʻchirib qoʻying.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "missed call",
+      "pronunciation_uz": "mist kol",
+      "uzbek": "oʻtkazib yuborilgan qoʻngʻiroq",
+      "pos": "noun",
+      "example_en": "I saw a missed call from the delivery courier.",
+      "example_uz": "Yetkazib berish kuryeridan oʻtkazib yuborilgan qoʻngʻiroqni koʻrdim.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "modem",
+      "pronunciation_uz": "modem",
+      "uzbek": "modem",
+      "pos": "noun",
+      "example_en": "Unplug the modem for ten seconds and plug it back in.",
+      "example_uz": "Modemni oʻn soniyaga tarmoqdan uzing va qayta ulang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "mute",
+      "pronunciation_uz": "myut",
+      "uzbek": "ovozsiz qilmoq",
+      "pos": "verb",
+      "example_en": "Mute your phone before entering the lecture hall.",
+      "example_uz": "Maʼruza zaliga kirishdan oldin telefoningizni ovozsiz rejimga qoʻying.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "navigation",
+      "pronunciation_uz": "navigeyshn",
+      "uzbek": "navigatsiya (yoʻl koʻrsatish)",
+      "pos": "noun",
+      "example_en": "Turn on GPS navigation to avoid heavy traffic.",
+      "example_uz": "Tirbandlikdan qochish uchun GPS navigatsiyasini yoqing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "network",
+      "pronunciation_uz": "netvork",
+      "uzbek": "tarmoq",
+      "pos": "noun",
+      "example_en": "The office wireless network requires a password.",
+      "example_uz": "Ofis simsiz tarmogʻi parol talab qiladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "newsletter",
+      "pronunciation_uz": "nyuzleter",
+      "uzbek": "axborot byulleteni (obuna xati)",
+      "pos": "noun",
+      "example_en": "Sign up for our weekly newsletter to get tech news.",
+      "example_uz": "Texnologiya yangiliklarini olish uchun haftalik axborotnomamizga yoziling.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "nickname",
+      "pronunciation_uz": "nikneym",
+      "uzbek": "taxallus (nikneym)",
+      "pos": "noun",
+      "example_en": "Choose a unique nickname for your gaming profile.",
+      "example_uz": "Oʻyin profilingiz uchun noyob taxallus tanlang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "notification",
+      "pronunciation_uz": "notifikeyshn",
+      "uzbek": "bildirishnoma",
+      "pos": "noun",
+      "example_en": "Turn off app notifications while studying for exams.",
+      "example_uz": "Imtihonlarga tayyorlanayotganda ilova bildirishnomalarini oʻchirib qoʻying.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "offline",
+      "pronunciation_uz": "oflayn",
+      "uzbek": "oflayn (internetsiz rejimda)",
+      "pos": "adj",
+      "example_en": "Downloaded maps work even when you are offline.",
+      "example_uz": "Yuklab olingan xaritalar oflayn boʻlganingizda ham ishlaydi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "online",
+      "pronunciation_uz": "onlayn",
+      "uzbek": "onlayn (tarmoqda)",
+      "pos": "adj",
+      "example_en": "Over fifty students joined the online seminar.",
+      "example_uz": "Ellikdan ortiq talaba onlayn seminarga qoʻshildi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "passcode",
+      "pronunciation_uz": "paskoud",
+      "uzbek": "mahfiy kod (parol-raqam)",
+      "pos": "noun",
+      "example_en": "Enter your six-digit passcode to unlock the tablet.",
+      "example_uz": "Planshetni qulfdan chiqarish uchun olti xonali kodingizni kiriting.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "password",
+      "pronunciation_uz": "pasvord",
+      "uzbek": "parol",
+      "pos": "noun",
+      "example_en": "Use a mix of letters, numbers, and symbols in your password.",
+      "example_uz": "Parolingizda harflar, raqamlar va belgilar aralashmasidan foydalaning.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "paste",
+      "pronunciation_uz": "peyst",
+      "uzbek": "joylashtirmoq (nusxalangan matnni)",
+      "pos": "verb",
+      "example_en": "Paste the copied address into the search bar.",
+      "example_uz": "Nusxalangan manzilni qidiruv satriga joylashtiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "phishing",
+      "pronunciation_uz": "fishing",
+      "uzbek": "fishing (soxta havolalar orqali firibgarlik)",
+      "pos": "noun",
+      "example_en": "Beware of phishing emails asking for bank details.",
+      "example_uz": "Bank maʼlumotlarini soʻraydigan fishing xatlaridan ehtiyot boʻling.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "playlist",
+      "pronunciation_uz": "pleylist",
+      "uzbek": "pleylist (qoʻshiqlar yoki videolar roʻyxati)",
+      "pos": "noun",
+      "example_en": "I created a relaxing music playlist for coding.",
+      "example_uz": "Men dasturlash uchun tinchlantiruvchi musiqa pleylistini yaratdim.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "podcast",
+      "pronunciation_uz": "podkast",
+      "uzbek": "podkast (audio dastur)",
+      "pos": "noun",
+      "example_en": "She listens to an English learning podcast on the bus.",
+      "example_uz": "U avtobusda ingliz tilini oʻrganish podkastini tinglaydi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "pop-up",
+      "pronunciation_uz": "pop ap",
+      "uzbek": "qalqib chiquvchi oyna",
+      "pos": "noun",
+      "example_en": "An ad blocker prevents annoying pop-up windows.",
+      "example_uz": "Reklama bloklovchi bezovta qiluvchi qalqib chiquvchi oynalarning oldini oladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "portal",
+      "pronunciation_uz": "portal",
+      "uzbek": "portal (yirik veb-sayt)",
+      "pos": "noun",
+      "example_en": "Citizens can apply for documents via the government portal.",
+      "example_uz": "Fuqarolar davlat portali orqali hujjatlar uchun ariza topshirishlari mumkin.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "power bank",
+      "pronunciation_uz": "pauer benk",
+      "uzbek": "pauerbank (koʻchma quvvatlagich)",
+      "pos": "noun",
+      "example_en": "Bring a charged power bank on the hiking trip.",
+      "example_uz": "Togʻ sayohatiga quvvatlangan pauerbank olib oling.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "privacy",
+      "pronunciation_uz": "prayvesi",
+      "uzbek": "maxfiylik",
+      "pos": "noun",
+      "example_en": "Review your privacy settings on social media regularly.",
+      "example_uz": "Ijtimoiy tarmoqlardagi maxfiylik sozlamalaringizni muntazam tekshirib turing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "profile",
+      "pronunciation_uz": "profayl",
+      "uzbek": "profil (shaxsiy sahifa)",
+      "pos": "noun",
+      "example_en": "Update your professional profile with your new skills.",
+      "example_uz": "Kasbiy profilingizni yangi koʻnikmalaringiz bilan yangilang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "QR code",
+      "pronunciation_uz": "kyu ar koud",
+      "uzbek": "QR-kod",
+      "pos": "noun",
+      "example_en": "Scan the QR code with your camera to view the menu.",
+      "example_uz": "Menyuni koʻrish uchun kamerangiz bilan QR-kodni skanerlang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "recharge",
+      "pronunciation_uz": "richarj",
+      "uzbek": "qayta quvvatlamoq (balansni toʻldirmoq)",
+      "pos": "verb",
+      "example_en": "I need to recharge my mobile balance before calling.",
+      "example_uz": "Qoʻngʻiroq qilishdan oldin mobil hisobimni toʻldirishim kerak.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "refresh",
+      "pronunciation_uz": "rifresh",
+      "uzbek": "yangilamoq (sahifani)",
+      "pos": "verb",
+      "example_en": "Refresh the page if the image does not load.",
+      "example_uz": "Agar rasm yuklanmasa, sahifani yangilang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "reply",
+      "pronunciation_uz": "riplay",
+      "uzbek": "javob yozmoq",
+      "pos": "verb",
+      "example_en": "I will reply to your message as soon as the meeting ends.",
+      "example_uz": "Uchrashuv tugashi bilan xabaringizga javob yozaman.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "repost",
+      "pronunciation_uz": "ripoust",
+      "uzbek": "qayta ulashmoq (repost qilmoq)",
+      "pos": "verb",
+      "example_en": "Many followers reposted the charity announcement.",
+      "example_uz": "Koʻplab obunachilar xayriya eʼlonini qayta ulashdilar.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "ringtone",
+      "pronunciation_uz": "ringtoun",
+      "uzbek": "qoʻngʻiroq ohangi (rington)",
+      "pos": "noun",
+      "example_en": "He set a classical guitar melody as his ringtone.",
+      "example_uz": "U klassik gitara kuyini qoʻngʻiroq ohangi qilib belgiladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "roaming",
+      "pronunciation_uz": "rouming",
+      "uzbek": "rouming (chet eldagi aloqa)",
+      "pos": "noun",
+      "example_en": "International roaming charges can be very expensive.",
+      "example_uz": "Xalqaro rouming toʻlovlari juda qimmat boʻlishi mumkin.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "router",
+      "pronunciation_uz": "rauter",
+      "uzbek": "router (marshrutizator)",
+      "pos": "noun",
+      "example_en": "Place the Wi-Fi router in the center of the house.",
+      "example_uz": "Wi-Fi routerni uyning markaziga joylashtiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "screen",
+      "pronunciation_uz": "skrin",
+      "uzbek": "ekran",
+      "pos": "noun",
+      "example_en": "Protect your smartphone screen with tempered glass.",
+      "example_uz": "Smartfon ekranini himoya oynasi bilan asrang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "screen time",
+      "pronunciation_uz": "skrin taym",
+      "uzbek": "ekran qarshisidagi vaqt",
+      "pos": "noun",
+      "example_en": "Doctors advise limiting screen time before going to bed.",
+      "example_uz": "Shifokorlar uxlashdan oldin ekran qarshisidagi vaqtni cheklashni maslahat berishadi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "screenshot",
+      "pronunciation_uz": "skrinshot",
+      "uzbek": "skrinshot (ekran tasviri)",
+      "pos": "noun",
+      "example_en": "Take a screenshot of the digital receipt.",
+      "example_uz": "Raqamli kvitansiyaning skrinshotini oling.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "scroll",
+      "pronunciation_uz": "skrol",
+      "uzbek": "varaqlamoq (ekranni yuqori-pastga surmoq)",
+      "pos": "verb",
+      "example_en": "Scroll down to the bottom of the page for contact info.",
+      "example_uz": "Aloqa maʼlumotlarini koʻrish uchun sahifaning eng pastiga tushing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "search bar",
+      "pronunciation_uz": "serch bar",
+      "uzbek": "qidiruv satri",
+      "pos": "noun",
+      "example_en": "Type the keyword into the search bar.",
+      "example_uz": "Kalit soʻzni qidiruv satriga yozing.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "search engine",
+      "pronunciation_uz": "serch enjin",
+      "uzbek": "qidiruv tizimi",
+      "pos": "noun",
+      "example_en": "A search engine indexes billions of web pages.",
+      "example_uz": "Qidiruv tizimi milliardlab veb-sahifalarni indekslaydi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "selfie",
+      "pronunciation_uz": "selfi",
+      "uzbek": "selfi",
+      "pos": "noun",
+      "example_en": "We took a group selfie in front of the Registan.",
+      "example_uz": "Biz Registon oldida jamoaviy selfi tushdik.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "settings",
+      "pronunciation_uz": "setings",
+      "uzbek": "sozlamalar",
+      "pos": "noun",
+      "example_en": "You can change the display brightness in settings.",
+      "example_uz": "Sozlamalarda ekran yorugʻligini oʻzgartirishingiz mumkin.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "signal",
+      "pronunciation_uz": "signal",
+      "uzbek": "signal (aloqa toʻlqini)",
+      "pos": "noun",
+      "example_en": "The mobile signal dropped inside the underground tunnel.",
+      "example_uz": "Yer osti tunneli ichida mobil signal yoʻqoldi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "SIM card",
+      "pronunciation_uz": "sim kard",
+      "uzbek": "SIM-karta",
+      "pos": "noun",
+      "example_en": "Tourists can buy a local SIM card at the airport.",
+      "example_uz": "Sayyohlar aeroportda mahalliy SIM-karta sotib olishlari mumkin.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "smartphone",
+      "pronunciation_uz": "smartfoun",
+      "uzbek": "smartfon",
+      "pos": "noun",
+      "example_en": "Modern smartphones have high-quality camera lenses.",
+      "example_uz": "Zamonaviy smartfonlar yuqori sifatli kamera linzalariga ega.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "social media",
+      "pronunciation_uz": "soushl midia",
+      "uzbek": "ijtimoiy tarmoqlar",
+      "pos": "noun",
+      "example_en": "Small businesses promote their products on social media.",
+      "example_uz": "Kichik tadbirkorlar oʻz mahsulotlarini ijtimoiy tarmoqlarda targʻib qiladilar.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "spam",
+      "pronunciation_uz": "spem",
+      "uzbek": "spam (keraksiz xabarlar)",
+      "pos": "noun",
+      "example_en": "The email filter moved the advertisement to the spam folder.",
+      "example_uz": "Elektron pochta filtri reklamani spam jildiga oʻtkazdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "speakerphone",
+      "pronunciation_uz": "spikerfoun",
+      "uzbek": "ovoz kuchaytirgich (baland ovozli aloqa)",
+      "pos": "noun",
+      "example_en": "Put the call on speakerphone so everyone can hear.",
+      "example_uz": "Hamma eshitishi uchun qoʻngʻiroqni ovoz kuchaytirgichga qoʻying.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "status",
+      "pronunciation_uz": "steytus",
+      "uzbek": "holat (status)",
+      "pos": "noun",
+      "example_en": "Her online status shows that she is currently busy.",
+      "example_uz": "Uning onlayn statusi hozir band ekanligini koʻrsatmoqda.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "sticker",
+      "pronunciation_uz": "stiker",
+      "uzbek": "stiker",
+      "pos": "noun",
+      "example_en": "Telegram allows users to create custom sticker packs.",
+      "example_uz": "Telegram foydalanuvchilarga maxsus stikerlar toʻplamini yaratish imkonini beradi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "storage",
+      "pronunciation_uz": "storij",
+      "uzbek": "xotira hajmi (saqlash joyi)",
+      "pos": "noun",
+      "example_en": "This phone comes with 256 gigabytes of internal storage.",
+      "example_uz": "Ushbu telefon 256 gigabayt ichki xotira bilan taqdim etiladi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "subscriber",
+      "pronunciation_uz": "sabskrayber",
+      "uzbek": "obunachi",
+      "pos": "noun",
+      "example_en": "The educational channel reached one million subscribers.",
+      "example_uz": "Taʼlim kanali bir million obunachiga yetdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "subscription",
+      "pronunciation_uz": "sabskripshn",
+      "uzbek": "obuna",
+      "pos": "noun",
+      "example_en": "Cancel the monthly subscription if you do not use the service.",
+      "example_uz": "Agar xizmatdan foydalanmasangiz, oylik obunani bekor qiling.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "swipe",
+      "pronunciation_uz": "svayp",
+      "uzbek": "ekranni surmoq (svayp qilmoq)",
+      "pos": "verb",
+      "example_en": "Swipe left to view the next photograph in the album.",
+      "example_uz": "Albomdagi keyingi suratni koʻrish uchun ekranni chapga suring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "sync",
+      "pronunciation_uz": "sink",
+      "uzbek": "sinxronlashtirmoq",
+      "pos": "verb",
+      "example_en": "Sync your calendar across your phone and tablet.",
+      "example_uz": "Taqvimingizni telefon va planshetingiz oʻrtasida sinxronlashtiring.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "tab",
+      "pronunciation_uz": "teb",
+      "uzbek": "ichki oyna (vkladka)",
+      "pos": "noun",
+      "example_en": "I have too many tabs open in my browser.",
+      "example_uz": "Brauzerimda juda koʻp ichki oynalar ochiq turibdi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "tag",
+      "pronunciation_uz": "teg",
+      "uzbek": "belgilamoq (rasmda yoki postda)",
+      "pos": "verb",
+      "example_en": "Tag your friends in the graduation photo.",
+      "example_uz": "Bitiruv suratida doʻstlaringizni belgilang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "text message",
+      "pronunciation_uz": "tekst mesij",
+      "uzbek": "matnli xabar (SMS)",
+      "pos": "noun",
+      "example_en": "The bank sent a verification code via text message.",
+      "example_uz": "Bank tasdiqlash kodini matnli xabar orqali yubordi.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "touchscreen",
+      "pronunciation_uz": "tachskrin",
+      "uzbek": "sensorli ekran",
+      "pos": "noun",
+      "example_en": "Clean the touchscreen gently with a microfiber cloth.",
+      "example_uz": "Sensorli ekranni mikrofibra mato bilan ehtiyotkorlik bilan tozalang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "trending",
+      "pronunciation_uz": "trending",
+      "uzbek": "ommabop (trendda boʻlgan)",
+      "pos": "adj",
+      "example_en": "This topic is currently trending on social networks.",
+      "example_uz": "Ushbu mavzu hozirda ijtimoiy tarmoqlarda trendda.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "unfollow",
+      "pronunciation_uz": "anfolou",
+      "uzbek": "obunani bekor qilmoq",
+      "pos": "verb",
+      "example_en": "I decided to unfollow accounts that post fake news.",
+      "example_uz": "Men yolgʻon xabarlar joylaydigan sahifalardan obunani bekor qilishga qaror qildim.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "unlock",
+      "pronunciation_uz": "anlok",
+      "uzbek": "qulfdan chiqarmoq",
+      "pos": "verb",
+      "example_en": "Face recognition can unlock the phone in a split second.",
+      "example_uz": "Yuzni tanish tizimi telefonni soniyaning bir ulushida qulfdan chiqarishi mumkin.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "update",
+      "pronunciation_uz": "apdeyt",
+      "uzbek": "yangilanish",
+      "pos": "noun",
+      "example_en": "Download the latest app update for new features.",
+      "example_uz": "Yangi imkoniyatlar uchun ilovaning eng soʻnggi yangilanishini yuklab oling.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "upload",
+      "pronunciation_uz": "aploud",
+      "uzbek": "yuklamoq (internetga joylamoq)",
+      "pos": "verb",
+      "example_en": "Please upload your homework file before the deadline.",
+      "example_uz": "Iltimos, uy vazifasi faylini muddat tugashidan oldin yuklang.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "username",
+      "pronunciation_uz": "yuzerneym",
+      "uzbek": "foydalanuvchi nomi (login)",
+      "pos": "noun",
+      "example_en": "Your username must be between four and twenty characters.",
+      "example_uz": "Foydalanuvchi nomingiz toʻrttadan yigirmatagacha belgidan iborat boʻlishi kerak.",
+      "category": "Internet, smartfon va aloqa"
+    },
+    {
+      "english": "video call",
+      "pronunciation_uz": "vidio kol",
+      "uzbek": "videoqoʻngʻiroq",
+      "pos": "noun",
+      "example_en": "We had a long video call with our relatives abroad.",
+      "example_uz": "Biz chet eldagi qarindoshlarimiz bilan uzoq videoqoʻngʻiroq qildik.",
+      "category": "Internet, smartfon va aloqa"
+    }
+  ]
+}

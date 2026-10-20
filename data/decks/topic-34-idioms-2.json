@@ -1,0 +1,1429 @@
+{
+  "title": "Mashhur inglizcha iboralar (Idioms — 2)",
+  "category": "Common English Idioms 2",
+  "group": "topic",
+  "words": [
+    {
+      "english": "a blessing in disguise",
+      "pronunciation_uz": "e blesing in disgays",
+      "uzbek": "yomon koʻringan ishning yaxshilikka aylanishi, xayrli yakun",
+      "pos": "noun",
+      "example_en": "Missing that train turned out to be a blessing in disguise.",
+      "example_uz": "Oʻsha poyezdga kechikishimiz oxir-oqibat yaxshilikka boʻlib chiqdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "actions speak louder than words",
+      "pronunciation_uz": "ekshenz spik lauder zen uordz",
+      "uzbek": "gap bilguncha ish bil, vaʼdadan koʻra amaliy ish muhimroq",
+      "pos": "verb",
+      "example_en": "Stop promising to help and actually do something—actions speak louder than words.",
+      "example_uz": "Yordam beraman deb vaʼda berishni bas qilib, amalda biror ish qiling — soʻzdan koʻra amal muhimroq.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "back to the drawing board",
+      "pronunciation_uz": "bek tu ze droing bord",
+      "uzbek": "reja oʻxshamagach hammasini qaytadan loyihalashtirmoq",
+      "pos": "adv",
+      "example_en": "The client rejected our design, so it is back to the drawing board.",
+      "example_uz": "Mijoz dizaynimizni rad etdi, demak hammasini qaytadan boshidan rejalashtiramiz.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "beat around the bush",
+      "pronunciation_uz": "bit eraund ze bush",
+      "uzbek": "gapni aylantirmoq, asosiy gapni aytmay chaynalmoq",
+      "pos": "verb",
+      "example_en": "Stop beating around the bush and tell me what really happened.",
+      "example_uz": "Gapni aylantirishni bas qiling va aslida nima boʻlganini menga ayting.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "better late than never",
+      "pronunciation_uz": "beter leyt zen never",
+      "uzbek": "hechdan koʻra kech yaxshi",
+      "pos": "adj",
+      "example_en": "He finally apologized after three months; well, better late than never.",
+      "example_uz": "U uch oydan keyin nihoyat uzr soʻradi, harqalay hechdan koʻra kech yaxshi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "call it a day",
+      "pronunciation_uz": "kol it e dey",
+      "uzbek": "bugungi ishni yakunlamoq",
+      "pos": "verb",
+      "example_en": "We have finished all the main tasks, so let's call it a day.",
+      "example_uz": "Barcha asosiy vazifalarni bajarib boʻldik, keling, bugungi ishni yakunlaymiz.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cut corners",
+      "pronunciation_uz": "kat kornerz",
+      "uzbek": "pul yoki vaqtni tejash uchun ishni chala va sifatsiz qilmoq",
+      "pos": "verb",
+      "example_en": "Never cut corners when building a bridge or a house.",
+      "example_uz": "Koʻprik yoki uy qurayotganda hech qachon sifat hisobiga tejamkorlik qilmang.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "go the extra mile",
+      "pronunciation_uz": "gou ze ekstra mayl",
+      "uzbek": "kutilganidan ham koʻproq harakat qilmoq, jonbozlik koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "She always goes the extra mile to make sure her students understand.",
+      "example_uz": "U talabalari mavzuni tushunishlari uchun har doim kutilganidan ham koʻproq mehnat qiladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "a bird in the hand is worth two in the bush",
+      "pronunciation_uz": "e berd in ze hend iz uors tu in ze bush",
+      "uzbek": "uzoqdagi quyruqdan yaqindagi oʻpka yaxshi, naqdini qoʻldan boy berma",
+      "pos": "noun",
+      "example_en": "Keep your stable job for now; a bird in the hand is worth two in the bush.",
+      "example_uz": "Hozircha barqaror ishingizni saqlab turing, uzoqdagi quyruqdan koʻra qoʻldagi naqdi afzal.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "a leopard cannot change its spots",
+      "pronunciation_uz": "e lepard kennot cheynj its spots",
+      "uzbek": "bukrini goʻr tuzatadi, odamning feʼli oʻzgarmaydi",
+      "pos": "verb",
+      "example_en": "He promised to be honest, but a leopard cannot change its spots.",
+      "example_uz": "U rostgoʻy boʻlishga vaʼda berdi, ammo insonning qondagi odati oʻzgarmaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "a penny for your thoughts",
+      "pronunciation_uz": "e peni for yor sots",
+      "uzbek": "nimalarni xayol suryapsiz?, nimani oʻylayapsiz?",
+      "pos": "noun",
+      "example_en": "You have been quiet for ten minutes—a penny for your thoughts?",
+      "example_uz": "Oʻn daqiqadan beri jim oʻtiribsiz — nimalarni xayol suryapsiz?",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "a penny saved is a penny earned",
+      "pronunciation_uz": "e peni seyvd iz e peni ernd",
+      "uzbek": "tejalgan pul — topilgan pul, tejagan boy boʻladi",
+      "pos": "noun",
+      "example_en": "Turn off the unused lights; a penny saved is a penny earned.",
+      "example_uz": "Keraksiz chiroqlarni oʻchirib qoʻying, tejalgan pul — ishlab topilgan puldir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "a rolling stone gathers no moss",
+      "pronunciation_uz": "e rouling stoun gezerz nou mos",
+      "uzbek": "koʻchib yurgan toshni mox bosmas, bir joyda qoʻnim topmagan odam boylik toʻplamaydi",
+      "pos": "noun",
+      "example_en": "He moves to a new city every year; a rolling stone gathers no moss.",
+      "example_uz": "U har yili yangi shaharga koʻchib oʻtadi — bir joyda muqim turmagan odam tajriba va mulk orttirmaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "absence makes the heart grow fonder",
+      "pronunciation_uz": "ebsens meyks ze hart grou fonder",
+      "uzbek": "ayriliq mehrni oshiradi, koʻzdan yiroq boʻlsa koʻngil sogʻinadi",
+      "pos": "verb",
+      "example_en": "Studying abroad proved to them that absence makes the heart grow fonder.",
+      "example_uz": "Chet elda oʻqish ularga ayriliq mehrni yanada kuchaytirishini isbotladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "add insult to injury",
+      "pronunciation_uz": "ed insalt tu injuri",
+      "uzbek": "dard ustiga chipqon boʻlmoq, yomon vaziyatni yanada ogʻirlashtirmoq",
+      "pos": "verb",
+      "example_en": "First the airline lost my bag, and to add insult to injury, they charged me a fee.",
+      "example_uz": "Avvaliga aviakompaniya yukimni yoʻqotib qoʻydi, dard ustiga chipqon boʻlib yana mendan toʻlov ham undirdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "all bark and no bite",
+      "pronunciation_uz": "ol bark end nou bayt",
+      "uzbek": "quruq poʻpisa, tilda botir amalda qoʻrqoq",
+      "pos": "adj",
+      "example_en": "The supervisor sounds strict, but he is all bark and no bite.",
+      "example_uz": "Nazoratchi qattiqqoʻl koʻrinsa-da, aslida faqat quruq poʻpisa qiladi xolos.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "all good things must come to an end",
+      "pronunciation_uz": "ol gud singz mast kam tu en end",
+      "uzbek": "har bir yaxshi narsaning ham yakuni bor",
+      "pos": "verb",
+      "example_en": "Our summer trip is over; all good things must come to an end.",
+      "example_uz": "Yozgi sayohatimiz tugadi, har bir ajoyib davrning ham oʻz yakuni bor.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "all in a day's work",
+      "pronunciation_uz": "ol in e deyz uork",
+      "uzbek": "odatiy kundalik ish, ajablanarli joyi yoʻq vazifa",
+      "pos": "noun",
+      "example_en": "Solving technical problems is all in a day's work for an engineer.",
+      "example_uz": "Texnik muammolarni hal qilish muhandis uchun odatiy kundalik ishdir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "all that glitters is not gold",
+      "pronunciation_uz": "ol zet gliterz iz not gold",
+      "uzbek": "yaltiragan har narsa ham oltin boʻlavermaydi",
+      "pos": "noun",
+      "example_en": "Be careful with that high-paying offer; all that glitters is not gold.",
+      "example_uz": "Oʻsha yuqori maoshli taklifga ehtiyot boʻling, yaltiragan har narsa ham oltin emas.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "an apple a day keeps the doctor away",
+      "pronunciation_uz": "en epl e dey kips ze doktor euey",
+      "uzbek": "toʻgʻri ovqatlanish salomatlik garovidir, kuniga bitta olma yegan shifokorga bormaydi",
+      "pos": "verb",
+      "example_en": "Eat more fresh fruit—an apple a day keeps the doctor away.",
+      "example_uz": "Koʻproq yangi mevalar yeng — sogʻlom ovqatlansangiz shifokorga ishingiz tushmaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "an ounce of prevention is worth a pound of cure",
+      "pronunciation_uz": "en auns of privenshen iz uors e paund of kyur",
+      "uzbek": "kasalni davolagandan koʻra uning oldini olgan afzal",
+      "pos": "noun",
+      "example_en": "Vaccines prove that an ounce of prevention is worth a pound of cure.",
+      "example_uz": "Vaksinalar kasallikni davolagandan koʻra uning oldini olish ming marta afzalligini isbotlaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "appearances can be deceiving",
+      "pronunciation_uz": "epiransiz ken bi disiving",
+      "uzbek": "tashqi koʻrinish aldamchi boʻlishi mumkin",
+      "pos": "verb",
+      "example_en": "The old restaurant looks small, but appearances can be deceiving—the food is royal.",
+      "example_uz": "Eski restoran kichkina koʻrinadi, ammo tashqi koʻrinish aldamchi — taomlari shohona.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "as right as rain",
+      "pronunciation_uz": "ez rayt ez reyn",
+      "uzbek": "otdek sogʻlom, hammasi joyida",
+      "pos": "adj",
+      "example_en": "After a good night's rest, you will feel as right as rain.",
+      "example_uz": "Tunda yaxshi dam olganingizdan keyin oʻzingizni otdek sogʻlom his qilasiz.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "at the end of your rope",
+      "pronunciation_uz": "et ze end of yor roup",
+      "uzbek": "sabri tugagan, chorasiz qolgan",
+      "pos": "adj",
+      "example_en": "After hours of traffic delays, the passengers were at the end of their rope.",
+      "example_uz": "Soatlab choʻzilgan tirbandlikdan soʻng yoʻlovchilarning sabr kosasi toʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "at your wits' end",
+      "pronunciation_uz": "et yor uits end",
+      "uzbek": "boshi qotgan, nima qilishni bilmay qolgan",
+      "pos": "adj",
+      "example_en": "I have tried everything to fix the printer, and I am at my wits' end.",
+      "example_uz": "Printerni tuzatish uchun hamma narsani sinab koʻrdim, endi boshim qotib qoldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "back against the wall",
+      "pronunciation_uz": "bek egeynst ze uol",
+      "uzbek": "chorasiz ahvolda, chekinishga joy qolmagan vaziyatda",
+      "pos": "adj",
+      "example_en": "With mounting debts, the company had its back against the wall.",
+      "example_uz": "Qarzlar koʻpayib ketgach, kompaniya chorasiz ahvolda qoldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "bad news travels fast",
+      "pronunciation_uz": "bed nyuz trevelz fast",
+      "uzbek": "yomon xabar tez tarqaladi",
+      "pos": "verb",
+      "example_en": "Everyone in the office already knows about the layoffs; bad news travels fast.",
+      "example_uz": "Ofisdagi hamma qisqartirishlar haqida allaqachon biladi, yomon xabar tez tarqaladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "bark is worse than their bite",
+      "pronunciation_uz": "bark iz uors zen zeyr bayt",
+      "uzbek": "ovozi vahimali boʻlgani bilan koʻngli yumshoq, zararsiz",
+      "pos": "noun",
+      "example_en": "Don't be scared of the coach; his bark is worse than his bite.",
+      "example_uz": "Murabbiydan qoʻrqmang, u qattiq gapirgani bilan aslida koʻngli yumshoq odam.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "be in someone's shoes",
+      "pronunciation_uz": "bi in samuanz shuz",
+      "uzbek": "birovning oʻrnida boʻlmoq, uning holatini his qilmoq",
+      "pos": "verb",
+      "example_en": "I would not want to be in his shoes when the audit results arrive.",
+      "example_uz": "Tekshiruv natijalari kelganda uning oʻrnida boʻlishni xohlamagan boʻlardim.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "Beauty is in the eye of the beholder",
+      "pronunciation_uz": "byuti iz in ze ay of ze biholder",
+      "uzbek": "goʻzallik har kimning oʻz qarashida, har kim suygani chiroyli",
+      "pos": "noun",
+      "example_en": "I love abstract paintings even if you don't; beauty is in the eye of the beholder.",
+      "example_uz": "Sizga yoqmasa ham menga mavhum suratlari yoqadi — goʻzallik har kimning oʻz nigohidadir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "beggars can't be choosers",
+      "pronunciation_uz": "begarz kent bi chuzerz",
+      "uzbek": "muhtoj odam tanlab oʻtirmaydi, boriga shukur qilish kerak",
+      "pos": "noun",
+      "example_en": "The free apartment is small, but beggars can't be choosers.",
+      "example_uz": "Tekin kvartira kichkina ekan, lekin muhtoj odam tanlab oʻtirmaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "behind closed doors",
+      "pronunciation_uz": "bihaynd klouzd dorz",
+      "uzbek": "yopiq eshiklar ortida, yashirincha",
+      "pos": "adv",
+      "example_en": "The committee made the final selection behind closed doors.",
+      "example_uz": "Qoʻmita yakuniy tanlovni yopiq eshiklar ortida amalga oshirdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "below the belt",
+      "pronunciation_uz": "bilou ze belt",
+      "uzbek": "nohaq zarba, odobsiz va adolatsiz hujum",
+      "pos": "adj",
+      "example_en": "Bringing up his family struggles during the debate was below the belt.",
+      "example_uz": "Bahs paytida uning oilaviy qiyinchiliklarini yuziga solish adolatsiz va pastkashlik boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "beside the point",
+      "pronunciation_uz": "bisayd ze poynt",
+      "uzbek": "mavzuga aloqasi yoʻq, ahamiyatsiz",
+      "pos": "adj",
+      "example_en": "Whether he is rich or poor is beside the point; he is qualified.",
+      "example_uz": "Uning boy yoki kambagʻalligi mavzuga aloqasiz, muhimi u malakali mutaxassis.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "better safe than sorry",
+      "pronunciation_uz": "beter seyf zen sori",
+      "uzbek": "keyin afsuslangandan koʻra oldin ehtiyot boʻlgan yaxshi",
+      "pos": "adj",
+      "example_en": "Bring an extra jacket just in case—better safe than sorry.",
+      "example_uz": "Har ehtimolga qarshi qoʻshimcha kurtka oling — keyin afsuslangandan koʻra ehtiyot boʻlgan afzal.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "birds of a feather flock together",
+      "pronunciation_uz": "berdz of e fezer flok tugezer",
+      "uzbek": "oʻxshatmasdan uchratmas, koʻr koʻrni qorongʻida topadi",
+      "pos": "verb",
+      "example_en": "Those three entrepreneurs are always together; birds of a feather flock together.",
+      "example_uz": "Oʻsha uch tadbirkor doim birga yurishadi, feʼli oʻxshash odamlar bir-birini topadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "bite the hand that feeds you",
+      "pronunciation_uz": "bayt ze hend zet fidz yu",
+      "uzbek": "tuzini yeb tuzlugʻiga tupurmoq, yaxshilik qilgan odamga yomonlik qilmoq",
+      "pos": "verb",
+      "example_en": "Criticizing your main sponsor publicly is biting the hand that feeds you.",
+      "example_uz": "Asosiy homiyingizni omma oldida yomonlash — tuzini yeb tuzlugʻiga tupurishdir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "blood is thicker than water",
+      "pronunciation_uz": "blad iz siker zen uoter",
+      "uzbek": "qon suvdan quyuq, qarindoshlik rishtasi hammadan ustun",
+      "pos": "noun",
+      "example_en": "Even when brothers argue, they help each other because blood is thicker than water.",
+      "example_uz": "Aka-ukalar tortishib qolsa ham bir-biriga yordam beradi, chunki jigarlik baribir ustun turadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "blow off steam",
+      "pronunciation_uz": "blou of stim",
+      "uzbek": "gʻazabini yoki charchogʻini chiqarmoq, hovuridan tushmoq",
+      "pos": "verb",
+      "example_en": "He goes to the gym after work to blow off steam.",
+      "example_uz": "U ishdan keyin hovuridan tushish va charchogʻini chiqarish uchun sport zaliga boradi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "blow your own trumpet",
+      "pronunciation_uz": "blou yor oun trampit",
+      "uzbek": "oʻzini oʻzi maqtamoq, maqtanmoq",
+      "pos": "verb",
+      "example_en": "She rarely blows her own trumpet despite her impressive achievements.",
+      "example_uz": "U katta yutuqlariga qaramay kamdan-kam hollarda oʻzini maqtaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "born with a silver spoon in your mouth",
+      "pronunciation_uz": "born uiz e silver spun in yor maus",
+      "uzbek": "ogʻzida kumush qoshiq bilan tugʻilgan, boy oilada dunyoga kelgan",
+      "pos": "adj",
+      "example_en": "He never had to worry about tuition because he was born with a silver spoon in his mouth.",
+      "example_uz": "U oʻqish puli haqida hech qachon qaygʻurmagan, chunki u badavlat oilada tugʻilib oʻsgan.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "break the bank",
+      "pronunciation_uz": "breyk ze benk",
+      "uzbek": "bor-budidan ayrilmoq, choʻntakka juda ogʻir botmoq",
+      "pos": "verb",
+      "example_en": "You can buy a reliable laptop that won't break the bank.",
+      "example_uz": "Choʻntagingizga ogʻir botmaydigan ishonchli noutbuk sotib olishingiz mumkin.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "bring home the bacon",
+      "pronunciation_uz": "bring houm ze beykon",
+      "uzbek": "oilani boqmoq, roʻzgʻorga pul topib kelmoq",
+      "pos": "verb",
+      "example_en": "Both parents work hard to bring home the bacon.",
+      "example_uz": "Ota-onaning ikkalasi ham oilani boqish va daromad topish uchun qattiq mehnat qiladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "burn the candle at both ends",
+      "pronunciation_uz": "bern ze kendl et bous endz",
+      "uzbek": "erta-yu kech tinimsiz ishlab oʻzini holdan toydirmoq",
+      "pos": "verb",
+      "example_en": "If you keep burning the candle at both ends, you will get sick.",
+      "example_uz": "Agar erta-yu kech tinim bilmay ishlab oʻzingizni qiynayversangiz, kasal boʻlib qolasiz.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "bury the hatchet",
+      "pronunciation_uz": "beri ze hechit",
+      "uzbek": "urush-janjalni toʻxtatib yarashmoq, adovatni unutmoq",
+      "pos": "verb",
+      "example_en": "After years of rivalry, the two neighbors decided to bury the hatchet.",
+      "example_uz": "Yillar davom etgan adovatdan soʻng, ikki qoʻshni yarashishga qaror qildi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "butterflies in my stomach",
+      "pronunciation_uz": "baterflayz in may stomak",
+      "uzbek": "hayajondan ichi qaltiramoq, yuragi hapriqmoq",
+      "pos": "noun",
+      "example_en": "I always get butterflies in my stomach before giving a speech.",
+      "example_uz": "Nutq soʻzlashdan oldin har doim hayajondan yuragim hapriqib ketadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "by hook or by crook",
+      "pronunciation_uz": "bay huk or bay kruk",
+      "uzbek": "har qanday yoʻl bilan boʻlsa ham, nima qilib boʻlsa-da",
+      "pos": "adv",
+      "example_en": "He was determined to finish the marathon by hook or by crook.",
+      "example_uz": "U nima qilib boʻlsa ham marafonni oxirigacha yugurib oʻtishga qatʼiy ahd qilgan edi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "call a spade a spade",
+      "pronunciation_uz": "kol e speyd e speyd",
+      "uzbek": "haqiqatni yashirmay ochiq aytmoq, oqni oq qorani qora demoq",
+      "pos": "verb",
+      "example_en": "She is known for calling a spade a spade during board meetings.",
+      "example_uz": "U kengash yigʻilishlarida haqiqatni yuzga ochiq aytishi bilan tanilgan.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "can't judge a book by its cover",
+      "pronunciation_uz": "kent jaj e buk bay its kaver",
+      "uzbek": "kitobga muqovasiga qarab baho berma, odamning ustiga qarab xulosa chiqarma",
+      "pos": "verb",
+      "example_en": "He dresses simply, yet he is a brilliant scientist; you can't judge a book by its cover.",
+      "example_uz": "U oddiy kiyinadi, ammo juda isteʼdodli olim — odamning tashqi koʻrinishiga qarab baho berib boʻlmaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "can't make an omelet without breaking eggs",
+      "pronunciation_uz": "kent meyk en omlet uizaut breyking egz",
+      "uzbek": "qurbonliksiz natijaga erishib boʻlmaydi, jon kuydirmay ish bitmas",
+      "pos": "verb",
+      "example_en": "Upgrading the roads causes traffic, but you can't make an omelet without breaking eggs.",
+      "example_uz": "Yoʻllarni yangilash tirbandlik keltirib chiqaradi, ammo qiyinchiliksiz katta natijaga erishib boʻlmaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "carrot and stick",
+      "pronunciation_uz": "kerot end stik",
+      "uzbek": "ragʻbat va jazo usuli, qamchi va shirinlik siyosati",
+      "pos": "noun",
+      "example_en": "The manager used a carrot and stick approach to boost productivity.",
+      "example_uz": "Rahbar ish unumdorligini oshirish uchun ragʻbat va jazo usulidan foydalandi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cast the first stone",
+      "pronunciation_uz": "kast ze ferst stoun",
+      "uzbek": "birinchi boʻlib birovni ayblamoq",
+      "pos": "verb",
+      "example_en": "Nobody is perfect, so don't be so quick to cast the first stone.",
+      "example_uz": "Hech kim mukammal emas, shuning uchun birinchi boʻlib boshqalarni ayblashga shoshilmang.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cat got your tongue",
+      "pronunciation_uz": "ket got yor tang",
+      "uzbek": "tilingizni yutib yubordingizmi?, nega jimsiz?",
+      "pos": "verb",
+      "example_en": "Why aren't you answering the question? Cat got your tongue?",
+      "example_uz": "Nega savolga javob bermayapsiz? Tilingizni yutib yubordingizmi?",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "caught red-handed",
+      "pronunciation_uz": "kot red-hendid",
+      "uzbek": "jinoyat yoki ayb ustida qoʻlga tushgan",
+      "pos": "adj",
+      "example_en": "The thief was caught red-handed by the security cameras.",
+      "example_uz": "Oʻgʻri xavfsizlik kameralari orqali jinoyat ustida qoʻlga tushdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "change of heart",
+      "pronunciation_uz": "cheynj of hart",
+      "uzbek": "fikridan yoki niyatidan qaytish, koʻngli oʻzgarishi",
+      "pos": "noun",
+      "example_en": "He planned to sell the house, but he had a change of heart.",
+      "example_uz": "U uyni sotishni rejalashtirgan edi, lekin keyin fikridan qaytdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "charity begins at home",
+      "pronunciation_uz": "cheriti biginz et houm",
+      "uzbek": "yaxshilikni oʻz oilangdan boshla, oldin oʻz yaqinlaringga gʻamxoʻrlik qil",
+      "pos": "verb",
+      "example_en": "Help your own parents first; charity begins at home.",
+      "example_uz": "Avval oʻz ota-onangizga yordam bering, zero mehr-oqibat oiladan boshlanadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "clean slate",
+      "pronunciation_uz": "klin sleyt",
+      "uzbek": "oq varaqdan boshlash, oʻtmishdagi xatolarni unutib yangidan boshlash",
+      "pos": "noun",
+      "example_en": "Moving to a new city gave him a clean slate.",
+      "example_uz": "Yangi shaharga koʻchib oʻtish unga hayotni oq varaqdan boshlash imkonini berdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "close but no cigar",
+      "pronunciation_uz": "klous bat nou sigar",
+      "uzbek": "deyarli oʻxshadi, lekin baribir maqsadga yetmadi",
+      "pos": "adj",
+      "example_en": "Your guess was ninety-eight, and the answer was one hundred—close, but no cigar!",
+      "example_uz": "Taxminingiz toʻqson sakkiz edi, javob esa yuz — juda yaqin keldingiz, ammo baribir topolmadingiz!",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cold turkey",
+      "pronunciation_uz": "kold terki",
+      "uzbek": "yomon odatni birdaniga va butunlay tashlash",
+      "pos": "adv",
+      "example_en": "He quit smoking cold turkey five years ago.",
+      "example_uz": "U besh yil oldin chekishni bir urinishdayoq butunlay tashlagan.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "come full circle",
+      "pronunciation_uz": "kam ful serkl",
+      "uzbek": "aylanib yana oʻz boshlangʻich nuqtasiga qaytmoq",
+      "pos": "verb",
+      "example_en": "After teaching abroad for decades, she came full circle and became principal of her old school.",
+      "example_uz": "Oʻnlab yillar chet elda dars bergach, u aylanib yana oʻzi oʻqigan maktabga direktor boʻlib qaytdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "come hell or high water",
+      "pronunciation_uz": "kam hel or hay uoter",
+      "uzbek": "tosh yogʻsa ham, har qanday toʻsiqqa qaramay",
+      "pos": "adv",
+      "example_en": "We will deliver this project on Friday, come hell or high water.",
+      "example_uz": "Nima boʻlishidan qatʼi nazar, bu loyihani juma kuni topshiramiz.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "compare apples and oranges",
+      "pronunciation_uz": "kompeyr eplz end orinjiz",
+      "uzbek": "bir-biriga umuman oʻxshamaydigan narsalarni solishtirmoq",
+      "pos": "verb",
+      "example_en": "Comparing poetry to engineering is like comparing apples and oranges.",
+      "example_uz": "Sheʼriyatni muhandislik bilan qiyoslash umuman boshqa-boshqa narsalarni solishtirish kabidir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cook the books",
+      "pronunciation_uz": "kuk ze buks",
+      "uzbek": "moliyaviy hisobotlarni soxtalashtirmoq",
+      "pos": "verb",
+      "example_en": "The accountant went to prison for cooking the books.",
+      "example_uz": "Hisobchi moliyaviy hujjatlarni soxtalashtirgani uchun qamoqqa tushdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cool as a cucumber",
+      "pronunciation_uz": "kul ez e kyukamber",
+      "uzbek": "juda bosiq, vazmin, qilt etmaydigan",
+      "pos": "adj",
+      "example_en": "While everyone panicked, the pilot remained as cool as a cucumber.",
+      "example_uz": "Hamma vahimaga tushgan paytda uchuvchi juda vazmin va xotirjam qoldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "couch potato",
+      "pronunciation_uz": "kauch poteytou",
+      "uzbek": "kun boʻyi televizor koʻrib yotadigan dangasa odam",
+      "pos": "noun",
+      "example_en": "Stop being a couch potato and come for a walk in the park.",
+      "example_uz": "Kun boʻyi divanda yotavermasdan turing, bogʻda sayr qilib kelamiz.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "count your chickens before they hatch",
+      "pronunciation_uz": "kaunt yor chikenz bifor zey hech",
+      "uzbek": "joʻjani kuzda sana, hali bitmagan ishga oldindan quvonma",
+      "pos": "verb",
+      "example_en": "Don't spend the bonus yet; never count your chickens before they hatch.",
+      "example_uz": "Mukofot pulini hozirdan ishlatishni rejalashtirmang, joʻjani kuzda sanaydilar.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "crack of dawn",
+      "pronunciation_uz": "krek of don",
+      "uzbek": "tong sahar, subhidam",
+      "pos": "noun",
+      "example_en": "Farmers wake up at the crack of dawn to work in the fields.",
+      "example_uz": "Dehqonlar dalada ishlash uchun tong saharda uygʻonishadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cross your fingers",
+      "pronunciation_uz": "kros yor fingerz",
+      "uzbek": "omad tilab duo qilmoq, ish oʻngidan kelishini umid qilmoq",
+      "pos": "verb",
+      "example_en": "I have my job interview at noon, so cross your fingers for me!",
+      "example_uz": "Tushda ish boʻyicha suhbatim bor, ishim oʻngidan kelishini tilab turing!",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cry crocodile tears",
+      "pronunciation_uz": "kray krokodayl tirz",
+      "uzbek": "yolgʻondan koʻz yosh toʻkmoq, timsoh koʻz yoshlari qilmoq",
+      "pos": "verb",
+      "example_en": "Nobody believed his apology because he was just crying crocodile tears.",
+      "example_uz": "Uning uzriga hech kim ishonmadi, chunki u shunchaki yolgʻondan koʻz yosh toʻkayotgan edi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cut from the same cloth",
+      "pronunciation_uz": "kat from ze seym klos",
+      "uzbek": "feʼl-atvori bir xil, bitta qolipdan chiqqan",
+      "pos": "adj",
+      "example_en": "Father and son are cut from the same cloth—both are hardworking and honest.",
+      "example_uz": "Ota va oʻgʻil bitta qolipdan chiqqandek oʻxshash — ikkalasi ham mehnatkash va halol.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "cut the mustard",
+      "pronunciation_uz": "kat ze mastard",
+      "uzbek": "talabga javob bermoq, koʻngildagidek uddalamoq",
+      "pos": "verb",
+      "example_en": "The new software simply doesn't cut the mustard for large enterprises.",
+      "example_uz": "Yangi dasturiy taʼminot yirik korxonalar talabiga umuman javob bermaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "dark horse",
+      "pronunciation_uz": "dark hors",
+      "uzbek": "qobiliyati yashirin boʻlgan va kutilmaganda gʻolib chiqadigan nomzod",
+      "pos": "noun",
+      "example_en": "The young chess player was a dark horse who defeated the grandmaster.",
+      "example_uz": "Yosh shaxmatchi hech kim kutmagan holda grossmeysterni magʻlub etgan yashirin isteʼdod boʻlib chiqdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "dead ringer",
+      "pronunciation_uz": "ded ringer",
+      "uzbek": "quyib qoʻygandek oʻxshash odam, qiyofadosh",
+      "pos": "noun",
+      "example_en": "That actor is a dead ringer for my older brother.",
+      "example_uz": "Oʻsha aktyor katta akamga quyib qoʻygandek oʻxshaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "devil is in the details",
+      "pronunciation_uz": "devil iz in ze diteylz",
+      "uzbek": "eng qiyin va nozik jihatlar mayda detallarda yashiringan boʻladi",
+      "pos": "noun",
+      "example_en": "The plan looks simple on paper, but the devil is in the details.",
+      "example_uz": "Reja qogʻozda oddiy koʻrinadi, ammo eng murakkab jihatlar mayda tafsilotlarda yashiringan.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "diamond in the rough",
+      "pronunciation_uz": "daymond in ze raf",
+      "uzbek": "ishlov berilmagan olmos, hali ochilmagan qobiliyatli inson",
+      "pos": "noun",
+      "example_en": "The coach saw that the raw athlete was a diamond in the rough.",
+      "example_uz": "Murabbiy yosh sportchining hali charxlanmagan noyob isteʼdod ekanini payqadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "don't give up your day job",
+      "pronunciation_uz": "dont giv ap yor dey job",
+      "uzbek": "bu ish qoʻlingdan kelmas ekan, asosiy kasbingdan qolma (hazilomuz)",
+      "pos": "verb",
+      "example_en": "Your singing is funny, my friend, so don't give up your day job!",
+      "example_uz": "Qoʻshiq aytishing qiziq chiqdi-yu, doʻstim, lekin asosiy ishingni tashlay koʻrma!",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "don't put off until tomorrow what you can do today",
+      "pronunciation_uz": "dont put of antil tumorou uot yu ken du tudey",
+      "uzbek": "bugungi ishni ertaga qoʻyma",
+      "pos": "verb",
+      "example_en": "Finish your homework now; don't put off until tomorrow what you can do today.",
+      "example_uz": "Uy vazifangizni hoziroq tugating — bugungi ishni ertaga qoʻymang.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "down for the count",
+      "pronunciation_uz": "daun for ze kaunt",
+      "uzbek": "magʻlub boʻlgan yoki qattiq charchoqdan yiqilgan",
+      "pos": "adj",
+      "example_en": "After catching the flu, I was down for the count for a whole week.",
+      "example_uz": "Gripp yuqtirib olganimdan keyin bir hafta davomida oʻrindan tura olmay yotdim.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "down in the dumps",
+      "pronunciation_uz": "daun in ze damps",
+      "uzbek": "kayfiyati tushkun, gʻamgin",
+      "pos": "adj",
+      "example_en": "She has been feeling down in the dumps since her best friend moved away.",
+      "example_uz": "Eng yaqin dugonasi koʻchib ketganidan beri uning kayfiyati tushkun.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "draw a blank",
+      "pronunciation_uz": "dro e blenk",
+      "uzbek": "eslay olmaslik, xayolidan koʻtarilmoq",
+      "pos": "verb",
+      "example_en": "When the teacher asked for the date, I completely drew a blank.",
+      "example_uz": "Oʻqituvchi sanani soʻraganida, u xayolimdan butunlay koʻtarilib, eslay olmadim.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "drive someone up the wall",
+      "pronunciation_uz": "drayv samuan ap ze uol",
+      "uzbek": "jonga tegmoq, asabiga oʻynamoq",
+      "pos": "verb",
+      "example_en": "That loud construction noise is driving me up the wall.",
+      "example_uz": "Oʻsha baland qurilish shovqini asabimga qattiq tegyapti.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "easier said than done",
+      "pronunciation_uz": "izier sed zen dan",
+      "uzbek": "aytishga oson, bajarish qiyin",
+      "pos": "adj",
+      "example_en": "Finding a balance between work and study is easier said than done.",
+      "example_uz": "Ish va oʻqish oʻrtasida muvozanat topish aytishgagina oson.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "early bird catches the worm",
+      "pronunciation_uz": "erli berd kechiz ze uorm",
+      "uzbek": "erta turganning ishi barakali boʻladi, erta turgan yutadi",
+      "pos": "noun",
+      "example_en": "Arrive at the market at dawn because the early bird catches the worm.",
+      "example_uz": "Bozorga tong saharda boring, chunki erta harakat qilgan odam yutadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "eat humble pie",
+      "pronunciation_uz": "it hambl pay",
+      "uzbek": "xatosini tan olib bosh egmoq, xijolat boʻlib uzr soʻramoq",
+      "pos": "verb",
+      "example_en": "After his prediction failed, the analyst had to eat humble pie.",
+      "example_uz": "Taxmini notoʻgʻri chiqqach, tahlilchi xatosini tan olib bosh egishga majbur boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "every dog has its day",
+      "pronunciation_uz": "evri dog hez its dey",
+      "uzbek": "bizning koʻchada ham bayram boʻlar, har kimning oʻz omadli kuni keladi",
+      "pos": "verb",
+      "example_en": "Don't lose hope after one defeat; every dog has its day.",
+      "example_uz": "Bir marta yutqazganingizga umidingizni uzmang, sizning ham omadli kuningiz albatta keladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "fall on deaf ears",
+      "pronunciation_uz": "fol on def irz",
+      "uzbek": "javobsiz qolmoq, eʼtiborga olinmaslik",
+      "pos": "verb",
+      "example_en": "Our warnings about the budget deficit fell on deaf ears.",
+      "example_uz": "Byudjet taqchilligi haqidagi ogohlantirishlarimiz eʼtiborsiz qoldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "far cry from",
+      "pronunciation_uz": "far kray from",
+      "uzbek": "yer bilan osmoncha farq qiladigan, mutlaqo boshqacha",
+      "pos": "noun",
+      "example_en": "This luxury hotel is a far cry from the hostel we stayed at last year.",
+      "example_uz": "Bu hashamatli mehmonxona oʻtgan yili biz turgan yotoqxonadan yer bilan osmoncha farq qiladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "feather in your cap",
+      "pronunciation_uz": "fezer in yor kep",
+      "uzbek": "faxrlansa arziydigan yutuq, katta muvaffaqiyat",
+      "pos": "noun",
+      "example_en": "Winning the national competition was a real feather in her cap.",
+      "example_uz": "Respublika tanlovida gʻolib chiqish uning uchun faxrlansa arzigulik katta yutuq boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "fight fire with fire",
+      "pronunciation_uz": "fayt fayr uiz fayr",
+      "uzbek": "raqibning oʻz quroli va usuli bilan javob qaytarmoq",
+      "pos": "verb",
+      "example_en": "When competitors lowered their prices, we decided to fight fire with fire.",
+      "example_uz": "Raqobatchilar narxlarni tushirganda, biz ham ularning oʻz usuli bilan javob qaytarishga qaror qildik.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "fish out of water",
+      "pronunciation_uz": "fish aut of uoter",
+      "uzbek": "suvdan chiqqan baliqdek, oʻzini begona va noqulay his qiladigan odam",
+      "pos": "noun",
+      "example_en": "At the formal gala, he felt like a fish out of water.",
+      "example_uz": "Rasmiy tantanada u oʻzini suvdan chiqqan baliqdek juda noqulay his qildi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "flash in the pan",
+      "pronunciation_uz": "flesh in ze pen",
+      "uzbek": "bir martalik muvaffaqiyat, tez yonib tez oʻchadigan narsa",
+      "pos": "noun",
+      "example_en": "Critics thought the band was a flash in the pan, but they stayed popular for years.",
+      "example_uz": "Tanqidchilar guruhni bir martalik muvaffaqiyat deb oʻylashgan edi, ammo ular yillar davomida mashhur boʻlib qoldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "fly off the handle",
+      "pronunciation_uz": "flay of ze hendl",
+      "uzbek": "toʻsatdan tutaqib ketmoq, oʻzini tutolmay jahl qilmoq",
+      "pos": "verb",
+      "example_en": "He tends to fly off the handle over minor inconveniences.",
+      "example_uz": "U arzimagan noqulayliklar ustida ham toʻsatdan tutaqib ketishga moyil.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "follow in someone's footsteps",
+      "pronunciation_uz": "folou in samuanz futsteps",
+      "uzbek": "birovning izidan bormoq, kasbini yoki yoʻlini davom ettirmoq",
+      "pos": "verb",
+      "example_en": "She followed in her mother's footsteps and became a pediatrician.",
+      "example_uz": "U onasining izidan borib, bolalar shifokori boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "food for thought",
+      "pronunciation_uz": "fud for sot",
+      "uzbek": "chuqur oʻylab koʻrishga arziydigan fikr, mulohaza uchun mavzu",
+      "pos": "noun",
+      "example_en": "The professor's lecture gave us plenty of food for thought.",
+      "example_uz": "Professorning maʼruzasi bizga chuqur mulohaza yuritish uchun koʻplab fikrlar berdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "for a song",
+      "pronunciation_uz": "for e song",
+      "uzbek": "suv tekinga, juda arzon narxda",
+      "pos": "adv",
+      "example_en": "He bought that antique table at a flea market for a song.",
+      "example_uz": "U oʻsha antiqa stolni eski buyumlar bozoridan suv tekinga sotib oldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "fortune favors the bold",
+      "pronunciation_uz": "forchen feyvorz ze bold",
+      "uzbek": "omad jasurlarni yoqtiradi, tavakkalchining ishi yurishadi",
+      "pos": "verb",
+      "example_en": "Take the chance and apply for the grant—fortune favors the bold.",
+      "example_uz": "Imkoniyatdan foydalanib grantga hujjat topshiring, zero omad jasurlarga kulib boqadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "full of beans",
+      "pronunciation_uz": "ful of binz",
+      "uzbek": "gʻayratga toʻla, harakatchan va quvnoq",
+      "pos": "adj",
+      "example_en": "The children were full of beans after their afternoon nap.",
+      "example_uz": "Bolalar kunduzgi uyqudan keyin gʻayrat va quvnoqlikka toʻla edilar.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "get a taste of",
+      "pronunciation_uz": "get e teyst of",
+      "uzbek": "tatib koʻrmoq, ilk bor tajriba qilib koʻrmoq",
+      "pos": "verb",
+      "example_en": "The summer internship allowed her to get a taste of journalism.",
+      "example_uz": "Yozgi amaliyot unga jurnalistika sohasini yaqindan his qilib koʻrish imkonini berdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "get bent out of shape",
+      "pronunciation_uz": "get bent aut of sheyp",
+      "uzbek": "arzimagan narsaga xafa boʻlmoq yoki asabiylashmoq",
+      "pos": "verb",
+      "example_en": "Don't get bent out of shape over a friendly joke.",
+      "example_uz": "Doʻstona hazil uchun asabiylashib, xafa boʻlib yurmang.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "get the ball rolling",
+      "pronunciation_uz": "get ze bol rouling",
+      "uzbek": "ishni boshlab yubormoq, harakatga keltirmoq",
+      "pos": "verb",
+      "example_en": "Let's get the ball rolling by introducing ourselves.",
+      "example_uz": "Keling, oʻzimizni tanishtirish orqali yigʻilishimizni boshlab yuboraylik.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "get the picture",
+      "pronunciation_uz": "get ze pikcher",
+      "uzbek": "vaziyatni tushunmoq, gap nimadaligini anglamoq",
+      "pos": "verb",
+      "example_en": "You don't need to explain every detail; I get the picture.",
+      "example_uz": "Har bir tafsilotni tushuntirishingiz shart emas, gap nimadaligini tushundim.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "get the upper hand",
+      "pronunciation_uz": "get ze aper hend",
+      "uzbek": "ustunlikka erishmoq, qoʻli baland kelmoq",
+      "pos": "verb",
+      "example_en": "Our team got the upper hand in the second half of the match.",
+      "example_uz": "Jamoamiz oʻyinning ikkinchi boʻlimida ustunlikni qoʻlga oldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "get wind of",
+      "pronunciation_uz": "get uind of",
+      "uzbek": "xabar topmoq, qulogʻiga chalinmoq",
+      "pos": "verb",
+      "example_en": "If the press gets wind of the merger, stock prices will jump.",
+      "example_uz": "Agar matbuot kompaniyalar birlashishi haqida xabar topsa, aksiya narxlari koʻtarilib ketadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "give someone a hand",
+      "pronunciation_uz": "giv samuan e hend",
+      "uzbek": "yordamlashib yubormoq, qarashib yubormoq",
+      "pos": "verb",
+      "example_en": "Could you give me a hand with these heavy boxes?",
+      "example_uz": "Mana bu ogʻir qutilarni koʻtarishga menga qarashib yubora olasizmi?",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "give someone the slip",
+      "pronunciation_uz": "giv samuan ze slip",
+      "uzbek": "taʼqibdan qochib qutulmoq, sezdirmay ketib qolmoq",
+      "pos": "verb",
+      "example_en": "The suspect managed to give the detectives the slip in the crowd.",
+      "example_uz": "Gumonlanuvchi olomon ichida izquvarlardan sezdirmay qochib qutulishga muvaffaq boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "go against the grain",
+      "pronunciation_uz": "gou egeynst ze greyn",
+      "uzbek": "tabiatiga yoki odatiy qoidalarga zid bormoq",
+      "pos": "verb",
+      "example_en": "Waking up late goes against the grain for someone as disciplined as him.",
+      "example_uz": "Kech uygʻonish uningdek intizomli insonning tabiatiga mutlaqo ziddir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "go Dutch",
+      "pronunciation_uz": "gou dach",
+      "uzbek": "restoranda har kim oʻzi uchun toʻlamoq, xarajatlarni teng boʻlishmoq",
+      "pos": "verb",
+      "example_en": "When college students eat out together, they usually go Dutch.",
+      "example_uz": "Talabalar birga ovqatlangani chiqqanda, odatda har kim oʻzi uchun toʻlaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "go the distance",
+      "pronunciation_uz": "gou ze distans",
+      "uzbek": "ishni oxirigacha yetkazmoq, oxirigacha bardosh bermoq",
+      "pos": "verb",
+      "example_en": "Only dedicated entrepreneurs have the stamina to go the distance.",
+      "example_uz": "Faqat fidoyi tadbirkorlardagina ishni oxirigacha yetkazish uchun sabr-bardosh boʻladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "go with the flow",
+      "pronunciation_uz": "gou uiz ze flou",
+      "uzbek": "oqimga qarab suzmoq, vaziyatga moslashmoq",
+      "pos": "verb",
+      "example_en": "Instead of stressing over schedule changes, just relax and go with the flow.",
+      "example_uz": "Jadval oʻzgarishlaridan asabiylashish oʻrniga, xotirjam boʻlib vaziyatga moslashing.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "golden opportunity",
+      "pronunciation_uz": "golden oportyuniti",
+      "uzbek": "oltin imkoniyat, qoʻldan boy berib boʻlmaydigan qulay fursat",
+      "pos": "noun",
+      "example_en": "Studying at Oxford on a full grant is a golden opportunity.",
+      "example_uz": "Oksfordda toʻliq grant asosida oʻqish — bu qoʻldan boy berib boʻlmaydigan oltin imkoniyatdir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "grasping at straws",
+      "pronunciation_uz": "grasping et stroz",
+      "uzbek": "choʻkayotgan odam xasga yopishgandek har qanday umidsiz choraga yopishmoq",
+      "pos": "verb",
+      "example_en": "With no evidence left, the defense lawyer was grasping at straws.",
+      "example_uz": "Hech qanday dalil qolmagach, advokat choʻkayotgan odam xasga yopishgandek har narsani bahona qildi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "grass is always greener on the other side",
+      "pronunciation_uz": "gras iz olueyz griner on ze azer sayd",
+      "uzbek": "qoʻshnining tovuqi gʻoz koʻrinadi, biz yoʻq joyda hammasi yaxshidek tuyuladi",
+      "pos": "noun",
+      "example_en": "He envies freelancers, forgetting that the grass is always greener on the other side.",
+      "example_uz": "U erkin ishlovchilarga havas qiladi, ammo uzoqdan hamma narsa chiroyli koʻrinishini unutadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "grease someone's palm",
+      "pronunciation_uz": "gris samuanz palm",
+      "uzbek": "pora bermoq, ogʻzini moylamoq",
+      "pos": "verb",
+      "example_en": "He refused to grease anyone's palm to get the building permit.",
+      "example_uz": "U qurilish ruxsatnomasini olish uchun birovning choʻntagini qappaytirishdan bosh tortdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "great minds think alike",
+      "pronunciation_uz": "greyt mayndz sink elayk",
+      "uzbek": "aqlli insonlar bir xil fikrlaydi (ikki kishi bir xil fikr aytganda)",
+      "pos": "verb",
+      "example_en": "You ordered green tea too? Great minds think alike!",
+      "example_uz": "Siz ham koʻk choy buyurtma qildingizmi? Aqlli odamlar bir xil oʻylaydi-da!",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "green with envy",
+      "pronunciation_uz": "grin uiz envi",
+      "uzbek": "hasaddan yoki havasdan ichi kuygan",
+      "pos": "adj",
+      "example_en": "My neighbors were green with envy when they saw our new garden.",
+      "example_uz": "Qoʻshnilarimiz yangi bogʻimizni koʻrganda havasdan ogʻizlari ochilib qoldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "haste makes waste",
+      "pronunciation_uz": "heyst meyks ueyst",
+      "uzbek": "shoshgan qiz erga yolchimas, shoshqaloqlik xatoga olib keladi",
+      "pos": "verb",
+      "example_en": "Check your calculations carefully before submitting; haste makes waste.",
+      "example_uz": "Topshirishdan oldin hisob-kitoblaringizni diqqat bilan tekshiring — shoshqaloqlik xatoga olib keladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "have a blast",
+      "pronunciation_uz": "hev e blast",
+      "uzbek": "maza qilmoq, vaqtni juda xushchaqchaq oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "We had a blast at the mountain resort last weekend.",
+      "example_uz": "Oʻtgan dam olish kunlari togʻ sihatgohida vaqtni juda ajoyib oʻtkazdik.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "have a lot on your plate",
+      "pronunciation_uz": "hev e lot on yor pleyt",
+      "uzbek": "ishi boshidan oshib-toshib yotmoq, juda koʻp vazifasi boʻlmoq",
+      "pos": "verb",
+      "example_en": "I cannot join the committee right now because I already have a lot on my plate.",
+      "example_uz": "Hozir qoʻmitaga qoʻshila olmayman, chunki shundoq ham ishim boshimdan oshib yotibdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "have your head in the clouds",
+      "pronunciation_uz": "hev yor hed in ze klaudz",
+      "uzbek": "xayolparast boʻlmoq, real hayotdan uzilib xayol surib yurmoq",
+      "pos": "verb",
+      "example_en": "Stop having your head in the clouds and focus on the lecture.",
+      "example_uz": "Osmonlarda xayol surib yurishni bas qiling va eʼtiboringizni maʼruzaga qarating.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "head over heels",
+      "pronunciation_uz": "hed ouver hilz",
+      "uzbek": "shaydo boʻlib qolgan, telbalarcha oshiq",
+      "pos": "adj",
+      "example_en": "He fell head over heels in love with her the moment they met.",
+      "example_uz": "Ular uchrashgan ilk lahzadanoq u qizga telbalarcha oshiq boʻlib qoldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "hear it through the grapevine",
+      "pronunciation_uz": "hir it sru ze greypvayn",
+      "uzbek": "uzunquloq gaplardan eshitmoq, mish-mish orqali xabar topmoq",
+      "pos": "verb",
+      "example_en": "I heard through the grapevine that our branch is moving downtown.",
+      "example_uz": "Filialimiz shahar markaziga koʻchayotganini uzunquloq gaplardan eshitib qoldim.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "heart of gold",
+      "pronunciation_uz": "hart of gold",
+      "uzbek": "oltin qalb, juda mehribon va saxovatli koʻngil",
+      "pos": "noun",
+      "example_en": "Our grandmother has a heart of gold and helps everyone in the neighborhood.",
+      "example_uz": "Buvimizning qalbi oltindek toza boʻlib, mahalladagi hammaga yordam qoʻlini choʻzadilar.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "hit a snag",
+      "pronunciation_uz": "hit e sneg",
+      "uzbek": "kutilmagan toʻsiqqa yoki muammoga duch kelmoq",
+      "pos": "verb",
+      "example_en": "The construction project hit a snag when supply deliveries were delayed.",
+      "example_uz": "Materiallar yetkazib berish kechikkanda qurilish loyihasi kutilmagan toʻsiqqa duch keldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "hit the jackpot",
+      "pronunciation_uz": "hit ze jekpot",
+      "uzbek": "katta yutuqqa erishmoq, omadi chopmoq",
+      "pos": "verb",
+      "example_en": "The startup hit the jackpot with their new language-learning app.",
+      "example_uz": "Startap oʻzining yangi til oʻrganish ilovasi bilan juda katta muvaffaqiyatga erishdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "hit the spot",
+      "pronunciation_uz": "hit ze spot",
+      "uzbek": "ayni muddao boʻlmoq, joniga oro kirmoq",
+      "pos": "verb",
+      "example_en": "A cup of hot green tea really hits the spot on a cold winter evening.",
+      "example_uz": "Sovuq qish oqshomida bir piyola issiq koʻk choy odamning joniga oro kiradi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "hold your tongue",
+      "pronunciation_uz": "hold yor tang",
+      "uzbek": "tilini tiymoq, sukut saqlamoq",
+      "pos": "verb",
+      "example_en": "It was difficult to hold my tongue during the unfair criticism.",
+      "example_uz": "Nohaq tanqid paytida tilimni tiyib jim turishim juda qiyin boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "icing on the cake",
+      "pronunciation_uz": "aysing on ze keyk",
+      "uzbek": "nur ustiga aʼlo nur, yaxshi narsani yanada goʻzal qiluvchi qoʻshimcha",
+      "pos": "noun",
+      "example_en": "Getting the promotion was great, and the company car was the icing on the cake.",
+      "example_uz": "Lavozimga koʻtarilish ajoyib boʻldi, xizmat mashinasi berilishi esa nur ustiga aʼlo nur boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "if it ain't broke, don't fix it",
+      "pronunciation_uz": "if it eynt brouk dont fiks it",
+      "uzbek": "soz ishlab turgan narsaga tegma, ishlab turgan tizimni buzma",
+      "pos": "verb",
+      "example_en": "Our current workflow is efficient; if it ain't broke, don't fix it.",
+      "example_uz": "Hozirgi ish tartibimiz samarali ishlayapti — yaxshi ishlab turgan narsani oʻzgartirishga hojat yoʻq.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "in full swing",
+      "pronunciation_uz": "in ful suing",
+      "uzbek": "avjida, eng qizgʻin pallada",
+      "pos": "adj",
+      "example_en": "By ten o'clock, the wedding celebration was in full swing.",
+      "example_uz": "Soat oʻnga borib toʻy tantanasi eng qizgʻin pallasiga kirdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "in the blink of an eye",
+      "pronunciation_uz": "in ze blink of en ay",
+      "uzbek": "koʻz ochib yumguncha, bir zumda",
+      "pos": "adv",
+      "example_en": "Children grow up in the blink of an eye.",
+      "example_uz": "Bolalar koʻz ochib yumguncha katta boʻlib qolishadi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "in the dark",
+      "pronunciation_uz": "in ze dark",
+      "uzbek": "bexabar, nima boʻlayotganidan xabarsiz",
+      "pos": "adj",
+      "example_en": "Employees were kept in the dark about the new management changes.",
+      "example_uz": "Xodimlar rahbariyatdagi yangi oʻzgarishlardan bexabar qoldirildi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "in the nick of time",
+      "pronunciation_uz": "in ze nik of taym",
+      "uzbek": "ayni vaqtida, soʻnggi soniyada",
+      "pos": "adv",
+      "example_en": "The ambulance arrived in the nick of time to save the patient.",
+      "example_uz": "Tez yordam mashinasi bemorni qutqarib qolish uchun ayni vaqtida yetib keldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "iron out",
+      "pronunciation_uz": "ayrn aut",
+      "uzbek": "kelishmovchilik yoki muammolarni hal qilib tekislamoq",
+      "pos": "verb",
+      "example_en": "Both teams met to iron out the remaining details of the contract.",
+      "example_uz": "Har ikki jamoa shartnomaning qolgan tafsilotlarini hal qilib olish uchun uchrashdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "it is never too late to mend",
+      "pronunciation_uz": "it iz never tu leyt tu mend",
+      "uzbek": "xatoni tuzatishning erta-kechi yoʻq",
+      "pos": "verb",
+      "example_en": "Apologize to your friend today; it is never too late to mend.",
+      "example_uz": "Bugun doʻstingizdan uzr soʻrang, xatoni tuzatishning hech qachon kechi boʻlmaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "jump through hoops",
+      "pronunciation_uz": "jamp sru hups",
+      "uzbek": "maqsadga erishish uchun koʻplab murakkab talab va sinovlardan oʻtmoq",
+      "pos": "verb",
+      "example_en": "Applicants had to jump through hoops to get the scholarship.",
+      "example_uz": "Stipendiyani olish uchun talabgorlar juda koʻp murakkab sinovlardan oʻtishga majbur boʻldilar.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "keep a straight face",
+      "pronunciation_uz": "kip e streyt feys",
+      "uzbek": "kulgini ichiga yutib jiddiy qiyofani saqlamoq",
+      "pos": "verb",
+      "example_en": "It was hard to keep a straight face when the puppy wore sunglasses.",
+      "example_uz": "Kuchukcha quyosh koʻzoynagini taqib olganida kulmasdan jiddiy turish juda qiyin boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "keep at bay",
+      "pronunciation_uz": "kip et bey",
+      "uzbek": "yaqinlashtirmaslik, xavf yoki kasallikni uzoqda tutmoq",
+      "pos": "verb",
+      "example_en": "Regular exercise and sleep help keep illnesses at bay.",
+      "example_uz": "Muntazam mashq qilish va uyqu kasalliklarni oʻzingizdan uzoqda tutishga yordam beradi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "keep something under wraps",
+      "pronunciation_uz": "kip samsing ander reps",
+      "uzbek": "sir saqlamoq, oshkor qilmay turmoq",
+      "pos": "verb",
+      "example_en": "The automaker kept the new electric car design under wraps until the expo.",
+      "example_uz": "Avtomobil ishlab chiqaruvchi kompaniya yangi elektromobil dizaynini koʻrgazmagacha sir saqladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "keep your fingers crossed",
+      "pronunciation_uz": "kip yor fingerz krost",
+      "uzbek": "ishlar oʻngidan kelishini tilab umid qilib turmoq",
+      "pos": "verb",
+      "example_en": "Let's keep our fingers crossed that the weather stays sunny tomorrow.",
+      "example_uz": "Ertaga ob-havo quyoshli boʻlishini umid qilib duo qilib turaylik.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "kill time",
+      "pronunciation_uz": "kil taym",
+      "uzbek": "kutish paytida vaqt oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "I read a magazine at the airport to kill time before boarding.",
+      "example_uz": "Samolyotga chiqishdan oldin vaqt oʻtkazish uchun aeroportda jurnal oʻqidim.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "knowledge is power",
+      "pronunciation_uz": "nolij iz pauer",
+      "uzbek": "bilim — kuchdir, bilagi zoʻr birni yiqar, bilimi zoʻr mingni",
+      "pos": "noun",
+      "example_en": "Read as much as you can because knowledge is power.",
+      "example_uz": "Qoʻlingizdan kelgancha koʻp oʻqing, chunki bilim — eng katta kuchdir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "Laughter is the best medicine",
+      "pronunciation_uz": "lafter iz ze best medisin",
+      "uzbek": "kulgi — eng yaxshi davo, kulgi umrni uzaytiradi",
+      "pos": "noun",
+      "example_en": "Watching comedies together cheered him up; laughter is the best medicine.",
+      "example_uz": "Birgalikda komediya koʻrish uning kayfiyatini koʻtardi — kulgi eng yaxshi davodir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "learn the ropes",
+      "pronunciation_uz": "lern ze roups",
+      "uzbek": "ishning sir-asrorini va tartibini oʻrganib olmoq",
+      "pos": "verb",
+      "example_en": "It took me two weeks to learn the ropes at my new job.",
+      "example_uz": "Yangi ishimda ish tartibini oʻrganib olishimga ikki hafta vaqt ketdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "let bygones be bygones",
+      "pronunciation_uz": "let baygonz bi baygonz",
+      "uzbek": "oʻtgan ishga salavot demoq, eski xafagarchiliklarni unutmoq",
+      "pos": "verb",
+      "example_en": "Life is too short to hold grudges; let's let bygones be bygones.",
+      "example_uz": "Umr gina saqlab yurish uchun juda qisqa, keling, oʻtgan ishlarni unutaylik.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "let your hair down",
+      "pronunciation_uz": "let yor heyr daun",
+      "uzbek": "rasmiyatchilikni yigʻishtirib erkin dam olmoq",
+      "pos": "verb",
+      "example_en": "On weekends, you should let your hair down and enjoy time with family.",
+      "example_uz": "Dam olish kunlari rasmiyatchilikni unutib, oilangiz davrasida erkin hordiq chiqarishingiz kerak.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "light at the end of the tunnel",
+      "pronunciation_uz": "layt et ze end of ze tanel",
+      "uzbek": "tunnel oxiridagi yorugʻlik, uzoq qiyinchilikdan keyin koʻringan umid uchquni",
+      "pos": "noun",
+      "example_en": "After months of therapy, the patient finally saw light at the end of the tunnel.",
+      "example_uz": "Oylar davom etgan muolajadan soʻng bemor nihoyat sogʻayish umidini koʻrdi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "like father, like son",
+      "pronunciation_uz": "layk fazer layk san",
+      "uzbek": "otasi qanday boʻlsa oʻgʻli ham shunday, olma daraxtidan uzoqqa tushmaydi",
+      "pos": "noun",
+      "example_en": "Both of them love fixing engines—like father, like son.",
+      "example_uz": "Ikkalasi ham dvigatel tuzatishni yaxshi koʻradi — otasi qanday boʻlsa, oʻgʻli ham shunday.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "lion's share",
+      "pronunciation_uz": "layonz sheyr",
+      "uzbek": "arslon ulushi, eng katta qism",
+      "pos": "noun",
+      "example_en": "Housing rent takes the lion's share of his monthly salary.",
+      "example_uz": "Uy ijarasi uning oylik maoshining eng katta qismini oladi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "live from hand to mouth",
+      "pronunciation_uz": "liv from hend tu maus",
+      "uzbek": "zoʻrgʻa kun koʻrmoq, topganini topgandayoq yeb kun kechirmoq",
+      "pos": "verb",
+      "example_en": "Before finding steady employment, the family lived from hand to mouth.",
+      "example_uz": "Doimiy ish topishdan oldin oila topganini zoʻrgʻa kunlik roʻzgʻorga yetkazib yashardi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "long shot",
+      "pronunciation_uz": "long shot",
+      "uzbek": "amalga oshish ehtimoli juda kam boʻlgan urinish",
+      "pos": "noun",
+      "example_en": "Getting tickets on the day of the final match is a long shot.",
+      "example_uz": "Final oʻyini kuni chipta topish ehtimoli juda kam.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "look before you leap",
+      "pronunciation_uz": "luk bifor yu lip",
+      "uzbek": "yetti oʻlchab bir kes, oqibatini oʻylab keyin qadam bos",
+      "pos": "verb",
+      "example_en": "Read the contract carefully before signing; look before you leap.",
+      "example_uz": "Imzolashdan oldin shartnomani diqqat bilan oʻqing — yetti oʻlchab bir kesing.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "make a mountain out of a molehill",
+      "pronunciation_uz": "meyk e mauntin aut of e moulhil",
+      "uzbek": "pashshadan fil yasamoq, kichik muammoni boʻrttirib yubormoq",
+      "pos": "verb",
+      "example_en": "It is only a tiny stain on the tablecloth; don't make a mountain out of a molehill.",
+      "example_uz": "Dasturxonda kichkinagina dogʻ bor xolos, pashshadan fil yasamang.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "make hay while the sun shines",
+      "pronunciation_uz": "meyk hey uayl ze san shaynz",
+      "uzbek": "quyosh borida pichanni yigʻib ol, qulay fursatdan unumli foydalanmoq",
+      "pos": "verb",
+      "example_en": "The market is booming right now, so let's make hay while the sun shines.",
+      "example_uz": "Hozir bozor rivojlanayotgan payt, shuning uchun qulay imkoniyatdan unumli foydalanib qolaylik.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "make waves",
+      "pronunciation_uz": "meyk ueyvz",
+      "uzbek": "shov-shuv koʻtarmoq, odatiy tartibni buzib katta oʻzgarish qilmoq",
+      "pos": "verb",
+      "example_en": "Her innovative research is making waves in the medical community.",
+      "example_uz": "Uning innovatsion tadqiqoti tibbiyot olamida katta shov-shuv uygʻotmoqda.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "music to my ears",
+      "pronunciation_uz": "myuzik tu may irz",
+      "uzbek": "quloqqa xush yoqadigan xushxabar",
+      "pos": "noun",
+      "example_en": "Hearing that our project was approved was music to my ears.",
+      "example_uz": "Loyihamiz tasdiqlanganini eshitish qulogʻimga juda yoqimli xushxabar boʻldi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "necessity is the mother of invention",
+      "pronunciation_uz": "nesesiti iz ze mazer of invenshen",
+      "uzbek": "ehtiyoj — ixtirolar onasidir, zarurat odamni kashfiyotga undaydi",
+      "pos": "noun",
+      "example_en": "When tools broke, the engineers improvised; necessity is the mother of invention.",
+      "example_uz": "Asboblar buzilganda muhandislar yangi yechim oʻylab topishdi — ehtiyoj ixtirolar onasidir.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "needle in a haystack",
+      "pronunciation_uz": "nidl in e heystek",
+      "uzbek": "somon ichidan igna qidirishdek topilishi juda qiyin narsa",
+      "pos": "noun",
+      "example_en": "Finding one specific photo without folders is like looking for a needle in a haystack.",
+      "example_uz": "Jildlarsiz bitta aniq rasmni qidirish somon ichidan igna qidirish bilan barobar.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    },
+    {
+      "english": "no smoke without fire",
+      "pronunciation_uz": "nou smouk uizaut fayr",
+      "uzbek": "shamol boʻlmasa daraxtning uchi qimirlamaydi",
+      "pos": "noun",
+      "example_en": "People are talking about a merger, and there is no smoke without fire.",
+      "example_uz": "Odamlar birlashish haqida gapirishyapti, shamol boʻlmasa daraxtning uchi qimirlamaydi.",
+      "category": "Mashhur inglizcha iboralar (Idioms — 2)"
+    }
+  ]
+}

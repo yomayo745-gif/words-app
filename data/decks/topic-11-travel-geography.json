@@ -1,0 +1,1258 @@
+{
+  "title": "Sayohat, turizm va geografiya",
+  "category": "Travel, Tourism & Geography",
+  "group": "topic",
+  "words": [
+    {
+      "english": "tourism",
+      "pronunciation_uz": "turizm",
+      "uzbek": "turizm, sayyohlik",
+      "pos": "noun",
+      "example_en": "Cultural tourism brings thousands of visitors to Khiva every year.",
+      "example_uz": "Madaniy turizm har yili Xivaga minglab mehmonlarni olib keladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "tourist",
+      "pronunciation_uz": "turist",
+      "uzbek": "sayyoh, turist",
+      "pos": "noun",
+      "example_en": "The foreign tourist took photographs of the ancient minaret.",
+      "example_uz": "Xorijlik sayyoh qadimiy minorani suratga oldi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "traveler",
+      "pronunciation_uz": "treveler",
+      "uzbek": "sayohatchi, yoʻlovchi",
+      "pos": "noun",
+      "example_en": "Every seasoned traveler keeps copies of important documents.",
+      "example_uz": "Har bir tajribali sayohatchi muhim hujjatlarning nusxalarini saqlaydi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "backpacker",
+      "pronunciation_uz": "bekpeker",
+      "uzbek": "ryukzakli sayohatchi",
+      "pos": "noun",
+      "example_en": "The young backpacker explored the Silk Road cities by train.",
+      "example_uz": "Yosh sayohatchi Ipak yoʻli shaharlarini poyezdda kezib chiqdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "pilgrim",
+      "pronunciation_uz": "pilgrim",
+      "uzbek": "ziyoratchi",
+      "pos": "noun",
+      "example_en": "Each pilgrim visited the sacred complex with deep respect.",
+      "example_uz": "Har bir ziyoratchi muqaddas majmuani chuqur ehtirom bilan ziyorat qildi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "pilgrimage",
+      "pronunciation_uz": "pilgrimij",
+      "uzbek": "ziyorat, haj safari",
+      "pos": "noun",
+      "example_en": "My grandparents went on a pilgrimage to Mecca last year.",
+      "example_uz": "Buva va buvim oʻtgan yili Makkaga haj ziyoratiga borishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "voyage",
+      "pronunciation_uz": "voyij",
+      "uzbek": "dengiz yoki uzoq safar",
+      "pos": "noun",
+      "example_en": "The ocean voyage across the Atlantic took ten days.",
+      "example_uz": "Atlantika okeani boʻylab dengiz safari oʻn kun davom etdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "expedition",
+      "pronunciation_uz": "ekspedishn",
+      "uzbek": "ekspeditsiya, ilmiy safar",
+      "pos": "noun",
+      "example_en": "Geographers organized a scientific expedition to the Pamir mountains.",
+      "example_uz": "Geograflar Pomir togʻlariga ilmiy ekspeditsiya uyushtirdilar.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "excursion",
+      "pronunciation_uz": "ikskershn",
+      "uzbek": "ekskursiya, qisqa sayohat",
+      "pos": "noun",
+      "example_en": "Our class went on a one-day excursion to the historical park.",
+      "example_uz": "Sinfimiz tarixiy bogʻga bir kunlik ekskursiyaga bordi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "safari",
+      "pronunciation_uz": "safari",
+      "uzbek": "safari, yovvoyi tabiat sayohati",
+      "pos": "noun",
+      "example_en": "They photographed lions and giraffes during a wildlife safari.",
+      "example_uz": "Ular yovvoyi tabiat safarisi paytida sherlar va jirafalarni suratga olishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "cruise",
+      "pronunciation_uz": "kruz",
+      "uzbek": "kruiz, dengiz sayohati",
+      "pos": "noun",
+      "example_en": "My parents celebrated their anniversary on a Mediterranean cruise.",
+      "example_uz": "Ota-onam yubileylarini Oʻrta yer dengizi kruizida nishonlashdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "destination",
+      "pronunciation_uz": "destineyshn",
+      "uzbek": "manzil, borar joy",
+      "pos": "noun",
+      "example_en": "Tashkent is a popular destination for international conferences.",
+      "example_uz": "Toshkent xalqaro anjumanlar uchun mashhur manzildir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "route",
+      "pronunciation_uz": "rut",
+      "uzbek": "yoʻnalish, marshrut",
+      "pos": "noun",
+      "example_en": "The Silk Road was an ancient trade route across Asia.",
+      "example_uz": "Buyuk Ipak yoʻli Osiyo boʻylab oʻtgan qadimiy savdo yoʻnalishi boʻlgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "way",
+      "pronunciation_uz": "uey",
+      "uzbek": "yoʻl, usul",
+      "pos": "noun",
+      "example_en": "A friendly local showed us the shortest way to the fortress.",
+      "example_uz": "Xushmuomala mahalliy aholi vakili bizga qalʼaga eltuvchi eng qisqa yoʻlni koʻrsatdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "shortcut",
+      "pronunciation_uz": "shortkat",
+      "uzbek": "yaqin yoʻl, qisqa yoʻl",
+      "pos": "noun",
+      "example_en": "We took a footpath shortcut through the orchard.",
+      "example_uz": "Biz mevazor orqali oʻtadigan qisqa soʻqmoq yoʻldan yurdik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "stopover",
+      "pronunciation_uz": "stopouver",
+      "uzbek": "yoʻpakay toʻxtab oʻtish (tranzit toʻxtash)",
+      "pos": "noun",
+      "example_en": "Our flight to London has a three-hour stopover in Istanbul.",
+      "example_uz": "Londonga parvozimiz Istanbulda uch soatlik toʻxtab oʻtishni oʻz ichiga oladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "layover",
+      "pronunciation_uz": "leyouver",
+      "uzbek": "almashib oʻtishdagi kutish vaqti",
+      "pos": "noun",
+      "example_en": "During the long layover, we rested in the transit lounge.",
+      "example_uz": "Uzoq kutish vaqtida biz tranzit zalida dam oldik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "terminal",
+      "pronunciation_uz": "terminal",
+      "uzbek": "terminal (aeroport binosi)",
+      "pos": "noun",
+      "example_en": "International flights depart from Terminal Two.",
+      "example_uz": "Xalqaro reyslar ikkinchi terminaldan uchadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "departure",
+      "pronunciation_uz": "diparcher",
+      "uzbek": "joʻnab ketish, uchish",
+      "pos": "noun",
+      "example_en": "Please arrive at the airport two hours before departure.",
+      "example_uz": "Iltimos, aeroportga uchishdan ikki soat oldin yetib keling.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "arrival",
+      "pronunciation_uz": "errayvl",
+      "uzbek": "yetib kelish, qoʻnish",
+      "pos": "noun",
+      "example_en": "Relatives waited patiently in the arrival hall.",
+      "example_uz": "Qarindoshlar kutib olish zalida sabr bilan kutishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "boarding pass",
+      "pronunciation_uz": "bording pas",
+      "uzbek": "chiqish taloni (posadochniy talon)",
+      "pos": "noun",
+      "example_en": "Show your passport and boarding pass at the security gate.",
+      "example_uz": "Xavfsizlik darvozasida pasportingiz va chiqish taloningizni koʻrsating.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "visa",
+      "pronunciation_uz": "viza",
+      "uzbek": "viza",
+      "pos": "noun",
+      "example_en": "Citizens of many countries can visit Uzbekistan without a visa.",
+      "example_uz": "Koʻplab davlatlarning fuqarolari Oʻzbekistonga vizasiz tashrif buyurishlari mumkin.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "customs",
+      "pronunciation_uz": "kastomz",
+      "uzbek": "bojxona",
+      "pos": "noun",
+      "example_en": "It took only ten minutes to pass through customs.",
+      "example_uz": "Bojxonadan oʻtish uchun atigi oʻn daqiqa vaqt ketdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "declaration",
+      "pronunciation_uz": "deklareyshn",
+      "uzbek": "bojxona deklaratsiyasi",
+      "pos": "noun",
+      "example_en": "Travelers carrying large sums of cash must fill out a declaration.",
+      "example_uz": "Katta miqdorda naqd pul olib ketayotgan yoʻlovchilar deklaratsiya toʻldirishlari shart.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "duty-free",
+      "pronunciation_uz": "dyuti-fri",
+      "uzbek": "boj olinmaydigan (dyuti-fri)",
+      "pos": "adj",
+      "example_en": "She bought perfume and chocolates at the duty-free shop.",
+      "example_uz": "U boj olinmaydigan doʻkondan atir va shokolad sotib oldi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "baggage",
+      "pronunciation_uz": "begij",
+      "uzbek": "yuk, bagaj",
+      "pos": "noun",
+      "example_en": "Passengers can collect their suitcases at the baggage claim carousel.",
+      "example_uz": "Yoʻlovchilar jomadonlarini yuk olish lentasidan olishlari mumkin.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "suitcase",
+      "pronunciation_uz": "sutkeys",
+      "uzbek": "jomadon",
+      "pos": "noun",
+      "example_en": "He packed warm sweaters into his large suitcase.",
+      "example_uz": "U katta jomadoniga issiq sviterlarni joyladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "locker",
+      "pronunciation_uz": "loker",
+      "uzbek": "saqlash kamerasi, qulflanadigan shkafcha",
+      "pos": "noun",
+      "example_en": "We left our heavy coats in a station locker.",
+      "example_uz": "Biz ogʻir paltolarimizni vokzal saqlash kamerasida qoldirdik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "postcard",
+      "pronunciation_uz": "poustkard",
+      "uzbek": "otkritka, pochta kartochkasi",
+      "pos": "noun",
+      "example_en": "She sent a colorful postcard of Registan to her teacher.",
+      "example_uz": "U oʻqituvchisiga Registon tasvirlangan rangli otkritka yubordi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "guidebook",
+      "pronunciation_uz": "gaydbuk",
+      "uzbek": "yoʻlkoʻrsatkich kitob (putevoditel)",
+      "pos": "noun",
+      "example_en": "This guidebook lists the best traditional teahouses in Bukhara.",
+      "example_uz": "Ushbu yoʻlkoʻrsatkich kitobda Buxorodagi eng yaxshi milliy choyxonalar keltirilgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "sightseeing",
+      "pronunciation_uz": "saytsiing",
+      "uzbek": "diqqatga sazovor joylarni tomosha qilish",
+      "pos": "noun",
+      "example_en": "We spent the whole morning sightseeing in the old town.",
+      "example_uz": "Biz butun ertalabni eski shahardagi diqqatga sazovor joylarni tomosha qilish bilan oʻtkazdik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "landmark",
+      "pronunciation_uz": "lendmark",
+      "uzbek": "diqqatga sazovor joy, mashhur obida",
+      "pos": "noun",
+      "example_en": "The Kalyan Minaret is the most famous landmark in Bukhara.",
+      "example_uz": "Minorai Kalon Buxorodagi eng mashhur tarixiy obidadir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "attraction",
+      "pronunciation_uz": "etrakshn",
+      "uzbek": "diqqatga sazovor maskan",
+      "pos": "noun",
+      "example_en": "The cable car is a major tourist attraction in Bostanlyk.",
+      "example_uz": "Osma dor yoʻli Boʻstonliqdagi asosiy sayyohlik maskanidir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "viewpoint",
+      "pronunciation_uz": "vyupoynt",
+      "uzbek": "kuzatuv maydonchasi, manzara nuqtasi",
+      "pos": "noun",
+      "example_en": "We stopped at the mountain viewpoint to admire the reservoir.",
+      "example_uz": "Biz suv omborini tomosha qilish uchun togʻdagi kuzatuv maydonchasida toʻxtadik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "panorama",
+      "pronunciation_uz": "panorama",
+      "uzbek": "panorama, keng manzara",
+      "pos": "noun",
+      "example_en": "From the tower top, you can see a breathtaking panorama of the city.",
+      "example_uz": "Minora choʻqqisidan shaharning hayratlanarli keng manzarasini koʻrishingiz mumkin.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "accommodation",
+      "pronunciation_uz": "ekomodeyshn",
+      "uzbek": "turar joy, tunash joyi",
+      "pos": "noun",
+      "example_en": "Book your accommodation early during the spring festival season.",
+      "example_uz": "Bahorgi festivallar mavsumida turar joyni oldindan band qiling.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "resort",
+      "pronunciation_uz": "rizort",
+      "uzbek": "kurort, dam olish maskani",
+      "pos": "noun",
+      "example_en": "Amirsoy is a popular mountain ski resort near Tashkent.",
+      "example_uz": "Amirsoy Toshkent yaqinidagi mashhur togʻ-changʻi kurortidir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "motel",
+      "pronunciation_uz": "moutel",
+      "uzbek": "motel (yoʻl boʻyidagi mehmonxona)",
+      "pos": "noun",
+      "example_en": "Long-distance drivers rested at a roadside motel.",
+      "example_uz": "Uzoq masofaga qatnovchi haydovchilar yoʻl boʻyidagi motelda dam olishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "inn",
+      "pronunciation_uz": "in",
+      "uzbek": "kichik mehmonxona, karvonsaroy",
+      "pos": "noun",
+      "example_en": "The family runs a cozy guest inn inside the historic walls.",
+      "example_uz": "Oila tarixiy devorlar ichida shinam kichik mehmonxonani boshqaradi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "reception",
+      "pronunciation_uz": "risepshn",
+      "uzbek": "qabulxona (resepshn)",
+      "pos": "noun",
+      "example_en": "Please leave your room key at the reception desk.",
+      "example_uz": "Iltimos, xona kalitingizni qabulxonada qoldiring.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "concierge",
+      "pronunciation_uz": "konsyerj",
+      "uzbek": "konsyerj (mehmonxona maʼmuri)",
+      "pos": "noun",
+      "example_en": "The hotel concierge helped us reserve tickets for the opera.",
+      "example_uz": "Mehmonxona konsyerji bizga opera chiptalarini band qilishga yordam berdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "vacancy",
+      "pronunciation_uz": "veykansi",
+      "uzbek": "boʻsh xona (yoki boʻsh ish oʻrni)",
+      "pos": "noun",
+      "example_en": "The small sign at the motel entrance said 'No Vacancy'.",
+      "example_uz": "Motel kirish joyidagi kichik yozuvda 'Boʻsh xonalar yoʻq' deb yozilgan edi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "suite",
+      "pronunciation_uz": "suit",
+      "uzbek": "lyuks xona",
+      "pos": "noun",
+      "example_en": "The newlyweds stayed in the honeymoon suite on the top floor.",
+      "example_uz": "Yangi kelin-kuyovlar eng yuqori qavatdagi lyuks xonada turishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "single room",
+      "pronunciation_uz": "singl rum",
+      "uzbek": "bir kishilik xona",
+      "pos": "noun",
+      "example_en": "He booked a quiet single room overlooking the courtyard.",
+      "example_uz": "U hovliga qaragan tinch bir kishilik xonani band qildi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "campsite",
+      "pronunciation_uz": "kempsayt",
+      "uzbek": "chodir tikish joyi, kemping",
+      "pos": "noun",
+      "example_en": "We found a clean campsite beside a mountain stream.",
+      "example_uz": "Biz togʻ soyining boʻyida toza chodir tikish joyini topdik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "tent",
+      "pronunciation_uz": "tent",
+      "uzbek": "chodir, palatka",
+      "pos": "noun",
+      "example_en": "They pitched a waterproof tent before the rain started.",
+      "example_uz": "Ular yomgʻir boshlanishidan oldin suv oʻtkazmaydigan chodir tikishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "sleeping bag",
+      "pronunciation_uz": "sliping beg",
+      "uzbek": "uyqu qopi (spalniy meshok)",
+      "pos": "noun",
+      "example_en": "A warm sleeping bag is essential for camping in autumn.",
+      "example_uz": "Kuzda tabiat qoʻynida tunash uchun issiq uyqu qopi juda zarur.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "campfire",
+      "pronunciation_uz": "kempfayr",
+      "uzbek": "gulxan",
+      "pos": "noun",
+      "example_en": "We sat around the campfire and told stories under the stars.",
+      "example_uz": "Biz yulduzlar ostida gulxan atrofida oʻtirib hikoyalar aytib berdik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "trail",
+      "pronunciation_uz": "treyl",
+      "uzbek": "soʻqmoq, togʻ yoʻlagi",
+      "pos": "noun",
+      "example_en": "A marked hiking trail leads up to the waterfall.",
+      "example_uz": "Belgilangan togʻ soʻqmogʻi sharsharagacha olib chiqadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "geography",
+      "pronunciation_uz": "jiografi",
+      "uzbek": "geografiya, joʻgʻrofiya",
+      "pos": "noun",
+      "example_en": "Geography teaches us about mountains, rivers, and climates.",
+      "example_uz": "Geografiya bizga togʻlar, daryolar va iqlimlar haqida oʻrgatadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "north",
+      "pronunciation_uz": "north",
+      "uzbek": "shimol",
+      "pos": "noun",
+      "example_en": "Cold winds blew from the north across the steppe.",
+      "example_uz": "Dasht boʻylab shimoldan sovuq shamollar esdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "south",
+      "pronunciation_uz": "sauth",
+      "uzbek": "janub",
+      "pos": "noun",
+      "example_en": "Swallows fly to the warm south before winter arrives.",
+      "example_uz": "Qaldirgʻochlar qish kelishidan oldin issiq janubga uchib ketadilar.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "east",
+      "pronunciation_uz": "ist",
+      "uzbek": "sharq",
+      "pos": "noun",
+      "example_en": "The sun rises in the east every morning.",
+      "example_uz": "Quyosh har ertalab sharqdan chiqadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "west",
+      "pronunciation_uz": "uest",
+      "uzbek": "gʻarb",
+      "pos": "noun",
+      "example_en": "The sky turned golden in the west at sunset.",
+      "example_uz": "Quyosh botishida gʻarbdagi osmon zarhal rangga kirdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "latitude",
+      "pronunciation_uz": "letityud",
+      "uzbek": "kenglik (geografik kenglik)",
+      "pos": "noun",
+      "example_en": "Tashkent lies at approximately forty-one degrees north latitude.",
+      "example_uz": "Toshkent taxminan qirq bir daraja shimoliy kenglikda joylashgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "longitude",
+      "pronunciation_uz": "lonjityud",
+      "uzbek": "uzunlik (geografik uzunlik)",
+      "pos": "noun",
+      "example_en": "Lines of longitude run from the North Pole to the South Pole.",
+      "example_uz": "Uzunlik chiziqlari Shimoliy qutbdan Janubiy qutbgacha tortilgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "equator",
+      "pronunciation_uz": "ikveytor",
+      "uzbek": "ekvator",
+      "pos": "noun",
+      "example_en": "Countries near the equator have a hot tropical climate.",
+      "example_uz": "Ekvator yaqinidagi mamlakatlar issiq tropik iqlimga ega.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "hemisphere",
+      "pronunciation_uz": "hemisfir",
+      "uzbek": "yarimshar",
+      "pos": "noun",
+      "example_en": "Summer in the Northern Hemisphere begins in June.",
+      "example_uz": "Shimoliy yarimsharda yoz iyun oyida boshlanadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "pole",
+      "pronunciation_uz": "poul",
+      "uzbek": "qutb",
+      "pos": "noun",
+      "example_en": "Thick ice covers the region around the South Pole.",
+      "example_uz": "Janubiy qutb atrofidagi hududni qalin muzliklar qoplagan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "tropic",
+      "pronunciation_uz": "tropik",
+      "uzbek": "tropik mintaqa",
+      "pos": "noun",
+      "example_en": "Lush rainforests grow across the humid tropics.",
+      "example_uz": "Nam tropik mintaqalar boʻylab qalin yomgʻirli oʻrmonlar oʻsadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "horizon",
+      "pronunciation_uz": "horayzn",
+      "uzbek": "ufq",
+      "pos": "noun",
+      "example_en": "Snowy mountain peaks appeared on the distant horizon.",
+      "example_uz": "Uzoq ufqda qorli togʻ choʻqqilari koʻrindi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "continent",
+      "pronunciation_uz": "kontinent",
+      "uzbek": "materik, qitʼa",
+      "pos": "noun",
+      "example_en": "Asia is the largest and most populous continent on Earth.",
+      "example_uz": "Osiyo Yer yuzidagi eng katta va aholisi eng koʻp qitʼadir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "mainland",
+      "pronunciation_uz": "meynlend",
+      "uzbek": "materik, quruqlikning asosiy qismi",
+      "pos": "noun",
+      "example_en": "A regular ferry connects the island with the mainland.",
+      "example_uz": "Muntazam parom orolni materik bilan bogʻlaydi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "peninsula",
+      "pronunciation_uz": "peninsula",
+      "uzbek": "yarimorol",
+      "pos": "noun",
+      "example_en": "Italy is located on a boot-shaped peninsula in southern Europe.",
+      "example_uz": "Italiya Janubiy Yevropadagi etik shaklidagi yarimorolda joylashgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "archipelago",
+      "pronunciation_uz": "arkipelagou",
+      "uzbek": "arxipelag, orollar guruhi",
+      "pos": "noun",
+      "example_en": "Indonesia is the largest archipelago in the world.",
+      "example_uz": "Indoneziya dunyodagi eng yirik arxipelagdir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "cape",
+      "pronunciation_uz": "keyp",
+      "uzbek": "burun (quruqlikning dengizga turtib chiqqan qismi)",
+      "pos": "noun",
+      "example_en": "Ships sailed carefully around the stormy rocky cape.",
+      "example_uz": "Kemalar boʻronli qoyali burun atrofidan ehtiyotkorlik bilan suzib oʻtdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "isthmus",
+      "pronunciation_uz": "ismas",
+      "uzbek": "boʻyin (ikki quruqlikni tutashtiruvchi tor yer)",
+      "pos": "noun",
+      "example_en": "The Panama Canal cuts across a narrow isthmus.",
+      "example_uz": "Panama kanali tor quruqlik boʻyni orqali oʻtadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "strait",
+      "pronunciation_uz": "streyt",
+      "uzbek": "boʻgʻoz",
+      "pos": "noun",
+      "example_en": "The Strait of Gibraltar separates Europe from Africa.",
+      "example_uz": "Gibraltar boʻgʻozi Yevropani Afrikadan ajratib turadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "gulf",
+      "pronunciation_uz": "galf",
+      "uzbek": "qoʻltiq, katta koʻrfaz",
+      "pos": "noun",
+      "example_en": "Warm waters flow from the Gulf of Mexico into the Atlantic.",
+      "example_uz": "Meksika qoʻltigʻidan Atlantika okeaniga iliq suvlar oqib chiqadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "bay",
+      "pronunciation_uz": "bey",
+      "uzbek": "koʻrfaz, buxta",
+      "pos": "noun",
+      "example_en": "Fishing boats anchored in the sheltered bay.",
+      "example_uz": "Baliqchi qayiqlar shamoldan pana koʻrfazda langar tashladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "lagoon",
+      "pronunciation_uz": "lagun",
+      "uzbek": "laguna (sayoz koʻrfaz)",
+      "pos": "noun",
+      "example_en": "Clear turquoise water fills the coral lagoon.",
+      "example_uz": "Marjon lagunasini tiniq feruza suv toʻldirib turibdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "reef",
+      "pronunciation_uz": "rif",
+      "uzbek": "rif (suv osti qoyasi yoki marjon qoyasi)",
+      "pos": "noun",
+      "example_en": "Colorful tropical fish swim around the coral reef.",
+      "example_uz": "Rang-barang tropik baliqlar marjon rifi atrofida suzib yuradi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "coast",
+      "pronunciation_uz": "koust",
+      "uzbek": "dengiz qirgʻogʻi, sohil",
+      "pos": "noun",
+      "example_en": "Strong winds blew along the rocky Atlantic coast.",
+      "example_uz": "Qoyali Atlantika sohili boʻylab kuchli shamollar esdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "shore",
+      "pronunciation_uz": "shor",
+      "uzbek": "qirgʻoq (dengiz yoki koʻl boʻyi)",
+      "pos": "noun",
+      "example_en": "Gentle waves washed shells onto the sandy shore.",
+      "example_uz": "Mayin toʻlqinlar qumli qirgʻoqqa chigʻanoqlarni chiqarib tashladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "coastline",
+      "pronunciation_uz": "koustlayn",
+      "uzbek": "qirgʻoq chizigʻi, sohil chizigʻi",
+      "pos": "noun",
+      "example_en": "Norway is famous for its long and rugged coastline.",
+      "example_uz": "Norvegiya oʻzining uzun va qoyali qirgʻoq chizigʻi bilan mashhur.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "cliff",
+      "pronunciation_uz": "klif",
+      "uzbek": "tik qoya, jarlik",
+      "pos": "noun",
+      "example_en": "Seabirds build their nests on the high chalk cliff.",
+      "example_uz": "Dengiz qushlari baland boʻr qoyada in quradilar.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "dune",
+      "pronunciation_uz": "dyun",
+      "uzbek": "qum tepaligi, barxan",
+      "pos": "noun",
+      "example_en": "The desert wind constantly changes the shape of the sand dune.",
+      "example_uz": "Choʻl shamoli qum barxanining shaklini tinimsiz oʻzgartiradi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "oasis",
+      "pronunciation_uz": "oueysis",
+      "uzbek": "voha",
+      "pos": "noun",
+      "example_en": "Bukhara grew as a flourishing oasis in the Kyzylkum Desert.",
+      "example_uz": "Buxoro Qizilqum choʻlidagi gullab-yashnagan voha sifatida rivojlangan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "steppe",
+      "pronunciation_uz": "step",
+      "uzbek": "dasht, choʻl-biyobon",
+      "pos": "noun",
+      "example_en": "Wild tulips bloom across the green steppe in early spring.",
+      "example_uz": "Erta bahorda yashil dasht boʻylab yovvoyi lolalar gullaydi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "prairie",
+      "pronunciation_uz": "preri",
+      "uzbek": "preriy, bepoyon oʻtloq tekislik",
+      "pos": "noun",
+      "example_en": "Tall grass waved across the wide North American prairie.",
+      "example_uz": "Shimoliy Amerikaning keng oʻtloq tekisligi boʻylab baland oʻtlar chayqalardi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "savanna",
+      "pronunciation_uz": "savanna",
+      "uzbek": "savanna (tropik dasht)",
+      "pos": "noun",
+      "example_en": "Herds of zebras and elephants roam the African savanna.",
+      "example_uz": "Zebra va fillar podasi Afrika savannasida kezib yuradi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "tundra",
+      "pronunciation_uz": "tandra",
+      "uzbek": "tundra",
+      "pos": "noun",
+      "example_en": "Only moss and low shrubs grow in the frozen arctic tundra.",
+      "example_uz": "Muzlagan arktika tundrasida faqat yoʻsin va past boʻyli butalar oʻsadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "jungle",
+      "pronunciation_uz": "jangl",
+      "uzbek": "changalzor, jungli",
+      "pos": "noun",
+      "example_en": "Explorers cut a narrow path through the dense jungle.",
+      "example_uz": "Tadqiqotchilar qalin changalzor orqali tor yoʻlak ochishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "swamp",
+      "pronunciation_uz": "suomp",
+      "uzbek": "botqoqlik",
+      "pos": "noun",
+      "example_en": "Frogs and herons live in the shallow reed swamp.",
+      "example_uz": "Sayoz qamishli botqoqlikda qurbaqalar vaega qarqalar yashaydi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "marsh",
+      "pronunciation_uz": "marsh",
+      "uzbek": "botqoq yer, qamishzor",
+      "pos": "noun",
+      "example_en": "Migratory birds rest in the coastal marsh during autumn.",
+      "example_uz": "Koʻchmanchi qushlar kuzda sohil boʻyidagi botqoq qamishzorda dam olishadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "meadow",
+      "pronunciation_uz": "medou",
+      "uzbek": "oʻtloq, maysazor",
+      "pos": "noun",
+      "example_en": "Sheep grazed peacefully in the alpine mountain meadow.",
+      "example_uz": "Qoʻylar baland togʻ oʻtlogʻida osoyishta oʻtlab yurardi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "plateau",
+      "pronunciation_uz": "platou",
+      "uzbek": "plato, yassi togʻlik",
+      "pos": "noun",
+      "example_en": "The Ustyurt Plateau lies between the Aral and Caspian seas.",
+      "example_uz": "Ustyurt platosi Orol va Kaspiy dengizlari oraligʻida joylashgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "valley",
+      "pronunciation_uz": "velli",
+      "uzbek": "vodiy",
+      "pos": "noun",
+      "example_en": "The Fergana Valley is famous for its orchards and silk.",
+      "example_uz": "Fargʻona vodiysi oʻzining bogʻlari va ipagi bilan mashhur.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "canyon",
+      "pronunciation_uz": "kenyon",
+      "uzbek": "kanyon, chuqur dara",
+      "pos": "noun",
+      "example_en": "A fast river carved a deep canyon through the red rock.",
+      "example_uz": "Tezyurar daryo qizil qoya ichidan chuqur kanyon oʻyib oʻtgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "gorge",
+      "pronunciation_uz": "gorj",
+      "uzbek": "tor dara, tangi",
+      "pos": "noun",
+      "example_en": "The road winds through a narrow mountain gorge.",
+      "example_uz": "Yoʻl tor togʻ darasi ichidan ilonizi boʻlib oʻtadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "ravine",
+      "pronunciation_uz": "ravin",
+      "uzbek": "jarlik, chuqur soy",
+      "pos": "noun",
+      "example_en": "A wooden footbridge crosses the deep ravine.",
+      "example_uz": "Chuqur jarlik ustidan yogʻoch piyodalar koʻprigi oʻtadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "ridge",
+      "pronunciation_uz": "rij",
+      "uzbek": "togʻ tizmasi, qirra",
+      "pos": "noun",
+      "example_en": "Hikers walked along the narrow rocky ridge.",
+      "example_uz": "Sayohatchilar tor qoyali togʻ tizmasi boʻylab yurishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "peak",
+      "pronunciation_uz": "pik",
+      "uzbek": "choʻqqi",
+      "pos": "noun",
+      "example_en": "Hazrat Sultan is a famous high mountain peak in Uzbekistan.",
+      "example_uz": "Hazrati Sulton Oʻzbekistondagi mashhur baland togʻ choʻqqisidir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "summit",
+      "pronunciation_uz": "sammit",
+      "uzbek": "togʻ choʻqqisi (eng yuqori nuqtasi)",
+      "pos": "noun",
+      "example_en": "The climbers reached the icy summit at sunrise.",
+      "example_uz": "Alpinistlar quyosh chiqishida muzli choʻqqiga yetib borishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "slope",
+      "pronunciation_uz": "sloup",
+      "uzbek": "yonbagʻir, qiyalik",
+      "pos": "noun",
+      "example_en": "Skiers glided down the snowy mountain slope.",
+      "example_uz": "Changʻichilar qorli togʻ yonbagʻridan pastga uchib tushishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "foothill",
+      "pronunciation_uz": "futhil",
+      "uzbek": "togʻ etagi, adir",
+      "pos": "noun",
+      "example_en": "Orchards and vineyards thrive in the sunny foothills.",
+      "example_uz": "Quyoshli togʻ etaklarida bogʻlar va uzumzorlar barq urib oʻsadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "hill",
+      "pronunciation_uz": "hil",
+      "uzbek": "tepalik, qir",
+      "pos": "noun",
+      "example_en": "An ancient watchtower stands on top of the green hill.",
+      "example_uz": "Yashil tepalik ustida qadimiy kuzatuv minorasi turibdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "mound",
+      "pronunciation_uz": "maund",
+      "uzbek": "qoʻrgʻon tepalik, tuproq uyumi",
+      "pos": "noun",
+      "example_en": "Archaeologists discovered ancient pottery inside the earthen mound.",
+      "example_uz": "Arxeologlar tuproq tepalik ichidan qadimiy sopol idishlar topishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "volcano",
+      "pronunciation_uz": "volkeynou",
+      "uzbek": "vulqon",
+      "pos": "noun",
+      "example_en": "Smoke and ash rose from the active volcano.",
+      "example_uz": "Harakatdagi vulqondan tutun va kul koʻtarildi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "crater",
+      "pronunciation_uz": "kreyter",
+      "uzbek": "krater (vulqon ogʻzi)",
+      "pos": "noun",
+      "example_en": "A deep blue lake formed inside the extinct volcano crater.",
+      "example_uz": "Soʻngan vulqon krateri ichida chuqur moviy koʻl hosil boʻlgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "lava",
+      "pronunciation_uz": "lava",
+      "uzbek": "lava (erigan togʻ jinsi)",
+      "pos": "noun",
+      "example_en": "Glowing red lava flowed slowly down the mountainside.",
+      "example_uz": "Choʻgʻdek qizil lava togʻ yonbagʻridan sekin oqib tushdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "geyser",
+      "pronunciation_uz": "gayzer",
+      "uzbek": "geyzer (qaynoq buloq)",
+      "pos": "noun",
+      "example_en": "The geyser shoots a tall column of steam into the air.",
+      "example_uz": "Geyzer havoga baland bugʻ ustunini otib chiqaradi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "hot spring",
+      "pronunciation_uz": "hot spring",
+      "uzbek": "issiq buloq, mineral chashma",
+      "pos": "noun",
+      "example_en": "Visitors bathe in the natural mineral hot spring.",
+      "example_uz": "Tashrif buyuruvchilar tabiiy mineral issiq buloqda choʻmilishadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "glacier",
+      "pronunciation_uz": "gleysher",
+      "uzbek": "muzlik",
+      "pos": "noun",
+      "example_en": "Melting mountain glaciers feed the major rivers of Central Asia.",
+      "example_uz": "Eriyotgan togʻ muzliklari Markaziy Osiyoning yirik daryolarini toʻyintiradi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "iceberg",
+      "pronunciation_uz": "aysberg",
+      "uzbek": "aysberg (suzib yuruvchi muz togʻi)",
+      "pos": "noun",
+      "example_en": "Most of an iceberg remains hidden beneath the ocean surface.",
+      "example_uz": "Aysbergning asosiy qismi okean yuzasi ostida yashiringan boʻladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "cave",
+      "pronunciation_uz": "keyv",
+      "uzbek": "gʻor",
+      "pos": "noun",
+      "example_en": "Prehistoric drawings were found on the walls of the limestone cave.",
+      "example_uz": "Ohaktosh gʻori devorlarida ibtidoiy rasmlar topilgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "cavern",
+      "pronunciation_uz": "kevern",
+      "uzbek": "katta yer osti gʻori",
+      "pos": "noun",
+      "example_en": "Stalactites hang from the ceiling of the underground cavern.",
+      "example_uz": "Yer osti gʻorining shiftidan stalaktitlar osilib turadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "waterfall",
+      "pronunciation_uz": "uoterfol",
+      "uzbek": "sharshara",
+      "pos": "noun",
+      "example_en": "The roar of the mountain waterfall could be heard from afar.",
+      "example_uz": "Togʻ sharsharasining shovullashi uzoqdan eshitilib turardi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "cascade",
+      "pronunciation_uz": "keskeyd",
+      "uzbek": "pogʻonali sharshara, kaskad",
+      "pos": "noun",
+      "example_en": "Clear water tumbled down a rocky cascade.",
+      "example_uz": "Tiniq suv qoyali pogʻonali sharsharadan quyilib tushardi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "stream",
+      "pronunciation_uz": "strim",
+      "uzbek": "soy, jilgʻa",
+      "pos": "noun",
+      "example_en": "We filled our bottles with cold water from a mountain stream.",
+      "example_uz": "Biz idishlarimizni togʻ soyining muzdek suvi bilan toʻldirdik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "brook",
+      "pronunciation_uz": "bruk",
+      "uzbek": "ariqcha, kichik jilgʻa",
+      "pos": "noun",
+      "example_en": "A shallow brook babbled quietly through the woods.",
+      "example_uz": "Sayoz jilgʻa oʻrmon ichidan shildirab oqib oʻtardi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "creek",
+      "pronunciation_uz": "krik",
+      "uzbek": "kichik daryocha, soy",
+      "pos": "noun",
+      "example_en": "Children built a small stone bridge across the creek.",
+      "example_uz": "Bolalar kichik soy ustiga toshdan koʻprikcha qurishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "tributary",
+      "pronunciation_uz": "tribyuteri",
+      "uzbek": "irmogʻi (daryo irmogʻi)",
+      "pos": "noun",
+      "example_en": "The Chirchiq River is a major tributary of the Syr Darya.",
+      "example_uz": "Chirchiq daryosi Sirdaryoning yirik irmogʻidir.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "delta",
+      "pronunciation_uz": "delta",
+      "uzbek": "delta (daryo quyilish joyi)",
+      "pos": "noun",
+      "example_en": "The river splits into many channels across the fertile delta.",
+      "example_uz": "Daryo serhosil delta boʻylab koʻplab tarmoqlarga boʻlinadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "estuary",
+      "pronunciation_uz": "eschueri",
+      "uzbek": "estuariy (daryoning keng quyilish mansabi)",
+      "pos": "noun",
+      "example_en": "Fresh river water mixes with salty sea water in the estuary.",
+      "example_uz": "Daryoning chuchuk suvi estuariyda shoʻr dengiz suvi bilan aralashadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "pond",
+      "pronunciation_uz": "pond",
+      "uzbek": "hovuz",
+      "pos": "noun",
+      "example_en": "White ducks swam across the quiet village pond.",
+      "example_uz": "Tinch qishloq hovuzida oq oʻrdaklar suzib yurardi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "region",
+      "pronunciation_uz": "rijn",
+      "uzbek": "hudud, mintaqa, viloyat",
+      "pos": "noun",
+      "example_en": "Each region of Uzbekistan has its own style of pilaf.",
+      "example_uz": "Oʻzbekistonning har bir hududi oʻziga xos palov tayyorlash uslubiga ega.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "province",
+      "pronunciation_uz": "provins",
+      "uzbek": "viloyat, muzofot",
+      "pos": "noun",
+      "example_en": "Samarkand Province attracts visitors from around the globe.",
+      "example_uz": "Samarqand viloyati butun dunyodan mehmonlarni oʻziga jalb etadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "territory",
+      "pronunciation_uz": "territori",
+      "uzbek": "hudud, yer maydoni",
+      "pos": "noun",
+      "example_en": "Snow leopards inhabit the high mountain territory.",
+      "example_uz": "Qor qoplonlari baland togʻ hududlarida yashaydi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "frontier",
+      "pronunciation_uz": "frantir",
+      "uzbek": "chegara hududi, sarhad",
+      "pos": "noun",
+      "example_en": "Guards patrol the remote mountain frontier.",
+      "example_uz": "Chegarachilar olis togʻ sarhadini qoʻriqlaydilar.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "boundary",
+      "pronunciation_uz": "baundari",
+      "uzbek": "chegara chizigʻi, marra",
+      "pos": "noun",
+      "example_en": "The river forms a natural boundary between the two districts.",
+      "example_uz": "Daryo ikki tuman oʻrtasida tabiiy chegara hosil qiladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "landscape",
+      "pronunciation_uz": "lendskeyp",
+      "uzbek": "landshaft, tabiat manzarasi",
+      "pos": "noun",
+      "example_en": "The autumn landscape of the mountains was painted in gold and red.",
+      "example_uz": "Togʻlarning kuzgi manzarasi oltin va qizil ranglarga boʻyalgan edi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "scenery",
+      "pronunciation_uz": "sineri",
+      "uzbek": "manzara, koʻrinish",
+      "pos": "noun",
+      "example_en": "Passengers admired the mountain scenery from the train window.",
+      "example_uz": "Yoʻlovchilar poyezd oynasidan togʻ manzarasini hayrat bilan tomosha qilishdi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "terrain",
+      "pronunciation_uz": "terreyn",
+      "uzbek": "joy relyefi, yer yuzasi",
+      "pos": "noun",
+      "example_en": "Off-road vehicles are built for rough and rocky terrain.",
+      "example_uz": "Yoʻltanlamas mashinalar notekis va toshloq joy relyefi uchun moʻljallangan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "elevation",
+      "pronunciation_uz": "eleveyshn",
+      "uzbek": "dengiz sathidan balandlik",
+      "pos": "noun",
+      "example_en": "The mountain camp is located at an elevation of three thousand meters.",
+      "example_uz": "Togʻ lageri dengiz sathidan uch ming metr balandlikda joylashgan.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "climate",
+      "pronunciation_uz": "klaymet",
+      "uzbek": "iqlim",
+      "pos": "noun",
+      "example_en": "Uzbekistan has a continental climate with hot summers.",
+      "example_uz": "Oʻzbekiston yozi issiq boʻlgan kontinental iqlimga ega.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "monsoon",
+      "pronunciation_uz": "monsun",
+      "uzbek": "musson (mavsumiy yomgʻirli shamol)",
+      "pos": "noun",
+      "example_en": "Heavy rains fall across South Asia during the summer monsoon.",
+      "example_uz": "Yozgi musson paytida Janubiy Osiyo boʻylab kuchli yomgʻirlar yogʻadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "fjord",
+      "pronunciation_uz": "fyord",
+      "uzbek": "fyord (tor va chuqur dengiz qoʻltigʻi)",
+      "pos": "noun",
+      "example_en": "Steep rocky cliffs rise on both sides of the deep fjord.",
+      "example_uz": "Chuqur fyordning ikki tomonida tik qoyalar qad rostlab turadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "wander",
+      "pronunciation_uz": "uonder",
+      "uzbek": "kezmoq, aylanib yurmoq",
+      "pos": "verb",
+      "example_en": "We loved to wander through the narrow streets of Ichan Kala.",
+      "example_uz": "Biz Ichan qalʼaning tor koʻchalarida kezib yurishni yoqtirardik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "roam",
+      "pronunciation_uz": "roum",
+      "uzbek": "kezib yurmoq, sayr qilmoq",
+      "pos": "verb",
+      "example_en": "Wild horses roam freely across the open steppe.",
+      "example_uz": "Yovvoyi otlar ochiq dasht boʻylab erkin kezib yuradi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "trek",
+      "pronunciation_uz": "trek",
+      "uzbek": "piyoda uzoq togʻ safariga chiqmoq",
+      "pos": "verb",
+      "example_en": "We plan to trek across the mountain pass in July.",
+      "example_uz": "Iyul oyida togʻ dovoni osha piyoda safarga chiqishni rejalashtiryapmiz.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "hike",
+      "pronunciation_uz": "hayk",
+      "uzbek": "togʻda piyoda sayr qilmoq",
+      "pos": "verb",
+      "example_en": "Many families hike in Chimgan on sunny weekends.",
+      "example_uz": "Koʻplab oilalar quyoshli dam olish kunlarida Chimyonda piyoda sayr qilishadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "navigate",
+      "pronunciation_uz": "nevigeyt",
+      "uzbek": "yoʻl topmoq, boshqarmoq (kemani/marshrutni)",
+      "pos": "verb",
+      "example_en": "Ancient sailors used the stars to navigate across the sea.",
+      "example_uz": "Qadimgi dengizchilar dengiz osha yoʻl topish uchun yulduzlardan foydalanganlar.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "reserve",
+      "pronunciation_uz": "rizerv",
+      "uzbek": "oldindan band qilmoq (bron qilmoq)",
+      "pos": "verb",
+      "example_en": "You should reserve train seats at least a week in advance.",
+      "example_uz": "Poyezd joylarini kamida bir hafta oldin band qilishingiz kerak.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "scenic",
+      "pronunciation_uz": "sinik",
+      "uzbek": "xushmanzara, goʻzal manzarali",
+      "pos": "adj",
+      "example_en": "We drove along the scenic mountain highway to Kokand.",
+      "example_uz": "Biz Qoʻqonga xushmanzara togʻ yoʻli boʻylab mashinada bordik.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "remote",
+      "pronunciation_uz": "rimout",
+      "uzbek": "olis, chekka",
+      "pos": "adj",
+      "example_en": "Satellite internet now reaches the most remote mountain villages.",
+      "example_uz": "Sunʼiy yoʻldosh interneti endi eng olis togʻ qishloqlariga ham yetib bormoqda.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "tropical",
+      "pronunciation_uz": "tropikal",
+      "uzbek": "tropik",
+      "pos": "adj",
+      "example_en": "Bananas and mangoes grow well in a warm tropical climate.",
+      "example_uz": "Banan va mangolar iliq tropik iqlimda yaxshi oʻsadi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "arid",
+      "pronunciation_uz": "erid",
+      "uzbek": "qurgʻoqchil, suvsiz",
+      "pos": "adj",
+      "example_en": "Cacti and saxaul trees survive in arid desert regions.",
+      "example_uz": "Kaktuslar va saksovul daraxtlari qurgʻoqchil choʻl hududlarida yashab qoladi.",
+      "category": "Sayohat, turizm va geografiya"
+    },
+    {
+      "english": "abroad",
+      "pronunciation_uz": "ebrod",
+      "uzbek": "chet elda, xorijga",
+      "pos": "adv",
+      "example_en": "Her older brother went abroad to attend an international conference.",
+      "example_uz": "Uning akasi xalqaro anjumanda qatnashish uchun xorijga bordi.",
+      "category": "Sayohat, turizm va geografiya"
+    }
+  ]
+}

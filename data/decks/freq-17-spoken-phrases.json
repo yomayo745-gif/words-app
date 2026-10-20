@@ -1,0 +1,1447 @@
+{
+  "title": "Jonli muloqot iboralari (Spoken English)",
+  "category": "Spoken English Phrases & Expressions",
+  "group": "freq",
+  "words": [
+    {
+      "english": "as far as I know",
+      "pronunciation_uz": "ez far ez ay nou",
+      "uzbek": "bilishimcha, men bilganimdek",
+      "pos": "phr",
+      "example_en": "As far as I know, the library is open today.",
+      "example_uz": "Bilishimcha, bugun kutubxona ochiq.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "as soon as possible",
+      "pronunciation_uz": "ez sun ez posibl",
+      "uzbek": "imkon qadar tezroq",
+      "pos": "phr",
+      "example_en": "Please reply to this message as soon as possible.",
+      "example_uz": "Iltimos, ushbu xabarga imkon qadar tezroq javob bering.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "at the same time",
+      "pronunciation_uz": "et ze seym taym",
+      "uzbek": "shu bilan birga, bir vaqtning oʻzida",
+      "pos": "phr",
+      "example_en": "She studies and works at the same time.",
+      "example_uz": "U bir vaqtning oʻzida ham oʻqiydi, ham ishlaydi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "by the way",
+      "pronunciation_uz": "bay ze vey",
+      "uzbek": "darvoqe, aytgancha",
+      "pos": "phr",
+      "example_en": "By the way, did you call your brother?",
+      "example_uz": "Darvoqe, akangizga qoʻngʻiroq qildingizmi?",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "for instance",
+      "pronunciation_uz": "for instans",
+      "uzbek": "masalan, misol uchun",
+      "pos": "phr",
+      "example_en": "Many fruits, for instance apples and pears, grow here.",
+      "example_uz": "Bu yerda koʻp mevalar, masalan olma va nok oʻsadi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "first of all",
+      "pronunciation_uz": "foʻrst of ol",
+      "uzbek": "avvalo, birinchi navbatda",
+      "pos": "phr",
+      "example_en": "First of all, let me thank everyone for coming.",
+      "example_uz": "Avvalo, kelganingiz uchun barchaga rahmat aytaman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "from time to time",
+      "pronunciation_uz": "from taym tu taym",
+      "uzbek": "vaqti-vaqti bilan, goh-gohida",
+      "pos": "phr",
+      "example_en": "We visit our village relatives from time to time.",
+      "example_uz": "Biz qishloqdagi qarindoshlarimiznikiga vaqti-vaqti bilan borib turamiz.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in addition",
+      "pronunciation_uz": "in edishn",
+      "uzbek": "bundan tashqari, qoʻshimcha ravishda",
+      "pos": "phr",
+      "example_en": "In addition, the course includes practical exercises.",
+      "example_uz": "Bundan tashqari, kurs amaliy mashqlarni ham oʻz ichiga oladi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in advance",
+      "pronunciation_uz": "in edvans",
+      "uzbek": "oldindan",
+      "pos": "phr",
+      "example_en": "Book your train tickets in advance.",
+      "example_uz": "Poyezd chiptalarini oldindan band qiling.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in any case",
+      "pronunciation_uz": "in eni keys",
+      "uzbek": "har qanday holatda ham",
+      "pos": "phr",
+      "example_en": "Take an umbrella; in any case, it might rain.",
+      "example_uz": "Soyabon oling, har qanday holatda ham yomgʻir yogʻishi mumkin.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "incase of emergency",
+      "pronunciation_uz": "in keys of imoʻrjensi",
+      "uzbek": "favqulodda holatda",
+      "pos": "phr",
+      "example_en": "Call this number in case of emergency.",
+      "example_uz": "Favqulodda holatda ushbu raqamga qoʻngʻiroq qiling.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in charge of",
+      "pronunciation_uz": "in charj of",
+      "uzbek": "masʼul, javobgar",
+      "pos": "phr",
+      "example_en": "Who is in charge of this department?",
+      "example_uz": "Ushbu boʻlimga kim masʼul?",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in common",
+      "pronunciation_uz": "in komon",
+      "uzbek": "umumiy jihat",
+      "pos": "phr",
+      "example_en": "The two friends have a lot in common.",
+      "example_uz": "Ikki doʻstning umumiy jihatlari juda koʻp.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in conclusion",
+      "pronunciation_uz": "in konklujn",
+      "uzbek": "xulosa qilib aytganda",
+      "pos": "phr",
+      "example_en": "In conclusion, daily reading builds strong knowledge.",
+      "example_uz": "Xulosa qilib aytganda, kundalik mutolaa mustahkam bilim beradi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in detail",
+      "pronunciation_uz": "in diteyl",
+      "uzbek": "batafsil, mukammal",
+      "pos": "phr",
+      "example_en": "We discussed the project plan in detail.",
+      "example_uz": "Loyiha rejasini batafsil muhokama qildik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in fact",
+      "pronunciation_uz": "in fekt",
+      "uzbek": "aslida, darhaqiqat",
+      "pos": "phr",
+      "example_en": "He looks young, but in fact he is forty.",
+      "example_uz": "U yosh koʻrinadi, lekin aslida qirq yoshda.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in favor of",
+      "pronunciation_uz": "in feyvor of",
+      "uzbek": "tarafdori, foydasiga",
+      "pos": "phr",
+      "example_en": "All members voted in favor of the proposal.",
+      "example_uz": "Barcha aʼzolar taklif foydasiga ovoz berishdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in front of",
+      "pronunciation_uz": "in frant of",
+      "uzbek": "oldida, roʻparasida",
+      "pos": "phr",
+      "example_en": "There is a fountain in front of the theater.",
+      "example_uz": "Teatr binosi oldida favvora bor.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in general",
+      "pronunciation_uz": "in jeneral",
+      "uzbek": "umuman olganda",
+      "pos": "phr",
+      "example_en": "In general, people here are very hospitable.",
+      "example_uz": "Umuman olganda, bu yerdagi odamlar juda mehmondoʻst.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in hurry",
+      "pronunciation_uz": "in a harri",
+      "uzbek": "shoshilinchda, shoshib",
+      "pos": "phr",
+      "example_en": "Sorry, I cannot stay long, I am in a hurry.",
+      "example_uz": "Uzr, uzoq qololmayman, shoshib turibman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in my opinion",
+      "pronunciation_uz": "in may opinyon",
+      "uzbek": "mening fikrimcha",
+      "pos": "phr",
+      "example_en": "In my opinion, honesty is the most important quality.",
+      "example_uz": "Mening fikrimcha, halollik eng muhim fazilatdir.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in other words",
+      "pronunciation_uz": "in azer voʻrdz",
+      "uzbek": "boshqacha aytganda",
+      "pos": "phr",
+      "example_en": "In other words, we need more time to prepare.",
+      "example_uz": "Boshqacha aytganda, tayyorlanish uchun bizga koʻproq vaqt kerak.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in particular",
+      "pronunciation_uz": "in partikyular",
+      "uzbek": "xususan, ayniqsa",
+      "pos": "phr",
+      "example_en": "I love Uzbek cuisine, and pilaf in particular.",
+      "example_uz": "Oʻzbek taomlarini, xususan palovni juda yaxshi koʻraman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in person",
+      "pronunciation_uz": "in poʻrsen",
+      "uzbek": "shaxsan, yuzma-yuz",
+      "pos": "phr",
+      "example_en": "You must submit the application in person.",
+      "example_uz": "Arizani shaxsan oʻzingiz topshirishingiz kerak.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in public",
+      "pronunciation_uz": "in pablik",
+      "uzbek": "omma oldida, koʻpchilik ichida",
+      "pos": "phr",
+      "example_en": "He feels confident speaking in public.",
+      "example_uz": "U omma oldida gapirganda oʻzini erkin his qiladi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in reality",
+      "pronunciation_uz": "in rialiti",
+      "uzbek": "haqiqatda, amalda",
+      "pos": "phr",
+      "example_en": "The task seemed easy, but in reality it took hours.",
+      "example_uz": "Vazifa oson tuyuldi, ammo amalda bir necha soat vaqt oldi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in return",
+      "pronunciation_uz": "in ritoʻrn",
+      "uzbek": "evaziga, javoban",
+      "pos": "phr",
+      "example_en": "He helped his neighbor without asking anything in return.",
+      "example_uz": "U qoʻshnisiga hech qanday evaz soʻramasdan yordam berdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in short",
+      "pronunciation_uz": "in short",
+      "uzbek": "qisqasi, qisqa qilib aytganda",
+      "pos": "phr",
+      "example_en": "In short, the trip was unforgettable.",
+      "example_uz": "Qisqasi, sayohat unutilmas boʻldi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in spite of",
+      "pronunciation_uz": "in spayt of",
+      "uzbek": "qaramasdan, qaramay",
+      "pos": "phr",
+      "example_en": "They continued climbing in spite of the cold wind.",
+      "example_uz": "Sovuq shamolga qaramasdan, ular choʻqqiga chiqishda davom etishdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in terms of",
+      "pronunciation_uz": "in toʻrmz of",
+      "uzbek": "nuqtayi nazaridan, boʻyicha",
+      "pos": "phr",
+      "example_en": "This city is great in terms of public transport.",
+      "example_uz": "Bu shahar jamoat transporti jihatidan juda qulay.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in the end",
+      "pronunciation_uz": "in zi end",
+      "uzbek": "oxir-oqibat, yakunda",
+      "pos": "phr",
+      "example_en": "In the end, hard work always brings results.",
+      "example_uz": "Oxir-oqibat, mashaqqatli mehnat doim natija beradi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in the meantime",
+      "pronunciation_uz": "in ze mintaym",
+      "uzbek": "shu orada, ungacha",
+      "pos": "phr",
+      "example_en": "Dinner will be ready soon; in the meantime, wash your hands.",
+      "example_uz": "Kechki ovqat tez orada tayyor boʻladi, ungacha qoʻlingizni yuving.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in time",
+      "pronunciation_uz": "in taym",
+      "uzbek": "oʻz vaqtida, kechikmay",
+      "pos": "phr",
+      "example_en": "We arrived at the station just in time.",
+      "example_uz": "Vokzalga ayni vaqtida yetib keldik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in touch",
+      "pronunciation_uz": "in tach",
+      "uzbek": "aloqada",
+      "pos": "phr",
+      "example_en": "Let's stay in touch after graduation.",
+      "example_uz": "Bitiruvdan keyin ham aloqada boʻlib turaylik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in vain",
+      "pronunciation_uz": "in veyn",
+      "uzbek": "behuda, bekorga",
+      "pos": "phr",
+      "example_en": "All our efforts were not in vain.",
+      "example_uz": "Barcha saʼy-harakatlarimiz behuda ketmadi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "little by little",
+      "pronunciation_uz": "litl bay litl",
+      "uzbek": "oz-ozdan, asta-sekin",
+      "pos": "phr",
+      "example_en": "Little by little, his English speaking improved.",
+      "example_uz": "Oz-ozdan uning ingliz tilida gapirishi yaxshilandi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "more or less",
+      "pronunciation_uz": "mor or les",
+      "uzbek": "deyarli, taxminan",
+      "pos": "phr",
+      "example_en": "The repair work is more or less finished.",
+      "example_uz": "Taʼmirlash ishlari deyarli yakunlandi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "no doubt",
+      "pronunciation_uz": "nou daut",
+      "uzbek": "shubhasiz",
+      "pos": "phr",
+      "example_en": "No doubt, she is one of the best students.",
+      "example_uz": "Shubhasiz, u eng aʼlochi talabalardan biri.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "no longer",
+      "pronunciation_uz": "nou longer",
+      "uzbek": "endi ... emas, boshqa",
+      "pos": "phr",
+      "example_en": "He no longer works at that factory.",
+      "example_uz": "U endi oʻsha zavodda ishlamaydi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "no matter what",
+      "pronunciation_uz": "nou meter vot",
+      "uzbek": "nima boʻlishidan qatʼi nazar",
+      "pos": "phr",
+      "example_en": "Keep moving forward no matter what happens.",
+      "example_uz": "Nima boʻlishidan qatʼi nazar, oldinga intilishda davom eting.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "no wonder",
+      "pronunciation_uz": "nou vander",
+      "uzbek": "ajablanarli emas, bejiz emas",
+      "pos": "phr",
+      "example_en": "No wonder you are tired after working twelve hours.",
+      "example_uz": "Oʻn ikki soat ishlagandan keyin charchaganingiz bejiz emas.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "not at all",
+      "pronunciation_uz": "not et ol",
+      "uzbek": "arzimaydi; umuman yoʻq",
+      "pos": "phr",
+      "example_en": "Thank you for your help! — Not at all.",
+      "example_uz": "Yordamingiz uchun rahmat! — Arzimaydi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "now and then",
+      "pronunciation_uz": "nau end zen",
+      "uzbek": "baʼzida, goh-gohida",
+      "pos": "phr",
+      "example_en": "We meet for coffee now and then.",
+      "example_uz": "Goh-gohida qahva ustida uchrashib turamiz.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "of course",
+      "pronunciation_uz": "of kors",
+      "uzbek": "albatta",
+      "pos": "phr",
+      "example_en": "Of course, you can borrow my dictionary.",
+      "example_uz": "Albatta, lugʻatimni olib turishingiz mumkin.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on average",
+      "pronunciation_uz": "on everij",
+      "uzbek": "oʻrtacha hisobda",
+      "pos": "phr",
+      "example_en": "On average, I read two books a month.",
+      "example_uz": "Oʻrtacha hisobda oyiga ikkita kitob oʻqiyman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on behalf of",
+      "pronunciation_uz": "on bihaf of",
+      "uzbek": "nomidan",
+      "pos": "phr",
+      "example_en": "I spoke on behalf of our entire team.",
+      "example_uz": "Men butun jamoamiz nomidan soʻzga chiqdim.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on foot",
+      "pronunciation_uz": "on fut",
+      "uzbek": "piyoda",
+      "pos": "phr",
+      "example_en": "It takes ten minutes to get there on foot.",
+      "example_uz": "U yerga piyoda borish uchun oʻn daqiqa ketadi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on purpose",
+      "pronunciation_uz": "on poʻrpos",
+      "uzbek": "ataylab, qasddan",
+      "pos": "phr",
+      "example_en": "He did not break the glass on purpose.",
+      "example_uz": "U stakanni ataylab sindirgani yoʻq.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on sale",
+      "pronunciation_uz": "on seyl",
+      "uzbek": "chegirmada, sotuvda",
+      "pos": "phr",
+      "example_en": "Winter coats are on sale this week.",
+      "example_uz": "Shu haftada qishki paltolar chegirmada sotilmoqda.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on the other hand",
+      "pronunciation_uz": "on zi azer hend",
+      "uzbek": "ikkinchi tomondan, boshqa tarafdan",
+      "pos": "phr",
+      "example_en": "City life is busy; on the other hand, it offers many jobs.",
+      "example_uz": "Shahar hayoti tigʻiz, boshqa tarafdan esa koʻp ish oʻrinlari bor.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on the whole",
+      "pronunciation_uz": "on ze houl",
+      "uzbek": "umuman olganda",
+      "pos": "phr",
+      "example_en": "On the whole, the conference was very successful.",
+      "example_uz": "Umuman olganda, anjuman juda muvaffaqiyatli oʻtdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on time",
+      "pronunciation_uz": "on taym",
+      "uzbek": "ayni vaqtida, kechikmasdan",
+      "pos": "phr",
+      "example_en": "The morning train always leaves on time.",
+      "example_uz": "Ertalabki poyezd doimo oʻz vaqtida joʻnaydi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "once again",
+      "pronunciation_uz": "vans egeyn",
+      "uzbek": "yana bir bor",
+      "pos": "phr",
+      "example_en": "Let me check the numbers once again.",
+      "example_uz": "Raqamlarni yana bir bor tekshirib chiqay.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of date",
+      "pronunciation_uz": "aut of deyt",
+      "uzbek": "eskirgan, muddati oʻtgan",
+      "pos": "phr",
+      "example_en": "This printed map is out of date.",
+      "example_uz": "Ushbu bosma xarita eskirib qolgan.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of order",
+      "pronunciation_uz": "aut of order",
+      "uzbek": "buzilgan, ishlamayapti",
+      "pos": "phr",
+      "example_en": "The elevator is out of order today.",
+      "example_uz": "Bugun lift ishlamayapti.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of question",
+      "pronunciation_uz": "aut of kveschn",
+      "uzbek": "boʻlishi mumkin emas, muhokamaga oʻrin yoʻq",
+      "pos": "phr",
+      "example_en": "Canceling the project now is out of the question.",
+      "example_uz": "Loyihani hozir bekor qilish haqida gap ham boʻlishi mumkin emas.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "right away",
+      "pronunciation_uz": "rayt evey",
+      "uzbek": "hoziroq, darhol",
+      "pos": "phr",
+      "example_en": "I will send you the address right away.",
+      "example_uz": "Manzilni sizga hoziroq yuboraman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "side by side",
+      "pronunciation_uz": "sayd bay sayd",
+      "uzbek": "yonma-yon, yelkama-yelka",
+      "pos": "phr",
+      "example_en": "They worked side by side for ten years.",
+      "example_uz": "Ular oʻn yil davomida yelkama-yelka ishladilar.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "so far",
+      "pronunciation_uz": "sou far",
+      "uzbek": "hozircha, shu paytgacha",
+      "pos": "phr",
+      "example_en": "So far, everything is going according to plan.",
+      "example_uz": "Hozircha hamma narsa reja boʻyicha ketyapti.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "sooner or later",
+      "pronunciation_uz": "suner or leyter",
+      "uzbek": "ertami-kechmi",
+      "pos": "phr",
+      "example_en": "Sooner or later, the truth will become clear.",
+      "example_uz": "Ertami-kechmi, haqiqat yuzaga chiqadi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "step by step",
+      "pronunciation_uz": "step bay step",
+      "uzbek": "bosqichma-bosqich, qadam-baqadam",
+      "pos": "phr",
+      "example_en": "Follow the instructions step by step.",
+      "example_uz": "Koʻrsatmalarga bosqichma-bosqich amal qiling.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "up to date",
+      "pronunciation_uz": "ap tu deyt",
+      "uzbek": "zamonaviy, yangilangan",
+      "pos": "phr",
+      "example_en": "Keep your software up to date.",
+      "example_uz": "Dasturiy taʼminotingizni doimo yangilab turing.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "word for word",
+      "pronunciation_uz": "voʻrd for voʻrd",
+      "uzbek": "soʻzma-soʻz",
+      "pos": "phr",
+      "example_en": "Do not translate idioms word for word.",
+      "example_uz": "Iboralarni soʻzma-soʻz tarjima qilmang.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "all of a sudden",
+      "pronunciation_uz": "ol of a saden",
+      "uzbek": "toʻsatdan, kutilmaganda",
+      "pos": "phr",
+      "example_en": "All of a sudden, the lights went out.",
+      "example_uz": "Toʻsatdan chiroqlar oʻchib qoldi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "as a result",
+      "pronunciation_uz": "ez a rizalt",
+      "uzbek": "natijada, oqibatda",
+      "pos": "phr",
+      "example_en": "He studied hard; as a result, he won the scholarship.",
+      "example_uz": "U qattiq oʻqidi va natijada stipendiyani qoʻlga kiritdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "as a rule",
+      "pronunciation_uz": "ez a rul",
+      "uzbek": "odatda, qoida tariqasida",
+      "pos": "phr",
+      "example_en": "As a rule, I wake up before six in the morning.",
+      "example_uz": "Qoida tariqasida, ertalab soat oltidan oldin uygʻonaman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "as long as",
+      "pronunciation_uz": "ez long ez",
+      "uzbek": "modomiki, ... sharti bilan",
+      "pos": "phr",
+      "example_en": "You can keep the book as long as you need it.",
+      "example_uz": "Kitob oʻzingizga kerak boʻlguncha sizda turishi mumkin.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "as well as",
+      "pronunciation_uz": "ez vel ez",
+      "uzbek": "shuningdek, hamda",
+      "pos": "phr",
+      "example_en": "She speaks Uzbek as well as English and Russian.",
+      "example_uz": "U oʻzbek tili bilan birga ingliz va rus tillarida ham gapiradi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "at least",
+      "pronunciation_uz": "et list",
+      "uzbek": "kamida, hech boʻlmaganda",
+      "pos": "phr",
+      "example_en": "Drink at least eight glasses of water daily.",
+      "example_uz": "Kuniga kamida sakkiz stakan suv iching.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "at most",
+      "pronunciation_uz": "et moust",
+      "uzbek": "koʻpi bilan, uzogʻi bilan",
+      "pos": "phr",
+      "example_en": "The repair will take two hours at most.",
+      "example_uz": "Taʼmirlash ishi uzogʻi bilan ikki soat vaqt oladi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "at once",
+      "pronunciation_uz": "et vans",
+      "uzbek": "darhol; bir vaqtda",
+      "pos": "phr",
+      "example_en": "Please come to the office at once.",
+      "example_uz": "Iltimos, darhol idoraga keling.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "at random",
+      "pronunciation_uz": "et rendom",
+      "uzbek": "tasodifiy ravishda",
+      "pos": "phr",
+      "example_en": "The teacher picked three names at random.",
+      "example_uz": "Oʻqituvchi tasodifiy ravishda uchta ismni tanladi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "by accident",
+      "pronunciation_uz": "bay eksident",
+      "uzbek": "tasodifan, bilmasdan",
+      "pos": "phr",
+      "example_en": "I deleted the photo by accident.",
+      "example_uz": "Suratni bilmasdan oʻchirib yubordim.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "by all means",
+      "pronunciation_uz": "bay ol minz",
+      "uzbek": "albatta, bemalol",
+      "pos": "phr",
+      "example_en": "May I sit here? — By all means!",
+      "example_uz": "Bu yerga oʻtirsam maylimi? — Albatta, bemalol!",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "by heart",
+      "pronunciation_uz": "bay hart",
+      "uzbek": "yoddan",
+      "pos": "phr",
+      "example_en": "He learned the whole poem by heart.",
+      "example_uz": "U butun sheʼrni yoddan oʻrganib oldi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "by mistake",
+      "pronunciation_uz": "bay misteyk",
+      "uzbek": "yanglishib, adashib",
+      "pos": "phr",
+      "example_en": "Someone took my umbrella by mistake.",
+      "example_uz": "Kimdir adashib mening soyabonimni olib ketibdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "by no means",
+      "pronunciation_uz": "bay nou minz",
+      "uzbek": "aslo, hech qanday holatda",
+      "pos": "phr",
+      "example_en": "This task is by no means easy.",
+      "example_uz": "Bu vazifa aslo oson emas.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "day after day",
+      "pronunciation_uz": "dey after dey",
+      "uzbek": "kundan-kunga, har kuni",
+      "pos": "phr",
+      "example_en": "Day after day, the saplings grew taller.",
+      "example_uz": "Kundan-kunga nihollar boʻy choʻzib bordi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "even so",
+      "pronunciation_uz": "iven sou",
+      "uzbek": "shunday boʻlsa ham",
+      "pos": "phr",
+      "example_en": "The road was long; even so, nobody complained.",
+      "example_uz": "Yoʻl uzoq edi, shunday boʻlsa ham hech kim nolimadi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "even though",
+      "pronunciation_uz": "iven zou",
+      "uzbek": "garchi ... boʻlsa ham",
+      "pos": "phr",
+      "example_en": "He went to work even though he felt tired.",
+      "example_uz": "Charchagan boʻlsa ham, u ishga bordi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "every now and then",
+      "pronunciation_uz": "evri nau end zen",
+      "uzbek": "vaqti-vaqti bilan",
+      "pos": "phr",
+      "example_en": "Every now and then, we organize a family picnic.",
+      "example_uz": "Vaqti-vaqti bilan oilaviy sayr uyushtirib turamiz.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "for good",
+      "pronunciation_uz": "for gud",
+      "uzbek": "butunlay, umrbod",
+      "pos": "phr",
+      "example_en": "They moved to their new house for good.",
+      "example_uz": "Ular yangi uylariga butunlay koʻchib oʻtishdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "for sure",
+      "pronunciation_uz": "for shur",
+      "uzbek": "aniq, shubhasiz",
+      "pos": "phr",
+      "example_en": "One thing is for sure: practice brings fluency.",
+      "example_uz": "Bir narsa aniq: mashq ravonlik keltiradi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "for the sake of",
+      "pronunciation_uz": "for ze seyk of",
+      "uzbek": "uchun, hurmati, yoʻlida",
+      "pos": "phr",
+      "example_en": "Let's work together for the sake of peace.",
+      "example_uz": "Tinchlik yoʻlida birgalikda mehnat qilaylik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "for the time being",
+      "pronunciation_uz": "for ze taym biing",
+      "uzbek": "hozircha, vaqtinchalik",
+      "pos": "phr",
+      "example_en": "You can stay in this room for the time being.",
+      "example_uz": "Hozircha mana shu xonada turishingiz mumkin.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "from scratch",
+      "pronunciation_uz": "from skretch",
+      "uzbek": "noldan boshlab",
+      "pos": "phr",
+      "example_en": "They built the mobile application from scratch.",
+      "example_uz": "Ular mobil ilovani noldan boshlab yaratdilar.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "hand in hand",
+      "pronunciation_uz": "hend in hend",
+      "uzbek": "qoʻlni qoʻlga berib, hamohang",
+      "pos": "phr",
+      "example_en": "Theory and practice always go hand in hand.",
+      "example_uz": "Nazariya va amaliyot doimo hamohang boradi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in a nutshell",
+      "pronunciation_uz": "in a natshel",
+      "uzbek": "qisqacha aytganda, loʻnda qilib",
+      "pos": "phr",
+      "example_en": "That is our business plan in a nutshell.",
+      "example_uz": "Qisqacha aytganda, bizning biznes rejamiz mana shundan iborat.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in a row",
+      "pronunciation_uz": "in a rou",
+      "uzbek": "ketma-ket",
+      "pos": "phr",
+      "example_en": "Our team won five matches in a row.",
+      "example_uz": "Jamoamiz ketma-ket beshta oʻyinda gʻalaba qozondi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in accordance with",
+      "pronunciation_uz": "in ekordans viz",
+      "uzbek": "muvofiq, binoan",
+      "pos": "phr",
+      "example_en": "Act in accordance with the safety rules.",
+      "example_uz": "Xavfsizlik qoidalariga muvofiq harakat qiling.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in comparison with",
+      "pronunciation_uz": "in komperison viz",
+      "uzbek": "bilan solishtirganda",
+      "pos": "phr",
+      "example_en": "In comparison with last year, exports grew by twenty percent.",
+      "example_uz": "Oʻtgan yil bilan solishtirganda eksport yigirma foizga oʻsdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in contrast to",
+      "pronunciation_uz": "in kontrast tu",
+      "uzbek": "dan farqli oʻlaroq",
+      "pos": "phr",
+      "example_en": "In contrast to winter, summer here is very dry.",
+      "example_uz": "Qishdan farqli oʻlaroq, bu yerda yoz juda quruq boʻladi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in demand",
+      "pronunciation_uz": "in dimand",
+      "uzbek": "xaridorgir, talab yuqori",
+      "pos": "phr",
+      "example_en": "Skilled programmers are always in demand.",
+      "example_uz": "Malakali dasturchilarga talab doimo yuqori.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in depth",
+      "pronunciation_uz": "in deps",
+      "uzbek": "chuqur, har tomonlama",
+      "pos": "phr",
+      "example_en": "We studied the historical period in depth.",
+      "example_uz": "Biz u tarixiy davrni chuqur oʻrganib chiqdik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in exchange for",
+      "pronunciation_uz": "in ikscheynj for",
+      "uzbek": "evaziga, badaliga",
+      "pos": "phr",
+      "example_en": "He taught me English in exchange for math lessons.",
+      "example_uz": "U matematika darslari evaziga menga ingliz tilini oʻrgatdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in good shape",
+      "pronunciation_uz": "in gud sheyp",
+      "uzbek": "yaxshi holatda, jismonan tetik",
+      "pos": "phr",
+      "example_en": "Daily swimming keeps him in good shape.",
+      "example_uz": "Kundalik suzish uni yaxshi jismoniy holatda saqlaydi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in honor of",
+      "pronunciation_uz": "in onor of",
+      "uzbek": "sharafiga",
+      "pos": "phr",
+      "example_en": "A concert was held in honor of the teachers.",
+      "example_uz": "Oʻqituvchilar sharafiga konsert dasturi uyushtirildi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in line with",
+      "pronunciation_uz": "in layn viz",
+      "uzbek": "ga mos, uygʻun",
+      "pos": "phr",
+      "example_en": "The new curriculum is in line with modern standards.",
+      "example_uz": "Yangi oʻquv dasturi zamonaviy standartlarga mos.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in need of",
+      "pronunciation_uz": "in nid of",
+      "uzbek": "ga muhtoj",
+      "pos": "phr",
+      "example_en": "The old bridge is in need of repair.",
+      "example_uz": "Eski koʻprik taʼmirga muhtoj.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in order to",
+      "pronunciation_uz": "in order tu",
+      "uzbek": "maqsadida, uchun",
+      "pos": "phr",
+      "example_en": "He woke up early in order to catch the first train.",
+      "example_uz": "Birinchi poyezdga ulgurish uchun u erta uygʻondi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in place of",
+      "pronunciation_uz": "in pleys of",
+      "uzbek": "oʻrniga",
+      "pos": "phr",
+      "example_en": "Use honey in place of refined sugar.",
+      "example_uz": "Tozalangan shakar oʻrniga asal ishlating.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in practice",
+      "pronunciation_uz": "in prektis",
+      "uzbek": "amalda, amaliyotda",
+      "pos": "phr",
+      "example_en": "The idea sounds great, let's see how it works in practice.",
+      "example_uz": "Gʻoya ajoyib eshitiladi, amalda qanday ishlashini koʻraylik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in progress",
+      "pronunciation_uz": "in progres",
+      "uzbek": "jarayonda, davom etmoqda",
+      "pos": "phr",
+      "example_en": "Quiet please, an exam is in progress.",
+      "example_uz": "Iltimos, jim boʻling, imtihon davom etmoqda.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in question",
+      "pronunciation_uz": "in kveschn",
+      "uzbek": "gap ketayotgan, koʻrib chiqilayotgan",
+      "pos": "phr",
+      "example_en": "The document in question was signed yesterday.",
+      "example_uz": "Gap ketayotgan hujjat kecha imzolangan edi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in reach",
+      "pronunciation_uz": "in rich",
+      "uzbek": "qoʻl yetadigan joyda, yaqin",
+      "pos": "phr",
+      "example_en": "Keep a glass of water within reach.",
+      "example_uz": "Bir stakan suvni qoʻl yetadigan joyda saqlang.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in season",
+      "pronunciation_uz": "in sizon",
+      "uzbek": "mavsumida, pishgan payti",
+      "pos": "phr",
+      "example_en": "Melons and watermelons are cheap when in season.",
+      "example_uz": "Qovun va tarvuz oʻz mavsumida arzon boʻladi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in sight",
+      "pronunciation_uz": "in sayt",
+      "uzbek": "koʻrinishda, koʻz oʻngida",
+      "pos": "phr",
+      "example_en": "Not a single cloud was in sight.",
+      "example_uz": "Osmonda bitta ham bulut koʻrinmasdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in stock",
+      "pronunciation_uz": "in stok",
+      "uzbek": "omborda mavjud, sotuvda bor",
+      "pos": "phr",
+      "example_en": "Is this dictionary currently in stock?",
+      "example_uz": "Ushbu lugʻat hozir sotuvda bormi?",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in tears",
+      "pronunciation_uz": "in tirz",
+      "uzbek": "koʻzda yosh bilan",
+      "pos": "phr",
+      "example_en": "She laughed until she was in tears.",
+      "example_uz": "U koʻzidan yosh chiqquncha kuldi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in the long run",
+      "pronunciation_uz": "in ze long ran",
+      "uzbek": "uzoq muddatda, kelajakda",
+      "pos": "phr",
+      "example_en": "Quality education pays off in the long run.",
+      "example_uz": "Sifatli taʼlim uzoq muddatda albatta oʻz mevasini beradi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in the mood",
+      "pronunciation_uz": "in ze mud",
+      "uzbek": "kayfiyatda, xohishda",
+      "pos": "phr",
+      "example_en": "I am in the mood for a quiet evening walk.",
+      "example_uz": "Tinch kechki sayr qilish kayfiyatidaman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in theory",
+      "pronunciation_uz": "in siori",
+      "uzbek": "nazariy jihatdan",
+      "pos": "phr",
+      "example_en": "In theory, the machine should run without noise.",
+      "example_uz": "Nazariy jihatdan, qurilma shovqinsiz ishlashi kerak.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "in turn",
+      "pronunciation_uz": "in toʻrn",
+      "uzbek": "oʻz navbatida",
+      "pos": "phr",
+      "example_en": "Each student read a paragraph in turn.",
+      "example_uz": "Har bir oʻquvchi oʻz navbatida bittadan xatboshini oʻqidi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "inside out",
+      "pronunciation_uz": "insayd aut",
+      "uzbek": "teskari (ichini tashqariga qilib); ipidan ignasigacha",
+      "pos": "phr",
+      "example_en": "He knows the city streets inside out.",
+      "example_uz": "U shahar koʻchalarini besh qoʻldek biladi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "just in case",
+      "pronunciation_uz": "jast in keys",
+      "uzbek": "har ehtimolga qarshi",
+      "pos": "phr",
+      "example_en": "Write down the phone number just in case.",
+      "example_uz": "Har ehtimolga qarshi telefon raqamni yozib oling.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "make sense of",
+      "pronunciation_uz": "meyk sens of",
+      "uzbek": "tushunib yetmoq, maʼnosini anglamoq",
+      "pos": "phr",
+      "example_en": "Can you make sense of this ancient inscription?",
+      "example_uz": "Ushbu qadimiy yozuvning maʼnosini anglay olasizmi?",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "more and more",
+      "pronunciation_uz": "mor end mor",
+      "uzbek": "tobora koʻproq",
+      "pos": "phr",
+      "example_en": "More and more young people are learning foreign languages.",
+      "example_uz": "Tobora koʻproq yoshlar xorijiy tillarni oʻrganmoqdalar.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "neither here nor there",
+      "pronunciation_uz": "nayzer hir nor zeyr",
+      "uzbek": "ahamiyatsiz, mavzuga aloqasiz",
+      "pos": "phr",
+      "example_en": "That detail is neither here nor there.",
+      "example_uz": "U tafsilotning hozirgi mavzuga aloqasi yoʻq.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "next to nothing",
+      "pronunciation_uz": "nekst tu nasing",
+      "uzbek": "deyarli hech narsa, juda arzon",
+      "pos": "phr",
+      "example_en": "They bought the old bicycle for next to nothing.",
+      "example_uz": "Ular eski velosipedni suv tekinga sotib olishdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "off duty",
+      "pronunciation_uz": "of dyuti",
+      "uzbek": "ishdan tashqari vaqtda, navbatchilikda emas",
+      "pos": "phr",
+      "example_en": "The doctor is off duty this Sunday.",
+      "example_uz": "Shifokor bu yakshanba kuni navbatchilikda emas.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on duty",
+      "pronunciation_uz": "on dyuti",
+      "uzbek": "navbatchilikda, xizmat vaqtida",
+      "pos": "phr",
+      "example_en": "Two nurses are on duty tonight.",
+      "example_uz": "Bugun tunda ikkita hamshira navbatchilikda.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on a regular basis",
+      "pronunciation_uz": "on a regyular beysis",
+      "uzbek": "muntazam ravishda",
+      "pos": "phr",
+      "example_en": "Back up your computer files on a regular basis.",
+      "example_uz": "Kompyuter fayllaringizdan muntazam ravishda nusxa olib turing.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on board",
+      "pronunciation_uz": "on bord",
+      "uzbek": "bortda (kema yoki samolyotda)",
+      "pos": "phr",
+      "example_en": "All passengers are now on board.",
+      "example_uz": "Barcha yoʻlovchilar hozir samolyot bortida.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on condition that",
+      "pronunciation_uz": "on kondishn zet",
+      "uzbek": "... sharti bilan",
+      "pos": "phr",
+      "example_en": "You can go out on condition that you finish homework first.",
+      "example_uz": "Avval uy vazifani tugatish sharti bilan koʻchaga chiqishingiz mumkin.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on display",
+      "pronunciation_uz": "on displey",
+      "uzbek": "koʻrgazmada, namoyishda",
+      "pos": "phr",
+      "example_en": "Ancient coins are on display at the museum.",
+      "example_uz": "Muzeyda qadimiy tangalar namoyishga qoʻyilgan.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on fire",
+      "pronunciation_uz": "on fayer",
+      "uzbek": "yonayotgan; ilhomga toʻlgan",
+      "pos": "phr",
+      "example_en": "Our goalkeeper was on fire during the final match.",
+      "example_uz": "Final oʻyinida darvozabonimiz ajoyib oʻyin koʻrsatdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on good terms",
+      "pronunciation_uz": "on gud toʻrmz",
+      "uzbek": "yaxshi munosabatda, ahil",
+      "pos": "phr",
+      "example_en": "We have always been on good terms with our neighbors.",
+      "example_uz": "Qoʻshnilarimiz bilan doimo ahil munosabatda boʻlganmiz.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on schedule",
+      "pronunciation_uz": "on skejul",
+      "uzbek": "jadval boʻyicha, oʻz vaqtida",
+      "pos": "phr",
+      "example_en": "Construction of the new metro line is on schedule.",
+      "example_uz": "Yangi metro liniyasi qurilishi jadval boʻyicha ketmoqda.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on second thought",
+      "pronunciation_uz": "on sekond sot",
+      "uzbek": "yaxshilab oʻylab koʻrgach",
+      "pos": "phr",
+      "example_en": "On second thought, let's take the morning train.",
+      "example_uz": "Yaxshilab oʻylab koʻrgach, keling, ertalabki poyezdga chiqaylik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on strike",
+      "pronunciation_uz": "on strayk",
+      "uzbek": "ish tashlashda",
+      "pos": "phr",
+      "example_en": "Transport workers went on strike for better pay.",
+      "example_uz": "Transport xodimlari maoshni oshirish talabi bilan ish tashlashdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on the brink of",
+      "pronunciation_uz": "on ze brink of",
+      "uzbek": "yoqasida, arafasida",
+      "pos": "phr",
+      "example_en": "Scientists are on the brink of an important discovery.",
+      "example_uz": "Olimlar muhim kashfiyot arafasida turibdilar.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on the contrary",
+      "pronunciation_uz": "on ze kontreri",
+      "uzbek": "aksincha, teskarisi",
+      "pos": "phr",
+      "example_en": "The test was not easy; on the contrary, it was quite hard.",
+      "example_uz": "Test oson boʻlmadi, aksincha, ancha murakkab edi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on the point of",
+      "pronunciation_uz": "on ze poynt of",
+      "uzbek": "ayni ... arafasida",
+      "pos": "phr",
+      "example_en": "I was on the point of leaving when you called.",
+      "example_uz": "Siz qoʻngʻiroq qilganingizda uydan chiqay deb turgandim.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on the spot",
+      "pronunciation_uz": "on ze spot",
+      "uzbek": "shu joyning oʻzida, darhol",
+      "pos": "phr",
+      "example_en": "They made the decision right on the spot.",
+      "example_uz": "Ular qarorni shu joyning oʻzidayoq qabul qilishdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on the way",
+      "pronunciation_uz": "on ze vey",
+      "uzbek": "yoʻlda",
+      "pos": "phr",
+      "example_en": "I am on the way home right now.",
+      "example_uz": "Hozir uyga qaytish yoʻlidaman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "on tiptoe",
+      "pronunciation_uz": "on tiptou",
+      "uzbek": "oyoq uchida",
+      "pos": "phr",
+      "example_en": "She walked into the room on tiptoe so as not to wake the baby.",
+      "example_uz": "Chaqaloqni uygʻotib yubormaslik uchun u xonaga oyoq uchida kirdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "once and for all",
+      "pronunciation_uz": "vans end for ol",
+      "uzbek": "uzil-kesil, biratoʻla",
+      "pos": "phr",
+      "example_en": "Let's solve this technical issue once and for all.",
+      "example_uz": "Ushbu texnik muammoni uzil-kesil hal qilaylik.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "once in a while",
+      "pronunciation_uz": "vans in a vayl",
+      "uzbek": "onda-sonda, baʼzan",
+      "pos": "phr",
+      "example_en": "Once in a while, it is nice to travel to the mountains.",
+      "example_uz": "Onda-sonda togʻga sayohatga chiqish juda yoqimli.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of breath",
+      "pronunciation_uz": "aut of bres",
+      "uzbek": "hansirab, nafasi tiqilib",
+      "pos": "phr",
+      "example_en": "He reached the top floor out of breath.",
+      "example_uz": "U yuqori qavatga hansirab chiqib bordi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of control",
+      "pronunciation_uz": "aut of kontroul",
+      "uzbek": "nazoratdan chiqqan",
+      "pos": "phr",
+      "example_en": "The strong wind made the fire go out of control.",
+      "example_uz": "Kuchli shamol olovni nazoratdan chiqarib yubordi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of danger",
+      "pronunciation_uz": "aut of deynjer",
+      "uzbek": "xavfdan xoli",
+      "pos": "phr",
+      "example_en": "The doctor said the patient is now out of danger.",
+      "example_uz": "Shifokor bemor endi xavfdan xoli ekanini aytdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of doors",
+      "pronunciation_uz": "aut of dorz",
+      "uzbek": "ochiq havoda, tashqarida",
+      "pos": "phr",
+      "example_en": "Children love spending summer days out of doors.",
+      "example_uz": "Bolalar yoz kunlarini ochiq havoda oʻtkazishni yaxshi koʻradilar.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of luck",
+      "pronunciation_uz": "aut of lak",
+      "uzbek": "omadi chopmagan",
+      "pos": "phr",
+      "example_en": "We were out of luck; the last ticket had just been sold.",
+      "example_uz": "Omadimiz chopmadi, oxirgi chipta hozirgina sotilib ketibdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of Mind",
+      "pronunciation_uz": "aut of maynd",
+      "uzbek": "yoddan koʻtarilgan",
+      "pos": "phr",
+      "example_en": "Out of sight, out of mind.",
+      "example_uz": "Koʻzdan uzoq — koʻngildan uzoq.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of place",
+      "pronunciation_uz": "aut of pleys",
+      "uzbek": "nooʻrin, oʻz joyida emas",
+      "pos": "phr",
+      "example_en": "One chair looked out of place in the hall.",
+      "example_uz": "Zalda bitta stul oʻz joyida turmagandek koʻrindi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of practice",
+      "pronunciation_uz": "aut of prektis",
+      "uzbek": "mashq qilmay qoʻygan, koʻnikmasi susaygan",
+      "pos": "phr",
+      "example_en": "I used to play chess well, but I am out of practice now.",
+      "example_uz": "Avval shaxmatni yaxshi oʻynardim, lekin hozir mashq qilmay qoʻyganman.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of reach",
+      "pronunciation_uz": "aut of rich",
+      "uzbek": "qoʻl yetmaydigan joyda",
+      "pos": "phr",
+      "example_en": "Keep all medicines out of reach of children.",
+      "example_uz": "Barcha dorilarni bolalar qoʻli yetmaydigan joyda saqlang.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "out of work",
+      "pronunciation_uz": "aut of voʻrk",
+      "uzbek": "ishsiz",
+      "pos": "phr",
+      "example_en": "He was out of work for two months before finding a new job.",
+      "example_uz": "Yangi ish topgunicha u ikki oy ishsiz yurdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "over and over",
+      "pronunciation_uz": "ouver end ouver",
+      "uzbek": "qayta-qayta, takror-takror",
+      "pos": "phr",
+      "example_en": "Listen to the pronunciation over and over.",
+      "example_uz": "Talaffuzni qayta-qayta tinglang.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "prior to",
+      "pronunciation_uz": "prayer tu",
+      "uzbek": "dan oldin, muqaddam",
+      "pos": "phr",
+      "example_en": "Arrive at the gate thirty minutes prior to departure.",
+      "example_uz": "Uchishdan oʻttiz daqiqa oldin chiqish darvozasiga yetib boring.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "regardless of",
+      "pronunciation_uz": "rigardles of",
+      "uzbek": "dan qatʼi nazar",
+      "pos": "phr",
+      "example_en": "Everyone has equal rights regardless of background.",
+      "example_uz": "Kelib chiqishidan qatʼi nazar, hamma teng huquqlidir.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "round the clock",
+      "pronunciation_uz": "raund ze klok",
+      "uzbek": "tunu kun, 24 soat",
+      "pos": "phr",
+      "example_en": "Doctors at the emergency ward work round the clock.",
+      "example_uz": "Tez yordam boʻlimidagi shifokorlar tunu kun ishlaydilar.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "second to none",
+      "pronunciation_uz": "sekond tu nan",
+      "uzbek": "tengsiz, eng aʼlo",
+      "pos": "phr",
+      "example_en": "Samarkand hospitality is second to none.",
+      "example_uz": "Samarqand mehmondoʻstligi tengsizdir.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "Take it easy",
+      "pronunciation_uz": "teyk it izi",
+      "uzbek": "oʻzingizni bosing, xotirjam boʻling",
+      "pos": "phr",
+      "example_en": "Take it easy, we still have plenty of time.",
+      "example_uz": "Xotirjam boʻling, hali vaqtimiz juda koʻp.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "under control",
+      "pronunciation_uz": "ander kontroul",
+      "uzbek": "nazorat ostida",
+      "pos": "phr",
+      "example_en": "Everything in the kitchen is under control.",
+      "example_uz": "Oshxonada hamma narsa nazorat ostida.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "under construction",
+      "pronunciation_uz": "ander konstrakshn",
+      "uzbek": "qurilmoqda, taʼmirlanmoqda",
+      "pos": "phr",
+      "example_en": "The new sports complex is still under construction.",
+      "example_uz": "Yangi sport majmuasi hali ham qurilmoqda.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "under pressure",
+      "pronunciation_uz": "ander presher",
+      "uzbek": "bosim ostida",
+      "pos": "phr",
+      "example_en": "He stays calm even when working under pressure.",
+      "example_uz": "U hatto bosim ostida ishlaganda ham xotirjamlikni saqlaydi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "up and down",
+      "pronunciation_uz": "ap end daun",
+      "uzbek": "u yoqdan bu yoqqa; yuqoriga-pastga",
+      "pos": "phr",
+      "example_en": "He walked up and down the corridor waiting for news.",
+      "example_uz": "Yangilik kutib yoʻlakda u yoqdan bu yoqqa yurdi.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "upside down",
+      "pronunciation_uz": "apsayd daun",
+      "uzbek": "ostin-ustun, teskari",
+      "pos": "phr",
+      "example_en": "You are holding the map upside down!",
+      "example_uz": "Xaritani teskari ushlab turibsiz!",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    },
+    {
+      "english": "with respect to",
+      "pronunciation_uz": "viz rispekt tu",
+      "uzbek": "ga nisbatan, boʻyicha",
+      "pos": "phr",
+      "example_en": "With respect to your question, here is the full report.",
+      "example_uz": "Savolingiz boʻyicha toʻliq hisobot mana shu yerda.",
+      "category": "Jonli muloqot iboralari (Spoken English)"
+    }
+  ]
+}

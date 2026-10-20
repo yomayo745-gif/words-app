@@ -1,0 +1,1447 @@
+{
+  "title": "Taomlar, pishirish va restoran",
+  "category": "Cooking, Dishes & Restaurant",
+  "group": "topic",
+  "words": [
+    {
+      "english": "simmer",
+      "pronunciation_uz": "simmer",
+      "uzbek": "past olovda miltillatib qaynatmoq",
+      "pos": "verb",
+      "example_en": "Let the meat broth simmer gently for two hours.",
+      "example_uz": "Goʻsht qaynatmasini ikki soat davomida past olovda miltillatib qaynating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "stew",
+      "pronunciation_uz": "styu",
+      "uzbek": "dimlamoq; dimlama",
+      "pos": "verb",
+      "example_en": "We stewed the beef with vegetables in a heavy pot.",
+      "example_uz": "Biz mol goʻshtini sabzavotlar bilan qalin qozonda dimladik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "steam",
+      "pronunciation_uz": "stim",
+      "uzbek": "bugʻda pishirmoq",
+      "pos": "verb",
+      "example_en": "Manti dumplings are steamed over boiling water.",
+      "example_uz": "Manti qaynayotgan suv bugʻida pishiriladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "roast",
+      "pronunciation_uz": "roust",
+      "uzbek": "duxovkada yoki qoʻrada qovurib pishirmoq",
+      "pos": "verb",
+      "example_en": "They roasted a whole chicken with herbs and garlic.",
+      "example_uz": "Ular butun tovuqni koʻkatlar va sarimsoq bilan duxovkada pishirishdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "grill",
+      "pronunciation_uz": "gril",
+      "uzbek": "grilda, qoʻrada pishirmoq",
+      "pos": "verb",
+      "example_en": "We grilled marinated lamb skewers over hot charcoal.",
+      "example_uz": "Biz marinadlangan qoʻy goʻshti kaboblarini choʻgʻ ustida pishirdik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "broil",
+      "pronunciation_uz": "broyl",
+      "uzbek": "ochiq olovda yoki yuqori haroratda qovurmoq",
+      "pos": "verb",
+      "example_en": "Broil the fish fillets for five minutes on each side.",
+      "example_uz": "Baliq filesini har ikki tomonidan besh daqiqadan qizdirib pishiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "braise",
+      "pronunciation_uz": "breyz",
+      "uzbek": "qovurib keyin oz suvda dimlamoq",
+      "pos": "verb",
+      "example_en": "Braise the short ribs until the meat is fork-tender.",
+      "example_uz": "Qovurgʻalarni goʻshti sanchqi botadigan darajada yumshaguncha dimlab pishiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "poach",
+      "pronunciation_uz": "pouch",
+      "uzbek": "qaynoq suvda ohista pishirmoq",
+      "pos": "verb",
+      "example_en": "She poached two eggs in simmering water for breakfast.",
+      "example_uz": "U nonushtaga qaynab turgan suvda ikkita tuxumni chaqib pishirdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "blanch",
+      "pronunciation_uz": "blench",
+      "uzbek": "qaynoq suvga botirib olmoq",
+      "pos": "verb",
+      "example_en": "Blanch the tomatoes so their skins peel off easily.",
+      "example_uz": "Pomidor poʻsti oson archilishi uchun ularni qaynoq suvga botirib oling.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "marinate",
+      "pronunciation_uz": "merineyt",
+      "uzbek": "marinadlamoq, sirkalab qoʻymoq",
+      "pos": "verb",
+      "example_en": "Marinate the meat with onions and spices before grilling.",
+      "example_uz": "Kabob pishirishdan oldin goʻshtni piyoz va ziravorlar bilan marinadlang.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pickle",
+      "pronunciation_uz": "pikl",
+      "uzbek": "tuzlamoq; tuzlama",
+      "pos": "verb",
+      "example_en": "In autumn we pickle crunchy cucumbers in glass jars.",
+      "example_uz": "Kuzda biz qarsildoq bodringlarni shisha bankalarda tuzlaymiz.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "ferment",
+      "pronunciation_uz": "ferment",
+      "uzbek": "bijgʻitmoq, ivitmoq",
+      "pos": "verb",
+      "example_en": "Warm milk is left overnight to ferment into yogurt.",
+      "example_uz": "Iliq sut qatiq boʻlib ivishi uchun tun boʻyi qoldiriladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "dice",
+      "pronunciation_uz": "days",
+      "uzbek": "kubik qilib toʻgʻramoq",
+      "pos": "verb",
+      "example_en": "Dice the boiled potatoes for the winter salad.",
+      "example_uz": "Qishki salat uchun qaynatilgan kartoshkani kubik qilib toʻgʻrang.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "mince",
+      "pronunciation_uz": "mins",
+      "uzbek": "qiymalamoq, juda mayda toʻgʻramoq",
+      "pos": "verb",
+      "example_en": "Mince the fresh garlic with a sharp chef's knife.",
+      "example_uz": "Yangi sarimsoqni oshpazning oʻtkir pichogʻi bilan maydalab toʻgʻrang.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "grate",
+      "pronunciation_uz": "greyt",
+      "uzbek": "qirgʻichdan chiqarmoq",
+      "pos": "verb",
+      "example_en": "Grate the hard cheese over the hot pasta.",
+      "example_uz": "Issiq makaron ustiga qattiq pishloqni qirgʻichdan chiqaring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "mash",
+      "pronunciation_uz": "mesh",
+      "uzbek": "ezmoq, pyure qilmoq",
+      "pos": "verb",
+      "example_en": "Mash the hot potatoes with butter and warm milk.",
+      "example_uz": "Issiq kartoshkani sariyogʻ va iliq sut bilan ezib pyure qiling.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "grind",
+      "pronunciation_uz": "graynd",
+      "uzbek": "maydalamoq, tuyib kukun qilmoq",
+      "pos": "verb",
+      "example_en": "Grind the black peppercorns right before serving.",
+      "example_uz": "Tortishdan oldin qora murch donalarini yanchib seping.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "crush",
+      "pronunciation_uz": "krash",
+      "uzbek": "ezmoq, tuyib maydalamoq",
+      "pos": "verb",
+      "example_en": "Crush the walnuts in a wooden mortar.",
+      "example_uz": "Yongʻoqlarni yogʻoch hovonchada tuyib maydalang.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "knead",
+      "pronunciation_uz": "nid",
+      "uzbek": "xamir qormoq, mushtlamoq",
+      "pos": "verb",
+      "example_en": "Knead the flour and water into a smooth dough.",
+      "example_uz": "Un va suvni silliq xamir boʻlguncha mushtlab qoring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "roll out",
+      "pronunciation_uz": "roul aut",
+      "uzbek": "xamir yoymoq",
+      "pos": "verb",
+      "example_en": "Roll out the dough thinly with a wooden rolling pin.",
+      "example_uz": "Xamirni yogʻoch oʻqlov bilan yupqa qilib yoying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sift",
+      "pronunciation_uz": "sift",
+      "uzbek": "elamoq, elakdan oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "Always sift the flour before baking a sponge cake.",
+      "example_uz": "Biskvit pishirishdan oldin har doim unni elakdan oʻtkazing.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "stir",
+      "pronunciation_uz": "styor",
+      "uzbek": "aralashtirmoq, kovlamoq",
+      "pos": "verb",
+      "example_en": "Stir the soup with a wooden spoon so it doesn't stick.",
+      "example_uz": "Shoʻrva tagiga olmasligi uchun uni yogʻoch qoshiq bilan kovlab turing.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "whisk",
+      "pronunciation_uz": "visk",
+      "uzbek": "koʻpirtirmoq; venchik",
+      "pos": "verb",
+      "example_en": "Whisk the eggs and milk together in a deep bowl.",
+      "example_uz": "Tuxum va sutni chuqur kosada birga koʻpirtiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "blend",
+      "pronunciation_uz": "blend",
+      "uzbek": "aralashtirmoq, blenderda maydalamoq",
+      "pos": "verb",
+      "example_en": "Blend the strawberries and bananas into a smooth drink.",
+      "example_uz": "Qulupnay va bananni silliq ichimlik boʻlguncha blenderda aralashtiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pour",
+      "pronunciation_uz": "por",
+      "uzbek": "quymoq",
+      "pos": "verb",
+      "example_en": "Pour hot green tea into the guest's teacup.",
+      "example_uz": "Mehmonning piyolasiga issiq koʻk choy quying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "drain off",
+      "pronunciation_uz": "dreyn of",
+      "uzbek": "suvini suzib toʻkmoq",
+      "pos": "verb",
+      "example_en": "Drain off the hot water after the noodles are cooked.",
+      "example_uz": "Ugra pishgandan keyin qaynoq suvini suzib toʻking.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "strain",
+      "pronunciation_uz": "streyn",
+      "uzbek": "suzmoq, suzgichdan oʻtkazmoq",
+      "pos": "verb",
+      "example_en": "Strain the clear broth through a fine mesh sieve.",
+      "example_uz": "Tiniq qaynatmani mayda koʻzli suzgichdan oʻtkazing.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sprinkle",
+      "pronunciation_uz": "sprinkl",
+      "uzbek": "sepmoq",
+      "pos": "verb",
+      "example_en": "Sprinkle powdered sugar over the warm pastries.",
+      "example_uz": "Issiq pishiriqlar ustiga qand upasi seping.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "spread",
+      "pronunciation_uz": "spred",
+      "uzbek": "surtmoq",
+      "pos": "verb",
+      "example_en": "Spread apricot jam over the buttered toast.",
+      "example_uz": "Sariyogʻli non ustiga oʻrik murabbosi surting.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "stuff",
+      "pronunciation_uz": "staf",
+      "uzbek": "ichini toʻldirmoq, qiymalamoq",
+      "pos": "verb",
+      "example_en": "We stuffed the grape leaves with seasoned rice and meat.",
+      "example_uz": "Biz tok barglari ichiga ziravorli guruch va goʻsht solib oʻradik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "dip",
+      "pronunciation_uz": "dip",
+      "uzbek": "botirmoq",
+      "pos": "verb",
+      "example_en": "Dip the hot tandoor bread into the rich meat juices.",
+      "example_uz": "Issiq tandir nonni mazali goʻsht seliga botiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "thaw",
+      "pronunciation_uz": "so",
+      "uzbek": "muzdan tushirmoq, eritmoq",
+      "pos": "verb",
+      "example_en": "Take the meat out of the freezer so it can thaw.",
+      "example_uz": "Goʻsht muzdan tushishi uchun uni muzlatkichdan olib qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "preheat",
+      "pronunciation_uz": "prihit",
+      "uzbek": "oldindan qizdirmoq",
+      "pos": "verb",
+      "example_en": "Preheat the oven to two hundred degrees Celsius.",
+      "example_uz": "Duxovkani Selsiy boʻyicha ikki yuz darajagacha oldindan qizdiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "garnish",
+      "pronunciation_uz": "garnish",
+      "uzbek": "bezatmoq (taomni)",
+      "pos": "verb",
+      "example_en": "Garnish the platter of pilaf with quail eggs and herbs.",
+      "example_uz": "Palov suzilgan laganni bedana tuxumi va koʻkatlar bilan bezating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "carve",
+      "pronunciation_uz": "karv",
+      "uzbek": "kesmoq (pishgan goʻshtni)",
+      "pos": "verb",
+      "example_en": "The host carved the roast turkey at the table.",
+      "example_uz": "Mezbon dasturxon boshida pishgan kurkani boʻlaklarga kesdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "stove",
+      "pronunciation_uz": "stouv",
+      "uzbek": "oshxona plitasi, pechka",
+      "pos": "noun",
+      "example_en": "Turn off the gas stove as soon as the kettle boils.",
+      "example_uz": "Choynak qaynashi bilan gaz plitasini oʻchiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "oven",
+      "pronunciation_uz": "avn",
+      "uzbek": "duxovka, tandir, pech",
+      "pos": "noun",
+      "example_en": "The aroma of baking samsa filled the kitchen from the oven.",
+      "example_uz": "Duxovkadan chiqqan somsa hidi oshxonani toʻldirdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "microwave",
+      "pronunciation_uz": "maykroveyv",
+      "uzbek": "mikrotoʻlqinli pech",
+      "pos": "noun",
+      "example_en": "Heat up the leftover soup in the microwave.",
+      "example_uz": "Ortib qolgan shoʻrvani mikrotoʻlqinli pechda isitib oling.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "toaster",
+      "pronunciation_uz": "touster",
+      "uzbek": "toster, non qizdirgich",
+      "pos": "noun",
+      "example_en": "Two slices of crisp bread popped up from the toaster.",
+      "example_uz": "Tosterdan ikki boʻlak qarsildoq non otilib chiqdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "blender",
+      "pronunciation_uz": "blender",
+      "uzbek": "blender",
+      "pos": "noun",
+      "example_en": "Puree the cooked pumpkin soup in a blender.",
+      "example_uz": "Pishgan oshqovoq shoʻrvasini blenderda pyure holiga keltiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "mixer",
+      "pronunciation_uz": "mikser",
+      "uzbek": "mikser",
+      "pos": "noun",
+      "example_en": "Use an electric mixer to beat the cream until fluffy.",
+      "example_uz": "Qaymoqni koʻpik boʻlguncha koʻpirtirish uchun elektr mikser ishlating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "kettle",
+      "pronunciation_uz": "ketl",
+      "uzbek": "suv qaynatadigan choynak, qumgʻon",
+      "pos": "noun",
+      "example_en": "Put the metal kettle on the burner to make tea.",
+      "example_uz": "Choy damlash uchun temir choynakni olovga qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "teapot",
+      "pronunciation_uz": "tipot",
+      "uzbek": "choy damlaydigan choynak",
+      "pos": "noun",
+      "example_en": "Rinse the porcelain teapot with boiling water first.",
+      "example_uz": "Avval chinni choynakni qaynoq suv bilan chayib oling.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "cauldron",
+      "pronunciation_uz": "koldron",
+      "uzbek": "katta qozon, doshqozon",
+      "pos": "noun",
+      "example_en": "Festive pilaf is cooked in a heavy cast-iron cauldron.",
+      "example_uz": "Bayram palovi ogʻir choʻyan qozonda pishiriladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pot",
+      "pronunciation_uz": "pot",
+      "uzbek": "qozoncha, kastryulka",
+      "pos": "noun",
+      "example_en": "Cover the pot with a lid so the water boils faster.",
+      "example_uz": "Suv tezroq qaynashi uchun kastryulkani qopqoq bilan yoping.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "saucepan",
+      "pronunciation_uz": "sospen",
+      "uzbek": "dastali kastryulka, qozoncha",
+      "pos": "noun",
+      "example_en": "Heat the milk gently in a small saucepan.",
+      "example_uz": "Sutni kichik dastali kastryulkada ohista isiting.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "frying pan",
+      "pronunciation_uz": "fraying pen",
+      "uzbek": "tova, skovorodka",
+      "pos": "noun",
+      "example_en": "Pour a little sunflower oil into the frying pan.",
+      "example_uz": "Tovaga ozgina kungaboqar yogʻi quying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "skillet",
+      "pronunciation_uz": "skillet",
+      "uzbek": "choʻyan tova",
+      "pos": "noun",
+      "example_en": "A heavy cast-iron skillet holds heat evenly.",
+      "example_uz": "Ogʻir choʻyan tova issiqlikni bir tekis ushlab turadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "lid",
+      "pronunciation_uz": "lid",
+      "uzbek": "qopqoq",
+      "pos": "noun",
+      "example_en": "Lift the glass lid carefully to avoid hot steam.",
+      "example_uz": "Issiq bugʻdan kuyib qolmaslik uchun shisha qopqoqni ehtiyot boʻlib oching.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "ladle",
+      "pronunciation_uz": "leydl",
+      "uzbek": "choʻmich",
+      "pos": "noun",
+      "example_en": "Use a deep ladle to serve the hot soup into bowls.",
+      "example_uz": "Issiq shoʻrvani kosalarga suzish uchun chuqur choʻmich ishlating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "spatula",
+      "pronunciation_uz": "spetyula",
+      "uzbek": "oshxona kurakchasi, kapgir",
+      "pos": "noun",
+      "example_en": "Flip the pancakes over with a flat spatula.",
+      "example_uz": "Quymoqlarni yassi kurakcha bilan agʻdaring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "skimmer",
+      "pronunciation_uz": "skimmer",
+      "uzbek": "chovli, kapgir",
+      "pos": "noun",
+      "example_en": "Lift the boiled dumplings out with a slotted skimmer.",
+      "example_uz": "Pishgan chuchvaralarni teshikchali chovli bilan suzib oling.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "tongs",
+      "pronunciation_uz": "tongz",
+      "uzbek": "oshxona qisqichi",
+      "pos": "noun",
+      "example_en": "Turn the grilling meat with metal tongs.",
+      "example_uz": "Grilda pishayotgan goʻshtni temir qisqich bilan aylantiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "grater",
+      "pronunciation_uz": "greyter",
+      "uzbek": "qirgʻich",
+      "pos": "noun",
+      "example_en": "Shred the carrots on the coarse side of the grater.",
+      "example_uz": "Sabzini qirgʻichning yirik tishli tomonidan oʻtkazing.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "peeler",
+      "pronunciation_uz": "piler",
+      "uzbek": "poʻstarchgich, sabzavot tozalagich",
+      "pos": "noun",
+      "example_en": "Use a vegetable peeler to remove the thin potato skin.",
+      "example_uz": "Kartoshkaning yupqa poʻstini olish uchun poʻstarchgich ishlating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "colander",
+      "pronunciation_uz": "kolander",
+      "uzbek": "chovli, suzgich (makaron/meva uchun)",
+      "pos": "noun",
+      "example_en": "Wash the cherries in a plastic colander under running water.",
+      "example_uz": "Gilosni oqar suv ostida plastik suzgichda yuving.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sieve",
+      "pronunciation_uz": "siv",
+      "uzbek": "elak, suzgich",
+      "pos": "noun",
+      "example_en": "Pass the flour through a fine wire sieve.",
+      "example_uz": "Unni mayda sim elakdan oʻtkazing.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "rolling pin",
+      "pronunciation_uz": "rouling pin",
+      "uzbek": "oʻqlov, joʻva",
+      "pos": "noun",
+      "example_en": "Dust the wooden rolling pin with flour so dough won't stick.",
+      "example_uz": "Xamir yopishmasligi uchun yogʻoch oʻqlovga un seping.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "chopping board",
+      "pronunciation_uz": "chopping bord",
+      "uzbek": "taxtakach, goʻsht va sabzavot taxtasi",
+      "pos": "noun",
+      "example_en": "Use a separate chopping board for raw meat.",
+      "example_uz": "Xom goʻsht uchun alohida taxtakach ishlating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "mortar",
+      "pronunciation_uz": "mortar",
+      "uzbek": "hovoncha, oʻgʻir",
+      "pos": "noun",
+      "example_en": "Spices taste fresher when crushed in a stone mortar.",
+      "example_uz": "Ziravorlar tosh hovonchada tuyilganda xushboʻyroq boʻladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "corkscrew",
+      "pronunciation_uz": "korkskru",
+      "uzbek": "shtopor, tiqin ochgich",
+      "pos": "noun",
+      "example_en": "We needed a corkscrew to pull the cork from the bottle.",
+      "example_uz": "Shisha tiqinini sugʻurib olish uchun bizga shtopor kerak boʻldi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "can opener",
+      "pronunciation_uz": "ken oupener",
+      "uzbek": "konserva ochgich",
+      "pos": "noun",
+      "example_en": "Open the tin of green peas with a can opener.",
+      "example_uz": "Koʻk noʻxat konservasini konserva ochgich bilan oching.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "thermos",
+      "pronunciation_uz": "termos",
+      "uzbek": "termos",
+      "pos": "noun",
+      "example_en": "We packed a thermos of hot ginger tea for the hike.",
+      "example_uz": "Togʻ sayri uchun termosda issiq zanjabilli choy oldik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "oven mitt",
+      "pronunciation_uz": "avn mit",
+      "uzbek": "issiq tutqich qoʻlqop",
+      "pos": "noun",
+      "example_en": "Wear thick oven mitts when pulling the tray from the oven.",
+      "example_uz": "Patnisni duxovkadan olayotganda qalin qoʻlqop kiying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "tray",
+      "pronunciation_uz": "trey",
+      "uzbek": "patnis, podnos",
+      "pos": "noun",
+      "example_en": "The waiter carried a heavy tray of teapots and bowls.",
+      "example_uz": "Ofitsiant choynak va kosalar qoʻyilgan ogʻir patnisni koʻtarib keldi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "platter",
+      "pronunciation_uz": "pletter",
+      "uzbek": "lagan, katta yassi tovoq",
+      "pos": "noun",
+      "example_en": "Steaming pilaf was served on a painted ceramic platter.",
+      "example_uz": "Bugʻi chiqib turgan palov naqshinkor sopol laganda tortildi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "saucer",
+      "pronunciation_uz": "soser",
+      "uzbek": "likopcha (choynak yoki finjon tagligi)",
+      "pos": "noun",
+      "example_en": "Place the teacup carefully on its matching saucer.",
+      "example_uz": "Finjonni oʻziga mos likopcha ustiga ehtiyot boʻlib qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "mug",
+      "pronunciation_uz": "mag",
+      "uzbek": "krujka, katta finjon",
+      "pos": "noun",
+      "example_en": "He drank a large mug of hot cocoa.",
+      "example_uz": "U katta krujkada issiq kakao ichdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pitcher",
+      "pronunciation_uz": "pitcher",
+      "uzbek": "koʻza, grafin",
+      "pos": "noun",
+      "example_en": "Put a pitcher of cold spring water on the table.",
+      "example_uz": "Dasturxonga bir koʻza muzdek buloq suvi qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "jug",
+      "pronunciation_uz": "jag",
+      "uzbek": "koʻza, xumcha",
+      "pos": "noun",
+      "example_en": "The clay jug keeps buttermilk cool even in summer.",
+      "example_uz": "Sopol koʻza ayronni yozda ham salqin saqlaydi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "jar",
+      "pronunciation_uz": "jar",
+      "uzbek": "banka, shisha idish",
+      "pos": "noun",
+      "example_en": "She opened a glass jar of homemade cherry jam.",
+      "example_uz": "U uyda yopilgan olcha murabbosi solingan shisha bankani ochdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "cutlery",
+      "pronunciation_uz": "katleri",
+      "uzbek": "oshxona anjomlari (qoshiq, sanchqi, pichoq)",
+      "pos": "noun",
+      "example_en": "Arrange the polished silver cutlery beside each plate.",
+      "example_uz": "Jilolangan kumush qoshiq-sanchqilarni har bir likopcha yoniga tering.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "chopsticks",
+      "pronunciation_uz": "chopstiks",
+      "uzbek": "ovqatlanish choʻplari",
+      "pos": "noun",
+      "example_en": "He learned how to pick up noodles with wooden chopsticks.",
+      "example_uz": "U yogʻoch choʻplar bilan ugra olishni oʻrgandi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "toothpick",
+      "pronunciation_uz": "tuspik",
+      "uzbek": "tish kovlagich",
+      "pos": "noun",
+      "example_en": "A small holder of wooden toothpicks sits near the salt shaker.",
+      "example_uz": "Tuzdon yonida yogʻoch tish kovlagichlar idishi turibdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "napkin",
+      "pronunciation_uz": "nepkin",
+      "uzbek": "salfetka, dasturxon sochiqchasi",
+      "pos": "noun",
+      "example_en": "Unfold the cloth napkin and lay it across your lap.",
+      "example_uz": "Mato salfetkani yozib, tizzangiz ustiga qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "tablecloth",
+      "pronunciation_uz": "teyblklos",
+      "uzbek": "dasturxon",
+      "pos": "noun",
+      "example_en": "She spread an embroidered white tablecloth for the guests.",
+      "example_uz": "U mehmonlar uchun kashtali oq dasturxon yozdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "coaster",
+      "pronunciation_uz": "kouster",
+      "uzbek": "stakan tagligi",
+      "pos": "noun",
+      "example_en": "Please use a wooden coaster under your wet glass.",
+      "example_uz": "Iltimos, hoʻl stakaningiz ostiga yogʻoch taglik qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "straw",
+      "pronunciation_uz": "stro",
+      "uzbek": "ichimlik naychasi",
+      "pos": "noun",
+      "example_en": "She sipped the cold lemonade through a paper straw.",
+      "example_uz": "U muzdek limonadni qogʻoz naycha orqali hoʻpladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "recipe",
+      "pronunciation_uz": "resipi",
+      "uzbek": "retsept, taom tayyorlash usuli",
+      "pos": "noun",
+      "example_en": "My grandmother taught me her secret recipe for halva.",
+      "example_uz": "Buvim menga holva tayyorlashning sirli retseptini oʻrgatganlar.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "ingredient",
+      "pronunciation_uz": "ingridient",
+      "uzbek": "masalliq, tarkibiy qism",
+      "pos": "noun",
+      "example_en": "Freshness of every ingredient is the key to great cooking.",
+      "example_uz": "Har bir masalliqning yangiligi ajoyib taom pishirishning kalitidir.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "serving",
+      "pronunciation_uz": "syorving",
+      "uzbek": "bir kishilik ulush, porsiya",
+      "pos": "noun",
+      "example_en": "This recipe yields six full servings of soup.",
+      "example_uz": "Ushbu retsept boʻyicha olti porsiya toʻla shoʻrva chiqadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "leftovers",
+      "pronunciation_uz": "leftouverz",
+      "uzbek": "ortib qolgan ovqat",
+      "pos": "noun",
+      "example_en": "Store the dinner leftovers in the fridge for tomorrow.",
+      "example_uz": "Kechki ovqatdan ortib qolgan taomni ertangi kun uchun muzlatkichga qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "snack",
+      "pronunciation_uz": "snek",
+      "uzbek": "tamaddi, yengil yegulik",
+      "pos": "noun",
+      "example_en": "Dried apricots and almonds make an energizing snack.",
+      "example_uz": "Turshak va bodom quvvat beruvchi tamaddi boʻladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "feast",
+      "pronunciation_uz": "fist",
+      "uzbek": "ziyofat, bazm dasturxoni",
+      "pos": "noun",
+      "example_en": "The family prepared a grand feast for the wedding.",
+      "example_uz": "Oila toʻy uchun katta ziyofat dasturxoni tayyorladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "banquet",
+      "pronunciation_uz": "benkvet",
+      "uzbek": "tantanali ziyofat, banket",
+      "pos": "noun",
+      "example_en": "Two hundred guests attended the evening banquet.",
+      "example_uz": "Kechki tantanali ziyofatga ikki yuz nafar mehmon tashrif buyurdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "picnic",
+      "pronunciation_uz": "piknik",
+      "uzbek": "piknik, tabiat qoʻynidagi tamaddi",
+      "pos": "noun",
+      "example_en": "We spread a blanket under the trees for a family picnic.",
+      "example_uz": "Oilaviy piknik uchun daraxtlar ostiga koʻrpacha toʻshadik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "barbecue",
+      "pronunciation_uz": "barbekyu",
+      "uzbek": "kabob, barbekyu, qoʻrada pishirilgan goʻsht",
+      "pos": "noun",
+      "example_en": "We invited friends over for a backyard barbecue.",
+      "example_uz": "Hovlida kabob pishirish uchun doʻstlarimizni taklif qildik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "buffet",
+      "pronunciation_uz": "baffey",
+      "uzbek": "shved stoli, bufet",
+      "pos": "noun",
+      "example_en": "Hotel breakfast is served as an open buffet.",
+      "example_uz": "Mehmonxonada nonushta ochiq shved stoli tarzida tortiladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "cafeteria",
+      "pronunciation_uz": "kafitiria",
+      "uzbek": "oshxona, kafeteriy",
+      "pos": "noun",
+      "example_en": "Students eat hot lunches in the university cafeteria.",
+      "example_uz": "Talabalar universitet oshxonasida issiq tushlik qilishadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "canteen",
+      "pronunciation_uz": "kentin",
+      "uzbek": "ishxona yoki maktab oshxonasi",
+      "pos": "noun",
+      "example_en": "The factory canteen offers affordable daily meals.",
+      "example_uz": "Zavod oshxonasi hamyonbop kundalik taomlarni taklif etadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "diner",
+      "pronunciation_uz": "dayner",
+      "uzbek": "kichik oshxona, tamaddixona",
+      "pos": "noun",
+      "example_en": "We stopped at a roadside diner for hot soup.",
+      "example_uz": "Issiq shoʻrva ichish uchun yoʻl boʻyidagi tamaddixonada toʻxtadik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "bakery",
+      "pronunciation_uz": "beykeri",
+      "uzbek": "novvoyxona, qandolatchilik doʻkoni",
+      "pos": "noun",
+      "example_en": "The neighborhood bakery smells of warm bread at dawn.",
+      "example_uz": "Mahalla novvoyxonasidan saharda issiq non hidi taraladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "cafe",
+      "pronunciation_uz": "kafey",
+      "uzbek": "qahvaxona, kafe",
+      "pos": "noun",
+      "example_en": "Let's meet at the outdoor cafe for coffee and cake.",
+      "example_uz": "Qahva va shirinlik uchun yozgi kafeda uchrashaylik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "menu",
+      "pronunciation_uz": "menyu",
+      "uzbek": "taomnoma, menyu",
+      "pos": "noun",
+      "example_en": "Ask the waiter to bring the dessert menu.",
+      "example_uz": "Ofitsiantdan shirinliklar taomnomasini olib kelishni soʻrang.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "appetizer",
+      "pronunciation_uz": "epitayzer",
+      "uzbek": "ishtaha ochuvchi gazak",
+      "pos": "noun",
+      "example_en": "We ordered fresh salads and olives as an appetizer.",
+      "example_uz": "Ishtaha ochuvchi gazak sifatida yangi salat va zaytun buyurtma qildik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "starter",
+      "pronunciation_uz": "starter",
+      "uzbek": "birinchi taom, gazak",
+      "pos": "noun",
+      "example_en": "Lentil soup is a popular warm starter in winter.",
+      "example_uz": "Yasmiq shoʻrvasi qishda mashhur issiq birinchi taom hisoblanadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "main course",
+      "pronunciation_uz": "meyn kors",
+      "uzbek": "asosiy taom, ikkinchi taom",
+      "pos": "noun",
+      "example_en": "For the main course, we shared a platter of Tashkent pilaf.",
+      "example_uz": "Asosiy taom uchun biz bir lagan Toshkent palovini baham koʻrdik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "side dish",
+      "pronunciation_uz": "sayd dish",
+      "uzbek": "garnir, asosiy taomga qoʻshimcha",
+      "pos": "noun",
+      "example_en": "Steamed rice and grilled vegetables came as a side dish.",
+      "example_uz": "Bugʻda pishgan guruch va sabzavotlar garnir sifatida tortildi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "dessert",
+      "pronunciation_uz": "dizyort",
+      "uzbek": "shirinlik, desert",
+      "pos": "noun",
+      "example_en": "We had baklava and green tea for dessert.",
+      "example_uz": "Desertga paxlava va koʻk choy ichdik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "beverage",
+      "pronunciation_uz": "beverij",
+      "uzbek": "ichimlik",
+      "pos": "noun",
+      "example_en": "Cold fruit compote is a traditional summer beverage.",
+      "example_uz": "Muzdek meva sharbati (kompot) anʼanaviy yozgi ichimlikdir.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "broth",
+      "pronunciation_uz": "bros",
+      "uzbek": "shoʻrva suvi, qaynatma, bulyon",
+      "pos": "noun",
+      "example_en": "Clear chicken broth helps patients recover their strength.",
+      "example_uz": "Tiniq tovuq qaynatmasi bemorlarga quvvatini tiklashda yordam beradi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "porridge",
+      "pronunciation_uz": "porrij",
+      "uzbek": "boʻtqa, kasha",
+      "pos": "noun",
+      "example_en": "Warm oat porridge with honey is a healthy breakfast.",
+      "example_uz": "Asalli iliq suli boʻtqasi foydali nonushtadir.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "omelet",
+      "pronunciation_uz": "omlet",
+      "uzbek": "omlet, quymoq",
+      "pos": "noun",
+      "example_en": "He cooked a fluffy omelet with tomatoes and herbs.",
+      "example_uz": "U pomidor va koʻkatlar solib yumshoq quymoq pishirdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pancake",
+      "pronunciation_uz": "penkeyk",
+      "uzbek": "quymoq, blinchik",
+      "pos": "noun",
+      "example_en": "She stacked the thin pancakes and served them with jam.",
+      "example_uz": "U yupqa blinchiklarni ustma-ust taxlab, murabbo bilan dasturxonga tortdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "dumpling",
+      "pronunciation_uz": "dampling",
+      "uzbek": "chuchvara, manti",
+      "pos": "noun",
+      "example_en": "Uzbek cuisine is famous for steamed manti and boiled dumplings.",
+      "example_uz": "Oʻzbek oshxonasi bugʻda pishgan manti va chuchvaralari bilan mashhur.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pastry",
+      "pronunciation_uz": "peystri",
+      "uzbek": "pishiriq, qandolat mahsuloti",
+      "pos": "noun",
+      "example_en": "Flaky puff pastry is used to bake golden samsa.",
+      "example_uz": "Tillarang somsa yopish uchun qatlama xamir ishlatiladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pie",
+      "pronunciation_uz": "pay",
+      "uzbek": "pirog, patirsimon pishiriq",
+      "pos": "noun",
+      "example_en": "The warm apple pie cooled on the kitchen counter.",
+      "example_uz": "Issiq olma pirogi oshxona peshtaxtasida sovidi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "tart",
+      "pronunciation_uz": "tart",
+      "uzbek": "ochiq mevali pirog, tart",
+      "pos": "noun",
+      "example_en": "She baked a berry tart with a crisp buttery crust.",
+      "example_uz": "U qarsildoq sariyogʻli xamirdan rezavorli pirog pishirdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "bun",
+      "pronunciation_uz": "ban",
+      "uzbek": "bulochka, kulcha",
+      "pos": "noun",
+      "example_en": "He ate a sweet cinnamon bun with his morning tea.",
+      "example_uz": "U ertalabki choyi bilan dolchinli shirin bulochka yedi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "croissant",
+      "pronunciation_uz": "kruassan",
+      "uzbek": "kruassan, yarim oy shaklidagi qatlama bulochka",
+      "pos": "noun",
+      "example_en": "A fresh French croissant is flaky and buttery.",
+      "example_uz": "Yangi fransuz kruassani qat-qat va sariyogʻli boʻladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "biscuit",
+      "pronunciation_uz": "biskit",
+      "uzbek": "pechenye, quruq kulcha",
+      "pos": "noun",
+      "example_en": "She offered the guests tea with homemade biscuits.",
+      "example_uz": "U mehmonlarga uyda pishirilgan pechenye bilan choy uzatdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "cookie",
+      "pronunciation_uz": "kuki",
+      "uzbek": "shirin pechenye",
+      "pos": "noun",
+      "example_en": "The children baked chocolate chip cookies.",
+      "example_uz": "Bolalar shokolad boʻlakchali pechenye pishirishdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "wafer",
+      "pronunciation_uz": "veyfer",
+      "uzbek": "vafli",
+      "pos": "noun",
+      "example_en": "Crispy wafers filled with hazelnut cream are delicious.",
+      "example_uz": "Funduk kremli qarsildoq vaflilar juda mazali.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pudding",
+      "pronunciation_uz": "pudding",
+      "uzbek": "puding, shirin quyuq desert",
+      "pos": "noun",
+      "example_en": "Rice pudding dusted with cinnamon is a comforting treat.",
+      "example_uz": "Dolchin sepilgan guruchli puding yoqimli shirinlikdir.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "custard",
+      "pronunciation_uz": "kastard",
+      "uzbek": "tuxum va sutli shirin krem",
+      "pos": "noun",
+      "example_en": "The eclairs are filled with smooth vanilla custard.",
+      "example_uz": "Eklerlar ichi mayin vanilli krem bilan toʻldirilgan.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "jam",
+      "pronunciation_uz": "jem",
+      "uzbek": "murabbo, jem",
+      "pos": "noun",
+      "example_en": "Fig jam is wonderful with hot flatbread and cream.",
+      "example_uz": "Anjir murabbosi issiq non va qaymoq bilan ajoyib ketadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "marmalade",
+      "pronunciation_uz": "marmaleyd",
+      "uzbek": "marmelad, sitrus murabbosi",
+      "pos": "noun",
+      "example_en": "Orange marmalade has a slightly bitter-sweet taste.",
+      "example_uz": "Apelsin marmeladi biroz taxir-shirin taʼmga ega.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "syrup",
+      "pronunciation_uz": "sirap",
+      "uzbek": "qiyom, sharbat, sirop",
+      "pos": "noun",
+      "example_en": "Pour warm sugar syrup over the baked baklava.",
+      "example_uz": "Pishgan paxlava ustiga iliq shakar qiyomini quying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "frosting",
+      "pronunciation_uz": "frosting",
+      "uzbek": "tort ustiga surtiladigan krem, glazur",
+      "pos": "noun",
+      "example_en": "She decorated the birthday cake with white cream frosting.",
+      "example_uz": "U tugʻilgan kun tortini oq krem bilan bezatdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sauce",
+      "pronunciation_uz": "sos",
+      "uzbek": "sous, qayla",
+      "pos": "noun",
+      "example_en": "Serve the meatballs with a rich tomato and garlic sauce.",
+      "example_uz": "Qiymali teftellarni quyuq pomidor va sarimsoqli qayla bilan torting.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "gravy",
+      "pronunciation_uz": "greyvi",
+      "uzbek": "goʻsht selidan tayyorlangan qayla",
+      "pos": "noun",
+      "example_en": "Pour hot meat gravy over the mashed potatoes.",
+      "example_uz": "Kartoshka pyuresi ustiga issiq goʻsht qaylasidan quying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "dressing",
+      "pronunciation_uz": "dressing",
+      "uzbek": "salat sousi, qayla",
+      "pos": "noun",
+      "example_en": "Olive oil and lemon juice make a simple salad dressing.",
+      "example_uz": "Zaytun yogʻi va limon suvi oddiy salat sousini hosil qiladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "batter",
+      "pronunciation_uz": "better",
+      "uzbek": "suyuq xamir (quymoq yoki klyar uchun)",
+      "pos": "noun",
+      "example_en": "Whisk the pancake batter until there are no lumps.",
+      "example_uz": "Quymoqning suyuq xamirini qumoqlari qolmaguncha koʻpirtiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "crust",
+      "pronunciation_uz": "krast",
+      "uzbek": "nonning qarsildoq ustki qismi, poʻsti",
+      "pos": "noun",
+      "example_en": "Hot tandoor bread has a golden sesame crust.",
+      "example_uz": "Issiq tandir nonning kunjutli tillarang qobiq qismi boʻladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "chef",
+      "pronunciation_uz": "shef",
+      "uzbek": "bosh oshpaz, shef-oshpaz",
+      "pos": "noun",
+      "example_en": "The master chef prepared pilaf for five hundred people.",
+      "example_uz": "Usta oshpaz besh yuz kishilik osh damladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "waiter",
+      "pronunciation_uz": "veyter",
+      "uzbek": "ofitsiant (erkak)",
+      "pos": "noun",
+      "example_en": "The polite waiter recommended the daily special.",
+      "example_uz": "Xushmuomala ofitsiant kunning maxsus taomini tavsiya qildi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "waitress",
+      "pronunciation_uz": "veytres",
+      "uzbek": "ofitsiant qiz/ayol",
+      "pos": "noun",
+      "example_en": "The waitress brought a fresh pot of green tea.",
+      "example_uz": "Ofitsiant qiz yangi damlangan koʻk choy olib keldi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "host",
+      "pronunciation_uz": "houst",
+      "uzbek": "mezbon",
+      "pos": "noun",
+      "example_en": "A hospitable Uzbek host always offers tea first.",
+      "example_uz": "Mehmondoʻst oʻzbek mezboni doimo avval choy uzatadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "reservation",
+      "pronunciation_uz": "rezerveyshn",
+      "uzbek": "oldindan band qilish (joyni)",
+      "pos": "noun",
+      "example_en": "We made a dinner reservation for a table of six.",
+      "example_uz": "Kechki ovqat uchun olti kishilik stolni oldindan band qildik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "tip",
+      "pronunciation_uz": "tip",
+      "uzbek": "choychaqa",
+      "pos": "noun",
+      "example_en": "We left a generous tip for the attentive service.",
+      "example_uz": "Eʼtiborli xizmat uchun moʻl choychaqa qoldirdik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "takeout",
+      "pronunciation_uz": "teykaut",
+      "uzbek": "olib ketish uchun ovqat",
+      "pos": "noun",
+      "example_en": "We ordered takeout from our favorite kebab house.",
+      "example_uz": "Sevimli kabobxonamizdan olib ketish uchun ovqat buyurtma qildik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "appetite",
+      "pronunciation_uz": "epitayt",
+      "uzbek": "ishtaha",
+      "pos": "noun",
+      "example_en": "Working in the fresh mountain air gives you a great appetite.",
+      "example_uz": "Toza togʻ havosida ishlash odamning ishtahasini ochadi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sip",
+      "pronunciation_uz": "sip",
+      "uzbek": "hoʻplam; hoʻplamoq",
+      "pos": "verb",
+      "example_en": "Sip the scalding tea slowly so you don't burn your tongue.",
+      "example_uz": "Tilingizni kuydirmaslik uchun qaynoq choyni sekin hoʻplab iching.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "swallow",
+      "pronunciation_uz": "svollou",
+      "uzbek": "yutmoq",
+      "pos": "verb",
+      "example_en": "Chew your food thoroughly before you swallow it.",
+      "example_uz": "Ovqatni yutishdan oldin uni yaxshilab chaynang.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "taste",
+      "pronunciation_uz": "teyst",
+      "uzbek": "taʼm, maza; tatib koʻrmoq",
+      "pos": "verb",
+      "example_en": "Taste the soup to see if it needs more salt.",
+      "example_uz": "Shoʻrvaga yana tuz kerakmi-yoʻqmi bilish uchun tatib koʻring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "flavor",
+      "pronunciation_uz": "fleyvor",
+      "uzbek": "taʼm, lazzat, xushboʻy maza",
+      "pos": "noun",
+      "example_en": "Wood smoke gives tandoor samsa a unique flavor.",
+      "example_uz": "Oʻtin tutuni tandir somsaga betakror taʼm beradi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "aroma",
+      "pronunciation_uz": "aroma",
+      "uzbek": "xushboʻy hid, ifor",
+      "pos": "noun",
+      "example_en": "The rich aroma of freshly brewed coffee woke everyone up.",
+      "example_uz": "Yangi damlangan qahvaning xushboʻy ifori hammani uygʻotdi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "tasty",
+      "pronunciation_uz": "teysti",
+      "uzbek": "mazali, shirin",
+      "pos": "adj",
+      "example_en": "These homemade pumpkin dumplings are very tasty.",
+      "example_uz": "Uyda pishirilgan bu oshqovoqli mantilar juda mazali.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "savory",
+      "pronunciation_uz": "seyvori",
+      "uzbek": "shoʻr va ziravorli, xushtaʼm (shirin emas)",
+      "pos": "adj",
+      "example_en": "He prefers savory meat pastries over sweet cakes.",
+      "example_uz": "U shirin tortlardan koʻra goʻshtli pishiriqlarni afzal koʻradi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sweet",
+      "pronunciation_uz": "svit",
+      "uzbek": "shirin",
+      "pos": "adj",
+      "example_en": "Uzbek melons are famous for being exceptionally sweet.",
+      "example_uz": "Oʻzbekiston qovunlari nihoyatda shirinligi bilan mashhur.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sour",
+      "pronunciation_uz": "saur",
+      "uzbek": "nordon",
+      "pos": "adj",
+      "example_en": "Unripe green plums have a sharp sour taste.",
+      "example_uz": "Pishmagan koʻk olxoʻrining oʻtkir nordon taʼmi bor.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "salty",
+      "pronunciation_uz": "solti",
+      "uzbek": "shoʻr, tuzi koʻp",
+      "pos": "adj",
+      "example_en": "The cheese was a bit too salty for my taste.",
+      "example_uz": "Pishloq mening taʼbimga koʻra biroz shoʻrroq ekan.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "spicy",
+      "pronunciation_uz": "spaysi",
+      "uzbek": "achchiq, ziravorli",
+      "pos": "adj",
+      "example_en": "Do you like spicy food with hot red pepper?",
+      "example_uz": "Qizil qalampir qoʻshilgan achchiq ovqatni yoqtirasizmi?",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "mild",
+      "pronunciation_uz": "mayld",
+      "uzbek": "yumshoq, achchiq emas",
+      "pos": "adj",
+      "example_en": "We ordered a mild curry for the children.",
+      "example_uz": "Bolalar uchun achchiq boʻlmagan yumshoq taom buyurtma qildik.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "bland",
+      "pronunciation_uz": "blend",
+      "uzbek": "bemaza, tuzi past",
+      "pos": "adj",
+      "example_en": "Without salt or herbs, boiled rice tastes bland.",
+      "example_uz": "Tuz va koʻkatlarsiz qaynatilgan guruch bemaza tuyuladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "crispy",
+      "pronunciation_uz": "krispi",
+      "uzbek": "qarsildoq, qirtildoq",
+      "pos": "adj",
+      "example_en": "The fried fish had a golden, crispy coating.",
+      "example_uz": "Qovurilgan baliqning tillarang, qarsildoq qobigʻi bor edi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "crunchy",
+      "pronunciation_uz": "kranchi",
+      "uzbek": "qarsillaydigan, qattiq va yangi",
+      "pos": "adj",
+      "example_en": "Fresh cucumbers and radishes are wonderfully crunchy.",
+      "example_uz": "Yangi bodring va rediskalar ajoyib qarsildoq boʻladi.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "saute",
+      "pronunciation_uz": "sotey",
+      "uzbek": "baland olovda oz yogʻda tez qovurmoq",
+      "pos": "verb",
+      "example_en": "Saute the diced zucchini with garlic for five minutes.",
+      "example_uz": "Kubik qilib toʻgʻralgan qovoqchani sarimsoq bilan besh daqiqa tez qovuring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "scald",
+      "pronunciation_uz": "skold",
+      "uzbek": "qaynoq suv quymoq; kuydirib olmoq",
+      "pos": "verb",
+      "example_en": "Scald the almonds with boiling water to slip off their skins.",
+      "example_uz": "Poʻstini oson archish uchun bodom ustidan qaynoq suv quying.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "caramelize",
+      "pronunciation_uz": "karamelayz",
+      "uzbek": "karamelga aylantirmoq, qizartirib qovurmoq",
+      "pos": "verb",
+      "example_en": "Cook the sliced onions slowly until they caramelize.",
+      "example_uz": "Toʻgʻralgan piyozni qizarib shirin taʼm kirguncha past olovda qovuring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "glaze",
+      "pronunciation_uz": "gleyz",
+      "uzbek": "qiyom yoki tuxum surtib yaltiratmoq; glazur",
+      "pos": "verb",
+      "example_en": "Glaze the warm fruit tart with apricot syrup.",
+      "example_uz": "Issiq mevali pirog ustiga oʻrik qiyomi surtib yaltirating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "baste",
+      "pronunciation_uz": "beyst",
+      "uzbek": "pishayotgan goʻsht ustiga oʻz selidan quyib turmoq",
+      "pos": "verb",
+      "example_en": "Baste the roast duck every twenty minutes so it stays juicy.",
+      "example_uz": "Duxovkadagi oʻrdak sersuv chiqishi uchun har yigirma daqiqada ustiga oʻz yogʻidan quyib turing.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "skewer",
+      "pronunciation_uz": "skyuer",
+      "uzbek": "six (kabob sixi); sixga tortmoq",
+      "pos": "noun",
+      "example_en": "Thread the marinated lamb cubes onto metal skewers.",
+      "example_uz": "Marinadlangan qoʻy goʻshti boʻlaklarini temir sixlarga torting.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "rolling board",
+      "pronunciation_uz": "rouling bord",
+      "uzbek": "xamir taxta, oshxona taxtasi",
+      "pos": "noun",
+      "example_en": "Spread flour on the wooden rolling board before shaping dumplings.",
+      "example_uz": "Chuchvara tugishdan oldin yogʻoch xamir taxta ustiga un seping.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "nutcracker",
+      "pronunciation_uz": "natkreker",
+      "uzbek": "yongʻoqchaqqich",
+      "pos": "noun",
+      "example_en": "Use a metal nutcracker to crack hard shells.",
+      "example_uz": "Qattiq poʻchoqlarni chaqish uchun temir yongʻoqchaqqich ishlating.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "pepper mill",
+      "pronunciation_uz": "pepper mil",
+      "uzbek": "murch tegirmonchasi",
+      "pos": "noun",
+      "example_en": "Twist the wooden pepper mill over the hot soup.",
+      "example_uz": "Issiq shoʻrva ustiga yogʻoch murch tegirmonchasidan murch seping.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "salt shaker",
+      "pronunciation_uz": "solt sheyker",
+      "uzbek": "tuzdon",
+      "pos": "noun",
+      "example_en": "Please pass me the salt shaker from the end of the table.",
+      "example_uz": "Iltimos, stol chetidagi tuzdonni menga uzatib yuboring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "sugar bowl",
+      "pronunciation_uz": "shugar boul",
+      "uzbek": "qanddon, shakardon",
+      "pos": "noun",
+      "example_en": "Fill the porcelain sugar bowl with white sugar cubes.",
+      "example_uz": "Chinni qanddonni oq qand boʻlaklari bilan toʻldiring.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "butter dish",
+      "pronunciation_uz": "batter dish",
+      "uzbek": "sariyogʻ idishi",
+      "pos": "noun",
+      "example_en": "Keep the butter covered inside the ceramic butter dish.",
+      "example_uz": "Sariyogʻni sopol sariyogʻ idishi ichida yopiq holda saqlang.",
+      "category": "Taomlar, pishirish va restoran"
+    },
+    {
+      "english": "breadbasket",
+      "pronunciation_uz": "bredbasket",
+      "uzbek": "non savatchasi",
+      "pos": "noun",
+      "example_en": "Place the warm flatbreads in a woven breadbasket.",
+      "example_uz": "Issiq nonlarni toʻqima non savatchasiga qoʻying.",
+      "category": "Taomlar, pishirish va restoran"
+    }
+  ]
+}

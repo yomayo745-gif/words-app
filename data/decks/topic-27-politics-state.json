@@ -1,0 +1,907 @@
+{
+  "title": "Siyosat, davlat va diplomatiya",
+  "category": "Politics, Government & Diplomacy",
+  "group": "topic",
+  "words": [
+    {
+      "english": "politics",
+      "pronunciation_uz": "politiks",
+      "uzbek": "siyosat",
+      "pos": "noun",
+      "example_en": "He decided to enter politics after working in local administration.",
+      "example_uz": "U mahalliy boshqaruvda ishlagandan soʻng siyosatga kirishga qaror qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "political",
+      "pronunciation_uz": "politikal",
+      "uzbek": "siyosiy",
+      "pos": "adj",
+      "example_en": "The country is undergoing major political reforms.",
+      "example_uz": "Mamlakatda yirik siyosiy islohotlar amalga oshirilmoqda.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "politician",
+      "pronunciation_uz": "politishn",
+      "uzbek": "siyosatchi",
+      "pos": "noun",
+      "example_en": "The experienced politician addressed the crowd in the square.",
+      "example_uz": "Tajribali siyosatchi maydondagi olomonga murojaat qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "statesman",
+      "pronunciation_uz": "steytsmen",
+      "uzbek": "davlat arbobi",
+      "pos": "noun",
+      "example_en": "He was respected worldwide as a wise statesman.",
+      "example_uz": "U butun dunyoda dono davlat arbobi sifatida hurmat qilinardi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "state",
+      "pronunciation_uz": "steyt",
+      "uzbek": "davlat",
+      "pos": "noun",
+      "example_en": "The state provides free primary education for all children.",
+      "example_uz": "Davlat barcha bolalar uchun bepul boshlangʻich taʼlimni taʼminlaydi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "statehood",
+      "pronunciation_uz": "steythud",
+      "uzbek": "davlatchilik",
+      "pos": "noun",
+      "example_en": "Uzbekistan has a rich history of ancient statehood.",
+      "example_uz": "Oʻzbekiston qadimiy davlatchilikning boy tarixiga ega.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "nation",
+      "pronunciation_uz": "neyshn",
+      "uzbek": "millat",
+      "pos": "noun",
+      "example_en": "The entire nation celebrated Independence Day with pride.",
+      "example_uz": "Butun millat Mustaqillik kunini gʻurur bilan nishonladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "national",
+      "pronunciation_uz": "nashnal",
+      "uzbek": "milliy",
+      "pos": "adj",
+      "example_en": "The national flag was raised high above the stadium.",
+      "example_uz": "Milliy bayroq stadion uzra baland koʻtarildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "sovereignty",
+      "pronunciation_uz": "sovrenti",
+      "uzbek": "suverenitet",
+      "pos": "noun",
+      "example_en": "Respecting national sovereignty is a core principle of diplomacy.",
+      "example_uz": "Milliy suverenitetni hurmat qilish diplomatiyaning asosiy tamoyilidir.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "independence",
+      "pronunciation_uz": "indipendens",
+      "uzbek": "mustaqillik",
+      "pos": "noun",
+      "example_en": "The republic declared its independence in 1991.",
+      "example_uz": "Respublika 1991-yilda oʻz mustaqilligini eʼlon qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "republic",
+      "pronunciation_uz": "ripablik",
+      "uzbek": "respublika",
+      "pos": "noun",
+      "example_en": "The Republic of Uzbekistan is located in Central Asia.",
+      "example_uz": "Oʻzbekiston Respublikasi Markaziy Osiyoda joylashgan.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "democracy",
+      "pronunciation_uz": "dimokrasi",
+      "uzbek": "demokratiya",
+      "pos": "noun",
+      "example_en": "Free elections are the foundation of modern democracy.",
+      "example_uz": "Erkin saylovlar zamonaviy demokratiyaning poydevoridir.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "federation",
+      "pronunciation_uz": "federeyshn",
+      "uzbek": "federatsiya",
+      "pos": "noun",
+      "example_en": "Several autonomous regions united to form a federation.",
+      "example_uz": "Bir nechta avtonom hududlar birlashib federatsiya tuzdilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "autonomy",
+      "pronunciation_uz": "otonomi",
+      "uzbek": "muxtoriyat",
+      "pos": "noun",
+      "example_en": "The province was granted greater cultural autonomy.",
+      "example_uz": "Viloyatga kengroq madaniy muxtoriyat berildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "monarchy",
+      "pronunciation_uz": "monarki",
+      "uzbek": "monarxiya",
+      "pos": "noun",
+      "example_en": "Great Britain is a constitutional monarchy.",
+      "example_uz": "Buyuk Britaniya konstitutsiyaviy monarxiya hisoblanadi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "authoritarian",
+      "pronunciation_uz": "osoriterian",
+      "uzbek": "avtoritar",
+      "pos": "adj",
+      "example_en": "Authoritarian rule restricts freedom of the press.",
+      "example_uz": "Avtoritar boshqaruv matbuot erkinligini cheklaydi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "government",
+      "pronunciation_uz": "gaverment",
+      "uzbek": "hukumat",
+      "pos": "noun",
+      "example_en": "The government announced a new economic program.",
+      "example_uz": "Hukumat yangi iqtisodiy dasturni eʼlon qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "governance",
+      "pronunciation_uz": "gavernans",
+      "uzbek": "boshqaruv",
+      "pos": "noun",
+      "example_en": "Digital services have improved public governance.",
+      "example_uz": "Raqamli xizmatlar davlat boshqaruvini yaxshiladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "governor",
+      "pronunciation_uz": "gaverner",
+      "uzbek": "hokim",
+      "pos": "noun",
+      "example_en": "The regional governor met with local entrepreneurs.",
+      "example_uz": "Viloyat hokimi mahalliy tadbirkorlar bilan uchrashdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "presidential",
+      "pronunciation_uz": "prezidenshal",
+      "uzbek": "prezidentlikka oid",
+      "pos": "adj",
+      "example_en": "The presidential election takes place every few years.",
+      "example_uz": "Prezidentlik saylovi har bir necha yilda boʻlib oʻtadi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "presidency",
+      "pronunciation_uz": "prezidensi",
+      "uzbek": "prezidentlik davri",
+      "pos": "noun",
+      "example_en": "Infrastructure expanded rapidly during his presidency.",
+      "example_uz": "Uning prezidentlik davrida infratuzilma jadal kengaydi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "prime minister",
+      "pronunciation_uz": "praym minister",
+      "uzbek": "bosh vazir",
+      "pos": "noun",
+      "example_en": "The prime minister chaired the cabinet meeting.",
+      "example_uz": "Bosh vazir vazirlar mahkamasi yigʻilishiga raislik qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "minister",
+      "pronunciation_uz": "minister",
+      "uzbek": "vazir",
+      "pos": "noun",
+      "example_en": "The minister of education visited the new school.",
+      "example_uz": "Taʼlim vaziri yangi maktabga tashrif buyurdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "legislature",
+      "pronunciation_uz": "lejisleycher",
+      "uzbek": "qonun chiqaruvchi organ",
+      "pos": "noun",
+      "example_en": "The national legislature consists of two chambers.",
+      "example_uz": "Milliy qonun chiqaruvchi organ ikki palatadan iborat.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "parliamentary",
+      "pronunciation_uz": "parlamentari",
+      "uzbek": "parlamentga oid",
+      "pos": "adj",
+      "example_en": "A parliamentary delegation arrived in Tashkent today.",
+      "example_uz": "Bugun Toshkentga parlament delegatsiyasi yetib keldi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "senate",
+      "pronunciation_uz": "senit",
+      "uzbek": "senat",
+      "pos": "noun",
+      "example_en": "The Senate is the upper house of parliament.",
+      "example_uz": "Senat parlamentning yuqori palatasi hisoblanadi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "senator",
+      "pronunciation_uz": "senator",
+      "uzbek": "senator",
+      "pos": "noun",
+      "example_en": "The senator proposed greater funding for rural clinics.",
+      "example_uz": "Senator qishloq shifoxonalarini koʻproq moliyalashtirishni taklif qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "deputy",
+      "pronunciation_uz": "depyuti",
+      "uzbek": "deputat",
+      "pos": "noun",
+      "example_en": "Each deputy represents the voters of their district.",
+      "example_uz": "Har bir deputat oʻz okrugidagi saylovchilar nomidan ish koʻradi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "chamber",
+      "pronunciation_uz": "cheymber",
+      "uzbek": "palata",
+      "pos": "noun",
+      "example_en": "The bill was approved by the lower chamber.",
+      "example_uz": "Qonun loyihasi quyi palata tomonidan maʼqullandi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "speaker",
+      "pronunciation_uz": "spiker",
+      "uzbek": "spiker",
+      "pos": "noun",
+      "example_en": "The speaker called the parliamentary session to order.",
+      "example_uz": "Spiker parlament sessiyasini ochiq deb eʼlon qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "council",
+      "pronunciation_uz": "kaunsil",
+      "uzbek": "kengash",
+      "pos": "noun",
+      "example_en": "The municipal council voted to repair the bridge.",
+      "example_uz": "Shahar kengashi koʻprikni taʼmirlash uchun ovoz berdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "committee",
+      "pronunciation_uz": "komiti",
+      "uzbek": "qoʻmita",
+      "pos": "noun",
+      "example_en": "A parliamentary committee reviewed the budget report.",
+      "example_uz": "Parlament qoʻmitasi budjet hisobotini koʻrib chiqdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "bureaucrat",
+      "pronunciation_uz": "byurokrat",
+      "uzbek": "amaldor",
+      "pos": "noun",
+      "example_en": "The reform requires every bureaucrat to serve citizens transparently.",
+      "example_uz": "Islohot har bir amaldordan fuqarolarga shaffof xizmat koʻrsatishni talab qiladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "official",
+      "pronunciation_uz": "ofishl",
+      "uzbek": "rasmiy shaxs",
+      "pos": "noun",
+      "example_en": "High-ranking officials attended the opening ceremony.",
+      "example_uz": "Yuqori martabali rasmiylar ochilish marosimida qatnashdilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "mayor",
+      "pronunciation_uz": "meyor",
+      "uzbek": "shahar hokimi",
+      "pos": "noun",
+      "example_en": "The mayor unveiled a plan for new metro stations.",
+      "example_uz": "Shahar hokimi yangi metro bekatlari rejasini taqdim etdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "reform",
+      "pronunciation_uz": "riform",
+      "uzbek": "islohot",
+      "pos": "noun",
+      "example_en": "Tax reform encouraged entrepreneurs to create more jobs.",
+      "example_uz": "Soliq islohoti tadbirkorlarni koʻproq ish oʻrinlari yaratishga undadi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "decree",
+      "pronunciation_uz": "dikri",
+      "uzbek": "farmon",
+      "pos": "noun",
+      "example_en": "The presidential decree comes into force next month.",
+      "example_uz": "Prezident farmoni kelasi oydan kuchga kiradi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "initiative",
+      "pronunciation_uz": "inishiativ",
+      "uzbek": "tashabbus",
+      "pos": "noun",
+      "example_en": "Citizens voted for community projects through the public budget initiative.",
+      "example_uz": "Fuqarolar tashabbusli budjet orqali mahalla loyihalariga ovoz berishdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "election",
+      "pronunciation_uz": "ilekshn",
+      "uzbek": "saylov",
+      "pos": "noun",
+      "example_en": "Millions of citizens cast their ballots in the election.",
+      "example_uz": "Saylovda millionlab fuqarolar oʻz ovozlarini berdilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "electoral",
+      "pronunciation_uz": "ilektoral",
+      "uzbek": "saylovga oid",
+      "pos": "adj",
+      "example_en": "The electoral code guarantees equal conditions for candidates.",
+      "example_uz": "Saylov kodeksi nomzodlar uchun teng sharoitlarni kafolatlaydi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "electorate",
+      "pronunciation_uz": "ilektorit",
+      "uzbek": "elektorat",
+      "pos": "noun",
+      "example_en": "Candidates presented their platforms to the electorate.",
+      "example_uz": "Nomzodlar saylovchilarga oʻz dasturlarini taqdim etdilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "voter",
+      "pronunciation_uz": "vouter",
+      "uzbek": "saylovchi",
+      "pos": "noun",
+      "example_en": "Every registered voter received an invitation to the polling station.",
+      "example_uz": "Roʻyxatga olingan har bir saylovchi saylov uchastkasiga taklifnoma oldi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "vote",
+      "pronunciation_uz": "vout",
+      "uzbek": "ovoz bermoq",
+      "pos": "verb",
+      "example_en": "Citizens over eighteen have the right to vote.",
+      "example_uz": "Oʻn sakkiz yoshdan oshgan fuqarolar ovoz berish huquqiga ega.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "ballot",
+      "pronunciation_uz": "balot",
+      "uzbek": "byulleten",
+      "pos": "noun",
+      "example_en": "She marked her choice on the paper ballot.",
+      "example_uz": "U qogʻoz byulletenga oʻz tanlovini belgiladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "poll",
+      "pronunciation_uz": "poul",
+      "uzbek": "soʻrovnoma",
+      "pos": "noun",
+      "example_en": "An opinion poll showed strong support for the project.",
+      "example_uz": "Ijtimoiy soʻrovnoma loyihaning kuchli qoʻllab-quvvatlanayotganini koʻrsatdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "turnout",
+      "pronunciation_uz": "tornaut",
+      "uzbek": "saylovdagi davomat",
+      "pos": "noun",
+      "example_en": "Voter turnout exceeded seventy percent nationwide.",
+      "example_uz": "Saylovchilar davomati mamlakat boʻylab yetmish foizdan oshdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "referendum",
+      "pronunciation_uz": "referendum",
+      "uzbek": "referendum",
+      "pos": "noun",
+      "example_en": "The constitutional changes were approved in a national referendum.",
+      "example_uz": "Konstitutsiyaviy oʻzgarishlar umumxalq referendumida maʼqullandi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "nominee",
+      "pronunciation_uz": "nomini",
+      "uzbek": "koʻrsatilgan nomzod",
+      "pos": "noun",
+      "example_en": "The party announced its official nominee for the post.",
+      "example_uz": "Partiya ushbu lavozimga oʻzining rasmiy nomzodini eʼlon qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "nominate",
+      "pronunciation_uz": "nomineyt",
+      "uzbek": "nomzod qilib koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "The committee decided to nominate her for ambassador.",
+      "example_uz": "Qoʻmita uni elchilikka nomzod qilib koʻrsatishga qaror qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "manifesto",
+      "pronunciation_uz": "manifestou",
+      "uzbek": "manifest",
+      "pos": "noun",
+      "example_en": "The party published its election manifesto online.",
+      "example_uz": "Partiya oʻzining saylovoldi manifestini internetda eʼlon qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "party",
+      "pronunciation_uz": "parti",
+      "uzbek": "siyosiy partiya",
+      "pos": "noun",
+      "example_en": "Five political parties competed for seats in parliament.",
+      "example_uz": "Parlamentdagi oʻrinlar uchun beshta siyosiy partiya kurash olib bordi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "coalition",
+      "pronunciation_uz": "koalishn",
+      "uzbek": "koalitsiya",
+      "pos": "noun",
+      "example_en": "Three parties formed a ruling coalition.",
+      "example_uz": "Uchta partiya hukmron koalitsiya tuzdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "faction",
+      "pronunciation_uz": "fakshn",
+      "uzbek": "fraksiya",
+      "pos": "noun",
+      "example_en": "The parliamentary faction proposed an amendment to the bill.",
+      "example_uz": "Parlament fraksiyasi qonun loyihasiga tuzatish kiritishni taklif qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "opposition",
+      "pronunciation_uz": "opozishn",
+      "uzbek": "muxolifat",
+      "pos": "noun",
+      "example_en": "The opposition questioned the minister about the budget.",
+      "example_uz": "Muxolifat vazirga budjet boʻyicha savollar berdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "consensus",
+      "pronunciation_uz": "konsensas",
+      "uzbek": "yakdillik",
+      "pos": "noun",
+      "example_en": "The delegates reached a consensus after long talks.",
+      "example_uz": "Delegatlar uzoq muzokaralardan soʻng yakdil kelishuvga erishdilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "veto",
+      "pronunciation_uz": "vitou",
+      "uzbek": "veto",
+      "pos": "noun",
+      "example_en": "Wait for the president to either sign the bill or use a veto.",
+      "example_uz": "Prezidentning qonun loyihasini imzolashi yoki veto qoʻyishini kuting.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "ratify",
+      "pronunciation_uz": "ratifay",
+      "uzbek": "ratifikatsiya qilmoq",
+      "pos": "verb",
+      "example_en": "Parliament voted to ratify the international climate treaty.",
+      "example_uz": "Parlament xalqaro iqlim shartnomasini ratifikatsiya qilish uchun ovoz berdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "ratification",
+      "pronunciation_uz": "ratifikeyshn",
+      "uzbek": "tasdiqlash",
+      "pos": "noun",
+      "example_en": "The treaty enters into force upon ratification by both states.",
+      "example_uz": "Shartnoma har ikki davlat tomonidan tasdiqlangach kuchga kiradi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "inauguration",
+      "pronunciation_uz": "inogyureyshn",
+      "uzbek": "inauguratsiya",
+      "pos": "noun",
+      "example_en": "Foreign leaders attended the president's inauguration.",
+      "example_uz": "Prezidentning inauguratsiya marosimida xorijiy davlat rahbarlari qatnashdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "impeachment",
+      "pronunciation_uz": "impichment",
+      "uzbek": "impichment",
+      "pos": "noun",
+      "example_en": "The legislature initiated impeachment proceedings.",
+      "example_uz": "Qonun chiqaruvchi organ impichment jarayonini boshladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "conservative",
+      "pronunciation_uz": "konservativ",
+      "uzbek": "konservativ",
+      "pos": "adj",
+      "example_en": "Conservative voters value traditional social institutions.",
+      "example_uz": "Konservativ saylovchilar anʼanaviy ijtimoiy institutlarni qadrlaydilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "progressive",
+      "pronunciation_uz": "progresiv",
+      "uzbek": "ilgʻor",
+      "pos": "adj",
+      "example_en": "The city introduced progressive policies on public transport.",
+      "example_uz": "Shahar jamoat transporti boʻyicha ilgʻor siyosatni joriy etdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "patriot",
+      "pronunciation_uz": "peytriot",
+      "uzbek": "vatanparvar",
+      "pos": "noun",
+      "example_en": "A true patriot works hard for the prosperity of their country.",
+      "example_uz": "Haqiqiy vatanparvar oʻz mamlakatining ravnaqi uchun astoydil mehnat qiladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "patriotism",
+      "pronunciation_uz": "peytriotizm",
+      "uzbek": "vatanparvarlik",
+      "pos": "noun",
+      "example_en": "Patriotism is shown through respect for laws and nature.",
+      "example_uz": "Vatanparvarlik qonunlarga va tabiatga boʻlgan hurmat orqali namoyon boʻladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "patriotic",
+      "pronunciation_uz": "peytriotik",
+      "uzbek": "vatanparvarlik ruhidagi",
+      "pos": "adj",
+      "example_en": "Students sang patriotic songs at the school assembly.",
+      "example_uz": "Oʻquvchilar maktab yigʻilishida vatanparvarlik ruhidagi qoʻshiqlarni kuylashdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "citizen",
+      "pronunciation_uz": "sitizen",
+      "uzbek": "fuqaro",
+      "pos": "noun",
+      "example_en": "Every citizen has both constitutional rights and duties.",
+      "example_uz": "Har bir fuqaroning konstitutsiyaviy huquqlari va burchlari bor.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "citizenship",
+      "pronunciation_uz": "sitizenship",
+      "uzbek": "fuqarolik",
+      "pos": "noun",
+      "example_en": "He applied for citizenship after living in the country for years.",
+      "example_uz": "U mamlakatda bir necha yil yashagach, fuqarolik olish uchun ariza topshirdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "anthem",
+      "pronunciation_uz": "ansem",
+      "uzbek": "madhiya",
+      "pos": "noun",
+      "example_en": "The athletes stood proudly as the national anthem played.",
+      "example_uz": "Milliy madhiya yangraganda sportchilar magʻrur turishdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "emblem",
+      "pronunciation_uz": "emblem",
+      "uzbek": "gerb",
+      "pos": "noun",
+      "example_en": "The state emblem features the mythical Humo bird.",
+      "example_uz": "Davlat gerbida afsonaviy Humo qushi tasvirlangan.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "constitution",
+      "pronunciation_uz": "konstityushn",
+      "uzbek": "konstitutsiya",
+      "pos": "noun",
+      "example_en": "The constitution is the supreme law of the republic.",
+      "example_uz": "Konstitutsiya respublikaning asosiy va oliy qonunidir.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "constitutional",
+      "pronunciation_uz": "konstityushnal",
+      "uzbek": "konstitutsiyaviy",
+      "pos": "adj",
+      "example_en": "Freedom of speech is a constitutional right.",
+      "example_uz": "Soʻz erkinligi konstitutsiyaviy huquqdir.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "diplomacy",
+      "pronunciation_uz": "diplomasi",
+      "uzbek": "diplomatiya",
+      "pos": "noun",
+      "example_en": "Peaceful diplomacy resolved the border dispute.",
+      "example_uz": "Tinch diplomatiya chegara mojarosini hal qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "consul",
+      "pronunciation_uz": "konsul",
+      "uzbek": "konsul",
+      "pos": "noun",
+      "example_en": "The honorary consul promoted cultural exchange between the cities.",
+      "example_uz": "Faxriy konsul shaharlar oʻrtasidagi madaniy almashinuvni targʻib qildi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "envoy",
+      "pronunciation_uz": "envoy",
+      "uzbek": "maxsus vakil",
+      "pos": "noun",
+      "example_en": "The special envoy delivered a message from the head of state.",
+      "example_uz": "Maxsus vakil davlat rahbarining maktubini yetkazdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "delegation",
+      "pronunciation_uz": "deligeyshn",
+      "uzbek": "delegatsiya",
+      "pos": "noun",
+      "example_en": "A trade delegation arrived to sign investment agreements.",
+      "example_uz": "Investitsiya shartnomalarini imzolash uchun savdo delegatsiyasi yetib keldi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "pact",
+      "pronunciation_uz": "pakt",
+      "uzbek": "pakt",
+      "pos": "noun",
+      "example_en": "Member states signed a regional security pact.",
+      "example_uz": "Aʼzo davlatlar mintaqaviy xavfsizlik paktini imzoladilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "accord",
+      "pronunciation_uz": "ekord",
+      "uzbek": "bitim",
+      "pos": "noun",
+      "example_en": "The climate accord aims to reduce carbon emissions.",
+      "example_uz": "Iqlim bitimi uglerod chiqindilarini kamaytirishga qaratilgan.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "ally",
+      "pronunciation_uz": "elay",
+      "uzbek": "ittifoqchi",
+      "pos": "noun",
+      "example_en": "Reliable allies support each other during crises.",
+      "example_uz": "Ishonchli ittifoqchilar inqiroz paytida bir-birini qoʻllab-quvvatlaydilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "bilateral",
+      "pronunciation_uz": "baylateral",
+      "uzbek": "ikki tomonlama",
+      "pos": "adj",
+      "example_en": "Bilateral trade between the two neighbors doubled this year.",
+      "example_uz": "Ikki qoʻshni davlat oʻrtasidagi ikki tomonlama savdo bu yil ikki baravar oshdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "multilateral",
+      "pronunciation_uz": "maltilateral",
+      "uzbek": "koʻp tomonlama",
+      "pos": "adj",
+      "example_en": "Multilateral cooperation is essential for solving global issues.",
+      "example_uz": "Global muammolarni hal etish uchun koʻp tomonlama hamkorlik zarur.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "geopolitics",
+      "pronunciation_uz": "jiopolitiks",
+      "uzbek": "geosiyosat",
+      "pos": "noun",
+      "example_en": "Transport corridors play a key role in Central Asian geopolitics.",
+      "example_uz": "Transport yoʻlaklari Markaziy Osiyo geosiyosatida muhim rol oʻynaydi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "boycott",
+      "pronunciation_uz": "boykot",
+      "uzbek": "boykot",
+      "pos": "noun",
+      "example_en": "Some groups called for a boycott of the conference.",
+      "example_uz": "Baʼzi guruhlar konferensiyani boykot qilishga chaqirishdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "neutrality",
+      "pronunciation_uz": "nyutraliti",
+      "uzbek": "betaraflik",
+      "pos": "noun",
+      "example_en": "The country maintained strict neutrality during the conflict.",
+      "example_uz": "Mamlakat mojaro davomida qatʼiy betaraflikni saqlab qoldi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "mediation",
+      "pronunciation_uz": "midieyshn",
+      "uzbek": "vositachilik",
+      "pos": "noun",
+      "example_en": "International mediation helped bring an end to the crisis.",
+      "example_uz": "Xalqaro vositachilik inqirozga chek qoʻyishga yordam berdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "mediator",
+      "pronunciation_uz": "midieytor",
+      "uzbek": "vositachi",
+      "pos": "noun",
+      "example_en": "The diplomat acted as a mediator between the two sides.",
+      "example_uz": "Diplomat ikki tomon oʻrtasida vositachi sifatida ish olib bordi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "ceasefire",
+      "pronunciation_uz": "sisfayr",
+      "uzbek": "oʻt ochishni toʻxtatish",
+      "pos": "noun",
+      "example_en": "Both armies agreed to a temporary ceasefire.",
+      "example_uz": "Har ikki armiya vaqtinchalik oʻt ochishni toʻxtatishga kelishib oldi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "truce",
+      "pronunciation_uz": "trus",
+      "uzbek": "sulh",
+      "pos": "noun",
+      "example_en": "A fragile truce held throughout the winter months.",
+      "example_uz": "Qish oylarida nozik sulh saqlanib turdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "peacekeeping",
+      "pronunciation_uz": "piskiping",
+      "uzbek": "tinchlikparvarlik",
+      "pos": "noun",
+      "example_en": "United Nations peacekeeping forces monitored the border zone.",
+      "example_uz": "BMTning tinchlikparvar kuchlari chegara hududini kuzatib bordi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "memorandum",
+      "pronunciation_uz": "memorandum",
+      "uzbek": "memorandum",
+      "pos": "noun",
+      "example_en": "The universities signed a memorandum of understanding.",
+      "example_uz": "Universitetlar oʻzaro anglashuv memorandumini imzoladilar.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "asylum",
+      "pronunciation_uz": "esaylam",
+      "uzbek": "siyosiy boshpana",
+      "pos": "noun",
+      "example_en": "Refugees crossed the frontier seeking political asylum.",
+      "example_uz": "Qochqinlar siyosiy boshpana izlab chegarani kesib oʻtishdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "refugee",
+      "pronunciation_uz": "refyuji",
+      "uzbek": "qochqin",
+      "pos": "noun",
+      "example_en": "Humanitarian agencies provided food and tents for every refugee.",
+      "example_uz": "Gumanitar agentliklar har bir qochqinni oziq-ovqat va chodir bilan taʼminladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "welfare",
+      "pronunciation_uz": "velfer",
+      "uzbek": "ijtimoiy taʼminot",
+      "pos": "noun",
+      "example_en": "Social welfare programs support low-income families.",
+      "example_uz": "Ijtimoiy taʼminot dasturlari kam taʼminlangan oilalarni qoʻllab-quvvatlaydi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "censorship",
+      "pronunciation_uz": "sensorship",
+      "uzbek": "senzura",
+      "pos": "noun",
+      "example_en": "The constitution strictly prohibits media censorship.",
+      "example_uz": "Konstitutsiya ommaviy axborot vositalari senzurasini qatʼiyan man etadi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "propaganda",
+      "pronunciation_uz": "propaganda",
+      "uzbek": "targʻibot",
+      "pos": "noun",
+      "example_en": "Critical thinking helps readers distinguish facts from propaganda.",
+      "example_uz": "Tanqidiy fikrlash oʻquvchilarga faktlarni targʻibotdan ajratishga yordam beradi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "protest",
+      "pronunciation_uz": "protest",
+      "uzbek": "namoyish",
+      "pos": "noun",
+      "example_en": "Workers held a peaceful protest demanding better conditions.",
+      "example_uz": "Ishchilar yaxshiroq sharoit talab qilib tinch namoyish oʻtkazishdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "demonstration",
+      "pronunciation_uz": "demonstreyshn",
+      "uzbek": "ommaviy chiqish",
+      "pos": "noun",
+      "example_en": "Police directed traffic around the street demonstration.",
+      "example_uz": "Politsiya koʻcha namoyishi atrofida transport harakatini tartibga soldi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "petition",
+      "pronunciation_uz": "pitishn",
+      "uzbek": "petitsiya",
+      "pos": "noun",
+      "example_en": "Ten thousand residents signed the online petition.",
+      "example_uz": "Oʻn ming nafar aholi onlayn petitsiyaga imzo chekdi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "corruption",
+      "pronunciation_uz": "korapshn",
+      "uzbek": "korrupsiya",
+      "pos": "noun",
+      "example_en": "Digital transparency is an effective weapon against corruption.",
+      "example_uz": "Raqamli shaffoflik korrupsiyaga qarshi samarali quroldir.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "transparency",
+      "pronunciation_uz": "transparensi",
+      "uzbek": "shaffoflik",
+      "pos": "noun",
+      "example_en": "Public procurement requires complete financial transparency.",
+      "example_uz": "Davlat xaridlari toʻliq moliyaviy shaffoflikni talab qiladi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    },
+    {
+      "english": "accountability",
+      "pronunciation_uz": "ekauntabiliti",
+      "uzbek": "hisobdorlik",
+      "pos": "noun",
+      "example_en": "Regular audits ensure the accountability of public officials.",
+      "example_uz": "Muntazam tekshiruvlar davlat xizmatchilarining hisobdorligini taʼminlaydi.",
+      "category": "Siyosat, davlat va diplomatiya"
+    }
+  ]
+}

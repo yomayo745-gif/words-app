@@ -1,0 +1,1222 @@
+{
+  "title": "Vaqt, sonlar, oʻlchov va miqdorlar",
+  "category": "Time, Numbers, Units & Quantities",
+  "group": "freq",
+  "words": [
+    {
+      "english": "second (2nd)",
+      "pronunciation_uz": "sekond",
+      "uzbek": "ikkinchi",
+      "pos": "adj",
+      "example_en": "Our office is on the second floor.",
+      "example_uz": "Ofisimiz ikkinchi qavatda joylashgan.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "third",
+      "pronunciation_uz": "soʻd",
+      "uzbek": "uchinchi",
+      "pos": "adj",
+      "example_en": "She won third prize in the contest.",
+      "example_uz": "U tanlovda uchinchi oʻrinni egalladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "fourth",
+      "pronunciation_uz": "foʻs",
+      "uzbek": "toʻrtinchi",
+      "pos": "adj",
+      "example_en": "July is the fourth month of the fiscal quarter.",
+      "example_uz": "Iyul — toʻrtinchi oy.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "sixth",
+      "pronunciation_uz": "sikss",
+      "uzbek": "oltinchi",
+      "pos": "adj",
+      "example_en": "He finished in sixth place.",
+      "example_uz": "U oltinchi oʻrinda marraga yetib keldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "seventh",
+      "pronunciation_uz": "sevens",
+      "uzbek": "yettinchi",
+      "pos": "adj",
+      "example_en": "Sunday is the seventh day of the week.",
+      "example_uz": "Yakshanba — haftaning yettinchi kuni.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "eighth",
+      "pronunciation_uz": "eyts",
+      "uzbek": "sakkizinchi",
+      "pos": "adj",
+      "example_en": "Her birthday is on the eighth of March.",
+      "example_uz": "Uning tugʻilgan kuni sakkizinchi martda.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "ninth",
+      "pronunciation_uz": "nayns",
+      "uzbek": "toʻqqizinchi",
+      "pos": "adj",
+      "example_en": "September is the ninth month of the year.",
+      "example_uz": "Sentabr — yilning toʻqqizinchi oyi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "tenth",
+      "pronunciation_uz": "tens",
+      "uzbek": "oʻninchi",
+      "pos": "adj",
+      "example_en": "We celebrated our tenth anniversary.",
+      "example_uz": "Biz oʻn yillik yubileyimizni nishonladik.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "eleventh",
+      "pronunciation_uz": "ilevens",
+      "uzbek": "oʻn birinchi",
+      "pos": "adj",
+      "example_en": "The goal was scored in the eleventh minute.",
+      "example_uz": "Gol oʻn birinchi daqiqada urildi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "twelfth",
+      "pronunciation_uz": "tvelfs",
+      "uzbek": "oʻn ikkinchi",
+      "pos": "adj",
+      "example_en": "December is the twelfth month.",
+      "example_uz": "Dekabr — oʻn ikkinchi oy.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "twentieth",
+      "pronunciation_uz": "tventies",
+      "uzbek": "yigirmanchi",
+      "pos": "adj",
+      "example_en": "Jazz became popular in the twentieth century.",
+      "example_uz": "Jazz yigirmanchi asrda mashhur boʻldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "twenty-first",
+      "pronunciation_uz": "tventi foʻst",
+      "uzbek": "yigirma birinchi",
+      "pos": "adj",
+      "example_en": "We live in the twenty-first century.",
+      "example_uz": "Biz yigirma birinchi asrda yashayapmiz.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "thirtieth",
+      "pronunciation_uz": "soʻties",
+      "uzbek": "oʻttizinchi",
+      "pos": "adj",
+      "example_en": "Today is his thirtieth birthday.",
+      "example_uz": "Bugun uning oʻttiz yoshga toʻlgan kuni.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "hundredth",
+      "pronunciation_uz": "handreds",
+      "uzbek": "yuzinchi",
+      "pos": "adj",
+      "example_en": "She was the hundredth customer today.",
+      "example_uz": "U bugungi yuzinchi mijoz boʻldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "thousandth",
+      "pronunciation_uz": "sauzands",
+      "uzbek": "minginchi",
+      "pos": "adj",
+      "example_en": "Even a thousandth of a second matters in racing.",
+      "example_uz": "Poygada soniyaning mingdan bir ulushi ham ahamiyatli.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "once",
+      "pronunciation_uz": "vans",
+      "uzbek": "bir marta",
+      "pos": "adv",
+      "example_en": "I go swimming once a week.",
+      "example_uz": "Men haftada bir marta suzishga boraman.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "twice",
+      "pronunciation_uz": "tvays",
+      "uzbek": "ikki marta",
+      "pos": "adv",
+      "example_en": "Brush your teeth twice a day.",
+      "example_uz": "Tishlaringizni kuniga ikki marta yuving.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "thrice",
+      "pronunciation_uz": "srays",
+      "uzbek": "uch marta",
+      "pos": "adv",
+      "example_en": "He knocked on the door thrice.",
+      "example_uz": "U eshikni uch marta taqillatdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "triple",
+      "pronunciation_uz": "tripl",
+      "uzbek": "uch barobar",
+      "pos": "adj",
+      "example_en": "Production increased to triple its previous size.",
+      "example_uz": "Ishlab chiqarish avvalgi hajmidan uch barobar oshdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "quadruple",
+      "pronunciation_uz": "kvodrupl",
+      "uzbek": "toʻrt barobar oshmoq",
+      "pos": "verb",
+      "example_en": "The company hopes to quadruple its sales.",
+      "example_uz": "Kompaniya savdo hajmini toʻrt barobar oshirishga umid qilmoqda.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "multiple",
+      "pronunciation_uz": "maltipl",
+      "uzbek": "koʻp sonli, bir nechta",
+      "pos": "adj",
+      "example_en": "She won multiple awards for her work.",
+      "example_uz": "U oʻz mehnati uchun bir nechta mukofotlarni qoʻlga kiritdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "single",
+      "pronunciation_uz": "singl",
+      "uzbek": "yakka, bitta, boʻydoq",
+      "pos": "adj",
+      "example_en": "Not a single person was late.",
+      "example_uz": "Birorta ham odam kechikmadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "solo",
+      "pronunciation_uz": "soʻloʻ",
+      "uzbek": "yakka oʻzi, yakkaxon",
+      "pos": "adj",
+      "example_en": "He went on a solo trip across Asia.",
+      "example_uz": "U Osiyo boʻylab yakka oʻzi sayohatga chiqdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "pair",
+      "pronunciation_uz": "per",
+      "uzbek": "juft",
+      "pos": "noun",
+      "example_en": "I bought a new pair of shoes.",
+      "example_uz": "Men bir juft yangi poyabzal sotib oldim.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "couple",
+      "pronunciation_uz": "kapl",
+      "uzbek": "ikki-uchta, juftlik",
+      "pos": "noun",
+      "example_en": "Wait a couple of minutes, please.",
+      "example_uz": "Iltimos, ikki-uch daqiqa kutib turing.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "half a dozen",
+      "pronunciation_uz": "haf e dazn",
+      "uzbek": "oltita",
+      "pos": "noun",
+      "example_en": "There were half a dozen apples in the basket.",
+      "example_uz": "Savatda oltita olma bor edi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "score (twenty)",
+      "pronunciation_uz": "skoʻ",
+      "uzbek": "yigirmatacha",
+      "pos": "noun",
+      "example_en": "A score of people gathered at the gate.",
+      "example_uz": "Darvoza oldida yigirmatacha odam toʻplandi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "millennium",
+      "pronunciation_uz": "mileniyum",
+      "uzbek": "ming yillik",
+      "pos": "noun",
+      "example_en": "The city celebrated its second millennium.",
+      "example_uz": "Shahar oʻzining ikki ming yilligini nishonladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "era",
+      "pronunciation_uz": "ire",
+      "uzbek": "davr, zamon",
+      "pos": "noun",
+      "example_en": "The invention marked the beginning of a new era.",
+      "example_uz": "Ixtiro yangi davr boshlanganini bildirdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "epoch",
+      "pronunciation_uz": "ipok",
+      "uzbek": "tarixiy davr",
+      "pos": "noun",
+      "example_en": "The printing press opened a new epoch in history.",
+      "example_uz": "Bosmaxona tarixda yangi davrni ochdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "fortnight",
+      "pronunciation_uz": "foʻtnayt",
+      "uzbek": "ikki hafta (14 kun)",
+      "pos": "noun",
+      "example_en": "We spent a fortnight by the sea.",
+      "example_uz": "Biz dengiz boʻyida ikki hafta oʻtkazdik.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "weekday",
+      "pronunciation_uz": "vikdey",
+      "uzbek": "ish kuni (dushanba-juma)",
+      "pos": "noun",
+      "example_en": "The bank is open every weekday.",
+      "example_uz": "Bank har bir ish kuni ochiq.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "dawn",
+      "pronunciation_uz": "doʻn",
+      "uzbek": "tong sahar, shafaq",
+      "pos": "noun",
+      "example_en": "The farmers wake up at dawn.",
+      "example_uz": "Dehqonlar tong saharda uygʻonishadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "sunrise",
+      "pronunciation_uz": "sanrayz",
+      "uzbek": "quyosh chiqishi",
+      "pos": "noun",
+      "example_en": "We watched the sunrise from the hill.",
+      "example_uz": "Biz tepalikdan quyosh chiqishini tomosha qildik.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "daybreak",
+      "pronunciation_uz": "deybreyk",
+      "uzbek": "tong otishi",
+      "pos": "noun",
+      "example_en": "They set off on their journey at daybreak.",
+      "example_uz": "Ular tong otishi bilan safarga chiqishdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "midday",
+      "pronunciation_uz": "middey",
+      "uzbek": "kun yarmi, tush payti",
+      "pos": "noun",
+      "example_en": "The sun is strongest at midday.",
+      "example_uz": "Quyosh tush paytida eng kuchli qizdiradi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "noon",
+      "pronunciation_uz": "nun",
+      "uzbek": "peshin, soat 12:00",
+      "pos": "noun",
+      "example_en": "Lunch is served at noon.",
+      "example_uz": "Tushlik peshinda tortiladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "twilight",
+      "pronunciation_uz": "tvaylayt",
+      "uzbek": "oqshom, gʻira-shira payt",
+      "pos": "noun",
+      "example_en": "We walked home in the twilight.",
+      "example_uz": "Biz gʻira-shira oqshomda uyga piyoda qaytdik.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "dusk",
+      "pronunciation_uz": "dask",
+      "uzbek": "shom payti, qosh qorayishi",
+      "pos": "noun",
+      "example_en": "Streetlights turn on at dusk.",
+      "example_uz": "Koʻcha chiroqlari shom paytida yonadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "sunset",
+      "pronunciation_uz": "sanset",
+      "uzbek": "quyosh botishi",
+      "pos": "noun",
+      "example_en": "The sky turned orange at sunset.",
+      "example_uz": "Quyosh botishida osmon zargʻaldoq rangga kirdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "overnight",
+      "pronunciation_uz": "oʻvenayt",
+      "uzbek": "bir kechada, tun boʻyi",
+      "pos": "adv",
+      "example_en": "Success does not happen overnight.",
+      "example_uz": "Muvaffaqiyat bir kechada kelmaydi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "biannual",
+      "pronunciation_uz": "bayenyual",
+      "uzbek": "yiliga ikki marta boʻladigan",
+      "pos": "adj",
+      "example_en": "We attend a biannual medical conference.",
+      "example_uz": "Biz yiliga ikki marta oʻtkaziladigan tibbiy anjumanda qatnashamiz.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "biennial",
+      "pronunciation_uz": "bayeniel",
+      "uzbek": "har ikki yilda bir boʻladigan",
+      "pos": "adj",
+      "example_en": "The art festival is a biennial event.",
+      "example_uz": "Sanʼat festivali har ikki yilda bir boʻladigan tadbirdir.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "quarterly",
+      "pronunciation_uz": "kvoʻterli",
+      "uzbek": "choraklik (har uch oyda)",
+      "pos": "adj",
+      "example_en": "Taxes are paid on a quarterly basis.",
+      "example_uz": "Soliqlar har chorakda toʻlanadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "monthly",
+      "pronunciation_uz": "mansli",
+      "uzbek": "oylik, har oygi",
+      "pos": "adj",
+      "example_en": "What is the monthly rent for this flat?",
+      "example_uz": "Bu xonadonning oylik ijara haqi qancha?",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "weekly",
+      "pronunciation_uz": "vikli",
+      "uzbek": "haftalik",
+      "pos": "adj",
+      "example_en": "We hold a weekly team meeting on Mondays.",
+      "example_uz": "Dushanba kunlari haftalik jamoa yigʻilishini oʻtkazamiz.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "hourly",
+      "pronunciation_uz": "aurli",
+      "uzbek": "soatbay, har soatda",
+      "pos": "adj",
+      "example_en": "Workers are paid an hourly wage.",
+      "example_uz": "Ishchilarga soatbay ish haqi toʻlanadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "instant",
+      "pronunciation_uz": "instant",
+      "uzbek": "lahza, oniy",
+      "pos": "noun",
+      "example_en": "The message was delivered in an instant.",
+      "example_uz": "Xabar bir lahzada yetkazildi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "momentary",
+      "pronunciation_uz": "moʻmenteri",
+      "uzbek": "bir lahzalik, oʻtkinchi",
+      "pos": "adj",
+      "example_en": "There was a momentary pause in the conversation.",
+      "example_uz": "Suhbatda bir lahzalik tanaffus boʻldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "temporary",
+      "pronunciation_uz": "temporeri",
+      "uzbek": "vaqtinchalik",
+      "pos": "adj",
+      "example_en": "This is only a temporary solution.",
+      "example_uz": "Bu faqat vaqtinchalik yechim.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "permanent",
+      "pronunciation_uz": "poʻmanent",
+      "uzbek": "doimiy, muddatsiz",
+      "pos": "adj",
+      "example_en": "He found a permanent job in the city.",
+      "example_uz": "U shahardan doimiy ish topdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "infinite",
+      "pronunciation_uz": "infinit",
+      "uzbek": "cheksiz, bepoyon",
+      "pos": "adj",
+      "example_en": "The universe seems almost infinite.",
+      "example_uz": "Koinot deyarli cheksizdek tuyuladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "prior",
+      "pronunciation_uz": "prayo",
+      "uzbek": "avvalgi, oldingi",
+      "pos": "adj",
+      "example_en": "No prior experience is required for this course.",
+      "example_uz": "Bu kurs uchun avvalgi tajriba talab etilmaydi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "subsequent",
+      "pronunciation_uz": "sabsekvent",
+      "uzbek": "keyingi, navbatdagi",
+      "pos": "adj",
+      "example_en": "Subsequent events proved that she was right.",
+      "example_uz": "Keyingi voqealar uning haqligini isbotladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "simultaneous",
+      "pronunciation_uz": "simlteynies",
+      "uzbek": "bir vaqtdagi, baravar",
+      "pos": "adj",
+      "example_en": "The conference provides simultaneous translation.",
+      "example_uz": "Anjumanda sinxron (bir vaqtdagi) tarjima taqdim etiladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "meantime",
+      "pronunciation_uz": "mintaym",
+      "uzbek": "shu vaqt ichida",
+      "pos": "noun",
+      "example_en": "In the meantime, please take a seat.",
+      "example_uz": "Shu vaqt ichida, marhamat, oʻtiring.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "beforehand",
+      "pronunciation_uz": "bifoʻhend",
+      "uzbek": "oldindan",
+      "pos": "adv",
+      "example_en": "We bought our train tickets beforehand.",
+      "example_uz": "Biz poyezd chiptalarini oldindan sotib oldik.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "afterwards",
+      "pronunciation_uz": "aftevordz",
+      "uzbek": "keyinchalik, soʻng",
+      "pos": "adv",
+      "example_en": "Let's watch the film and talk about it afterwards.",
+      "example_uz": "Keling, filmni koʻraylik va keyin u haqida gaplashamiz.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "henceforth",
+      "pronunciation_uz": "hensfoʻs",
+      "uzbek": "bundan buyon",
+      "pos": "adv",
+      "example_en": "Henceforth, the new rules will apply to all.",
+      "example_uz": "Bundan buyon yangi qoidalar barchaga tatbiq etiladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "now",
+      "pronunciation_uz": "nau",
+      "uzbek": "hozir, endi",
+      "pos": "adv",
+      "example_en": "We need to leave right now.",
+      "example_uz": "Biz hoziroq yoʻlga chiqishimiz kerak.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "someday",
+      "pronunciation_uz": "samdey",
+      "uzbek": "bir kun kelib",
+      "pos": "adv",
+      "example_en": "I hope to visit Japan someday.",
+      "example_uz": "Bir kun kelib Yaponiyaga borishga umid qilaman.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "sometime",
+      "pronunciation_uz": "samtaym",
+      "uzbek": "biror vaqtda",
+      "pos": "adv",
+      "example_en": "Let's have lunch together sometime next week.",
+      "example_uz": "Kelasi hafta biror vaqtda birga tushlik qilaylik.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "forever",
+      "pronunciation_uz": "foreve",
+      "uzbek": "umrbod, abadiy",
+      "pos": "adv",
+      "example_en": "True friendship lasts forever.",
+      "example_uz": "Haqiqiy doʻstlik abadiy davom etadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "punctual",
+      "pronunciation_uz": "pankchual",
+      "uzbek": "vaqtida keladigan, tartibli",
+      "pos": "adj",
+      "example_en": "Please be punctual for the interview.",
+      "example_uz": "Iltimos, suhbatga oʻz vaqtida keling.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "overdue",
+      "pronunciation_uz": "oʻvedyu",
+      "uzbek": "muddati oʻtib ketgan",
+      "pos": "adj",
+      "example_en": "This library book is two weeks overdue.",
+      "example_uz": "Kutubxonaning bu kitobini topshirish muddati ikki haftaga oʻtib ketibdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "premature",
+      "pronunciation_uz": "premachur",
+      "uzbek": "muddatidan oldingi, erta",
+      "pos": "adj",
+      "example_en": "It is premature to announce the winner now.",
+      "example_uz": "Hozir gʻolibni eʼlon qilishga hali erta.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "chronological",
+      "pronunciation_uz": "kronolojikl",
+      "uzbek": "xronologik (vaqt tartibidagi)",
+      "pos": "adj",
+      "example_en": "List your work experience in chronological order.",
+      "example_uz": "Ish tajribangizni vaqt tartibida yozib chiqing.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "span",
+      "pronunciation_uz": "spen",
+      "uzbek": "vaqt oraligʻi, quloch",
+      "pos": "noun",
+      "example_en": "Children have a short attention span.",
+      "example_uz": "Bolalarning diqqatni jamlash muddati qisqa boʻladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "spell (period)",
+      "pronunciation_uz": "spel",
+      "uzbek": "qisqa davr (ob-havo va h.k.)",
+      "pos": "noun",
+      "example_en": "We had a cold spell in November.",
+      "example_uz": "Noyabr oyida qisqa muddatli sovuq tushdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "phase",
+      "pronunciation_uz": "feyz",
+      "uzbek": "bosqich, faza",
+      "pos": "noun",
+      "example_en": "The construction is entering its final phase.",
+      "example_uz": "Qurilish oʻzining yakuniy bosqichiga kirmoqda.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "stage",
+      "pronunciation_uz": "steyj",
+      "uzbek": "bosqich, sahna",
+      "pos": "noun",
+      "example_en": "At this stage, we need more data.",
+      "example_uz": "Ushbu bosqichda bizga koʻproq maʼlumotlar kerak.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "deadline",
+      "pronunciation_uz": "dedlayn",
+      "uzbek": "oxirgi muddat",
+      "pos": "noun",
+      "example_en": "Tomorrow is the deadline for applications.",
+      "example_uz": "Ertaga arizalar topshirishning oxirgi muddati.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "timetable",
+      "pronunciation_uz": "taymteybl",
+      "uzbek": "dars yoki qatnov jadvali",
+      "pos": "noun",
+      "example_en": "Check the train timetable before you go.",
+      "example_uz": "Ketishdan oldin poyezdlar jadvalini tekshiring.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "itinerary",
+      "pronunciation_uz": "aytinereri",
+      "uzbek": "safar yoʻnalishi (marshrut)",
+      "pos": "noun",
+      "example_en": "Our tour itinerary includes Khiva and Bukhara.",
+      "example_uz": "Sayohat yoʻnalishimiz Xiva va Buxoroni oʻz ichiga oladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "agenda",
+      "pronunciation_uz": "ejenda",
+      "uzbek": "kun tartibi",
+      "pos": "noun",
+      "example_en": "What is the first item on the agenda?",
+      "example_uz": "Kun tartibidagi birinchi masala nima?",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "timezone",
+      "pronunciation_uz": "taymzoʻn",
+      "uzbek": "vaqt mintaqasi",
+      "pos": "noun",
+      "example_en": "London is in a different timezone from Tashkent.",
+      "example_uz": "London Toshkentdan boshqa vaqt mintaqasida joylashgan.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "stopwatch",
+      "pronunciation_uz": "stopvoch",
+      "uzbek": "sekundomer",
+      "pos": "noun",
+      "example_en": "The coach timed the runner with a stopwatch.",
+      "example_uz": "Murabbiy yuguruvchining vaqtini sekundomer bilan oʻlchadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "hourglass",
+      "pronunciation_uz": "aurglas",
+      "uzbek": "qumsoat",
+      "pos": "noun",
+      "example_en": "Sand flowed slowly through the hourglass.",
+      "example_uz": "Qumsoat ichidan qum sekin oqib tushdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "sundial",
+      "pronunciation_uz": "sandayl",
+      "uzbek": "quyosh soati",
+      "pos": "noun",
+      "example_en": "An ancient sundial stands in the garden.",
+      "example_uz": "Bogʻda qadimiy quyosh soati turibdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "millimeter",
+      "pronunciation_uz": "milimite",
+      "uzbek": "millimetr",
+      "pos": "noun",
+      "example_en": "The glass is five millimeters thick.",
+      "example_uz": "Oyna besh millimetr qalinlikda.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "meter",
+      "pronunciation_uz": "mite",
+      "uzbek": "metr",
+      "pos": "noun",
+      "example_en": "The swimming pool is fifty meters long.",
+      "example_uz": "Suzish havzasining uzunligi ellik metr.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "kilometer",
+      "pronunciation_uz": "kilomite",
+      "uzbek": "kilometr",
+      "pos": "noun",
+      "example_en": "The village is ten kilometers away.",
+      "example_uz": "Qishloq oʻn kilometr uzoqlikda joylashgan.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "inch",
+      "pronunciation_uz": "inch",
+      "uzbek": "dyuym (2,54 sm)",
+      "pos": "noun",
+      "example_en": "The laptop has a fifteen-inch screen.",
+      "example_uz": "Noutbuk oʻn besh dyuymli ekranga ega.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "foot (unit)",
+      "pronunciation_uz": "fut",
+      "uzbek": "fut (30,48 sm)",
+      "pos": "noun",
+      "example_en": "The plane is flying at thirty thousand feet.",
+      "example_uz": "Samolyot oʻttiz ming fut balandlikda uchmoqda.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "yard (unit)",
+      "pronunciation_uz": "yard",
+      "uzbek": "yard (91,4 sm)",
+      "pos": "noun",
+      "example_en": "The house is just a hundred yards from the beach.",
+      "example_uz": "Uy sohil boʻyidan atigi yuz yard uzoqlikda.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "mile",
+      "pronunciation_uz": "mayl",
+      "uzbek": "mil (1,6 km)",
+      "pos": "noun",
+      "example_en": "We drove fifty miles along the coast.",
+      "example_uz": "Biz qirgʻoq boʻylab ellik mil yoʻl yurdik.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "gram",
+      "pronunciation_uz": "grem",
+      "uzbek": "gramm",
+      "pos": "noun",
+      "example_en": "Add two hundred grams of flour.",
+      "example_uz": "Ikki yuz gramm un qoʻshing.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "kilogram",
+      "pronunciation_uz": "kilogrem",
+      "uzbek": "kilogramm",
+      "pos": "noun",
+      "example_en": "I bought two kilograms of cherries.",
+      "example_uz": "Men ikki kilogramm gilos sotib oldim.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "ton",
+      "pronunciation_uz": "tan",
+      "uzbek": "tonna",
+      "pos": "noun",
+      "example_en": "The truck can carry ten tons of cargo.",
+      "example_uz": "Yuk mashinasi oʻn tonna yuk koʻtara oladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "ounce",
+      "pronunciation_uz": "auns",
+      "uzbek": "unsiya (28,3 gramm)",
+      "pos": "noun",
+      "example_en": "Gold is measured in troy ounces.",
+      "example_uz": "Oltin troya unsiyalarida oʻlchanadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "pound (weight)",
+      "pronunciation_uz": "paund",
+      "uzbek": "funt (453,6 gramm)",
+      "pos": "noun",
+      "example_en": "The baby weighed seven pounds at birth.",
+      "example_uz": "Chaqaloq tugʻilganda yetti funt tosh bosdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "milliliter",
+      "pronunciation_uz": "mililite",
+      "uzbek": "millilitr",
+      "pos": "noun",
+      "example_en": "Take five milliliters of this syrup.",
+      "example_uz": "Ushbu siropdan besh millilitr iching.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "liter",
+      "pronunciation_uz": "lite",
+      "uzbek": "litr",
+      "pos": "noun",
+      "example_en": "Drink at least two liters of water a day.",
+      "example_uz": "Kuniga kamida ikki litr suv iching.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "pint",
+      "pronunciation_uz": "paynt",
+      "uzbek": "pinta (~0,5 litr)",
+      "pos": "noun",
+      "example_en": "She bought a pint of fresh cream.",
+      "example_uz": "U yarim litr yangi qaymoq sotib oldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "drop (amount)",
+      "pronunciation_uz": "drop",
+      "uzbek": "tomchi",
+      "pos": "noun",
+      "example_en": "Put two drops of medicine in each eye.",
+      "example_uz": "Har bir koʻzga ikki tomchidan dori tomizing.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "pinch (amount)",
+      "pronunciation_uz": "pinch",
+      "uzbek": "bir chimdim",
+      "pos": "noun",
+      "example_en": "Add a pinch of salt to the soup.",
+      "example_uz": "Shoʻrvaga bir chimdim tuz qoʻshing.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "handful",
+      "pronunciation_uz": "hendful",
+      "uzbek": "bir hovuch, ozgina",
+      "pos": "noun",
+      "example_en": "Only a handful of people knew the secret.",
+      "example_uz": "Sirni faqat sanoqli odamlargina bilar edi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "spoonful",
+      "pronunciation_uz": "spunful",
+      "uzbek": "bir qoshiq toʻla",
+      "pos": "noun",
+      "example_en": "Stir in a spoonful of honey.",
+      "example_uz": "Bir qoshiq asal solib aralashtiring.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "cupful",
+      "pronunciation_uz": "kapful",
+      "uzbek": "bir piyola/stakan toʻla",
+      "pos": "noun",
+      "example_en": "Add a cupful of rice to the boiling water.",
+      "example_uz": "Qaynab turgan suvga bir piyola guruch soling.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "bucketful",
+      "pronunciation_uz": "baketful",
+      "uzbek": "bir paqir toʻla",
+      "pos": "noun",
+      "example_en": "He poured a bucketful of water on the fire.",
+      "example_uz": "U olov ustiga bir paqir suv quydi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "heap",
+      "pronunciation_uz": "hip",
+      "uzbek": "uyum, toʻda",
+      "pos": "noun",
+      "example_en": "There is a heap of laundry in the basket.",
+      "example_uz": "Savatda bir uyum kir kiyim bor.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "pile",
+      "pronunciation_uz": "payl",
+      "uzbek": "taxlam, uyum",
+      "pos": "noun",
+      "example_en": "A pile of books lay on the table.",
+      "example_uz": "Stol ustida bir taxlam kitob yotardi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "stack",
+      "pronunciation_uz": "stek",
+      "uzbek": "ustma-ust taxlam",
+      "pos": "noun",
+      "example_en": "He carried a neat stack of papers.",
+      "example_uz": "U bir dasta qogʻozni tartib bilan koʻtarib keldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "cluster",
+      "pronunciation_uz": "klaste",
+      "uzbek": "toʻp, guruh, dasta",
+      "pos": "noun",
+      "example_en": "A cluster of stars shone brightly.",
+      "example_uz": "Yulduzlar toʻpi charaqlab porlab turardi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "batch",
+      "pronunciation_uz": "bech",
+      "uzbek": "partiya, bir yopish (non)",
+      "pos": "noun",
+      "example_en": "She baked a fresh batch of cookies.",
+      "example_uz": "U yangi bir partiya pechenye pishirdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "portion",
+      "pronunciation_uz": "poʻshn",
+      "uzbek": "ulush, porsiya",
+      "pos": "noun",
+      "example_en": "The restaurant serves generous portions.",
+      "example_uz": "Restoran katta porsiyalarda ovqat tortadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "share (part)",
+      "pronunciation_uz": "sher",
+      "uzbek": "hissa, ulush",
+      "pos": "noun",
+      "example_en": "Everyone did their fair share of the work.",
+      "example_uz": "Hamma ishning oʻziga tegishli hissasini bajardi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "slice",
+      "pronunciation_uz": "slays",
+      "uzbek": "tilim, boʻlak",
+      "pos": "noun",
+      "example_en": "Would you like a slice of melon?",
+      "example_uz": "Bir tilim qovun yeysizmi?",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "chunk",
+      "pronunciation_uz": "chank",
+      "uzbek": "katta boʻlak, burda",
+      "pos": "noun",
+      "example_en": "A large chunk of ice fell into the sea.",
+      "example_uz": "Katta bir muz boʻlagi dengizga qulab tushdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "fragment",
+      "pronunciation_uz": "fragment",
+      "uzbek": "parcha, siniq boʻlak",
+      "pos": "noun",
+      "example_en": "Archaeologists found fragments of ancient pottery.",
+      "example_uz": "Arxeologlar qadimiy sopol parchalarini topishdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "crumb",
+      "pronunciation_uz": "kram",
+      "uzbek": "ushoq, uvogʻ",
+      "pos": "noun",
+      "example_en": "The birds ate every crumb of bread.",
+      "example_uz": "Qushlar nonning har bir ushogʻini yeb bitirishdi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "grain (tiny piece)",
+      "pronunciation_uz": "greyn",
+      "uzbek": "zarra, donacha",
+      "pos": "noun",
+      "example_en": "There isn't a grain of truth in that rumor.",
+      "example_uz": "U mish-mishda zarracha ham haqiqat yoʻq.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "speck",
+      "pronunciation_uz": "spek",
+      "uzbek": "gard, dogʻ, zarracha",
+      "pos": "noun",
+      "example_en": "Not a speck of dust was on the shelf.",
+      "example_uz": "Tokchada biror gard ham chang yoʻq edi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "shred",
+      "pronunciation_uz": "shred",
+      "uzbek": "qiyqim, parcha",
+      "pos": "noun",
+      "example_en": "He tore the letter into shreds.",
+      "example_uz": "U xatni mayda parchalarga boʻlib yirtib tashladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "strip",
+      "pronunciation_uz": "strip",
+      "uzbek": "tasma, ensiz boʻlak",
+      "pos": "noun",
+      "example_en": "Cut the paper into narrow strips.",
+      "example_uz": "Qogʻozni ensiz tasmalarga qirqib chiqing.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "slab",
+      "pronunciation_uz": "sleb",
+      "uzbek": "yassi plita, qalin boʻlak",
+      "pos": "noun",
+      "example_en": "The path was paved with stone slabs.",
+      "example_uz": "Yoʻlak tosh plitalar bilan qoplangan edi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "block (piece)",
+      "pronunciation_uz": "blok",
+      "uzbek": "boʻlak, blok",
+      "pos": "noun",
+      "example_en": "He carved a statue from a block of wood.",
+      "example_uz": "U yogʻoch boʻlagidan haykal yoʻndi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "bar (piece)",
+      "pronunciation_uz": "bar",
+      "uzbek": "boʻlak (sovun, shokolad)",
+      "pos": "noun",
+      "example_en": "She bought a bar of dark chocolate.",
+      "example_uz": "U bir boʻlak qora shokolad sotib oldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "loaf",
+      "pronunciation_uz": "loʻf",
+      "uzbek": "buxanka, butun non",
+      "pos": "noun",
+      "example_en": "Please buy a loaf of warm bread.",
+      "example_uz": "Iltimos, bitta issiq non sotib oling.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "roll (paper/fabric)",
+      "pronunciation_uz": "roʻl",
+      "uzbek": "oʻram, rulon",
+      "pos": "noun",
+      "example_en": "We need a roll of wallpaper.",
+      "example_uz": "Bizga bir oʻram gulqogʻoz kerak.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "sheet (layer)",
+      "pronunciation_uz": "shit",
+      "uzbek": "varaq, choyshab",
+      "pos": "noun",
+      "example_en": "Take a clean sheet of paper.",
+      "example_uz": "Toza bir varaq qogʻoz oling.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "coat (layer)",
+      "pronunciation_uz": "koʻt",
+      "uzbek": "qavat (boʻyoq haqida)",
+      "pos": "noun",
+      "example_en": "The wall needs a second coat of paint.",
+      "example_uz": "Devorga ikkinchi qavat boʻyoq surtish kerak.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "majority",
+      "pronunciation_uz": "mejoriti",
+      "uzbek": "koʻpchilik, aksariyat",
+      "pos": "noun",
+      "example_en": "The majority of voters supported the plan.",
+      "example_uz": "Saylovchilarning aksariyati rejani qoʻllab-quvvatladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "minority",
+      "pronunciation_uz": "maynoriti",
+      "uzbek": "ozchilik",
+      "pos": "noun",
+      "example_en": "Only a small minority disagreed.",
+      "example_uz": "Faqat kichik bir ozchilik norozi boʻldi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "surplus",
+      "pronunciation_uz": "soʻplas",
+      "uzbek": "ortiqcha qism, profitsit",
+      "pos": "noun",
+      "example_en": "The country exports its grain surplus.",
+      "example_uz": "Mamlakat oʻzining ortiqcha gʻallasini eksport qiladi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "shortage",
+      "pronunciation_uz": "shoʻtij",
+      "uzbek": "yetishmovchilik, tanqislik",
+      "pos": "noun",
+      "example_en": "There is a shortage of skilled engineers.",
+      "example_uz": "Malakali muhandislar yetishmovchiligi mavjud.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "scarcity",
+      "pronunciation_uz": "skersiti",
+      "uzbek": "tanqislik, kamyoblik",
+      "pos": "noun",
+      "example_en": "Water scarcity is a serious global issue.",
+      "example_uz": "Suv tanqisligi jiddiy global muammodir.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "abundance",
+      "pronunciation_uz": "abandans",
+      "uzbek": "moʻl-koʻllik, seroblik",
+      "pos": "noun",
+      "example_en": "The region has an abundance of sunshine.",
+      "example_uz": "Hududda quyosh nuri moʻl-koʻl.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "plenty",
+      "pronunciation_uz": "plenti",
+      "uzbek": "yetarli, bisyor",
+      "pos": "pron",
+      "example_en": "Don't hurry, we have plenty of time.",
+      "example_uz": "Shoshilmang, vaqtimiz yetarli.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "excess",
+      "pronunciation_uz": "ikses",
+      "uzbek": "meʼyoridan ortiqlik",
+      "pos": "noun",
+      "example_en": "Avoid eating sugar in excess.",
+      "example_uz": "Shakarni meʼyoridan ortiq isteʼmol qilishdan saqlaning.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "quota",
+      "pronunciation_uz": "kvoʻta",
+      "uzbek": "kvota, belgilangan meʼyor",
+      "pos": "noun",
+      "example_en": "The factory exceeded its monthly quota.",
+      "example_uz": "Zavod oylik rejasini (kvotasini) ortigʻi bilan bajardi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "ratio",
+      "pronunciation_uz": "reyshioʻ",
+      "uzbek": "nisbat",
+      "pos": "noun",
+      "example_en": "The teacher-to-student ratio is one to fifteen.",
+      "example_uz": "Oʻqituvchi va oʻquvchilar nisbati birga oʻn beshni tashkil etadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "proportion",
+      "pronunciation_uz": "propoʻshn",
+      "uzbek": "mutanosiblik, ulush",
+      "pos": "noun",
+      "example_en": "A large proportion of our income goes to food.",
+      "example_uz": "Daromadimizning katta ulushi oziq-ovqatga ketadi.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "percentage",
+      "pronunciation_uz": "persentij",
+      "uzbek": "foiz koʻrsatkichi",
+      "pos": "noun",
+      "example_en": "What percentage of the population speaks English?",
+      "example_uz": "Aholining necha foizi ingliz tilida gaplashadi?",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    },
+    {
+      "english": "fraction",
+      "pronunciation_uz": "frekshn",
+      "uzbek": "kasr, kichik qism",
+      "pos": "noun",
+      "example_en": "You can buy it for a fraction of the original cost.",
+      "example_uz": "Uni asl narxining kichik bir qismiga sotib olishingiz mumkin.",
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+    }
+  ]
+}

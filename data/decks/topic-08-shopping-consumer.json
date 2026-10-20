@@ -1,0 +1,1186 @@
+{
+  "title": "Xarid, bozor va isteʼmol",
+  "category": "Shopping, Retail & Services",
+  "group": "topic",
+  "words": [
+    {
+      "english": "shop",
+      "pronunciation_uz": "shop",
+      "uzbek": "doʻkon; xarid qilmoq",
+      "pos": "noun",
+      "example_en": "The corner shop sells fresh bread and milk every morning.",
+      "example_uz": "Burchakdagi doʻkonda har kuni ertalab yangi non va sut sotiladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "store",
+      "pronunciation_uz": "stor",
+      "uzbek": "doʻkon, magazin",
+      "pos": "noun",
+      "example_en": "The book store on Navoi Street has a wide selection of dictionaries.",
+      "example_uz": "Navoiy koʻchasidagi kitob doʻkonida lugʻatlarning katta tanlovi bor.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "bazaar",
+      "pronunciation_uz": "bazar",
+      "uzbek": "bozor, sharq bozori",
+      "pos": "noun",
+      "example_en": "Chorsu Bazaar is filled with the scent of spices and hot bread.",
+      "example_uz": "Chorsu bozori ziravorlar va issiq non hidiga toʻla.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "mall",
+      "pronunciation_uz": "mol",
+      "uzbek": "savdo majmuasi, gipermarket",
+      "pos": "noun",
+      "example_en": "Families visit the indoor shopping mall on rainy weekends.",
+      "example_uz": "Oilalar yomgʻirli dam olish kunlarida yopiq savdo majmuasiga borishadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "supermarket",
+      "pronunciation_uz": "supermarket",
+      "uzbek": "supermarket",
+      "pos": "noun",
+      "example_en": "Push the shopping cart down the dairy aisle of the supermarket.",
+      "example_uz": "Xarid aravachasini supermarketning sut mahsulotlari qatori boʻylab yurgizing.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "grocery",
+      "pronunciation_uz": "grouseri",
+      "uzbek": "oziq-ovqat doʻkoni, baqqollik",
+      "pos": "noun",
+      "example_en": "He stopped by the neighborhood grocery for tea and sugar.",
+      "example_uz": "U choy va shakar olish uchun mahalla oziq-ovqat doʻkoniga kirdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "greengrocer",
+      "pronunciation_uz": "gringrouser",
+      "uzbek": "meva-sabzavot sotuvchisi, koʻkatchi",
+      "pos": "noun",
+      "example_en": "The local greengrocer always has the sweetest melons.",
+      "example_uz": "Mahalliy meva-sabzavot sotuvchisida doimo eng shirin qovunlar boʻladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "butcher",
+      "pronunciation_uz": "butcher",
+      "uzbek": "qassob; qassobxona",
+      "pos": "noun",
+      "example_en": "Ask the butcher for a tender cut of lamb for pilaf.",
+      "example_uz": "Qassobdan palov uchun qoʻy goʻshtining yumshoq joyidan soʻrang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "florist",
+      "pronunciation_uz": "florist",
+      "uzbek": "gulchi, gul doʻkoni",
+      "pos": "noun",
+      "example_en": "He bought a bouquet of white roses from the florist.",
+      "example_uz": "U gul doʻkonidan bir dasta oq atirgul sotib oldi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "jeweler",
+      "pronunciation_uz": "jueler",
+      "uzbek": "zargar; zargarlik doʻkoni",
+      "pos": "noun",
+      "example_en": "The jeweler repaired the clasp on the gold necklace.",
+      "example_uz": "Zargar tilla marjonning ilgagini tuzatib berdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "stationery",
+      "pronunciation_uz": "steyshneri",
+      "uzbek": "kanselyariya, oʻquv va yozuv qurollari",
+      "pos": "noun",
+      "example_en": "In August, parents buy notebooks at the stationery shop.",
+      "example_uz": "Avgust oyida ota-onalar kanselyariya doʻkonidan daftarlar xarid qilishadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "hardware store",
+      "pronunciation_uz": "hardver stor",
+      "uzbek": "xoʻjalik va qurilish mollari doʻkoni",
+      "pos": "noun",
+      "example_en": "We bought paint and a new lock at the hardware store.",
+      "example_uz": "Biz xoʻjalik mollari doʻkonidan boʻyoq va yangi qulf sotib oldik.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "newsstand",
+      "pronunciation_uz": "nyuzstend",
+      "uzbek": "gazeta va jurnallar doʻkonchasi",
+      "pos": "noun",
+      "example_en": "Grandfather buys the morning paper at the newsstand.",
+      "example_uz": "Bobom ertalabki gazetani matbuot doʻkonchasidan sotib oladilar.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "optician",
+      "pronunciation_uz": "optishn",
+      "uzbek": "optika, koʻzoynak ustasi va doʻkoni",
+      "pos": "noun",
+      "example_en": "She ordered new reading glasses at the optician's.",
+      "example_uz": "U optika doʻkonida yangi oʻqish koʻzoynagi buyurtma qildi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "drugstore",
+      "pronunciation_uz": "dragstor",
+      "uzbek": "dorixona va gigiyena buyumlari doʻkoni",
+      "pos": "noun",
+      "example_en": "Pick up some bandages and toothpaste at the drugstore.",
+      "example_uz": "Dorixonadan bint va tish pastasi olib keling.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "boutique",
+      "pronunciation_uz": "butik",
+      "uzbek": "butik (kichik zamonaviy kiyim doʻkoni)",
+      "pos": "noun",
+      "example_en": "The designer opened a silk dress boutique in the city center.",
+      "example_uz": "Dizayner shahar markazida ipak liboslar butigini ochdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "stall",
+      "pronunciation_uz": "stol",
+      "uzbek": "rasta, doʻkoncha (bozordagi)",
+      "pos": "noun",
+      "example_en": "Each stall in the dried fruit row is piled high with raisins and almonds.",
+      "example_uz": "Quruq mevalar qatoridagi har bir rasta mayiz va bodomga toʻlib-toshgan.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "booth",
+      "pronunciation_uz": "bus",
+      "uzbek": "kabina, yarmarka pavilyoni, doʻkoncha",
+      "pos": "noun",
+      "example_en": "Potters from Rishtan displayed ceramics at their exhibition booth.",
+      "example_uz": "Rishtonlik kulollar koʻrgazma pavilyonida sopol buyumlarni namoyish etishdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "kiosk",
+      "pronunciation_uz": "kiosk",
+      "uzbek": "doʻkoncha, shoxobcha, kiosk",
+      "pos": "noun",
+      "example_en": "Buy a bottle of cold mineral water at the street kiosk.",
+      "example_uz": "Koʻchadagi doʻkonchadan bir shisha muzdek mineral suv oling.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "aisle",
+      "pronunciation_uz": "ayl",
+      "uzbek": "qator oraligʻidagi yoʻlak (doʻkonda)",
+      "pos": "noun",
+      "example_en": "Rice, flour, and pasta are located in aisle four.",
+      "example_uz": "Guruch, un va makaron toʻrtinchi qator yoʻlagida joylashgan.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "shelf",
+      "pronunciation_uz": "shelf",
+      "uzbek": "tokcha, rasta",
+      "pos": "noun",
+      "example_en": "Check the expiration date on the jar before taking it off the shelf.",
+      "example_uz": "Bankani tokchadan olishdan oldin uning yaroqlilik muddatini tekshiring.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "mannequin",
+      "pronunciation_uz": "menekin",
+      "uzbek": "maneken (kiyim namoyish qilinadigan shakl)",
+      "pos": "noun",
+      "example_en": "The mannequin in the shop window wore a traditional chapan.",
+      "example_uz": "Doʻkon oynasidagi manekenga anʼanaviy chopon kiydirilgan edi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "fitting room",
+      "pronunciation_uz": "fitting rum",
+      "uzbek": "kiyib koʻrish xonasi, primyerka",
+      "pos": "noun",
+      "example_en": "There is a full-length mirror inside the fitting room.",
+      "example_uz": "Kiyib koʻrish xonasi ichida boʻy baravar koʻzgu bor.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "trolley",
+      "pronunciation_uz": "trolli",
+      "uzbek": "xarid aravachasi",
+      "pos": "noun",
+      "example_en": "He wheeled the metal shopping trolley toward the checkout.",
+      "example_uz": "U temir xarid aravachasini kassa tomon haydab bordi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "queue",
+      "pronunciation_uz": "kyu",
+      "uzbek": "navbat",
+      "pos": "noun",
+      "example_en": "People stood patiently in the queue at the bakery.",
+      "example_uz": "Odamlar novvoyxonada sabr bilan navbatda turishdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "checkout",
+      "pronunciation_uz": "chekaut",
+      "uzbek": "hisob-kitob kassasi, toʻlov joyi",
+      "pos": "noun",
+      "example_en": "Pay for your groceries at the express checkout.",
+      "example_uz": "Oziq-ovqat xaridlaringiz uchun tezkor kassada toʻlov qiling.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "cashier",
+      "pronunciation_uz": "keshir",
+      "uzbek": "kassir, gʻaznachi",
+      "pos": "noun",
+      "example_en": "The cashier scanned the items and handed me the receipt.",
+      "example_uz": "Kassir mahsulotlarni skanerlab, menga xarid chekini uzatdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "clerk",
+      "pronunciation_uz": "klyork",
+      "uzbek": "doʻkon xodimi, sotuvchi-maslahatchi",
+      "pos": "noun",
+      "example_en": "Ask the store clerk if they have this shoe in size forty-two.",
+      "example_uz": "Doʻkon xodimidan ushbu poyabzalning qirq ikkinchi oʻlchami bor-yoʻqligini soʻrang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "vendor",
+      "pronunciation_uz": "vendor",
+      "uzbek": "sotuvchi (bozor yoki koʻcha sotuvchisi)",
+      "pos": "noun",
+      "example_en": "The friendly vendor offered us a slice of melon to taste.",
+      "example_uz": "Ochiq chehrali sotuvchi tatib koʻrishimiz uchun bizga bir tilim qovun uzatdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "merchant",
+      "pronunciation_uz": "myorchant",
+      "uzbek": "savdogar, tijoratchi",
+      "pos": "noun",
+      "example_en": "Along the Silk Road, merchants traded silk, spices, and paper.",
+      "example_uz": "Buyuk Ipak yoʻli boʻylab savdogarlar ipak, ziravor va qogʻoz bilan savdo qilganlar.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "trader",
+      "pronunciation_uz": "treyder",
+      "uzbek": "savdogar, vositachi",
+      "pos": "noun",
+      "example_en": "Carpet traders in Bukhara know the history of every pattern.",
+      "example_uz": "Buxorodagi gilam savdogarlari har bir naqshning tarixini biladilar.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "shopper",
+      "pronunciation_uz": "shopper",
+      "uzbek": "xaridor, bozorchi",
+      "pos": "noun",
+      "example_en": "The bazaar was crowded with early morning shoppers.",
+      "example_uz": "Bozor ertalabki xaridorlar bilan gavjum edi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "client",
+      "pronunciation_uz": "klayent",
+      "uzbek": "mijoz",
+      "pos": "noun",
+      "example_en": "The barber greets every regular client by name.",
+      "example_uz": "Sartarosh har bir doimiy mijozini ismi bilan aytib kutib oladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "consumer",
+      "pronunciation_uz": "konsyumer",
+      "uzbek": "isteʼmolchi",
+      "pos": "noun",
+      "example_en": "Consumer rights are protected by law.",
+      "example_uz": "Isteʼmolchilar huquqlari qonun bilan himoya qilinadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "purchase",
+      "pronunciation_uz": "pyorches",
+      "uzbek": "xarid; xarid qilmoq, sotib olmoq",
+      "pos": "verb",
+      "example_en": "Keep the receipt for thirty days after you purchase an appliance.",
+      "example_uz": "Maishiy texnika xarid qilganingizdan soʻng chekni oʻttiz kun davomida saqlang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "sell",
+      "pronunciation_uz": "sel",
+      "uzbek": "sotmoq",
+      "pos": "verb",
+      "example_en": "Farmers bring fresh figs to the market to sell.",
+      "example_uz": "Dehqonlar bozorga sotish uchun yangi anjir olib kelishadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "spend",
+      "pronunciation_uz": "spend",
+      "uzbek": "sarflamoq, xarjlamoq",
+      "pos": "verb",
+      "example_en": "Plan your budget carefully so you do not spend too much.",
+      "example_uz": "Haddan ortiq pul sarflab yubormaslik uchun byudjetingizni ehtiyotkorlik bilan rejalashtiring.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "price",
+      "pronunciation_uz": "prays",
+      "uzbek": "narx, baho",
+      "pos": "noun",
+      "example_en": "The price of fresh strawberries drops in late May.",
+      "example_uz": "May oyining oxirida yangi qulupnayning narxi tushadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "price tag",
+      "pronunciation_uz": "prays teg",
+      "uzbek": "narxnoma, yorliq",
+      "pos": "noun",
+      "example_en": "Look at the price tag on the sleeve of the coat.",
+      "example_uz": "Palto yengidagi narxnomaga qarang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "value",
+      "pronunciation_uz": "velyu",
+      "uzbek": "qiymat, qadr",
+      "pos": "noun",
+      "example_en": "Handmade carpets hold their value for decades.",
+      "example_uz": "Qoʻlda toʻqilgan gilamlar oʻnlab yillar davomida oʻz qiymatini yoʻqotmaydi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "worth",
+      "pronunciation_uz": "vors",
+      "uzbek": "arziydigan, qiymatga ega",
+      "pos": "adj",
+      "example_en": "A reliable tool is well worth the money.",
+      "example_uz": "Ishonchli asbob sarflangan pulga toʻliq arziydi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "bargain",
+      "pronunciation_uz": "bargin",
+      "uzbek": "savdolashmoq; arzon va foydali xarid",
+      "pos": "verb",
+      "example_en": "At the bazaar, it is customary to smile and bargain politely.",
+      "example_uz": "Bozorda jilmayib va xushmuomalalik bilan savdolashish odat tusiga kirgan.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "haggle",
+      "pronunciation_uz": "hegl",
+      "uzbek": "tortishib savdolashmoq",
+      "pos": "verb",
+      "example_en": "Tourists enjoy learning how to haggle for souvenirs.",
+      "example_uz": "Sayyohlar esdalik sovgʻalari uchun savdolashishni oʻrganishdan zavqlanadilar.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "discount",
+      "pronunciation_uz": "diskaunt",
+      "uzbek": "chegirma, arzonlashtirish",
+      "pos": "noun",
+      "example_en": "Students receive a twenty percent discount on museum tickets.",
+      "example_uz": "Talabalar muzey chiptalariga yigirma foizlik chegirma oladilar.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "sale",
+      "pronunciation_uz": "seyl",
+      "uzbek": "sotuv; chegirmali sotuv (rasprodaja)",
+      "pos": "noun",
+      "example_en": "Winter boots are on sale at half price in March.",
+      "example_uz": "Mart oyida qishki etiklar yarim narxida chegirma bilan sotiladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "promotion",
+      "pronunciation_uz": "promoushn",
+      "uzbek": "aksiya, ragʻbatlantiruvchi taklif",
+      "pos": "noun",
+      "example_en": "The supermarket is running a special promotion on olive oil.",
+      "example_uz": "Supermarketda zaytun yogʻi uchun maxsus aksiya oʻtkazilmoqda.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "coupon",
+      "pronunciation_uz": "kupon",
+      "uzbek": "kupon (chegirma taloni)",
+      "pos": "noun",
+      "example_en": "Present this digital coupon at the register to save ten percent.",
+      "example_uz": "Oʻn foiz tejab qolish uchun kassada ushbu raqamli kuponni koʻrsating.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "voucher",
+      "pronunciation_uz": "vaucher",
+      "uzbek": "vaucher, sovgʻa sertifikati",
+      "pos": "noun",
+      "example_en": "We gave our teacher a bookstore voucher.",
+      "example_uz": "Biz ustozimizga kitob doʻkoni vaucherini sovgʻa qildik.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "wholesale",
+      "pronunciation_uz": "houlseyl",
+      "uzbek": "ulgurji savdo, koʻtara savdo",
+      "pos": "noun",
+      "example_en": "Buying flour and oil at the wholesale market saves money.",
+      "example_uz": "Un va yogʻni ulgurji bozordan xarid qilish pulni tejaydi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "retail",
+      "pronunciation_uz": "riteyl",
+      "uzbek": "chakana savdo (donalab sotish)",
+      "pos": "noun",
+      "example_en": "The retail price is slightly higher than the factory price.",
+      "example_uz": "Chakana narx zavod narxidan biroz yuqoriroq boʻladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "banknote",
+      "pronunciation_uz": "benknout",
+      "uzbek": "qogʻoz pul, kupyura, banknota",
+      "pos": "noun",
+      "example_en": "Crisp new banknotes were dispensed by the cash machine.",
+      "example_uz": "Bankomatdan yangi qogʻoz pullar chiqdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "exchange rate",
+      "pronunciation_uz": "ikscheynj reyt",
+      "uzbek": "valyuta kursi, ayirboshlash kursi",
+      "pos": "noun",
+      "example_en": "Check today's official exchange rate at the bank.",
+      "example_uz": "Bankda bugungi rasmiy valyuta kursini tekshiring.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "small change",
+      "pronunciation_uz": "smol cheynj",
+      "uzbek": "mayda pul, qaytim",
+      "pos": "noun",
+      "example_en": "Keep some small change in your pocket for the bus.",
+      "example_uz": "Avtobus uchun choʻntagingizda biroz mayda pul saqlang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "currency",
+      "pronunciation_uz": "karrensi",
+      "uzbek": "valyuta, pul birligi",
+      "pos": "noun",
+      "example_en": "The national currency of Uzbekistan is the soum.",
+      "example_uz": "Oʻzbekistonning milliy pul birligi — soʻm.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "payment",
+      "pronunciation_uz": "peyment",
+      "uzbek": "toʻlov",
+      "pos": "noun",
+      "example_en": "Contactless QR code payment is accepted at almost every shop.",
+      "example_uz": "Deyarli har bir doʻkonda kontaktsiz QR-kod orqali toʻlov qabul qilinadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "installment",
+      "pronunciation_uz": "instalment",
+      "uzbek": "boʻlib toʻlash, muddatli toʻlov",
+      "pos": "noun",
+      "example_en": "They bought the washing machine in six monthly installments.",
+      "example_uz": "Ular kir yuvish mashinasini olti oylik muddatli toʻlovga sotib olishdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "deposit",
+      "pronunciation_uz": "dipozit",
+      "uzbek": "zakalat, oldindan toʻlanadigan avans; omonat",
+      "pos": "noun",
+      "example_en": "We paid a small deposit to reserve the banquet hall.",
+      "example_uz": "Toʻyxonani band qilish uchun kichik zakalat toʻladik.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "debt",
+      "pronunciation_uz": "det",
+      "uzbek": "qarz",
+      "pos": "noun",
+      "example_en": "A wise person pays off a debt before the promised day.",
+      "example_uz": "Oqil inson qarzni vaʼda qilingan kundan oldin uzadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "loan",
+      "pronunciation_uz": "loun",
+      "uzbek": "qarz, kredit",
+      "pos": "noun",
+      "example_en": "The artisan took a small business loan to buy a new loom.",
+      "example_uz": "Hunarmand yangi toʻquv dastgohi olish uchun kichik biznes krediti oldi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "tax",
+      "pronunciation_uz": "teks",
+      "uzbek": "soliq",
+      "pos": "noun",
+      "example_en": "Value-added tax is already included in the printed price.",
+      "example_uz": "Qoʻshilgan qiymat soligʻi koʻrsatilgan narx ichiga kiritilgan.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "fare",
+      "pronunciation_uz": "fer",
+      "uzbek": "yoʻl kira haqi",
+      "pos": "noun",
+      "example_en": "You can pay the metro fare with your bank card.",
+      "example_uz": "Metro yoʻl kirasini bank kartangiz orqali toʻlashingiz mumkin.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "bill",
+      "pronunciation_uz": "bil",
+      "uzbek": "hisob, toʻlov qogʻozi",
+      "pos": "noun",
+      "example_en": "We asked the waiter to bring the dinner bill.",
+      "example_uz": "Ofitsiantdan kechki ovqat hisobini olib kelishni soʻradik.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "receipt",
+      "pronunciation_uz": "risit",
+      "uzbek": "chek, kvitansiya",
+      "pos": "noun",
+      "example_en": "Always check your receipt before leaving the counter.",
+      "example_uz": "Kassadan uzoqlashishdan oldin har doim xarid chekingizni tekshiring.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "invoice",
+      "pronunciation_uz": "invoys",
+      "uzbek": "hisob-faktura, nakladnoy",
+      "pos": "noun",
+      "example_en": "The supplier sent an invoice for the fifty boxes of paper.",
+      "example_uz": "Yetkazib beruvchi ellik quti qogʻoz uchun hisob-faktura yubordi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "warranty",
+      "pronunciation_uz": "vorranti",
+      "uzbek": "kafolat (tovar kafolati)",
+      "pos": "noun",
+      "example_en": "The vacuum cleaner comes with a two-year manufacturer's warranty.",
+      "example_uz": "Changyutgich ishlab chiqaruvchining ikki yillik kafolati bilan beriladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "refund",
+      "pronunciation_uz": "rifand",
+      "uzbek": "pulni qaytarib berish; pulni qaytarmoq",
+      "pos": "noun",
+      "example_en": "The store gave him a full refund for the broken kettle.",
+      "example_uz": "Doʻkon buzuq choynak uchun unga toʻliq pulini qaytarib berdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "return",
+      "pronunciation_uz": "rityorn",
+      "uzbek": "qaytarib bermoq",
+      "pos": "verb",
+      "example_en": "You may return unworn shoes within fourteen days.",
+      "example_uz": "Kiyilmagan poyabzalni oʻn toʻrt kun ichida qaytarib berishingiz mumkin.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "complaint",
+      "pronunciation_uz": "kompleynt",
+      "uzbek": "shikoyat, eʼtiroz",
+      "pos": "noun",
+      "example_en": "Customer service resolved her complaint within an hour.",
+      "example_uz": "Mijozlarni qoʻllab-quvvatlash xizmati uning eʼtirozini bir soat ichida hal qildi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "delivery",
+      "pronunciation_uz": "diliveri",
+      "uzbek": "yetkazib berish xizmati, dostavka",
+      "pos": "noun",
+      "example_en": "Express delivery takes less than two hours across the city.",
+      "example_uz": "Shahar boʻylab tezkor yetkazib berish ikki soatdan kam vaqt oladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "courier",
+      "pronunciation_uz": "kurier",
+      "uzbek": "kuryer, yetkazib beruvchi",
+      "pos": "noun",
+      "example_en": "The courier called ten minutes before arriving at the gate.",
+      "example_uz": "Kuryer darvoza oldiga yetib kelishidan oʻn daqiqa oldin qoʻngʻiroq qildi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "parcel",
+      "pronunciation_uz": "parsel",
+      "uzbek": "joʻnatma, posilka",
+      "pos": "noun",
+      "example_en": "I received a parcel of dried fruits from my relatives in Fergana.",
+      "example_uz": "Fargʻonadagi qarindoshlarimdan quruq mevalar solingan posilka oldim.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "package",
+      "pronunciation_uz": "pekij",
+      "uzbek": "qadoq, oʻram, posilka",
+      "pos": "noun",
+      "example_en": "Handle the package carefully because it contains porcelain.",
+      "example_uz": "Qadoq ichida chinni buyum borligi sababli uni ehtiyot boʻlib ushlang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "packaging",
+      "pronunciation_uz": "pekijing",
+      "uzbek": "qadoqlash materiali, idish-oʻram",
+      "pos": "noun",
+      "example_en": "Eco-friendly paper packaging reduces plastic waste.",
+      "example_uz": "Ekologik toza qogʻoz oʻramlar plastik chiqindilarni kamaytiradi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "wrap",
+      "pronunciation_uz": "rep",
+      "uzbek": "oʻramoq (sovgʻa yoki xaridni)",
+      "pos": "verb",
+      "example_en": "Please wrap the ceramic vase in bubble wrap.",
+      "example_uz": "Iltimos, sopol guldonni pufakchali plyonkaga oʻrab bering.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "pack",
+      "pronunciation_uz": "pek",
+      "uzbek": "joylamoq, qadoqlamoq",
+      "pos": "verb",
+      "example_en": "Pack the heavy cans at the bottom of the bag.",
+      "example_uz": "Ogʻir konserva bankalarni xaltaning tag qismiga joylang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "unpack",
+      "pronunciation_uz": "anpek",
+      "uzbek": "ochib joylashtirmoq (yuk yoki xaridni)",
+      "pos": "verb",
+      "example_en": "Help me unpack the grocery bags on the kitchen table.",
+      "example_uz": "Oshxona stoliga oziq-ovqat xaltalarini boʻshatib joylashtirishga yordam bering.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "seal",
+      "pronunciation_uz": "sil",
+      "uzbek": "muhrlamoq, mahkam yopmoq; tamgʻa",
+      "pos": "verb",
+      "example_en": "Do not buy the bottle if the safety seal is broken.",
+      "example_uz": "Agar himoya qopqogʻi buzilgan boʻlsa, u shishani sotib olmang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "barcode",
+      "pronunciation_uz": "barkoud",
+      "uzbek": "shtrix-kod",
+      "pos": "noun",
+      "example_en": "Scan the barcode to check the item's price.",
+      "example_uz": "Mahsulot narxini tekshirish uchun shtrix-kodni skanerlang.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "brand",
+      "pronunciation_uz": "brend",
+      "uzbek": "brend, savdo belgisi, rusum",
+      "pos": "noun",
+      "example_en": "Which brand of green tea does your family prefer?",
+      "example_uz": "Oilangiz qaysi rusumdagi koʻk choyni afzal koʻradi?",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "trademark",
+      "pronunciation_uz": "treydmark",
+      "uzbek": "savdo tamgʻasi",
+      "pos": "noun",
+      "example_en": "The company registered its new logo as an official trademark.",
+      "example_uz": "Kompaniya oʻzining yangi logotipini rasmiy savdo tamgʻasi sifatida roʻyxatdan oʻtkazdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "goods",
+      "pronunciation_uz": "gudz",
+      "uzbek": "tovarlar, mollar, mahsulotlar",
+      "pos": "noun",
+      "example_en": "Locally produced household goods are exported to neighboring countries.",
+      "example_uz": "Mahalliy ishlab chiqarilgan roʻzgʻor buyumlari qoʻshni davlatlarga eksport qilinadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "merchandise",
+      "pronunciation_uz": "myorchandays",
+      "uzbek": "savdo mollari, tovarlar",
+      "pos": "noun",
+      "example_en": "The store displays its newest merchandise near the entrance.",
+      "example_uz": "Doʻkon eng yangi savdo mollarini kirish joyi yaqinida namoyish etadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "product",
+      "pronunciation_uz": "prodakt",
+      "uzbek": "mahsulot, buyum",
+      "pos": "noun",
+      "example_en": "All dairy products must be kept refrigerated.",
+      "example_uz": "Barcha sut mahsulotlari muzlatkichda saqlanishi shart.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "stock",
+      "pronunciation_uz": "stok",
+      "uzbek": "zaxira, doʻkondagi bor mol",
+      "pos": "noun",
+      "example_en": "I am sorry, that model is currently out of stock.",
+      "example_uz": "Kechirasiz, u model hozirda omborimizda tugab qolgan.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "supply",
+      "pronunciation_uz": "saplay",
+      "uzbek": "taʼminot, zaxira; yetkazib bermoq",
+      "pos": "noun",
+      "example_en": "The bazaar has an abundant supply of autumn fruits.",
+      "example_uz": "Bozorda kuzgi mevalarning moʻl-koʻl zaxirasi bor.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "assortment",
+      "pronunciation_uz": "assortment",
+      "uzbek": "assortiment, xilma-xil tanlov",
+      "pos": "noun",
+      "example_en": "The pastry shop offers a wide assortment of baklava and halva.",
+      "example_uz": "Qandolat doʻkoni paxlava va holvaning keng assortimentini taklif etadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "variety",
+      "pronunciation_uz": "varayeti",
+      "uzbek": "xilma-xillik, turli-tumanlik",
+      "pos": "noun",
+      "example_en": "You can find twenty varieties of raisins at the market.",
+      "example_uz": "Bozorda mayizning yigirma xil turini topishingiz mumkin.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "choice",
+      "pronunciation_uz": "choys",
+      "uzbek": "tanlov",
+      "pos": "noun",
+      "example_en": "This store gives customers a great choice of carpets.",
+      "example_uz": "Bu doʻkon xaridorlarga gilamlarning ajoyib tanlovini taqdim etadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "option",
+      "pronunciation_uz": "opshn",
+      "uzbek": "variant, imkoniyat",
+      "pos": "noun",
+      "example_en": "Free pickup at the store is a convenient option.",
+      "example_uz": "Doʻkonning oʻzidan bepul olib ketish qulay variantdir.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "quality",
+      "pronunciation_uz": "kvoliti",
+      "uzbek": "sifat",
+      "pos": "noun",
+      "example_en": "Always prioritize high quality over a low price.",
+      "example_uz": "Har doim arzon narxdan koʻra yuqori sifatni ustun qoʻying.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "quantity",
+      "pronunciation_uz": "kvontiti",
+      "uzbek": "miqdor, son",
+      "pos": "noun",
+      "example_en": "If you buy in a large quantity, the seller lowers the price.",
+      "example_uz": "Agar katta miqdorda xarid qilsangiz, sotuvchi narxni tushirib beradi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "weight",
+      "pronunciation_uz": "veyt",
+      "uzbek": "ogʻirlik, vazn",
+      "pos": "noun",
+      "example_en": "Fruits and vegetables are sold by weight.",
+      "example_uz": "Meva va sabzavotlar ogʻirligini tortib sotiladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "scale",
+      "pronunciation_uz": "skeyl",
+      "uzbek": "tarozi",
+      "pos": "noun",
+      "example_en": "The vendor placed the watermelon on the electronic scale.",
+      "example_uz": "Sotuvchi tarvuzni elektron taroziga qoʻydi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "weigh",
+      "pronunciation_uz": "vey",
+      "uzbek": "tortmoq (tarozida), vaznga ega boʻlmoq",
+      "pos": "verb",
+      "example_en": "Please weigh two kilograms of red apples for me.",
+      "example_uz": "Iltimos, menga ikki kilogramm qizil olma tortib bering.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "size",
+      "pronunciation_uz": "sayz",
+      "uzbek": "oʻlcham, razmer",
+      "pos": "noun",
+      "example_en": "What shoe size do you normally wear?",
+      "example_uz": "Odatda nechanchi oʻlchamli poyabzal kiyasiz?",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "length",
+      "pronunciation_uz": "lengs",
+      "uzbek": "uzunlik",
+      "pos": "noun",
+      "example_en": "The length of the table is two meters.",
+      "example_uz": "Stolning uzunligi ikki metr.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "width",
+      "pronunciation_uz": "vids",
+      "uzbek": "kenglik, eni",
+      "pos": "noun",
+      "example_en": "Check the width of the doorway before buying a large sofa.",
+      "example_uz": "Katta divan sotib olishdan oldin eshik oʻrnining enini oʻlchab koʻring.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "sample",
+      "pronunciation_uz": "sempl",
+      "uzbek": "namuna",
+      "pos": "noun",
+      "example_en": "The carpet weaver showed us a small sample of the wool.",
+      "example_uz": "Gilamdoʻz bizga junning kichik namunasini koʻrsatdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "brochure",
+      "pronunciation_uz": "broshur",
+      "uzbek": "buklet, risola, broshyura",
+      "pos": "noun",
+      "example_en": "Take a printed brochure with all the service tariffs.",
+      "example_uz": "Barcha xizmat tariflari yozilgan bosma bukletni oling.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "advertisement",
+      "pronunciation_uz": "edvertayzment",
+      "uzbek": "reklama, eʼlon",
+      "pos": "noun",
+      "example_en": "We saw an advertisement for the book fair on a billboard.",
+      "example_uz": "Koʻcha taxtasida kitob yarmarkasi haqidagi reklamani koʻrdik.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "poster",
+      "pronunciation_uz": "pouster",
+      "uzbek": "afisha, plakat",
+      "pos": "noun",
+      "example_en": "A colorful poster announced the opening of the new bakery.",
+      "example_uz": "Rang-barang afisha yangi novvoyxona ochilganini eʼlon qildi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "signboard",
+      "pronunciation_uz": "saynbord",
+      "uzbek": "peshlavha, doʻkon yozuvi",
+      "pos": "noun",
+      "example_en": "A carved wooden signboard hangs above the workshop door.",
+      "example_uz": "Ustaxona eshigi tepasida oʻymakor yogʻoch peshlavha osilib turibdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "souvenir",
+      "pronunciation_uz": "suvenir",
+      "uzbek": "esdalik sovgʻasi, suvenir",
+      "pos": "noun",
+      "example_en": "Ceramic figurines and skullcaps are popular souvenirs from Uzbekistan.",
+      "example_uz": "Sopol haykalchalar va doʻppilar Oʻzbekistondan olinadigan mashhur suvenirlardir.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "gift",
+      "pronunciation_uz": "gift",
+      "uzbek": "sovgʻa, hadya",
+      "pos": "noun",
+      "example_en": "Never visit a friend's house empty-handed; bring a small gift.",
+      "example_uz": "Doʻstingizning uyiga quruq qoʻl bilan bormang, kichik boʻlsa ham sovgʻa oling.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "present",
+      "pronunciation_uz": "prezent",
+      "uzbek": "sovgʻa, tuhfa",
+      "pos": "noun",
+      "example_en": "The children eagerly unwrapped their holiday presents.",
+      "example_uz": "Bolalar bayram sovgʻalarini intiqlik bilan ochishdi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "handicraft",
+      "pronunciation_uz": "hendikraft",
+      "uzbek": "hunarmandchilik buyumi",
+      "pos": "noun",
+      "example_en": "Traditional Uzbek handicrafts are admired for their beauty.",
+      "example_uz": "Oʻzbek milliy hunarmandchilik buyumlari goʻzalligi bilan tahsinga sazovor.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "antique",
+      "pronunciation_uz": "antik",
+      "uzbek": "antikvar, qadimiy buyum",
+      "pos": "noun",
+      "example_en": "This copper pitcher is a genuine nineteenth-century antique.",
+      "example_uz": "Bu mis choydish haqiqiy oʻn toʻqqizinchi asr qadimiy buyumidir.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "secondhand",
+      "pronunciation_uz": "sekondhend",
+      "uzbek": "ishlatilgan, ikkinchi qoʻl (buyum)",
+      "pos": "adj",
+      "example_en": "I found a rare historical novel at a secondhand bookshop.",
+      "example_uz": "Men bukinist (ikkinchi qoʻl) kitob doʻkonidan noyob tarixiy roman topdim.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "brand-new",
+      "pronunciation_uz": "brend-nyu",
+      "uzbek": "yap-yangi, hali ishlatilmagan",
+      "pos": "adj",
+      "example_en": "His bicycle looks brand-new because he cleans it every week.",
+      "example_uz": "Har hafta tozalagani uchun uning velosipedi yap-yangidek koʻrinadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "fake",
+      "pronunciation_uz": "feyk",
+      "uzbek": "soxta, qalbaki",
+      "pos": "adj",
+      "example_en": "Be careful not to buy fake goods from unverified sellers.",
+      "example_uz": "Tekshirilmagan sotuvchilardan qalbaki mollar sotib olishdan ehtiyot boʻling.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "counterfeit",
+      "pronunciation_uz": "kaunterfit",
+      "uzbek": "qalbaki (pul yoki brend mahsulot)",
+      "pos": "adj",
+      "example_en": "Special machines detect counterfeit banknotes instantly.",
+      "example_uz": "Maxsus uskunalar qalbaki qogʻoz pullarni darhol aniqlaydi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "defective",
+      "pronunciation_uz": "difektiv",
+      "uzbek": "nuqsonli, yaroqsiz, brak",
+      "pos": "adj",
+      "example_en": "The factory replaces any defective item free of charge.",
+      "example_uz": "Zavod har qanday nuqsonli buyumni bepul almashtirib beradi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "flawless",
+      "pronunciation_uz": "floles",
+      "uzbek": "benuqson, bekamu-koʻst",
+      "pos": "adj",
+      "example_en": "The master potter's ceramic bowl was completely flawless.",
+      "example_uz": "Usta kulolning sopol kosasi mutlaqo benuqson edi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "durable",
+      "pronunciation_uz": "dyurabl",
+      "uzbek": "chidamli, pishiq, uzoqqa chidaydigan",
+      "pos": "adj",
+      "example_en": "Oak wood is used to make durable dining tables.",
+      "example_uz": "Chidamli ovqatlanish stollarini yasash uchun eman yogʻochi ishlatiladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "portable",
+      "pronunciation_uz": "portabl",
+      "uzbek": "ixcham, koʻchirib yurishga qulay",
+      "pos": "adj",
+      "example_en": "A portable charger is useful during long train journeys.",
+      "example_uz": "Uzoq poyezd safarlarida koʻchma quvvatlagich juda foydali.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "disposable",
+      "pronunciation_uz": "dispouzabl",
+      "uzbek": "bir martalik",
+      "pos": "adj",
+      "example_en": "Using reusable cloth bags is better than disposable plastic ones.",
+      "example_uz": "Bir martalik plastik paketlardan koʻra koʻp martalik mato xaltalarni ishlatish yaxshiroq.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "reusable",
+      "pronunciation_uz": "riyuzabl",
+      "uzbek": "koʻp marta ishlatiladigan",
+      "pos": "adj",
+      "example_en": "Carry a reusable water bottle when hiking in the mountains.",
+      "example_uz": "Togʻda sayr qilganda koʻp marta ishlatiladigan suv idishini olib yuring.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "affordable",
+      "pronunciation_uz": "effordabl",
+      "uzbek": "hamyonbop, narxi maʼqul",
+      "pos": "adj",
+      "example_en": "The new cafeteria offers nutritious meals at affordable prices.",
+      "example_uz": "Yangi oshxona hamyonbop narxlarda toʻyimli taomlarni taklif etadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "reasonable",
+      "pronunciation_uz": "riznabl",
+      "uzbek": "maʼqul, insofli (narx yoki qaror)",
+      "pos": "adj",
+      "example_en": "Fifty thousand soums is a very reasonable price for this book.",
+      "example_uz": "Ellik ming soʻm bu kitob uchun juda maʼqul narx.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "overpriced",
+      "pronunciation_uz": "ouverprayst",
+      "uzbek": "narxi haddan ortiq qimmat, qimmat",
+      "pos": "adj",
+      "example_en": "Souvenirs at the airport are often overpriced.",
+      "example_uz": "Aeroportdagi esdalik sovgʻalarining narxi koʻpincha haddan ortiq qimmat boʻladi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "priceless",
+      "pronunciation_uz": "praysles",
+      "uzbek": "bebaho, tengsiz",
+      "pos": "adj",
+      "example_en": "Good health and family peace are truly priceless.",
+      "example_uz": "Mustahkam sogʻliq va oila xotirjamligi chinakam bebahodir.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "valuable",
+      "pronunciation_uz": "velyuabl",
+      "uzbek": "qimmatli, qadrli",
+      "pos": "adj",
+      "example_en": "Lock your passport and valuable documents in the hotel safe.",
+      "example_uz": "Pasportingiz va qimmatli hujjatlaringizni mehmonxona seyfiga qulflab qoʻying.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "worthless",
+      "pronunciation_uz": "vorsles",
+      "uzbek": "qadrsiz, arzimas, yaroqsiz",
+      "pos": "adj",
+      "example_en": "A broken umbrella is worthless in a windstorm.",
+      "example_uz": "Singan soyabon kuchli shamolda yaroqsizdir.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "luxurious",
+      "pronunciation_uz": "lagjyuries",
+      "uzbek": "hashamatli, dabdabali",
+      "pos": "adj",
+      "example_en": "The hotel lobby was decorated with luxurious silk carpets.",
+      "example_uz": "Mehmonxona foyesi hashamatli ipak gilamlar bilan bezatilgan edi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "thrifty",
+      "pronunciation_uz": "srifti",
+      "uzbek": "tejamkor, pishiq, uquvli",
+      "pos": "adj",
+      "example_en": "A thrifty homemaker never wastes food or electricity.",
+      "example_uz": "Tejamkor uy bekasi oziq-ovqat yoki elektr energiyasini aslo isrof qilmaydi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "extravagant",
+      "pronunciation_uz": "ikstrevagant",
+      "uzbek": "isrofgar, dabdabali, haddan ortiq",
+      "pos": "adj",
+      "example_en": "Avoid extravagant spending on things you rarely use.",
+      "example_uz": "Kam ishlatadigan narsalarga ortiqcha pul sarflashdan saqlaning.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "satisfactory",
+      "pronunciation_uz": "setisfektori",
+      "uzbek": "qoniqarli, maʼqul",
+      "pos": "adj",
+      "example_en": "We reached a satisfactory agreement with the supplier.",
+      "example_uz": "Biz yetkazib beruvchi bilan maʼqul kelishuvga erishdik.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "prompt",
+      "pronunciation_uz": "prompt",
+      "uzbek": "tezkor, oʻz vaqtidagi",
+      "pos": "adj",
+      "example_en": "Customers appreciate prompt and polite delivery service.",
+      "example_uz": "Xaridorlar tezkor va xushmuomala yetkazib berish xizmatini qadrlashadi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "vacant",
+      "pronunciation_uz": "veykant",
+      "uzbek": "boʻsh, band qilinmagan",
+      "pos": "adj",
+      "example_en": "There is a vacant shop for rent on the ground floor.",
+      "example_uz": "Birinchi qavatda ijaraga beriladigan boʻsh doʻkon bor.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "barbershop",
+      "pronunciation_uz": "barbershop",
+      "uzbek": "erkaklar sartaroshxonasi",
+      "pos": "noun",
+      "example_en": "He went to the neighborhood barbershop for a haircut.",
+      "example_uz": "U soch oldirish uchun mahalla sartaroshxonasiga bordi.",
+      "category": "Xarid, bozor va isteʼmol"
+    },
+    {
+      "english": "hairdresser",
+      "pronunciation_uz": "herdreser",
+      "uzbek": "ayollar sartaroshi, soch turmaklovchi",
+      "pos": "noun",
+      "example_en": "She booked an appointment with her hairdresser before the wedding.",
+      "example_uz": "U toʻydan oldin sartaroshiga yozilib qoʻydi.",
+      "category": "Xarid, bozor va isteʼmol"
+    }
+  ]
+}

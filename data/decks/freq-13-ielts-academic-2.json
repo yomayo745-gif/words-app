@@ -1,0 +1,1150 @@
+{
+  "title": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)",
+  "category": "IELTS/TOEFL Academic (D–H)",
+  "group": "freq",
+  "words": [
+    {
+      "english": "debate",
+      "pronunciation_uz": "dibeyt",
+      "uzbek": "bahs, munozara; muhokama qilmoq",
+      "pos": "noun",
+      "example_en": "Scholars held a lively debate on artificial intelligence ethics.",
+      "example_uz": "Olimlar sunʼiy intellekt odobi boʻyicha qizgʻin munozara oʻtkazdilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "decline",
+      "pronunciation_uz": "diklayn",
+      "uzbek": "pasaymoq, kamaymoq; rad etmoq",
+      "pos": "verb",
+      "example_en": "Birth rates have begun to decline in many industrialized nations.",
+      "example_uz": "Koʻplab sanoatlashgan davlatlarda tugʻilish darajasi pasaya boshladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deduce",
+      "pronunciation_uz": "didyus",
+      "uzbek": "mantiqiy xulosa chiqarmoq",
+      "pos": "verb",
+      "example_en": "From the fossil evidence, paleontologists deduced the dinosaur's diet.",
+      "example_uz": "Toshqotgan qoldiqlardan paleontologlar dinozavrning ozuqasini mantiqan aniqladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "definite",
+      "pronunciation_uz": "definit",
+      "uzbek": "aniq, shubhasiz",
+      "pos": "adj",
+      "example_en": "We need a definite answer from the contractor by Monday.",
+      "example_uz": "Dushanba kunigacha pudratchidan aniq javob olishimiz kerak.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "demonstrate",
+      "pronunciation_uz": "demonstreyt",
+      "uzbek": "namoyish etmoq, isbotlab koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "The experiment demonstrates how light bends through water.",
+      "example_uz": "Tajriba yorugʻlikning suv orqali qanday sinishini koʻrsatib beradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "denote",
+      "pronunciation_uz": "dinout",
+      "uzbek": "anglatmoq, bildirmoq",
+      "pos": "verb",
+      "example_en": "In physics equations, the letter c denotes the speed of light.",
+      "example_uz": "Fizika tenglamalarida c harfi yorugʻlik tezligini bildiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "depress",
+      "pronunciation_uz": "dipres",
+      "uzbek": "pasaytirmoq; tushkunlikka solmoq",
+      "pos": "verb",
+      "example_en": "High inflation tends to depress consumer spending.",
+      "example_uz": "Yuqori inflyatsiya isteʼmolchilar xarajatlarini pasaytirishga moyil boʻladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "derive",
+      "pronunciation_uz": "dirayv",
+      "uzbek": "kelib chiqmoq, olmoq",
+      "pos": "verb",
+      "example_en": "Many medical terms derive from ancient Greek and Latin.",
+      "example_uz": "Koʻplab tibbiy atamalar qadimgi yunon va lotin tillaridan kelib chiqqan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "despite",
+      "pronunciation_uz": "dispayt",
+      "uzbek": "ga qaramasdan",
+      "pos": "prep",
+      "example_en": "The expedition succeeded despite harsh weather conditions.",
+      "example_uz": "Noqulay ob-havo sharoitlariga qaramasdan ekspeditsiya muvaffaqiyatli yakunlandi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deviate",
+      "pronunciation_uz": "divieyt",
+      "uzbek": "chetga chiqmoq, ogʻishmoq",
+      "pos": "verb",
+      "example_en": "The pilot had to deviate from the planned flight path due to a storm.",
+      "example_uz": "Boʻron tufayli uchuvchi rejalashtirilgan parvoz yoʻnalishidan chetga chiqishga majbur boʻldi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "devote",
+      "pronunciation_uz": "divout",
+      "uzbek": "bagʻishlamoq, ajratmoq (vaqt yoki kuchni)",
+      "pos": "verb",
+      "example_en": "Al-Biruni devoted his life to astronomy, geography, and mathematics.",
+      "example_uz": "Abu Rayhon Beruniy oʻz hayotini astronomiya, geografiya va matematikaga bagʻishlagan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "differentiate",
+      "pronunciation_uz": "diferenshieyt",
+      "uzbek": "farqlamoq, ajratmoq",
+      "pos": "verb",
+      "example_en": "It is important to differentiate between facts and opinions.",
+      "example_uz": "Dalillar va shaxsiy fikrlarni bir-biridan farqlash muhimdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "dimension",
+      "pronunciation_uz": "daymenshen",
+      "uzbek": "oʻlcham, koʻlam; jihat",
+      "pos": "noun",
+      "example_en": "Cultural exchange adds a new dimension to international relations.",
+      "example_uz": "Madaniy almashinuv xalqaro munosabatlarga yangi koʻlam qoʻshadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "diminish",
+      "pronunciation_uz": "diminish",
+      "uzbek": "kamaymoq, pasaymoq, kichraymoq",
+      "pos": "verb",
+      "example_en": "Forest cover has diminished rapidly over the past fifty years.",
+      "example_uz": "Soʻnggi ellik yil ichida oʻrmon qoplami tez surʼatda kamaydi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "discrete",
+      "pronunciation_uz": "diskrit",
+      "uzbek": "alohida, uzlukli, bir-biridan ajralgan",
+      "pos": "adj",
+      "example_en": "The training program is divided into four discrete modules.",
+      "example_uz": "Oʻquv dasturi toʻrtta alohida modulga boʻlingan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "discriminate",
+      "pronunciation_uz": "diskrimineyt",
+      "uzbek": "farqlamoq; kamsitmoq",
+      "pos": "verb",
+      "example_en": "The human ear can discriminate between thousands of different sounds.",
+      "example_uz": "Inson qulogʻi minglab turli tovushlarni bir-biridan farqlay oladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "displace",
+      "pronunciation_uz": "displeys",
+      "uzbek": "oʻrnini egallamoq, siqib chiqarmoq; koʻchirmoq",
+      "pos": "verb",
+      "example_en": "Digital cameras almost completely displaced film photography.",
+      "example_uz": "Raqamli kameralar plyonkali fotografiyani deyarli butunlay siqib chiqardi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "display",
+      "pronunciation_uz": "displey",
+      "uzbek": "namoyish qilmoq, koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "The museum displays rare coins from the Kushan Empire.",
+      "example_uz": "Muzeyda Kushon saltanatiga oid noyob tangalar namoyish etiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "dispose",
+      "pronunciation_uz": "dispouz",
+      "uzbek": "yoʻqotmoq, chiqindiga chiqarib bartaraf etmoq",
+      "pos": "verb",
+      "example_en": "Hospitals must dispose of medical waste safely.",
+      "example_uz": "Shifoxonalar tibbiy chiqindilarni xavfsiz tarzda yoʻq qilishi shart.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "distort",
+      "pronunciation_uz": "distort",
+      "uzbek": "buzib koʻrsatmoq, qiyshaytirmoq",
+      "pos": "verb",
+      "example_en": "Exaggerated headlines often distort the actual scientific findings.",
+      "example_uz": "Boʻrttirilgan sarlavhalar koʻpincha haqiqiy ilmiy xulosalarni buzib koʻrsatadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "distribute",
+      "pronunciation_uz": "distribyut",
+      "uzbek": "tarqatmoq, taqsimlamoq",
+      "pos": "verb",
+      "example_en": "Volunteers helped distribute warm blankets after the flood.",
+      "example_uz": "Koʻngillilar suv toshqinidan keyin issiq adyollarni tarqatishga yordam berishdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "domain",
+      "pronunciation_uz": "domeyn",
+      "uzbek": "soha, yoʻnalish; hudud",
+      "pos": "noun",
+      "example_en": "Quantum computing was once solely the domain of theoretical physicists.",
+      "example_uz": "Kvant hisoblash texnologiyasi bir vaqtlar faqat nazariy fiziklar sohasi edi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "dominate",
+      "pronunciation_uz": "domineyt",
+      "uzbek": "ustunlik qilmoq, hukmronlik qilmoq",
+      "pos": "verb",
+      "example_en": "Renewable energy topics dominated the international summit.",
+      "example_uz": "Xalqaro sammitda qayta tiklanuvchi energiya mavzulari ustunlik qildi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "draft",
+      "pronunciation_uz": "draft",
+      "uzbek": "qoralama loyiha; qoralama yozmoq",
+      "pos": "noun",
+      "example_en": "She wrote the first draft of her dissertation in six months.",
+      "example_uz": "U dissertatsiyasining birinchi qoralamasini olti oy ichida yozib tugatdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "drama",
+      "pronunciation_uz": "drama",
+      "uzbek": "keskin voqea, dramaturgiya",
+      "pos": "noun",
+      "example_en": "Classical drama explores timeless human conflicts.",
+      "example_uz": "Mumtoz dramaturgiya abadiy insoniy ziddiyatlarni oʻrganadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "duration",
+      "pronunciation_uz": "dyureyshen",
+      "uzbek": "davomiylik, muddat",
+      "pos": "noun",
+      "example_en": "Passengers must keep their seatbelts fastened for the duration of the flight.",
+      "example_uz": "Yoʻlovchilar parvoz davomida xavfsizlik kamarlarini taqib oʻtirishlari shart.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "dearth",
+      "pronunciation_uz": "ders",
+      "uzbek": "tanqislik, yetishmovchilik",
+      "pos": "noun",
+      "example_en": "There is a dearth of reliable data on deep-sea organisms.",
+      "example_uz": "Chuqur dengiz organizmlari haqida ishonchli maʼlumotlar tanqisligi mavjud.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "debilitate",
+      "pronunciation_uz": "dibiliteyt",
+      "uzbek": "kuchsizlantirmoq, holdan toydirmoq",
+      "pos": "verb",
+      "example_en": "Severe drought can debilitate an entire agricultural economy.",
+      "example_uz": "Kuchli qurgʻoqchilik butun boshli qishloq xoʻjaligi iqtisodiyotini zaiflashtirishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "decipher",
+      "pronunciation_uz": "disayfer",
+      "uzbek": "shifini ochmoq, qiyin yozuvni oʻqib tushunmoq",
+      "pos": "verb",
+      "example_en": "Linguists worked for years to decipher the ancient stone inscriptions.",
+      "example_uz": "Tilshunoslar qadimgi tosh bitiklarini oʻqib tushunish uchun yillar davomida ishladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deem",
+      "pronunciation_uz": "dim",
+      "uzbek": "deb hisoblamoq",
+      "pos": "verb",
+      "example_en": "The bridge was deemed unsafe for heavy trucks.",
+      "example_uz": "Koʻprik ogʻir yuk mashinalari uchun xavfli deb topildi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deficiency",
+      "pronunciation_uz": "difishensi",
+      "uzbek": "yetishmovchilik, kamchilik, tanqislik",
+      "pos": "noun",
+      "example_en": "Iron deficiency can cause fatigue and weakness.",
+      "example_uz": "Temir moddasi yetishmovchiligi charchoq va holsizlikka sabab boʻlishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deficit",
+      "pronunciation_uz": "defisit",
+      "uzbek": "taqchillik, kamomad",
+      "pos": "noun",
+      "example_en": "The government introduced reforms to reduce the budget deficit.",
+      "example_uz": "Hukumat byudjet taqchilligini kamaytirish uchun islohotlarni joriy etdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deliberate",
+      "pronunciation_uz": "diliberit",
+      "uzbek": "ataylab qilingan, puxta oʻylangan; maslahatlashmoq",
+      "pos": "adj",
+      "example_en": "Planting trees along the canal was a deliberate effort to stop erosion.",
+      "example_uz": "Kanal boʻylab daraxt ekish yemirilishni toʻxtatish uchun puxta oʻylangan harakat edi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "delineate",
+      "pronunciation_uz": "dilinieyt",
+      "uzbek": "aniq chizib yoki taʼriflab koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "The treaty clearly delineates the maritime border between the two states.",
+      "example_uz": "Shartnoma ikki davlat oʻrtasidagi dengiz chegarasini aniq belgilab beradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "demographic",
+      "pronunciation_uz": "demografik",
+      "uzbek": "demografik, aholi statistikasiga oid",
+      "pos": "adj",
+      "example_en": "Demographic shifts require cities to build more schools and clinics.",
+      "example_uz": "Demografik oʻzgarishlar shaharlardan koʻproq maktab va poliklinikalar qurishni talab etadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deplete",
+      "pronunciation_uz": "diplit",
+      "uzbek": "tugatmoq, kamaytirib yubormoq (zaxirani)",
+      "pos": "verb",
+      "example_en": "Overfishing can rapidly deplete marine populations.",
+      "example_uz": "Haddan tashqari koʻp baliq ovlash dengiz jonivorlari zaxirasini tezda kamaytirib yuborishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deter",
+      "pronunciation_uz": "diter",
+      "uzbek": "toʻxtatib qolmoq, qaytarib qoʻymoq",
+      "pos": "verb",
+      "example_en": "Strict penalties are designed to deter environmental pollution.",
+      "example_uz": "Qatʼiy jazolar atrof-muhit ifloslanishining oldini olish uchun moʻljallangan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "deteriorate",
+      "pronunciation_uz": "ditirioreyt",
+      "uzbek": "yomonlashmoq, sifati buzilmoq",
+      "pos": "verb",
+      "example_en": "Road surfaces deteriorate quickly under extreme temperature changes.",
+      "example_uz": "Haroratning keskin oʻzgarishi ostida yoʻl qoplamalari tez yomonlashadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "detrimental",
+      "pronunciation_uz": "detrimental",
+      "uzbek": "zararli, ziyon keltiruvchi",
+      "pos": "adj",
+      "example_en": "Lack of sleep is detrimental to academic performance.",
+      "example_uz": "Uyqusizlik oʻquv koʻrsatkichlariga salbiy va zararli taʼsir qiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "devoid",
+      "pronunciation_uz": "divoyd",
+      "uzbek": "xoli, mahrum, umuman yoʻq",
+      "pos": "adj",
+      "example_en": "The lunar surface is completely devoid of liquid water and air.",
+      "example_uz": "Oy yuzasi suyuq suv va havodan butunlay xolidir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "dichotomy",
+      "pronunciation_uz": "daykotomi",
+      "uzbek": "ikki qarama-qarshi qismga boʻlinish, dixotomiya",
+      "pos": "noun",
+      "example_en": "The writer explores the dichotomy between tradition and modernity.",
+      "example_uz": "Yozuvchi anʼana va zamonaviylik oʻrtasidagi qarama-qarshilikni tadqiq etadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "diffuse",
+      "pronunciation_uz": "difyuz",
+      "uzbek": "tarqalmoq, yoyilmoq",
+      "pos": "verb",
+      "example_en": "Technological innovations diffuse rapidly across global markets.",
+      "example_uz": "Texnologik yangiliklar jahon bozorlari boʻylab tez tarqaladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "diligent",
+      "pronunciation_uz": "dilijent",
+      "uzbek": "tirishqoq, mehnatsevar, quntli",
+      "pos": "adj",
+      "example_en": "Diligent researchers verify every source before publication.",
+      "example_uz": "Tirishqoq tadqiqotchilar nashr qilishdan oldin har bir manbani tekshirib chiqadilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "discrepancy",
+      "pronunciation_uz": "diskrepansi",
+      "uzbek": "tafovut, nomuvofiqlik, farq",
+      "pos": "noun",
+      "example_en": "Auditors found a discrepancy between the two financial tables.",
+      "example_uz": "Auditorlar ikkita moliyaviy jadval oʻrtasida nomuvofiqlik borligini aniqladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "disseminate",
+      "pronunciation_uz": "disemineyt",
+      "uzbek": "tarqatmoq, yoymoq (bilim yoki axborotni)",
+      "pos": "verb",
+      "example_en": "Scientific journals disseminate new discoveries to scholars worldwide.",
+      "example_uz": "Ilmiy jurnallar yangi kashfiyotlarni butun dunyo olimlariga tarqatadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "divergent",
+      "pronunciation_uz": "dayverjent",
+      "uzbek": "turlicha, bir-biridan uzoqlashuvchi",
+      "pos": "adj",
+      "example_en": "The two economists held divergent views on inflation control.",
+      "example_uz": "Ikki iqtisodchi inflyatsiyani jilovlash boʻyicha bir-biridan farqli qarashlarga ega edi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "doctrine",
+      "pronunciation_uz": "doktrin",
+      "uzbek": "taʼlimot, doktrina, nazariy tamoyillar majmui",
+      "pos": "noun",
+      "example_en": "The legal doctrine of presumption of innocence protects citizens.",
+      "example_uz": "Aybsizlik prezumpsiyasi huquqiy taʼlimoti fuqarolarni himoya qiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "dormant",
+      "pronunciation_uz": "dormant",
+      "uzbek": "uyqudagi, vaqtincha harakatsiz",
+      "pos": "adj",
+      "example_en": "Desert seeds can remain dormant for years until rain falls.",
+      "example_uz": "Choʻl urugʻlari yomgʻir yogʻmaguncha yillar davomida uyqu holatida saqlanishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "dwindle",
+      "pronunciation_uz": "duindl",
+      "uzbek": "ozayib bormoq, qisqarib ketmoq",
+      "pos": "verb",
+      "example_en": "Glacier reserves have dwindled over the past century.",
+      "example_uz": "Soʻnggi asr davomida muzlik zaxiralari qisqarib bordi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "economy",
+      "pronunciation_uz": "ikonomi",
+      "uzbek": "iqtisodiyot; tejamkorlik",
+      "pos": "noun",
+      "example_en": "Tourism contributes significantly to the national economy.",
+      "example_uz": "Turizm milliy iqtisodiyotga sezilarli hissa qoʻshadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "edit",
+      "pronunciation_uz": "edit",
+      "uzbek": "tahrirlamoq",
+      "pos": "verb",
+      "example_en": "Please edit your essay for spelling and punctuation errors.",
+      "example_uz": "Iltimos, inshoingizni imlo va tinish belgilari xatolari boʻyicha tahrirlang.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "eliminate",
+      "pronunciation_uz": "ilimineyt",
+      "uzbek": "bartaraf etmoq, yoʻqotmoq",
+      "pos": "verb",
+      "example_en": "Proper sanitation helped eliminate waterborne diseases.",
+      "example_uz": "Toʻgʻri sanitariya choralari suv orqali yuqadigan kasalliklarni bartaraf etishga yordam berdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "emerge",
+      "pronunciation_uz": "imerj",
+      "uzbek": "paydo boʻlmoq, yuzaga chiqmoq",
+      "pos": "verb",
+      "example_en": "New renewable technologies emerge every year.",
+      "example_uz": "Har yili yangi qayta tiklanuvchi texnologiyalar paydo boʻladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "emphasis",
+      "pronunciation_uz": "emfasis",
+      "uzbek": "urgʻu, alohida eʼtibor",
+      "pos": "noun",
+      "example_en": "Our curriculum places strong emphasis on analytical writing.",
+      "example_uz": "Oʻquv dasturimizda tahliliy yozuvga alohida urgʻu beriladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "empirical",
+      "pronunciation_uz": "empirikal",
+      "uzbek": "tajribaga asoslangan, amaliy kuzatuvga tayangan",
+      "pos": "adj",
+      "example_en": "The theory is supported by extensive empirical evidence.",
+      "example_uz": "Nazariya keng koʻlamli amaliy tajriba dalillari bilan tasdiqlangan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "enable",
+      "pronunciation_uz": "ineybl",
+      "uzbek": "imkon bermoq, qodir qilmoq",
+      "pos": "verb",
+      "example_en": "High-speed internet enables doctors to consult patients remotely.",
+      "example_uz": "Yuqori tezlikdagi internet shifokorlarga bemorlarga masofadan maslahat berish imkonini yaratadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "encounter",
+      "pronunciation_uz": "inkaunter",
+      "uzbek": "duch kelmoq, toʻqnash kelmoq",
+      "pos": "verb",
+      "example_en": "Translators often encounter idioms that have no direct equivalent.",
+      "example_uz": "Tarjimonlar koʻpincha toʻgʻridan-toʻgʻri muqobili boʻlmagan iboralarga duch keladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "enforce",
+      "pronunciation_uz": "infors",
+      "uzbek": "ijrosini taʼminlamoq, kuch bilan amalga kiritmoq",
+      "pos": "verb",
+      "example_en": "Traffic police enforce speed limits to keep roads safe.",
+      "example_uz": "Yoʻl patrul xizmati yoʻllar xavfsizligini taʼminlash uchun tezlik cheklovlariga amal qilinishini nazorat qiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "enhance",
+      "pronunciation_uz": "inhans",
+      "uzbek": "yaxshilamoq, oshirmoq, kuchaytirmoq",
+      "pos": "verb",
+      "example_en": "Good lighting enhances productivity in the workplace.",
+      "example_uz": "Yaxshi yoritish ish joyidagi unumdorlikni oshiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "ensure",
+      "pronunciation_uz": "inshur",
+      "uzbek": "taʼminlamoq, kafolatlamoq",
+      "pos": "verb",
+      "example_en": "Double-check the measurements to ensure complete accuracy.",
+      "example_uz": "Toʻliq aniqlikni taʼminlash uchun oʻlchovlarni ikki marta tekshiring.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "entity",
+      "pronunciation_uz": "entiti",
+      "uzbek": "tuzilma, mustaqil birlik yoki tashkilot",
+      "pos": "noun",
+      "example_en": "The research center operates as an independent legal entity.",
+      "example_uz": "Tadqiqot markazi mustaqil yuridik tuzilma sifatida faoliyat yuritadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "environment",
+      "pronunciation_uz": "invayronment",
+      "uzbek": "atrof-muhit, muhit",
+      "pos": "noun",
+      "example_en": "Protecting the natural environment is a global responsibility.",
+      "example_uz": "Tabiiy atrof-muhitni asrash — umumbashariy masʼuliyatdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "equate",
+      "pronunciation_uz": "ikueyt",
+      "uzbek": "tenglashtirmoq, barobar deb bilmoq",
+      "pos": "verb",
+      "example_en": "People sometimes mistakenly equate wealth with happiness.",
+      "example_uz": "Odamlar baʼzida xato qilib boylikni baxt bilan tenglashtiradilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "equip",
+      "pronunciation_uz": "ikuip",
+      "uzbek": "jihozlamoq, taʼminlamoq",
+      "pos": "verb",
+      "example_en": "The new classrooms are equipped with interactive smartboards.",
+      "example_uz": "Yangi oʻquv xonalari interaktiv elektron doskalar bilan jihozlangan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "equivalent",
+      "pronunciation_uz": "ikuivalent",
+      "uzbek": "teng, barobar, muqobil",
+      "pos": "adj",
+      "example_en": "One mile is roughly equivalent to one point six kilometers.",
+      "example_uz": "Bir milya taxminan bir butun olti kilometrga teng.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "erode",
+      "pronunciation_uz": "iroud",
+      "uzbek": "yemirmoq, yuvib ketmoq",
+      "pos": "verb",
+      "example_en": "Strong winds and rain gradually erode bare mountain slopes.",
+      "example_uz": "Kuchli shamol va yomgʻir daraxtsiz togʻ yonbagʻirlarini asta-sekin yemiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "error",
+      "pronunciation_uz": "eror",
+      "uzbek": "xato, yanglishish",
+      "pos": "noun",
+      "example_en": "The accident was caused by human error rather than mechanical failure.",
+      "example_uz": "Hodisa texnik nosozlik emas, balki inson xatosi tufayli yuz berdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "estate",
+      "pronunciation_uz": "isteyt",
+      "uzbek": "mulk, koʻchmas mulk",
+      "pos": "noun",
+      "example_en": "Real estate prices near the new metro station have risen.",
+      "example_uz": "Yangi metro bekati yaqinidagi koʻchmas mulk narxlari oshdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "ethic",
+      "pronunciation_uz": "esik",
+      "uzbek": "axloq qoidasi, odob meʼyori",
+      "pos": "noun",
+      "example_en": "A strong work ethic is valued in every profession.",
+      "example_uz": "Har bir kasbda kuchli mehnat odobi yuqori qadrlanadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "evaluate",
+      "pronunciation_uz": "ivelyueyt",
+      "uzbek": "baholamoq, tahlil qilib qiymat bermoq",
+      "pos": "verb",
+      "example_en": "Independent experts evaluated the effectiveness of the program.",
+      "example_uz": "Mustaqil ekspertlar dasturning samaradorligini baholadilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "evolve",
+      "pronunciation_uz": "ivolv",
+      "uzbek": "rivojlanmoq, tadrijiy oʻzgarmoq",
+      "pos": "verb",
+      "example_en": "Languages constantly evolve as societies change.",
+      "example_uz": "Jamiyatlar oʻzgargani sari tillar ham doimiy ravishda rivojlanib boradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "exceed",
+      "pronunciation_uz": "iksid",
+      "uzbek": "oshib ketmoq, ortiq boʻlmoq",
+      "pos": "verb",
+      "example_en": "Actual attendance exceeded our highest expectations.",
+      "example_uz": "Haqiqiy ishtirokchilar soni eng yuqori kutganlarimizdan ham oshib ketdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "exclude",
+      "pronunciation_uz": "iksklud",
+      "uzbek": "chetlatmoq, chiqarib tashlamoq, kiritmaslik",
+      "pos": "verb",
+      "example_en": "The price of the tour excludes international airfare.",
+      "example_uz": "Sayohat narxiga xalqaro aviachipta kiritilmagan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "exhibit",
+      "pronunciation_uz": "igzibit",
+      "uzbek": "namoyish etmoq; koʻrgazma eksponati",
+      "pos": "verb",
+      "example_en": "Many desert reptiles exhibit nocturnal behavior to avoid heat.",
+      "example_uz": "Koʻplab choʻl sudralib yuruvchilari issiqdan saqlanish uchun tungi hayot tarzini namoyon qiladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "explicit",
+      "pronunciation_uz": "iksplisit",
+      "uzbek": "aniq va ochiq aytilgan, ravshan",
+      "pos": "adj",
+      "example_en": "The laboratory manual gives explicit instructions for each step.",
+      "example_uz": "Laboratoriya qoʻllanmasida har bir bosqich uchun aniq va ochiq koʻrsatmalar berilgan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "exploit",
+      "pronunciation_uz": "ikployt",
+      "uzbek": "oʻzlashtirmoq, foydalanmoq; ekspluatatsiya qilmoq",
+      "pos": "verb",
+      "example_en": "Countries are seeking ways to exploit geothermal energy cleanly.",
+      "example_uz": "Mamlakatlar geotermal energiyadan toza usulda foydalanish yoʻllarini izlamoqda.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "expose",
+      "pronunciation_uz": "ikspouz",
+      "uzbek": "ochiq qoldirmoq; fosh qilmoq; tanishtirmoq",
+      "pos": "verb",
+      "example_en": "Traveling exposes young people to diverse cultures and ideas.",
+      "example_uz": "Sayohat yoshlarni turli-tuman madaniyatlar va gʻoyalar bilan tanishtiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "extract",
+      "pronunciation_uz": "ikstrakt",
+      "uzbek": "ajratib olmoq, qazib olmoq",
+      "pos": "verb",
+      "example_en": "Essential oils are extracted from lavender flowers.",
+      "example_uz": "Efir moylari lavanda gullaridan ajratib olinadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "facilitate",
+      "pronunciation_uz": "fesiliteyt",
+      "uzbek": "osonlashtirmoq, yengillashtirmoq, koʻmaklashmoq",
+      "pos": "verb",
+      "example_en": "Modern ports facilitate international trade and logistics.",
+      "example_uz": "Zamonaviy portlar xalqaro savdo va logistikani osonlashtiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "factor",
+      "pronunciation_uz": "fektor",
+      "uzbek": "omil, sabab",
+      "pos": "noun",
+      "example_en": "Clean water is a key factor in public health.",
+      "example_uz": "Toza suv aholi salomatligining asosiy omilidir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "feature",
+      "pronunciation_uz": "ficher",
+      "uzbek": "xususiyat, belgi; oʻz ichiga olmoq",
+      "pos": "noun",
+      "example_en": "Energy efficiency is the main feature of the new design.",
+      "example_uz": "Energiya tejamkorligi yangi loyihaning asosiy xususiyatidir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "fee",
+      "pronunciation_uz": "fi",
+      "uzbek": "toʻlov, badal, xizmat haqi",
+      "pos": "noun",
+      "example_en": "The university waived the application fee for scholarship candidates.",
+      "example_uz": "Universitet stipendiya nomzodlari uchun ariza toʻlovini bekor qildi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "finance",
+      "pronunciation_uz": "faynans",
+      "uzbek": "moliya; moliyalashtirmoq",
+      "pos": "verb",
+      "example_en": "The city issued bonds to finance the new tram network.",
+      "example_uz": "Shahar yangi tramvay tarmogʻini moliyalashtirish uchun obligatsiyalar chiqardi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "finite",
+      "pronunciation_uz": "faynayt",
+      "uzbek": "cheklangan, tugaydigan",
+      "pos": "adj",
+      "example_en": "Fossil fuels are finite resources that will eventually run out.",
+      "example_uz": "Qazilma yoqilgʻilar cheklangan resurslar boʻlib, vaqti kelib tugaydi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "fluctuate",
+      "pronunciation_uz": "flakchueyt",
+      "uzbek": "oʻzgarib turmoq, tebranmoq (narx yoki harorat)",
+      "pos": "verb",
+      "example_en": "Vegetable prices fluctuate depending on the season.",
+      "example_uz": "Sabzavot narxlari mavsumga qarab oʻzgarib turadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "format",
+      "pronunciation_uz": "format",
+      "uzbek": "format, shakl, tuzilish",
+      "pos": "noun",
+      "example_en": "Please submit your report in PDF format.",
+      "example_uz": "Iltimos, hisobotingizni PDF formatida topshiring.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "formula",
+      "pronunciation_uz": "formyula",
+      "uzbek": "formula; yechim usuli",
+      "pos": "noun",
+      "example_en": "Consistency and curiosity are the formula for academic success.",
+      "example_uz": "Muntazamlik va qiziquvchanlik akademik muvaffaqiyat formulasidir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "forthcoming",
+      "pronunciation_uz": "forscoming",
+      "uzbek": "yaqinlashib kelayotgan, boʻlajak",
+      "pos": "adj",
+      "example_en": "Details will be published in the forthcoming issue of the journal.",
+      "example_uz": "Tafsilotlar jurnalning navbatdagi sonida chop etiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "foundation",
+      "pronunciation_uz": "faundeyshen",
+      "uzbek": "poydevor, asos; jamgʻarma",
+      "pos": "noun",
+      "example_en": "Primary school lays the foundation for lifelong learning.",
+      "example_uz": "Boshlangʻich maktab umrboqiy taʼlim uchun poydevor qoʻyadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "founded",
+      "pronunciation_uz": "faundid",
+      "uzbek": "asos solingan, tashkil etilgan",
+      "pos": "adj",
+      "example_en": "The national library was founded more than a century ago.",
+      "example_uz": "Milliy kutubxonaga bir asrdan koʻproq vaqt oldin asos solingan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "framework",
+      "pronunciation_uz": "freymuork",
+      "uzbek": "tuzilma, asosiy tizim, qolip",
+      "pos": "noun",
+      "example_en": "The treaty provides a legal framework for water sharing.",
+      "example_uz": "Shartnoma suvdan birgalikda foydalanish uchun huquqiy asos yaratadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "function",
+      "pronunciation_uz": "fankshen",
+      "uzbek": "vazifa, funksiya; ishlamoq",
+      "pos": "noun",
+      "example_en": "The main function of the heart is to pump blood.",
+      "example_uz": "Yurakning asosiy vazifasi qon haydashdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "fund",
+      "pronunciation_uz": "fand",
+      "uzbek": "jamgʻarma, fond; mablagʻ bilan taʼminlamoq",
+      "pos": "verb",
+      "example_en": "The state funds basic scientific research at public universities.",
+      "example_uz": "Davlat jamoat universitetlaridagi fundamental ilmiy tadqiqotlarni moliyalashtiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "furthermore",
+      "pronunciation_uz": "ferzermor",
+      "uzbek": "bundan tashqari, ustiga-ustak",
+      "pos": "adv",
+      "example_en": "Solar energy is clean; furthermore, it is inexhaustible.",
+      "example_uz": "Quyosh energiyasi toza, bundan tashqari, u tuganmasdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "feasible",
+      "pronunciation_uz": "fizibl",
+      "uzbek": "amalga oshirsa boʻladigan, imkoni bor",
+      "pos": "adj",
+      "example_en": "Engineers confirmed that the tunnel project is technically feasible.",
+      "example_uz": "Muhandislar tunnel loyihasini texnik jihatdan amalga oshirish mumkinligini tasdiqladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "foster",
+      "pronunciation_uz": "foster",
+      "uzbek": "ragʻbatlantirmoq, rivojlantirmoq",
+      "pos": "verb",
+      "example_en": "International festivals foster friendship among nations.",
+      "example_uz": "Xalqaro festivallar xalqlar oʻrtasida doʻstlikni rivojlantiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "gender",
+      "pronunciation_uz": "jender",
+      "uzbek": "jins, gender",
+      "pos": "noun",
+      "example_en": "Equal access to education regardless of gender is vital.",
+      "example_uz": "Jinsidan qatʼi nazar taʼlimdan teng foydalanish imkoniyati juda muhimdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "generation",
+      "pronunciation_uz": "jenereyshen",
+      "uzbek": "avlod; ishlab chiqarish",
+      "pos": "noun",
+      "example_en": "We must preserve nature for the next generation.",
+      "example_uz": "Tabiatni kelajak avlod uchun asrab-avaylashimiz shart.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "globe",
+      "pronunciation_uz": "gloub",
+      "uzbek": "yer shari, dunyo",
+      "pos": "noun",
+      "example_en": "Scholars from across the globe attended the symposium in Khiva.",
+      "example_uz": "Xivadagi simpoziumga butun yer sharidan olimlar tashrif buyurishdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "guideline",
+      "pronunciation_uz": "gaydlayn",
+      "uzbek": "yoʻriqnoma, tavsiyaviy qoida",
+      "pos": "noun",
+      "example_en": "The World Health Organization issued new dietary guidelines.",
+      "example_uz": "Jahon sogʻliqni saqlash tashkiloti ovqatlanish boʻyicha yangi tavsiyalarni eʼlon qildi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "galvanize",
+      "pronunciation_uz": "gelvanayz",
+      "uzbek": "harakatga keltirmoq, ruhlantirib faollashtirmoq",
+      "pos": "verb",
+      "example_en": "The documentary galvanized students to plant trees across the campus.",
+      "example_uz": "Hujjatli film talabalarni butun kampus boʻylab daraxt ekishga ruhlantirdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "gauge",
+      "pronunciation_uz": "geyj",
+      "uzbek": "oʻlchamoq, baholamoq; oʻlchov asbobi",
+      "pos": "verb",
+      "example_en": "Polls are used to gauge public opinion before an election.",
+      "example_uz": "Saylov oldidan jamoatchilik fikrini oʻlchash uchun soʻrovnomalardan foydalaniladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "generic",
+      "pronunciation_uz": "jenerik",
+      "uzbek": "umumiy, xos boʻlmagan",
+      "pos": "adj",
+      "example_en": "Generic medicines are much cheaper than brand-name drugs.",
+      "example_uz": "Umumiy nomdagi dorilar brend dorilarga qaraganda ancha arzon boʻladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "gravity",
+      "pronunciation_uz": "greviti",
+      "uzbek": "tortishish kuchi, gravitatsiya; jiddiylik",
+      "pos": "noun",
+      "example_en": "Isaac Newton formulated the universal law of gravity.",
+      "example_uz": "Isaak Nyuton butun olam tortishish qonunini taʼriflab bergan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "gregarious",
+      "pronunciation_uz": "grigerias",
+      "uzbek": "kirishimli, odamoxun, davrani yoqtiradigan",
+      "pos": "adj",
+      "example_en": "Dolphins are gregarious animals that travel in large pods.",
+      "example_uz": "Delfinlar katta toʻda boʻlib suzadigan kirishimli jonivorlardir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "habitat",
+      "pronunciation_uz": "hebitat",
+      "uzbek": "tabiiy yashash muhiti, makon",
+      "pos": "noun",
+      "example_en": "Wetlands provide an essential habitat for migratory birds.",
+      "example_uz": "Botqoqlik va koʻllar koʻchmanchi qushlar uchun muhim yashash muhitini yaratadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hamper",
+      "pronunciation_uz": "hemper",
+      "uzbek": "toʻsqinlik qilmoq, xalaqit bermoq",
+      "pos": "verb",
+      "example_en": "Strong headwinds hampered the progress of the expedition.",
+      "example_uz": "Qarama-qarshi esgan kuchli shamol ekspeditsiya harakatiga toʻsqinlik qildi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "haphazard",
+      "pronunciation_uz": "hephezard",
+      "uzbek": "tartibsiz, rejasiz, tasodifiy",
+      "pos": "adj",
+      "example_en": "Haphazard urban planning leads to severe traffic problems.",
+      "example_uz": "Tartibsiz shaharsozlik rejalashtiruvi jiddiy tirbandlik muammolariga olib keladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "harbor",
+      "pronunciation_uz": "harbor",
+      "uzbek": "bandargoh; koʻnglida saqlamoq",
+      "pos": "verb",
+      "example_en": "Scientists harbor hopes of finding microbial life on Mars.",
+      "example_uz": "Olimlar Marsda mikroskopik hayot topish umidini saqlamoqdalar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hardy",
+      "pronunciation_uz": "hardi",
+      "uzbek": "chidamli, bardoshli (oʻsimlik yoki hayvon)",
+      "pos": "adj",
+      "example_en": "Saxaul is a hardy desert tree that survives extreme heat.",
+      "example_uz": "Saksovul jazirama issiqqa chidaydigan bardoshli choʻl daraxtidir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "harness",
+      "pronunciation_uz": "harnes",
+      "uzbek": "boʻysundirmoq, unumli foydalanmoq (tabiat kuchidan)",
+      "pos": "verb",
+      "example_en": "Solar panels harness the power of the sun to produce electricity.",
+      "example_uz": "Quyosh panellari elektr energiyasi ishlab chiqarish uchun quyosh quvvatidan foydalanadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hasten",
+      "pronunciation_uz": "heysen",
+      "uzbek": "tezlashtirmoq, shoshiltirmoq",
+      "pos": "verb",
+      "example_en": "Warm winds hastened the melting of the mountain snow.",
+      "example_uz": "Iliq shamollar togʻ qorlarining erishini tezlashtirdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hazard",
+      "pronunciation_uz": "hezard",
+      "uzbek": "xavf-xatar, tahdid",
+      "pos": "noun",
+      "example_en": "Industrial waste poses a serious hazard to groundwater.",
+      "example_uz": "Sanoat chiqindilari yer osti suvlariga jiddiy xavf tugʻdiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hegemony",
+      "pronunciation_uz": "hijemoni",
+      "uzbek": "gegemonlik, ustunlik, hukmronlik",
+      "pos": "noun",
+      "example_en": "Historians study the rise and fall of maritime hegemony.",
+      "example_uz": "Tarixchilar dengiz hukmronligining yuksalishi va inqirozini oʻrganadilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "herald",
+      "pronunciation_uz": "herald",
+      "uzbek": "darak bermoq, boshlab bermoq",
+      "pos": "verb",
+      "example_en": "The invention of the transistor heralded the computer age.",
+      "example_uz": "Tranzistorning ixtiro qilinishi kompyuter davri boshlanganidan darak berdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hereditary",
+      "pronunciation_uz": "hereditari",
+      "uzbek": "irsiy, nasldan naslga oʻtadigan",
+      "pos": "adj",
+      "example_en": "Eye color is a hereditary trait passed from parents to children.",
+      "example_uz": "Koʻz rangi ota-onadan bolalarga oʻtadigan irsiy belgidir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "heterogeneous",
+      "pronunciation_uz": "heterojinias",
+      "uzbek": "turli jinsli, xilma-xil tarkibli",
+      "pos": "adj",
+      "example_en": "The metropolitan population is culturally heterogeneous.",
+      "example_uz": "Megapolis aholisi madaniy jihatdan xilma-xil tarkibga ega.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hierarchy",
+      "pronunciation_uz": "hayerarki",
+      "uzbek": "iyerarxiya, pogʻonali boʻysunuv tizimi",
+      "pos": "noun",
+      "example_en": "Corporate hierarchy defines who reports to whom.",
+      "example_uz": "Korporativ iyerarxiya kim kimga hisobot berishini belgilaydi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "highlight",
+      "pronunciation_uz": "haylayt",
+      "uzbek": "alohida taʼkidlamoq, ajratib koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "The report highlights the need for vocational training.",
+      "example_uz": "Hisobotda kasb-hunar taʼlimi zarurligi alohida taʼkidlangan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hinder",
+      "pronunciation_uz": "hinder",
+      "uzbek": "toʻsqinlik qilmoq, sekinlashtirmoq",
+      "pos": "verb",
+      "example_en": "Lack of funding can hinder scientific innovation.",
+      "example_uz": "Mablagʻ yetishmasligi ilmiy yangiliklarga toʻsqinlik qilishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "holistic",
+      "pronunciation_uz": "holistik",
+      "uzbek": "yaxlit, har tomonlama qamrab oluvchi",
+      "pos": "adj",
+      "example_en": "Doctors recommend a holistic approach to health and wellness.",
+      "example_uz": "Shifokorlar salomatlik va farovonlikka yaxlit yondashuvni tavsiya etadilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "homogeneous",
+      "pronunciation_uz": "homojinias",
+      "uzbek": "bir jinsli, tarkibi bir xil",
+      "pos": "adj",
+      "example_en": "Stir the mixture until it becomes completely homogeneous.",
+      "example_uz": "Aralashma butunlay bir jinsli holga kelguncha aralashtiring.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hub",
+      "pronunciation_uz": "hab",
+      "uzbek": "markaz, chorraha",
+      "pos": "noun",
+      "example_en": "Tashkent serves as a major aviation hub in Central Asia.",
+      "example_uz": "Toshkent Markaziy Osiyoda yirik aviatsiya markazi boʻlib xizmat qiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "humane",
+      "pronunciation_uz": "hyumeyn",
+      "uzbek": "insonparvar, rahmdil, mehr-shafqatli",
+      "pos": "adj",
+      "example_en": "Modern laws require the humane treatment of all animals.",
+      "example_uz": "Zamonaviy qonunlar barcha jonivorlarga insonparvar munosabatda boʻlishni talab qiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hypothesis",
+      "pronunciation_uz": "hayposesis",
+      "uzbek": "gipoteza, ilmiy faraz",
+      "pos": "noun",
+      "example_en": "The team designed an experiment to test their hypothesis.",
+      "example_uz": "Jamoa oʻzlarining ilmiy farazini sinab koʻrish uchun tajriba ishlab chiqdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hypothetical",
+      "pronunciation_uz": "hayposetikal",
+      "uzbek": "faraziy, taxminiy",
+      "pos": "adj",
+      "example_en": "The professor presented a hypothetical case for the law students.",
+      "example_uz": "Professor huquqshunos talabalar uchun faraziy bir holatni taqdim etdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    },
+    {
+      "english": "hybrid",
+      "pronunciation_uz": "haybrid",
+      "uzbek": "gibrid, chatishtirilgan, aralash",
+      "pos": "noun",
+      "example_en": "Hybrid cars combine a gasoline engine with an electric motor.",
+      "example_uz": "Gibrid avtomobillar benzinli dvigatel bilan elektr motorni birlashtiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)"
+    }
+  ]
+}
