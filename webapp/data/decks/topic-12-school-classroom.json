@@ -1,0 +1,1168 @@
+{
+  "title": "Maktab, sinfxona va oʻquv qurollari",
+  "category": "School, Classroom & Subjects",
+  "group": "topic",
+  "words": [
+    {
+      "english": "school",
+      "pronunciation_uz": "skul",
+      "uzbek": "maktab",
+      "pos": "noun",
+      "example_en": "Our neighborhood school has a large sports ground and library.",
+      "example_uz": "Mahallamiz maktabida katta sport maydonchasi va kutubxona bor.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "kindergarten",
+      "pronunciation_uz": "kindergarten",
+      "uzbek": "bolalar bogʻchasi",
+      "pos": "noun",
+      "example_en": "Children learn songs and games in kindergarten.",
+      "example_uz": "Bolalar bogʻchasida bolalar qoʻshiqlar va oʻyinlarni oʻrganadilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "preschool",
+      "pronunciation_uz": "priskul",
+      "uzbek": "maktabgacha taʼlim muassasasi",
+      "pos": "noun",
+      "example_en": "Preschool prepares young kids for primary classes.",
+      "example_uz": "Maktabgacha taʼlim kichkintoylarni boshlangʻich sinflarga tayyorlaydi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "elementary school",
+      "pronunciation_uz": "elementari skul",
+      "uzbek": "boshlangʻich maktab",
+      "pos": "noun",
+      "example_en": "She learned to read and write in elementary school.",
+      "example_uz": "U boshlangʻich maktabda oʻqish va yozishni oʻrgandi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "secondary school",
+      "pronunciation_uz": "sekondari skul",
+      "uzbek": "oʻrta maktab",
+      "pos": "noun",
+      "example_en": "Students study physics and chemistry in secondary school.",
+      "example_uz": "Oʻquvchilar oʻrta maktabda fizika va kimyo fanlarini oʻrganadilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "high school",
+      "pronunciation_uz": "hay skul",
+      "uzbek": "yuqori sinflar maktabi",
+      "pos": "noun",
+      "example_en": "After graduating from high school, he entered a technical institute.",
+      "example_uz": "Yuqori sinfni tamomlagandan soʻng, u texnika institutiga oʻqishga kirdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "lyceum",
+      "pronunciation_uz": "laysium",
+      "uzbek": "akademik litsey",
+      "pos": "noun",
+      "example_en": "She attends an academic lyceum specializing in exact sciences.",
+      "example_uz": "U aniq fanlarga ixtisoslashgan akademik litseyda oʻqiydi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "gymnasium",
+      "pronunciation_uz": "jimneyzium",
+      "uzbek": "gimnaziya (yoki sport zali)",
+      "pos": "noun",
+      "example_en": "The language gymnasium offers intensive courses in three foreign languages.",
+      "example_uz": "Til gimnaziyasi uchta xorijiy tilda chuqurlashtirilgan kurslarni taklif etadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "boarding school",
+      "pronunciation_uz": "bording skul",
+      "uzbek": "maktab-internat",
+      "pos": "noun",
+      "example_en": "Gifted young athletes train and study at the sports boarding school.",
+      "example_uz": "Iqtidorli yosh sportchilar sport maktab-internatida mashq qiladilar va oʻqiydilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "classroom",
+      "pronunciation_uz": "klasrum",
+      "uzbek": "sinfxona",
+      "pos": "noun",
+      "example_en": "Sunlight filled the bright classroom on the second floor.",
+      "example_uz": "Ikkinchi qavatdagi yorugʻ sinfxonani quyosh nuri toʻldirdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "homeroom",
+      "pronunciation_uz": "houmrum",
+      "uzbek": "sinf rahbari xonasi, biriktirilgan sinf",
+      "pos": "noun",
+      "example_en": "Students gather in their homeroom every Monday morning.",
+      "example_uz": "Oʻquvchilar har dushanba ertalab oʻzlariga biriktirilgan sinfxonada toʻplanishadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "playground",
+      "pronunciation_uz": "pleygraund",
+      "uzbek": "oʻyin maydonchasi",
+      "pos": "noun",
+      "example_en": "Primary pupils played tag on the outdoor playground.",
+      "example_uz": "Boshlangʻich sinf oʻquvchilari ochiq oʻyin maydonchasida quvlashmachoq oʻynashdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "schoolyard",
+      "pronunciation_uz": "skulyard",
+      "uzbek": "maktab hovlisi",
+      "pos": "noun",
+      "example_en": "The first bell rang and everyone lined up in the schoolyard.",
+      "example_uz": "Birinchi qoʻngʻiroq chalindi va hamma maktab hovlisida saf tortdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "cloakroom",
+      "pronunciation_uz": "kloukrum",
+      "uzbek": "kiyim ilgich xonasi (garderob)",
+      "pos": "noun",
+      "example_en": "Hang your winter coat on a hook in the cloakroom.",
+      "example_uz": "Qishki paltongizni garderobdagi ilgakka ilib qoʻying.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "staffroom",
+      "pronunciation_uz": "stafrum",
+      "uzbek": "oʻqituvchilar xonasi",
+      "pos": "noun",
+      "example_en": "Teachers check test papers in the quiet staffroom.",
+      "example_uz": "Oʻqituvchilar tinch oʻqituvchilar xonasida nazorat ishlarini tekshiradilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "principal",
+      "pronunciation_uz": "prinsipal",
+      "uzbek": "maktab direktori",
+      "pos": "noun",
+      "example_en": "The school principal congratulated the winners of the Olympiad.",
+      "example_uz": "Maktab direktori olimpiada gʻoliblarini tabrikladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "headmaster",
+      "pronunciation_uz": "hedmaster",
+      "uzbek": "maktab mudiri, direktor",
+      "pos": "noun",
+      "example_en": "The headmaster welcomed new pupils on the first day of September.",
+      "example_uz": "Maktab direktori sentyabrning birinchi kunida yangi oʻquvchilarni qutladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "teacher",
+      "pronunciation_uz": "ticher",
+      "uzbek": "oʻqituvchi, muallim",
+      "pos": "noun",
+      "example_en": "Our mathematics teacher explains complex problems very clearly.",
+      "example_uz": "Matematika oʻqituvchimiz murakkab masalalarni juda tushunarli qilib tushuntiradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "instructor",
+      "pronunciation_uz": "instraktor",
+      "uzbek": "instruktor, murabbiy, oʻrgatuvchi",
+      "pos": "noun",
+      "example_en": "The swimming instructor taught the children how to float.",
+      "example_uz": "Suzish murabbiyi bolalarga suv yuzida qalqib turishni oʻrgatdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "tutor",
+      "pronunciation_uz": "tyutor",
+      "uzbek": "repetitor, yakka tartibdagi ustoz",
+      "pos": "noun",
+      "example_en": "He works with an English tutor twice a week after classes.",
+      "example_uz": "U darslardan keyin haftasiga ikki marta ingliz tili repetitori bilan shugʻullanadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "schoolmate",
+      "pronunciation_uz": "skulmeyt",
+      "uzbek": "maktabdosh",
+      "pos": "noun",
+      "example_en": "I met an old schoolmate at the book fair yesterday.",
+      "example_uz": "Kecha kitob yarmarkasida eski maktabdoshimni uchratib qoldim.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "prefect",
+      "pronunciation_uz": "prifekt",
+      "uzbek": "intizom boʻyicha navbatchi oʻquvchi",
+      "pos": "noun",
+      "example_en": "A senior prefect helped younger children find their classrooms.",
+      "example_uz": "Yuqori sinf navbatchisi kichik bolalarga sinfxonalarini topishga yordam berdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "janitor",
+      "pronunciation_uz": "jenitor",
+      "uzbek": "farrosh, maktab xoʻjalik xodimi",
+      "pos": "noun",
+      "example_en": "The janitor unlocked the school gates early in the morning.",
+      "example_uz": "Maktab xodimi erta tongda maktab darvozalarini ochdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "librarian",
+      "pronunciation_uz": "laybrerian",
+      "uzbek": "kutubxonachi",
+      "pos": "noun",
+      "example_en": "The school librarian recommended an adventure novel to me.",
+      "example_uz": "Maktab kutubxonachisi menga sarguzasht romanni tavsiya qildi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "counselor",
+      "pronunciation_uz": "kaunselor",
+      "uzbek": "maktab psixologi, maslahatchi",
+      "pos": "noun",
+      "example_en": "The school counselor helps students choose their future professions.",
+      "example_uz": "Maktab maslahatchisi oʻquvchilarga kelajakdagi kasblarini tanlashda yordam beradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "whiteboard",
+      "pronunciation_uz": "uaytbord",
+      "uzbek": "oq doska (markerli doska)",
+      "pos": "noun",
+      "example_en": "She wrote five new vocabulary words on the whiteboard.",
+      "example_uz": "U oq doskaga beshta yangi soʻzni yozdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "chalkboard",
+      "pronunciation_uz": "chokbord",
+      "uzbek": "boʻr bilan yoziladigan doska",
+      "pos": "noun",
+      "example_en": "Please wipe the chalkboard clean with a damp sponge.",
+      "example_uz": "Iltimos, doskani nam shimgich bilan tozalab arting.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "marker",
+      "pronunciation_uz": "marker",
+      "uzbek": "marker, flomaster",
+      "pos": "noun",
+      "example_en": "Use a special erasable marker on the whiteboard.",
+      "example_uz": "Oq doskada maxsus oʻchiriladigan markerdan foydalaning.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "highlighter",
+      "pronunciation_uz": "haylayter",
+      "uzbek": "matn ajratgich (yorqin marker)",
+      "pos": "noun",
+      "example_en": "She used a yellow highlighter to mark important dates in the text.",
+      "example_uz": "U matndagi muhim sanalarni belgilash uchun sariq matn ajratgichdan foydalandi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "crayon",
+      "pronunciation_uz": "kreyon",
+      "uzbek": "rangli mum qalam",
+      "pos": "noun",
+      "example_en": "The little boy drew a bright sun with an orange crayon.",
+      "example_uz": "Kichkina bola toʻq sariq mum qalam bilan yorqin quyoshni chizdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "pastel",
+      "pronunciation_uz": "pastel",
+      "uzbek": "pastel (yumshoq rangli boʻyoq qalam)",
+      "pos": "noun",
+      "example_en": "Students created autumn landscapes using oil pastels.",
+      "example_uz": "Oʻquvchilar moyli pastellardan foydalanib kuz manzaralarini chizishdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "watercolor",
+      "pronunciation_uz": "uotekaler",
+      "uzbek": "akvarel boʻyoq",
+      "pos": "noun",
+      "example_en": "Clean your brush in water before changing the watercolor shade.",
+      "example_uz": "Akvarel rangini oʻzgartirishdan oldin moʻyqalamni suvda yuving.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "sketchbook",
+      "pronunciation_uz": "sketchbuk",
+      "uzbek": "rasm daftari, albom",
+      "pos": "noun",
+      "example_en": "She carries a small sketchbook to draw flowers and trees.",
+      "example_uz": "U gullar va daraxtlarni chizish uchun kichik rasm daftarini olib yuradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "easel",
+      "pronunciation_uz": "izel",
+      "uzbek": "molbert (rasm chizish dastgohi)",
+      "pos": "noun",
+      "example_en": "Each art student stood in front of a wooden easel.",
+      "example_uz": "Har bir tasviriy sanʼat oʻquvchisi yogʻoch molbert oldida turardi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "sharpener",
+      "pronunciation_uz": "sharpener",
+      "uzbek": "qalamtarosh, ochqich",
+      "pos": "noun",
+      "example_en": "May I borrow your pencil sharpener for a moment?",
+      "example_uz": "Qalamtaroshingizni bir daqiqaga olib tursam maylimi?",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "ruler",
+      "pronunciation_uz": "ruler",
+      "uzbek": "chizgʻich",
+      "pos": "noun",
+      "example_en": "Measure the length of each side with a plastic ruler.",
+      "example_uz": "Har bir tomonning uzunligini plastik chizgʻich bilan oʻlchang.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "protractor",
+      "pronunciation_uz": "protraktor",
+      "uzbek": "transportir (burchak oʻlchagich)",
+      "pos": "noun",
+      "example_en": "Use a protractor to draw a forty-five-degree angle.",
+      "example_uz": "Qirq besh darajali burchak chizish uchun transportirdan foydalaning.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "dividers",
+      "pronunciation_uz": "divayderz",
+      "uzbek": "sirkul (chizmachilik sirkuli)",
+      "pos": "noun",
+      "example_en": "Draw an accurate circle on the graph paper using dividers.",
+      "example_uz": "Katakli qogʻozga sirkul yordamida aniq aylana chizing.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "set square",
+      "pronunciation_uz": "set skver",
+      "uzbek": "uchburchak chizgʻich",
+      "pos": "noun",
+      "example_en": "An architect uses a set square to draw perpendicular lines.",
+      "example_uz": "Meʼmor perpendikulyar chiziqlarni chizish uchun uchburchak chizgʻichdan foydalanadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "abacus",
+      "pronunciation_uz": "ebakas",
+      "uzbek": "choʻt (hisoblash choʻti)",
+      "pos": "noun",
+      "example_en": "Young pupils learn mental arithmetic using an abacus.",
+      "example_uz": "Kichik oʻquvchilar choʻt yordamida ogʻzaki hisoblashni oʻrganadilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "projector",
+      "pronunciation_uz": "projektor",
+      "uzbek": "proyektor",
+      "pos": "noun",
+      "example_en": "The biology teacher connected her laptop to the ceiling projector.",
+      "example_uz": "Biologiya oʻqituvchisi noutbukini shiftdagi proyektorga uladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "pointer",
+      "pronunciation_uz": "poynter",
+      "uzbek": "koʻrsatkich tayoqcha (ukazka)",
+      "pos": "noun",
+      "example_en": "He used a wooden pointer to show the rivers on the wall map.",
+      "example_uz": "U devordagi xaritadan daryolarni koʻrsatish uchun yogʻoch koʻrsatkichdan foydalandi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "textbook",
+      "pronunciation_uz": "tekstbuk",
+      "uzbek": "darslik",
+      "pos": "noun",
+      "example_en": "Open your history textbook to chapter four.",
+      "example_uz": "Tarix darsligingizning toʻrtinchi bobini oching.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "workbook",
+      "pronunciation_uz": "uerkbuk",
+      "uzbek": "mashq daftari, ish daftari",
+      "pos": "noun",
+      "example_en": "Complete the grammar exercises in your workbook.",
+      "example_uz": "Mashq daftaringizdagi grammatika mashqlarini bajaring.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "copybook",
+      "pronunciation_uz": "kopibuk",
+      "uzbek": "husnixat daftari, yozuv daftari",
+      "pos": "noun",
+      "example_en": "First graders practice writing letters neatly in a lined copybook.",
+      "example_uz": "Birinchi sinf oʻquvchilari chiziqli yozuv daftarida harflarni chiroyli yozishni mashq qiladilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "pad",
+      "pronunciation_uz": "ped",
+      "uzbek": "bloknot, yozuv qogʻozi toʻplami",
+      "pos": "noun",
+      "example_en": "He jotted down the phone number on a small memo pad.",
+      "example_uz": "U kichik bloknotga telefon raqamini yozib oldi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "binder",
+      "pronunciation_uz": "baynder",
+      "uzbek": "halqali papka (skoroshivatel)",
+      "pos": "noun",
+      "example_en": "Keep all your printed handouts organized in a ring binder.",
+      "example_uz": "Barcha chop etilgan tarqatma materiallarni halqali papkada tartibli saqlang.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "stapler",
+      "pronunciation_uz": "steypler",
+      "uzbek": "stepler (qogʻoz tikuv moslamasi)",
+      "pos": "noun",
+      "example_en": "The stapler ran out of staples right before the presentation.",
+      "example_uz": "Taqdimotdan biroz oldin steplerning oʻqlari tugab qoldi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "hole punch",
+      "pronunciation_uz": "houl panch",
+      "uzbek": "teshgich (dirokol)",
+      "pos": "noun",
+      "example_en": "Use a hole punch so you can file the sheet in your binder.",
+      "example_uz": "Varaqni papkaga tikish uchun teshgichdan foydalaning.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "tape",
+      "pronunciation_uz": "teyp",
+      "uzbek": "skotch, yopishqoq lenta",
+      "pos": "noun",
+      "example_en": "She fixed the torn book cover with clear adhesive tape.",
+      "example_uz": "U yirtilgan kitob muqovasini shaffof skotch bilan yopishtirdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "ink",
+      "pronunciation_uz": "ink",
+      "uzbek": "siyoh",
+      "pos": "noun",
+      "example_en": "Official school certificates are signed in blue ink.",
+      "example_uz": "Rasmiy maktab shahodatnomalari koʻk siyohda imzolanadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "fountain pen",
+      "pronunciation_uz": "fauntin pen",
+      "uzbek": "avtoruchka, siyohli ruchka",
+      "pos": "noun",
+      "example_en": "My grandfather still writes letters with an old fountain pen.",
+      "example_uz": "Buvam hali ham eski siyohli ruchka bilan xat yozadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "ballpoint",
+      "pronunciation_uz": "bolpoynt",
+      "uzbek": "sharikli ruchka",
+      "pos": "noun",
+      "example_en": "Bring two black ballpoint pens to the state examination.",
+      "example_uz": "Davlat imtihoniga ikkita qora sharikli ruchka olib keling.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "pencil case",
+      "pronunciation_uz": "pensil keys",
+      "uzbek": "penal (qalamdon)",
+      "pos": "noun",
+      "example_en": "Her zippered pencil case holds pens, erasers, and a ruler.",
+      "example_uz": "Uning fermuarli qalamdonida ruchkalar, oʻchirgʻichlar va chizgʻich bor.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "satchel",
+      "pronunciation_uz": "setchel",
+      "uzbek": "maktab sumkasi, ranets",
+      "pos": "noun",
+      "example_en": "The little girl carried her books in a leather satchel.",
+      "example_uz": "Kichkina qizcha kitoblarini charm maktab sumkasida koʻtarib yurardi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "bookmark",
+      "pronunciation_uz": "bukmark",
+      "uzbek": "xatchoʻp",
+      "pos": "noun",
+      "example_en": "Place a ribbon bookmark between the pages so you don't lose your spot.",
+      "example_uz": "Oʻqigan joyingizni yoʻqotmaslik uchun sahifalar orasiga tasmali xatchoʻp qoʻying.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "encyclopedia",
+      "pronunciation_uz": "insayklopidia",
+      "uzbek": "ensiklopediya, qomus",
+      "pos": "noun",
+      "example_en": "She looked up facts about planets in the children's encyclopedia.",
+      "example_uz": "U bolalar ensiklopediyasidan sayyoralar haqidagi maʼlumotlarni qidirib topdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "anthology",
+      "pronunciation_uz": "entholoji",
+      "uzbek": "antologiya, adabiy toʻplam",
+      "pos": "noun",
+      "example_en": "The literature anthology includes poems by Navoi and Babur.",
+      "example_uz": "Adabiy majmua Navoiy va Bobur gʻazallarini oʻz ichiga oladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "subject",
+      "pronunciation_uz": "sabjekt",
+      "uzbek": "oʻquv fani",
+      "pos": "noun",
+      "example_en": "History is her favorite subject at school.",
+      "example_uz": "Tarix uning maktabdagi eng sevimli fanidir.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "curriculum",
+      "pronunciation_uz": "karikyulum",
+      "uzbek": "oʻquv dasturi",
+      "pos": "noun",
+      "example_en": "Computer programming was added to the national school curriculum.",
+      "example_uz": "Kompyuter dasturlash milliy maktab oʻquv dasturiga kiritildi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "syllabus",
+      "pronunciation_uz": "silabas",
+      "uzbek": "fan dasturi, mavzular rejasi",
+      "pos": "noun",
+      "example_en": "The teacher handed out the course syllabus on the first day.",
+      "example_uz": "Oʻqituvchi birinchi kuni fan mavzular rejasini tarqatdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "mathematics",
+      "pronunciation_uz": "methematiks",
+      "uzbek": "matematika",
+      "pos": "noun",
+      "example_en": "Al-Khwarizmi made foundational contributions to mathematics.",
+      "example_uz": "Al-Xorazmiy matematika faniga fundamental hissa qoʻshgan.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "arithmetic",
+      "pronunciation_uz": "erithmetik",
+      "uzbek": "arifmetika",
+      "pos": "noun",
+      "example_en": "Primary pupils practice basic arithmetic every day.",
+      "example_uz": "Boshlangʻich sinf oʻquvchilari har kuni oddiy arifmetikani mashq qiladilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "algebra",
+      "pronunciation_uz": "eljebra",
+      "uzbek": "algebra",
+      "pos": "noun",
+      "example_en": "In algebra, letters are used to represent unknown numbers.",
+      "example_uz": "Algebrada nomaʼlum sonlarni ifodalash uchun harflardan foydalaniladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "geometry",
+      "pronunciation_uz": "jiometri",
+      "uzbek": "geometriya, handasa",
+      "pos": "noun",
+      "example_en": "Today we studied the properties of circles in geometry.",
+      "example_uz": "Bugun geometriya darsida aylana xossalarini oʻrgandik.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "physics",
+      "pronunciation_uz": "fiziks",
+      "uzbek": "fizika",
+      "pos": "noun",
+      "example_en": "In physics class, we learned how electric circuits work.",
+      "example_uz": "Fizika darsida elektr zanjirlari qanday ishlashini oʻrgandik.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "chemistry",
+      "pronunciation_uz": "kemistri",
+      "uzbek": "kimyo",
+      "pos": "noun",
+      "example_en": "Students memorized the periodic table of elements in chemistry.",
+      "example_uz": "Oʻquvchilar kimyo darsida elementlarning davriy jadvalini yod oldilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "biology",
+      "pronunciation_uz": "bayoloji",
+      "uzbek": "biologiya",
+      "pos": "noun",
+      "example_en": "We examined plant cells under a microscope in biology.",
+      "example_uz": "Biologiya darsida oʻsimlik hujayralarini mikroskop ostida koʻzdan kechirdik.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "botany",
+      "pronunciation_uz": "botani",
+      "uzbek": "botanika (oʻsimlikshunoslik)",
+      "pos": "noun",
+      "example_en": "Botany lessons are much more fun when held in the garden.",
+      "example_uz": "Botanika darslari bogʻda oʻtkazilganda ancha qiziqarli boʻladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "zoology",
+      "pronunciation_uz": "zuoloji",
+      "uzbek": "zoologiya (hayvonotshunoslik)",
+      "pos": "noun",
+      "example_en": "Zoology explains how animals adapt to their environments.",
+      "example_uz": "Zoologiya hayvonlarning atrof-muhitga qanday moslashishini tushuntiradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "history",
+      "pronunciation_uz": "histori",
+      "uzbek": "tarix",
+      "pos": "noun",
+      "example_en": "We are studying the history of ancient Khorezm this month.",
+      "example_uz": "Shu oyda biz qadimgi Xorazm tarixini oʻrganyapmiz.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "literature",
+      "pronunciation_uz": "literacher",
+      "uzbek": "adabiyot",
+      "pos": "noun",
+      "example_en": "In literature class, students recited classical Uzbek poetry.",
+      "example_uz": "Adabiyot darsida oʻquvchilar mumtoz oʻzbek sheʼriyatidan namunalar oʻqishdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "grammar",
+      "pronunciation_uz": "gremer",
+      "uzbek": "grammatika",
+      "pos": "noun",
+      "example_en": "Clear grammar helps you express your thoughts accurately.",
+      "example_uz": "Aniq grammatika fikrlaringizni toʻgʻri ifodalashga yordam beradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "spelling",
+      "pronunciation_uz": "speling",
+      "uzbek": "imlo, toʻgʻri yozish",
+      "pos": "noun",
+      "example_en": "Check your spelling carefully before handing in the dictation.",
+      "example_uz": "Diktantni topshirishdan oldin imloni diqqat bilan tekshiring.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "calligraphy",
+      "pronunciation_uz": "kaligrafi",
+      "uzbek": "xattotlik, husnixat",
+      "pos": "noun",
+      "example_en": "Eastern calligraphy is admired as a fine art form.",
+      "example_uz": "Sharq xattotligi nafis sanʼat turi sifatida eʼzozlanadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "astronomy",
+      "pronunciation_uz": "estronomi",
+      "uzbek": "astronomiya, falakiyot",
+      "pos": "noun",
+      "example_en": "Astronomy clubs observe the moon and planets through telescopes.",
+      "example_uz": "Astronomiya toʻgaraklari teleskoplar orqali Oy va sayyoralarni kuzatadilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "informatics",
+      "pronunciation_uz": "informatiks",
+      "uzbek": "informatika",
+      "pos": "noun",
+      "example_en": "Students learn algorithms and spreadsheets in informatics.",
+      "example_uz": "Oʻquvchilar informatika darsida algoritmlar va elektron jadvallarni oʻrganadilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "civics",
+      "pronunciation_uz": "siviks",
+      "uzbek": "huquqshunoslik asoslari, fuqarolik taʼlimi",
+      "pos": "noun",
+      "example_en": "Civics classes teach young people about the constitution and laws.",
+      "example_uz": "Huquqshunoslik darslari yoshlarga konstitutsiya va qonunlar haqida maʼlumot beradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "ethics",
+      "pronunciation_uz": "ethiks",
+      "uzbek": "axloqshunoslik, odobnoma",
+      "pos": "noun",
+      "example_en": "Respect for elders is a central theme in our ethics lessons.",
+      "example_uz": "Kattalarga hurmat odobnoma darslarimizning asosiy mavzusidir.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "handicrafts",
+      "pronunciation_uz": "hendikrafts",
+      "uzbek": "mehnat taʼlimi, amaliy sanʼat",
+      "pos": "noun",
+      "example_en": "In handicrafts class, we learned woodcarving and sewing.",
+      "example_uz": "Mehnat darsida yogʻoch oʻymakorligi va tikuvchilikni oʻrgandik.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "choir",
+      "pronunciation_uz": "kuayr",
+      "uzbek": "xor (qoʻshiqchilar jamoasi)",
+      "pos": "noun",
+      "example_en": "The school choir performed three songs at the spring concert.",
+      "example_uz": "Maktab xori bahorgi konsertda uchta qoʻshiq ijro etdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "assignment",
+      "pronunciation_uz": "esaynment",
+      "uzbek": "topshiriq, vazifa",
+      "pos": "noun",
+      "example_en": "Our reading assignment for the weekend is twenty pages long.",
+      "example_uz": "Dam olish kunlari uchun oʻqish topshirigʻimiz yigirma sahifadan iborat.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "task",
+      "pronunciation_uz": "task",
+      "uzbek": "vazifa, masala",
+      "pos": "noun",
+      "example_en": "Each group received a different task to solve on the board.",
+      "example_uz": "Har bir guruh doskada yechish uchun turli vazifa oldi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "essay",
+      "pronunciation_uz": "essey",
+      "uzbek": "insho, esse",
+      "pos": "noun",
+      "example_en": "Write a short essay about your favorite historical figure.",
+      "example_uz": "Oʻzingiz yoqtirgan tarixiy shaxs haqida qisqa insho yozing.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "composition",
+      "pronunciation_uz": "kompozishn",
+      "uzbek": "bayon, insho",
+      "pos": "noun",
+      "example_en": "Her composition won first prize in the district contest.",
+      "example_uz": "Uning inshosi tuman tanlovida birinchi oʻrinni egalladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "dictation",
+      "pronunciation_uz": "dikteyshn",
+      "uzbek": "diktant",
+      "pos": "noun",
+      "example_en": "The teacher read the passage slowly during the dictation.",
+      "example_uz": "Oʻqituvchi diktant paytida matnni sekin oʻqib berdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "quiz",
+      "pronunciation_uz": "kuiz",
+      "uzbek": "qisqa savol-javob, viktorina, kichik test",
+      "pos": "noun",
+      "example_en": "We have a ten-minute vocabulary quiz every Friday.",
+      "example_uz": "Har juma kuni oʻn daqiqalik lugʻat testi topshiramiz.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "test",
+      "pronunciation_uz": "test",
+      "uzbek": "sinov, test, nazorat ishi",
+      "pos": "noun",
+      "example_en": "He got the highest score on the geometry test.",
+      "example_uz": "U geometriya nazorat ishidan eng yuqori ball oldi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "examination",
+      "pronunciation_uz": "igzemineyshn",
+      "uzbek": "imtihon",
+      "pos": "noun",
+      "example_en": "Final school examinations take place at the end of May.",
+      "example_uz": "Yakuniy maktab imtihonlari may oyining oxirida boʻlib oʻtadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "question",
+      "pronunciation_uz": "kueschn",
+      "uzbek": "savol",
+      "pos": "noun",
+      "example_en": "Raise your hand if you have a question about the rule.",
+      "example_uz": "Qoida boʻyicha savolingiz boʻlsa, qoʻlingizni koʻtaring.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "solution",
+      "pronunciation_uz": "solushn",
+      "uzbek": "yechim, javob",
+      "pos": "noun",
+      "example_en": "She found an elegant solution to the difficult math problem.",
+      "example_uz": "U qiyin matematik masalaga ajoyib yechim topdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "correction",
+      "pronunciation_uz": "korrekshn",
+      "uzbek": "xatolar ustida ishlash, tuzatish",
+      "pos": "noun",
+      "example_en": "The teacher wrote a helpful correction in the margin.",
+      "example_uz": "Oʻqituvchi hoshiyaga foydali tuzatish yozib qoʻydi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "score",
+      "pronunciation_uz": "skor",
+      "uzbek": "toʻplangan ball, natija",
+      "pos": "noun",
+      "example_en": "His total score on the olympiad test was ninety-six out of one hundred.",
+      "example_uz": "Olimpiada testida uning umumiy natijasi yuzdan toʻqson olti ball boʻldi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "report card",
+      "pronunciation_uz": "riport kard",
+      "uzbek": "tabel, baholar varaqasi",
+      "pos": "noun",
+      "example_en": "Parents sign the report card at the end of each quarter.",
+      "example_uz": "Ota-onalar har chorak oxirida baholar tabeliga imzo qoʻyadilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "register",
+      "pronunciation_uz": "rejister",
+      "uzbek": "sinf jurnali",
+      "pos": "noun",
+      "example_en": "The teacher called the roll and marked the class register.",
+      "example_uz": "Oʻqituvchi yoʻqlama qildi va sinf jurnaliga belgi qoʻydi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "attendance",
+      "pronunciation_uz": "ettendans",
+      "uzbek": "davomat",
+      "pos": "noun",
+      "example_en": "Good attendance is important for keeping up with lessons.",
+      "example_uz": "Darslardan orqada qolmaslik uchun yaxshi davomat muhimdir.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "absence",
+      "pronunciation_uz": "ebsens",
+      "uzbek": "dars qoldirish, kelmaslik",
+      "pos": "noun",
+      "example_en": "Please bring a doctor's note to explain your absence.",
+      "example_uz": "Darsga kelmaganingiz sababini tushuntirish uchun shifokor maʼlumotnomasini olib keling.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "truancy",
+      "pronunciation_uz": "truansi",
+      "uzbek": "sababsiz dars qoldirish",
+      "pos": "noun",
+      "example_en": "The school has strict rules against truancy.",
+      "example_uz": "Maktabda sababsiz dars qoldirishga qarshi qatʼiy qoidalar mavjud.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "tardiness",
+      "pronunciation_uz": "tardines",
+      "uzbek": "kechikish (darsga kech qolish)",
+      "pos": "noun",
+      "example_en": "Frequent tardiness disrupts the beginning of the lesson.",
+      "example_uz": "Tez-tez kech qolish darsning boshlanishiga xalaqit beradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "discipline",
+      "pronunciation_uz": "disiplin",
+      "uzbek": "intizom, tartib",
+      "pos": "noun",
+      "example_en": "Self-discipline helps students finish their projects on time.",
+      "example_uz": "Oʻz-oʻzini intizomga solish oʻquvchilarga loyihalarini oʻz vaqtida tugatishga yordam beradi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "behavior",
+      "pronunciation_uz": "biheyvyor",
+      "uzbek": "xulq-atvor, odob",
+      "pos": "noun",
+      "example_en": "The teacher praised the class for their polite behavior during the trip.",
+      "example_uz": "Oʻqituvchi sayohat davomidagi odobli xulq-atvori uchun sinfni maqtadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "rule",
+      "pronunciation_uz": "rul",
+      "uzbek": "qoida, tartib",
+      "pos": "noun",
+      "example_en": "One important classroom rule is to listen when others speak.",
+      "example_uz": "Muhim sinf qoidalaridan biri boshqalar gapirganda tinglashdir.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "recess",
+      "pronunciation_uz": "rises",
+      "uzbek": "tanaffus",
+      "pos": "noun",
+      "example_en": "Children played jump rope in the yard during recess.",
+      "example_uz": "Tanaffus paytida bolalar hovlida arqon sakrab oʻynashdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "playtime",
+      "pronunciation_uz": "pleytaym",
+      "uzbek": "oʻyin vaqti, tanaffus vaqti",
+      "pos": "noun",
+      "example_en": "Primary school children ran into the yard for playtime.",
+      "example_uz": "Boshlangʻich sinf bolalari oʻyin vaqti uchun hovliga yugurib chiqishdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "term",
+      "pronunciation_uz": "term",
+      "uzbek": "chorak, oʻquv davri",
+      "pos": "noun",
+      "example_en": "The first school term begins in September and ends in November.",
+      "example_uz": "Birinchi oʻquv choragi sentyabrda boshlanib, noyabrda tugaydi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "vacation",
+      "pronunciation_uz": "vekeyshn",
+      "uzbek": "taʼtil, kanikul",
+      "pos": "noun",
+      "example_en": "During the summer vacation, he read five adventure books.",
+      "example_uz": "Yozgi taʼtil paytida u beshta sarguzasht kitob oʻqidi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "assembly",
+      "pronunciation_uz": "esembli",
+      "uzbek": "umumiy saflanish, yigʻilish (lineyka)",
+      "pos": "noun",
+      "example_en": "The national anthem is sung at the Monday morning assembly.",
+      "example_uz": "Dushanba ertalabki saflanishda davlat madhiyasi kuylanadi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "certificate",
+      "pronunciation_uz": "sertifiket",
+      "uzbek": "shahodatnoma, sertifikat, faxriy yorliq",
+      "pos": "noun",
+      "example_en": "Graduates receive a secondary education certificate.",
+      "example_uz": "Bitiruvchilar umumiy oʻrta taʼlim toʻgʻrisidagi shahodatnomani oladilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "medal",
+      "pronunciation_uz": "medal",
+      "uzbek": "medal",
+      "pos": "noun",
+      "example_en": "She graduated from school with a gold medal for excellence.",
+      "example_uz": "U maktabni aʼlo baholari uchun oltin medal bilan tamomladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "olympiad",
+      "pronunciation_uz": "olimpiad",
+      "uzbek": "fan olimpiadasi",
+      "pos": "noun",
+      "example_en": "He won second place in the regional chemistry olympiad.",
+      "example_uz": "U viloyat kimyo olimpiadasida ikkinchi oʻrinni egalladi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "competition",
+      "pronunciation_uz": "kompetishn",
+      "uzbek": "musobaqa, tanlov",
+      "pos": "noun",
+      "example_en": "Twelve schools took part in the robotics competition.",
+      "example_uz": "Robototexnika musobaqasida oʻn ikkita maktab ishtirok etdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "club",
+      "pronunciation_uz": "klab",
+      "uzbek": "toʻgarak, klub",
+      "pos": "noun",
+      "example_en": "She joined the chess club and the drama club after school.",
+      "example_uz": "U darsdan keyin shaxmat va drama toʻgaragiga aʼzo boʻldi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "field trip",
+      "pronunciation_uz": "fild trip",
+      "uzbek": "oʻquv sayohati (tabiat qoʻyniga yoki muzeyga dars safari)",
+      "pos": "noun",
+      "example_en": "Our biology class went on a field trip to the nature reserve.",
+      "example_uz": "Biologiya sinfimiz qoʻriqxonaga oʻquv sayohatiga bordi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "teach",
+      "pronunciation_uz": "tich",
+      "uzbek": "oʻqitmoq, oʻrgatmoq",
+      "pos": "verb",
+      "example_en": "Experienced teachers teach children how to think independently.",
+      "example_uz": "Tajribali oʻqituvchilar bolalarga mustaqil fikrlashni oʻrgatadilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "study",
+      "pronunciation_uz": "stadi",
+      "uzbek": "oʻqimoq, oʻrganmoq",
+      "pos": "verb",
+      "example_en": "We study two foreign languages at our school.",
+      "example_uz": "Biz maktabimizda ikkita chet tilini oʻrganamiz.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "read",
+      "pronunciation_uz": "rid",
+      "uzbek": "oʻqimoq (mutolaa qilmoq)",
+      "pos": "verb",
+      "example_en": "Pupils read stories aloud to practice pronunciation.",
+      "example_uz": "Oʻquvchilar talaffuzni mashq qilish uchun hikoyalarni ovoz chiqarib oʻqiydilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "write",
+      "pronunciation_uz": "rayt",
+      "uzbek": "yozmoq",
+      "pos": "verb",
+      "example_en": "Please write the date and title at the top of the page.",
+      "example_uz": "Iltimos, sahifaning yuqori qismiga sana va sarlavhani yozing.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "spell",
+      "pronunciation_uz": "spel",
+      "uzbek": "harflab aytmoq yoki toʻgʻri yozmoq",
+      "pos": "verb",
+      "example_en": "Can you spell your surname in English?",
+      "example_uz": "Familiyangizni ingliz tilida harflab aytib bera olasizmi?",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "pronounce",
+      "pronunciation_uz": "pronauns",
+      "uzbek": "talaffuz qilmoq",
+      "pos": "verb",
+      "example_en": "Listen to the audio recording and pronounce each word clearly.",
+      "example_uz": "Audio yozuvni tinglang va har bir soʻzni aniq talaffuz qiling.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "translate",
+      "pronunciation_uz": "transleyt",
+      "uzbek": "tarjima qilmoq",
+      "pos": "verb",
+      "example_en": "Translate these five sentences from Uzbek into English.",
+      "example_uz": "Ushbu beshta gapni oʻzbek tilidan ingliz tiliga tarjima qiling.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "recite",
+      "pronunciation_uz": "risayt",
+      "uzbek": "yoddan aytib bermoq (ifodali oʻqimoq)",
+      "pos": "verb",
+      "example_en": "She stood in front of the class to recite the poem.",
+      "example_uz": "U sheʼrni yoddan aytib berish uchun sinf oldiga chiqdi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "solve",
+      "pronunciation_uz": "solv",
+      "uzbek": "yechmoq (masalani)",
+      "pos": "verb",
+      "example_en": "It took him fifteen minutes to solve the logic puzzle.",
+      "example_uz": "Mantiqiy boshqotirmani yechish uchun unga oʻn besh daqiqa kerak boʻldi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "erase",
+      "pronunciation_uz": "ireyz",
+      "uzbek": "oʻchirmoq (doskani yoki yozuvni)",
+      "pos": "verb",
+      "example_en": "Wait until everyone finishes copying before you erase the board.",
+      "example_uz": "Doskani oʻchirishdan oldin hamma koʻchirib boʻlishini kuting.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "underline",
+      "pronunciation_uz": "anderlayn",
+      "uzbek": "tagiga chizmoq",
+      "pos": "verb",
+      "example_en": "Underline all the adjectives in the paragraph with a pencil.",
+      "example_uz": "Abzasdagi barcha sifatlarning tagiga qalam bilan chizing.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "pass",
+      "pronunciation_uz": "pas",
+      "uzbek": "imtihondan oʻtmoq",
+      "pos": "verb",
+      "example_en": "Everyone in our group studied hard to pass the final test.",
+      "example_uz": "Guruhimizdagi hamma yakuniy sinovdan oʻtish uchun qattiq oʻqidi.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "praise",
+      "pronunciation_uz": "preyz",
+      "uzbek": "maqtamoq",
+      "pos": "verb",
+      "example_en": "Teachers praise students who show diligence and kindness.",
+      "example_uz": "Oʻqituvchilar tirishqoqlik va mehribonlik koʻrsatgan oʻquvchilarni maqtaydilar.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "punish",
+      "pronunciation_uz": "panish",
+      "uzbek": "jazolamoq, tanbeh bermoq",
+      "pos": "verb",
+      "example_en": "Instead of trying to punish mistakes, help pupils learn from them.",
+      "example_uz": "Xatolarni jazolashga urinish oʻrniga, oʻquvchilarga ulardan saboq olishga yordam bering.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "attentive",
+      "pronunciation_uz": "ettentiv",
+      "uzbek": "eʼtiborli, diqqatli",
+      "pos": "adj",
+      "example_en": "Be attentive when the teacher explains a new grammar rule.",
+      "example_uz": "Oʻqituvchi yangi grammatik qoidani tushuntirayotganda diqqatli boʻling.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    },
+    {
+      "english": "compulsory",
+      "pronunciation_uz": "kompalsori",
+      "uzbek": "majburiy",
+      "pos": "adj",
+      "example_en": "Eleven years of schooling is compulsory for all children.",
+      "example_uz": "Oʻn bir yillik maktab taʼlimi barcha bolalar uchun majburiydir.",
+      "category": "Maktab, sinfxona va oʻquv qurollari"
+    }
+  ]
+}

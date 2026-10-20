@@ -1,0 +1,898 @@
+{
+  "title": "Tarix, sivilizatsiya va madaniyat",
+  "category": "History, Civilization & Culture",
+  "group": "topic",
+  "words": [
+    {
+      "english": "historian",
+      "pronunciation_uz": "historian",
+      "uzbek": "tarixchi",
+      "pos": "noun",
+      "example_en": "The historian translated ancient manuscripts from Arabic and Persian.",
+      "example_uz": "Tarixchi qadimgi qoʻlyozmalarni arab va fors tillaridan tarjima qildi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "prehistoric",
+      "pronunciation_uz": "prihistorik",
+      "uzbek": "tarixdan avvalgi",
+      "pos": "adj",
+      "example_en": "Prehistoric rock paintings were found in the Sarmishsay gorge.",
+      "example_uz": "Sarmishsoy darasidan tarixdan avvalgi davrga oid qoyatosh suratlari topilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "chronology",
+      "pronunciation_uz": "kronoloji",
+      "uzbek": "xronologiya",
+      "pos": "noun",
+      "example_en": "The textbook presents a clear chronology of world events.",
+      "example_uz": "Darslikda jahon voqealarining aniq xronologiyasi keltirilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "annals",
+      "pronunciation_uz": "analz",
+      "uzbek": "tarix solnomasi",
+      "pos": "noun",
+      "example_en": "His bravery is recorded in the annals of the nation.",
+      "example_uz": "Uning jasorati millat solnomasiga muhrlangan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "antiquity",
+      "pronunciation_uz": "antikviti",
+      "uzbek": "qadimgi dunyo davri",
+      "pos": "noun",
+      "example_en": "Termez was an important trading hub in antiquity.",
+      "example_uz": "Termiz qadimgi davrda muhim savdo markazi boʻlgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "feudalism",
+      "pronunciation_uz": "fyudalizm",
+      "uzbek": "feodalizm",
+      "pos": "noun",
+      "example_en": "Under feudalism, peasants worked land owned by nobles.",
+      "example_uz": "Feodalizm davrida dehqonlar zodagonlarga tegishli yerlarda ishlaganlar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "feudal",
+      "pronunciation_uz": "fyudal",
+      "uzbek": "feodal",
+      "pos": "adj",
+      "example_en": "High stone walls surrounded the feudal fortress.",
+      "example_uz": "Feodal qalʼasini baland tosh devorlar oʻrab turardi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "medieval",
+      "pronunciation_uz": "midival",
+      "uzbek": "oʻrta asrlarga oid",
+      "pos": "adj",
+      "example_en": "Medieval scholars in Central Asia advanced algebra and medicine.",
+      "example_uz": "Markaziy Osiyodagi oʻrta asr olimlari algebra va tibbiyotni rivojlantirganlar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "renaissance",
+      "pronunciation_uz": "renesans",
+      "uzbek": "Uygʻonish davri",
+      "pos": "noun",
+      "example_en": "Eastern Renaissance thinkers inspired generations of scientists.",
+      "example_uz": "Sharq Uygʻonish davri mutafakkirlari olimlarning necha-necha avlodlarini ilhomlantirgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "enlightenment",
+      "pronunciation_uz": "inlaytenment",
+      "uzbek": "Maʼrifatparvarlik davri",
+      "pos": "noun",
+      "example_en": "The Jadid movement promoted education and enlightenment.",
+      "example_uz": "Jadidchilik harakati taʼlim va maʼrifatparvarlikni targʻib qilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "archaeologist",
+      "pronunciation_uz": "arkiolojist",
+      "uzbek": "arxeolog",
+      "pos": "noun",
+      "example_en": "The archaeologist brushed sand off the ceramic jar.",
+      "example_uz": "Arxeolog sopol koʻza ustidagi qumni choʻtka bilan tozaladi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "archaeological",
+      "pronunciation_uz": "arkiolojikal",
+      "uzbek": "arxeologik",
+      "pos": "adj",
+      "example_en": "Afrosiyob is one of the most important archaeological sites.",
+      "example_uz": "Afrosiyob eng muhim arxeologik yodgorliklardan biridir.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "excavation",
+      "pronunciation_uz": "ekskaveyshn",
+      "uzbek": "qazishma ishlari",
+      "pos": "noun",
+      "example_en": "The excavation uncovered an ancient water pipe system.",
+      "example_uz": "Qazishma ishlari qadimgi suv quvurlari tizimini ochib berdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "artifact",
+      "pronunciation_uz": "artifakt",
+      "uzbek": "osori-atiqa",
+      "pos": "noun",
+      "example_en": "Bronze age artifacts are displayed in the glass case.",
+      "example_uz": "Bronza davriga oid osori-atiqalar shisha vitrinada namoyish etilmoqda.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "relic",
+      "pronunciation_uz": "relik",
+      "uzbek": "qadimiy yodgorlik",
+      "pos": "noun",
+      "example_en": "The museum preserves priceless relics of the Silk Road.",
+      "example_uz": "Muzey Buyuk Ipak yoʻlining bebaho yodgorliklarini asrab kelmoqda.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "ruins",
+      "pronunciation_uz": "ruinz",
+      "uzbek": "xarobalar",
+      "pos": "noun",
+      "example_en": "Tourists explored the ancient ruins of Ayaz-Kala.",
+      "example_uz": "Sayyohlar Ayozqalʼaning qadimiy xarobalarini koʻzdan kechirishdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "fossil",
+      "pronunciation_uz": "fosil",
+      "uzbek": "toshqotgan qoldiq",
+      "pos": "noun",
+      "example_en": "Geologists found a dinosaur fossil in the desert cliffs.",
+      "example_uz": "Geologlar choʻl qoyalaridan dinozavrning toshqotgan qoldigʻini topdilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "inscription",
+      "pronunciation_uz": "inskripshn",
+      "uzbek": "bitik",
+      "pos": "noun",
+      "example_en": "Scholars deciphered the stone inscription on the monument.",
+      "example_uz": "Olimlar yodgorlikdagi tosh bitikni oʻqib chiqdilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "hieroglyph",
+      "pronunciation_uz": "hayeroglif",
+      "uzbek": "iyeroglif",
+      "pos": "noun",
+      "example_en": "Egyptian temple walls are covered with carved hieroglyphs.",
+      "example_uz": "Misr ibodatxonasi devorlari oʻyib yozilgan iyerogliflar bilan qoplangan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "civilization",
+      "pronunciation_uz": "sivilizeyshn",
+      "uzbek": "sivilizatsiya",
+      "pos": "noun",
+      "example_en": "River valleys were the cradles of early human civilization.",
+      "example_uz": "Daryo vodiylari ilk insoniyat sivilizatsiyasining beshigi boʻlgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "civilized",
+      "pronunciation_uz": "sivilayzd",
+      "uzbek": "madaniyatli",
+      "pos": "adj",
+      "example_en": "A civilized society resolves disagreements through dialogue.",
+      "example_uz": "Madaniyatli jamiyat kelishmovchiliklarni muloqot orqali hal qiladi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "empire",
+      "pronunciation_uz": "empayr",
+      "uzbek": "imperiya",
+      "pos": "noun",
+      "example_en": "The Kushan Empire connected trade routes across Asia.",
+      "example_uz": "Kushonlar imperiyasi Osiyo boʻylab savdo yoʻllarini birlashtirgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "emperor",
+      "pronunciation_uz": "emperor",
+      "uzbek": "imperator",
+      "pos": "noun",
+      "example_en": "Babur founded a mighty dynasty and became its first emperor.",
+      "example_uz": "Bobur qudratli sulolaga asos soldi va uning birinchi hukmdori boʻldi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "kingdom",
+      "pronunciation_uz": "kingdom",
+      "uzbek": "qirollik",
+      "pos": "noun",
+      "example_en": "The ancient kingdom prospered through silk and spice trade.",
+      "example_uz": "Qadimgi podsholik ipak va ziravorlar savdosi tufayli gullab-yashnagan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "monarch",
+      "pronunciation_uz": "monark",
+      "uzbek": "monarx",
+      "pos": "noun",
+      "example_en": "Ulugh Beg was both a monarch and a brilliant astronomer.",
+      "example_uz": "Ulugʻbek ham hukmdor, ham isteʼdodli astronom boʻlgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "reign",
+      "pronunciation_uz": "reyn",
+      "uzbek": "hukmronlik davri",
+      "pos": "noun",
+      "example_en": "Many madrasahs were constructed during his reign.",
+      "example_uz": "Uning hukmronligi davrida koʻplab madrasalar bunyod etilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "throne",
+      "pronunciation_uz": "sroun",
+      "uzbek": "taxt",
+      "pos": "noun",
+      "example_en": "The young prince ascended the throne at the age of twelve.",
+      "example_uz": "Yosh shahzoda oʻn ikki yoshida taxtga oʻtirdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "nobleman",
+      "pronunciation_uz": "noublmen",
+      "uzbek": "zodagon",
+      "pos": "noun",
+      "example_en": "Every nobleman was expected to master horsemanship.",
+      "example_uz": "Har bir zodagondan chavandozlik mahoratini egallash talab qilinardi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "aristocracy",
+      "pronunciation_uz": "aristokrasi",
+      "uzbek": "zodagonlar tabaqasi",
+      "pos": "noun",
+      "example_en": "Fine silk garments were worn by the ancient aristocracy.",
+      "example_uz": "Nafis ipak liboslar qadimgi zodagonlar tabaqasi tomonidan kiyilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "peasant",
+      "pronunciation_uz": "pezant",
+      "uzbek": "dehqon",
+      "pos": "noun",
+      "example_en": "Hardworking peasants irrigated the fields with canal water.",
+      "example_uz": "Mehnatkash dehqonlar dalalarni kanal suvi bilan sugʻorganlar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "warrior",
+      "pronunciation_uz": "vorior",
+      "uzbek": "jangchi",
+      "pos": "noun",
+      "example_en": "Jaloliddin Manguberdi is remembered as a fearless warrior.",
+      "example_uz": "Jaloliddin Manguberdi qoʻrqmas jangchi sifatida yod etiladi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "armor",
+      "pronunciation_uz": "armor",
+      "uzbek": "sovut",
+      "pos": "noun",
+      "example_en": "Chainmail armor protected soldiers in close combat.",
+      "example_uz": "Halqali sovut askarlarni yaqin jangda himoya qilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "shield",
+      "pronunciation_uz": "shild",
+      "uzbek": "qalqon",
+      "pos": "noun",
+      "example_en": "The bronze shield bore the emblem of a lion.",
+      "example_uz": "Bronza qalqonga sher tasviri tushirilgan edi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "sword",
+      "pronunciation_uz": "sord",
+      "uzbek": "qilich",
+      "pos": "noun",
+      "example_en": "Damascus steel was famous for making sharp swords.",
+      "example_uz": "Damashq poʻlati oʻtkir qilichlar yasashda mashhur boʻlgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "spear",
+      "pronunciation_uz": "spir",
+      "uzbek": "nayza",
+      "pos": "noun",
+      "example_en": "Hunters in the Bronze Age used a wooden spear with a stone tip.",
+      "example_uz": "Bronza davri ovchilari tosh uchli yogʻoch nayzadan foydalanganlar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "siege",
+      "pronunciation_uz": "sij",
+      "uzbek": "qamal",
+      "pos": "noun",
+      "example_en": "The walled city withstood a long siege.",
+      "example_uz": "Devor bilan oʻralgan shahar uzoq davom etgan qamalga bardosh berdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "conquest",
+      "pronunciation_uz": "konkvest",
+      "uzbek": "zabt etish",
+      "pos": "noun",
+      "example_en": "Alexander's conquest brought Greek culture into contact with Bactria.",
+      "example_uz": "Iskandarning yurishlari yunon madaniyatini Baqtriya bilan aloqaga kiritdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "conquer",
+      "pronunciation_uz": "konker",
+      "uzbek": "zabt etmoq",
+      "pos": "verb",
+      "example_en": "No army could easily conquer the mountain stronghold.",
+      "example_uz": "Hech bir qoʻshin togʻdagi istehkomni osongina zabt eta olmasdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "invasion",
+      "pronunciation_uz": "inveyjn",
+      "uzbek": "bosqin",
+      "pos": "noun",
+      "example_en": "Watchtowers were built to warn villagers of an invasion.",
+      "example_uz": "Qishloq aholisini bosqindan ogohlantirish uchun kuzatuv minoralari qurilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "rebellion",
+      "pronunciation_uz": "ribelyon",
+      "uzbek": "qoʻzgʻolon",
+      "pos": "noun",
+      "example_en": "Heavy taxes sparked a rebellion in the province.",
+      "example_uz": "Ogʻir soliqlar viloyatda qoʻzgʻolon koʻtarilishiga sabab boʻldi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "uprising",
+      "pronunciation_uz": "aprayzing",
+      "uzbek": "isyon",
+      "pos": "noun",
+      "example_en": "Historians wrote a book about the popular uprising.",
+      "example_uz": "Tarixchilar xalq isyoni haqida kitob yozdilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "revolution",
+      "pronunciation_uz": "revolushn",
+      "uzbek": "inqilob",
+      "pos": "noun",
+      "example_en": "The Industrial Revolution transformed manufacturing and transport.",
+      "example_uz": "Sanoat inqilobi ishlab chiqarish va transportni tubdan oʻzgartirdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "colony",
+      "pronunciation_uz": "koloni",
+      "uzbek": "mustamlaka",
+      "pos": "noun",
+      "example_en": "Many former colonies gained freedom in the twentieth century.",
+      "example_uz": "Koʻplab sobiq mustamlakalar yigirmanchi asrda ozodlikka erishdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "colonial",
+      "pronunciation_uz": "kolounial",
+      "uzbek": "mustamlakachilikka oid",
+      "pos": "adj",
+      "example_en": "The building was constructed in the nineteenth-century colonial style.",
+      "example_uz": "Bino oʻn toʻqqizinchi asr mustamlaka uslubida qurilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "caravan",
+      "pronunciation_uz": "karavan",
+      "uzbek": "karvon",
+      "pos": "noun",
+      "example_en": "A camel caravan carried silk and porcelain across the desert.",
+      "example_uz": "Tuyalar karvoni choʻl boʻylab ipak va chinni buyumlarni olib oʻtdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "nomad",
+      "pronunciation_uz": "noumad",
+      "uzbek": "koʻchmanchi",
+      "pos": "noun",
+      "example_en": "Steppe nomads lived in warm felt yurts.",
+      "example_uz": "Dasht koʻchmanchilari issiq kigiz oʻtovlarda yashaganlar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "nomadic",
+      "pronunciation_uz": "noumadik",
+      "uzbek": "koʻchmanchi hayot tarziga oid",
+      "pos": "adj",
+      "example_en": "Nomadic tribes moved their herds to mountain pastures in summer.",
+      "example_uz": "Koʻchmanchi qabilalar yozda podalarini togʻ yaylovlariga haydab chiqqanlar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "tribe",
+      "pronunciation_uz": "trayb",
+      "uzbek": "qabila",
+      "pos": "noun",
+      "example_en": "Several tribes united to defend their pasturelands.",
+      "example_uz": "Bir nechta qabilalar oʻz yaylovlarini himoya qilish uchun birlashdilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "tribal",
+      "pronunciation_uz": "traybal",
+      "uzbek": "qabilaviy",
+      "pos": "adj",
+      "example_en": "Tribal elders gathered around the fire to make decisions.",
+      "example_uz": "Qabila oqsoqollari qaror qabul qilish uchun gulxan atrofida toʻplandilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "genealogy",
+      "pronunciation_uz": "jinialoji",
+      "uzbek": "shajara",
+      "pos": "noun",
+      "example_en": "He researched his family genealogy back seven generations.",
+      "example_uz": "U oʻz oilasining yetti avlodgacha boʻlgan shajarasini oʻrgandi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "tomb",
+      "pronunciation_uz": "tum",
+      "uzbek": "qabr",
+      "pos": "noun",
+      "example_en": "Archaeologists discovered a royal tomb filled with pottery.",
+      "example_uz": "Arxeologlar sopol buyumlarga toʻla shohona qabrni topdilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "culture",
+      "pronunciation_uz": "kalcher",
+      "uzbek": "madaniyat",
+      "pos": "noun",
+      "example_en": "Hospitality is a central part of Uzbek culture.",
+      "example_uz": "Mehmondoʻstlik oʻzbek madaniyatining asosiy qismidir.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "traditional",
+      "pronunciation_uz": "tradishnal",
+      "uzbek": "anʼanaviy",
+      "pos": "adj",
+      "example_en": "Musicians played traditional melodies on the dutar.",
+      "example_uz": "Sozandalar dutorda anʼanaviy kuylarni ijro etishdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "mythology",
+      "pronunciation_uz": "misoloji",
+      "uzbek": "mifologiya",
+      "pos": "noun",
+      "example_en": "The Simurgh bird appears in Eastern mythology.",
+      "example_uz": "Simurgʻ qushi Sharq mifologiyasida uchraydi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "legendary",
+      "pronunciation_uz": "lejendari",
+      "uzbek": "afsonaviy",
+      "pos": "adj",
+      "example_en": "Alpamish is a legendary hero of the epic poem.",
+      "example_uz": "Alpomish dastondagi afsonaviy qahramondir.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "proverb",
+      "pronunciation_uz": "proverb",
+      "uzbek": "maqol",
+      "pos": "noun",
+      "example_en": "An Uzbek proverb says that strength lies in unity.",
+      "example_uz": "Oʻzbek xalq maqolida kuch birlikda ekanligi aytiladi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "craftsman",
+      "pronunciation_uz": "kraftsmen",
+      "uzbek": "hunarmand",
+      "pos": "noun",
+      "example_en": "The master craftsman wove silk atlas by hand.",
+      "example_uz": "Usta hunarmand qoʻlda ipak atlas toʻqidi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "artisan",
+      "pronunciation_uz": "artizan",
+      "uzbek": "kosib-usta",
+      "pos": "noun",
+      "example_en": "Rishtan artisans are famous for their blue ceramic glazes.",
+      "example_uz": "Rishtonlik ustalar oʻzlarining moviy sopol sirlari bilan mashhur.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "philosopher",
+      "pronunciation_uz": "filosofer",
+      "uzbek": "faylasuf",
+      "pos": "noun",
+      "example_en": "Ibn Rushd and Al-Farabi were renowned medieval philosophers.",
+      "example_uz": "Ibn Rushd va Al-Forobiy oʻrta asrlarning mashhur faylasuflari boʻlganlar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "philosophical",
+      "pronunciation_uz": "filosofikal",
+      "uzbek": "falsafiy",
+      "pos": "adj",
+      "example_en": "Navoi's poems contain deep philosophical reflections.",
+      "example_uz": "Navoiy dostonlari chuqur falsafiy mushohadalarni oʻz ichiga oladi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "worldview",
+      "pronunciation_uz": "vorldvyu",
+      "uzbek": "dunyoqarash",
+      "pos": "noun",
+      "example_en": "Reading history broadens a student's worldview.",
+      "example_uz": "Tarixni oʻqish talabaning dunyoqarashini kengaytiradi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "humanism",
+      "pronunciation_uz": "hyumanizm",
+      "uzbek": "insonparvarlik",
+      "pos": "noun",
+      "example_en": "Eastern poetry is deeply rooted in the ideas of humanism.",
+      "example_uz": "Sharq sheʼriyati insonparvarlik gʻoyalariga chuqur ildiz otgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "humanitarian",
+      "pronunciation_uz": "hyumaniterian",
+      "uzbek": "gumanitar",
+      "pos": "adj",
+      "example_en": "The organization sent humanitarian aid to the earthquake zone.",
+      "example_uz": "Tashkilot zilzila hududiga gumanitar yordam yubordi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "sociologist",
+      "pronunciation_uz": "sousiolojist",
+      "uzbek": "sotsiolog",
+      "pos": "noun",
+      "example_en": "The sociologist conducted a survey on family traditions.",
+      "example_uz": "Sotsiolog oilaviy anʼanalar boʻyicha soʻrovnoma oʻtkazdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "society",
+      "pronunciation_uz": "sosayeti",
+      "uzbek": "jamiyat",
+      "pos": "noun",
+      "example_en": "Teachers play a vital role in shaping society.",
+      "example_uz": "Oʻqituvchilar jamiyatni shakllantirishda muhim rol oʻynaydilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "social",
+      "pronunciation_uz": "soushal",
+      "uzbek": "ijtimoiy",
+      "pos": "adj",
+      "example_en": "Mahalla centers support social cohesion and mutual aid.",
+      "example_uz": "Mahalla markazlari ijtimoiy hamjihatlik va oʻzaro yordamni qoʻllab-quvvatlaydi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "identity",
+      "pronunciation_uz": "aydentiti",
+      "uzbek": "oʻzlik",
+      "pos": "noun",
+      "example_en": "Language and literature preserve national identity.",
+      "example_uz": "Til va adabiyot milliy oʻzlikni asrab-avaylaydi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "diversity",
+      "pronunciation_uz": "dayversiti",
+      "uzbek": "xilma-xillik",
+      "pos": "noun",
+      "example_en": "Cultural diversity enriches the artistic life of the country.",
+      "example_uz": "Madaniy xilma-xillik mamlakatning badiiy hayotini boyitadi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "assimilation",
+      "pronunciation_uz": "asimileyshn",
+      "uzbek": "assimilyatsiya",
+      "pos": "noun",
+      "example_en": "Sociologists study cultural integration and assimilation.",
+      "example_uz": "Sotsiologlar madaniy uygʻunlashuv va assimilyatsiyani oʻrganadilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "prestige",
+      "pronunciation_uz": "prestij",
+      "uzbek": "nufuz",
+      "pos": "noun",
+      "example_en": "Winning the international competition brought prestige to the school.",
+      "example_uz": "Xalqaro tanlovda gʻolib chiqish maktabga katta nufuz keltirdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "privilege",
+      "pronunciation_uz": "privilij",
+      "uzbek": "imtiyoz",
+      "pos": "noun",
+      "example_en": "Access to education is a fundamental right, not a privilege.",
+      "example_uz": "Taʼlim olish imtiyoz emas, balki asosiy huquqdir.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "solidarity",
+      "pronunciation_uz": "solidariti",
+      "uzbek": "birdamlik",
+      "pos": "noun",
+      "example_en": "Neighbors showed strong solidarity during the community project.",
+      "example_uz": "Qoʻshnilar mahalla loyihasi davomida kuchli birdamlik koʻrsatdilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "discrimination",
+      "pronunciation_uz": "diskrimineyshn",
+      "uzbek": "kamsitish",
+      "pos": "noun",
+      "example_en": "Labor laws prohibit any form of workplace discrimination.",
+      "example_uz": "Mehnat qonunlari ish joyida har qanday kamsitishni taqiqlaydi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "prejudice",
+      "pronunciation_uz": "prejudis",
+      "uzbek": "xurofiy qarash",
+      "pos": "noun",
+      "example_en": "Travel and education help overcome cultural prejudice.",
+      "example_uz": "Sayohat va taʼlim madaniy xurofotlarni yengishga yordam beradi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "stereotype",
+      "pronunciation_uz": "steriotayp",
+      "uzbek": "stereotip",
+      "pos": "noun",
+      "example_en": "Meeting people from other lands breaks false stereotypes.",
+      "example_uz": "Boshqa yurt odamlari bilan uchrashish notoʻgʻri stereotiplarni yoʻq qiladi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "poverty",
+      "pronunciation_uz": "poverti",
+      "uzbek": "kambagʻallik",
+      "pos": "noun",
+      "example_en": "Job creation programs aim to reduce rural poverty.",
+      "example_uz": "Ish oʻrinlari yaratish dasturlari qishloqlarda kambagʻallikni qisqartirishga qaratilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "prosperity",
+      "pronunciation_uz": "prosperiti",
+      "uzbek": "farovonlik",
+      "pos": "noun",
+      "example_en": "Peace and trade brought great prosperity to the oasis cities.",
+      "example_uz": "Tinchlik va savdo voha shaharlariga katta farovonlik olib keldi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "philanthropy",
+      "pronunciation_uz": "filansropi",
+      "uzbek": "saxovatpeshalik",
+      "pos": "noun",
+      "example_en": "Historical waqf foundations were early examples of philanthropy.",
+      "example_uz": "Tarixiy vaqf fondlari saxovatpeshalikning ilk namunalaridan boʻlgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "demography",
+      "pronunciation_uz": "dimografi",
+      "uzbek": "demografiya",
+      "pos": "noun",
+      "example_en": "Demography studies population size, growth, and age structure.",
+      "example_uz": "Demografiya aholi soni, oʻsishi va yosh tarkibini oʻrganadi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "population",
+      "pronunciation_uz": "popyuleyshn",
+      "uzbek": "aholi",
+      "pos": "noun",
+      "example_en": "The population of Uzbekistan has surpassed thirty-seven million.",
+      "example_uz": "Oʻzbekiston aholisi oʻttiz yetti milliondan oshdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "census",
+      "pronunciation_uz": "sensas",
+      "uzbek": "aholini roʻyxatga olish",
+      "pos": "noun",
+      "example_en": "A national census provides accurate data for planning schools.",
+      "example_uz": "Milliy aholini roʻyxatga olish maktablarni rejalashtirish uchun aniq maʼlumot beradi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "inhabitant",
+      "pronunciation_uz": "inhabitant",
+      "uzbek": "istiqomat qiluvchi",
+      "pos": "noun",
+      "example_en": "The ancient city had more than one hundred thousand inhabitants.",
+      "example_uz": "Qadimgi shaharda yuz mingdan ortiq aholi istiqomat qilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "resident",
+      "pronunciation_uz": "rezident",
+      "uzbek": "mahalliy yashovchi",
+      "pos": "noun",
+      "example_en": "Local residents planted roses along the canal.",
+      "example_uz": "Mahalliy aholi kanal boʻylab atirgullar ekdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "birthrate",
+      "pronunciation_uz": "borsreyt",
+      "uzbek": "tugʻilish darajasi",
+      "pos": "noun",
+      "example_en": "Higher birthrates require building more kindergartens.",
+      "example_uz": "Tugʻilish darajasining yuqoriligi koʻproq bolalar bogʻchalari qurishni talab etadi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "mortality",
+      "pronunciation_uz": "mortaliti",
+      "uzbek": "oʻlim koʻrsatkichi",
+      "pos": "noun",
+      "example_en": "Modern medicine has dramatically reduced infant mortality.",
+      "example_uz": "Zamonaviy tibbiyot goʻdaklar oʻlimi koʻrsatkichini keskin kamaytirdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "migration",
+      "pronunciation_uz": "maygreyshn",
+      "uzbek": "migratsiya",
+      "pos": "noun",
+      "example_en": "Seasonal migration of birds follows ancient flyways.",
+      "example_uz": "Qushlarning mavsumiy migratsiyasi qadimgi uchish yoʻllari boʻylab kechadi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "immigration",
+      "pronunciation_uz": "imigreyshn",
+      "uzbek": "immigratsiya",
+      "pos": "noun",
+      "example_en": "Immigration officers checked passports at the arrival hall.",
+      "example_uz": "Immigratsiya xodimlari uchib kelish zalida pasportlarni tekshirdilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "emigration",
+      "pronunciation_uz": "emigreyshn",
+      "uzbek": "emigratsiya",
+      "pos": "noun",
+      "example_en": "Historical archives record waves of emigration in the nineteenth century.",
+      "example_uz": "Tarixiy arxivlarda oʻn toʻqqizinchi asrdagi emigratsiya toʻlqinlari qayd etilgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "diaspora",
+      "pronunciation_uz": "dayaspora",
+      "uzbek": "diaspora",
+      "pos": "noun",
+      "example_en": "Cultural centers help the diaspora stay connected with their homeland.",
+      "example_uz": "Madaniyat markazlari diasporaga oʻz vatani bilan aloqada boʻlishga yordam beradi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "urbanization",
+      "pronunciation_uz": "orbanizeyshn",
+      "uzbek": "urbanizatsiya",
+      "pos": "noun",
+      "example_en": "Rapid urbanization has increased demand for public transport.",
+      "example_uz": "Tezkor urbanizatsiya jamoat transportiga boʻlgan talabni oshirdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "rural",
+      "pronunciation_uz": "rural",
+      "uzbek": "qishloqqa oid",
+      "pos": "adj",
+      "example_en": "High-speed internet is now reaching remote rural areas.",
+      "example_uz": "Yuqori tezlikdagi internet endi olis qishloq hududlariga ham yetib bormoqda.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "homeland",
+      "pronunciation_uz": "houmland",
+      "uzbek": "vatan",
+      "pos": "noun",
+      "example_en": "Babur wrote with deep longing about his beloved homeland.",
+      "example_uz": "Bobur oʻzining sevimli vatani haqida chuqur sogʻinch bilan yozgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "folktale",
+      "pronunciation_uz": "foukteyl",
+      "uzbek": "xalq ertagi",
+      "pos": "noun",
+      "example_en": "Grandmothers tell children wise folktales before bedtime.",
+      "example_uz": "Buvilar uxlashdan oldin bolalarga ibratli xalq ertaklarini aytib beradilar.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "ethnography",
+      "pronunciation_uz": "esnografi",
+      "uzbek": "etnografiya",
+      "pos": "noun",
+      "example_en": "The museum has a rich ethnography section with national costumes.",
+      "example_uz": "Muzeyda milliy liboslar qoʻyilgan boy etnografiya boʻlimi mavjud.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "globalization",
+      "pronunciation_uz": "gloubalizeyshn",
+      "uzbek": "globallashuv",
+      "pos": "noun",
+      "example_en": "Globalization connects markets and cultures across continents.",
+      "example_uz": "Globallashuv qitʼalararo bozorlar va madaniyatlarni bir-biriga bogʻlaydi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "modernization",
+      "pronunciation_uz": "modernizeyshn",
+      "uzbek": "modernizatsiya",
+      "pos": "noun",
+      "example_en": "Industrial modernization created thousands of engineering jobs.",
+      "example_uz": "Sanoatni modernizatsiya qilish minglab muhandislik ish oʻrinlarini yaratdi.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "reformist",
+      "pronunciation_uz": "riformist",
+      "uzbek": "islohotchi",
+      "pos": "noun",
+      "example_en": "Mahmudkhoja Behbudi was a prominent educator and reformist.",
+      "example_uz": "Mahmudxoʻja Behbudiy atoqli maʼrifatparvar va islohotchi boʻlgan.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "patrimony",
+      "pronunciation_uz": "patrimoni",
+      "uzbek": "milliy boylik",
+      "pos": "noun",
+      "example_en": "Ancient architectural ensembles are part of our national patrimony.",
+      "example_uz": "Qadimiy meʼmoriy ansambllar bizning milliy boyligimizning bir qismidir.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    },
+    {
+      "english": "posterity",
+      "pronunciation_uz": "posteriti",
+      "uzbek": "kelajak avlod",
+      "pos": "noun",
+      "example_en": "We must preserve nature and historical monuments for posterity.",
+      "example_uz": "Biz tabiat va tarixiy yodgorliklarni kelajak avlod uchun asrab-avaylashimiz shart.",
+      "category": "Tarix, sivilizatsiya va madaniyat"
+    }
+  ]
+}

@@ -1,0 +1,1033 @@
+{
+  "title": "Huquq, qonun va adolat",
+  "category": "Law, Courts & Justice",
+  "group": "topic",
+  "words": [
+    {
+      "english": "law",
+      "pronunciation_uz": "lo",
+      "uzbek": "qonun",
+      "pos": "noun",
+      "example_en": "Everyone is equal before the law.",
+      "example_uz": "Qonun oldida barcha barobardir.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "lawful",
+      "pronunciation_uz": "loful",
+      "uzbek": "qonuniy",
+      "pos": "adj",
+      "example_en": "The police returned the property to its lawful owner.",
+      "example_uz": "Politsiya mulkni uning qonuniy egasiga qaytardi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "unlawful",
+      "pronunciation_uz": "anloful",
+      "uzbek": "gʻayriqonuniy",
+      "pos": "adj",
+      "example_en": "The court ruled that the dismissal was unlawful.",
+      "example_uz": "Sud ishdan boʻshatishni gʻayriqonuniy deb topdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "legislation",
+      "pronunciation_uz": "lejiszleyshn",
+      "uzbek": "qonunchilik",
+      "pos": "noun",
+      "example_en": "New labor legislation protects remote workers.",
+      "example_uz": "Yangi mehnat qonunchiligi masofadan ishlovchilarni himoya qiladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "legislative",
+      "pronunciation_uz": "lejiszleytiv",
+      "uzbek": "qonun chiqaruvchi",
+      "pos": "adj",
+      "example_en": "Legislative reforms modernized the commercial code.",
+      "example_uz": "Qonunchilik islohotlari savdo kodeksini zamonaviylashtirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "statute",
+      "pronunciation_uz": "stachyut",
+      "uzbek": "qonun hujjati",
+      "pos": "noun",
+      "example_en": "The penalty is clearly defined in the federal statute.",
+      "example_uz": "Jazo chorasi federal qonun hujjatida aniq belgilab qoʻyilgan.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "amendment",
+      "pronunciation_uz": "amendment",
+      "uzbek": "qonunga tuzatish",
+      "pos": "noun",
+      "example_en": "The committee proposed an amendment to the tax law.",
+      "example_uz": "Qoʻmita soliq qonuniga tuzatish kiritishni taklif qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "provision",
+      "pronunciation_uz": "provijn",
+      "uzbek": "qonun qoidasi",
+      "pos": "noun",
+      "example_en": "Under the new provision, small firms pay lower taxes.",
+      "example_uz": "Yangi qoidaga koʻra, kichik firmalar kamroq soliq toʻlaydi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "justice",
+      "pronunciation_uz": "jastis",
+      "uzbek": "adolat",
+      "pos": "noun",
+      "example_en": "The legal system exists to uphold truth and justice.",
+      "example_uz": "Huquqiy tizim haqiqat va adolatni qaror toptirish uchun mavjud.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "injustice",
+      "pronunciation_uz": "injastis",
+      "uzbek": "adolatsizlik",
+      "pos": "noun",
+      "example_en": "The lawyer fought tirelessly against social injustice.",
+      "example_uz": "Advokat ijtimoiy adolatsizlikka qarshi tinimsiz kurashdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "unjust",
+      "pronunciation_uz": "anjast",
+      "uzbek": "nohaq",
+      "pos": "adj",
+      "example_en": "He appealed against the unjust accusation.",
+      "example_uz": "U nohaq ayblov ustidan shikoyat arizasi berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "right",
+      "pronunciation_uz": "rayt",
+      "uzbek": "huquq",
+      "pos": "noun",
+      "example_en": "Every citizen has the right to a fair trial.",
+      "example_uz": "Har bir fuqaro adolatli sudlov huquqiga ega.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "liable",
+      "pronunciation_uz": "layabl",
+      "uzbek": "javobgar",
+      "pos": "adj",
+      "example_en": "Parents can be held liable for damage caused by minors.",
+      "example_uz": "Voyaga yetmaganlar yetkazgan zarar uchun ota-onalar javobgar boʻlishi mumkin.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "courtroom",
+      "pronunciation_uz": "kortrum",
+      "uzbek": "sud zali",
+      "pos": "noun",
+      "example_en": "Everyone stood up when the judge entered the courtroom.",
+      "example_uz": "Sudya sud zaliga kirganida hamma oʻrnidan turdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "tribunal",
+      "pronunciation_uz": "traybyunal",
+      "uzbek": "tribunal",
+      "pos": "noun",
+      "example_en": "An international tribunal investigated the war crimes.",
+      "example_uz": "Xalqaro tribunal harbiy jinoyatlarni tergov qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "judiciary",
+      "pronunciation_uz": "judishiari",
+      "uzbek": "sud hokimiyati",
+      "pos": "noun",
+      "example_en": "An independent judiciary is essential for the rule of law.",
+      "example_uz": "Mustaqil sud hokimiyati qonun ustuvorligi uchun juda muhimdir.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "judicial",
+      "pronunciation_uz": "judishal",
+      "uzbek": "sudga oid",
+      "pos": "adj",
+      "example_en": "The judicial review confirmed that the decision was valid.",
+      "example_uz": "Sud tekshiruvi qarorning qonuniy ekanligini tasdiqladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "magistrate",
+      "pronunciation_uz": "majistreyt",
+      "uzbek": "mirovoy sudya",
+      "pos": "noun",
+      "example_en": "The local magistrate handled minor traffic offenses.",
+      "example_uz": "Mahalliy sudya kichik yoʻl harakati qoidabuzarliklarini koʻrib chiqdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "jury",
+      "pronunciation_uz": "juri",
+      "uzbek": "maslahatchilar hayʼati",
+      "pos": "noun",
+      "example_en": "The jury deliberated for six hours before returning.",
+      "example_uz": "Maslahatchilar hayʼati qaytishdan oldin olti soat mashvarat qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "juror",
+      "pronunciation_uz": "juror",
+      "uzbek": "maslahatchi",
+      "pos": "noun",
+      "example_en": "Each juror took an oath to remain impartial.",
+      "example_uz": "Har bir maslahatchi xolis boʻlishga qasamyod qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "solicitor",
+      "pronunciation_uz": "solisitor",
+      "uzbek": "maslahatchi advokat",
+      "pos": "noun",
+      "example_en": "The family solicitor prepared the property deed.",
+      "example_uz": "Oilaviy advokat mulk hujjatini tayyorladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "barrister",
+      "pronunciation_uz": "barister",
+      "uzbek": "sudda qatnashuvchi advokat",
+      "pos": "noun",
+      "example_en": "The experienced barrister presented a compelling argument.",
+      "example_uz": "Tajribali advokat sudda ishonchli dalil keltirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "prosecution",
+      "pronunciation_uz": "prosekyushn",
+      "uzbek": "qoralov tomoni",
+      "pos": "noun",
+      "example_en": "The prosecution called three experts to testify.",
+      "example_uz": "Qoralov tomoni koʻrsatma berish uchun uchta ekspertni chaqirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "prosecute",
+      "pronunciation_uz": "prosekyut",
+      "uzbek": "sudga bermoq",
+      "pos": "verb",
+      "example_en": "Trespassers will be prosecuted according to the law.",
+      "example_uz": "Hududga noqonuniy kirganlar qonunga muvofiq javobgarlikka tortiladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "defendant",
+      "pronunciation_uz": "difendant",
+      "uzbek": "javobgar",
+      "pos": "noun",
+      "example_en": "The defendant pleaded not guilty to all charges.",
+      "example_uz": "Sudlanuvchi barcha ayblovlar boʻyicha oʻzini aybsiz deb hisobladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "plaintiff",
+      "pronunciation_uz": "pleyntif",
+      "uzbek": "daʼvogar",
+      "pos": "noun",
+      "example_en": "The plaintiff demanded compensation for breach of contract.",
+      "example_uz": "Daʼvogar shartnoma buzilgani uchun tovon puli talab qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "claimant",
+      "pronunciation_uz": "kleymant",
+      "uzbek": "talabgor",
+      "pos": "noun",
+      "example_en": "The insurance claimant submitted photos of the damage.",
+      "example_uz": "Sugʻurta talabgori yetkazilgan zarar suratlarini taqdim etdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "suspect",
+      "pronunciation_uz": "saspekt",
+      "uzbek": "gumonlanuvchi",
+      "pos": "noun",
+      "example_en": "Police questioned the suspect in the presence of a lawyer.",
+      "example_uz": "Politsiya gumonlanuvchini advokat ishtirokida soʻroq qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "accused",
+      "pronunciation_uz": "ekyuzd",
+      "uzbek": "ayblanuvchi",
+      "pos": "noun",
+      "example_en": "The accused remained silent throughout the hearing.",
+      "example_uz": "Ayblanuvchi sud majlisi davomida sukut saqladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "accuse",
+      "pronunciation_uz": "ekyuz",
+      "uzbek": "ayblamoq",
+      "pos": "verb",
+      "example_en": "You cannot accuse someone without solid proof.",
+      "example_uz": "Aniq isbotsiz kimnidir ayblash mumkin emas.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "accusation",
+      "pronunciation_uz": "akyuzeyshn",
+      "uzbek": "ayblov",
+      "pos": "noun",
+      "example_en": "He firmly denied the false accusation.",
+      "example_uz": "U soxta ayblovni qatʼiyan rad etdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "indictment",
+      "pronunciation_uz": "indaytment",
+      "uzbek": "ayblov xulosasi",
+      "pos": "noun",
+      "example_en": "The grand jury issued a formal indictment.",
+      "example_uz": "Hayʼat rasmiy ayblov xulosasini chiqardi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "witness",
+      "pronunciation_uz": "vitnes",
+      "uzbek": "guvoh",
+      "pos": "noun",
+      "example_en": "An eyewitness described the car's license plate.",
+      "example_uz": "Voqea guvohi mashinaning davlat raqamini tasvirlab berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "testify",
+      "pronunciation_uz": "testifay",
+      "uzbek": "guvohlik bermoq",
+      "pos": "verb",
+      "example_en": "The neighbor agreed to testify in court.",
+      "example_uz": "Qoʻshni sudda guvohlik berishga rozi boʻldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "testimony",
+      "pronunciation_uz": "testimoni",
+      "uzbek": "koʻrsatma",
+      "pos": "noun",
+      "example_en": "Her clear testimony helped establish the truth.",
+      "example_uz": "Uning aniq koʻrsatmasi haqiqatni aniqlashga yordam berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "oath",
+      "pronunciation_uz": "ous",
+      "uzbek": "qasamyod",
+      "pos": "noun",
+      "example_en": "Witnesses must tell the truth under oath.",
+      "example_uz": "Guvohlar qasamyod ostida faqat rost gapirishlari shart.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "affidavit",
+      "pronunciation_uz": "afideyvit",
+      "uzbek": "yozma qasamyodli koʻrsatma",
+      "pos": "noun",
+      "example_en": "He signed a sworn affidavit before the notary.",
+      "example_uz": "U notarius oldida qasamyodli yozma koʻrsatmani imzoladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "victim",
+      "pronunciation_uz": "viktim",
+      "uzbek": "jabrlanuvchi",
+      "pos": "noun",
+      "example_en": "The victim of the scam reported the incident immediately.",
+      "example_uz": "Firibgarlikdan jabrlanuvchi voqea haqida darhol xabar berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "lawsuit",
+      "pronunciation_uz": "losut",
+      "uzbek": "daʼvo ishi",
+      "pos": "noun",
+      "example_en": "The company filed a lawsuit over patent infringement.",
+      "example_uz": "Kompaniya patent huquqi buzilganligi boʻyicha sudga daʼvo arizasi kiritdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "litigation",
+      "pronunciation_uz": "litigeyshn",
+      "uzbek": "sudlashuv",
+      "pos": "noun",
+      "example_en": "Both firms preferred mediation to costly litigation.",
+      "example_uz": "Har ikki firma qimmatga tushadigan sudlashuvdan koʻra vositachilikni afzal koʻrdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "sue",
+      "pronunciation_uz": "su",
+      "uzbek": "sudga daʼvo qilmoq",
+      "pos": "verb",
+      "example_en": "They threatened to sue the builder for delays.",
+      "example_uz": "Ular quruvchini kechikishlar uchun sudga berish bilan tahdid qilishdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "plea",
+      "pronunciation_uz": "pli",
+      "uzbek": "sudga iltimosnoma",
+      "pos": "noun",
+      "example_en": "The court accepted his plea for a reduced fine.",
+      "example_uz": "Sud uning jarimani kamaytirish haqidagi iltimosnomasini qabul qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "plead",
+      "pronunciation_uz": "plid",
+      "uzbek": "oʻz aybini tan olmoq yoki rad etmoq",
+      "pos": "verb",
+      "example_en": "His lawyer advised him to plead innocent.",
+      "example_uz": "Advokati unga oʻzini aybsiz deb eʼlon qilishni maslahat berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "clue",
+      "pronunciation_uz": "klu",
+      "uzbek": "kalava uchi",
+      "pos": "noun",
+      "example_en": "Detectives found an important clue near the window.",
+      "example_uz": "Izquvarlar deraza yonidan muhim ip uchini topdilar.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "alibi",
+      "pronunciation_uz": "alibay",
+      "uzbek": "alibi",
+      "pos": "noun",
+      "example_en": "Flight records provided a solid alibi for the suspect.",
+      "example_uz": "Parvoz qaydnomalari gumonlanuvchi uchun mustahkam alibi boʻldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "forensic",
+      "pronunciation_uz": "forensik",
+      "uzbek": "sud-tibbiy",
+      "pos": "adj",
+      "example_en": "Forensic analysis matched the fibers to the coat.",
+      "example_uz": "Sud-tibbiy tahlil tolalarning paltoga mos kelishini aniqladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "verdict",
+      "pronunciation_uz": "verdikt",
+      "uzbek": "hukm qarori",
+      "pos": "noun",
+      "example_en": "The jury returned a unanimous verdict of not guilty.",
+      "example_uz": "Hayʼat bir ovozdan aybsizlik haqidagi hukm qarorini chiqardi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "sentence",
+      "pronunciation_uz": "sentens",
+      "uzbek": "jazo hukmi",
+      "pos": "noun",
+      "example_en": "The judge pronounced a five-year prison sentence.",
+      "example_uz": "Sudya besh yillik qamoq jazosi hukmini oʻqib eshittirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "convict",
+      "pronunciation_uz": "konvikt",
+      "uzbek": "aybdor deb topmoq",
+      "pos": "verb",
+      "example_en": "There was not enough evidence to convict the man.",
+      "example_uz": "U kishini aybdor deb topish uchun dalillar yetarli emas edi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "conviction",
+      "pronunciation_uz": "konvikshn",
+      "uzbek": "sudlanganlik",
+      "pos": "noun",
+      "example_en": "The applicant had no prior criminal conviction.",
+      "example_uz": "Talabgorning ilgari jinoiy sudlanganligi boʻlmagan.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "acquit",
+      "pronunciation_uz": "ekvit",
+      "uzbek": "oqlamoq",
+      "pos": "verb",
+      "example_en": "The court decided to acquit the defendant of all charges.",
+      "example_uz": "Sud sudlanuvchini barcha ayblovlar boʻyicha oqlashga qaror qildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "acquittal",
+      "pronunciation_uz": "ekvital",
+      "uzbek": "oqlov hukmi",
+      "pos": "noun",
+      "example_en": "New DNA evidence led to his full acquittal.",
+      "example_uz": "Yangi DNK dalili uning toʻliq oqlanishiga olib keldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "innocence",
+      "pronunciation_uz": "inosens",
+      "uzbek": "begunohlik",
+      "pos": "noun",
+      "example_en": "He maintained his innocence throughout the investigation.",
+      "example_uz": "U tergov davomida oʻzining begunohligini taʼkidlab keldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "appeal",
+      "pronunciation_uz": "epil",
+      "uzbek": "apellyatsiya",
+      "pos": "noun",
+      "example_en": "The lawyer filed an appeal with the Supreme Court.",
+      "example_uz": "Advokat Oliy sudga apellyatsiya shikoyati kiritdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "overturn",
+      "pronunciation_uz": "ouvertorn",
+      "uzbek": "bekor qilmoq",
+      "pos": "verb",
+      "example_en": "The higher court voted to overturn the previous ruling.",
+      "example_uz": "Yuqori sud avvalgi qarorni bekor qilish uchun ovoz berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "ruling",
+      "pronunciation_uz": "ruling",
+      "uzbek": "sud qarori",
+      "pos": "noun",
+      "example_en": "The landmark ruling set a precedent for future cases.",
+      "example_uz": "Tarixiy sud qarori kelajakdagi ishlar uchun namuna boʻldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "precedent",
+      "pronunciation_uz": "president",
+      "uzbek": "pretsedent",
+      "pos": "noun",
+      "example_en": "Judges often refer to legal precedent when deciding cases.",
+      "example_uz": "Sudyalar ishlarni hal qilishda koʻpincha huquqiy pretsedentga tayanadilar.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "settlement",
+      "pronunciation_uz": "setlment",
+      "uzbek": "kelishuv bitimi",
+      "pos": "noun",
+      "example_en": "The two sides reached an out-of-court settlement.",
+      "example_uz": "Ikki tomon sudgacha kelishuv bitimiga erishdilar.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "damages",
+      "pronunciation_uz": "damijiz",
+      "uzbek": "zarar uchun tovon",
+      "pos": "noun",
+      "example_en": "The court awarded the author fifty thousand dollars in damages.",
+      "example_uz": "Sud muallif foydasiga ellik ming dollar miqdorida zarar tovoni belgiladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "punishment",
+      "pronunciation_uz": "panishment",
+      "uzbek": "jazo",
+      "pos": "noun",
+      "example_en": "The punishment must always fit the severity of the offense.",
+      "example_uz": "Jazo har doim huquqbuzarlikning ogʻirlik darajasiga mos boʻlishi kerak.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "custody",
+      "pronunciation_uz": "kastodi",
+      "uzbek": "hibs",
+      "pos": "noun",
+      "example_en": "The police took the suspect into custody.",
+      "example_uz": "Politsiya gumonlanuvchini hibsga oldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "detention",
+      "pronunciation_uz": "ditenshn",
+      "uzbek": "ushlab turish",
+      "pos": "noun",
+      "example_en": "He was held in pre-trial detention for forty-eight hours.",
+      "example_uz": "U sudgacha qirq sakkiz soat davomida vaqtincha ushlab turildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "detain",
+      "pronunciation_uz": "diteyn",
+      "uzbek": "ushlab turmoq",
+      "pos": "verb",
+      "example_en": "Customs officers may detain goods for inspection.",
+      "example_uz": "Bojxona xodimlari yuklarni tekshirish uchun ushlab turishlari mumkin.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "subpoena",
+      "pronunciation_uz": "sabpina",
+      "uzbek": "sudga chaqiruv qogʻozi",
+      "pos": "noun",
+      "example_en": "The accountant received a subpoena to produce financial records.",
+      "example_uz": "Hisobchi moliyaviy hujjatlarni taqdim etish uchun sud chaqiruv qogʻozi oldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "bail",
+      "pronunciation_uz": "beyl",
+      "uzbek": "garov puli",
+      "pos": "noun",
+      "example_en": "The suspect was released on bail awaiting trial.",
+      "example_uz": "Gumonlanuvchi sudgacha garov puli evaziga ozod qilindi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "parole",
+      "pronunciation_uz": "paroul",
+      "uzbek": "muddatidan oldin ozod qilish",
+      "pos": "noun",
+      "example_en": "He was granted parole after serving five years with good behavior.",
+      "example_uz": "U besh yil namunali xulq bilan jazo oʻtagach, muddatidan oldin shartli ozod qilindi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "amnesty",
+      "pronunciation_uz": "amnesti",
+      "uzbek": "amnistiya",
+      "pos": "noun",
+      "example_en": "Several prisoners were released under the presidential amnesty.",
+      "example_uz": "Prezident amnistiyasi boʻyicha bir nechta mahbuslar ozodlikka chiqarildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "pardon",
+      "pronunciation_uz": "pardon",
+      "uzbek": "afv",
+      "pos": "noun",
+      "example_en": "The convict submitted a formal petition for a pardon.",
+      "example_uz": "Mahkum afv etishlarini soʻrab rasmiy iltimosnoma kiritdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "prison",
+      "pronunciation_uz": "prizn",
+      "uzbek": "qamoqxona",
+      "pos": "noun",
+      "example_en": "He spent ten years in a maximum-security prison.",
+      "example_uz": "U oʻn yilni qattiq tartibli qamoqxonada oʻtkazdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "prisoner",
+      "pronunciation_uz": "prizner",
+      "uzbek": "mahbus",
+      "pos": "noun",
+      "example_en": "Every prisoner has access to medical care and books.",
+      "example_uz": "Har bir mahbus tibbiy yordam va kitoblardan foydalanish imkoniyatiga ega.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "inmate",
+      "pronunciation_uz": "inmeyt",
+      "uzbek": "mahkum",
+      "pos": "noun",
+      "example_en": "Vocational workshops teach inmates carpentry skills.",
+      "example_uz": "Kasb-hunar ustaxonalari mahkumlarga duradgorlik hunarini oʻrgatadi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "jail",
+      "pronunciation_uz": "jeyl",
+      "uzbek": "turma",
+      "pos": "noun",
+      "example_en": "The thief was sent to the county jail.",
+      "example_uz": "Oʻgʻri okrug turmasiga yuborildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "warden",
+      "pronunciation_uz": "vorden",
+      "uzbek": "qamoqxona boshligʻi",
+      "pos": "noun",
+      "example_en": "The prison warden inspected the educational facilities.",
+      "example_uz": "Qamoqxona boshligʻi oʻquv xonalarini koʻzdan kechirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "crime",
+      "pronunciation_uz": "kraym",
+      "uzbek": "jinoyat",
+      "pos": "noun",
+      "example_en": "Street lighting helped reduce crime in the neighborhood.",
+      "example_uz": "Koʻcha chiroqlari mahallada jinoyatchilikni kamaytirishga yordam berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "offender",
+      "pronunciation_uz": "ofender",
+      "uzbek": "huquqbuzar",
+      "pos": "noun",
+      "example_en": "First-time offenders often receive community service.",
+      "example_uz": "Birinchi marta qoidabuzarlik qilganlar koʻpincha jamoat ishlariga jalb qilinadi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "felony",
+      "pronunciation_uz": "feloni",
+      "uzbek": "ogʻir jinoyat",
+      "pos": "noun",
+      "example_en": "Armed robbery is classified as a serious felony.",
+      "example_uz": "Qurolli talonchilik ogʻir jinoyat sifatida tasniflanadi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "misdemeanor",
+      "pronunciation_uz": "misdiminor",
+      "uzbek": "kichik huquqbuzarlik",
+      "pos": "noun",
+      "example_en": "Littering in the park is treated as a minor misdemeanor.",
+      "example_uz": "Bogʻda chiqindi tashlash kichik huquqbuzarlik sifatida baholanadi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "violation",
+      "pronunciation_uz": "vayoleyshn",
+      "uzbek": "qoidabuzarlik",
+      "pos": "noun",
+      "example_en": "The factory was fined for a safety violation.",
+      "example_uz": "Zavod xavfsizlik qoidabuzarligi uchun jarimaga tortildi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "violate",
+      "pronunciation_uz": "vayoleyt",
+      "uzbek": "qoidani buzmoq",
+      "pos": "verb",
+      "example_en": "Companies that violate environmental laws face strict penalties.",
+      "example_uz": "Ekologik qonunlarni buzgan kompaniyalar qatʼiy jazolarga tortiladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "infringement",
+      "pronunciation_uz": "infrinjment",
+      "uzbek": "huquqni poymol qilish",
+      "pos": "noun",
+      "example_en": "Copying the software is a copyright infringement.",
+      "example_uz": "Dasturdan nusxa koʻchirish mualliflik huquqini buzish hisoblanadi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "theft",
+      "pronunciation_uz": "seft",
+      "uzbek": "oʻgʻrilik",
+      "pos": "noun",
+      "example_en": "He installed an alarm system to prevent car theft.",
+      "example_uz": "U mashina oʻgʻirlanishining oldini olish uchun signalizatsiya oʻrnatdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "thief",
+      "pronunciation_uz": "sif",
+      "uzbek": "oʻgʻri",
+      "pos": "noun",
+      "example_en": "The thief was caught on camera leaving the store.",
+      "example_uz": "Oʻgʻri doʻkondan chiqib ketayotganida kameraga tushib qoldi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "robbery",
+      "pronunciation_uz": "roberi",
+      "uzbek": "talonchilik",
+      "pos": "noun",
+      "example_en": "Detectives solved the bank robbery within two days.",
+      "example_uz": "Izquvarlar bank talonchiligini ikki kun ichida fosh etishdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "robber",
+      "pronunciation_uz": "rober",
+      "uzbek": "talonchi",
+      "pos": "noun",
+      "example_en": "The masked robber dropped his bag while fleeing.",
+      "example_uz": "Niqobli talonchi qochib ketayotib sumkasini tushirib qoldirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "burglary",
+      "pronunciation_uz": "borglari",
+      "uzbek": "uy oʻgʻriligi",
+      "pos": "noun",
+      "example_en": "Neighbors locked their gates carefully after the burglary.",
+      "example_uz": "Uy oʻgʻriligidan soʻng qoʻshnilar darvozalarini ehtiyotlab qulflaydigan boʻlishdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "burglar",
+      "pronunciation_uz": "borglar",
+      "uzbek": "uy oʻgʻrisi",
+      "pos": "noun",
+      "example_en": "The barking dog scared the burglar away.",
+      "example_uz": "Vovullagan it uy oʻgʻrisini qoʻrqitib qochirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "shoplifting",
+      "pronunciation_uz": "shoplifting",
+      "uzbek": "doʻkondan oʻgʻirlash",
+      "pos": "noun",
+      "example_en": "Electronic tags help stores prevent shoplifting.",
+      "example_uz": "Elektron belgilar doʻkonlarga oʻgʻrilikning oldini olishda yordam beradi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "pickpocket",
+      "pronunciation_uz": "pikpokit",
+      "uzbek": "choʻntakkesar",
+      "pos": "noun",
+      "example_en": "Watch your wallet in crowded places to avoid a pickpocket.",
+      "example_uz": "Gavjum joylarda choʻntakkesardan ehtiyot boʻlish uchun hamyoningizga hushyor boʻling.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "fraud",
+      "pronunciation_uz": "frod",
+      "uzbek": "firibgarlik",
+      "pos": "noun",
+      "example_en": "Never share your bank code to protect yourself from fraud.",
+      "example_uz": "Oʻzingizni firibgarlikdan himoya qilish uchun bank kodingizni hech kimga bermang.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "fraudulent",
+      "pronunciation_uz": "frojulent",
+      "uzbek": "qalbaki",
+      "pos": "adj",
+      "example_en": "The bank blocked the fraudulent transaction immediately.",
+      "example_uz": "Bank shubhali va qalbaki operatsiyani darhol blokladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "scam",
+      "pronunciation_uz": "skam",
+      "uzbek": "tovlamachilik",
+      "pos": "noun",
+      "example_en": "Many people lost money in the online investment scam.",
+      "example_uz": "Koʻpchilik onlayn investitsiya tovlamachiligida pulini yoʻqotdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "forgery",
+      "pronunciation_uz": "forjeri",
+      "uzbek": "soxtalashtirish",
+      "pos": "noun",
+      "example_en": "Art experts proved that the painting was a forgery.",
+      "example_uz": "Sanʼat ekspertlari rasmning soxta nusxa ekanligini isbotladilar.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "embezzlement",
+      "pronunciation_uz": "imbezlment",
+      "uzbek": "oʻzlashtirib olish",
+      "pos": "noun",
+      "example_en": "The former treasurer was charged with embezzlement of funds.",
+      "example_uz": "Sobiq gʻaznachi mablagʻlarni oʻzlashtirib olganlikda ayblandi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "bribery",
+      "pronunciation_uz": "brayberi",
+      "uzbek": "poraxoʻrlik",
+      "pos": "noun",
+      "example_en": "Strict laws punish both giving and accepting bribery.",
+      "example_uz": "Qatʼiy qonunlar pora berishni ham, olishni ham jazolaydi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "bribe",
+      "pronunciation_uz": "brayb",
+      "uzbek": "pora",
+      "pos": "noun",
+      "example_en": "The honest inspector refused to take a bribe.",
+      "example_uz": "Halol inspektor pora olishdan bosh tortdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "extortion",
+      "pronunciation_uz": "ikstorshn",
+      "uzbek": "taʼmagirlik",
+      "pos": "noun",
+      "example_en": "The gang members were arrested for extortion.",
+      "example_uz": "Toʻda aʼzolari taʼmagirlik uchun hibsga olindi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "blackmail",
+      "pronunciation_uz": "blakmeyl",
+      "uzbek": "shantaj",
+      "pos": "noun",
+      "example_en": "Instead of paying the blackmail, he went straight to the police.",
+      "example_uz": "Shantaj pulini toʻlash oʻrniga u toʻgʻri politsiyaga bordi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "smuggling",
+      "pronunciation_uz": "smagling",
+      "uzbek": "kontrabanda",
+      "pos": "noun",
+      "example_en": "Border guards stopped the smuggling of rare antiquities.",
+      "example_uz": "Chegarachilar noyob qadimiy buyumlar kontrabandasiga chek qoʻyishdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "smuggler",
+      "pronunciation_uz": "smagler",
+      "uzbek": "kontrabandachi",
+      "pos": "noun",
+      "example_en": "The smuggler hid the gold coins inside the spare tire.",
+      "example_uz": "Kontrabandachi oltin tangalarni zaxira gʻildirak ichiga yashirgan edi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "piracy",
+      "pronunciation_uz": "payrasi",
+      "uzbek": "qaroqchilik",
+      "pos": "noun",
+      "example_en": "Software piracy harms developers and technology companies.",
+      "example_uz": "Dasturiy taʼminot qaroqchiligi dasturchilar va texnologiya kompaniyalariga zarar yetkazadi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "vandalism",
+      "pronunciation_uz": "vandalizm",
+      "uzbek": "vandalizm",
+      "pos": "noun",
+      "example_en": "Painting graffiti on historical monuments is an act of vandalism.",
+      "example_uz": "Tarixiy yodgorliklarga yozuv chizish vandalizm harakatidir.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "arson",
+      "pronunciation_uz": "arson",
+      "uzbek": "qasddan oʻt qoʻyish",
+      "pos": "noun",
+      "example_en": "Firefighters suspected that the warehouse fire was caused by arson.",
+      "example_uz": "Oʻt oʻchiruvchilar ombordagi yongʻin qasddan oʻt qoʻyish oqibatida kelib chiqqanidan gumon qilishdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "trespass",
+      "pronunciation_uz": "trespas",
+      "uzbek": "ruxsatsiz kirmoq",
+      "pos": "verb",
+      "example_en": "Signs warned hikers not to trespass on private land.",
+      "example_uz": "Belgilar sayohatchilarni xususiy yerga ruxsatsiz kirmaslik haqida ogohlantirardi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "assault",
+      "pronunciation_uz": "esolt",
+      "uzbek": "tajovuz",
+      "pos": "noun",
+      "example_en": "He was arrested for physical assault after the fight.",
+      "example_uz": "U mushtlashuvdan soʻng jismoniy tajovuz uchun hibsga olindi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "kidnapping",
+      "pronunciation_uz": "kidnaping",
+      "uzbek": "odam oʻgʻirlash",
+      "pos": "noun",
+      "example_en": "The police unit rescued the child from kidnapping.",
+      "example_uz": "Politsiya boʻlinmasi bolani oʻgʻirlab ketilgan joyidan qutqardi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "hijack",
+      "pronunciation_uz": "hayjak",
+      "uzbek": "olib qochmoq",
+      "pos": "verb",
+      "example_en": "Security screening prevents attempts to hijack aircraft.",
+      "example_uz": "Xavfsizlik tekshiruvi samolyotlarni olib qochish urinishlarining oldini oladi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "homicide",
+      "pronunciation_uz": "homisayd",
+      "uzbek": "qotillik",
+      "pos": "noun",
+      "example_en": "The homicide detective examined the crime scene carefully.",
+      "example_uz": "Qotillik boʻyicha izquvar jinoyat joyini sinchiklab koʻzdan kechirdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "manslaughter",
+      "pronunciation_uz": "mansloter",
+      "uzbek": "ehtiyotsizlik orqasida odam oʻldirish",
+      "pos": "noun",
+      "example_en": "Reckless driving resulting in death can lead to a manslaughter charge.",
+      "example_uz": "Oʻlimga sabab boʻlgan ehtiyotsiz haydash ehtiyotsizlik orqasida odam oʻldirish aybloviga olib kelishi mumkin.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "perjury",
+      "pronunciation_uz": "perjuri",
+      "uzbek": "yolgʻon guvohlik berish",
+      "pos": "noun",
+      "example_en": "Lying under oath in a courtroom is the crime of perjury.",
+      "example_uz": "Sud zalida qasamyod ostida yolgʻon gapirish yolgʻon guvohlik berish jinoyatidir.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "slander",
+      "pronunciation_uz": "slander",
+      "uzbek": "ogʻzaki tuhmat",
+      "pos": "noun",
+      "example_en": "Spreading false spoken rumors about someone is slander.",
+      "example_uz": "Kimdir haqida ogʻzaki yolgʻon mish-mishlar tarqatish tuhmatdir.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "libel",
+      "pronunciation_uz": "laybl",
+      "uzbek": "matbuotdagi tuhmat",
+      "pos": "noun",
+      "example_en": "The actor sued the tabloid newspaper for libel.",
+      "example_uz": "Aktyor sariq matbuot gazetasini yozma tuhmat uchun sudga berdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "treason",
+      "pronunciation_uz": "trizn",
+      "uzbek": "davlatga xiyonat",
+      "pos": "noun",
+      "example_en": "Selling state secrets to an enemy is high treason.",
+      "example_uz": "Davlat sirlarini dushmanga sotish davlatga xiyonat hisoblanadi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "investigator",
+      "pronunciation_uz": "investigeytor",
+      "uzbek": "tergovchi",
+      "pos": "noun",
+      "example_en": "The chief investigator reviewed the security footage.",
+      "example_uz": "Bosh tergovchi kuzatuv kamerasi yozuvlarini koʻrib chiqdi.",
+      "category": "Huquq, qonun va adolat"
+    },
+    {
+      "english": "interrogation",
+      "pronunciation_uz": "interogeyshn",
+      "uzbek": "soʻroq",
+      "pos": "noun",
+      "example_en": "The interrogation was recorded on video as required by law.",
+      "example_uz": "Soʻroq jarayoni qonun talabiga binoan videoga yozib olindi.",
+      "category": "Huquq, qonun va adolat"
+    }
+  ]
+}

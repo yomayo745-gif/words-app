@@ -1,0 +1,862 @@
+{
+  "title": "Biznes, tadbirkorlik va savdo",
+  "category": "Business, Management & Trade",
+  "group": "topic",
+  "words": [
+    {
+      "english": "commerce",
+      "pronunciation_uz": "komers",
+      "uzbek": "tijorat, savdo-sotiq",
+      "pos": "noun",
+      "example_en": "Electronic commerce has grown rapidly across Central Asia.",
+      "example_uz": "Elektron tijorat Markaziy Osiyo boʻylab jadal rivojlandi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "trade",
+      "pronunciation_uz": "treyd",
+      "uzbek": "savdo, tashqi va ichki savdo",
+      "pos": "noun",
+      "example_en": "International trade connects producers with global markets.",
+      "example_uz": "Xalqaro savdo ishlab chiqaruvchilarni jahon bozorlari bilan bogʻlaydi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "entrepreneurship",
+      "pronunciation_uz": "ontreprenership",
+      "uzbek": "tadbirkorlik",
+      "pos": "noun",
+      "example_en": "Youth entrepreneurship is supported by special business incubators.",
+      "example_uz": "Yoshlar tadbirkorligi maxsus biznes-inkubatorlar tomonidan qoʻllab-quvvatlanadi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "entrepreneur",
+      "pronunciation_uz": "ontreprener",
+      "uzbek": "tadbirkor, ishbilarmon",
+      "pos": "noun",
+      "example_en": "The young entrepreneur opened a dried fruit processing plant.",
+      "example_uz": "Yosh tadbirkor quruq mevalarni qayta ishlash korxonasini ochdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "businessman",
+      "pronunciation_uz": "biznesmen",
+      "uzbek": "tadbirkor, biznesmen",
+      "pos": "noun",
+      "example_en": "The experienced businessman signed a supply deal with partners.",
+      "example_uz": "Tajribali ishbilarmon hamkorlar bilan yetkazib berish shartnomasini imzoladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "dealer",
+      "pronunciation_uz": "diler",
+      "uzbek": "diler, rasmiy savdo vakili",
+      "pos": "noun",
+      "example_en": "We bought the tractor from an authorized agricultural dealer.",
+      "example_uz": "Biz traktorni rasmiy qishloq xoʻjaligi texnikasi dileridan sotib oldik.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "supplier",
+      "pronunciation_uz": "saplayer",
+      "uzbek": "taʼminotchi, yetkazib beruvchi",
+      "pos": "noun",
+      "example_en": "Our bakery chose a reliable local flour supplier.",
+      "example_uz": "Nonvoyxonamiz ishonchli mahalliy un yetkazib beruvchini tanladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "manufacturer",
+      "pronunciation_uz": "menyufekcherer",
+      "uzbek": "ishlab chiqaruvchi",
+      "pos": "noun",
+      "example_en": "The textile manufacturer exports cotton yarn to twenty countries.",
+      "example_uz": "Toʻqimachilik ishlab chiqaruvchisi paxta kalavasini yigirmata davlatga eksport qiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "producer",
+      "pronunciation_uz": "prodyuser",
+      "uzbek": "mahsulot yetishtiruvchi, ishlab chiqaruvchi",
+      "pos": "noun",
+      "example_en": "Uzbekistan is a leading producer of sweet apricots and grapes.",
+      "example_uz": "Oʻzbekiston shirin oʻrik va uzum yetishtiruvchi yetakchi mamlakatdir.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "distributor",
+      "pronunciation_uz": "distribyutor",
+      "uzbek": "distribyutor, tarqatuvchi korxona",
+      "pos": "noun",
+      "example_en": "The regional distributor delivers beverages to five hundred stores.",
+      "example_uz": "Mintaqaviy distribyutor besh yuzta doʻkonga ichimliklar yetkazib beradi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "wholesaler",
+      "pronunciation_uz": "houlseyler",
+      "uzbek": "ulgurji sotuvchi",
+      "pos": "noun",
+      "example_en": "Retailers buy goods in bulk from a large wholesaler.",
+      "example_uz": "Chakana sotuvchilar tovarlarni yirik ulgurji sotuvchidan koʻtarasiga xarid qiladilar.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "retailer",
+      "pronunciation_uz": "riteyler",
+      "uzbek": "chakana sotuvchi (doʻkondor)",
+      "pos": "noun",
+      "example_en": "The clothing retailer opened three new branches in the valley.",
+      "example_uz": "Kiyim-kechak chakana savdo tarmogʻi vodiyda uchta yangi filial ochdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "buyer",
+      "pronunciation_uz": "bayer",
+      "uzbek": "xaridor, sotib oluvchi",
+      "pos": "noun",
+      "example_en": "The foreign buyer inspected the quality of the silk carpets.",
+      "example_uz": "Xorijlik xaridor ipak gilamlarning sifatini koʻzdan kechirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "patron",
+      "pronunciation_uz": "peytron",
+      "uzbek": "doimiy mijoz (yoki homiy)",
+      "pos": "noun",
+      "example_en": "This traditional teahouse is popular with loyal local patrons.",
+      "example_uz": "Bu milliy choyxona sodiq mahalliy mijozlar orasida mashhur.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "enterprise",
+      "pronunciation_uz": "enterprayz",
+      "uzbek": "korxona",
+      "pos": "noun",
+      "example_en": "The joint enterprise produces modern solar water heaters.",
+      "example_uz": "Qoʻshma korxona zamonaviy quyosh suv isitkichlarini ishlab chiqaradi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "corporation",
+      "pronunciation_uz": "korporeyshn",
+      "uzbek": "korporatsiya",
+      "pos": "noun",
+      "example_en": "The multinational corporation opened a regional headquarters in Tashkent.",
+      "example_uz": "Transmilliy korporatsiya Toshkentda mintaqaviy bosh ofisini ochdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "agency",
+      "pronunciation_uz": "eyjensi",
+      "uzbek": "agentlik",
+      "pos": "noun",
+      "example_en": "We hired an advertising agency to create our new video campaign.",
+      "example_uz": "Yangi video kampaniyamizni yaratish uchun reklama agentligini yolladik.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "bureau",
+      "pronunciation_uz": "byurou",
+      "uzbek": "byuro, idora",
+      "pos": "noun",
+      "example_en": "The translation bureau certifies official business documents.",
+      "example_uz": "Tarjima byurosi rasmiy biznes hujjatlarini tasdiqlaydi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "venture",
+      "pronunciation_uz": "vencher",
+      "uzbek": "tadbirkorlik loyihasi, tavakkalchi korxona",
+      "pos": "noun",
+      "example_en": "Their joint venture in logistics proved profitable in the first year.",
+      "example_uz": "Ularning logistika sohasidagi qoʻshma loyihasi birinchi yildayoq foyda keltirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "startup",
+      "pronunciation_uz": "startap",
+      "uzbek": "startap (yangi innovatsion loyiha)",
+      "pos": "noun",
+      "example_en": "The tech startup developed a voice recognition app for Uzbek.",
+      "example_uz": "Texnologik startap oʻzbek tili uchun ovozni aniqlash ilovasini ishlab chiqdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "subsidiary",
+      "pronunciation_uz": "sabsidieri",
+      "uzbek": "shoʻba korxona",
+      "pos": "noun",
+      "example_en": "The holding company owns a subsidiary that manufactures packaging.",
+      "example_uz": "Xolding kompaniyasi qadoqlash mahsulotlari ishlab chiqaradigan shoʻba korxonaga egalik qiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "headquarters",
+      "pronunciation_uz": "hedkuorterz",
+      "uzbek": "bosh qarorgoh, bosh ofis",
+      "pos": "noun",
+      "example_en": "The company's headquarters is located in the business center.",
+      "example_uz": "Kompaniyaning bosh ofisi biznes markazida joylashgan.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "branch office",
+      "pronunciation_uz": "brench ofis",
+      "uzbek": "filial, boʻlinma ofisi",
+      "pos": "noun",
+      "example_en": "Our bank opened a new branch office in Namangan.",
+      "example_uz": "Bankimiz Namanganda yangi filial ofisini ochdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "franchise",
+      "pronunciation_uz": "frenchayz",
+      "uzbek": "franshiza (brend ostida ishlash huquqi)",
+      "pos": "noun",
+      "example_en": "He bought a fast-food franchise and opened two restaurants.",
+      "example_uz": "U tez ovqatlanish franshizasini sotib oldi va ikkita restoran ochdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "competitor",
+      "pronunciation_uz": "kompetitor",
+      "uzbek": "raqobatchi",
+      "pos": "noun",
+      "example_en": "Our main competitor lowered prices by ten percent this week.",
+      "example_uz": "Asosiy raqobatchimiz shu haftada narxlarni oʻn foizga tushirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "rival",
+      "pronunciation_uz": "rayvl",
+      "uzbek": "raqib, raqobatchi",
+      "pos": "noun",
+      "example_en": "The two rival companies competed for the telecom contract.",
+      "example_uz": "Ikki raqib kompaniya telekommunikatsiya shartnomasi uchun kurashdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "partnership",
+      "pronunciation_uz": "partnership",
+      "uzbek": "sheriklik, hamkorlik",
+      "pos": "noun",
+      "example_en": "Two architects formed a business partnership ten years ago.",
+      "example_uz": "Ikki meʼmor oʻn yil oldin biznes sheriklik tuzgan edi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "merger",
+      "pronunciation_uz": "merjer",
+      "uzbek": "qoʻshilish (kompaniyalarning birlashishi)",
+      "pos": "noun",
+      "example_en": "The merger of the two firms created the largest logistics operator.",
+      "example_uz": "Ikki firmaning birlashishi eng yirik logistika operatorini vujudga keltirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "acquisition",
+      "pronunciation_uz": "ekvizishn",
+      "uzbek": "xarid qilish, kompaniyani sotib olish",
+      "pos": "noun",
+      "example_en": "The acquisition of the local factory expanded their production capacity.",
+      "example_uz": "Mahalliy zavodning sotib olinishi ularning ishlab chiqarish quvvatini kengaytirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "founder",
+      "pronunciation_uz": "faunder",
+      "uzbek": "asoschi, taʼsischi",
+      "pos": "noun",
+      "example_en": "The founder of the company started in a small workshop.",
+      "example_uz": "Kompaniya asoschisi ishni kichik ustaxonadan boshlagan.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "co-founder",
+      "pronunciation_uz": "kou-faunder",
+      "uzbek": "hammuassis",
+      "pos": "noun",
+      "example_en": "She is the co-founder and chief technologist of the startup.",
+      "example_uz": "U startapning hammuassisi va bosh texnologi hisoblanadi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "executive",
+      "pronunciation_uz": "igzekyutiv",
+      "uzbek": "ijrochi rahbar, boshqaruvchi",
+      "pos": "noun",
+      "example_en": "Every senior executive attended the annual strategy summit.",
+      "example_uz": "Har bir yuqori boʻgʻin rahbari yillik strategiya sammitida qatnashdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "president",
+      "pronunciation_uz": "prezident",
+      "uzbek": "prezident (kompaniya yoki davlat rahbari)",
+      "pos": "noun",
+      "example_en": "The company president announced plans to enter new export markets.",
+      "example_uz": "Kompaniya prezidenti yangi eksport bozorlariga chiqish rejalarini eʼlon qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "vice president",
+      "pronunciation_uz": "vays prezident",
+      "uzbek": "vitse-prezident, oʻrinbosar",
+      "pos": "noun",
+      "example_en": "The vice president of sales oversees all regional branches.",
+      "example_uz": "Savdo boʻyicha vitse-prezident barcha hududiy filiallarni nazorat qiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "chairperson",
+      "pronunciation_uz": "cherperson",
+      "uzbek": "rais, kengash raisi",
+      "pos": "noun",
+      "example_en": "The chairperson opened the shareholders' meeting at ten o'clock.",
+      "example_uz": "Kengash raisi aksiyadorlar yigʻilishini soat oʻnda ochiq deb eʼlon qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "board of directors",
+      "pronunciation_uz": "bord ov direktorz",
+      "uzbek": "direktorlar kengashi",
+      "pos": "noun",
+      "example_en": "The board of directors approved the annual investment plan.",
+      "example_uz": "Direktorlar kengashi yillik investitsiya rejasini maʼqulladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "administrator",
+      "pronunciation_uz": "edministreytor",
+      "uzbek": "maʼmur, administrator, boshqaruvchi",
+      "pos": "noun",
+      "example_en": "The office administrator ordered printer paper and toner.",
+      "example_uz": "Ofis maʼmuri printer qogʻozi va boʻyoq buyurtma qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "coordinator",
+      "pronunciation_uz": "kouordineytor",
+      "uzbek": "koordinator, muvofiqlashtiruvchi",
+      "pos": "noun",
+      "example_en": "The project coordinator keeps track of every team's schedule.",
+      "example_uz": "Loyiha koordinatori har bir jamoaning ish jadvalini kuzatib boradi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "representative",
+      "pronunciation_uz": "reprezentativ",
+      "uzbek": "vakil, savdo vakili",
+      "pos": "noun",
+      "example_en": "A sales representative demonstrated the new medical device.",
+      "example_uz": "Savdo vakili yangi tibbiy uskunani namoyish qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "agent",
+      "pronunciation_uz": "eyjent",
+      "uzbek": "agent, vositachi vakil",
+      "pos": "noun",
+      "example_en": "Our shipping agent arranged transport through the seaport.",
+      "example_uz": "Yuk tashish agentimiz dengiz porti orqali transportni tashkillashtirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "management",
+      "pronunciation_uz": "menejment",
+      "uzbek": "boshqaruv, menejment, rahbariyat",
+      "pos": "noun",
+      "example_en": "Effective management is key to running a successful factory.",
+      "example_uz": "Muvaffaqiyatli zavodni yuritishda samarali boshqaruv muhim ahamiyatga ega.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "administration",
+      "pronunciation_uz": "edministreyshn",
+      "uzbek": "maʼmuriyat, boshqaruv organi",
+      "pos": "noun",
+      "example_en": "Business administration is a popular major among students.",
+      "example_uz": "Biznes boshqaruvi talabalar orasida mashhur yoʻnalishdir.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "leadership",
+      "pronunciation_uz": "lidership",
+      "uzbek": "yetakchilik, rahbarlik",
+      "pos": "noun",
+      "example_en": "Under her leadership, export sales doubled in two years.",
+      "example_uz": "Uning rahbarligi ostida eksport savdosi ikki yil ichida ikki baravar oshdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "strategy",
+      "pronunciation_uz": "streteji",
+      "uzbek": "strategiya, uzoq muddatli reja",
+      "pos": "noun",
+      "example_en": "The marketing team presented a new digital growth strategy.",
+      "example_uz": "Marketing jamoasi yangi raqamli oʻsish strategiyasini taqdim etdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "tactic",
+      "pronunciation_uz": "tektik",
+      "uzbek": "taktika, amaliy usul",
+      "pos": "noun",
+      "example_en": "Offering free samples is a common promotional tactic.",
+      "example_uz": "Bepul namunalar taqdim etish keng tarqalgan targʻibot usulidir.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "target",
+      "pronunciation_uz": "target",
+      "uzbek": "moʻljal, maqsadli koʻrsatkich",
+      "pos": "noun",
+      "example_en": "The sales department exceeded its monthly target by fifteen percent.",
+      "example_uz": "Savdo boʻlimi oylik reja koʻrsatkichini oʻn besh foizga ortigʻi bilan bajardi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "mission",
+      "pronunciation_uz": "mishn",
+      "uzbek": "missiya, oliy maqsad",
+      "pos": "noun",
+      "example_en": "The company's mission is to provide affordable solar energy.",
+      "example_uz": "Kompaniyaning oliy maqsadi — hamyonbop quyosh energiyasini taqdim etishdir.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "policy",
+      "pronunciation_uz": "polisi",
+      "uzbek": "siyosat, ichki tartib-qoida",
+      "pos": "noun",
+      "example_en": "Our store has a thirty-day return policy for unused items.",
+      "example_uz": "Doʻkonimizda ishlatilmagan buyumlarni oʻttiz kun ichida qaytarish qoidasi amal qiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "regulation",
+      "pronunciation_uz": "regyuleyshn",
+      "uzbek": "qoida, nizom, tartibga solish",
+      "pos": "noun",
+      "example_en": "Food exporters must comply with strict international hygiene regulations.",
+      "example_uz": "Oziq-ovqat eksport qiluvchilar qatʼiy xalqaro gigiyena qoidalariga rioya qilishlari shart.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "standard",
+      "pronunciation_uz": "standard",
+      "uzbek": "standart, meʼyor, andoza",
+      "pos": "noun",
+      "example_en": "The factory received an international quality standard certificate.",
+      "example_uz": "Zavod xalqaro sifat standarti sertifikatini oldi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "minutes",
+      "pronunciation_uz": "minits",
+      "uzbek": "majlis bayonnomasi (protokol)",
+      "pos": "noun",
+      "example_en": "The secretary typed up the minutes of the board meeting.",
+      "example_uz": "Kotiba boshqaruv yigʻilishining bayonnomasini yozib chiqdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "memo",
+      "pronunciation_uz": "memou",
+      "uzbek": "xizmat xati, eslatma",
+      "pos": "noun",
+      "example_en": "The director sent an internal memo to all department heads.",
+      "example_uz": "Direktor barcha boʻlim boshliqlariga ichki xizmat xati yubordi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "report",
+      "pronunciation_uz": "riport",
+      "uzbek": "hisobot",
+      "pos": "noun",
+      "example_en": "We submitted the annual production report on Monday morning.",
+      "example_uz": "Biz yillik ishlab chiqarish hisobotini dushanba kuni ertalab topshirdik.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "presentation",
+      "pronunciation_uz": "prezenteyshn",
+      "uzbek": "taqdimot",
+      "pos": "noun",
+      "example_en": "Her slide presentation convinced the investors to back the project.",
+      "example_uz": "Uning slaydli taqdimoti investorlarni loyihani qoʻllab-quvvatlashga ishontirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "proposal",
+      "pronunciation_uz": "propouzal",
+      "uzbek": "taklif, biznes-taklif",
+      "pos": "noun",
+      "example_en": "The committee reviewed three commercial proposals for the project.",
+      "example_uz": "Komissiya loyiha boʻyicha uchta tijorat taklifini koʻrib chiqdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "bid",
+      "pronunciation_uz": "bid",
+      "uzbek": "tender taklifi, kimoshdi narx taklifi",
+      "pos": "noun",
+      "example_en": "The construction company submitted the lowest bid for the highway.",
+      "example_uz": "Qurilish kompaniyasi avtomagistral uchun eng past narx taklifini kiritdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "tender",
+      "pronunciation_uz": "tender",
+      "uzbek": "tender (tanlov savdosi)",
+      "pos": "noun",
+      "example_en": "The ministry announced an open tender for school equipment.",
+      "example_uz": "Vazirlik maktab jihozlari uchun ochiq tender eʼlon qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "auction",
+      "pronunciation_uz": "okshn",
+      "uzbek": "auksion, kimoshdi savdosi",
+      "pos": "noun",
+      "example_en": "Commercial land plots are sold through an online auction.",
+      "example_uz": "Tijorat yer uchastkalari onlayn auksion orqali sotiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "negotiation",
+      "pronunciation_uz": "nigoushiyeyshn",
+      "uzbek": "muzokara",
+      "pos": "noun",
+      "example_en": "After three days of negotiation, the two sides reached an agreement.",
+      "example_uz": "Uch kunlik muzokaralardan soʻng ikki tomon kelishuvga erishdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "agreement",
+      "pronunciation_uz": "egriment",
+      "uzbek": "kelishuv, bitim, shartnoma",
+      "pos": "noun",
+      "example_en": "Both directors signed the trade cooperation agreement.",
+      "example_uz": "Har ikki direktor savdo hamkorligi toʻgʻrisidagi kelishuvni imzoladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "treaty",
+      "pronunciation_uz": "triti",
+      "uzbek": "xalqaro shartnoma, bitim",
+      "pos": "noun",
+      "example_en": "A bilateral trade treaty reduced customs duties between the states.",
+      "example_uz": "Ikki tomonlama savdo shartnomasi davlatlar oʻrtasidagi bojxona bojlarini kamaytirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "patent",
+      "pronunciation_uz": "peytent",
+      "uzbek": "patent (ixtiro guvohnomasi)",
+      "pos": "noun",
+      "example_en": "The engineer obtained an international patent for his water pump.",
+      "example_uz": "Muhandis oʻzining suv nasosi uchun xalqaro patent oldi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "copyright",
+      "pronunciation_uz": "kopirayt",
+      "uzbek": "mualliflik huquqi",
+      "pos": "noun",
+      "example_en": "Software and books are protected by international copyright laws.",
+      "example_uz": "Dasturiy taʼminot va kitoblar xalqaro mualliflik huquqi qonunlari bilan himoyalangan.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "logo",
+      "pronunciation_uz": "lougou",
+      "uzbek": "logotip, ramz",
+      "pos": "noun",
+      "example_en": "A pomegranate image is featured in the company's new logo.",
+      "example_uz": "Kompaniyaning yangi logotipida anor tasviri aks ettirilgan.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "slogan",
+      "pronunciation_uz": "slougan",
+      "uzbek": "shior, reklama shiori",
+      "pos": "noun",
+      "example_en": "A catchy slogan helps customers remember the product.",
+      "example_uz": "Eslab qolarli shior mijozlarga mahsulotni yodda saqlashga yordam beradi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "marketing",
+      "pronunciation_uz": "marketing",
+      "uzbek": "marketing (bozorni oʻrganish va sotishni tashkil etish)",
+      "pos": "noun",
+      "example_en": "Clever marketing helped the local honey brand reach foreign stores.",
+      "example_uz": "Aqlli marketing mahalliy asal brendining xorijiy doʻkonlarga chiqishiga yordam berdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "advertising",
+      "pronunciation_uz": "edvertayzing",
+      "uzbek": "reklama faoliyati",
+      "pos": "noun",
+      "example_en": "The firm spent twenty percent of its budget on online advertising.",
+      "example_uz": "Firma oʻz byudjetining yigirma foizini onlayn reklamaga sarfladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "billboard",
+      "pronunciation_uz": "bilbord",
+      "uzbek": "reklama shiti, bilbord",
+      "pos": "noun",
+      "example_en": "A huge billboard by the airport advertises local tourism.",
+      "example_uz": "Aeroport yonidagi ulkan bilbord mahalliy turizmni reklama qiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "banner",
+      "pronunciation_uz": "bener",
+      "uzbek": "banner, reklama matosi",
+      "pos": "noun",
+      "example_en": "A colorful banner above the entrance announced the grand opening.",
+      "example_uz": "Kirish joyi tepasidagi rang-barang banner tantanali ochilish haqida xabar berardi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "flyer",
+      "pronunciation_uz": "flayer",
+      "uzbek": "flayer, reklama varaqasi",
+      "pos": "noun",
+      "example_en": "Students handed out a colorful flyer for the new language center.",
+      "example_uz": "Talabalar yangi oʻquv markazi uchun rangli reklama varaqasini tarqatishdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "campaign",
+      "pronunciation_uz": "kempeyn",
+      "uzbek": "kampaniya (reklama yoki marketing tadbirlar tizimi)",
+      "pos": "noun",
+      "example_en": "The spring sales campaign attracted thousands of new buyers.",
+      "example_uz": "Bahorgi savdo kampaniyasi minglab yangi xaridorlarni jalb qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "publicity",
+      "pronunciation_uz": "pablisiti",
+      "uzbek": "ommaviy ovoza, mashhurlik, targʻibot",
+      "pos": "noun",
+      "example_en": "Winning the international award brought great publicity to the brand.",
+      "example_uz": "Xalqaro mukofotni qoʻlga kiritish brendga katta mashhurlik keltirdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "public relations",
+      "pronunciation_uz": "pablik rileyshnz",
+      "uzbek": "jamoatchilik bilan aloqalar (PR)",
+      "pos": "noun",
+      "example_en": "The public relations department organized a press tour of the plant.",
+      "example_uz": "Jamoatchilik bilan aloqalar boʻlimi zavod boʻylab press-tur tashkil etdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "sponsor",
+      "pronunciation_uz": "sponsor",
+      "uzbek": "homiy, sponsor",
+      "pos": "noun",
+      "example_en": "A local telecom company is the main sponsor of the marathon.",
+      "example_uz": "Mahalliy telekommunikatsiya kompaniyasi marafonning bosh homiysi hisoblanadi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "exhibition",
+      "pronunciation_uz": "eksibishn",
+      "uzbek": "koʻrgazma",
+      "pos": "noun",
+      "example_en": "The annual textile exhibition showcases new fabrics and machinery.",
+      "example_uz": "Yillik toʻqimachilik koʻrgazmasida yangi matolar va dastgohlar namoyish etiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "ware",
+      "pronunciation_uz": "uer",
+      "uzbek": "buyumlar, mahsulotlar (sopol yoki metall buyumlar)",
+      "pos": "noun",
+      "example_en": "Artisans sold ceramic ware at the weekend craft market.",
+      "example_uz": "Hunarmandlar dam olish kuni hunarmandchilik bozorida sopol buyumlarni sotishdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "inventory",
+      "pronunciation_uz": "inventori",
+      "uzbek": "inventar, ombordagi tovar zaxirasi",
+      "pos": "noun",
+      "example_en": "The store clerks counted the entire inventory at the end of the year.",
+      "example_uz": "Doʻkon xodimlari yil oxirida barcha tovar zaxirasini sanab chiqishdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "raw material",
+      "pronunciation_uz": "ro metirial",
+      "uzbek": "xomashyo",
+      "pos": "noun",
+      "example_en": "High-quality cotton serves as a raw material for the garment industry.",
+      "example_uz": "Yuqori sifatli paxta tikuvchilik sanoati uchun xomashyo boʻlib xizmat qiladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "assembly line",
+      "pronunciation_uz": "esembli layn",
+      "uzbek": "konveyer, yigʻuv liniyasi",
+      "pos": "noun",
+      "example_en": "Cars move slowly along the automated assembly line.",
+      "example_uz": "Avtomobillar avtomatlashtirilgan yigʻuv konveyeri boʻylab sekin harakatlanadi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "quality control",
+      "pronunciation_uz": "kuoliti kontroul",
+      "uzbek": "sifat nazorati",
+      "pos": "noun",
+      "example_en": "Strict quality control ensures that every appliance works properly.",
+      "example_uz": "Qatʼiy sifat nazorati har bir maishiy texnikaning soz ishlashini taʼminlaydi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "logistics",
+      "pronunciation_uz": "lojistiks",
+      "uzbek": "logistika (yuk tashish va taʼminotni boshqarish)",
+      "pos": "noun",
+      "example_en": "Modern cold-chain logistics keeps exported grapes fresh for weeks.",
+      "example_uz": "Zamonaviy sovutish logistikasi eksport qilinadigan uzumlarni haftalab yangidek saqlaydi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "shipment",
+      "pronunciation_uz": "shipment",
+      "uzbek": "yuk partiyasi, joʻnatma",
+      "pos": "noun",
+      "example_en": "The first shipment of textile machinery arrived on Tuesday.",
+      "example_uz": "Toʻqimachilik dastgohlarining birinchi partiyasi seshanba kuni yetib keldi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "consignment",
+      "pronunciation_uz": "konsaynment",
+      "uzbek": "yuk partiyasi (tovar joʻnatmasi)",
+      "pos": "noun",
+      "example_en": "Customs officers inspected the consignment of dried apricots.",
+      "example_uz": "Bojxona xodimlari turshak partiyasini koʻzdan kechirdilar.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "dispatch",
+      "pronunciation_uz": "dispetch",
+      "uzbek": "joʻnatish, yuborish",
+      "pos": "noun",
+      "example_en": "The warehouse prepares orders for dispatch within twenty-four hours.",
+      "example_uz": "Omborxona buyurtmalarni yigirma toʻrt soat ichida joʻnatishga tayyorlaydi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "transit",
+      "pronunciation_uz": "trenzit",
+      "uzbek": "tranzit (oraliq hudud orqali oʻtish)",
+      "pos": "noun",
+      "example_en": "Goods in transit are sealed in metal containers.",
+      "example_uz": "Tranzitda ketayotgan tovarlar metall konteynerlarda muhrlangan boʻladi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "embargo",
+      "pronunciation_uz": "imbargou",
+      "uzbek": "embargo (savdo taqiqi)",
+      "pos": "noun",
+      "example_en": "The international community lifted the trade embargo.",
+      "example_uz": "Xalqaro hamjamiyat savdo embargosini bekor qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "outlet",
+      "pronunciation_uz": "autlet",
+      "uzbek": "savdo nuqtasi, firma doʻkoni (autlet)",
+      "pos": "noun",
+      "example_en": "The shoe factory opened a factory outlet with lower prices.",
+      "example_uz": "Poyabzal fabrikasi arzonroq narxlardagi firma doʻkonini ochdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "showcase",
+      "pronunciation_uz": "shoukeys",
+      "uzbek": "vitrina, koʻrgazma oynasi",
+      "pos": "noun",
+      "example_en": "Silver bracelets sparkled inside the illuminated glass showcase.",
+      "example_uz": "Yoritilgan shisha vitrina ichida kumush bilaguzuklar jilolanib turardi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "turnover",
+      "pronunciation_uz": "ternouver",
+      "uzbek": "tovar aylanmasi, oborot",
+      "pos": "noun",
+      "example_en": "The company's annual turnover exceeded ten billion soums.",
+      "example_uz": "Kompaniyaning yillik tovar aylanmasi oʻn milliard soʻmdan oshdi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "service",
+      "pronunciation_uz": "servis",
+      "uzbek": "xizmat, xizmat koʻrsatish",
+      "pos": "noun",
+      "example_en": "Fast and polite customer service builds long-term trust.",
+      "example_uz": "Tez va xushmuomala mijozlarga xizmat koʻrsatish uzoq muddatli ishonchni uygʻotadi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "merge",
+      "pronunciation_uz": "merj",
+      "uzbek": "birlashmoq, qoʻshilmoq",
+      "pos": "verb",
+      "example_en": "The two regional banks decided to merge next spring.",
+      "example_uz": "Ikki mintaqaviy bank kelasi bahorda birlashishga qaror qildi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "advertise",
+      "pronunciation_uz": "edvertayz",
+      "uzbek": "reklama qilmoq",
+      "pos": "verb",
+      "example_en": "Many small businesses advertise their services on social media.",
+      "example_uz": "Koʻplab kichik tadbirkorlik subyektlari oʻz xizmatlarini ijtimoiy tarmoqlarda reklama qiladilar.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "outsource",
+      "pronunciation_uz": "autsors",
+      "uzbek": "tashqi pudratchiga topshirmoq (autsorsing qilmoq)",
+      "pos": "verb",
+      "example_en": "Many firms outsource their accounting and IT maintenance.",
+      "example_uz": "Koʻplab firmalar buxgalteriya va IT xizmatini tashqi kompaniyalarga topshiradilar.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "procure",
+      "pronunciation_uz": "prokyur",
+      "uzbek": "xarid qilib taʼminlamoq (davlat yoki korxona xaridi)",
+      "pos": "verb",
+      "example_en": "The factory was able to procure high-grade steel at a good price.",
+      "example_uz": "Zavod yuqori navli poʻlatni yaxshi narxda xarid qilishga muvaffaq boʻldi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    },
+    {
+      "english": "profitable",
+      "pronunciation_uz": "profitebl",
+      "uzbek": "foydali, daromadli",
+      "pos": "adj",
+      "example_en": "The greenhouse project became profitable in its second season.",
+      "example_uz": "Issiqxona loyihasi ikkinchi mavsumdayoq daromadli boʻldi.",
+      "category": "Biznes, tadbirkorlik va savdo"
+    }
+  ]
+}

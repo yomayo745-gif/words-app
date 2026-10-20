@@ -1,0 +1,1042 @@
+{
+  "title": "Xarakter, fazilatlar va axloq",
+  "category": "Personality, Character & Ethics",
+  "group": "topic",
+  "words": [
+    {
+      "english": "personality",
+      "pronunciation_uz": "personaliti",
+      "uzbek": "shaxsiyat",
+      "pos": "noun",
+      "example_en": "Her warm personality makes everyone feel welcome.",
+      "example_uz": "Uning iliq shaxsiyati barchaga xushnudlik bagʻishlaydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "temperament",
+      "pronunciation_uz": "temperament",
+      "uzbek": "mizoj",
+      "pos": "noun",
+      "example_en": "The two brothers have very different temperaments.",
+      "example_uz": "Ikki aka-ukaning mizoji bir-biridan juda farq qiladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "trait",
+      "pronunciation_uz": "treyt",
+      "uzbek": "xususiyat",
+      "pos": "noun",
+      "example_en": "Patience is an essential trait for a good teacher.",
+      "example_uz": "Sabr-toqat yaxshi oʻqituvchi uchun muhim xususiyatdir.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "virtue",
+      "pronunciation_uz": "verchu",
+      "uzbek": "fazilat",
+      "pos": "noun",
+      "example_en": "Humility was considered the highest virtue by wise men.",
+      "example_uz": "Kamtarlik donishmandlar tomonidan eng oliy fazilat hisoblangan.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "flaw",
+      "pronunciation_uz": "flo",
+      "uzbek": "kamchilik",
+      "pos": "noun",
+      "example_en": "Every great hero in literature has a character flaw.",
+      "example_uz": "Adabiyotdagi har bir buyuk qahramonning oʻz kamchiligi boʻladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "morality",
+      "pronunciation_uz": "moraliti",
+      "uzbek": "axloq-odob",
+      "pos": "noun",
+      "example_en": "Fables often teach children lessons about morality.",
+      "example_uz": "Masallar koʻpincha bolalarga axloq-odob haqida saboq beradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "moral",
+      "pronunciation_uz": "moral",
+      "uzbek": "odob-axloqqa oid",
+      "pos": "adj",
+      "example_en": "Helping those in need is our moral duty.",
+      "example_uz": "Muhtojlarga yordam berish bizning axloqiy burchimizdir.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "conscience",
+      "pronunciation_uz": "konshans",
+      "uzbek": "vijdon",
+      "pos": "noun",
+      "example_en": "A clear conscience is the softest pillow at night.",
+      "example_uz": "Toza vijdon tunda eng yumshoq yostiqdir.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "honesty",
+      "pronunciation_uz": "onesti",
+      "uzbek": "rostgoʻylik",
+      "pos": "noun",
+      "example_en": "Honesty builds trust between friends and partners.",
+      "example_uz": "Rostgoʻylik doʻstlar va hamkorlar oʻrtasida ishonch uygʻotadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "sincerity",
+      "pronunciation_uz": "sinseriti",
+      "uzbek": "samimiylik",
+      "pos": "noun",
+      "example_en": "Everyone admired the sincerity of her speech.",
+      "example_uz": "Hamma uning nutqidagi samimiylikka qoyil qoldi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "truthful",
+      "pronunciation_uz": "trusful",
+      "uzbek": "rostgoʻy",
+      "pos": "adj",
+      "example_en": "Always be truthful when answering the investigator.",
+      "example_uz": "Tergovchiga javob berayotganda har doim rostgoʻy boʻling.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "dependable",
+      "pronunciation_uz": "dipendabl",
+      "uzbek": "ishonchga loyiq",
+      "pos": "adj",
+      "example_en": "A dependable friend never leaves you in trouble.",
+      "example_uz": "Ishonchga loyiq doʻst sizni hech qachon qiyinchilikda qoldirmaydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "kindness",
+      "pronunciation_uz": "kayndnes",
+      "uzbek": "ezgulik",
+      "pos": "noun",
+      "example_en": "A small act of kindness can brighten someone's day.",
+      "example_uz": "Kichik bir ezgulik kimningdir kunini yoritib yuborishi mumkin.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "warmhearted",
+      "pronunciation_uz": "vormhartid",
+      "uzbek": "oqkoʻngil",
+      "pos": "adj",
+      "example_en": "Our hosts in Samarkand were remarkably warmhearted.",
+      "example_uz": "Samarqanddagi mezbonlarimiz nihoyatda oqkoʻngil edilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "thoughtful",
+      "pronunciation_uz": "sotful",
+      "uzbek": "eʼtiborli",
+      "pos": "adj",
+      "example_en": "It was very thoughtful of you to bring flowers.",
+      "example_uz": "Gul olib kelganingiz juda eʼtiborli ish boʻlibdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "considerate",
+      "pronunciation_uz": "konsiderit",
+      "uzbek": "andishali",
+      "pos": "adj",
+      "example_en": "Considerate neighbors keep the volume down at night.",
+      "example_uz": "Andishali qoʻshnilar tunda ovozni pasaytirib qoʻyadilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "altruistic",
+      "pronunciation_uz": "altruistik",
+      "uzbek": "fidoyi",
+      "pos": "adj",
+      "example_en": "Volunteers perform altruistic work without expecting pay.",
+      "example_uz": "Koʻngillilar haq kutmasdan fidokorona ish bajaradilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "selfless",
+      "pronunciation_uz": "selfles",
+      "uzbek": "fidokor",
+      "pos": "adj",
+      "example_en": "Firefighters showed selfless devotion during the rescue.",
+      "example_uz": "Qutqaruv jarayonida oʻt oʻchiruvchilar fidokorlik koʻrsatishdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "generosity",
+      "pronunciation_uz": "jenerositi",
+      "uzbek": "saxiylik",
+      "pos": "noun",
+      "example_en": "The library was built thanks to a donor's generosity.",
+      "example_uz": "Kutubxona homiyning saxiyligi tufayli qurildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "charitable",
+      "pronunciation_uz": "charitabl",
+      "uzbek": "xayriyaparvar",
+      "pos": "adj",
+      "example_en": "She donates to several charitable organizations.",
+      "example_uz": "U bir nechta xayriya tashkilotlariga ehson qiladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "humility",
+      "pronunciation_uz": "hyumiliti",
+      "uzbek": "kamtarlik",
+      "pos": "noun",
+      "example_en": "He accepted the prestigious award with humility.",
+      "example_uz": "U nufuzli mukofotni kamtarlik bilan qabul qildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "modesty",
+      "pronunciation_uz": "modisti",
+      "uzbek": "vazminlik",
+      "pos": "noun",
+      "example_en": "False modesty can sometimes sound insincere.",
+      "example_uz": "Soxta kamtarlik baʼzan nosamimiy eshitilishi mumkin.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "politeness",
+      "pronunciation_uz": "polaytnes",
+      "uzbek": "xushmuomalalik",
+      "pos": "noun",
+      "example_en": "Politeness costs nothing but opens many doors.",
+      "example_uz": "Xushmuomalalik hech narsa talab qilmaydi, ammo koʻp eshiklarni ochadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "tact",
+      "pronunciation_uz": "takt",
+      "uzbek": "nazokat",
+      "pos": "noun",
+      "example_en": "The diplomat handled the delicate issue with great tact.",
+      "example_uz": "Diplomat nozik masalani katta nazokat bilan hal qildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "tactful",
+      "pronunciation_uz": "taktful",
+      "uzbek": "mulohazali",
+      "pos": "adj",
+      "example_en": "She gave a tactful reply to avoid hurting his feelings.",
+      "example_uz": "Uning koʻnglini ogʻritmaslik uchun mulohazali javob berdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "patience",
+      "pronunciation_uz": "peyshens",
+      "uzbek": "sabr-toqat",
+      "pos": "noun",
+      "example_en": "Teaching young children requires endless patience.",
+      "example_uz": "Yosh bolalarga taʼlim berish cheksiz sabr-toqatni talab qiladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "tolerance",
+      "pronunciation_uz": "tolerans",
+      "uzbek": "bagʻrikenglik",
+      "pos": "noun",
+      "example_en": "Mutual tolerance strengthens harmony in the community.",
+      "example_uz": "Oʻzaro bagʻrikenglik jamiyatdagi totuvlikni mustahkamlaydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "bravery",
+      "pronunciation_uz": "breyveri",
+      "uzbek": "jasorat",
+      "pos": "noun",
+      "example_en": "He received a medal for his bravery.",
+      "example_uz": "U koʻrsatgan jasorati uchun medal bilan taqdirlandi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "courage",
+      "pronunciation_uz": "korij",
+      "uzbek": "mardlik",
+      "pos": "noun",
+      "example_en": "It takes courage to admit when you are wrong.",
+      "example_uz": "Xato qilganingni tan olish uchun mardlik kerak.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "courageous",
+      "pronunciation_uz": "koreyjas",
+      "uzbek": "qoʻrqmas",
+      "pos": "adj",
+      "example_en": "She made a courageous decision to speak the truth.",
+      "example_uz": "U haqiqatni aytish uchun mardona qaror qabul qildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "fearless",
+      "pronunciation_uz": "firles",
+      "uzbek": "botir",
+      "pos": "adj",
+      "example_en": "The fearless mountaineer climbed the icy peak.",
+      "example_uz": "Botir alpinist muzli choʻqqiga koʻtarildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "daring",
+      "pronunciation_uz": "dering",
+      "uzbek": "tavakkalchi",
+      "pos": "adj",
+      "example_en": "The pilot performed a daring maneuver in the sky.",
+      "example_uz": "Uchuvchi osmonda qaltis va jasur manyovr bajardi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "self-assured",
+      "pronunciation_uz": "self-eshurd",
+      "uzbek": "oʻziga ishongan",
+      "pos": "adj",
+      "example_en": "Practice makes you feel more self-assured on stage.",
+      "example_uz": "Mashq qilish sahnada oʻzingizni yanada ishonchli his qilishingizga yordam beradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "confidence",
+      "pronunciation_uz": "konfidens",
+      "uzbek": "ishonch",
+      "pos": "noun",
+      "example_en": "She answered all the panel's questions with confidence.",
+      "example_uz": "U hayʼatning barcha savollariga ishonch bilan javob berdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "ambition",
+      "pronunciation_uz": "ambishn",
+      "uzbek": "yuksak maqsad",
+      "pos": "noun",
+      "example_en": "His lifelong ambition was to write a historical novel.",
+      "example_uz": "Uning umrbod maqsadi tarixiy roman yozish edi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "determination",
+      "pronunciation_uz": "ditermineyshn",
+      "uzbek": "qatʼiyat",
+      "pos": "noun",
+      "example_en": "Fierce determination helped him recover from the injury.",
+      "example_uz": "Kuchli qatʼiyat unga jarohatdan keyin tiklanishga yordam berdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "persistent",
+      "pronunciation_uz": "persistent",
+      "uzbek": "tirishqoq",
+      "pos": "adj",
+      "example_en": "Persistent effort eventually leads to mastery.",
+      "example_uz": "Tirishqoqlik bilan qilingan mehnat oxir-oqibat mahoratga olib keladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "persistence",
+      "pronunciation_uz": "persistens",
+      "uzbek": "matonat",
+      "pos": "noun",
+      "example_en": "Success in science requires curiosity and persistence.",
+      "example_uz": "Ilm-fandagi muvaffaqiyat qiziquvchanlik va matonatni talab qiladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "diligence",
+      "pronunciation_uz": "dilijens",
+      "uzbek": "qunt",
+      "pos": "noun",
+      "example_en": "The craftsman worked with admirable diligence.",
+      "example_uz": "Hunarmand tahsinga sazovor qunt bilan ishladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "hardworking",
+      "pronunciation_uz": "hardvorking",
+      "uzbek": "ishchan",
+      "pos": "adj",
+      "example_en": "Hardworking farmers wake up before sunrise.",
+      "example_uz": "Ishchan dehqonlar quyosh chiqmasdan uygʻonadilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "industrious",
+      "pronunciation_uz": "indastries",
+      "uzbek": "gʻayratli",
+      "pos": "adj",
+      "example_en": "Ants are often used as a symbol of industrious creatures.",
+      "example_uz": "Chumolilar koʻpincha mehnatkash jonzotlar ramzi sifatida tilga olinadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "conscientious",
+      "pronunciation_uz": "konshienshas",
+      "uzbek": "vijdonli",
+      "pos": "adj",
+      "example_en": "A conscientious worker checks every detail carefully.",
+      "example_uz": "Vijdonli xodim har bir detalni sinchiklab tekshiradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "disciplined",
+      "pronunciation_uz": "disiplind",
+      "uzbek": "intizomli",
+      "pos": "adj",
+      "example_en": "Athletes must follow a strict and disciplined routine.",
+      "example_uz": "Sportchilar qatʼiy va intizomli kun tartibiga amal qilishlari shart.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "wise",
+      "pronunciation_uz": "vayz",
+      "uzbek": "dono",
+      "pos": "adj",
+      "example_en": "The village elders gave the young man wise counsel.",
+      "example_uz": "Qishloq oqsoqollari yigitga dono maslahat berishdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "wisdom",
+      "pronunciation_uz": "vizdom",
+      "uzbek": "donolik",
+      "pos": "noun",
+      "example_en": "Knowledge comes from books, but wisdom comes from life.",
+      "example_uz": "Bilim kitoblardan, donolik esa hayotdan olinadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "sensible",
+      "pronunciation_uz": "sensibl",
+      "uzbek": "mulohazakor",
+      "pos": "adj",
+      "example_en": "Wearing warm boots in snow is a sensible choice.",
+      "example_uz": "Qorda issiq etik kiyish oqilona tanlovdir.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "rational",
+      "pronunciation_uz": "rashnal",
+      "uzbek": "oqilona",
+      "pos": "adj",
+      "example_en": "We need to make a calm and rational decision.",
+      "example_uz": "Biz vazmin va oqilona qaror qabul qilishimiz kerak.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "open-minded",
+      "pronunciation_uz": "oupen-mayndid",
+      "uzbek": "keng fikrli",
+      "pos": "adj",
+      "example_en": "Travel makes people more open-minded about cultures.",
+      "example_uz": "Sayohat odamlarni turli madaniyatlarga nisbatan keng fikrli qiladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "imaginative",
+      "pronunciation_uz": "imajinativ",
+      "uzbek": "tasavvuri boy",
+      "pos": "adj",
+      "example_en": "Children love reading imaginative fairy tales.",
+      "example_uz": "Bolalar tasavvurga boy ertaklarni oʻqishni yaxshi koʻradilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "witty",
+      "pronunciation_uz": "viti",
+      "uzbek": "hozirjavob",
+      "pos": "adj",
+      "example_en": "His witty remarks made the whole audience laugh.",
+      "example_uz": "Uning hozirjavob gaplari butun zalni kuldirdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "outgoing",
+      "pronunciation_uz": "autgoing",
+      "uzbek": "kirishimli",
+      "pos": "adj",
+      "example_en": "Her outgoing nature helped her make friends quickly.",
+      "example_uz": "Kirishimli tabiati unga tezda doʻst orttirishga yordam berdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "extrovert",
+      "pronunciation_uz": "ekstrovert",
+      "uzbek": "ekstrovert",
+      "pos": "noun",
+      "example_en": "As an extrovert, he gains energy from social events.",
+      "example_uz": "Ekstrovert sifatida u ijtimoiy tadbirlardan kuch-gʻayrat oladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "introvert",
+      "pronunciation_uz": "introvert",
+      "uzbek": "introvert",
+      "pos": "noun",
+      "example_en": "An introvert usually prefers quiet evenings at home.",
+      "example_uz": "Introvert odatda uyda sokin oqshomlarni afzal koʻradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "shy",
+      "pronunciation_uz": "shay",
+      "uzbek": "tortinchoq",
+      "pos": "adj",
+      "example_en": "The shy child hid behind his mother's coat.",
+      "example_uz": "Tortinchoq bola onasining paltosi ortiga yashirindi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "timid",
+      "pronunciation_uz": "timid",
+      "uzbek": "jurʼatsiz",
+      "pos": "adj",
+      "example_en": "He gave a timid knock on the director's door.",
+      "example_uz": "U direktorning eshigini jurʼatsizlik bilan taqillatdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "reserved",
+      "pronunciation_uz": "rizervd",
+      "uzbek": "vazmin",
+      "pos": "adj",
+      "example_en": "He is quiet and reserved around people he doesn't know.",
+      "example_uz": "U notanish odamlar orasida jimjit va vazmin yuradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "talkative",
+      "pronunciation_uz": "tokativ",
+      "uzbek": "sergap",
+      "pos": "adj",
+      "example_en": "The taxi driver was very friendly and talkative.",
+      "example_uz": "Taksi haydovchisi juda xushmuomala va sergap ekan.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "chatty",
+      "pronunciation_uz": "chati",
+      "uzbek": "suhbatdosh",
+      "pos": "adj",
+      "example_en": "She was in a chatty mood over morning tea.",
+      "example_uz": "U ertalabki choy ustida juda suhbatga moyil kayfiyatda edi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "blunt",
+      "pronunciation_uz": "blant",
+      "uzbek": "dangalchi",
+      "pos": "adj",
+      "example_en": "His blunt criticism surprised the committee.",
+      "example_uz": "Uning dangal tanqidi qoʻmitani hayron qoldirdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "arrogant",
+      "pronunciation_uz": "arogant",
+      "uzbek": "kibrli",
+      "pos": "adj",
+      "example_en": "Nobody likes working with an arrogant leader.",
+      "example_uz": "Hech kim kibrli rahbar bilan ishlashni yoqtirmaydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "arrogance",
+      "pronunciation_uz": "arogans",
+      "uzbek": "manmanlik",
+      "pos": "noun",
+      "example_en": "His arrogance cost him the support of his colleagues.",
+      "example_uz": "Uning manmanligi hamkasblarining qoʻllab-quvvatlashidan mahrum qildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "conceited",
+      "pronunciation_uz": "konsitid",
+      "uzbek": "oʻziga bino qoʻygan",
+      "pos": "adj",
+      "example_en": "Winning one match made the young player conceited.",
+      "example_uz": "Bitta oʻyinda gʻalaba qozonish yosh oʻyinchini oʻziga bino qoʻydirib yubordi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "vain",
+      "pronunciation_uz": "veyn",
+      "uzbek": "shuhratparast",
+      "pos": "adj",
+      "example_en": "He is so vain that he looks in every mirror.",
+      "example_uz": "U shunchalik oʻziga maftunki, har bir koʻzguga qaraydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "vanity",
+      "pronunciation_uz": "vaniti",
+      "uzbek": "shuhratparastlik",
+      "pos": "noun",
+      "example_en": "He bought the luxury watch purely out of vanity.",
+      "example_uz": "U qimmatbaho soatni faqatgina shuhratparastlik tufayli sotib oldi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "boastful",
+      "pronunciation_uz": "boustful",
+      "uzbek": "maqtanchoq",
+      "pos": "adj",
+      "example_en": "A boastful person talks only about their own trophies.",
+      "example_uz": "Maqtanchoq odam faqat oʻz yutuqlari haqida gapiradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "boast",
+      "pronunciation_uz": "boust",
+      "uzbek": "maqtanmoq",
+      "pos": "verb",
+      "example_en": "He likes to boast about his high test scores.",
+      "example_uz": "U imtihondagi yuqori ballari bilan maqtanishni yaxshi koʻradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "selfish",
+      "pronunciation_uz": "selfish",
+      "uzbek": "xudbin",
+      "pos": "adj",
+      "example_en": "It was selfish of him to eat the last piece alone.",
+      "example_uz": "Oxirgi boʻlakni bir oʻzi yeb qoʻyishi xudbinlik boʻldi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "egotistical",
+      "pronunciation_uz": "igotistikal",
+      "uzbek": "manfaatparast",
+      "pos": "adj",
+      "example_en": "An egotistical attitude harms teamwork.",
+      "example_uz": "Manfaatparastlik munosabati jamoaviy ishga zarar yetkazadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "greed",
+      "pronunciation_uz": "grid",
+      "uzbek": "ochkoʻzlik",
+      "pos": "noun",
+      "example_en": "Folktales often warn that greed leads to ruin.",
+      "example_uz": "Xalq ertaklari koʻpincha ochkoʻzlik halokatga olib borishidan ogohlantiradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "stingy",
+      "pronunciation_uz": "stinji",
+      "uzbek": "ziqna",
+      "pos": "adj",
+      "example_en": "The rich landlord was too stingy to fix the roof.",
+      "example_uz": "Boy uy egasi tomni taʼmirlashga oʻta ziqnalik qildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "miserly",
+      "pronunciation_uz": "mayzerli",
+      "uzbek": "xasis",
+      "pos": "adj",
+      "example_en": "The miserly man counted his coins every night.",
+      "example_uz": "Xasis odam har kecha tangalarini sanab chiqardi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "laziness",
+      "pronunciation_uz": "leyzines",
+      "uzbek": "dangasalik",
+      "pos": "noun",
+      "example_en": "Talent cannot succeed if it is held back by laziness.",
+      "example_uz": "Agar dangasalik toʻsqinlik qilsa, isteʼdod muvaffaqiyatga erisha olmaydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "idle",
+      "pronunciation_uz": "aydl",
+      "uzbek": "bekorchi",
+      "pos": "adj",
+      "example_en": "He spent the afternoon in idle conversation.",
+      "example_uz": "U tushdan keyingi vaqtni bekorchi suhbat bilan oʻtkazdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "reckless",
+      "pronunciation_uz": "rekles",
+      "uzbek": "boshvoqsiz",
+      "pos": "adj",
+      "example_en": "Reckless driving puts innocent lives in danger.",
+      "example_uz": "Qoidasiz va ehtiyotsiz haydash begunoh insonlar hayotini xavf ostiga qoʻyadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "impulsive",
+      "pronunciation_uz": "impalsiv",
+      "uzbek": "oʻylamay ish qiladigan",
+      "pos": "adj",
+      "example_en": "He made an impulsive purchase and regretted it later.",
+      "example_uz": "U oʻylamasdan xarid qildi va keyin afsuslandi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "stubborn",
+      "pronunciation_uz": "staborn",
+      "uzbek": "aysar",
+      "pos": "adj",
+      "example_en": "He is as stubborn as a mule once he decides.",
+      "example_uz": "U bir qarorga kelsa, qaysarlikda hech kimdan qolishmaydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "obstinate",
+      "pronunciation_uz": "obstinit",
+      "uzbek": "oʻjar",
+      "pos": "adj",
+      "example_en": "Her obstinate refusal delayed the whole agreement.",
+      "example_uz": "Uning oʻjarlik bilan rad etishi butun kelishuvni kechiktirdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "rude",
+      "pronunciation_uz": "rud",
+      "uzbek": "qoʻpol",
+      "pos": "adj",
+      "example_en": "Interrupting elders while they speak is very rude.",
+      "example_uz": "Kattalar gapirayotganda ularning gapini boʻlish juda qoʻpollikdir.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "insolent",
+      "pronunciation_uz": "insolent",
+      "uzbek": "betgachopar",
+      "pos": "adj",
+      "example_en": "The insolent clerk spoke disrespectfully to the client.",
+      "example_uz": "Betgachopar xodim mijozga hurmatsizlik bilan gapirdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "cruelty",
+      "pronunciation_uz": "kruelti",
+      "uzbek": "zulm",
+      "pos": "noun",
+      "example_en": "Laws exist to protect creatures from cruelty.",
+      "example_uz": "Qonunlar jonzotlarni shafqatsizlikdan himoya qilish uchun mavjud.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "ruthless",
+      "pronunciation_uz": "rusles",
+      "uzbek": "berahm",
+      "pos": "adj",
+      "example_en": "The ruthless dictator tolerated no opposition.",
+      "example_uz": "Berahm diktator hech qanday muxolifatga toqat qilmasdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "spiteful",
+      "pronunciation_uz": "spaytful",
+      "uzbek": "kekchi",
+      "pos": "adj",
+      "example_en": "He spread spiteful rumors out of pure envy.",
+      "example_uz": "U hasad tufayli gʻarazli mish-mishlar tarqatdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "malicious",
+      "pronunciation_uz": "malishas",
+      "uzbek": "gʻarazli",
+      "pos": "adj",
+      "example_en": "The computer was damaged by malicious software.",
+      "example_uz": "Kompyuterga zararli va gʻarazli dastur orqali shikast yetkazildi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "dishonest",
+      "pronunciation_uz": "disonist",
+      "uzbek": "insofsiz",
+      "pos": "adj",
+      "example_en": "Dishonest traders lose their customers very quickly.",
+      "example_uz": "Insofsiz savdogarlar mijozlarini juda tez yoʻqotadilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "deceitful",
+      "pronunciation_uz": "disitful",
+      "uzbek": "makkor",
+      "pos": "adj",
+      "example_en": "His deceitful promises fooled many investors.",
+      "example_uz": "Uning makkorona vaʼdalari koʻplab sarmoyadorlarni aldadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "deceive",
+      "pronunciation_uz": "disiv",
+      "uzbek": "aldamoq",
+      "pos": "verb",
+      "example_en": "Appearances can easily deceive an inexperienced observer.",
+      "example_uz": "Tashqi koʻrinish tajribasiz kuzatuvchini osongina chalgʻitishi mumkin.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "hypocrite",
+      "pronunciation_uz": "hipokrit",
+      "uzbek": "munofiq",
+      "pos": "noun",
+      "example_en": "A hypocrite preaches virtues that he never practices.",
+      "example_uz": "Munofiq odam oʻzi amal qilmaydigan fazilatlar haqida vaʼz oʻqiydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "hypocrisy",
+      "pronunciation_uz": "hipokrisi",
+      "uzbek": "ikkiyuzlamachilik",
+      "pos": "noun",
+      "example_en": "Voters quickly noticed the politician's hypocrisy.",
+      "example_uz": "Saylovchilar siyosatchining ikkiyuzlamachiligini tezda payqashdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "cynical",
+      "pronunciation_uz": "sinikal",
+      "uzbek": "kinoyali",
+      "pos": "adj",
+      "example_en": "Repeated lies made the journalist somewhat cynical.",
+      "example_uz": "Takroriy yolgʻonlar jurnalistni biroz shubhachi va kinoyali qilib qoʻydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "gullible",
+      "pronunciation_uz": "galibl",
+      "uzbek": "ishonuvchan",
+      "pos": "adj",
+      "example_en": "Gullible buyers often fall for fake advertisements.",
+      "example_uz": "Oʻta ishonuvchan xaridorlar koʻpincha soxta reklamalarga aldanib qoladilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "naive",
+      "pronunciation_uz": "naiv",
+      "uzbek": "sodda",
+      "pos": "adj",
+      "example_en": "I was naive enough to believe that getting rich was easy.",
+      "example_uz": "Boyib ketish oson ekanligiga ishonganimda juda sodda ekanman.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "fickle",
+      "pronunciation_uz": "fikl",
+      "uzbek": "beqaror",
+      "pos": "adj",
+      "example_en": "Public opinion can be surprisingly fickle.",
+      "example_uz": "Jamoatchilik fikri hayratlanarli darajada beqaror boʻlishi mumkin.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "moody",
+      "pronunciation_uz": "mudi",
+      "uzbek": "injiq",
+      "pos": "adj",
+      "example_en": "He becomes moody whenever he doesn't get enough sleep.",
+      "example_uz": "U yetarlicha uxlamasa, injiq boʻlib qoladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "grumpy",
+      "pronunciation_uz": "grampi",
+      "uzbek": "badjahl",
+      "pos": "adj",
+      "example_en": "My grandfather is never grumpy in the morning.",
+      "example_uz": "Bobom ertalablari hech qachon badjahl boʻlmaydilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "bad-tempered",
+      "pronunciation_uz": "bad-temperd",
+      "uzbek": "jizzaki",
+      "pos": "adj",
+      "example_en": "The bad-tempered coach shouted at the referee.",
+      "example_uz": "Jizzaki murabbiy hakamga baqirdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "quarrelsome",
+      "pronunciation_uz": "kvorelsam",
+      "uzbek": "janjalkash",
+      "pos": "adj",
+      "example_en": "A quarrelsome neighbor makes village life difficult.",
+      "example_uz": "Janjalkash qoʻshni qishloq hayotini qiyinlashtiradi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "bossy",
+      "pronunciation_uz": "bosi",
+      "uzbek": "buyruqboz",
+      "pos": "adj",
+      "example_en": "Her older sister can be a bit bossy sometimes.",
+      "example_uz": "Uning opasi baʼzan biroz buyruqboz boʻlib qoladi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "nosy",
+      "pronunciation_uz": "nouzi",
+      "uzbek": "suq",
+      "pos": "adj",
+      "example_en": "The nosy neighbor kept peeking through the fence.",
+      "example_uz": "Qiziquvchan va suq qoʻshni devor tirqishidan moʻralayverdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "coward",
+      "pronunciation_uz": "kauard",
+      "uzbek": "qoʻrqoq",
+      "pos": "noun",
+      "example_en": "A true friend does not run away like a coward.",
+      "example_uz": "Haqiqiy doʻst qoʻrqoqlarcha qochib ketmaydi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "cowardly",
+      "pronunciation_uz": "kauardli",
+      "uzbek": "nomardlarcha",
+      "pos": "adj",
+      "example_en": "Attacking someone from behind is a cowardly act.",
+      "example_uz": "Kimnidir orqadan turib urish nomardlarcha qilingan ishdir.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "absent-minded",
+      "pronunciation_uz": "absent-mayndid",
+      "uzbek": "parishonxotir",
+      "pos": "adj",
+      "example_en": "The absent-minded professor wore two different socks.",
+      "example_uz": "Parishonxotir professor ikki xil paypoq kiyib olibdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "forgetful",
+      "pronunciation_uz": "forgetful",
+      "uzbek": "unutuvchan",
+      "pos": "adj",
+      "example_en": "Grandma is getting a little forgetful with age.",
+      "example_uz": "Buvim yoshlari oʻtgan sari biroz unutuvchan boʻlib qolyaptilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "picky",
+      "pronunciation_uz": "piki",
+      "uzbek": "tanlovchan",
+      "pos": "adj",
+      "example_en": "The little boy is very picky about vegetables.",
+      "example_uz": "Kichkina bola sabzavot borasida juda injiq va tanlovchan.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "fussy",
+      "pronunciation_uz": "fasi",
+      "uzbek": "noziktaʼb",
+      "pos": "adj",
+      "example_en": "Don't be so fussy about minor details.",
+      "example_uz": "Mayda-chuyda detallarga bunchalik injiqlik qilmang.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "strict",
+      "pronunciation_uz": "strikt",
+      "uzbek": "talabchan",
+      "pos": "adj",
+      "example_en": "Our math teacher was strict but always fair.",
+      "example_uz": "Matematika oʻqituvchimiz talabchan, ammo har doim adolatli edi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "lenient",
+      "pronunciation_uz": "linient",
+      "uzbek": "yumshoqkoʻngil",
+      "pos": "adj",
+      "example_en": "The judge gave the first-time offender a lenient sentence.",
+      "example_uz": "Sudya birinchi marta qoidabuzarlik qilgan shaxsga yengilroq jazo berdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "fair-minded",
+      "pronunciation_uz": "fer-mayndid",
+      "uzbek": "insofli",
+      "pos": "adj",
+      "example_en": "Everyone respected the manager because she was fair-minded.",
+      "example_uz": "Menejer insofli boʻlgani uchun hamma uni hurmat qilardi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "noble",
+      "pronunciation_uz": "noubl",
+      "uzbek": "oliyjanob",
+      "pos": "adj",
+      "example_en": "Sacrificing your time to teach orphans is a noble deed.",
+      "example_uz": "Yetimlarga taʼlim berish uchun vaqt ajratish oliyjanob ishdir.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "honorable",
+      "pronunciation_uz": "onorabl",
+      "uzbek": "sharafga loyiq",
+      "pos": "adj",
+      "example_en": "He retired after forty years of honorable service.",
+      "example_uz": "U qirq yillik sharafli xizmatdan soʻng nafaqaga chiqdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "virtuous",
+      "pronunciation_uz": "verchuas",
+      "uzbek": "pokdomon",
+      "pos": "adj",
+      "example_en": "Ancient philosophers wrote extensively about the virtuous life.",
+      "example_uz": "Qadimgi faylasuflar pok va fazilatli hayot haqida koʻp yozishgan.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "righteous",
+      "pronunciation_uz": "raychas",
+      "uzbek": "odil",
+      "pos": "adj",
+      "example_en": "Stories often celebrate the victory of righteous heroes.",
+      "example_uz": "Hikoyalarda koʻpincha odil qahramonlarning gʻalabasi ulugʻlanadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "adaptable",
+      "pronunciation_uz": "adaptabl",
+      "uzbek": "moslashuvchan",
+      "pos": "adj",
+      "example_en": "Adaptable employees thrive in fast-changing companies.",
+      "example_uz": "Moslashuvchan xodimlar tez oʻzgaruvchan kompaniyalarda muvaffaqiyat qozonadilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "resourceful",
+      "pronunciation_uz": "risorsful",
+      "uzbek": "uddaburon",
+      "pos": "adj",
+      "example_en": "The resourceful camper built a shelter from fallen branches.",
+      "example_uz": "Uddaburon sayohatchi singan shoxlardan boshpana yasadi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "proactive",
+      "pronunciation_uz": "proaktiv",
+      "uzbek": "tashabbuskor",
+      "pos": "adj",
+      "example_en": "Proactive managers solve problems before they grow.",
+      "example_uz": "Tashabbuskor rahbarlar muammolar kattalashmasdan oldin ularni hal qiladilar.",
+      "category": "Xarakter, fazilatlar va axloq"
+    },
+    {
+      "english": "charismatic",
+      "pronunciation_uz": "karizmatik",
+      "uzbek": "jozibador",
+      "pos": "adj",
+      "example_en": "The charismatic speaker held the crowd's attention.",
+      "example_uz": "Jozibador notiq olomonning diqqatini oʻziga tortdi.",
+      "category": "Xarakter, fazilatlar va axloq"
+    }
+  ]
+}

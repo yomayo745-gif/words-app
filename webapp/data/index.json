@@ -1,0 +1,799 @@
+{
+  "version": 2,
+  "totalWords": 7226,
+  "totalDeckFiles": 54,
+  "allFiles": [
+    "data/decks/freq-01-top-150.json",
+    "data/decks/freq-02-top-300.json",
+    "data/decks/freq-03-top-450.json",
+    "data/decks/freq-04-verbs-1.json",
+    "data/decks/freq-05-verbs-2.json",
+    "data/decks/freq-06-adjectives-1.json",
+    "data/decks/freq-07-adjectives-2.json",
+    "data/decks/freq-08-everyday-nouns.json",
+    "data/decks/freq-09-irregular-verbs.json",
+    "data/decks/freq-10-phrasal-verbs-1.json",
+    "data/decks/freq-11-phrasal-verbs-2.json",
+    "data/decks/freq-12-ielts-academic-1.json",
+    "data/decks/freq-13-ielts-academic-2.json",
+    "data/decks/freq-14-ielts-academic-3.json",
+    "data/decks/freq-15-ielts-academic-4.json",
+    "data/decks/freq-16-ielts-academic-5.json",
+    "data/decks/freq-17-spoken-phrases.json",
+    "data/decks/freq-18-adverbs-connectors.json",
+    "data/decks/freq-19-time-quantities.json",
+    "data/decks/topic-01-home-chores.json",
+    "data/decks/topic-02-food-ingredients.json",
+    "data/decks/topic-03-cooking-dining.json",
+    "data/decks/topic-04-family-social.json",
+    "data/decks/topic-05-body-anatomy.json",
+    "data/decks/topic-06-health-wellness.json",
+    "data/decks/topic-07-clothes-fashion.json",
+    "data/decks/topic-08-shopping-consumer.json",
+    "data/decks/topic-09-city-architecture.json",
+    "data/decks/topic-10-transport-traffic.json",
+    "data/decks/topic-11-travel-geography.json",
+    "data/decks/topic-12-school-classroom.json",
+    "data/decks/topic-13-university-research.json",
+    "data/decks/topic-14-work-professions.json",
+    "data/decks/topic-15-business-commerce.json",
+    "data/decks/topic-16-money-finance.json",
+    "data/decks/topic-17-tech-computing.json",
+    "data/decks/topic-18-internet-mobile.json",
+    "data/decks/topic-19-nature-plants.json",
+    "data/decks/topic-20-animals-wildlife.json",
+    "data/decks/topic-21-weather-ecology.json",
+    "data/decks/topic-22-sports-fitness.json",
+    "data/decks/topic-23-hobbies-games.json",
+    "data/decks/topic-24-art-music-cinema.json",
+    "data/decks/topic-25-emotions-psychology.json",
+    "data/decks/topic-26-personality-ethics.json",
+    "data/decks/topic-27-politics-state.json",
+    "data/decks/topic-28-law-justice.json",
+    "data/decks/topic-29-science-universe.json",
+    "data/decks/topic-30-math-geometry.json",
+    "data/decks/topic-31-medicine-clinical.json",
+    "data/decks/topic-32-history-society.json",
+    "data/decks/topic-33-idioms-1.json",
+    "data/decks/topic-34-idioms-2.json",
+    "data/decks/topic-35-collocations.json"
+  ],
+  "decks": [
+    {
+      "id": "top-500",
+      "title": "Top 500 — Eng kerakli soʻzlar",
+      "category": "Most Frequent 500 Words",
+      "group": "freq",
+      "wordCount": 500,
+      "limit": 500,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/freq-01-top-150.json",
+        "data/decks/freq-02-top-300.json",
+        "data/decks/freq-03-top-450.json",
+        "data/decks/freq-04-verbs-1.json"
+      ],
+      "isMilestone": true
+    },
+    {
+      "id": "top-1000",
+      "title": "Top 1000 — Asosiy kundalik soʻzlar",
+      "category": "Most Frequent 1,000 Words",
+      "group": "freq",
+      "wordCount": 1000,
+      "limit": 1000,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/freq-01-top-150.json",
+        "data/decks/freq-02-top-300.json",
+        "data/decks/freq-03-top-450.json",
+        "data/decks/freq-04-verbs-1.json",
+        "data/decks/freq-05-verbs-2.json",
+        "data/decks/freq-06-adjectives-1.json",
+        "data/decks/freq-07-adjectives-2.json"
+      ],
+      "isMilestone": true
+    },
+    {
+      "id": "top-2000",
+      "title": "Top 2000 — Kundalik va oʻrta daraja",
+      "category": "Most Frequent 2,000 Words",
+      "group": "freq",
+      "wordCount": 2000,
+      "limit": 2000,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/freq-01-top-150.json",
+        "data/decks/freq-02-top-300.json",
+        "data/decks/freq-03-top-450.json",
+        "data/decks/freq-04-verbs-1.json",
+        "data/decks/freq-05-verbs-2.json",
+        "data/decks/freq-06-adjectives-1.json",
+        "data/decks/freq-07-adjectives-2.json",
+        "data/decks/freq-08-everyday-nouns.json",
+        "data/decks/freq-09-irregular-verbs.json",
+        "data/decks/freq-10-phrasal-verbs-1.json",
+        "data/decks/freq-11-phrasal-verbs-2.json",
+        "data/decks/freq-12-ielts-academic-1.json",
+        "data/decks/freq-13-ielts-academic-2.json",
+        "data/decks/freq-14-ielts-academic-3.json"
+      ],
+      "isMilestone": true
+    },
+    {
+      "id": "top-3000",
+      "title": "Top 3000 — Kengaytirilgan faol lugʻat",
+      "category": "Most Frequent 3,000 Words",
+      "group": "freq",
+      "wordCount": 3000,
+      "limit": 3000,
+      "accentIndex": 5,
+      "files": [
+        "data/decks/freq-01-top-150.json",
+        "data/decks/freq-02-top-300.json",
+        "data/decks/freq-03-top-450.json",
+        "data/decks/freq-04-verbs-1.json",
+        "data/decks/freq-05-verbs-2.json",
+        "data/decks/freq-06-adjectives-1.json",
+        "data/decks/freq-07-adjectives-2.json",
+        "data/decks/freq-08-everyday-nouns.json",
+        "data/decks/freq-09-irregular-verbs.json",
+        "data/decks/freq-10-phrasal-verbs-1.json",
+        "data/decks/freq-11-phrasal-verbs-2.json",
+        "data/decks/freq-12-ielts-academic-1.json",
+        "data/decks/freq-13-ielts-academic-2.json",
+        "data/decks/freq-14-ielts-academic-3.json",
+        "data/decks/freq-15-ielts-academic-4.json",
+        "data/decks/freq-16-ielts-academic-5.json",
+        "data/decks/freq-17-spoken-phrases.json",
+        "data/decks/freq-18-adverbs-connectors.json",
+        "data/decks/freq-19-time-quantities.json",
+        "data/decks/topic-01-home-chores.json",
+        "data/decks/topic-02-food-ingredients.json"
+      ],
+      "isMilestone": true
+    },
+    {
+      "id": "top-5000",
+      "title": "Top 5000 — Toʻliq faol va akademik bazasi",
+      "category": "Most Frequent 5,000 Words",
+      "group": "freq",
+      "wordCount": 5000,
+      "limit": 5000,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/freq-01-top-150.json",
+        "data/decks/freq-02-top-300.json",
+        "data/decks/freq-03-top-450.json",
+        "data/decks/freq-04-verbs-1.json",
+        "data/decks/freq-05-verbs-2.json",
+        "data/decks/freq-06-adjectives-1.json",
+        "data/decks/freq-07-adjectives-2.json",
+        "data/decks/freq-08-everyday-nouns.json",
+        "data/decks/freq-09-irregular-verbs.json",
+        "data/decks/freq-10-phrasal-verbs-1.json",
+        "data/decks/freq-11-phrasal-verbs-2.json",
+        "data/decks/freq-12-ielts-academic-1.json",
+        "data/decks/freq-13-ielts-academic-2.json",
+        "data/decks/freq-14-ielts-academic-3.json",
+        "data/decks/freq-15-ielts-academic-4.json",
+        "data/decks/freq-16-ielts-academic-5.json",
+        "data/decks/freq-17-spoken-phrases.json",
+        "data/decks/freq-18-adverbs-connectors.json",
+        "data/decks/freq-19-time-quantities.json",
+        "data/decks/topic-01-home-chores.json",
+        "data/decks/topic-02-food-ingredients.json",
+        "data/decks/topic-03-cooking-dining.json",
+        "data/decks/topic-04-family-social.json",
+        "data/decks/topic-05-body-anatomy.json",
+        "data/decks/topic-06-health-wellness.json",
+        "data/decks/topic-07-clothes-fashion.json",
+        "data/decks/topic-08-shopping-consumer.json",
+        "data/decks/topic-09-city-architecture.json",
+        "data/decks/topic-10-transport-traffic.json",
+        "data/decks/topic-11-travel-geography.json",
+        "data/decks/topic-12-school-classroom.json",
+        "data/decks/topic-13-university-research.json",
+        "data/decks/topic-14-work-professions.json",
+        "data/decks/topic-15-business-commerce.json",
+        "data/decks/topic-16-money-finance.json",
+        "data/decks/topic-17-tech-computing.json"
+      ],
+      "isMilestone": true
+    },
+    {
+      "id": "freq-01-top-150",
+      "title": "Eng koʻp ishlatiladigan 1–150 soʻzlar (A1)",
+      "category": "Top 500 • 1–150",
+      "group": "freq",
+      "wordCount": 150,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/freq-01-top-150.json"
+      ]
+    },
+    {
+      "id": "freq-02-top-300",
+      "title": "Eng koʻp ishlatiladigan 151–300 soʻzlar (A1–A2)",
+      "category": "Top 500 • 151–300",
+      "group": "freq",
+      "wordCount": 150,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/freq-02-top-300.json"
+      ]
+    },
+    {
+      "id": "freq-03-top-450",
+      "title": "Eng koʻp ishlatiladigan 301–450 soʻzlar (A2)",
+      "category": "Top 500 • 301–450",
+      "group": "freq",
+      "wordCount": 150,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/freq-03-top-450.json"
+      ]
+    },
+    {
+      "id": "freq-04-verbs-1",
+      "title": "Eng faol feʻllar — 1-qism",
+      "category": "Top 1000 • Everyday Verbs 1",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/freq-04-verbs-1.json"
+      ]
+    },
+    {
+      "id": "freq-05-verbs-2",
+      "title": "Eng faol feʻllar — 2-qism",
+      "category": "Top 1000 • Everyday Verbs 2",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/freq-05-verbs-2.json"
+      ]
+    },
+    {
+      "id": "freq-06-adjectives-1",
+      "title": "Eng kerakli sifatlar — 1-qism",
+      "category": "Top 1000 • Everyday Adjectives 1",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 5,
+      "files": [
+        "data/decks/freq-06-adjectives-1.json"
+      ]
+    },
+    {
+      "id": "freq-07-adjectives-2",
+      "title": "Eng kerakli sifatlar — 2-qism",
+      "category": "Top 2000 • Everyday Adjectives 2",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/freq-07-adjectives-2.json"
+      ]
+    },
+    {
+      "id": "freq-08-everyday-nouns",
+      "title": "Kundalik buyumlar va materiallar",
+      "category": "Top 2000 • Everyday Objects & Materials",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 7,
+      "files": [
+        "data/decks/freq-08-everyday-nouns.json"
+      ]
+    },
+    {
+      "id": "freq-09-irregular-verbs",
+      "title": "Notoʻgʻri feʻllar (Irregular Verbs)",
+      "category": "Irregular Verbs (3 Forms)",
+      "group": "freq",
+      "wordCount": 155,
+      "accentIndex": 8,
+      "files": [
+        "data/decks/freq-09-irregular-verbs.json"
+      ]
+    },
+    {
+      "id": "freq-10-phrasal-verbs-1",
+      "title": "Ibora feʻllar (Phrasal Verbs — 1)",
+      "category": "Common Phrasal Verbs 1",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 9,
+      "files": [
+        "data/decks/freq-10-phrasal-verbs-1.json"
+      ]
+    },
+    {
+      "id": "freq-11-phrasal-verbs-2",
+      "title": "Ibora feʻllar (Phrasal Verbs — 2)",
+      "category": "Common Phrasal Verbs 2",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/freq-11-phrasal-verbs-2.json"
+      ]
+    },
+    {
+      "id": "freq-12-ielts-academic-1",
+      "title": "IELTS va TOEFL akademik soʻzlar (1-qism: A–C)",
+      "category": "IELTS/TOEFL Academic (A–C)",
+      "group": "freq",
+      "wordCount": 131,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/freq-12-ielts-academic-1.json"
+      ]
+    },
+    {
+      "id": "freq-13-ielts-academic-2",
+      "title": "IELTS va TOEFL akademik soʻzlar (2-qism: D–H)",
+      "category": "IELTS/TOEFL Academic (D–H)",
+      "group": "freq",
+      "wordCount": 127,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/freq-13-ielts-academic-2.json"
+      ]
+    },
+    {
+      "id": "freq-14-ielts-academic-3",
+      "title": "IELTS va TOEFL akademik soʻzlar (3-qism: I–M)",
+      "category": "IELTS/TOEFL Academic (I–M)",
+      "group": "freq",
+      "wordCount": 135,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/freq-14-ielts-academic-3.json"
+      ]
+    },
+    {
+      "id": "freq-15-ielts-academic-4",
+      "title": "IELTS va TOEFL akademik soʻzlar (4-qism: N–R)",
+      "category": "IELTS/TOEFL Academic (N–R)",
+      "group": "freq",
+      "wordCount": 124,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/freq-15-ielts-academic-4.json"
+      ]
+    },
+    {
+      "id": "freq-16-ielts-academic-5",
+      "title": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)",
+      "category": "IELTS/TOEFL Academic (S–Z)",
+      "group": "freq",
+      "wordCount": 84,
+      "accentIndex": 5,
+      "files": [
+        "data/decks/freq-16-ielts-academic-5.json"
+      ]
+    },
+    {
+      "id": "freq-17-spoken-phrases",
+      "title": "Jonli muloqot iboralari (Spoken English)",
+      "category": "Spoken English Phrases & Expressions",
+      "group": "freq",
+      "wordCount": 160,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/freq-17-spoken-phrases.json"
+      ]
+    },
+    {
+      "id": "freq-18-adverbs-connectors",
+      "title": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)",
+      "category": "Adverbs, Connectors & Transitions",
+      "group": "freq",
+      "wordCount": 148,
+      "accentIndex": 7,
+      "files": [
+        "data/decks/freq-18-adverbs-connectors.json"
+      ]
+    },
+    {
+      "id": "freq-19-time-quantities",
+      "title": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "category": "Time, Numbers, Units & Quantities",
+      "group": "freq",
+      "wordCount": 135,
+      "accentIndex": 8,
+      "files": [
+        "data/decks/freq-19-time-quantities.json"
+      ]
+    },
+    {
+      "id": "topic-01-home-chores",
+      "title": "Uy-joy, jihozlar va roʻzgʻor",
+      "category": "Home, Appliances & Household",
+      "group": "topic",
+      "wordCount": 158,
+      "accentIndex": 9,
+      "files": [
+        "data/decks/topic-01-home-chores.json"
+      ]
+    },
+    {
+      "id": "topic-02-food-ingredients",
+      "title": "Meva, sabzavot va masalliqlar",
+      "category": "Food, Produce & Spices",
+      "group": "topic",
+      "wordCount": 160,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/topic-02-food-ingredients.json"
+      ]
+    },
+    {
+      "id": "topic-03-cooking-dining",
+      "title": "Taomlar, pishirish va restoran",
+      "category": "Cooking, Dishes & Restaurant",
+      "group": "topic",
+      "wordCount": 160,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/topic-03-cooking-dining.json"
+      ]
+    },
+    {
+      "id": "topic-04-family-social",
+      "title": "Oila, inson davrlari va munosabatlar",
+      "category": "Family, Relationships & Life Stages",
+      "group": "topic",
+      "wordCount": 154,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/topic-04-family-social.json"
+      ]
+    },
+    {
+      "id": "topic-05-body-anatomy",
+      "title": "Inson tanasi, aʼzolar va harakat",
+      "category": "Human Body & Anatomy",
+      "group": "topic",
+      "wordCount": 160,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/topic-05-body-anatomy.json"
+      ]
+    },
+    {
+      "id": "topic-06-health-wellness",
+      "title": "Salomatlik, gigiyena va sogʻlom turmush",
+      "category": "Health, Hygiene & Wellness",
+      "group": "topic",
+      "wordCount": 158,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/topic-06-health-wellness.json"
+      ]
+    },
+    {
+      "id": "topic-07-clothes-fashion",
+      "title": "Kiyim-kechak, matolar va aksessuarlar",
+      "category": "Clothes, Fabrics & Fashion",
+      "group": "topic",
+      "wordCount": 141,
+      "accentIndex": 5,
+      "files": [
+        "data/decks/topic-07-clothes-fashion.json"
+      ]
+    },
+    {
+      "id": "topic-08-shopping-consumer",
+      "title": "Xarid, bozor va isteʼmol",
+      "category": "Shopping, Retail & Services",
+      "group": "topic",
+      "wordCount": 131,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/topic-08-shopping-consumer.json"
+      ]
+    },
+    {
+      "id": "topic-09-city-architecture",
+      "title": "Shahar, binolar va infratuzilma",
+      "category": "City, Architecture & Urban Life",
+      "group": "topic",
+      "wordCount": 116,
+      "accentIndex": 7,
+      "files": [
+        "data/decks/topic-09-city-architecture.json"
+      ]
+    },
+    {
+      "id": "topic-10-transport-traffic",
+      "title": "Transport, avtomobil va yoʻl harakati",
+      "category": "Transport, Vehicles & Traffic",
+      "group": "topic",
+      "wordCount": 134,
+      "accentIndex": 8,
+      "files": [
+        "data/decks/topic-10-transport-traffic.json"
+      ]
+    },
+    {
+      "id": "topic-11-travel-geography",
+      "title": "Sayohat, turizm va geografiya",
+      "category": "Travel, Tourism & Geography",
+      "group": "topic",
+      "wordCount": 139,
+      "accentIndex": 9,
+      "files": [
+        "data/decks/topic-11-travel-geography.json"
+      ]
+    },
+    {
+      "id": "topic-12-school-classroom",
+      "title": "Maktab, sinfxona va oʻquv qurollari",
+      "category": "School, Classroom & Subjects",
+      "group": "topic",
+      "wordCount": 129,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/topic-12-school-classroom.json"
+      ]
+    },
+    {
+      "id": "topic-13-university-research",
+      "title": "Universitet va ilmiy izlanish",
+      "category": "University, Degrees & Research",
+      "group": "topic",
+      "wordCount": 126,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/topic-13-university-research.json"
+      ]
+    },
+    {
+      "id": "topic-14-work-professions",
+      "title": "Kasblar, hunarlar va ish joyi",
+      "category": "Jobs, Professions & Workplace",
+      "group": "topic",
+      "wordCount": 131,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/topic-14-work-professions.json"
+      ]
+    },
+    {
+      "id": "topic-15-business-commerce",
+      "title": "Biznes, tadbirkorlik va savdo",
+      "category": "Business, Management & Trade",
+      "group": "topic",
+      "wordCount": 95,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/topic-15-business-commerce.json"
+      ]
+    },
+    {
+      "id": "topic-16-money-finance",
+      "title": "Pul, bank ishi, moliya va soliq",
+      "category": "Money, Banking & Finance",
+      "group": "topic",
+      "wordCount": 108,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/topic-16-money-finance.json"
+      ]
+    },
+    {
+      "id": "topic-17-tech-computing",
+      "title": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "category": "Computers, Software & AI",
+      "group": "topic",
+      "wordCount": 121,
+      "accentIndex": 5,
+      "files": [
+        "data/decks/topic-17-tech-computing.json"
+      ]
+    },
+    {
+      "id": "topic-18-internet-mobile",
+      "title": "Internet, smartfon va aloqa",
+      "category": "Internet, Smartphones & Social Media",
+      "group": "topic",
+      "wordCount": 126,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/topic-18-internet-mobile.json"
+      ]
+    },
+    {
+      "id": "topic-19-nature-plants",
+      "title": "Tabiat, oʻsimliklar va dehqonchilik",
+      "category": "Nature, Plants & Agriculture",
+      "group": "topic",
+      "wordCount": 93,
+      "accentIndex": 7,
+      "files": [
+        "data/decks/topic-19-nature-plants.json"
+      ]
+    },
+    {
+      "id": "topic-20-animals-wildlife",
+      "title": "Hayvonot olami, qushlar va hasharotlar",
+      "category": "Animals, Birds & Marine Life",
+      "group": "topic",
+      "wordCount": 139,
+      "accentIndex": 8,
+      "files": [
+        "data/decks/topic-20-animals-wildlife.json"
+      ]
+    },
+    {
+      "id": "topic-21-weather-ecology",
+      "title": "Ob-havo, iqlim va ekologiya",
+      "category": "Weather, Climate & Environment",
+      "group": "topic",
+      "wordCount": 126,
+      "accentIndex": 9,
+      "files": [
+        "data/decks/topic-21-weather-ecology.json"
+      ]
+    },
+    {
+      "id": "topic-22-sports-fitness",
+      "title": "Sport turlari va musobaqalar",
+      "category": "Sports, Athletics & Competitions",
+      "group": "topic",
+      "wordCount": 118,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/topic-22-sports-fitness.json"
+      ]
+    },
+    {
+      "id": "topic-23-hobbies-games",
+      "title": "Xobbi, oʻyinlar va dam olish",
+      "category": "Hobbies, Games & Leisure",
+      "group": "topic",
+      "wordCount": 114,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/topic-23-hobbies-games.json"
+      ]
+    },
+    {
+      "id": "topic-24-art-music-cinema",
+      "title": "Sanʼat, musiqa, kino va adabiyot",
+      "category": "Art, Music, Literature & Cinema",
+      "group": "topic",
+      "wordCount": 125,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/topic-24-art-music-cinema.json"
+      ]
+    },
+    {
+      "id": "topic-25-emotions-psychology",
+      "title": "His-tuygʻular, kayfiyat va ruhiyat",
+      "category": "Emotions, Moods & Psychology",
+      "group": "topic",
+      "wordCount": 128,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/topic-25-emotions-psychology.json"
+      ]
+    },
+    {
+      "id": "topic-26-personality-ethics",
+      "title": "Xarakter, fazilatlar va axloq",
+      "category": "Personality, Character & Ethics",
+      "group": "topic",
+      "wordCount": 115,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/topic-26-personality-ethics.json"
+      ]
+    },
+    {
+      "id": "topic-27-politics-state",
+      "title": "Siyosat, davlat va diplomatiya",
+      "category": "Politics, Government & Diplomacy",
+      "group": "topic",
+      "wordCount": 100,
+      "accentIndex": 5,
+      "files": [
+        "data/decks/topic-27-politics-state.json"
+      ]
+    },
+    {
+      "id": "topic-28-law-justice",
+      "title": "Huquq, qonun va adolat",
+      "category": "Law, Courts & Justice",
+      "group": "topic",
+      "wordCount": 114,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/topic-28-law-justice.json"
+      ]
+    },
+    {
+      "id": "topic-29-science-universe",
+      "title": "Ilm-fan, fizika, kimyo va koinot",
+      "category": "Science, Physics, Chemistry & Space",
+      "group": "topic",
+      "wordCount": 102,
+      "accentIndex": 7,
+      "files": [
+        "data/decks/topic-29-science-universe.json"
+      ]
+    },
+    {
+      "id": "topic-30-math-geometry",
+      "title": "Matematika, geometriya va statistika",
+      "category": "Mathematics, Geometry & Logic",
+      "group": "topic",
+      "wordCount": 90,
+      "accentIndex": 8,
+      "files": [
+        "data/decks/topic-30-math-geometry.json"
+      ]
+    },
+    {
+      "id": "topic-31-medicine-clinical",
+      "title": "Tibbiyot, shifoxona va farmatsevtika",
+      "category": "Medicine, Healthcare & Pharmacology",
+      "group": "topic",
+      "wordCount": 81,
+      "accentIndex": 9,
+      "files": [
+        "data/decks/topic-31-medicine-clinical.json"
+      ]
+    },
+    {
+      "id": "topic-32-history-society",
+      "title": "Tarix, sivilizatsiya va madaniyat",
+      "category": "History, Civilization & Culture",
+      "group": "topic",
+      "wordCount": 99,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/topic-32-history-society.json"
+      ]
+    },
+    {
+      "id": "topic-33-idioms-1",
+      "title": "Mashhur inglizcha iboralar (Idioms — 1)",
+      "category": "Common English Idioms 1",
+      "group": "topic",
+      "wordCount": 160,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/topic-33-idioms-1.json"
+      ]
+    },
+    {
+      "id": "topic-34-idioms-2",
+      "title": "Mashhur inglizcha iboralar (Idioms — 2)",
+      "category": "Common English Idioms 2",
+      "group": "topic",
+      "wordCount": 158,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/topic-34-idioms-2.json"
+      ]
+    },
+    {
+      "id": "topic-35-collocations",
+      "title": "Muhim soʻz birikmalari (Collocations)",
+      "category": "Essential English Collocations",
+      "group": "topic",
+      "wordCount": 148,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/topic-35-collocations.json"
+      ]
+    }
+  ]
+}

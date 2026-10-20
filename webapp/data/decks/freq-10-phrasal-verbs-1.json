@@ -1,0 +1,1447 @@
+{
+  "title": "Ibora feʻllar (Phrasal Verbs — 1)",
+  "category": "Common Phrasal Verbs 1",
+  "group": "freq",
+  "words": [
+    {
+      "english": "wake up",
+      "pronunciation_uz": "veyk ap",
+      "uzbek": "uygʻonmoq",
+      "pos": "verb",
+      "example_en": "I usually wake up at six o'clock every morning.",
+      "example_uz": "Men odatda har kuni ertalab soat oltida uygʻonaman.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get up",
+      "pronunciation_uz": "get ap",
+      "uzbek": "oʻrnidan turmoq",
+      "pos": "verb",
+      "example_en": "He got up early to prepare breakfast for the family.",
+      "example_uz": "U oilasi uchun nonushta tayyorlash maqsadida erta turdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "turn on",
+      "pronunciation_uz": "tyorn on",
+      "uzbek": "yoqmoq (chiroq, televizor)",
+      "pos": "verb",
+      "example_en": "Please turn on the desk lamp before you start reading.",
+      "example_uz": "Oʻqishni boshlashdan oldin stol chirogʻini yoqing.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "turn off",
+      "pronunciation_uz": "tyorn of",
+      "uzbek": "oʻchirmoq (chiroq, jihoz)",
+      "pos": "verb",
+      "example_en": "Don't forget to turn off the iron before leaving home.",
+      "example_uz": "Uydan chiqishdan oldin dazmolni oʻchirishni unutmang.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "turn up",
+      "pronunciation_uz": "tyorn ap",
+      "uzbek": "ovozini balandlatmoq, paydo boʻlmoq",
+      "pos": "verb",
+      "example_en": "Could you turn up the radio? I love this song.",
+      "example_uz": "Radioni balandlata olasizmi? Bu qoʻshiq menga juda yoqadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "turn down",
+      "pronunciation_uz": "tyorn daun",
+      "uzbek": "ovozini pasaytirmoq, rad etmoq",
+      "pos": "verb",
+      "example_en": "Please turn down the television while your sister is studying.",
+      "example_uz": "Opangiz dars qilayotgan vaqtda televizor ovozini pasaytiring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "put on",
+      "pronunciation_uz": "put on",
+      "uzbek": "kiymoq, taqmoq",
+      "pos": "verb",
+      "example_en": "Put on your warm coat and gloves before going outside.",
+      "example_uz": "Tashqariga chiqishdan oldin issiq palto va qoʻlqopingizni kiying.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "take off",
+      "pronunciation_uz": "teyk of",
+      "uzbek": "yechmoq (kiyim), havoga koʻtarilmoq (samolyot)",
+      "pos": "verb",
+      "example_en": "Guests always take off their shoes at the door.",
+      "example_uz": "Mehmonlar har doim eshik oldida poyabzallarini yechadilar.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "look for",
+      "pronunciation_uz": "luk for",
+      "uzbek": "qidirmoq, izlamoq",
+      "pos": "verb",
+      "example_en": "I am looking for my glasses; have you seen them?",
+      "example_uz": "Koʻzoynagimni qidiryapman, uni koʻrmadingizmi?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "look after",
+      "pronunciation_uz": "luk after",
+      "uzbek": "gʻamxoʻrlik qilmoq, qarab turmoq",
+      "pos": "verb",
+      "example_en": "My aunt looked after our garden while we were on holiday.",
+      "example_uz": "Biz taʼtilda boʻlganimizda xolam bogʻimizga qarab turdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "look up",
+      "pronunciation_uz": "luk ap",
+      "uzbek": "qidirib topmoq (lugʻatdan)",
+      "pos": "verb",
+      "example_en": "If you do not know a word, look it up in the dictionary.",
+      "example_uz": "Agar biror soʻzni bilmasangiz, uni lugʻatdan qidirib toping.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "look out",
+      "pronunciation_uz": "luk aut",
+      "uzbek": "ehtiyot boʻlmoq, hushyor boʻlmoq",
+      "pos": "verb",
+      "example_en": "Look out! There is a patch of ice on the steps.",
+      "example_uz": "Ehtiyot boʻling! Zinapoyada muzlagan joy bor.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "give up",
+      "pronunciation_uz": "giv ap",
+      "uzbek": "taslim boʻlmoq, tashlamoq (odatni)",
+      "pos": "verb",
+      "example_en": "Never give up on your dreams, even when things are hard.",
+      "example_uz": "Vaziyat qiyin boʻlganda ham orzularingizdan hech qachon voz kechmang.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "give back",
+      "pronunciation_uz": "giv bek",
+      "uzbek": "qaytarib bermoq",
+      "pos": "verb",
+      "example_en": "I must give these books back to the library tomorrow.",
+      "example_uz": "Ertaga bu kitoblarni kutubxonaga qaytarib berishim kerak.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "give away",
+      "pronunciation_uz": "giv evey",
+      "uzbek": "tarqatmoq, tekinga bermoq",
+      "pos": "verb",
+      "example_en": "He gave away his old textbooks to first-year students.",
+      "example_uz": "U eski darsliklarini birinchi kurs talabalariga berib yubordi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "give out",
+      "pronunciation_uz": "giv aut",
+      "uzbek": "tarqatmoq (qoʻlma-qoʻl)",
+      "pos": "verb",
+      "example_en": "The teacher gave out the test papers to the class.",
+      "example_uz": "Oʻqituvchi sinfga test varaqalarini tarqatdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "find out",
+      "pronunciation_uz": "faynd aut",
+      "uzbek": "bilib olmoq, aniqlamoq",
+      "pos": "verb",
+      "example_en": "Can you find out what time the next train leaves?",
+      "example_uz": "Keyingi poyezd soat nechada joʻnashini bilib bera olasizmi?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "figure out",
+      "pronunciation_uz": "figyer aut",
+      "uzbek": "tushunib yetmoq, yechimini topmoq",
+      "pos": "verb",
+      "example_en": "It took us an hour to figure out the math puzzle.",
+      "example_uz": "Matematik boshqotirmaning yechimini topishimiz uchun bir soat vaqt ketdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "work out",
+      "pronunciation_uz": "vyork aut",
+      "uzbek": "mashq qilmoq, hal boʻlmoq",
+      "pos": "verb",
+      "example_en": "He works out at the local gym three times a week.",
+      "example_uz": "U haftasiga uch marta mahalliy sport zalida mashq qiladi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "point out",
+      "pronunciation_uz": "poynt aut",
+      "uzbek": "koʻrsatib oʻtmoq, taʼkidlamoq",
+      "pos": "verb",
+      "example_en": "The guide pointed out the oldest minaret in the city.",
+      "example_uz": "Yoʻlboshchi shahardagi eng qadimiy minorani koʻrsatib oʻtdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pick up",
+      "pronunciation_uz": "pik ap",
+      "uzbek": "yerda yotgan narsani olmoq, mashinada olib ketmoq",
+      "pos": "verb",
+      "example_en": "My father will pick us up from the airport at noon.",
+      "example_uz": "Otam tush payti bizni aeroportdan mashinada olib ketadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "drop off",
+      "pronunciation_uz": "drop of",
+      "uzbek": "eltib qoʻymoq, koʻzi ilinmoq",
+      "pos": "verb",
+      "example_en": "Could you drop me off near the metro station?",
+      "example_uz": "Meni metro bekati yaqinida tushirib qoldira olasizmi?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "set up",
+      "pronunciation_uz": "set ap",
+      "uzbek": "oʻrnatmoq, tashkil etmoq",
+      "pos": "verb",
+      "example_en": "They set up a new language center in our neighborhood.",
+      "example_uz": "Ular mahallamizda yangi til markazini tashkil etishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "set off",
+      "pronunciation_uz": "set of",
+      "uzbek": "yoʻlga chiqmoq",
+      "pos": "verb",
+      "example_en": "The hikers set off at dawn to reach the mountain pass.",
+      "example_uz": "Sayyohlar togʻ dovoniga yetib borish uchun tong saharda yoʻlga chiqishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "set out",
+      "pronunciation_uz": "set aut",
+      "uzbek": "safarga otlanmoq, kirishmoq",
+      "pos": "verb",
+      "example_en": "Explorers set out on a long journey across the desert.",
+      "example_uz": "Tadqiqotchilar sahro boʻylab uzoq safarga otlanishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "bring up",
+      "pronunciation_uz": "bring ap",
+      "uzbek": "voyaga yetkazmoq, mavzu koʻtarmoq",
+      "pos": "verb",
+      "example_en": "Her grandparents brought her up in a peaceful village.",
+      "example_uz": "Buva va buvisi uni osoyishta qishloqda tarbiyalab voyaga yetkazishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "grow up",
+      "pronunciation_uz": "grou ap",
+      "uzbek": "ulgʻaymoq, katta boʻlmoq",
+      "pos": "verb",
+      "example_en": "What do you want to be when you grow up?",
+      "example_uz": "Katta boʻlganingda kim boʻlishni xohlaysan?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "hurry up",
+      "pronunciation_uz": "hari ap",
+      "uzbek": "shoshilmoq, tezroq boʻlmoq",
+      "pos": "verb",
+      "example_en": "Hurry up, or we will miss the beginning of the concert!",
+      "example_uz": "Tezroq boʻling, aks holda konsertning boshiga kechikamiz!",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "slow down",
+      "pronunciation_uz": "slou daun",
+      "uzbek": "sekinlashmoq, tezlikni pasaytirmoq",
+      "pos": "verb",
+      "example_en": "Drivers must slow down when passing near a school.",
+      "example_uz": "Haydovchilar maktab yaqinidan oʻtayotganda tezlikni pasaytirishlari shart.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "calm down",
+      "pronunciation_uz": "kam daun",
+      "uzbek": "tinchlanmoq, oʻzini bosmoq",
+      "pos": "verb",
+      "example_en": "Take a deep breath and calm down before speaking.",
+      "example_uz": "Gapirishdan oldin chuqur nafas oling va tinchlaning.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "sit down",
+      "pronunciation_uz": "sit daun",
+      "uzbek": "oʻtirmoq",
+      "pos": "verb",
+      "example_en": "Please come in and sit down by the warm fireplace.",
+      "example_uz": "Iltimos, ichkariga kiring va issiq kamin yoniga oʻtiring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "stand up",
+      "pronunciation_uz": "stend ap",
+      "uzbek": "oʻrnidan turmoq",
+      "pos": "verb",
+      "example_en": "The students stood up politely when the teacher entered.",
+      "example_uz": "Oʻqituvchi kirib kelganida oʻquvchilar hurmat bilan oʻrinlaridan turishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "lie down",
+      "pronunciation_uz": "lay daun",
+      "uzbek": "yotmoq, choʻzilmoq",
+      "pos": "verb",
+      "example_en": "He decided to lie down on the sofa for a short rest.",
+      "example_uz": "U qisqa dam olish uchun divanga choʻzilishga qaror qildi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "go on",
+      "pronunciation_uz": "gou on",
+      "uzbek": "davom etmoq, sodir boʻlmoq",
+      "pos": "verb",
+      "example_en": "Please go on with your story; we are all listening.",
+      "example_uz": "Iltimos, hikoyangizni davom ettiring, hammamiz tinglayapmiz.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "carry on",
+      "pronunciation_uz": "keri on",
+      "uzbek": "davom ettirmoq",
+      "pos": "verb",
+      "example_en": "Despite the light rain, the farmers carried on working.",
+      "example_uz": "Yengil yomgʻirga qaramay, dehqonlar ishni davom ettirdilar.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "keep on",
+      "pronunciation_uz": "kip on",
+      "uzbek": "toʻxtovsiz davom ettirmoq",
+      "pos": "verb",
+      "example_en": "If you keep on practicing every day, you will succeed.",
+      "example_uz": "Agar har kuni mashq qilishni davom ettirsangiz, muvaffaqiyatga erishasiz.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "hold on",
+      "pronunciation_uz": "hould on",
+      "uzbek": "kutib turmoq, mahkam ushlamoq",
+      "pos": "verb",
+      "example_en": "Hold on a minute while I fetch my coat and keys.",
+      "example_uz": "Paltom va kalitlarimni olib chiqqunimcha bir daqiqa kutib turing.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "hang on",
+      "pronunciation_uz": "heng on",
+      "uzbek": "kutib turmoq (telefonda yoki suhbatda)",
+      "pos": "verb",
+      "example_en": "Hang on a second, I will check if the manager is in.",
+      "example_uz": "Bir soniya kutib turing, menejer joyidami-yoʻqmi tekshirib koʻraman.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "come in",
+      "pronunciation_uz": "kam in",
+      "uzbek": "ichkariga kirmoq",
+      "pos": "verb",
+      "example_en": "Knock on the door and wait until someone says come in.",
+      "example_uz": "Eshikni taqillating va kimdir kiring deguncha kuting.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "come back",
+      "pronunciation_uz": "kam bek",
+      "uzbek": "qaytib kelmoq",
+      "pos": "verb",
+      "example_en": "When will your brother come back from his business trip?",
+      "example_uz": "Akangiz xizmat safaridan qachon qaytib keladi?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "go back",
+      "pronunciation_uz": "gou bek",
+      "uzbek": "qaytib bormoq",
+      "pos": "verb",
+      "example_en": "He forgot his wallet and had to go back home.",
+      "example_uz": "U hamyonini unutib qoldirib, uyga qaytib borishga majbur boʻldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get back",
+      "pronunciation_uz": "get bek",
+      "uzbek": "qaytib kelmoq, qaytarib olmoq",
+      "pos": "verb",
+      "example_en": "We got back from our mountain hike just before dark.",
+      "example_uz": "Biz togʻ sayridan qorongʻi tushishidan sal oldin qaytib keldik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "come out",
+      "pronunciation_uz": "kam aut",
+      "uzbek": "chiqmoq, nashrdan chiqmoq",
+      "pos": "verb",
+      "example_en": "Her new book of poems will come out next month.",
+      "example_uz": "Uning yangi sheʼriy kitobi kelasi oyda nashrdan chiqadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "go out",
+      "pronunciation_uz": "gou aut",
+      "uzbek": "tashqariga chiqmoq, oʻchmoq (olov)",
+      "pos": "verb",
+      "example_en": "The campfire went out during the night because of the rain.",
+      "example_uz": "Yomgʻir tufayli gulxan kechasi oʻchib qoldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "eat out",
+      "pronunciation_uz": "it aut",
+      "uzbek": "uydan tashqarida (restoranda) ovqatlanmoq",
+      "pos": "verb",
+      "example_en": "On special occasions, our family likes to eat out together.",
+      "example_uz": "Bayram kunlari oilamiz birgalikda restoranda ovqatlanishni yoqtiradi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "check in",
+      "pronunciation_uz": "chek in",
+      "uzbek": "roʻyxatdan oʻtmoq (mehmonxona, aeroport)",
+      "pos": "verb",
+      "example_en": "Passengers should check in at least two hours before the flight.",
+      "example_uz": "Yoʻlovchilar parvozdan kamida ikki soat oldin roʻyxatdan oʻtishlari kerak.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "check out",
+      "pronunciation_uz": "chek aut",
+      "uzbek": "mehmonxonadan chiqmoq, tekshirib koʻrmoq",
+      "pos": "verb",
+      "example_en": "We have to check out of the hotel before twelve noon.",
+      "example_uz": "Tushlik vaqti soat oʻn ikkigacha mehmonxonani topshirib chiqishimiz kerak.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "fill in",
+      "pronunciation_uz": "fil in",
+      "uzbek": "toʻldirmoq (anketa, blanka)",
+      "pos": "verb",
+      "example_en": "Please fill in this registration form with a blue pen.",
+      "example_uz": "Iltimos, ushbu roʻyxatdan oʻtish shaklini koʻk ruchka bilan toʻldiring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "fill out",
+      "pronunciation_uz": "fil aut",
+      "uzbek": "toʻliq toʻldirmoq (soʻrovnoma)",
+      "pos": "verb",
+      "example_en": "Applicants must fill out the online questionnaire carefully.",
+      "example_uz": "Talabgorlar onlayn soʻrovnomani diqqat bilan toʻldirishlari shart.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "fill up",
+      "pronunciation_uz": "fil ap",
+      "uzbek": "toʻldirmoq (bakni, idishni)",
+      "pos": "verb",
+      "example_en": "He stopped at the gas station to fill up the tank.",
+      "example_uz": "U yoqilgʻi bakini toʻldirish uchun shoxobchada toʻxtadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "write down",
+      "pronunciation_uz": "rayt daun",
+      "uzbek": "yozib olmoq",
+      "pos": "verb",
+      "example_en": "Write down the phone number so that you do not forget it.",
+      "example_uz": "Telefon raqamini unutib qoʻymaslik uchun yozib oling.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "note down",
+      "pronunciation_uz": "nout daun",
+      "uzbek": "qayd qilib olmoq",
+      "pos": "verb",
+      "example_en": "Students noted down the key dates from the history lecture.",
+      "example_uz": "Talabalar tarix maʼruzasidagi asosiy sanalarni qayd qilib olishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "put down",
+      "pronunciation_uz": "put daun",
+      "uzbek": "yerga qoʻymoq, yozib qoʻymoq",
+      "pos": "verb",
+      "example_en": "He put down the heavy suitcase and wiped his forehead.",
+      "example_uz": "U ogʻir chamadonni yerga qoʻydi va peshonasini artdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "put away",
+      "pronunciation_uz": "put evey",
+      "uzbek": "joyiga yigʻishtirib qoʻymoq",
+      "pos": "verb",
+      "example_en": "Tell the children to put away their toys before dinner.",
+      "example_uz": "Bolalarga kechki ovqatdan oldin oʻyinchoqlarini joyiga yigʻishtirib qoʻyishni ayting.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "put off",
+      "pronunciation_uz": "put of",
+      "uzbek": "keyinga qoldirmoq, kechiktirmoq",
+      "pos": "verb",
+      "example_en": "Never put off until tomorrow what you can do today.",
+      "example_uz": "Bugun qilishingiz mumkin boʻlgan ishni hech qachon ertaga qoldirmang.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "put out",
+      "pronunciation_uz": "put aut",
+      "uzbek": "oʻchirmoq (olov, yongʻin)",
+      "pos": "verb",
+      "example_en": "Firefighters worked quickly to put out the warehouse fire.",
+      "example_uz": "Oʻt oʻchiruvchilar omborxonadagi yongʻinni oʻchirish uchun tez ishladilar.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "put up",
+      "pronunciation_uz": "put ap",
+      "uzbek": "qurmoq (chodir), osmoq, koʻtarmoq",
+      "pos": "verb",
+      "example_en": "We put up our tent beside a clear mountain stream.",
+      "example_uz": "Biz tiniq togʻ soyi boʻyida chodirimizni tikdik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "take down",
+      "pronunciation_uz": "teyk daun",
+      "uzbek": "yechib olmoq (devordan), yozib olmoq",
+      "pos": "verb",
+      "example_en": "They took down the festive decorations after the holiday.",
+      "example_uz": "Bayramdan keyin ular bayram bezaklarini yechib olishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "take out",
+      "pronunciation_uz": "teyk aut",
+      "uzbek": "olib chiqmoq, chiqarib olmoq",
+      "pos": "verb",
+      "example_en": "It is your turn to take out the garbage tonight.",
+      "example_uz": "Bugun kechqurun axlatni olib chiqish sening navbating.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "take up",
+      "pronunciation_uz": "teyk ap",
+      "uzbek": "shugʻullanishni boshlamoq (hobbi), joy egallamoq",
+      "pos": "verb",
+      "example_en": "My grandfather took up gardening after he retired.",
+      "example_uz": "Bobom nafaqaga chiqqanidan keyin bogʻdorchilik bilan shugʻullana boshladi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "take over",
+      "pronunciation_uz": "teyk ouver",
+      "uzbek": "boshqaruvni qoʻlga olmoq",
+      "pos": "verb",
+      "example_en": "Her daughter will take over the family bakery next year.",
+      "example_uz": "Kelasi yili uning qizi oilaviy novvoyxona boshqaruvini qoʻlga oladi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "take after",
+      "pronunciation_uz": "teyk after",
+      "uzbek": "oʻxshamoq (ota-onasiga)",
+      "pos": "verb",
+      "example_en": "The boy really takes after his father in character.",
+      "example_uz": "Bola feʼl-atvori jihatidan otasiga juda oʻxshaydi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "take back",
+      "pronunciation_uz": "teyk bek",
+      "uzbek": "qaytarib olmoq, qaytarib eltmoq",
+      "pos": "verb",
+      "example_en": "I had to take the shirt back to the shop because it was too small.",
+      "example_uz": "Koʻylak kichiklik qilgani uchun uni doʻkonga qaytarib olib borishga majbur boʻldim.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "throw away",
+      "pronunciation_uz": "srou evey",
+      "uzbek": "tashlab yubormoq",
+      "pos": "verb",
+      "example_en": "Do not throw away glass jars; we can reuse them.",
+      "example_uz": "Shisha bankalarni tashlab yubormang, ularni qayta ishlatishimiz mumkin.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "clean up",
+      "pronunciation_uz": "klin ap",
+      "uzbek": "tozalamoq, yigʻishtirmoq",
+      "pos": "verb",
+      "example_en": "Volunteers helped clean up the park after the festival.",
+      "example_uz": "Koʻngillilar festivaldan soʻng bogʻni tozalashga yordam berishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "tidy up",
+      "pronunciation_uz": "taydi ap",
+      "uzbek": "tartibga keltirmoq, yigʻishtirmoq",
+      "pos": "verb",
+      "example_en": "Please tidy up your desk before you leave the office.",
+      "example_uz": "Ofisdan ketishdan oldin ish stolingizni tartibga keltiring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "wash up",
+      "pronunciation_uz": "vosh ap",
+      "uzbek": "idish-tovoqlarni yuvmoq, yuvinmoq",
+      "pos": "verb",
+      "example_en": "I will help my mother wash up after the guests leave.",
+      "example_uz": "Mehmonlar ketganidan keyin onamga idish-tovoqlarni yuvishda yordam beraman.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "dry up",
+      "pronunciation_uz": "dray ap",
+      "uzbek": "qurib qolmoq",
+      "pos": "verb",
+      "example_en": "Small streams often dry up during the hot August weather.",
+      "example_uz": "Avgustning issiq havosida kichik soylar koʻpincha qurib qoladi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "heat up",
+      "pronunciation_uz": "hit ap",
+      "uzbek": "isitmoq (ovqatni)",
+      "pos": "verb",
+      "example_en": "She heated up some leftover soup for a quick lunch.",
+      "example_uz": "U tezda tushlik qilish uchun ortib qolgan shoʻrvani isitdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "warm up",
+      "pronunciation_uz": "vorm ap",
+      "uzbek": "isinmoq, chigal yozdi mashq qilmoq",
+      "pos": "verb",
+      "example_en": "Athletes always warm up for fifteen minutes before a race.",
+      "example_uz": "Sportchilar musobaqa oldidan har doim oʻn besh daqiqa chigal yozdi mashqlarini bajaradilar.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "cool down",
+      "pronunciation_uz": "kul daun",
+      "uzbek": "sovimoq, salqinlashmoq",
+      "pos": "verb",
+      "example_en": "Wait for the engine to cool down before checking the oil.",
+      "example_uz": "Moyni tekshirishdan oldin dvigatel sovishini kuting.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "break down",
+      "pronunciation_uz": "breyk daun",
+      "uzbek": "buzilib qolmoq (mashina, texnika)",
+      "pos": "verb",
+      "example_en": "Our bus broke down on the way to the mountain resort.",
+      "example_uz": "Togʻ oromgohiga ketayotganimizda avtobusimiz buzilib qoldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "break in",
+      "pronunciation_uz": "breyk in",
+      "uzbek": "bostirib kirmoq (oʻgʻri)",
+      "pos": "verb",
+      "example_en": "A thief tried to break in through the back window.",
+      "example_uz": "Oʻgʻri orqa deraza orqali ichkariga kirishga urindi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "break out",
+      "pronunciation_uz": "breyk aut",
+      "uzbek": "toʻsatdan boshlanmoq (yongʻin, urush)",
+      "pos": "verb",
+      "example_en": "A small fire broke out in the kitchen, but we put it out fast.",
+      "example_uz": "Oshxonada kichik yongʻin chiqdi, ammo biz uni tezda oʻchirdik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "break up",
+      "pronunciation_uz": "breyk ap",
+      "uzbek": "ajralishmoq, tarqalmoq (majlis, darslar)",
+      "pos": "verb",
+      "example_en": "Schools break up for the summer holidays at the end of May.",
+      "example_uz": "Maktablar may oyining oxirida yozgi taʼtilga chiqadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "call back",
+      "pronunciation_uz": "kol bek",
+      "uzbek": "qayta qoʻngʻiroq qilmoq",
+      "pos": "verb",
+      "example_en": "He is in a meeting right now; can he call you back later?",
+      "example_uz": "U hozir yigʻilishda, sizga keyinroq qayta qoʻngʻiroq qilsa boʻladimi?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "call off",
+      "pronunciation_uz": "kol of",
+      "uzbek": "bekor qilmoq",
+      "pos": "verb",
+      "example_en": "The referee had to call off the match because of heavy snow.",
+      "example_uz": "Qalin qor tufayli hakam oʻyinni bekor qilishga majbur boʻldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pay back",
+      "pronunciation_uz": "pey bek",
+      "uzbek": "qarzni qaytarmoq",
+      "pos": "verb",
+      "example_en": "He promised to pay back the borrowed money next Friday.",
+      "example_uz": "U olgan qarzini kelasi juma kuni qaytarishga vaʼda berdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pay off",
+      "pronunciation_uz": "pey of",
+      "uzbek": "qarzdan toʻliq uzilmoq, mevasini bermoq",
+      "pos": "verb",
+      "example_en": "All her hard work paid off when she passed the exam.",
+      "example_uz": "Imtihondan oʻtganida uning barcha mashaqqatli mehnati oʻz mevasini berdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "save up",
+      "pronunciation_uz": "seyv ap",
+      "uzbek": "pul yigʻmoq, jamgʻarmoq",
+      "pos": "verb",
+      "example_en": "He is saving up to buy a new mountain bicycle.",
+      "example_uz": "U yangi togʻ velosipedini sotib olish uchun pul yigʻyapti.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "sell out",
+      "pronunciation_uz": "sel aut",
+      "uzbek": "sotilib tugamoq",
+      "pos": "verb",
+      "example_en": "Tickets for the final match sold out within two hours.",
+      "example_uz": "Final uchrashuvi chiptalari ikki soat ichida sotilib tugadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "hand in",
+      "pronunciation_uz": "hend in",
+      "uzbek": "topshirmoq (vazifa, ariza)",
+      "pos": "verb",
+      "example_en": "All students must hand in their essays by Wednesday.",
+      "example_uz": "Barcha talabalar insholarini chorshanba kunigacha topshirishlari shart.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "hand out",
+      "pronunciation_uz": "hend aut",
+      "uzbek": "tarqatmoq",
+      "pos": "verb",
+      "example_en": "The usher handed out programs at the theater entrance.",
+      "example_uz": "Teatr kirish joyida xodim dasturlarni tarqatdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "try on",
+      "pronunciation_uz": "tray on",
+      "uzbek": "kiyib koʻrmoq (oʻlchab koʻrmoq)",
+      "pos": "verb",
+      "example_en": "Can I try on this blue jacket in the fitting room?",
+      "example_uz": "Ushbu koʻk kurtkani kiyinib koʻrish xonasida kiyib koʻrsam maylimi?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "try out",
+      "pronunciation_uz": "tray aut",
+      "uzbek": "sinab koʻrmoq",
+      "pos": "verb",
+      "example_en": "We tried out a new recipe for apple pie yesterday.",
+      "example_uz": "Kecha biz olmali pirogning yangi retseptini sinab koʻrdik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "dress up",
+      "pronunciation_uz": "dres ap",
+      "uzbek": "yasatib kiyinmoq, bayramona kiyinmoq",
+      "pos": "verb",
+      "example_en": "Everyone dressed up in their finest clothes for the wedding.",
+      "example_uz": "Toʻy uchun hamma eng chiroyli kiyimlarini kiyib yasandi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "wear out",
+      "pronunciation_uz": "ver aut",
+      "uzbek": "toʻzimoq, eskirib ketmoq",
+      "pos": "verb",
+      "example_en": "Children's shoes wear out quickly because they run a lot.",
+      "example_uz": "Bolalar koʻp yugurgani uchun ularning poyabzallari tez toʻziydi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "hang up",
+      "pronunciation_uz": "heng ap",
+      "uzbek": "osib qoʻymoq (kiyim), goʻshakni qoʻymoq",
+      "pos": "verb",
+      "example_en": "Hang up your coat in the wardrobe when you come home.",
+      "example_uz": "Uyga kelganingizda paltongizni shkafga osib qoʻying.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "switch on",
+      "pronunciation_uz": "svich on",
+      "uzbek": "yoqmoq (tugma orqali)",
+      "pos": "verb",
+      "example_en": "He switched on the kettle to make some hot tea.",
+      "example_uz": "U issiq choy damlash uchun elektr choynakni yoqdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "switch off",
+      "pronunciation_uz": "svich of",
+      "uzbek": "oʻchirmoq (tugma orqali)",
+      "pos": "verb",
+      "example_en": "Please switch off your mobile phones during the concert.",
+      "example_uz": "Iltimos, konsert davomida mobil telefonlaringizni oʻchirib qoʻying.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "plug in",
+      "pronunciation_uz": "plag in",
+      "uzbek": "rozetkaga ulamoq",
+      "pos": "verb",
+      "example_en": "The vacuum cleaner won't work unless you plug it in.",
+      "example_uz": "Changyutgichni rozetkaga ulamasangiz, u ishlamaydi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "log in",
+      "pronunciation_uz": "log in",
+      "uzbek": "tizimga kirmoq (parol bilan)",
+      "pos": "verb",
+      "example_en": "Enter your username and password to log in to the portal.",
+      "example_uz": "Portalga kirish uchun foydalanuvchi nomi va parolingizni kiriting.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "log out",
+      "pronunciation_uz": "log aut",
+      "uzbek": "tizimdan chiqmoq",
+      "pos": "verb",
+      "example_en": "Always remember to log out when using a public computer.",
+      "example_uz": "Umumiy kompyuterdan foydalanganda tizimdan chiqishni har doim yodda tuting.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "sign up",
+      "pronunciation_uz": "sayn ap",
+      "uzbek": "roʻyxatdan oʻtmoq, yozilmoq (kursga)",
+      "pos": "verb",
+      "example_en": "Over fifty students signed up for the chess tournament.",
+      "example_uz": "Shaxmat turniriga ellikdan ortiq oʻquvchi yozildi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "sign in",
+      "pronunciation_uz": "sayn in",
+      "uzbek": "kirishda roʻyxatdan oʻtmoq",
+      "pos": "verb",
+      "example_en": "Visitors must sign in at the security desk downstairs.",
+      "example_uz": "Tashrif buyuruvchilar pastki qavatdagi qoʻriqlash postida roʻyxatdan oʻtishlari shart.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "back up",
+      "pronunciation_uz": "bek ap",
+      "uzbek": "qoʻllab-quvvatlamoq, zaxira nusxa olmoq",
+      "pos": "verb",
+      "example_en": "Make sure you back up your important files every week.",
+      "example_uz": "Har hafta muhim fayllaringizning zaxira nusxasini olishni unutmang.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "print out",
+      "pronunciation_uz": "print aut",
+      "uzbek": "chop etmoq (qogʻozga chiqarmoq)",
+      "pos": "verb",
+      "example_en": "I need to print out two copies of my train ticket.",
+      "example_uz": "Poyezd chiptamni ikki nusxada qogʻozga chiqarib olishim kerak.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "cross out",
+      "pronunciation_uz": "kros aut",
+      "uzbek": "ustidan chizib oʻchirmoq",
+      "pos": "verb",
+      "example_en": "If you make a mistake, just cross it out neatly.",
+      "example_uz": "Agar xato qilsangiz, uning ustidan tartibli chizib qoʻying.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "rub out",
+      "pronunciation_uz": "rab aut",
+      "uzbek": "oʻchirgʻich bilan oʻchirmoq",
+      "pos": "verb",
+      "example_en": "He rubbed out the wrong pencil line with an eraser.",
+      "example_uz": "U notoʻgʻri chizilgan qalam chizigʻini oʻchirgʻich bilan oʻchirdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "tear up",
+      "pronunciation_uz": "ter ap",
+      "uzbek": "yirtib tashlamoq (mayda-mayda qilib)",
+      "pos": "verb",
+      "example_en": "She tore up the old draft and started writing a new letter.",
+      "example_uz": "U eski qoralamani yirtib tashladi va yangi xat yoza boshladi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "blow up",
+      "pronunciation_uz": "blou ap",
+      "uzbek": "puflab shishirmoq (shar), portlamoq",
+      "pos": "verb",
+      "example_en": "The children helped blow up balloons for the birthday party.",
+      "example_uz": "Bolalar tugʻilgan kun bazmi uchun sharlarni shishirishga yordam berishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "blow out",
+      "pronunciation_uz": "blou aut",
+      "uzbek": "puflab oʻchirmoq (shamni)",
+      "pos": "verb",
+      "example_en": "The little boy blew out all seven candles on his cake.",
+      "example_uz": "Kichkina bola tort ustidagi yettita shamning hammasini puflab oʻchirdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "cut off",
+      "pronunciation_uz": "kat of",
+      "uzbek": "kesib tashlamoq, uzib qoʻymoq (elektr, aloqa)",
+      "pos": "verb",
+      "example_en": "The heavy snowstorm cut off the mountain village for two days.",
+      "example_uz": "Kuchli qor boʻroni togʻ qishlogʻini ikki kunga tashqi dunyodan uzib qoʻydi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "cut up",
+      "pronunciation_uz": "kat ap",
+      "uzbek": "mayda boʻlaklarga kesmoq",
+      "pos": "verb",
+      "example_en": "Cut up the meat and carrots into small pieces for the soup.",
+      "example_uz": "Shoʻrva uchun goʻsht va sabzini kichik boʻlaklarga toʻgʻrang.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "cut down",
+      "pronunciation_uz": "kat daun",
+      "uzbek": "kesib yiqitmoq (daraxt), kamaytirmoq",
+      "pos": "verb",
+      "example_en": "We should plant more trees instead of cutting them down.",
+      "example_uz": "Daraxtlarni kesish oʻrniga koʻproq koʻchat ekishimiz kerak.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "chop down",
+      "pronunciation_uz": "chop daun",
+      "uzbek": "chopib yiqitmoq (daraxt)",
+      "pos": "verb",
+      "example_en": "He chopped down the dead apple tree in the corner of the orchard.",
+      "example_uz": "U bogʻ burchagidagi qurib qolgan olma daraxtini chopib tashladi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pull down",
+      "pronunciation_uz": "pul daun",
+      "uzbek": "buzib tashlamoq (eski binoni)",
+      "pos": "verb",
+      "example_en": "Workers pulled down the old warehouse to build a school.",
+      "example_uz": "Ishchilar maktab qurish uchun eski omborxonani buzib tashlashdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pull up",
+      "pronunciation_uz": "pul ap",
+      "uzbek": "sugʻurib olmoq, kelib toʻxtamoq (mashina)",
+      "pos": "verb",
+      "example_en": "A yellow taxi pulled up right in front of the hotel.",
+      "example_uz": "Sariq taksi mehmonxonaning shundoqqina oldiga kelib toʻxtadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pull out",
+      "pronunciation_uz": "pul out",
+      "uzbek": "sugʻurib olmoq, joʻnab ketmoq (poyezd)",
+      "pos": "verb",
+      "example_en": "The express train pulled out of the station right on time.",
+      "example_uz": "Tezyurar poyezd vokzaldan oʻz vaqtida joʻnab ketdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "push in",
+      "pronunciation_uz": "push in",
+      "uzbek": "navbatsiz suqilib kirmoq",
+      "pos": "verb",
+      "example_en": "Wait your turn in the queue and do not push in.",
+      "example_uz": "Navbatda oʻz oʻrningizni kuting va navbatsiz suqilib kirmang.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get on",
+      "pronunciation_uz": "get on",
+      "uzbek": "minmoq (avtobus, poyezd, otga)",
+      "pos": "verb",
+      "example_en": "We got on the number five bus near the central market.",
+      "example_uz": "Biz markaziy bozor yaqinida beshinchi avtobusga chiqdik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get off",
+      "pronunciation_uz": "get of",
+      "uzbek": "tushmoq (avtobus, poyezd, otdan)",
+      "pos": "verb",
+      "example_en": "Remember to get off the metro at the third station.",
+      "example_uz": "Uchinchi bekatda metrodan tushishni yodda tuting.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get in",
+      "pronunciation_uz": "get in",
+      "uzbek": "mashinaga oʻtirmoq, yetib kelmoq",
+      "pos": "verb",
+      "example_en": "She opened the car door and got in quickly out of the rain.",
+      "example_uz": "U mashina eshigini ochdi-da, yomgʻirdan qochib tezda ichkariga oʻtirdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get out",
+      "pronunciation_uz": "get aut",
+      "uzbek": "mashinadan (yoki xonadan) chiqmoq",
+      "pos": "verb",
+      "example_en": "The driver waited until all the passengers got out safely.",
+      "example_uz": "Haydovchi barcha yoʻlovchilar xavfsiz tushib olguncha kutib turdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get away",
+      "pronunciation_uz": "get evey",
+      "uzbek": "qochib qutulmoq, taʼtilga chiqmoq",
+      "pos": "verb",
+      "example_en": "We hope to get away to the mountains for a few days.",
+      "example_uz": "Bir necha kunga togʻlarga dam olishga chiqishga umid qilyapmiz.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "run away",
+      "pronunciation_uz": "ran evey",
+      "uzbek": "qochib ketmoq",
+      "pos": "verb",
+      "example_en": "The frightened rabbit ran away into the bushes.",
+      "example_uz": "Qoʻrqib ketgan quyon butalar orasiga qochib ketdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "drive away",
+      "pronunciation_uz": "drayv evey",
+      "uzbek": "mashinada joʻnab ketmoq",
+      "pos": "verb",
+      "example_en": "He waved goodbye through the window and drove away.",
+      "example_uz": "U derazadan xayrlashib qoʻl silkidi va mashinada joʻnab ketdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "walk away",
+      "pronunciation_uz": "vok evey",
+      "uzbek": "ketib qolmoq, uzoqlashmoq",
+      "pos": "verb",
+      "example_en": "It is better to walk away from a pointless argument.",
+      "example_uz": "Befoyda tortishuvdan koʻra u yerdan ketib qolgan maʼqul.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pass by",
+      "pronunciation_uz": "pas bay",
+      "uzbek": "yonidan oʻtib ketmoq",
+      "pos": "verb",
+      "example_en": "I wave to my neighbor whenever I pass by his house.",
+      "example_uz": "Qoʻshnimning uyi yonidan har safar oʻtganimda unga qoʻl silkiyman.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pass out",
+      "pronunciation_uz": "pas aut",
+      "uzbek": "hushidan ketmoq, tarqatmoq",
+      "pos": "verb",
+      "example_en": "The room was so hot that one spectator nearly passed out.",
+      "example_uz": "Xona shu qadar issiq ediki, bir tomoshabin deyarli hushidan ketay dedi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "pass away",
+      "pronunciation_uz": "pas evey",
+      "uzbek": "vafot etmoq, olamdan oʻtmoq",
+      "pos": "verb",
+      "example_en": "The famous poet passed away peacefully at the age of ninety.",
+      "example_uz": "Mashhur shoir toʻqson yoshida tinchgina olamdan oʻtdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "die out",
+      "pronunciation_uz": "day aut",
+      "uzbek": "qirilib ketmoq, yoʻqolib ketmoq",
+      "pos": "verb",
+      "example_en": "Dinosaurs died out millions of years ago.",
+      "example_uz": "Dinozavrlar millionlab yillar oldin qirilib ketgan.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "leave out",
+      "pronunciation_uz": "liv aut",
+      "uzbek": "tushirib qoldirmoq",
+      "pos": "verb",
+      "example_en": "Check the guest list to make sure we did not leave anyone out.",
+      "example_uz": "Hech kimni tushirib qoldirmaganimizga ishonch hosil qilish uchun mehmonlar roʻyxatini tekshiring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "stay up",
+      "pronunciation_uz": "stey ap",
+      "uzbek": "uxlamay bedor oʻtirmoq",
+      "pos": "verb",
+      "example_en": "He stayed up late to finish reading the exciting novel.",
+      "example_uz": "U qiziqarli romanni oʻqib tugatish uchun kechgacha uxlamay oʻtirdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "stay in",
+      "pronunciation_uz": "stey in",
+      "uzbek": "uyda qolmoq",
+      "pos": "verb",
+      "example_en": "Let us stay in tonight and watch a good documentary.",
+      "example_uz": "Keling, bugun kechqurun uyda qolib, yaxshi hujjatli film koʻraylik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "stay out",
+      "pronunciation_uz": "stey aut",
+      "uzbek": "koʻchada (tashqarida) qolmoq",
+      "pos": "verb",
+      "example_en": "His parents told him not to stay out after nine o'clock.",
+      "example_uz": "Ota-onasi unga soat toʻqqizdan keyin koʻchada qolmaslikni aytishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "move in",
+      "pronunciation_uz": "muv in",
+      "uzbek": "yangi uyga koʻchib kirmoq",
+      "pos": "verb",
+      "example_en": "The new tenants will move in on the first of the month.",
+      "example_uz": "Yangi ijarachilar oyning birinchi kunida koʻchib kirishadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "move out",
+      "pronunciation_uz": "muv aut",
+      "uzbek": "eski uydan koʻchib ketmoq",
+      "pos": "verb",
+      "example_en": "They packed all their furniture and moved out yesterday.",
+      "example_uz": "Ular barcha mebellarini yigʻishtirib, kecha koʻchib ketishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "settle down",
+      "pronunciation_uz": "setl daun",
+      "uzbek": "oʻrnashib olmoq, tinchlanmoq",
+      "pos": "verb",
+      "example_en": "After traveling for years, he decided to settle down in Bukhara.",
+      "example_uz": "Yillar davomida sayohat qilgach, u Buxoroda muqim oʻrnashishga qaror qildi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "show up",
+      "pronunciation_uz": "shou ap",
+      "uzbek": "kelmoq, paydo boʻlmoq",
+      "pos": "verb",
+      "example_en": "Nearly everyone we invited showed up at the party.",
+      "example_uz": "Biz taklif qilgan deyarli hamma bazmga keldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "show off",
+      "pronunciation_uz": "shou of",
+      "uzbek": "maqtanmoq, koʻz-koʻz qilmoq",
+      "pos": "verb",
+      "example_en": "The boy wanted to show off his new skateboard to his friends.",
+      "example_uz": "Bola yangi skeytbordini doʻstlariga koʻz-koʻz qilishni xohladi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "make up",
+      "pronunciation_uz": "meyk ap",
+      "uzbek": "toʻqib chiqarmoq, yarashib olmoq, tashkil etmoq",
+      "pos": "verb",
+      "example_en": "The two brothers argued briefly but soon made up.",
+      "example_uz": "Ikki aka-uka qisqa tortishib qolishdi, lekin tezda yarashib olishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "cheer up",
+      "pronunciation_uz": "chir ap",
+      "uzbek": "kayfiyatini koʻtarmoq, xursand boʻlmoq",
+      "pos": "verb",
+      "example_en": "We brought her a bouquet of tulips to cheer her up.",
+      "example_uz": "Uning kayfiyatini koʻtarish uchun bir dasta lola olib keldik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "end up",
+      "pronunciation_uz": "end ap",
+      "uzbek": "oxir-oqibat biror holga tushmoq yoki bormoq",
+      "pos": "verb",
+      "example_en": "We took a wrong turn and ended up in a small village.",
+      "example_uz": "Biz notoʻgʻri burilib, oxir-oqibat kichik bir qishloqqa borib qoldik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "open up",
+      "pronunciation_uz": "oupen ap",
+      "uzbek": "koʻnglini ochmoq, ochilmoq",
+      "pos": "verb",
+      "example_en": "It took him a while to open up to his new classmates.",
+      "example_uz": "U yangi sinfdoshlariga koʻnikib koʻnglini ochishi uchun biroz vaqt kerak boʻldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "shut up",
+      "pronunciation_uz": "shat ap",
+      "uzbek": "jim boʻlmoq, mahkam yopmoq",
+      "pos": "verb",
+      "example_en": "They shut up the summer house before returning to the city.",
+      "example_uz": "Ular shaharga qaytishdan oldin dala hovlini mahkam yopib ketishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "speak up",
+      "pronunciation_uz": "spik ap",
+      "uzbek": "balandroq gapirmoq",
+      "pos": "verb",
+      "example_en": "Please speak up so that the people in the back can hear.",
+      "example_uz": "Orqa qatordagi odamlar eshitishi uchun balandroq gapiring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "read out",
+      "pronunciation_uz": "rid aut",
+      "uzbek": "ovoz chiqarib oʻqimoq",
+      "pos": "verb",
+      "example_en": "The teacher read out the names of the prize winners.",
+      "example_uz": "Oʻqituvchi mukofot gʻoliblarining ismlarini ovoz chiqarib oʻqidi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "think over",
+      "pronunciation_uz": "sink ouver",
+      "uzbek": "yaxshilab oʻylab koʻrmoq",
+      "pos": "verb",
+      "example_en": "Take a few days to think over the job offer.",
+      "example_uz": "Ish taklifini yaxshilab oʻylab koʻrish uchun bir necha kun vaqt oling.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "talk over",
+      "pronunciation_uz": "tok ouver",
+      "uzbek": "muhokama qilib olmoq, maslahatlashmoq",
+      "pos": "verb",
+      "example_en": "You should talk the problem over with your parents first.",
+      "example_uz": "Avval muammoni ota-onangiz bilan maslahatlashib olishingiz kerak.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "look over",
+      "pronunciation_uz": "luk ouver",
+      "uzbek": "koʻzdan kechirib chiqmoq",
+      "pos": "verb",
+      "example_en": "Could you look over my essay before I hand it in?",
+      "example_uz": "Inshomni topshirishimdan oldin uni koʻzdan kechirib bera olasizmi?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "go over",
+      "pronunciation_uz": "gou ouver",
+      "uzbek": "qayta koʻrib chiqmoq, takrorlamoq",
+      "pos": "verb",
+      "example_en": "Let us go over the grammar rules one more time before the test.",
+      "example_uz": "Testdan oldin grammatika qoidalarini yana bir bor takrorlab chiqaylik.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "come over",
+      "pronunciation_uz": "kam ouver",
+      "uzbek": "mehmonga kelmoq, oʻtmoq",
+      "pos": "verb",
+      "example_en": "Why don't you come over to our house for dinner tonight?",
+      "example_uz": "Nega bugun kechqurun biznikiga kechki ovqatga kelmaysiz?",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "get over",
+      "pronunciation_uz": "get ouver",
+      "uzbek": "tuzalmoq (kasallikdan), yengib oʻtmoq",
+      "pos": "verb",
+      "example_en": "It took him a whole week to get over the winter flu.",
+      "example_uz": "Qishki grippdan tuzalishi uchun unga bir hafta vaqt kerak boʻldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "turn over",
+      "pronunciation_uz": "tyorn ouver",
+      "uzbek": "agʻdarmoq, varaqlamoq",
+      "pos": "verb",
+      "example_en": "Turn over the pancake when the bottom side is golden brown.",
+      "example_uz": "Quymoqning pastki tomoni qizarganda uni ikkinchi tomonga agʻdaring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "fall over",
+      "pronunciation_uz": "fol ouver",
+      "uzbek": "qoqilib yiqilmoq, agʻdarilmoq",
+      "pos": "verb",
+      "example_en": "The toddler tripped on the rug and fell over, but did not cry.",
+      "example_uz": "Kichkintoy gilamga qoqilib yiqildi, lekin yigʻlamadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "fall down",
+      "pronunciation_uz": "fol daun",
+      "uzbek": "yiqilib tushmoq",
+      "pos": "verb",
+      "example_en": "The old wooden fence fell down during the strong storm.",
+      "example_uz": "Kuchli boʻron paytida eski yogʻoch panjara yiqilib tushdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "fall off",
+      "pronunciation_uz": "fol of",
+      "uzbek": "ustidan tushib ketmoq",
+      "pos": "verb",
+      "example_en": "Be careful not to fall off the ladder while picking cherries.",
+      "example_uz": "Gilos terayotganda narvondan tushib ketmaslik uchun ehtiyot boʻling.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "keep away",
+      "pronunciation_uz": "kip evey",
+      "uzbek": "yaqinlashmaslik, uzoq tutmoq",
+      "pos": "verb",
+      "example_en": "Keep matches and lighters away from small children.",
+      "example_uz": "Gugurt va yondirgichlarni kichik bolalardan uzoqda tuting.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "keep out",
+      "pronunciation_uz": "kip aut",
+      "uzbek": "kirmaslik, ichkariga kiritmaslik",
+      "pos": "verb",
+      "example_en": "A sign on the gate says: Danger, keep out!",
+      "example_uz": "Darvozadagi belgida: \"Xavfli, kirilmasin!\" deb yozilgan.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "keep up",
+      "pronunciation_uz": "kip ap",
+      "uzbek": "boʻsh kelmaslik, bir xil surʼatda davom etmoq",
+      "pos": "verb",
+      "example_en": "You are making great progress in English; keep it up!",
+      "example_uz": "Ingliz tilida ajoyib oʻsishga erishyapsiz, shu ruhda davom eting!",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "catch up",
+      "pronunciation_uz": "kech ap",
+      "uzbek": "yetib olmoq (orqada qolib ketgach)",
+      "pos": "verb",
+      "example_en": "Walk slowly so that the younger children can catch up.",
+      "example_uz": "Kichikroq bolalar yetib olishi uchun sekinroq yuring.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "speed up",
+      "pronunciation_uz": "spid ap",
+      "uzbek": "tezlashmoq, tezlashtirmoq",
+      "pos": "verb",
+      "example_en": "New machines have sped up production at the factory.",
+      "example_uz": "Yangi stanoklar fabrikada ishlab chiqarishni tezlashtirdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "line up",
+      "pronunciation_uz": "layn ap",
+      "uzbek": "saf tortmoq, navbatga turmoq",
+      "pos": "verb",
+      "example_en": "Students lined up neatly in the schoolyard for morning assembly.",
+      "example_uz": "Oʻquvchilar ertalabki saflanish uchun maktab hovlisida tartib bilan saf tortishdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "mix up",
+      "pronunciation_uz": "miks ap",
+      "uzbek": "adashtirib yubormoq, chalkashtirmoq",
+      "pos": "verb",
+      "example_en": "People often mix up the two twin sisters.",
+      "example_uz": "Odamlar koʻpincha ikkala egizak opa-singilni adashtirib yuborishadi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "sum up",
+      "pronunciation_uz": "sam ap",
+      "uzbek": "xulosa qilmoq, yakun yasamoq",
+      "pos": "verb",
+      "example_en": "At the end of the lesson, the teacher summed up the main points.",
+      "example_uz": "Dars oxirida oʻqituvchi asosiy fikrlarni xulosalab berdi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "build up",
+      "pronunciation_uz": "bild ap",
+      "uzbek": "oshirmoq, mustahkamlamoq",
+      "pos": "verb",
+      "example_en": "Daily jogging helps build up your strength and stamina.",
+      "example_uz": "Har kuni yugurish kuch va chidamlilikni oshirishga yordam beradi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "sort out",
+      "pronunciation_uz": "sort aut",
+      "uzbek": "tartibga solmoq, hal qilmoq",
+      "pos": "verb",
+      "example_en": "She spent Sunday afternoon sorting out her old books.",
+      "example_uz": "U yakshanba kuni tushdan keyin eski kitoblarini tartibga solish bilan band boʻldi.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "watch out",
+      "pronunciation_uz": "voch aut",
+      "uzbek": "hushyor boʻlmoq, ehtiyot boʻlmoq",
+      "pos": "verb",
+      "example_en": "Watch out for cars when crossing the street.",
+      "example_uz": "Koʻchani kesib oʻtayotganda mashinalardan ehtiyot boʻling.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    },
+    {
+      "english": "help out",
+      "pronunciation_uz": "help aut",
+      "uzbek": "yordamlashib yubormoq",
+      "pos": "verb",
+      "example_en": "Neighbors always help out when someone is building a house.",
+      "example_uz": "Kimdir uy qurayotganda qoʻshnilar har doim hashar qilib yordamlashadilar.",
+      "category": "Ibora feʻllar (Phrasal Verbs — 1)"
+    }
+  ]
+}

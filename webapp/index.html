@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="uz" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="format-detection" content="telephone=no" />
+  <title>Inglizcha – Oʻzbekcha Soʻz Kartochkalari</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="./css/style.css?v=20261020_2" />
+</head>
+<body>
+  <!-- Ambient Background Glow following Current Deck Accent -->
+  <div class="ambient-bg" aria-hidden="true">
+    <div class="ambient-orb orb-top"></div>
+    <div class="ambient-orb orb-bottom"></div>
+  </div>
+
+  <main class="app-shell" id="appShell">
+    <!-- TOP BAR: Category/Deck Chip + Counter + Shuffle + Deck Picker Icon -->
+    <header class="top-bar">
+      <div class="top-bar-row">
+        <button type="button" class="category-chip" id="categoryChipBtn" aria-label="Boʻlimni tanlash">
+          <span class="chip-dot" id="chipDot"></span>
+          <span class="chip-label" id="chipLabel">Hammasi</span>
+          <svg class="chip-chevron" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <path d="M5.5 7.75L10 12.25L14.5 7.75" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+
+        <div class="top-actions">
+          <span class="progress-counter" id="progressCounter">1 / 5000+</span>
+
+          <button type="button" class="icon-btn" id="shuffleBtn" aria-label="Soʻzlarni aralashtirish" aria-pressed="false" title="Aralashtirish">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+
+          <button type="button" class="icon-btn" id="openCategoriesBtn" aria-label="Boʻlimlar roʻyxati" title="Boʻlimlar">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <rect x="3.5" y="3.5" width="7" height="7" rx="2" stroke="currentColor" stroke-width="2"/>
+              <rect x="13.5" y="3.5" width="7" height="7" rx="2" stroke="currentColor" stroke-width="2"/>
+              <rect x="3.5" y="13.5" width="7" height="7" rx="2" stroke="currentColor" stroke-width="2"/>
+              <rect x="13.5" y="13.5" width="7" height="7" rx="2" stroke="currentColor" stroke-width="2"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Thin Progress Line -->
+      <div class="progress-track" role="progressbar" aria-valuemin="1" aria-valuemax="500" aria-valuenow="1" id="progressTrack">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+    </header>
+
+    <!-- CENTER STAGE: Single 3D Flip Word Card (or End State) -->
+    <section class="card-stage" id="cardStage">
+      <div class="card-scene" id="cardScene">
+        <div class="card-3d" id="wordCard" tabindex="0" role="button" aria-label="Soʻz kartochkasi — tarjimani koʻrish uchun bosing">
+          <!-- ================= FRONT FACE ================= -->
+          <div class="card-face card-front" id="cardFront">
+            <svg class="corner-art corner-top-right" viewBox="0 0 140 140" fill="none" aria-hidden="true">
+              <circle cx="140" cy="0" r="110" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 6" />
+              <circle cx="140" cy="0" r="78" stroke="currentColor" stroke-width="1.5" />
+              <circle cx="140" cy="0" r="46" fill="currentColor" fill-opacity="0.14" />
+            </svg>
+            <svg class="corner-art corner-bottom-left" viewBox="0 0 140 140" fill="none" aria-hidden="true">
+              <circle cx="0" cy="140" r="96" stroke="currentColor" stroke-width="1.5" />
+              <circle cx="0" cy="140" r="58" stroke="currentColor" stroke-width="1.5" stroke-dasharray="3 5" />
+              <path d="M28 106L34 112L28 118L22 112L28 106Z" fill="currentColor" fill-opacity="0.35" />
+            </svg>
+
+            <div class="card-top-meta">
+              <span class="card-cat-tag" id="frontCategoryTag">Feʻllar</span>
+              <span class="card-index-badge" id="frontIndexBadge">#001</span>
+            </div>
+
+            <div class="card-front-body">
+              <h1 class="english-word" id="englishWord">accept</h1>
+
+              <div class="pronunciation-wrap">
+                <span class="pronunciation-caption">oʻqilishi</span>
+                <div class="pronunciation-pill" id="pronunciationPill">
+                  <span class="pronunciation-text" id="pronunciationText">[ eksept ]</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="card-bottom-meta">
+              <span class="pos-badge" id="posBadge">verb • feʻl</span>
+              <span class="flip-hint">
+                <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+                  <path d="M4 10a6 6 0 0 1 10.2-4.24L16 7.5M16 4v3.5h-3.5M16 10a6 6 0 0 1-10.2 4.24L4 12.5M4 16v-3.5h3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                Tarjimani koʻrish
+              </span>
+            </div>
+          </div>
+
+          <!-- ================= BACK FACE ================= -->
+          <div class="card-face card-back" id="cardBack">
+            <svg class="corner-art corner-top-left" viewBox="0 0 140 140" fill="none" aria-hidden="true">
+              <circle cx="0" cy="0" r="104" stroke="currentColor" stroke-width="1.5" />
+              <circle cx="0" cy="0" r="68" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 6" />
+              <circle cx="0" cy="0" r="36" fill="currentColor" fill-opacity="0.16" />
+            </svg>
+            <svg class="corner-art corner-bottom-right" viewBox="0 0 140 140" fill="none" aria-hidden="true">
+              <circle cx="140" cy="140" r="96" stroke="currentColor" stroke-width="1.5" />
+              <circle cx="140" cy="140" r="58" stroke="currentColor" stroke-width="1.5" stroke-dasharray="3 5" />
+              <path d="M112 106L118 112L112 118L106 112L112 106Z" fill="currentColor" fill-opacity="0.35" />
+            </svg>
+
+            <div class="card-top-meta">
+              <span class="card-cat-tag back-tag" id="backCategoryTag">Oʻzbekcha tarjimasi</span>
+              <span class="card-index-badge" id="backIndexBadge">#001</span>
+            </div>
+
+            <div class="card-back-body">
+              <div class="uzbek-word-wrap">
+                <h2 class="uzbek-word" id="uzbekWord">qabul qilmoq</h2>
+              </div>
+
+              <div class="card-divider" aria-hidden="true">
+                <span class="divider-line"></span>
+                <span class="divider-diamond"></span>
+                <span class="divider-line"></span>
+              </div>
+
+              <div class="example-block">
+                <p class="example-en" id="exampleEn">Please accept my warm congratulations.</p>
+                <p class="example-uz" id="exampleUz">Iltimos, samimiy tabriklarimni qabul qiling.</p>
+              </div>
+            </div>
+
+            <div class="card-bottom-meta">
+              <span class="pos-badge" id="backPosBadge">accept • [ eksept ]</span>
+              <span class="flip-hint">
+                <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+                  <path d="M4 10a6 6 0 0 1 10.2-4.24L16 7.5M16 4v3.5h-3.5M16 10a6 6 0 0 1-10.2 4.24L4 12.5M4 16v-3.5h3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                Orqaga qaytarish
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- ================= END STATE ("Tabriklaymiz!") ================= -->
+        <div class="end-state-card hidden" id="endStateCard" aria-live="polite">
+          <div class="end-icon-badge">
+            <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+              <path d="M9.5 16.5L14 21L23 11.5" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+          <h2 class="end-title">Tabriklaymiz!</h2>
+          <p class="end-subtitle" id="endSubtitle">
+            Siz ushbu boʻlimdagi barcha soʻzlarni muvaffaqiyatli koʻrib chiqdingiz.
+          </p>
+          <button type="button" class="restart-btn" id="restartBtn">
+            <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <path d="M3.5 10a6.5 6.5 0 1 1 1.9 4.6M3.5 16v-3.8h3.8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <span>Boshidan boshlash</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- BOTTOM CONTROLS: Oldingi (secondary) & Keyingi (primary gradient) -->
+    <footer class="bottom-controls">
+      <button type="button" class="nav-btn btn-prev" id="prevBtn" aria-label="Oldingi soʻz">
+        <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M12.5 15L7.5 10L12.5 5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span>Oldingi</span>
+      </button>
+
+      <button type="button" class="nav-btn btn-next" id="nextBtn" aria-label="Keyingi soʻz">
+        <span>Keyingi</span>
+        <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M7.5 5L12.5 10L7.5 15" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </footer>
+  </main>
+
+  <!-- CATEGORY / DECK PICKER BOTTOM SHEET (Handles 50+ Decks + Search + Grouped Sections) -->
+  <div class="sheet-backdrop hidden" id="sheetBackdrop" aria-hidden="true"></div>
+  <aside class="category-sheet hidden" id="categorySheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet-handle-bar" id="sheetHandle">
+      <span class="sheet-pill"></span>
+    </div>
+    <div class="sheet-header">
+      <h3 class="sheet-title" id="sheetTitle">Boʻlimni tanlang</h3>
+      <button type="button" class="sheet-close-btn" id="closeSheetBtn" aria-label="Yopish">
+        <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 5L15 15M15 5L5 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Search Field at Top of Picker -->
+    <div class="sheet-search-wrap">
+      <div class="sheet-search-box">
+        <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <circle cx="9" cy="9" r="6" stroke="currentColor" stroke-width="1.8"/>
+          <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+        <input
+          type="search"
+          id="deckSearchInput"
+          class="sheet-search-input"
+          placeholder="Boʻlim yoki mavzuni qidiring..."
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <button type="button" class="search-clear-btn hidden" id="clearSearchBtn" aria-label="Tozalash">
+          <svg viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M4 4L12 12M12 4L4 12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="sheet-list" id="categoryList" role="listbox"></div>
+  </aside>
+
+  <script src="./js/app.js?v=20261020_2"></script>
+</body>
+</html>

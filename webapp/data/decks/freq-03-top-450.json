@@ -1,0 +1,1357 @@
+{
+  "title": "Eng koʻp ishlatiladigan 301–450 soʻzlar (A2)",
+  "category": "Top 500 • 301–450",
+  "group": "freq",
+  "words": [
+    {
+      "english": "month",
+      "pronunciation_uz": "mans",
+      "uzbek": "oy (vaqt birligi)",
+      "pos": "noun",
+      "example_en": "There are twelve months in a year.",
+      "example_uz": "Bir yilda oʻn ikki oy bor.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "morning",
+      "pronunciation_uz": "morning",
+      "uzbek": "ertalab, tong",
+      "pos": "noun",
+      "example_en": "Fresh morning air gives you energy for the whole day.",
+      "example_uz": "Toza tonggi havo kun boʻyi quvvat bagʻishlaydi.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "night",
+      "pronunciation_uz": "nayt",
+      "uzbek": "tun, kecha",
+      "pos": "noun",
+      "example_en": "Bright stars shone in the clear night sky.",
+      "example_uz": "Tiniq tungi osmonda yorqin yulduzlar porlardi.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "nine",
+      "pronunciation_uz": "nayn",
+      "uzbek": "toʻqqiz (9)",
+      "pos": "noun",
+      "example_en": "The library opens at nine every morning.",
+      "example_uz": "Kutubxona har kuni ertalab soat toʻqqizda ochiladi.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "past",
+      "pronunciation_uz": "past",
+      "uzbek": "oʻtmish",
+      "pos": "noun",
+      "example_en": "We learn valuable lessons from the past.",
+      "example_uz": "Biz oʻtmishdan qimmatli saboqlar olamiz.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "schedule",
+      "pronunciation_uz": "skejul",
+      "uzbek": "jadval, kun tartibi",
+      "pos": "noun",
+      "example_en": "Following a daily schedule helps you manage time well.",
+      "example_uz": "Kundalik jadvalga amal qilish vaqtni toʻgʻri taqsimlashga yordam beradi.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "season",
+      "pronunciation_uz": "sizon",
+      "uzbek": "fasl, mavsum",
+      "pos": "noun",
+      "example_en": "Spring is my favorite season of the year.",
+      "example_uz": "Bahor — yilning men eng yoqtirgan fasli.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "second",
+      "pronunciation_uz": "sekond",
+      "uzbek": "soniya; ikkinchi",
+      "pos": "noun",
+      "example_en": "Wait thirty seconds for the page to load.",
+      "example_uz": "Sahifa yuklanishi uchun oʻttiz soniya kuting.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "seven",
+      "pronunciation_uz": "seven",
+      "uzbek": "yetti (7)",
+      "pos": "noun",
+      "example_en": "I wake up at seven o'clock every morning.",
+      "example_uz": "Har kuni ertalab soat yettida uygʻonaman.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "spring",
+      "pronunciation_uz": "spring",
+      "uzbek": "bahor",
+      "pos": "noun",
+      "example_en": "Fruit trees blossom beautifully in spring.",
+      "example_uz": "Bahorda mevali daraxtlar chiroyli boʻlib gullaydi.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "summer",
+      "pronunciation_uz": "samer",
+      "uzbek": "yoz",
+      "pos": "noun",
+      "example_en": "Summer days are long, sunny, and warm.",
+      "example_uz": "Yoz kunlari uzun, quyoshli va issiq boʻladi.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "thousand",
+      "pronunciation_uz": "sauzend",
+      "uzbek": "ming (1000)",
+      "pos": "noun",
+      "example_en": "One kilometer equals one thousand meters.",
+      "example_uz": "Bir kilometr ming metrga teng.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "tomorrow",
+      "pronunciation_uz": "tumorrou",
+      "uzbek": "ertaga",
+      "pos": "adv",
+      "example_en": "We will start the new chapter tomorrow.",
+      "example_uz": "Yangi bobni ertaga boshlaymiz.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "weekend",
+      "pronunciation_uz": "vikend",
+      "uzbek": "dam olish kunlari",
+      "pos": "noun",
+      "example_en": "How do you usually spend your weekend?",
+      "example_uz": "Dam olish kunlarini odatda qanday oʻtkazasiz?",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "winter",
+      "pronunciation_uz": "vinter",
+      "uzbek": "qish",
+      "pos": "noun",
+      "example_en": "Children love making snowmen in winter.",
+      "example_uz": "Bolalar qishda qorbobo yasashni yaxshi koʻradilar.",
+      "category": "Time & Numbers"
+    },
+    {
+      "english": "able",
+      "pronunciation_uz": "eybl",
+      "uzbek": "qodir, layoqatli",
+      "pos": "adj",
+      "example_en": "Will you be able to attend the meeting tomorrow?",
+      "example_uz": "Ertaga yigʻilishda qatnasha olasizmi?",
+      "category": "Adjectives"
+    },
+    {
+      "english": "ancient",
+      "pronunciation_uz": "eynshent",
+      "uzbek": "qadimiy",
+      "pos": "adj",
+      "example_en": "Bukhara is famous for its ancient architecture.",
+      "example_uz": "Buxoro oʻzining qadimiy me’morchiligi bilan mashhur.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "available",
+      "pronunciation_uz": "eveylebl",
+      "uzbek": "mavjud, boʻsh",
+      "pos": "adj",
+      "example_en": "Is this seat available or taken?",
+      "example_uz": "Bu oʻrin boʻshmi yoki bandmi?",
+      "category": "Adjectives"
+    },
+    {
+      "english": "beautiful",
+      "pronunciation_uz": "byutiful",
+      "uzbek": "chiroyli, goʻzal",
+      "pos": "adj",
+      "example_en": "What a beautiful view of the mountains!",
+      "example_uz": "Togʻlarning manzarasi naqadar goʻzal!",
+      "category": "Adjectives"
+    },
+    {
+      "english": "big",
+      "pronunciation_uz": "big",
+      "uzbek": "katta",
+      "pos": "adj",
+      "example_en": "They live in a big house with a green courtyard.",
+      "example_uz": "Ular yashil hovlili katta uyda yashaydilar.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "bright",
+      "pronunciation_uz": "brayt",
+      "uzbek": "yorugʻ, yorqin",
+      "pos": "adj",
+      "example_en": "The classroom has bright lights and wide windows.",
+      "example_uz": "Sinf xonasida yorugʻ chiroqlar va keng derazalar bor.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "busy",
+      "pronunciation_uz": "bizi",
+      "uzbek": "band, gavjum",
+      "pos": "adj",
+      "example_en": "Monday is usually the busiest day of the week.",
+      "example_uz": "Dushanba odatda haftaning eng tigʻiz kuni boʻladi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "careful",
+      "pronunciation_uz": "keyrful",
+      "uzbek": "ehtiyotkor, e’tiborli",
+      "pos": "adj",
+      "example_en": "Be careful when crossing a busy street.",
+      "example_uz": "Gavjum koʻchani kesib oʻtayotganda ehtiyot boʻling.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "cheap",
+      "pronunciation_uz": "chip",
+      "uzbek": "arzon",
+      "pos": "adj",
+      "example_en": "Fresh vegetables are cheap at the autumn market.",
+      "example_uz": "Kuzgi bozorda yangi sabzavotlar arzon boʻladi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "clear",
+      "pronunciation_uz": "klir",
+      "uzbek": "aniq, tiniq",
+      "pos": "adj",
+      "example_en": "The teacher gave a very clear explanation.",
+      "example_uz": "Oʻqituvchi juda aniq tushuntirish berdi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "cold",
+      "pronunciation_uz": "kould",
+      "uzbek": "sovuq",
+      "pos": "adj",
+      "example_en": "Drink something warm on a cold winter evening.",
+      "example_uz": "Sovuq qish oqshomida issiqroq narsa iching.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "comfortable",
+      "pronunciation_uz": "kamfortebl",
+      "uzbek": "qulay, shinam",
+      "pos": "adj",
+      "example_en": "Wear comfortable shoes when walking a long distance.",
+      "example_uz": "Uzoq masofaga piyoda yurganda qulay poyabzal kiying.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "common",
+      "pronunciation_uz": "komon",
+      "uzbek": "keng tarqalgan, umumiy",
+      "pos": "adj",
+      "example_en": "These four hundred words are very common in English.",
+      "example_uz": "Ushbu toʻrt yuzta soʻz ingliz tilida juda koʻp uchraydi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "dangerous",
+      "pronunciation_uz": "deynjeros",
+      "uzbek": "xavfli",
+      "pos": "adj",
+      "example_en": "Driving fast on icy roads is dangerous.",
+      "example_uz": "Muzlagan yoʻlda mashinani tez haydash xavfli.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "dark",
+      "pronunciation_uz": "dark",
+      "uzbek": "qorongʻi, toʻq",
+      "pos": "adj",
+      "example_en": "It gets dark early in December.",
+      "example_uz": "Dekabr oyida kun erta qorongʻilashadi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "deep",
+      "pronunciation_uz": "dip",
+      "uzbek": "chuqur",
+      "pos": "adj",
+      "example_en": "Take a deep breath and speak calmly.",
+      "example_uz": "Chuqur nafas oling va xotirjam gapiring.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "different",
+      "pronunciation_uz": "diferent",
+      "uzbek": "xilma-xil, boshqacha",
+      "pos": "adj",
+      "example_en": "People from different countries attended the festival.",
+      "example_uz": "Festivalda turli mamlakatlardan kelgan odamlar qatnashdi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "difficult",
+      "pronunciation_uz": "difikalt",
+      "uzbek": "qiyin, murakkab",
+      "pos": "adj",
+      "example_en": "Even a difficult task becomes easy with practice.",
+      "example_uz": "Hatto qiyin vazifa ham mashq bilan osonlashadi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "dirty",
+      "pronunciation_uz": "doʻrti",
+      "uzbek": "kir, iflos",
+      "pos": "adj",
+      "example_en": "Put your dirty clothes in the washing machine.",
+      "example_uz": "Kir kiyimlaringizni kir yuvish mashinasiga soling.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "dry",
+      "pronunciation_uz": "dray",
+      "uzbek": "quruq",
+      "pos": "adj",
+      "example_en": "Keep matches and paper in a dry place.",
+      "example_uz": "Gugurt va qogʻozlarni quruq joyda saqlang.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "easy",
+      "pronunciation_uz": "izi",
+      "uzbek": "oson, yengil",
+      "pos": "adj",
+      "example_en": "The first questions on the test were quite easy.",
+      "example_uz": "Testning birinchi savollari ancha oson edi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "empty",
+      "pronunciation_uz": "empti",
+      "uzbek": "boʻsh",
+      "pos": "adj",
+      "example_en": "There were three empty seats on the bus.",
+      "example_uz": "Avtobusda uchta boʻsh joy bor edi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "expensive",
+      "pronunciation_uz": "ikspensiv",
+      "uzbek": "qimmat",
+      "pos": "adj",
+      "example_en": "This watch looks expensive, but it is durable.",
+      "example_uz": "Bu soat qimmat koʻrinadi, lekin juda chidamli.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "famous",
+      "pronunciation_uz": "feymos",
+      "uzbek": "mashhur, taniqli",
+      "pos": "adj",
+      "example_en": "Ibn Sina is a famous scientist and physician.",
+      "example_uz": "Ibn Sino — mashhur olim va tabibdir.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "fast",
+      "pronunciation_uz": "fast",
+      "uzbek": "tez, tezkor",
+      "pos": "adj",
+      "example_en": "The high-speed train is fast and comfortable.",
+      "example_uz": "Tezyurar poyezd tez va qulaydir.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "foreign",
+      "pronunciation_uz": "foren",
+      "uzbek": "xorijiy, chet el",
+      "pos": "adj",
+      "example_en": "She speaks two foreign languages fluently.",
+      "example_uz": "U ikkita xorijiy tilda ravon gaplashadi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "free",
+      "pronunciation_uz": "fri",
+      "uzbek": "bepul; boʻsh, erkin",
+      "pos": "adj",
+      "example_en": "Are you free this Saturday afternoon?",
+      "example_uz": "Shu shanba tushdan keyin boʻshmisiz?",
+      "category": "Adjectives"
+    },
+    {
+      "english": "fresh",
+      "pronunciation_uz": "fresh",
+      "uzbek": "yangi, toza, barra",
+      "pos": "adj",
+      "example_en": "We buy fresh greens and bread every morning.",
+      "example_uz": "Biz har kuni ertalab barra koʻkatlar va issiq non olamiz.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "full",
+      "pronunciation_uz": "ful",
+      "uzbek": "toʻla",
+      "pos": "adj",
+      "example_en": "The basket is full of sweet red apples.",
+      "example_uz": "Savat qip-qizil shirin olmalarga toʻla.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "generous",
+      "pronunciation_uz": "jeneros",
+      "uzbek": "saxiy, qoʻli ochiq",
+      "pos": "adj",
+      "example_en": "Thank you for your generous help and support.",
+      "example_uz": "Saxiy yordamingiz va qoʻllab-quvvatlaganingiz uchun rahmat.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "good",
+      "pronunciation_uz": "gud",
+      "uzbek": "yaxshi",
+      "pos": "adj",
+      "example_en": "Starting the day with a good habit brings success.",
+      "example_uz": "Kunni yaxshi odat bilan boshlash muvaffaqiyat keltiradi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "heavy",
+      "pronunciation_uz": "hevi",
+      "uzbek": "ogʻir, vazmin",
+      "pos": "adj",
+      "example_en": "This suitcase is too heavy to carry alone.",
+      "example_uz": "Bu jomadon yolgʻiz koʻtarish uchun juda ogʻirlik qiladi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "helpful",
+      "pronunciation_uz": "helpful",
+      "uzbek": "foydali, koʻmakchi",
+      "pos": "adj",
+      "example_en": "Flashcards are very helpful for memorizing vocabulary.",
+      "example_uz": "Lugʻat kartochkalari soʻzlarni yodlashda juda foydali.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "high",
+      "pronunciation_uz": "hay",
+      "uzbek": "baland, yuqori",
+      "pos": "adj",
+      "example_en": "High mountains surround the green valley.",
+      "example_uz": "Baland togʻlar yashil vodiyni oʻrab turadi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "honest",
+      "pronunciation_uz": "onest",
+      "uzbek": "halol, rostgoʻy",
+      "pos": "adj",
+      "example_en": "Everyone respects an honest and fair person.",
+      "example_uz": "Hamma halol va adolatli insonni hurmat qiladi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "hot",
+      "pronunciation_uz": "hot",
+      "uzbek": "issiq, qaynoq",
+      "pos": "adj",
+      "example_en": "Be careful, the tea in the cup is very hot.",
+      "example_uz": "Ehtiyot boʻling, piyoladagi choy juda issiq.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "important",
+      "pronunciation_uz": "important",
+      "uzbek": "muhim, ahamiyatli",
+      "pos": "adj",
+      "example_en": "Sleep and healthy food are important for your mind.",
+      "example_uz": "Uyqu va sogʻlom ovqat aqliy faoliyat uchun muhimdir.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "interesting",
+      "pronunciation_uz": "interesting",
+      "uzbek": "qiziqarli",
+      "pos": "adj",
+      "example_en": "We watched an interesting documentary about nature.",
+      "example_uz": "Tabiat haqida qiziqarli hujjatli film tomosha qildik.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "kind",
+      "pronunciation_uz": "kaynd",
+      "uzbek": "mehribon, samimiy",
+      "pos": "adj",
+      "example_en": "Always speak with kind words to people around you.",
+      "example_uz": "Atrofingizdagi insonlarga doimo shirin va samimiy soʻzlang.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "large",
+      "pronunciation_uz": "larj",
+      "uzbek": "katta, keng",
+      "pos": "adj",
+      "example_en": "A large library was opened in the center of town.",
+      "example_uz": "Shahar markazida katta kutubxona ochildi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "local",
+      "pronunciation_uz": "loukal",
+      "uzbek": "mahalliy",
+      "pos": "adj",
+      "example_en": "Visitors love tasting local food at the bazaar.",
+      "example_uz": "Mehmonlar bozorda mahalliy taomlarni tatib koʻrishni yoqtiradilar.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "modern",
+      "pronunciation_uz": "modern",
+      "uzbek": "zamonaviy",
+      "pos": "adj",
+      "example_en": "Modern classrooms use interactive screens.",
+      "example_uz": "Zamonaviy sinf xonalarida interaktiv ekranlar qoʻllaniladi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "necessary",
+      "pronunciation_uz": "neseseri",
+      "uzbek": "zarur, kerakli",
+      "pos": "adj",
+      "example_en": "Pack only the necessary things for the short trip.",
+      "example_uz": "Qisqa safar uchun faqat zarur narsalarni oling.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "polite",
+      "pronunciation_uz": "polayt",
+      "uzbek": "xushmuomala, odobli",
+      "pos": "adj",
+      "example_en": "It is polite to say thank you and please.",
+      "example_uz": "Rahmat va iltimos deb aytish odobdan sanaladi.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "useful",
+      "pronunciation_uz": "yusful",
+      "uzbek": "foydali, kerakli",
+      "pos": "adj",
+      "example_en": "This dictionary contains the most useful everyday words.",
+      "example_uz": "Ushbu lugʻatda eng foydali kundalik soʻzlar jamlangan.",
+      "category": "Adjectives"
+    },
+    {
+      "english": "about",
+      "pronunciation_uz": "ebaut",
+      "uzbek": "haqida; taxminan",
+      "pos": "prep",
+      "example_en": "Tell me about your favorite book.",
+      "example_uz": "Menga eng sevimli kitobingiz haqida gapirib bering.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "above",
+      "pronunciation_uz": "ebav",
+      "uzbek": "ustida, yuqorisida",
+      "pos": "prep",
+      "example_en": "A bright lamp hangs above the dining table.",
+      "example_uz": "Ovqatlanish stoli ustida yorugʻ qandil osilib turibdi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "across",
+      "pronunciation_uz": "ekros",
+      "uzbek": "kesib, narigi tomonda",
+      "pos": "prep",
+      "example_en": "The bookshop is right across the street.",
+      "example_uz": "Kitob doʻkoni koʻchaning shundoqqina narigi tomonida.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "actually",
+      "pronunciation_uz": "ekchuali",
+      "uzbek": "aslida, haqiqatda",
+      "pos": "adv",
+      "example_en": "The grammar rule is actually very simple.",
+      "example_uz": "Grammatika qoidasi aslida juda oddiy.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "after",
+      "pronunciation_uz": "after",
+      "uzbek": "keyin, soʻng",
+      "pos": "prep",
+      "example_en": "Let's go for a walk after dinner.",
+      "example_uz": "Kechki ovqatdan keyin sayrga chiqaylik.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "again",
+      "pronunciation_uz": "egeyn",
+      "uzbek": "yana, qaytadan",
+      "pos": "adv",
+      "example_en": "Could you please repeat that sentence again?",
+      "example_uz": "Iltimos, oʻsha gapni yana bir bor takrorlab bera olasizmi?",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "almost",
+      "pronunciation_uz": "olmoust",
+      "uzbek": "deyarli",
+      "pos": "adv",
+      "example_en": "We have almost finished our project.",
+      "example_uz": "Loyihamizni deyarli tugatdik.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "already",
+      "pronunciation_uz": "olredi",
+      "uzbek": "allaqachon",
+      "pos": "adv",
+      "example_en": "I have already learned fifty new words this week.",
+      "example_uz": "Shu haftada allaqachon ellikta yangi soʻz oʻrgandim.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "also",
+      "pronunciation_uz": "olso",
+      "uzbek": "shuningdek, ham",
+      "pos": "adv",
+      "example_en": "She speaks English and also studies German.",
+      "example_uz": "U ingliz tilida gapiradi, shuningdek nemis tilini ham oʻrganadi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "although",
+      "pronunciation_uz": "olzou",
+      "uzbek": "garchi, -sa ham",
+      "pos": "conj",
+      "example_en": "Although it was raining, we enjoyed the walk.",
+      "example_uz": "Yomgʻir yogʻayotgan boʻlsa ham, sayrdan zavq oldik.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "always",
+      "pronunciation_uz": "olveys",
+      "uzbek": "har doim, doimo",
+      "pos": "adv",
+      "example_en": "He always arrives at work on time.",
+      "example_uz": "U har doim ishga oʻz vaqtida keladi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "among",
+      "pronunciation_uz": "emang",
+      "uzbek": "orasida, ichida",
+      "pos": "prep",
+      "example_en": "Divide the sweets equally among the children.",
+      "example_uz": "Shirinliklarni bolalar orasida teng taqsimlang.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "because",
+      "pronunciation_uz": "bikoz",
+      "uzbek": "chunki, sababi",
+      "pos": "conj",
+      "example_en": "I stayed home because the weather was stormy.",
+      "example_uz": "Havo boʻronli boʻlgani uchun uyda qoldim.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "before",
+      "pronunciation_uz": "bifor",
+      "uzbek": "oldin, avval",
+      "pos": "prep",
+      "example_en": "Check your ticket before boarding the train.",
+      "example_uz": "Poyezdga chiqishdan oldin chiptangizni tekshiring.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "behind",
+      "pronunciation_uz": "bihaynd",
+      "uzbek": "orqasida, ortida",
+      "pos": "prep",
+      "example_en": "A small garden is behind the school building.",
+      "example_uz": "Maktab binosi orqasida kichik bogʻ bor.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "below",
+      "pronunciation_uz": "bilou",
+      "uzbek": "pastda, quyida",
+      "pos": "prep",
+      "example_en": "Write your signature below the printed line.",
+      "example_uz": "Bosma chiziqning pastiga imzoyingizni qoʻying.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "between",
+      "pronunciation_uz": "bitvin",
+      "uzbek": "oʻrtasida, orasida",
+      "pos": "prep",
+      "example_en": "The pharmacy is between the bank and the bakery.",
+      "example_uz": "Dorixona bank bilan novvoyxona oʻrtasida joylashgan.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "both",
+      "pronunciation_uz": "bous",
+      "uzbek": "ikkalasi ham",
+      "pos": "conj",
+      "example_en": "Both answers are correct and well written.",
+      "example_uz": "Ikkala javob ham toʻgʻri va yaxshi yozilgan.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "but",
+      "pronunciation_uz": "bat",
+      "uzbek": "lekin, ammo, biroq",
+      "pos": "conj",
+      "example_en": "The task was long, but we finished it together.",
+      "example_uz": "Vazifa uzoq edi, lekin uni birgalikda tugatdik.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "certainly",
+      "pronunciation_uz": "soʻrtenli",
+      "uzbek": "albatta, shubhasiz",
+      "pos": "adv",
+      "example_en": "I will certainly help you prepare for the test.",
+      "example_uz": "Testga tayyorlanishingizga, albatta, yordam beraman.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "during",
+      "pronunciation_uz": "dyuring",
+      "uzbek": "davomida, mobaynida",
+      "pos": "prep",
+      "example_en": "Please turn off your phone during the lesson.",
+      "example_uz": "Iltimos, dars davomida telefoningizni oʻchirib qoʻying.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "enough",
+      "pronunciation_uz": "inaf",
+      "uzbek": "yetarli darajada",
+      "pos": "adv",
+      "example_en": "Did you get enough sleep last night?",
+      "example_uz": "Kecha tunda yetarlicha uxladingizmi?",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "especially",
+      "pronunciation_uz": "ispeshali",
+      "uzbek": "ayniqsa",
+      "pos": "adv",
+      "example_en": "Spring in Tashkent is lovely, especially in April.",
+      "example_uz": "Toshkentda bahor juda goʻzal, ayniqsa aprel oyida.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "finally",
+      "pronunciation_uz": "faynali",
+      "uzbek": "nihoyat, oxiri",
+      "pos": "adv",
+      "example_en": "After a long journey, we finally reached home.",
+      "example_uz": "Uzoq safardan soʻng nihoyat uyga yetib keldik.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "fortunately",
+      "pronunciation_uz": "forchunetli",
+      "uzbek": "baxtga koʻra, xayriyatki",
+      "pos": "adv",
+      "example_en": "Fortunately, the rain stopped before the match began.",
+      "example_uz": "Baxtga koʻra, oʻyin boshlanishidan oldin yomgʻir toʻxtadi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "frequently",
+      "pronunciation_uz": "frikventli",
+      "uzbek": "tez-tez",
+      "pos": "adv",
+      "example_en": "Buses run frequently along this main street.",
+      "example_uz": "Ushbu asosiy koʻcha boʻylab avtobuslar tez-tez qatnaydi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "however",
+      "pronunciation_uz": "hauever",
+      "uzbek": "biroq, shunga qaramay",
+      "pos": "adv",
+      "example_en": "The road was steep; however, we reached the top.",
+      "example_uz": "Yoʻl tik edi, shunga qaramay choʻqqiga chiqdik.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "immediately",
+      "pronunciation_uz": "imidiyetli",
+      "uzbek": "darhol, zudlik bilan",
+      "pos": "adv",
+      "example_en": "She answered the urgent message immediately.",
+      "example_uz": "U shoshilinch xabarga darhol javob yozdi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "inside",
+      "pronunciation_uz": "insayd",
+      "uzbek": "ichida, ichkarida",
+      "pos": "prep",
+      "example_en": "Come inside the house, it is starting to snow.",
+      "example_uz": "Uy ichkarisiga kiring, qor yogʻa boshlayapti.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "instead",
+      "pronunciation_uz": "insted",
+      "uzbek": "oʻrniga",
+      "pos": "adv",
+      "example_en": "Let's walk to the park instead of taking a taxi.",
+      "example_uz": "Taksiga chiqish oʻrniga bogʻga piyoda boraylik.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "maybe",
+      "pronunciation_uz": "meybi",
+      "uzbek": "balki, ehtimol",
+      "pos": "adv",
+      "example_en": "Maybe we can visit the museum this Sunday.",
+      "example_uz": "Balki shu yakshanba kuni muzeyga borarmiz.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "never",
+      "pronunciation_uz": "never",
+      "uzbek": "hech qachon, aslo",
+      "pos": "adv",
+      "example_en": "It is never too late to learn something new.",
+      "example_uz": "Yangi narsa oʻrganishning hech qachon kechi yoʻq.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "often",
+      "pronunciation_uz": "ofen",
+      "uzbek": "tez-tez, koʻpincha",
+      "pos": "adv",
+      "example_en": "How often do you practice English pronunciation?",
+      "example_uz": "Inglizcha talaffuzni qanchalik tez-tez mashq qilasiz?",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "outside",
+      "pronunciation_uz": "autsayd",
+      "uzbek": "tashqarida",
+      "pos": "prep",
+      "example_en": "The children are playing outside in the fresh air.",
+      "example_uz": "Bolalar tashqarida toza havoda oʻynashyapti.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "perhaps",
+      "pronunciation_uz": "perheps",
+      "uzbek": "ehtimol, balki",
+      "pos": "adv",
+      "example_en": "Perhaps he is still in the library.",
+      "example_uz": "Ehtimol, u hali ham kutubxonadadir.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "quickly",
+      "pronunciation_uz": "kvikli",
+      "uzbek": "tezda, chaqqonlik bilan",
+      "pos": "adv",
+      "example_en": "Time passes quickly when you are doing interesting work.",
+      "example_uz": "Qiziqarli ish bilan band boʻlsangiz, vaqt tez oʻtadi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "quietly",
+      "pronunciation_uz": "kvayetli",
+      "uzbek": "jim, sekin, ohista",
+      "pos": "adv",
+      "example_en": "Please speak quietly in the reading room.",
+      "example_uz": "Iltimos, oʻquv zalida sekinroq gapiring.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "rarely",
+      "pronunciation_uz": "reyrli",
+      "uzbek": "kamdan-kam",
+      "pos": "adv",
+      "example_en": "It rarely snows in the southern regions.",
+      "example_uz": "Janubiy hududlarda qor kamdan-kam yogʻadi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "since",
+      "pronunciation_uz": "sins",
+      "uzbek": "beri; chunki",
+      "pos": "conj",
+      "example_en": "We have been friends since primary school.",
+      "example_uz": "Biz boshlangʻich maktabdan beri doʻstmiz.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "slowly",
+      "pronunciation_uz": "slouli",
+      "uzbek": "sekin, asta-sekin",
+      "pos": "adv",
+      "example_en": "Please speak slowly so I can understand every word.",
+      "example_uz": "Har bir soʻzni tushunishim uchun, iltimos, sekinroq gapiring.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "sometimes",
+      "pronunciation_uz": "samtayms",
+      "uzbek": "ba’zan, gohida",
+      "pos": "adv",
+      "example_en": "Sometimes we study together at the library.",
+      "example_uz": "Ba’zan kutubxonada birgalikda dars tayyorlaymiz.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "suddenly",
+      "pronunciation_uz": "sadenli",
+      "uzbek": "toʻsatdan, birdan",
+      "pos": "adv",
+      "example_en": "Suddenly, a cool breeze blew from the mountains.",
+      "example_uz": "Toʻsatdan togʻ tomondan salqin shabada esdi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "therefore",
+      "pronunciation_uz": "zerfor",
+      "uzbek": "shuning uchun",
+      "pos": "adv",
+      "example_en": "He practiced daily; therefore, he passed the test easily.",
+      "example_uz": "U har kuni mashq qildi, shuning uchun testdan oson oʻtdi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "together",
+      "pronunciation_uz": "tugezer",
+      "uzbek": "birga, birgalikda",
+      "pos": "adv",
+      "example_en": "Working together makes any big task lighter.",
+      "example_uz": "Birgalikda ishlash har qanday katta vazifani yengillashtiradi.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "usually",
+      "pronunciation_uz": "yujuali",
+      "uzbek": "odatda",
+      "pos": "adv",
+      "example_en": "I usually drink a glass of water after waking up.",
+      "example_uz": "Men odatda uygʻongandan soʻng bir stakan suv ichaman.",
+      "category": "Adverbs & Connectors"
+    },
+    {
+      "english": "afraid",
+      "pronunciation_uz": "efreyd",
+      "uzbek": "qoʻrqqan, choʻchigan",
+      "pos": "adj",
+      "example_en": "Don't be afraid to speak English out loud.",
+      "example_uz": "Ingliz tilida ovoz chiqarib gapirishdan qoʻrqmang.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "angry",
+      "pronunciation_uz": "engri",
+      "uzbek": "jahli chiqqan, gʻazablangan",
+      "pos": "adj",
+      "example_en": "Take a deep breath when you feel angry.",
+      "example_uz": "Jahlingiz chiqqanda chuqur nafas oling.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "anxious",
+      "pronunciation_uz": "enkshos",
+      "uzbek": "xavotirli, bezovta",
+      "pos": "adj",
+      "example_en": "It is natural to feel a little anxious before an exam.",
+      "example_uz": "Imtihondan oldin biroz hayajon va xavotir sezish tabiiy.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "appointment",
+      "pronunciation_uz": "epoyntment",
+      "uzbek": "shifokor qabuli, uchrashuv",
+      "pos": "noun",
+      "example_en": "I have a dental appointment at four o'clock.",
+      "example_uz": "Soat toʻrtda tish shifokori qabuliga yozilganman.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "blood",
+      "pronunciation_uz": "blad",
+      "uzbek": "qon",
+      "pos": "noun",
+      "example_en": "Walking briskly improves blood circulation.",
+      "example_uz": "Tez-tez yurish qon aylanishini yaxshilaydi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "body",
+      "pronunciation_uz": "bodi",
+      "uzbek": "tana, gavda",
+      "pos": "noun",
+      "example_en": "Regular exercise keeps your body strong.",
+      "example_uz": "Muntazam mashqlar tanangizni baquvvat saqlaydi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "bone",
+      "pronunciation_uz": "boun",
+      "uzbek": "suyak",
+      "pos": "noun",
+      "example_en": "Milk and cheese help build strong bones.",
+      "example_uz": "Sut va pishloq suyaklarning mustahkam boʻlishiga yordam beradi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "brain",
+      "pronunciation_uz": "breyn",
+      "uzbek": "miya",
+      "pos": "noun",
+      "example_en": "Learning new words exercises your brain.",
+      "example_uz": "Yangi soʻzlarni oʻrganish miyani charxlaydi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "breath",
+      "pronunciation_uz": "bres",
+      "uzbek": "nafas",
+      "pos": "noun",
+      "example_en": "Step outside and take a breath of fresh air.",
+      "example_uz": "Tashqariga chiqib, toza havodan nafas oling.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "calm",
+      "pronunciation_uz": "kam",
+      "uzbek": "xotirjam, sokin",
+      "pos": "adj",
+      "example_en": "Stay calm and think carefully before answering.",
+      "example_uz": "Javob berishdan oldin xotirjam boʻling va yaxshilab oʻylang.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "care",
+      "pronunciation_uz": "keyr",
+      "uzbek": "gʻamxoʻrlik, parvarish",
+      "pos": "noun",
+      "example_en": "Take good care of your health in cold weather.",
+      "example_uz": "Sovuq havoda sogʻligʻingizga yaxshi e’tibor bering.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "confident",
+      "pronunciation_uz": "konfident",
+      "uzbek": "oʻziga ishongan",
+      "pos": "adj",
+      "example_en": "Good preparation makes you feel confident.",
+      "example_uz": "Yaxshi tayyorgarlik oʻzingizga boʻlgan ishonchni oshiradi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "cough",
+      "pronunciation_uz": "kof",
+      "uzbek": "yoʻtal",
+      "pos": "noun",
+      "example_en": "Hot herbal tea helped soothe his cough.",
+      "example_uz": "Issiq giyohli choy uning yoʻtalini yumshatishga yordam berdi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "curious",
+      "pronunciation_uz": "kyurios",
+      "uzbek": "qiziquvchan",
+      "pos": "adj",
+      "example_en": "Curious students always ask thoughtful questions.",
+      "example_uz": "Qiziquvchan oʻquvchilar doimo chuqur savollar berishadi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "dentist",
+      "pronunciation_uz": "dentist",
+      "uzbek": "tish shifokori",
+      "pos": "noun",
+      "example_en": "Visit the dentist twice a year for a checkup.",
+      "example_uz": "Yiliga ikki marta tish shifokori koʻrigidan oʻting.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "disease",
+      "pronunciation_uz": "diziz",
+      "uzbek": "kasallik, xastalik",
+      "pos": "noun",
+      "example_en": "Clean hands help prevent many diseases.",
+      "example_uz": "Qoʻllarni toza tutish koʻplab kasalliklarning oldini oladi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "doctor",
+      "pronunciation_uz": "doktor",
+      "uzbek": "shifokor, vrach",
+      "pos": "noun",
+      "example_en": "The doctor advised him to rest for three days.",
+      "example_uz": "Shifokor unga uch kun dam olishni maslahat berdi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "energy",
+      "pronunciation_uz": "enerji",
+      "uzbek": "quvvat, energiya",
+      "pos": "noun",
+      "example_en": "A healthy breakfast gives you energy for the morning.",
+      "example_uz": "Foydali nonushta ertalabki ishlar uchun quvvat beradi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "excited",
+      "pronunciation_uz": "iksayted",
+      "uzbek": "hayajonlangan, ruhlangan",
+      "pos": "adj",
+      "example_en": "The children were excited about the summer trip.",
+      "example_uz": "Bolalar yozgi sayohatdan juda hayajonda edilar.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "exercise",
+      "pronunciation_uz": "eksersayz",
+      "uzbek": "jismoniy mashq",
+      "pos": "noun",
+      "example_en": "Twenty minutes of morning exercise wakes up the body.",
+      "example_uz": "Yigirma daqiqalik ertalabki badantarbiya tanani tetiklashtiradi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "eye",
+      "pronunciation_uz": "ay",
+      "uzbek": "koʻz",
+      "pos": "noun",
+      "example_en": "Rest your eyes every hour when working at a computer.",
+      "example_uz": "Kompyuterda ishlaganda har soatda koʻzlaringizga dam bering.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "face",
+      "pronunciation_uz": "feys",
+      "uzbek": "yuz, chehra",
+      "pos": "noun",
+      "example_en": "A warm smile appeared on her face.",
+      "example_uz": "Uning yuzida iliq tabassum paydo boʻldi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "fever",
+      "pronunciation_uz": "fiver",
+      "uzbek": "isitma, harorat",
+      "pos": "noun",
+      "example_en": "Drink plenty of fluids if you have a fever.",
+      "example_uz": "Isitmangiz boʻlsa, koʻproq suyuqlik iching.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "glad",
+      "pronunciation_uz": "gled",
+      "uzbek": "xursand, mamnun",
+      "pos": "adj",
+      "example_en": "I am very glad to meet you today.",
+      "example_uz": "Bugun siz bilan uchrashganimdan juda xursandman.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "hand",
+      "pronunciation_uz": "hend",
+      "uzbek": "qoʻl",
+      "pos": "noun",
+      "example_en": "He shook my hand warmly and smiled.",
+      "example_uz": "U qoʻlimni samimiy siqib, tabassum qildi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "happy",
+      "pronunciation_uz": "hepi",
+      "uzbek": "baxtli, xursand",
+      "pos": "adj",
+      "example_en": "Good news made the whole family happy.",
+      "example_uz": "Xushxabar butun oilani xursand qildi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "headache",
+      "pronunciation_uz": "hedeyk",
+      "uzbek": "bosh ogʻrigʻi",
+      "pos": "noun",
+      "example_en": "Fresh air helped relieve my headache.",
+      "example_uz": "Toza havo bosh ogʻrigʻimni qoldirishga yordam berdi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "health",
+      "pronunciation_uz": "hels",
+      "uzbek": "salomatlik, sogʻliq",
+      "pos": "noun",
+      "example_en": "Good health is the greatest wealth in life.",
+      "example_uz": "Sogʻliq — hayotdagi eng katta boylikdir.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "healthy",
+      "pronunciation_uz": "helsi",
+      "uzbek": "sogʻlom, foydali",
+      "pos": "adj",
+      "example_en": "Eating fruit and vegetables keeps you healthy.",
+      "example_uz": "Meva va sabzavotlar iste’mol qilish sogʻlom boʻlishga yordam beradi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "heart",
+      "pronunciation_uz": "hart",
+      "uzbek": "yurak, qalb",
+      "pos": "noun",
+      "example_en": "She thanked her teacher from the bottom of her heart.",
+      "example_uz": "U oʻqituvchisiga chin yurakdan minnatdorchilik bildirdi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "hospital",
+      "pronunciation_uz": "hospital",
+      "uzbek": "shifoxona, kasalxona",
+      "pos": "noun",
+      "example_en": "A new medical hospital was built in our district.",
+      "example_uz": "Tumanimizda yangi tibbiyot shifoxonasi qurildi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "hungry",
+      "pronunciation_uz": "hangri",
+      "uzbek": "och (qorni ochgan)",
+      "pos": "adj",
+      "example_en": "Are you hungry after the long walk?",
+      "example_uz": "Uzoq sayrdan keyin qorningiz ochdimi?",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "lonely",
+      "pronunciation_uz": "lounli",
+      "uzbek": "yolgʻiz",
+      "pos": "adj",
+      "example_en": "Call your grandparents so they never feel lonely.",
+      "example_uz": "Bobo-buvingiz oʻzlarini yolgʻiz his qilmasliklari uchun qoʻngʻiroq qilib turing.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "medicine",
+      "pronunciation_uz": "medisin",
+      "uzbek": "dori-darmon, tibbiyot",
+      "pos": "noun",
+      "example_en": "Take this medicine after meals twice a day.",
+      "example_uz": "Ushbu dorini kuniga ikki mahal ovqatdan keyin iching.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "nervous",
+      "pronunciation_uz": "noʻrvos",
+      "uzbek": "hayajonlangan, asabiy",
+      "pos": "adj",
+      "example_en": "He was nervous at first, then spoke with confidence.",
+      "example_uz": "U boshida hayajonlandi, soʻngra ishonch bilan gapirdi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "nurse",
+      "pronunciation_uz": "noʻrs",
+      "uzbek": "hamshira",
+      "pos": "noun",
+      "example_en": "The kind nurse checked the patient's temperature.",
+      "example_uz": "Mehribon hamshira bemorning haroratini oʻlchadi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "pain",
+      "pronunciation_uz": "peyn",
+      "uzbek": "ogʻriq, dard",
+      "pos": "noun",
+      "example_en": "Tell the doctor immediately if you feel any pain.",
+      "example_uz": "Biror ogʻriq sezsangiz, darhol shifokorga ayting.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "patient",
+      "pronunciation_uz": "peyshent",
+      "uzbek": "bemor; sabrli",
+      "pos": "noun",
+      "example_en": "The patient recovered quickly after treatment.",
+      "example_uz": "Bemor muolajadan soʻng tezda sogʻayib ketdi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "proud",
+      "pronunciation_uz": "praud",
+      "uzbek": "faxrlangan, magʻrur",
+      "pos": "adj",
+      "example_en": "Her parents are very proud of her achievements.",
+      "example_uz": "Ota-onasi uning yutuqlaridan juda faxrlanishadi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "sad",
+      "pronunciation_uz": "sed",
+      "uzbek": "xafa, gʻamgin",
+      "pos": "adj",
+      "example_en": "Don't be sad, tomorrow will bring new opportunities.",
+      "example_uz": "Xafa boʻlmang, ertangi kun yangi imkoniyatlar olib keladi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "sick",
+      "pronunciation_uz": "sik",
+      "uzbek": "kasal, betob",
+      "pos": "adj",
+      "example_en": "Stay home and rest if you feel sick.",
+      "example_uz": "Oʻzingizni betob his qilsangiz, uyda qolib dam oling.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "sleep",
+      "pronunciation_uz": "slip",
+      "uzbek": "uyqu",
+      "pos": "noun",
+      "example_en": "Eight hours of sleep helps your memory work better.",
+      "example_uz": "Sakkiz soatlik uyqu xotiraning yaxshi ishlashiga yordam beradi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "stomach",
+      "pronunciation_uz": "stomak",
+      "uzbek": "oshqozon, qorin",
+      "pos": "noun",
+      "example_en": "Do not drink very cold water on an empty stomach.",
+      "example_uz": "Och qoringa juda sovuq suv ichmang.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "thirsty",
+      "pronunciation_uz": "soʻrsti",
+      "uzbek": "chanqagan",
+      "pos": "adj",
+      "example_en": "Working under the summer sun made us thirsty.",
+      "example_uz": "Yoz quyoshi ostida ishlash bizni chanqatdi.",
+      "category": "Feelings & Health"
+    },
+    {
+      "english": "tired",
+      "pronunciation_uz": "tayerd",
+      "uzbek": "charchagan, toliqqan",
+      "pos": "adj",
+      "example_en": "He felt tired but happy after finishing the work.",
+      "example_uz": "U ishni tugatgach, charchagan, ammo xursand edi.",
+      "category": "Feelings & Health"
+    }
+  ]
+}

@@ -1,0 +1,1096 @@
+{
+  "title": "Kompyuter, dasturlash va sunʼiy intellekt",
+  "category": "Computers, Software & AI",
+  "group": "topic",
+  "words": [
+    {
+      "english": "algorithm",
+      "pronunciation_uz": "algorizm",
+      "uzbek": "algoritm",
+      "pos": "noun",
+      "example_en": "The search algorithm finds results in milliseconds.",
+      "example_uz": "Qidiruv algoritmi natijalarni millisekundlarda topadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "artificial intelligence",
+      "pronunciation_uz": "artifishl intellijens",
+      "uzbek": "sunʼiy intellekt",
+      "pos": "noun",
+      "example_en": "Artificial intelligence is transforming modern medicine.",
+      "example_uz": "Sunʼiy intellekt zamonaviy tibbiyotni oʻzgartirmoqda.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "automation",
+      "pronunciation_uz": "otomeyshn",
+      "uzbek": "avtomatlashtirish",
+      "pos": "noun",
+      "example_en": "Factory automation increased production speed.",
+      "example_uz": "Zavodni avtomatlashtirish ishlab chiqarish tezligini oshirdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "backend",
+      "pronunciation_uz": "bekend",
+      "uzbek": "bekend (ichki dasturiy qism)",
+      "pos": "noun",
+      "example_en": "He works as a backend engineer for a fintech firm.",
+      "example_uz": "U fintex kompaniyasida bekend muhandisi boʻlib ishlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "backup",
+      "pronunciation_uz": "bekap",
+      "uzbek": "zaxira nusxa",
+      "pos": "noun",
+      "example_en": "Always keep a backup of your important code.",
+      "example_uz": "Muhim kodingizning zaxira nusxasini doimo saqlang.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "bandwidth",
+      "pronunciation_uz": "bendvidz",
+      "uzbek": "oʻtkazish qobiliyati",
+      "pos": "noun",
+      "example_en": "High-definition video requires significant bandwidth.",
+      "example_uz": "Yuqori sifatli video katta oʻtkazish qobiliyatini talab qiladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "binary",
+      "pronunciation_uz": "bayneri",
+      "uzbek": "ikkilik (binar)",
+      "pos": "adj",
+      "example_en": "Computers process all instructions in binary code.",
+      "example_uz": "Kompyuterlar barcha buyruqlarni ikkilik kodda qayta ishlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "motherboard",
+      "pronunciation_uz": "mazerbord",
+      "uzbek": "ona plata",
+      "pos": "noun",
+      "example_en": "The technician replaced the damaged motherboard.",
+      "example_uz": "Texnik shikastlangan ona platani almashtirdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "bit",
+      "pronunciation_uz": "bit",
+      "uzbek": "bit (eng kichik axborot birligi)",
+      "pos": "noun",
+      "example_en": "A single bit represents either zero or one.",
+      "example_uz": "Bitta bit nol yoki birni ifodalaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "byte",
+      "pronunciation_uz": "bayt",
+      "uzbek": "bayt",
+      "pos": "noun",
+      "example_en": "One byte consists of eight adjacent bits.",
+      "example_uz": "Bir bayt sakkizta ketma-ket bitdan iborat.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "blockchain",
+      "pronunciation_uz": "blokcheyn",
+      "uzbek": "blokcheyn",
+      "pos": "noun",
+      "example_en": "Blockchain technology ensures transparent transactions.",
+      "example_uz": "Blokcheyn texnologiyasi shaffof tranzaksiyalarni taʼminlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "boolean",
+      "pronunciation_uz": "bulian",
+      "uzbek": "mantiqiy (bul)",
+      "pos": "adj",
+      "example_en": "A boolean variable can only be true or false.",
+      "example_uz": "Mantiqiy oʻzgaruvchi faqat rost yoki yolgʻon boʻlishi mumkin.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "bug",
+      "pronunciation_uz": "bag",
+      "uzbek": "dasturiy xato (bag)",
+      "pos": "noun",
+      "example_en": "The developer fixed a critical bug before launch.",
+      "example_uz": "Dasturchi ishga tushirishdan oldin jiddiy xatoni tuzatdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "cache",
+      "pronunciation_uz": "kesh",
+      "uzbek": "kesh xotira",
+      "pos": "noun",
+      "example_en": "Clearing the cache solved the loading issue.",
+      "example_uz": "Kesh xotirani tozalash yuklanish muammosini hal qildi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "central processing unit",
+      "pronunciation_uz": "sentral prosessing yunit",
+      "uzbek": "markaziy protsessor",
+      "pos": "noun",
+      "example_en": "The central processing unit executes program instructions.",
+      "example_uz": "Markaziy protsessor dastur buyruqlarini bajaradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "chatbot",
+      "pronunciation_uz": "chatbot",
+      "uzbek": "chatbot",
+      "pos": "noun",
+      "example_en": "The customer service chatbot answers common questions.",
+      "example_uz": "Mijozlarga xizmat koʻrsatish chatboti keng tarqalgan savollarga javob beradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "circuit",
+      "pronunciation_uz": "serkit",
+      "uzbek": "elektr zanjiri (sxema)",
+      "pos": "noun",
+      "example_en": "A short circuit caused the power supply to fail.",
+      "example_uz": "Qisqa tutashuv elektr taʼminoti blokining ishdan chiqishiga sabab boʻldi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "cloud computing",
+      "pronunciation_uz": "klaud kompyuting",
+      "uzbek": "bulutli hisoblash",
+      "pos": "noun",
+      "example_en": "Cloud computing allows companies to scale servers easily.",
+      "example_uz": "Bulutli hisoblash kompaniyalarga serverlarni oson kengaytirish imkonini beradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "codebase",
+      "pronunciation_uz": "kodbeys",
+      "uzbek": "kod bazasi",
+      "pos": "noun",
+      "example_en": "Our team maintains a massive codebase in Python.",
+      "example_uz": "Jamoamiz Python tilida katta kod bazasini qoʻllab-quvvatlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "compiler",
+      "pronunciation_uz": "kompayler",
+      "uzbek": "kompilyator",
+      "pos": "noun",
+      "example_en": "The compiler reported a syntax error on line forty.",
+      "example_uz": "Kompilyator qirqinchi qatorda sintaktik xato haqida xabar berdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "compression",
+      "pronunciation_uz": "kompreshn",
+      "uzbek": "siqish (maʼlumotlarni)",
+      "pos": "noun",
+      "example_en": "File compression reduces storage space significantly.",
+      "example_uz": "Fayllarni siqish xotira joyini sezilarli darajada kamaytiradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "configuration",
+      "pronunciation_uz": "konfigureyshn",
+      "uzbek": "sozlama (konfiguratsiya)",
+      "pos": "noun",
+      "example_en": "Check the server configuration before restarting.",
+      "example_uz": "Qayta ishga tushirishdan oldin server konfiguratsiyasini tekshiring.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "configure",
+      "pronunciation_uz": "konfigyur",
+      "uzbek": "sozlamoq",
+      "pos": "verb",
+      "example_en": "You need to configure the firewall rules properly.",
+      "example_uz": "Xavfsizlik devori qoidalarini toʻgʻri sozlashingiz kerak.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "cooling fan",
+      "pronunciation_uz": "kuling fen",
+      "uzbek": "sovutish parragi (kuler)",
+      "pos": "noun",
+      "example_en": "The cooling fan keeps the processor from overheating.",
+      "example_uz": "Sovutish parragi protsessorni qizib ketishdan saqlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "cryptography",
+      "pronunciation_uz": "kriptografi",
+      "uzbek": "kriptografiya (shifrlash ilmi)",
+      "pos": "noun",
+      "example_en": "Modern banking relies heavily on cryptography.",
+      "example_uz": "Zamonaviy bank tizimi kriptografiyaga tayanadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "cursor",
+      "pronunciation_uz": "kursor",
+      "uzbek": "kursor",
+      "pos": "noun",
+      "example_en": "Move the cursor to the top corner of the screen.",
+      "example_uz": "Kursorni ekranning yuqori burchagiga olib boring.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "cyberattack",
+      "pronunciation_uz": "sayberatak",
+      "uzbek": "kiberhujum",
+      "pos": "noun",
+      "example_en": "The bank successfully blocked a major cyberattack.",
+      "example_uz": "Bank yirik kiberhujumni muvaffaqiyatli bartaraf etdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "cybersecurity",
+      "pronunciation_uz": "saybersekyuriti",
+      "uzbek": "kiberxavfsizlik",
+      "pos": "noun",
+      "example_en": "Companies invest millions in cybersecurity training.",
+      "example_uz": "Kompaniyalar kiberxavfsizlik boʻyicha oʻquvlarga millionlab sarmoya kiritadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "data mining",
+      "pronunciation_uz": "deyta mayning",
+      "uzbek": "maʼlumotlarni intellektual tahlil qilish",
+      "pos": "noun",
+      "example_en": "Data mining helps retailers understand buying habits.",
+      "example_uz": "Maʼlumotlarni tahlil qilish savdogarlarga xarid odatlarini tushunishga yordam beradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "data science",
+      "pronunciation_uz": "deyta sayens",
+      "uzbek": "maʼlumotlar ilmi (Data Science)",
+      "pos": "noun",
+      "example_en": "She earned a master's degree in data science.",
+      "example_uz": "U maʼlumotlar ilmi boʻyicha magistrlik darajasini oldi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "database",
+      "pronunciation_uz": "deytabeys",
+      "uzbek": "maʼlumotlar bazasi",
+      "pos": "noun",
+      "example_en": "All customer records are stored in a secure database.",
+      "example_uz": "Mijozlarning barcha yozuvlari xavfsiz maʼlumotlar bazasida saqlanadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "debug",
+      "pronunciation_uz": "dibag",
+      "uzbek": "xatolarni topib tuzatmoq (debag qilmoq)",
+      "pos": "verb",
+      "example_en": "It took three hours to debug the payment module.",
+      "example_uz": "Toʻlov modulidagi xatolarni topib tuzatishga uch soat vaqt ketdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "debugger",
+      "pronunciation_uz": "dibager",
+      "uzbek": "xato tuzatkich (debagger)",
+      "pos": "noun",
+      "example_en": "Use the debugger to inspect variable values step by step.",
+      "example_uz": "Oʻzgaruvchilar qiymatini qadam-baqadam tekshirish uchun debaggerdan foydalaning.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "decrypt",
+      "pronunciation_uz": "dikript",
+      "uzbek": "shifrni ochmoq",
+      "pos": "verb",
+      "example_en": "Only authorized users can decrypt the private files.",
+      "example_uz": "Faqat vakolatli foydalanuvchilar maxfiy fayllar shifrini ochishi mumkin.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "deep learning",
+      "pronunciation_uz": "dip lerning",
+      "uzbek": "chuqur oʻrganish (Deep Learning)",
+      "pos": "noun",
+      "example_en": "Deep learning enables accurate speech recognition.",
+      "example_uz": "Chuqur oʻrganish nutqni aniq tanib olish imkonini beradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "default",
+      "pronunciation_uz": "difolt",
+      "uzbek": "standart (boshlangʻich holat)",
+      "pos": "noun",
+      "example_en": "You can restore the settings to their factory default.",
+      "example_uz": "Sozlamalarni zavoddagi boshlangʻich holatiga qaytarishingiz mumkin.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "deploy",
+      "pronunciation_uz": "diploy",
+      "uzbek": "ishga tushirmoq (joylashtirmoq)",
+      "pos": "verb",
+      "example_en": "We deploy new updates to the server every Friday.",
+      "example_uz": "Biz har juma kuni serverga yangi yangilanishlarni joylashtiramiz.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "deployment",
+      "pronunciation_uz": "diployment",
+      "uzbek": "joylashtirish (ishga tushirish)",
+      "pos": "noun",
+      "example_en": "Automated deployment reduces human error.",
+      "example_uz": "Avtomatlashtirilgan joylashtirish inson xatosini kamaytiradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "desktop",
+      "pronunciation_uz": "desktop",
+      "uzbek": "ish stoli kompyuteri",
+      "pos": "noun",
+      "example_en": "A desktop computer is easier to upgrade than a laptop.",
+      "example_uz": "Ish stoli kompyuterini noutbukka qaraganda yangilash osonroq.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "diagnostics",
+      "pronunciation_uz": "dayagnostiks",
+      "uzbek": "diagnostika",
+      "pos": "noun",
+      "example_en": "Run system diagnostics to check for memory errors.",
+      "example_uz": "Xotira xatolarini tekshirish uchun tizim diagnostikasini ishga tushiring.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "directory",
+      "pronunciation_uz": "direktori",
+      "uzbek": "katalog (jild)",
+      "pos": "noun",
+      "example_en": "Create a new directory for the project files.",
+      "example_uz": "Loyiha fayllari uchun yangi katalog yarating.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "disk",
+      "pronunciation_uz": "disk",
+      "uzbek": "disk",
+      "pos": "noun",
+      "example_en": "The hard disk is almost full of video files.",
+      "example_uz": "Qattiq disk video fayllar bilan deyarli toʻlgan.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "documentation",
+      "pronunciation_uz": "dokyumenteyshn",
+      "uzbek": "texnik hujjatlar",
+      "pos": "noun",
+      "example_en": "Read the official documentation before using the library.",
+      "example_uz": "Kutubxonadan foydalanishdan oldin rasmiy texnik hujjatlarni oʻqing.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "driver",
+      "pronunciation_uz": "drayver",
+      "uzbek": "drayver (boshqaruv dasturi)",
+      "pos": "noun",
+      "example_en": "Install the latest printer driver on your computer.",
+      "example_uz": "Kompyuteringizga eng soʻnggi printer drayverini oʻrnating.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "drone",
+      "pronunciation_uz": "dron",
+      "uzbek": "dron (uchuvchisiz qurilma)",
+      "pos": "noun",
+      "example_en": "An autonomous drone delivered the medical package.",
+      "example_uz": "Avtonom dron tibbiy joʻnatmani yetkazib berdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "encode",
+      "pronunciation_uz": "enkod",
+      "uzbek": "kodlamoq",
+      "pos": "verb",
+      "example_en": "We encode all text files using the UTF-8 standard.",
+      "example_uz": "Biz barcha matnli fayllarni UTF-8 standarti yordamida kodlaymiz.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "encrypt",
+      "pronunciation_uz": "enkript",
+      "uzbek": "shifrlamoq",
+      "pos": "verb",
+      "example_en": "Always encrypt sensitive passwords in the database.",
+      "example_uz": "Maʼlumotlar bazasidagi maxfiy parollarni doimo shifrlang.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "encryption",
+      "pronunciation_uz": "enkripshn",
+      "uzbek": "shifrlash",
+      "pos": "noun",
+      "example_en": "End-to-end encryption protects your private messages.",
+      "example_uz": "Uchdan-uchga shifrlash shaxsiy xabarlaringizni himoya qiladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "ethernet",
+      "pronunciation_uz": "izernet",
+      "uzbek": "Ethernet (simli tarmoq)",
+      "pos": "noun",
+      "example_en": "An ethernet cable provides a stable connection.",
+      "example_uz": "Ethernet kabeli barqaror ulanishni taʼminlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "execute",
+      "pronunciation_uz": "eksekyut",
+      "uzbek": "bajarmoq (ishga tushirmoq)",
+      "pos": "verb",
+      "example_en": "Press enter to execute the script.",
+      "example_uz": "Skriptni ishga tushirish uchun enter tugmasini bosing.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "execution",
+      "pronunciation_uz": "eksekyushn",
+      "uzbek": "bajarilish (ijro)",
+      "pos": "noun",
+      "example_en": "Program execution stopped due to insufficient memory.",
+      "example_uz": "Xotira yetishmasligi sababli dasturning bajarilishi toʻxtadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "executable",
+      "pronunciation_uz": "eksekyutabl",
+      "uzbek": "bajariladigan fayl",
+      "pos": "noun",
+      "example_en": "Do not open an executable from an unknown source.",
+      "example_uz": "Nomaʼlum manbadan olingan bajariladigan faylni ochmang.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "file system",
+      "pronunciation_uz": "fayl sistem",
+      "uzbek": "fayl tizimi",
+      "pos": "noun",
+      "example_en": "The operating system organizes data in a file system.",
+      "example_uz": "Operatsion tizim maʼlumotlarni fayl tizimida tartibga soladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "firewall",
+      "pronunciation_uz": "fayrvol",
+      "uzbek": "xavfsizlik devori (fayrvol)",
+      "pos": "noun",
+      "example_en": "The corporate firewall blocks suspicious network traffic.",
+      "example_uz": "Korporativ xavfsizlik devori shubhali tarmoq trafigini bloklaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "firmware",
+      "pronunciation_uz": "fermver",
+      "uzbek": "mikrodastur (proshivka)",
+      "pos": "noun",
+      "example_en": "Updating the router firmware fixed the security flaw.",
+      "example_uz": "Router mikrodasturini yangilash xavfsizlik kamchiligini tuzatdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "flowchart",
+      "pronunciation_uz": "flouchart",
+      "uzbek": "blok-sxema",
+      "pos": "noun",
+      "example_en": "Draw a flowchart to visualize the algorithm logic.",
+      "example_uz": "Algoritm mantiqini tasavvur qilish uchun blok-sxema chizing.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "frontend",
+      "pronunciation_uz": "frontend",
+      "uzbek": "frontend (tashqi interfeys qismi)",
+      "pos": "noun",
+      "example_en": "She specializes in frontend design and accessibility.",
+      "example_uz": "U frontend dizayni va qulaylik yaratishga ixtisoslashgan.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "gigabyte",
+      "pronunciation_uz": "gigabayt",
+      "uzbek": "gigabayt",
+      "pos": "noun",
+      "example_en": "The movie file is about four gigabytes in size.",
+      "example_uz": "Film faylining hajmi taxminan toʻrt gigabaytni tashkil etadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "glitch",
+      "pronunciation_uz": "glich",
+      "uzbek": "qisqa nosozlik (glyuk)",
+      "pos": "noun",
+      "example_en": "A minor software glitch delayed the ticket sale.",
+      "example_uz": "Kichik dasturiy nosozlik chiptalar sotuvini kechiktirdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "graphics card",
+      "pronunciation_uz": "grafiks kard",
+      "uzbek": "videokarta (grafik karta)",
+      "pos": "noun",
+      "example_en": "Training neural networks requires a powerful graphics card.",
+      "example_uz": "Neyron tarmoqlarni oʻqitish kuchli videokartani talab qiladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "hacker",
+      "pronunciation_uz": "haker",
+      "uzbek": "xaker",
+      "pos": "noun",
+      "example_en": "An ethical hacker helped find vulnerabilities in our app.",
+      "example_uz": "Axloqiy xaker ilovamizdagi zaifliklarni topishga yordam berdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "hard drive",
+      "pronunciation_uz": "hard drayv",
+      "uzbek": "qattiq disk (vinchester)",
+      "pos": "noun",
+      "example_en": "We backed up old photos onto an external hard drive.",
+      "example_uz": "Eski suratlarni tashqi qattiq diskka zaxiraladik.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "hardware",
+      "pronunciation_uz": "hardver",
+      "uzbek": "apparat taʼminoti (temir qism)",
+      "pos": "noun",
+      "example_en": "Computer hardware includes the monitor, keyboard, and chips.",
+      "example_uz": "Kompyuterning apparat taʼminoti monitor, klaviatura va chiplarni oʻz ichiga oladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "hash",
+      "pronunciation_uz": "hesh",
+      "uzbek": "xesh (kodlangan satr)",
+      "pos": "noun",
+      "example_en": "We store a cryptographic hash instead of plain passwords.",
+      "example_uz": "Biz oddiy parollar oʻrniga kriptografik xeshni saqlaymiz.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "integer",
+      "pronunciation_uz": "intijer",
+      "uzbek": "butun son",
+      "pos": "noun",
+      "example_en": "Store the item count as a positive integer.",
+      "example_uz": "Mahsulotlar sonini musbat butun son sifatida saqlang.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "interface",
+      "pronunciation_uz": "interfeys",
+      "uzbek": "interfeys",
+      "pos": "noun",
+      "example_en": "The new software has a clean and intuitive interface.",
+      "example_uz": "Yangi dastur toza va tushunarli interfeysga ega.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "iteration",
+      "pronunciation_uz": "itereyshn",
+      "uzbek": "takrorlanish (iteratsiya)",
+      "pos": "noun",
+      "example_en": "Each iteration of the loop processes one record.",
+      "example_uz": "Tsiklning har bir takrorlanishi bitta yozuvni qayta ishlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "keyboard",
+      "pronunciation_uz": "kibord",
+      "uzbek": "klaviatura",
+      "pos": "noun",
+      "example_en": "A mechanical keyboard is comfortable for long typing sessions.",
+      "example_uz": "Mexanik klaviatura uzoq vaqt yozish uchun qulay.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "kilobyte",
+      "pronunciation_uz": "kilobayt",
+      "uzbek": "kilobayt",
+      "pos": "noun",
+      "example_en": "A plain text file is only a few kilobytes.",
+      "example_uz": "Oddiy matnli fayl atigi bir necha kilobayt boʻladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "laptop",
+      "pronunciation_uz": "leptop",
+      "uzbek": "noutbuk",
+      "pos": "noun",
+      "example_en": "She carries her lightweight laptop to every lecture.",
+      "example_uz": "U yengil noutbukini har bir maʼruzaga olib boradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "latency",
+      "pronunciation_uz": "leytensi",
+      "uzbek": "kechikish vaqti (latentlik)",
+      "pos": "noun",
+      "example_en": "Low latency is critical for real-time audio processing.",
+      "example_uz": "Real vaqtda audioni qayta ishlash uchun past kechikish juda muhim.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "loop",
+      "pronunciation_uz": "lup",
+      "uzbek": "tsikl (takrorlanuvchi operator)",
+      "pos": "noun",
+      "example_en": "An infinite loop caused the program to freeze.",
+      "example_uz": "Cheksiz tsikl dasturning qotib qolishiga sabab boʻldi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "machine learning",
+      "pronunciation_uz": "mashin lerning",
+      "uzbek": "mashinaviy oʻrganish",
+      "pos": "noun",
+      "example_en": "Machine learning models improve as they see more data.",
+      "example_uz": "Mashinaviy oʻrganish modellari koʻproq maʼlumot koʻrgan sari yaxshilanadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "mainframe",
+      "pronunciation_uz": "meynfreym",
+      "uzbek": "meynfreym (yirik hisoblash mashinasi)",
+      "pos": "noun",
+      "example_en": "Large banks still use mainframe computers for transactions.",
+      "example_uz": "Yirik banklar tranzaksiyalar uchun hali ham meynfreym kompyuterlaridan foydalanadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "malware",
+      "pronunciation_uz": "malver",
+      "uzbek": "zararli dastur",
+      "pos": "noun",
+      "example_en": "Antivirus software scans the computer for malware.",
+      "example_uz": "Antivirus dasturi kompyuterni zararli dasturlarga tekshiradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "megabyte",
+      "pronunciation_uz": "megabayt",
+      "uzbek": "megabayt",
+      "pos": "noun",
+      "example_en": "Each high-quality photo takes about five megabytes.",
+      "example_uz": "Har bir yuqori sifatli surat taxminan besh megabayt joy oladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "memory",
+      "pronunciation_uz": "memori",
+      "uzbek": "xotira",
+      "pos": "noun",
+      "example_en": "Upgrading the system memory made multitasking smoother.",
+      "example_uz": "Tizim xotirasini kengaytirish koʻp vazifali ishlashni silliq qildi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "microchip",
+      "pronunciation_uz": "maykrochip",
+      "uzbek": "mikrochip",
+      "pos": "noun",
+      "example_en": "Modern cars depend on dozens of tiny microchips.",
+      "example_uz": "Zamonaviy avtomobillar oʻnlab kichik mikrochiplarga tayanadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "microprocessor",
+      "pronunciation_uz": "maykroprosessor",
+      "uzbek": "mikroprotsessor",
+      "pos": "noun",
+      "example_en": "The microprocessor controls the smart thermostat.",
+      "example_uz": "Mikroprotsessor aqlli termostatni boshqaradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "mouse",
+      "pronunciation_uz": "maus",
+      "uzbek": "sichqoncha (kompyuter qurilmasi)",
+      "pos": "noun",
+      "example_en": "Click the right button on your wireless mouse.",
+      "example_uz": "Simsiz sichqonchaning oʻng tugmasini bosing.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "natural language processing",
+      "pronunciation_uz": "nechural lengvij prosessing",
+      "uzbek": "tabiiy tilni qayta ishlash",
+      "pos": "noun",
+      "example_en": "Translation apps rely on natural language processing.",
+      "example_uz": "Tarjima ilovalari tabiiy tilni qayta ishlash texnologiyasiga tayanadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "neural network",
+      "pronunciation_uz": "nyural netvork",
+      "uzbek": "neyron tarmoq",
+      "pos": "noun",
+      "example_en": "A neural network mimics how the human brain learns.",
+      "example_uz": "Neyron tarmoq inson miyasi qanday oʻrganishini taqlid qiladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "node",
+      "pronunciation_uz": "noud",
+      "uzbek": "tugun (tarmoq yoki daraxt elementi)",
+      "pos": "noun",
+      "example_en": "Every node in the network stores a copy of the ledger.",
+      "example_uz": "Tarmoqdagi har bir tugun reyestr nusxasini saqlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "object-oriented",
+      "pronunciation_uz": "objekt oriyented",
+      "uzbek": "obyektga yoʻnaltirilgan",
+      "pos": "adj",
+      "example_en": "Java is a widely used object-oriented programming language.",
+      "example_uz": "Java keng qoʻllaniladigan obyektga yoʻnaltirilgan dasturlash tilidir.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "open source",
+      "pronunciation_uz": "oupen sors",
+      "uzbek": "ochiq manbali (kodli)",
+      "pos": "adj",
+      "example_en": "Developers around the world contribute to open source software.",
+      "example_uz": "Butun dunyo dasturchilari ochiq manbali dasturlarga hissa qoʻshadilar.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "operating system",
+      "pronunciation_uz": "opereyting sistem",
+      "uzbek": "operatsion tizim",
+      "pos": "noun",
+      "example_en": "Which operating system do you prefer on your computer?",
+      "example_uz": "Kompyuteringizda qaysi operatsion tizimni afzal koʻrasiz?",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "optimization",
+      "pronunciation_uz": "optimizeyshn",
+      "uzbek": "optimallashtirish",
+      "pos": "noun",
+      "example_en": "Code optimization reduced server costs by thirty percent.",
+      "example_uz": "Kodni optimallashtirish server xarajatlarini oʻttiz foizga kamaytirdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "parser",
+      "pronunciation_uz": "parser",
+      "uzbek": "parser (sintaktik tahlilchi)",
+      "pos": "noun",
+      "example_en": "We wrote a custom parser to read the log files.",
+      "example_uz": "Biz jurnal fayllarini oʻqish uchun maxsus parser yozdik.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "peripheral",
+      "pronunciation_uz": "periferal",
+      "uzbek": "tashqi (periferik) qurilma",
+      "pos": "noun",
+      "example_en": "Keyboards, printers, and scanners are computer peripherals.",
+      "example_uz": "Klaviaturalar, printerlar va skanerlar kompyuterning tashqi qurilmalaridir.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "pixel",
+      "pronunciation_uz": "piksel",
+      "uzbek": "piksel (tasvir nuqtasi)",
+      "pos": "noun",
+      "example_en": "Each pixel on the screen displays a combination of three colors.",
+      "example_uz": "Ekrandagi har bir piksel uchta rang uygʻunligini koʻrsatadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "plugin",
+      "pronunciation_uz": "plagin",
+      "uzbek": "plagin (qoʻshimcha kengaytma)",
+      "pos": "noun",
+      "example_en": "Install this plugin to check grammar in your code editor.",
+      "example_uz": "Kod muharririda imloni tekshirish uchun ushbu plaginni oʻrnating.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "power supply",
+      "pronunciation_uz": "pauer saplay",
+      "uzbek": "elektr taʼminoti bloki",
+      "pos": "noun",
+      "example_en": "A reliable power supply protects internal components.",
+      "example_uz": "Ishonchli elektr taʼminoti bloki ichki qismlarni himoya qiladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "printer",
+      "pronunciation_uz": "printer",
+      "uzbek": "printer",
+      "pos": "noun",
+      "example_en": "Load fresh paper into the laser printer.",
+      "example_uz": "Lazerli printerga toza qogʻoz joylang.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "processor",
+      "pronunciation_uz": "prosessor",
+      "uzbek": "protsessor",
+      "pos": "noun",
+      "example_en": "The new processor handles video editing effortlessly.",
+      "example_uz": "Yangi protsessor video montajni qiyinchiliksiz bajaradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "program",
+      "pronunciation_uz": "program",
+      "uzbek": "dastur",
+      "pos": "noun",
+      "example_en": "She wrote a small program to rename hundreds of files.",
+      "example_uz": "U yuzlab fayllar nomini oʻzgartirish uchun kichik dastur yozdi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "programming language",
+      "pronunciation_uz": "programing lengvij",
+      "uzbek": "dasturlash tili",
+      "pos": "noun",
+      "example_en": "Python is an easy programming language for beginners.",
+      "example_uz": "Python yangi boshlovchilar uchun oson dasturlash tilidir.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "query",
+      "pronunciation_uz": "kveri",
+      "uzbek": "soʻrov (maʼlumotlar bazasiga)",
+      "pos": "noun",
+      "example_en": "This SQL query retrieves all orders from last month.",
+      "example_uz": "Ushbu SQL soʻrovi oʻtgan oydagi barcha buyurtmalarni oladi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "random access memory",
+      "pronunciation_uz": "rendom ekses memori",
+      "uzbek": "tezkor xotira (RAM)",
+      "pos": "noun",
+      "example_en": "Sixteen gigabytes of random access memory is ideal for coding.",
+      "example_uz": "Oʻn olti gigabayt tezkor xotira dasturlash uchun juda mos.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "ransomware",
+      "pronunciation_uz": "rensomver",
+      "uzbek": "tovlamachi virus (ransomware)",
+      "pos": "noun",
+      "example_en": "Ransomware locks files until a payment is made.",
+      "example_uz": "Tovlamachi virus toʻlov amalga oshirilmaguncha fayllarni bloklab qoʻyadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "reboot",
+      "pronunciation_uz": "ribut",
+      "uzbek": "qayta yuklamoq (oʻchirib yoqmoq)",
+      "pos": "verb",
+      "example_en": "Please reboot your computer after the installation finishes.",
+      "example_uz": "Oʻrnatish tugagandan soʻng kompyuteringizni qayta yuklang.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "recursion",
+      "pronunciation_uz": "rikershn",
+      "uzbek": "rekursiya (funksiyaning oʻzini chaqirishi)",
+      "pos": "noun",
+      "example_en": "Tree traversal is easy to implement using recursion.",
+      "example_uz": "Daraxt boʻylab oʻtishni rekursiya yordamida amalga oshirish oson.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "refactor",
+      "pronunciation_uz": "rifektor",
+      "uzbek": "kodni qayta ishlash (refaktoring)",
+      "pos": "verb",
+      "example_en": "We need to refactor the old code to make it readable.",
+      "example_uz": "Eski kodni oʻqishga qulay qilish uchun uni qayta ishlashimiz kerak.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "repository",
+      "pronunciation_uz": "ripozitori",
+      "uzbek": "repozitoriy (kod ombori)",
+      "pos": "noun",
+      "example_en": "Push your changes to the central Git repository.",
+      "example_uz": "Oʻzgarishlaringizni markaziy Git repozitoriysiga yuboring.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "resolution",
+      "pronunciation_uz": "rezolyushn",
+      "uzbek": "ekran aniqligi (rezolyutsiya)",
+      "pos": "noun",
+      "example_en": "The monitor supports 4K ultra-high resolution.",
+      "example_uz": "Monitor 4K oʻta yuqori ekran aniqligini qoʻllab-quvvatlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "robot",
+      "pronunciation_uz": "robot",
+      "uzbek": "robot",
+      "pos": "noun",
+      "example_en": "An industrial robot welds car frames with high precision.",
+      "example_uz": "Sanoat roboti avtomobil ramkalarini yuqori aniqlikda payvandlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "robotics",
+      "pronunciation_uz": "robotiks",
+      "uzbek": "robototexnika",
+      "pos": "noun",
+      "example_en": "Students built a robotic arm in the robotics lab.",
+      "example_uz": "Talabalar robototexnika laboratoriyasida robot qoʻlini yasadilar.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "runtime",
+      "pronunciation_uz": "rantaym",
+      "uzbek": "ishlash vaqti (bajarilish muhiti)",
+      "pos": "noun",
+      "example_en": "The division by zero caused a runtime error.",
+      "example_uz": "Nolga boʻlish ishlash vaqtida xatolikka sabab boʻldi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "scalability",
+      "pronunciation_uz": "skeylabiliti",
+      "uzbek": "kengayuvchanlik (masshtablashuv)",
+      "pos": "noun",
+      "example_en": "Cloud architecture provides excellent scalability for startups.",
+      "example_uz": "Bulutli arxitektura startaplar uchun aʼlo darajadagi kengayuvchanlikni taʼminlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "scanner",
+      "pronunciation_uz": "skener",
+      "uzbek": "skaner",
+      "pos": "noun",
+      "example_en": "Use the flatbed scanner to digitize the signed contract.",
+      "example_uz": "Imzolangan shartnomani raqamlashtirish uchun skanerdan foydalaning.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "schema",
+      "pronunciation_uz": "skima",
+      "uzbek": "sxema (maʼlumotlar bazasi tuzilmasi)",
+      "pos": "noun",
+      "example_en": "We updated the database schema to add a phone column.",
+      "example_uz": "Telefon ustunini qoʻshish uchun maʼlumotlar bazasi sxemasini yangiladik.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "script",
+      "pronunciation_uz": "skript",
+      "uzbek": "skript (kichik dastur)",
+      "pos": "noun",
+      "example_en": "A backup script runs automatically every midnight.",
+      "example_uz": "Zaxiralash skripti har yarim tunda avtomatik ravishda ishga tushadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "semiconductor",
+      "pronunciation_uz": "semikondaktor",
+      "uzbek": "yarimoʻtkazgich",
+      "pos": "noun",
+      "example_en": "Silicon is the most common material in semiconductor manufacturing.",
+      "example_uz": "Kremniy yarimoʻtkazgichlar ishlab chiqarishda eng koʻp ishlatiladigan materialdir.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "sensor",
+      "pronunciation_uz": "sensor",
+      "uzbek": "datchik (sensor)",
+      "pos": "noun",
+      "example_en": "An optical sensor detects movement in the room.",
+      "example_uz": "Optik datchik xonadagi harakatni aniqlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "server",
+      "pronunciation_uz": "server",
+      "uzbek": "server",
+      "pos": "noun",
+      "example_en": "The web server handles thousands of requests per second.",
+      "example_uz": "Veb-server soniyasiga minglab soʻrovlarni qayta ishlaydi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "simulation",
+      "pronunciation_uz": "simyuleyshn",
+      "uzbek": "simulyatsiya (imitatsiya)",
+      "pos": "noun",
+      "example_en": "Pilots practice emergencies in a flight simulation.",
+      "example_uz": "Uchuvchilar parvoz simulyatsiyasida favqulodda holatlarni mashq qiladilar.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "software",
+      "pronunciation_uz": "softver",
+      "uzbek": "dasturiy taʼminot",
+      "pos": "noun",
+      "example_en": "This accounting software simplifies tax reporting.",
+      "example_uz": "Ushbu buxgalteriya dasturiy taʼminoti soliq hisobotini soddalashtiradi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "solid-state drive",
+      "pronunciation_uz": "solid steyt drayv",
+      "uzbek": "qattiq holatdagi xotira (SSD)",
+      "pos": "noun",
+      "example_en": "A solid-state drive boots much faster than an old disk.",
+      "example_uz": "SSD xotira eski diskka qaraganda ancha tez yuklanadi.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "source code",
+      "pronunciation_uz": "sors kod",
+      "uzbek": "manba kodi",
+      "pos": "noun",
+      "example_en": "Review the source code before merging the branch.",
+      "example_uz": "Tarmoqni birlashtirishdan oldin manba kodini koʻrib chiqing.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "spreadsheet",
+      "pronunciation_uz": "spredshit",
+      "uzbek": "elektron jadval",
+      "pos": "noun",
+      "example_en": "We track monthly expenses in a shared spreadsheet.",
+      "example_uz": "Biz oylik xarajatlarni umumiy elektron jadvalda kuzatib boramiz.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "string",
+      "pronunciation_uz": "string",
+      "uzbek": "satr (matnli maʼlumot turi)",
+      "pos": "noun",
+      "example_en": "Concatenate the first name and last name into one string.",
+      "example_uz": "Ism va familiyani bitta satrga birlashtiring.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    },
+    {
+      "english": "supercomputer",
+      "pronunciation_uz": "superkompyuter",
+      "uzbek": "superkompyuter",
+      "pos": "noun",
+      "example_en": "Scientists used a supercomputer to model protein folding.",
+      "example_uz": "Olimlar oqsil taxlanishini modellashtirish uchun superkompyuterdan foydalandilar.",
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+    }
+  ]
+}

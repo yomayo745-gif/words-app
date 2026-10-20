@@ -1,0 +1,1141 @@
+{
+  "title": "Universitet va ilmiy izlanish",
+  "category": "University, Degrees & Research",
+  "group": "topic",
+  "words": [
+    {
+      "english": "academy",
+      "pronunciation_uz": "ekedemi",
+      "uzbek": "akademiya",
+      "pos": "noun",
+      "example_en": "The Academy of Sciences coordinates major research institutes.",
+      "example_uz": "Fanlar akademiyasi yirik ilmiy-tadqiqot institutlari faoliyatini muvofiqlashtiradi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "college",
+      "pronunciation_uz": "kolij",
+      "uzbek": "kollej, oliy oʻquv yurti",
+      "pos": "noun",
+      "example_en": "She teaches medical terminology at a nursing college.",
+      "example_uz": "U tibbiyot kollejida tibbiy atamalardan dars beradi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "campus",
+      "pronunciation_uz": "kempas",
+      "uzbek": "kampus, talabalar shaharchasi",
+      "pos": "noun",
+      "example_en": "The new university campus includes modern labs and sports halls.",
+      "example_uz": "Yangi universitet shaharchasi zamonaviy laboratoriyalar va sport zallarini oʻz ichiga oladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "faculty",
+      "pronunciation_uz": "fekalti",
+      "uzbek": "fakultet (yoki professor-oʻqituvchilar tarkibi)",
+      "pos": "noun",
+      "example_en": "Over five hundred students study at the faculty of philology.",
+      "example_uz": "Filologiya fakultetida besh yuzdan ortiq talaba tahsil oladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "dean",
+      "pronunciation_uz": "din",
+      "uzbek": "dekan (fakultet rahbari)",
+      "pos": "noun",
+      "example_en": "The dean signed the permission slip for the academic conference.",
+      "example_uz": "Fakultet dekani ilmiy anjumanda qatnashish ruxsatnomasiga imzo chekdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "rector",
+      "pronunciation_uz": "rektor",
+      "uzbek": "rektor (universitet rahbari)",
+      "pos": "noun",
+      "example_en": "The university rector welcomed international scholars to the symposium.",
+      "example_uz": "Universitet rektori xalqaro olimlarni simpoziumda qutladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "chancellor",
+      "pronunciation_uz": "chenselor",
+      "uzbek": "kansler, oliy oʻquv yurti rahbari",
+      "pos": "noun",
+      "example_en": "The chancellor presented diplomas to the top graduates.",
+      "example_uz": "Oliy oʻquv yurti rahbari eng yaxshi bitiruvchilarga diplomlarni topshirdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "provost",
+      "pronunciation_uz": "provoust",
+      "uzbek": "prorektor (oʻquv ishlari boʻyicha rahbar)",
+      "pos": "noun",
+      "example_en": "The provost oversees academic standards across all faculties.",
+      "example_uz": "Prorektor barcha fakultetlarda oʻquv standartlarini nazorat qiladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "professor",
+      "pronunciation_uz": "profesor",
+      "uzbek": "professor",
+      "pos": "noun",
+      "example_en": "The professor has published more than forty scientific papers.",
+      "example_uz": "Professor qirqdan ortiq ilmiy maqolalar chop etgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "lecturer",
+      "pronunciation_uz": "lekcherer",
+      "uzbek": "maʼruzachi, oliygoh oʻqituvchisi",
+      "pos": "noun",
+      "example_en": "Our senior lecturer explained macroeconomic theories with real examples.",
+      "example_uz": "Katta oʻqituvchimiz makroiqtisodiy nazariyalarni hayotiy misollar bilan tushuntirdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "docent",
+      "pronunciation_uz": "dousent",
+      "uzbek": "dotsent",
+      "pos": "noun",
+      "example_en": "She was appointed docent of the linguistics chair last autumn.",
+      "example_uz": "U oʻtgan kuzda tilshunoslik kafedrasi dotsenti etib tayinlandi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "scholar",
+      "pronunciation_uz": "skolar",
+      "uzbek": "olim, tadqiqotchi, stipendiat",
+      "pos": "noun",
+      "example_en": "Al-Biruni was a brilliant medieval scholar and polymath.",
+      "example_uz": "Abu Rayhon Beruniy oʻrta asrlarning buyuk olimi va qomusiy bilimdoni boʻlgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "researcher",
+      "pronunciation_uz": "risercher",
+      "uzbek": "tadqiqotchi, ilmiy xodim",
+      "pos": "noun",
+      "example_en": "Each researcher in the team focuses on renewable solar cells.",
+      "example_uz": "Jamoadagi har bir tadqiqotchi qayta tiklanuvchi quyosh batareyalariga eʼtibor qaratadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "scientist",
+      "pronunciation_uz": "sayentist",
+      "uzbek": "olim, tabiatshunos",
+      "pos": "noun",
+      "example_en": "The young scientist received a grant for biotechnology studies.",
+      "example_uz": "Yosh olim biotexnologiya tadqiqotlari uchun grant oldi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "academician",
+      "pronunciation_uz": "ekedemishn",
+      "uzbek": "akademik",
+      "pos": "noun",
+      "example_en": "The famous academician mentored dozens of doctoral candidates.",
+      "example_uz": "Mashhur akademik oʻnlab doktorantlarga ustozlik qilgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "student",
+      "pronunciation_uz": "styudent",
+      "uzbek": "talaba",
+      "pos": "noun",
+      "example_en": "Every university student has access to the digital library.",
+      "example_uz": "Har bir universitet talabasi raqamli kutubxonadan foydalanish imkoniyatiga ega.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "undergraduate",
+      "pronunciation_uz": "andergrejuit",
+      "uzbek": "bakalavriat talabasi",
+      "pos": "noun",
+      "example_en": "As an undergraduate, he participated in archaeological digs.",
+      "example_uz": "Bakalavriat talabasi sifatida u arxeologik qazishmalarda qatnashgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "postgraduate",
+      "pronunciation_uz": "poustgrejuit",
+      "uzbek": "magistrant yoki doktorant",
+      "pos": "noun",
+      "example_en": "Postgraduate students conduct independent laboratory experiments.",
+      "example_uz": "Magistrant va doktorantlar mustaqil laboratoriya tajribalarini olib boradilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "freshman",
+      "pronunciation_uz": "freshmen",
+      "uzbek": "birinchi kurs talabasi",
+      "pos": "noun",
+      "example_en": "Orientation week helps every freshman get to know the campus.",
+      "example_uz": "Tanishuv haftaligi har bir birinchi kurs talabasiga kampusni bilib olishga yordam beradi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "sophomore",
+      "pronunciation_uz": "sofomor",
+      "uzbek": "ikkinchi kurs talabasi",
+      "pos": "noun",
+      "example_en": "In her sophomore year, she chose a specialization in genetics.",
+      "example_uz": "Ikkinchi kursda u genetika yoʻnalishini ixtisoslik sifatida tanladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "alumnus",
+      "pronunciation_uz": "elamnas",
+      "uzbek": "sobiq bitiruvchi (universitet bitiruvchisi)",
+      "pos": "noun",
+      "example_en": "A successful alumnus donated modern computers to the faculty.",
+      "example_uz": "Muvaffaqiyatga erishgan sobiq bitiruvchi fakultetga zamonaviy kompyuterlar sovgʻa qildi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "advisor",
+      "pronunciation_uz": "edvayzer",
+      "uzbek": "ilmiy rahbar, maslahatchi",
+      "pos": "noun",
+      "example_en": "She met with her thesis advisor to discuss the third chapter.",
+      "example_uz": "U uchinchi bobni muhokama qilish uchun ilmiy rahbari bilan uchrashdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "opponent",
+      "pronunciation_uz": "opounent",
+      "uzbek": "opponent (himoyada rasmiy taqrizchi)",
+      "pos": "noun",
+      "example_en": "The official opponent praised the originality of the dissertation.",
+      "example_uz": "Rasmiy opponent dissertatsiyaning oʻziga xosligini yuqori baholadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "reviewer",
+      "pronunciation_uz": "rivyuer",
+      "uzbek": "taqrizchi",
+      "pos": "noun",
+      "example_en": "An anonymous peer reviewer suggested adding one more chart.",
+      "example_uz": "Anonim ilmiy taqrizchi yana bitta grafik qoʻshishni taklif qildi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "coauthor",
+      "pronunciation_uz": "kouothor",
+      "uzbek": "hammuallif",
+      "pos": "noun",
+      "example_en": "He published the monograph together with a foreign coauthor.",
+      "example_uz": "U monografiyani xorijlik hammuallif bilan birgalikda chop etdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "master",
+      "pronunciation_uz": "master",
+      "uzbek": "magistr",
+      "pos": "noun",
+      "example_en": "She enrolled in a two-year master's program in data science.",
+      "example_uz": "U maʼlumotlar ilmi boʻyicha ikki yillik magistratura dasturiga oʻqishga kirdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "doctorate",
+      "pronunciation_uz": "doktorit",
+      "uzbek": "doktorlik ilmiy darajasi (PhD / DSc)",
+      "pos": "noun",
+      "example_en": "He received his doctorate in theoretical physics at age thirty.",
+      "example_uz": "U oʻttiz yoshida nazariy fizika boʻyicha doktorlik darajasini oldi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "diploma",
+      "pronunciation_uz": "diplouma",
+      "uzbek": "diplom",
+      "pos": "noun",
+      "example_en": "Graduates proudly held up their blue and red diplomas.",
+      "example_uz": "Bitiruvchilar koʻk va qizil diplomlarini faxr bilan koʻtarib turishdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "qualification",
+      "pronunciation_uz": "kuolifikeyshn",
+      "uzbek": "malaka, mutaxassislik darajasi",
+      "pos": "noun",
+      "example_en": "This academic qualification is recognized in many countries.",
+      "example_uz": "Ushbu akademik malaka koʻplab mamlakatlarda tan olinadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "specialization",
+      "pronunciation_uz": "speshalayzeyshn",
+      "uzbek": "ixtisoslashuv, tor mutaxassislik",
+      "pos": "noun",
+      "example_en": "Students choose their narrow specialization in the third year.",
+      "example_uz": "Talabalar uchinchi kursda oʻzlarining tor ixtisoslashuvini tanlaydilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "humanities",
+      "pronunciation_uz": "hyumenitiz",
+      "uzbek": "gumanitar fanlar",
+      "pos": "noun",
+      "example_en": "Philosophy, history, and philology belong to the humanities.",
+      "example_uz": "Falsafa, tarix va filologiya gumanitar fanlar qatoriga kiradi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "linguistics",
+      "pronunciation_uz": "lingvistiks",
+      "uzbek": "tilshunoslik, lingvistika",
+      "pos": "noun",
+      "example_en": "Comparative linguistics studies how languages are related.",
+      "example_uz": "Qiyosiy tilshunoslik tillarning oʻzaro qardoshligini oʻrganadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "philology",
+      "pronunciation_uz": "filoloji",
+      "uzbek": "filologiya",
+      "pos": "noun",
+      "example_en": "The faculty of Uzbek philology hosts an annual poetry conference.",
+      "example_uz": "Oʻzbek filologiyasi fakulteti har yili sheʼriyat anjumanini oʻtkazadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "philosophy",
+      "pronunciation_uz": "filosofi",
+      "uzbek": "falsafa",
+      "pos": "noun",
+      "example_en": "Ibn Sina wrote influential works on medicine and philosophy.",
+      "example_uz": "Ibn Sino tibbiyot va falsafaga oid taʼsirchan asarlar yozgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "sociology",
+      "pronunciation_uz": "sousioloji",
+      "uzbek": "sotsiologiya (jamiyatshunoslik)",
+      "pos": "noun",
+      "example_en": "Sociology examines how communities and institutions change.",
+      "example_uz": "Sotsiologiya jamiyatlar va institutlarning qanday oʻzgarishini oʻrganadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "psychology",
+      "pronunciation_uz": "saykoloji",
+      "uzbek": "psixologiya (ruhshunoslik)",
+      "pos": "noun",
+      "example_en": "Cognitive psychology investigates memory, attention, and perception.",
+      "example_uz": "Kognitiv psixologiya xotira, diqqat va idrokni tadqiq etadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "anthropology",
+      "pronunciation_uz": "enthropoloji",
+      "uzbek": "antropologiya (odamshunoslik)",
+      "pos": "noun",
+      "example_en": "Cultural anthropology explores traditions and customs across societies.",
+      "example_uz": "Madaniy antropologiya turli jamiyatlardagi anʼana va urf-odatlarni oʻrganadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "archaeology",
+      "pronunciation_uz": "arkioloji",
+      "uzbek": "arxeologiya",
+      "pos": "noun",
+      "example_en": "Students of archaeology excavated an ancient Silk Road caravanserai.",
+      "example_uz": "Arxeologiya yoʻnalishi talabalari qadimgi Ipak yoʻli karvonsaroyida qazishma ishlari olib bordilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "economics",
+      "pronunciation_uz": "ikonomiks",
+      "uzbek": "iqtisodiyot fani, nazariy iqtisod",
+      "pos": "noun",
+      "example_en": "She lectures on development economics at the national university.",
+      "example_uz": "U milliy universitetda rivojlanish iqtisodiyotidan maʼruza oʻqiydi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "jurisprudence",
+      "pronunciation_uz": "jurisprudens",
+      "uzbek": "huquqshunoslik, yurisprudensiya",
+      "pos": "noun",
+      "example_en": "Future judges and lawyers study jurisprudence for four years.",
+      "example_uz": "Boʻlajak sudyalar va advokatlar toʻrt yil davomida yurisprudensiyani oʻrganadilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "pedagogy",
+      "pronunciation_uz": "pedagoji",
+      "uzbek": "pedagogika (taʼlim uslubiyoti)",
+      "pos": "noun",
+      "example_en": "Modern pedagogy encourages interactive learning in the classroom.",
+      "example_uz": "Zamonaviy pedagogika darsda interaktiv taʼlimni ragʻbatlantiradi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "genetics",
+      "pronunciation_uz": "jenetiks",
+      "uzbek": "genetika, irsiyatshunoslik",
+      "pos": "noun",
+      "example_en": "Advances in plant genetics have produced drought-resistant cotton.",
+      "example_uz": "Oʻsimliklar genetikasidagi yutuqlar qurgʻoqchilikka chidamli paxta navlarini yaratishga imkon berdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "ecology",
+      "pronunciation_uz": "ikoloji",
+      "uzbek": "ekologiya",
+      "pos": "noun",
+      "example_en": "The research center focuses on desert ecology and water conservation.",
+      "example_uz": "Ilmiy markaz choʻl ekologiyasi va suvni tejash masalalariga eʼtibor qaratadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "geology",
+      "pronunciation_uz": "jioloji",
+      "uzbek": "geologiya",
+      "pos": "noun",
+      "example_en": "Geology students collected mineral samples in the Chatkal mountains.",
+      "example_uz": "Geologiya talabalari Chatqol togʻlaridan mineral namunalar yigʻishdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "seminar",
+      "pronunciation_uz": "seminar",
+      "uzbek": "seminar, amaliy mashgʻulot",
+      "pos": "noun",
+      "example_en": "Students discussed their research findings during the weekly seminar.",
+      "example_uz": "Talabalar haftalik seminarda oʻz tadqiqot natijalarini muhokama qildilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "colloquium",
+      "pronunciation_uz": "koloukvium",
+      "uzbek": "kollokvium (ilmiy suhbat va sinov)",
+      "pos": "noun",
+      "example_en": "We prepared three topics for the midterm history colloquium.",
+      "example_uz": "Oraliq tarix kollokviumi uchun uchta mavzuni tayyorladik.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "tutorial",
+      "pronunciation_uz": "tyutorial",
+      "uzbek": "amaliy konsultatsiya darsi",
+      "pos": "noun",
+      "example_en": "Small-group tutorials allow students to ask detailed questions.",
+      "example_uz": "Kichik guruhlardagi konsultatsiya darslari talabalarga batafsil savollar berish imkonini yaratadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "workshop",
+      "pronunciation_uz": "uerkshop",
+      "uzbek": "mahorat darsi, amaliy seminar",
+      "pos": "noun",
+      "example_en": "The guest professor led a two-day workshop on academic writing.",
+      "example_uz": "Mehmon professor akademik yozuv boʻyicha ikki kunlik mahorat darsi oʻtdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "symposium",
+      "pronunciation_uz": "simpouzium",
+      "uzbek": "simpozium, ilmiy anjuman",
+      "pos": "noun",
+      "example_en": "Scholars from ten countries spoke at the international symposium.",
+      "example_uz": "Xalqaro simpoziumda oʻnta davlatdan kelgan olimlar maʼruza qildilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "conference",
+      "pronunciation_uz": "konferens",
+      "uzbek": "konferensiya, anjuman",
+      "pos": "noun",
+      "example_en": "Her article was accepted for the annual youth science conference.",
+      "example_uz": "Uning maqolasi yillik yoshlar ilmiy konferensiyasiga qabul qilindi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "congress",
+      "pronunciation_uz": "kongres",
+      "uzbek": "kongress, qurultoy",
+      "pos": "noun",
+      "example_en": "The world congress of orientalists takes place every few years.",
+      "example_uz": "Sharqshunoslarning jahon kongressi har bir necha yilda oʻtkaziladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "forum",
+      "pronunciation_uz": "forum",
+      "uzbek": "forum, keng muhokama yigʻini",
+      "pos": "noun",
+      "example_en": "Young inventors presented their prototypes at the innovation forum.",
+      "example_uz": "Yosh ixtirochilar innovatsion forumda oʻz prototiplarini namoyish etishdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "webinar",
+      "pronunciation_uz": "uebinar",
+      "uzbek": "vebinar (onlayn seminar)",
+      "pos": "noun",
+      "example_en": "More than three hundred participants joined the evening webinar.",
+      "example_uz": "Kechki vebinarga uch yuzdan ortiq ishtirokchi qoʻshildi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "practicum",
+      "pronunciation_uz": "prektikam",
+      "uzbek": "praktikum, amaliy laboratoriya ishi",
+      "pos": "noun",
+      "example_en": "The chemistry practicum requires wearing safety goggles and a coat.",
+      "example_uz": "Kimyo praktikumi himoya koʻzoynagi va xalat kiyishni talab qiladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "internship",
+      "pronunciation_uz": "interniship",
+      "uzbek": "amaliyot, stajirovka",
+      "pos": "noun",
+      "example_en": "He completed a three-month internship at a software firm.",
+      "example_uz": "U dasturiy taʼminot firmasida uch oylik amaliyot oʻtadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "fellowship",
+      "pronunciation_uz": "felouship",
+      "uzbek": "ilmiy stipendiya, tadqiqot granti",
+      "pos": "noun",
+      "example_en": "She won a prestigious postdoctoral fellowship at a European institute.",
+      "example_uz": "U Yevropa institutida nufuzli postdoktorlik ilmiy stipendiyasini qoʻlga kiritdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "scholarship",
+      "pronunciation_uz": "skolarship",
+      "uzbek": "stipendiya",
+      "pos": "noun",
+      "example_en": "Students with high grades receive an increased state scholarship.",
+      "example_uz": "Yuqori baholarga oʻqiydigan talabalar oshirilgan davlat stipendiyasini oladilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "stipend",
+      "pronunciation_uz": "staypend",
+      "uzbek": "oylik stipendiya toʻlovi",
+      "pos": "noun",
+      "example_en": "The monthly stipend covers books, transport, and living expenses.",
+      "example_uz": "Oylik stipendiya kitoblar, transport va yashash xarajatlarini qoplaydi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "tuition",
+      "pronunciation_uz": "tyuishn",
+      "uzbek": "kontrakt toʻlovi, oʻqish puli",
+      "pos": "noun",
+      "example_en": "An educational loan can help families pay university tuition.",
+      "example_uz": "Taʼlim krediti oilalarga universitet kontrakt pulini toʻlashda yordam berishi mumkin.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "enrollment",
+      "pronunciation_uz": "inroulment",
+      "uzbek": "oʻqishga qabul qilinish, roʻyxatga olish",
+      "pos": "noun",
+      "example_en": "University enrollment has doubled over the past five years.",
+      "example_uz": "Soʻnggi besh yil ichida universitetlarga qabul koʻrsatkichi ikki baravar oshdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "admission",
+      "pronunciation_uz": "edmishn",
+      "uzbek": "qabul (oliygohga kirish)",
+      "pos": "noun",
+      "example_en": "Admission to the medical academy is highly competitive.",
+      "example_uz": "Tibbiyot akademiyasiga qabul jarayonida raqobat juda kuchli.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "matriculation",
+      "pronunciation_uz": "metrikyuleyshn",
+      "uzbek": "talabalar safiga qabul qilish",
+      "pos": "noun",
+      "example_en": "The formal matriculation ceremony takes place in early September.",
+      "example_uz": "Talabalar safiga rasmiy qabul qilish marosimi sentyabr oyining boshida boʻlib oʻtadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "semester",
+      "pronunciation_uz": "semester",
+      "uzbek": "semestr (yarim oʻquv yili)",
+      "pos": "noun",
+      "example_en": "The autumn semester ends with final exams in January.",
+      "example_uz": "Kuzgi semestr yanvar oyidagi yakuniy imtihonlar bilan tugaydi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "trimester",
+      "pronunciation_uz": "traymester",
+      "uzbek": "trimestr (uch qismga boʻlingan oʻquv yili)",
+      "pos": "noun",
+      "example_en": "Some international universities divide the academic year into three trimesters.",
+      "example_uz": "Baʼzi xalqaro universitetlar oʻquv yilini uchta trimestrga boʻladilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "credit",
+      "pronunciation_uz": "kredit",
+      "uzbek": "kredit (oʻquv fani hajmi birligi)",
+      "pos": "noun",
+      "example_en": "Students must earn thirty academic credits each semester.",
+      "example_uz": "Talabalar har semestrda oʻttizta akademik kredit toʻplashlari shart.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "module",
+      "pronunciation_uz": "modyul",
+      "uzbek": "modul (oʻquv kursi boʻlimi)",
+      "pos": "noun",
+      "example_en": "Each learning module concludes with a practical project.",
+      "example_uz": "Har bir oʻquv moduli amaliy loyiha bilan yakunlanadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "elective",
+      "pronunciation_uz": "ilektiv",
+      "uzbek": "tanlov fani (ixtiyoriy fan)",
+      "pos": "noun",
+      "example_en": "She chose digital photography as an elective this semester.",
+      "example_uz": "U ushbu semestrda tanlov fani sifatida raqamli fotografiyani tanladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "transcript",
+      "pronunciation_uz": "trenskript",
+      "uzbek": "akademik maʼlumotnoma (baholar koʻchirmasi)",
+      "pos": "noun",
+      "example_en": "Attach your official grade transcript to the scholarship form.",
+      "example_uz": "Stipendiya anketasiga rasmiy baholar koʻchirmangizni ilova qiling.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "research",
+      "pronunciation_uz": "riserch",
+      "uzbek": "ilmiy izlanish, tadqiqot",
+      "pos": "noun",
+      "example_en": "Scientific research requires patience, curiosity, and accuracy.",
+      "example_uz": "Ilmiy tadqiqot sabr-toqat, qiziquvchanlik va aniqlikni talab qiladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "investigation",
+      "pronunciation_uz": "investigeyshn",
+      "uzbek": "ilmiy oʻrganish, tekshirish",
+      "pos": "noun",
+      "example_en": "A thorough investigation revealed the cause of the soil erosion.",
+      "example_uz": "Chuqur ilmiy oʻrganish tuproq eroziyasining sababini aniqlab berdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "inquiry",
+      "pronunciation_uz": "inkuayri",
+      "uzbek": "ilmiy surishtiruv, izlanish",
+      "pos": "noun",
+      "example_en": "Critical inquiry is at the heart of higher education.",
+      "example_uz": "Tanqidiy izlanish oliy taʼlimning negizini tashkil etadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "theory",
+      "pronunciation_uz": "thiori",
+      "uzbek": "nazariya",
+      "pos": "noun",
+      "example_en": "Einstein's theory of relativity transformed modern physics.",
+      "example_uz": "Eynshteynning nisbiylik nazariyasi zamonaviy fizikani oʻzgartirib yubordi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "theorem",
+      "pronunciation_uz": "thiorem",
+      "uzbek": "teorema",
+      "pos": "noun",
+      "example_en": "Students proved the Pythagorean theorem on the board.",
+      "example_uz": "Talabalar doskada Pifagor teoremasini isbotladilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "axiom",
+      "pronunciation_uz": "eksiom",
+      "uzbek": "aksioma (isbot talab qilmaydigan haqiqat)",
+      "pos": "noun",
+      "example_en": "Every mathematical system starts from a set of basic axioms.",
+      "example_uz": "Har bir matematik tizim asosiy aksiomalar toʻplamidan boshlanadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "methodology",
+      "pronunciation_uz": "methodoloji",
+      "uzbek": "metodologiya, tadqiqot uslubiyoti",
+      "pos": "noun",
+      "example_en": "Chapter two describes the research methodology in detail.",
+      "example_uz": "Ikkinchi bobda tadqiqot metodologiyasi batafsil bayon etilgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "procedure",
+      "pronunciation_uz": "prosijer",
+      "uzbek": "tartib-qoida, jarayon bosqichlari",
+      "pos": "noun",
+      "example_en": "Follow the standard laboratory procedure to ensure accurate results.",
+      "example_uz": "Aniq natijalarga erishish uchun standart laboratoriya tartib-qoidalariga amal qiling.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "experiment",
+      "pronunciation_uz": "iksperiment",
+      "uzbek": "tajriba, eksperiment",
+      "pos": "noun",
+      "example_en": "We repeated the chemical experiment three times to verify the data.",
+      "example_uz": "Maʼlumotlarni tekshirish uchun kimyoviy tajribani uch marta takrorladik.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "trial",
+      "pronunciation_uz": "trayal",
+      "uzbek": "sinov tajribasi",
+      "pos": "noun",
+      "example_en": "Field trials showed that the new wheat variety yields more grain.",
+      "example_uz": "Dala sinovlari yangi bugʻdoy navi koʻproq hosil berishini koʻrsatdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "observation",
+      "pronunciation_uz": "obzerveyshn",
+      "uzbek": "kuzatuv, kuzatish",
+      "pos": "noun",
+      "example_en": "Careful astronomical observation led to the discovery of the comet.",
+      "example_uz": "Sinchkovlik bilan olib borilgan astronomik kuzatuv kometaning kashf etilishiga olib keldi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "analysis",
+      "pronunciation_uz": "enalasis",
+      "uzbek": "tahlil, analiz",
+      "pos": "noun",
+      "example_en": "Statistical analysis of the survey took two weeks.",
+      "example_uz": "Soʻrovnomaning statistik tahlili ikki hafta vaqt oldi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "synthesis",
+      "pronunciation_uz": "sinthesis",
+      "uzbek": "sintez, umumlashtirish",
+      "pos": "noun",
+      "example_en": "The book offers a clear synthesis of historical sources.",
+      "example_uz": "Kitob tarixiy manbalarning aniq umumlashmasini taqdim etadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "evaluation",
+      "pronunciation_uz": "ivelyueyshn",
+      "uzbek": "baholash, ilmiy qiymatini aniqlash",
+      "pos": "noun",
+      "example_en": "An independent committee conducted an evaluation of the project.",
+      "example_uz": "Mustaqil komissiya loyihani baholashdan oʻtkazdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "evidence",
+      "pronunciation_uz": "evidens",
+      "uzbek": "dalil, isbot",
+      "pos": "noun",
+      "example_en": "Fossils provide strong evidence of ancient climate changes.",
+      "example_uz": "Qazilma qoldiqlar qadimgi iqlim oʻzgarishlarining kuchli dalilini beradi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "proof",
+      "pronunciation_uz": "pruf",
+      "uzbek": "isbot, dalil",
+      "pos": "noun",
+      "example_en": "The mathematician published a rigorous proof of the conjecture.",
+      "example_uz": "Matematik taxminning qatʼiy isbotini chop etdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "finding",
+      "pronunciation_uz": "faynding",
+      "uzbek": "ilmiy xulosa, topilma, natija",
+      "pos": "noun",
+      "example_en": "The team presented their key findings at the medical congress.",
+      "example_uz": "Jamoa tibbiyot kongressida oʻzlarining asosiy ilmiy natijalarini taqdim etdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "conclusion",
+      "pronunciation_uz": "konklujn",
+      "uzbek": "xulosa",
+      "pos": "noun",
+      "example_en": "In the conclusion, the author summarizes the main arguments.",
+      "example_uz": "Xulosa qismida muallif asosiy dalillarni umumlashtiradi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "data",
+      "pronunciation_uz": "deyta",
+      "uzbek": "maʼlumotlar (ilmiy koʻrsatkichlar)",
+      "pos": "noun",
+      "example_en": "All sensor data were recorded automatically every minute.",
+      "example_uz": "Barcha datchik maʼlumotlari har daqiqada avtomatik ravishda yozib borildi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "dataset",
+      "pronunciation_uz": "deytaset",
+      "uzbek": "maʼlumotlar toʻplami",
+      "pos": "noun",
+      "example_en": "The researchers trained the model on a large linguistic dataset.",
+      "example_uz": "Tadqiqotchilar modelni katta lingvistik maʼlumotlar toʻplamida oʻqitishdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "specimen",
+      "pronunciation_uz": "spesimen",
+      "uzbek": "eksponat namuna, biologik namuna",
+      "pos": "noun",
+      "example_en": "Each dried plant specimen is labeled in the herbarium.",
+      "example_uz": "Gerbariydagi har bir quritilgan oʻsimlik namunasiga yorliq yopishtirilgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "variable",
+      "pronunciation_uz": "veriebl",
+      "uzbek": "oʻzgaruvchi koʻrsatkich",
+      "pos": "noun",
+      "example_en": "Temperature was the main variable in our growth experiment.",
+      "example_uz": "Harorat bizning oʻsish tajribamizdagi asosiy oʻzgaruvchi koʻrsatkich edi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "correlation",
+      "pronunciation_uz": "korreleyshn",
+      "uzbek": "korrelyatsiya, oʻzaro bogʻliqlik",
+      "pos": "noun",
+      "example_en": "The study found a strong correlation between sleep and memory.",
+      "example_uz": "Tadqiqot uyqu va xotira oʻrtasida kuchli bogʻliqlik borligini aniqladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "statistics",
+      "pronunciation_uz": "statistiks",
+      "uzbek": "statistika",
+      "pos": "noun",
+      "example_en": "Official statistics show steady growth in renewable energy.",
+      "example_uz": "Rasmiy statistika qayta tiklanuvchi energiya sohasida barqaror oʻsishni koʻrsatmoqda.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "survey",
+      "pronunciation_uz": "servey",
+      "uzbek": "soʻrovnoma, tadqiqot soʻrovi",
+      "pos": "noun",
+      "example_en": "Five hundred students participated in the campus survey.",
+      "example_uz": "Kampus soʻrovnomasida besh yuz nafar talaba ishtirok etdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "questionnaire",
+      "pronunciation_uz": "kueschoner",
+      "uzbek": "savolnoma, anketa",
+      "pos": "noun",
+      "example_en": "Please fill out this anonymous research questionnaire.",
+      "example_uz": "Iltimos, ushbu anonim tadqiqot savolnomasini toʻldiring.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "laboratory",
+      "pronunciation_uz": "leboratori",
+      "uzbek": "laboratoriya",
+      "pos": "noun",
+      "example_en": "Our physics laboratory is equipped with laser instruments.",
+      "example_uz": "Fizika laboratoriyamiz lazer uskunalari bilan jihozlangan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "microscope",
+      "pronunciation_uz": "maykroskoup",
+      "uzbek": "mikroskop",
+      "pos": "noun",
+      "example_en": "An electron microscope can magnify objects thousands of times.",
+      "example_uz": "Elektron mikroskop obyektlarni minglab marta kattalashtirib koʻrsata oladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "telescope",
+      "pronunciation_uz": "teleskoup",
+      "uzbek": "teleskop",
+      "pos": "noun",
+      "example_en": "Astronomers used a powerful telescope to photograph the nebula.",
+      "example_uz": "Astronomlar tumanlikni suratga olish uchun kuchli teleskopdan foydalanishdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "flask",
+      "pronunciation_uz": "flask",
+      "uzbek": "kolba (shisha idish)",
+      "pos": "noun",
+      "example_en": "Heat the liquid gently in a conical glass flask.",
+      "example_uz": "Suyuqlikni konussimon shisha kolbada ohista qizdiring.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "beaker",
+      "pronunciation_uz": "biker",
+      "uzbek": "menzurka, kimyoviy stakan",
+      "pos": "noun",
+      "example_en": "Pour one hundred milliliters of distilled water into the beaker.",
+      "example_uz": "Kimyoviy stakanga yuz millilitr distillangan suv quying.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "test tube",
+      "pronunciation_uz": "test tyub",
+      "uzbek": "probirka",
+      "pos": "noun",
+      "example_en": "The solution in the test tube turned bright blue.",
+      "example_uz": "Probirkadagi eritma yorqin koʻk rangga kirdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "pipette",
+      "pronunciation_uz": "paypet",
+      "uzbek": "pipetka, tomizgʻich",
+      "pos": "noun",
+      "example_en": "Use a graduated pipette to measure a single drop of acid.",
+      "example_uz": "Bir tomchi kislotani oʻlchash uchun darajalangan pipetkadan foydalaning.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "centrifuge",
+      "pronunciation_uz": "sentrifyuj",
+      "uzbek": "sentrifuga",
+      "pos": "noun",
+      "example_en": "A high-speed centrifuge separates blood plasma from cells.",
+      "example_uz": "Yuqori tezlikdagi sentrifuga qon plazmasini hujayralardan ajratadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "reagent",
+      "pronunciation_uz": "riejent",
+      "uzbek": "reagent, kimyoviy reaktiv",
+      "pos": "noun",
+      "example_en": "Store the chemical reagent in a dark, tightly sealed bottle.",
+      "example_uz": "Kimyoviy reaktivni qorongʻi va mahkam yopilgan idishda saqlang.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "thesis",
+      "pronunciation_uz": "thisis",
+      "uzbek": "diplom ishi, magistrlik dissertatsiyasi, tezis",
+      "pos": "noun",
+      "example_en": "She defended her master's thesis with an excellent grade.",
+      "example_uz": "U magistrlik dissertatsiyasini aʼlo bahoga himoya qildi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "dissertation",
+      "pronunciation_uz": "diserteyshn",
+      "uzbek": "doktorlik dissertatsiyasi",
+      "pos": "noun",
+      "example_en": "Writing a doctoral dissertation requires years of original research.",
+      "example_uz": "Doktorlik dissertatsiyasini yozish yillar davomida original tadqiqot olib borishni talab etadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "monograph",
+      "pronunciation_uz": "monograf",
+      "uzbek": "monografiya (yagona mavzudagi ilmiy kitob)",
+      "pos": "noun",
+      "example_en": "The historian published a monograph on medieval Samarkand.",
+      "example_uz": "Tarixchi oʻrta asrlar Samarqandi haqida monografiya chop etdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "treatise",
+      "pronunciation_uz": "tritis",
+      "uzbek": "risola, ilmiy asar",
+      "pos": "noun",
+      "example_en": "Al-Farabi wrote a famous treatise on music theory.",
+      "example_uz": "Al-Forobiy musiqa nazariyasiga oid mashhur risola yozgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "manuscript",
+      "pronunciation_uz": "menyuskript",
+      "uzbek": "qoʻlyozma",
+      "pos": "noun",
+      "example_en": "Rare eastern manuscripts are preserved at the Biruni Institute.",
+      "example_uz": "Beruniy nomidagi institutda noyob sharq qoʻlyozmalari saqlanadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "proceeding",
+      "pronunciation_uz": "prosiding",
+      "uzbek": "ilmiy toʻplam (anjuman materiallari)",
+      "pos": "noun",
+      "example_en": "All accepted papers will appear in the conference proceedings.",
+      "example_uz": "Qabul qilingan barcha maqolalar konferensiya materiallari toʻplamida chiqadi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "citation",
+      "pronunciation_uz": "sayteyshn",
+      "uzbek": "iqtibos, havola (sitata)",
+      "pos": "noun",
+      "example_en": "Check that every citation in your text matches the reference list.",
+      "example_uz": "Matningizdagi har bir havola adabiyotlar roʻyxatiga mos kelishini tekshiring.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "reference",
+      "pronunciation_uz": "referens",
+      "uzbek": "manba, adabiyot havolasi",
+      "pos": "noun",
+      "example_en": "The article includes thirty references to recent studies.",
+      "example_uz": "Maqola soʻnggi tadqiqotlarga oid oʻttizta manba havolasini oʻz ichiga oladi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "bibliography",
+      "pronunciation_uz": "bibliografi",
+      "uzbek": "bibliografiya, foydalanilgan adabiyotlar roʻyxati",
+      "pos": "noun",
+      "example_en": "Arrange the bibliography in alphabetical order by author surname.",
+      "example_uz": "Foydalanilgan adabiyotlar roʻyxatini mualliflar familiyasi boʻyicha alifbo tartibida joylashtiring.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "footnote",
+      "pronunciation_uz": "futnout",
+      "uzbek": "sahifa osti izohi (snoska)",
+      "pos": "noun",
+      "example_en": "An explanatory footnote at the bottom of the page gives the date.",
+      "example_uz": "Sahifa pastidagi izohda sana keltirilgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "quotation",
+      "pronunciation_uz": "kuoteyshn",
+      "uzbek": "koʻchirma gap, iqtibos",
+      "pos": "noun",
+      "example_en": "Put quotation marks around direct words taken from another author.",
+      "example_uz": "Boshqa muallifdan olingan aynan soʻzlarni qoʻshtirnoq ichiga oling.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "plagiarism",
+      "pronunciation_uz": "pleyjirizm",
+      "uzbek": "plagiat (koʻchirmachilik, mualliflik oʻgʻriligi)",
+      "pos": "noun",
+      "example_en": "Universities use special software to check papers for plagiarism.",
+      "example_uz": "Universitetlar ishlarni plagiatga tekshirish uchun maxsus dasturlardan foydalanadilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "appendix",
+      "pronunciation_uz": "ependiks",
+      "uzbek": "ilova (kitob yoki dissertatsiya ilovasi)",
+      "pos": "noun",
+      "example_en": "Detailed tables and charts are placed in the appendix.",
+      "example_uz": "Batafsil jadvallar va diagrammalar ilovada joylashtirilgan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "glossary",
+      "pronunciation_uz": "glosari",
+      "uzbek": "glossariy, atamalar lugʻati",
+      "pos": "noun",
+      "example_en": "A short glossary at the end explains technical terms.",
+      "example_uz": "Oxiridagi qisqa glossariyda texnik atamalar izohlangan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "defense",
+      "pronunciation_uz": "difens",
+      "uzbek": "himoya (dissertatsiya yoki diplom himoyasi)",
+      "pos": "noun",
+      "example_en": "His public dissertation defense is scheduled for next Tuesday.",
+      "example_uz": "Uning ochiq dissertatsiya himoyasi kelasi seshanba kuniga belgilangan.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "accreditation",
+      "pronunciation_uz": "ekrediteyshn",
+      "uzbek": "akkreditatsiya (davlat tomonidan tasdiqlash)",
+      "pos": "noun",
+      "example_en": "The university passed international accreditation successfully.",
+      "example_uz": "Universitet xalqaro akkreditatsiyadan muvaffaqiyatli oʻtdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "verify",
+      "pronunciation_uz": "verifay",
+      "uzbek": "tekshirib tasdiqlamoq",
+      "pos": "verb",
+      "example_en": "Independent laboratories must verify the experimental results.",
+      "example_uz": "Mustaqil laboratoriyalar tajriba natijalarini tekshirib tasdiqlashi kerak.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "formulate",
+      "pronunciation_uz": "formyuleyt",
+      "uzbek": "shakllantirmoq, taʼriflamoq",
+      "pos": "verb",
+      "example_en": "After months of study, she was able to formulate a clear hypothesis.",
+      "example_uz": "Bir necha oylik oʻrganishdan soʻng u aniq ilmiy farazni shakllantira oldi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "publish",
+      "pronunciation_uz": "pablish",
+      "uzbek": "nashr etmoq, chop qilmoq",
+      "pos": "verb",
+      "example_en": "The institute plans to publish the encyclopedia in five volumes.",
+      "example_uz": "Institut ensiklopediyani besh jildda nashr etishni rejalashtirmoqda.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "enroll",
+      "pronunciation_uz": "inroul",
+      "uzbek": "oʻqishga yozilmoq, roʻyxatdan oʻtmoq",
+      "pos": "verb",
+      "example_en": "Students can enroll in elective courses through the online portal.",
+      "example_uz": "Talabalar onlayn portal orqali tanlov fanlariga yozilishlari mumkin.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "specialize",
+      "pronunciation_uz": "speshalayz",
+      "uzbek": "ixtisoslashmoq",
+      "pos": "verb",
+      "example_en": "Medical students specialize in a chosen area after basic studies.",
+      "example_uz": "Tibbiyot talabalari asosiy oʻqishdan soʻng tanlangan yoʻnalish boʻyicha ixtisoslashadilar.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "scholarly",
+      "pronunciation_uz": "skolarli",
+      "uzbek": "ilmiy, chuqur ilmli",
+      "pos": "adj",
+      "example_en": "He wrote a scholarly commentary on the medieval manuscript.",
+      "example_uz": "U oʻrta asr qoʻlyozmasiga ilmiy sharh yozdi.",
+      "category": "Universitet va ilmiy izlanish"
+    },
+    {
+      "english": "theoretical",
+      "pronunciation_uz": "thioretikal",
+      "uzbek": "nazariy",
+      "pos": "adj",
+      "example_en": "The first part of the course covers theoretical foundations.",
+      "example_uz": "Kursning birinchi qismi nazariy asoslarni qamrab oladi.",
+      "category": "Universitet va ilmiy izlanish"
+    }
+  ]
+}

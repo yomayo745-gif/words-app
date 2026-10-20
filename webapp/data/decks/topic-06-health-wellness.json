@@ -1,0 +1,1429 @@
+{
+  "title": "Salomatlik, gigiyena va sogʻlom turmush",
+  "category": "Health, Hygiene & Wellness",
+  "group": "topic",
+  "words": [
+    {
+      "english": "hygiene",
+      "pronunciation_uz": "hayjin",
+      "uzbek": "gigiyena, ozodalik",
+      "pos": "noun",
+      "example_en": "Washing hands before meals is a basic rule of personal hygiene.",
+      "example_uz": "Ovqatdan oldin qoʻl yuvish shaxsiy gigiyenaning asosiy qoidasidir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "cleanliness",
+      "pronunciation_uz": "klenlines",
+      "uzbek": "tozalik, pokizalilik",
+      "pos": "noun",
+      "example_en": "Cleanliness in the home protects the family from illness.",
+      "example_uz": "Uydagi tozalik oilani kasalliklardan himoya qiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sanitation",
+      "pronunciation_uz": "seniteyshn",
+      "uzbek": "sanitariya, tozalikni saqlash tizimi",
+      "pos": "noun",
+      "example_en": "Clean drinking water and good sanitation save lives.",
+      "example_uz": "Toza ichimlik suvi va yaxshi sanitariya inson hayotini asraydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "toothbrush",
+      "pronunciation_uz": "tusbrash",
+      "uzbek": "tish choʻtkasi",
+      "pos": "noun",
+      "example_en": "Replace your toothbrush every three months.",
+      "example_uz": "Tish choʻtkangizni har uch oyda yangisiga almashtiring.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "toothpaste",
+      "pronunciation_uz": "tuspeyst",
+      "uzbek": "tish pastasi",
+      "pos": "noun",
+      "example_en": "Squeeze a pea-sized amount of toothpaste onto the bristles.",
+      "example_uz": "Choʻtka tuklari ustiga noʻxatdek miqdorda tish pastasi siqing.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "dental floss",
+      "pronunciation_uz": "dental flos",
+      "uzbek": "tish tozalash ipi, floss",
+      "pos": "noun",
+      "example_en": "Use dental floss to clean between teeth where a brush cannot reach.",
+      "example_uz": "Choʻtka yetib bormaydigan tish oralarini tozalash uchun tish ipidan foydalaning.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "mouthwash",
+      "pronunciation_uz": "mausvosh",
+      "uzbek": "ogʻiz chayish vositasi",
+      "pos": "noun",
+      "example_en": "Rinse with mint mouthwash for fresh breath.",
+      "example_uz": "Nafas toza boʻlishi uchun yalpizli ogʻiz chayish vositasidan foydalaning.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "plaque",
+      "pronunciation_uz": "plek",
+      "uzbek": "tish karashi",
+      "pos": "noun",
+      "example_en": "Brushing twice a day removes sticky dental plaque.",
+      "example_uz": "Kuniga ikki marta tish yuvish yopishqoq tish karashini ketkazadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "cavity",
+      "pronunciation_uz": "keviti",
+      "uzbek": "tish kovagi, kariyes",
+      "pos": "noun",
+      "example_en": "Avoid eating too many sweets to prevent tooth cavities.",
+      "example_uz": "Tishlarda kariyes paydo boʻlmasligi uchun haddan ortiq shirinlik yemang.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "filling",
+      "pronunciation_uz": "filling",
+      "uzbek": "plomba (tish plombasi)",
+      "pos": "noun",
+      "example_en": "The dentist repaired the damaged tooth with a white filling.",
+      "example_uz": "Stomatolog zararlangan tishni oq plomba bilan tikladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "braces",
+      "pronunciation_uz": "breysez",
+      "uzbek": "breket (tish tekislagich)",
+      "pos": "noun",
+      "example_en": "The teenager wore braces for a year to straighten his teeth.",
+      "example_uz": "Oʻsmir tishlarini tekislash uchun bir yil breket taqib yurdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "shampoo",
+      "pronunciation_uz": "shampu",
+      "uzbek": "shampun",
+      "pos": "noun",
+      "example_en": "Massage the herbal shampoo gently into wet hair.",
+      "example_uz": "Giyohli shampunni hoʻl sochlarga ohista surtib koʻpirtiring.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "conditioner",
+      "pronunciation_uz": "kondishner",
+      "uzbek": "soch balzami, konditsioner",
+      "pos": "noun",
+      "example_en": "Hair conditioner makes long hair soft and easy to comb.",
+      "example_uz": "Soch balzami uzun sochlarni yumshoq va oson taraladigan qiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "dandruff",
+      "pronunciation_uz": "dendraf",
+      "uzbek": "qazgʻoq",
+      "pos": "noun",
+      "example_en": "Special medicated shampoo helps eliminate dandruff.",
+      "example_uz": "Maxsus shifobaxsh shampun qazgʻoqni yoʻqotishga yordam beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "hairdryer",
+      "pronunciation_uz": "herdrayer",
+      "uzbek": "fen (soch quritgich)",
+      "pos": "noun",
+      "example_en": "Dry your hair with a hairdryer before going out in winter.",
+      "example_uz": "Qishda koʻchaga chiqishdan oldin sochingizni fen bilan quriting.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "razor",
+      "pronunciation_uz": "reyzor",
+      "uzbek": "ustara, britva",
+      "pos": "noun",
+      "example_en": "Handle the sharp razor carefully while shaving.",
+      "example_uz": "Soqol olayotganda oʻtkir ustarani ehtiyot boʻlib ishlating.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "shave",
+      "pronunciation_uz": "sheyv",
+      "uzbek": "soqol olmoq, qirmoq",
+      "pos": "verb",
+      "example_en": "He lathered his face with foam before starting to shave.",
+      "example_uz": "Soqol olishni boshlashdan oldin u yuziga koʻpik surtdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "tweezers",
+      "pronunciation_uz": "tvizerz",
+      "uzbek": "moʻychinak, pinset",
+      "pos": "noun",
+      "example_en": "Use clean tweezers to pull out the tiny wooden splinter.",
+      "example_uz": "Mayda yogʻoch zirapchani sugʻurib olish uchun toza moʻychinak ishlating.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "nail clippers",
+      "pronunciation_uz": "neyl klipperz",
+      "uzbek": "tirnoq olgich, kusachka",
+      "pos": "noun",
+      "example_en": "Keep a pair of nail clippers in your travel toiletry bag.",
+      "example_uz": "Safar xaltachangizda tirnoq olgich saqlang.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "lotion",
+      "pronunciation_uz": "loushn",
+      "uzbek": "losyon, teri yumshatuvchi krem",
+      "pos": "noun",
+      "example_en": "Apply soothing lotion to dry hands after washing dishes.",
+      "example_uz": "Idish yuvgandan soʻng quruq qoʻllarga yumshatuvchi losyon surting.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sunscreen",
+      "pronunciation_uz": "sanskrin",
+      "uzbek": "quyoshdan himoyalovchi krem",
+      "pos": "noun",
+      "example_en": "Put on sunscreen before working under the summer sun.",
+      "example_uz": "Yozgi quyosh ostida ishlashdan oldin quyoshdan himoyalovchi krem surting.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "deodorant",
+      "pronunciation_uz": "diodorant",
+      "uzbek": "dezodorant",
+      "pos": "noun",
+      "example_en": "Use deodorant after your morning shower.",
+      "example_uz": "Ertalabki dushdan soʻng dezodorant ishlating.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "antiseptic",
+      "pronunciation_uz": "antiseptik",
+      "uzbek": "antiseptik, mikrobga qarshi vosita",
+      "pos": "noun",
+      "example_en": "Clean the small cut with an antiseptic wipe.",
+      "example_uz": "Kichik kesilgan joyni antiseptik salfetka bilan tozalang.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sanitizer",
+      "pronunciation_uz": "senitayzer",
+      "uzbek": "qoʻl dezinfeksiyalovchi vosita, antiseptik gel",
+      "pos": "noun",
+      "example_en": "Keep a small bottle of hand sanitizer in your bag.",
+      "example_uz": "Sumkangizda kichik idishda qoʻl antiseptigini olib yuring.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "disinfect",
+      "pronunciation_uz": "disinfekt",
+      "uzbek": "dezinfeksiya qilmoq, zararsizlantirmoq",
+      "pos": "verb",
+      "example_en": "Doctors disinfect all surgical instruments before use.",
+      "example_uz": "Shifokorlar barcha jarrohlik asboblarini ishlatishdan oldin zararsizlantiradilar.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sterile",
+      "pronunciation_uz": "sterayl",
+      "uzbek": "steril, mikroblardan xoli, top-toza",
+      "pos": "adj",
+      "example_en": "Open a sterile gauze pad to cover the wound.",
+      "example_uz": "Yarani yopish uchun steril doka yostiqchasini oching.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "germ",
+      "pronunciation_uz": "jyorm",
+      "uzbek": "mikrob, kasallik qoʻzgʻatuvchi",
+      "pos": "noun",
+      "example_en": "Washing hands with soap washes away harmful germs.",
+      "example_uz": "Qoʻlni sovunlab yuvish zararli mikroblarni ketkazadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "bacteria",
+      "pronunciation_uz": "baktiria",
+      "uzbek": "bakteriya",
+      "pos": "noun",
+      "example_en": "Boiling water kills dangerous bacteria.",
+      "example_uz": "Suvni qaynatish xavfli bakteriyalarni oʻldiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "virus",
+      "pronunciation_uz": "vayras",
+      "uzbek": "virus",
+      "pos": "noun",
+      "example_en": "Seasonal flu is caused by a respiratory virus.",
+      "example_uz": "Mavsumiy gripp nafas yoʻllari virusi tufayli kelib chiqadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "infection",
+      "pronunciation_uz": "infekshn",
+      "uzbek": "infeksiya, yuqumli kasallik, yiringlash",
+      "pos": "noun",
+      "example_en": "Keep the scrape clean to prevent infection.",
+      "example_uz": "Yara yiringlab ketmasligi uchun shilingan joyni toza saqlang.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "contagious",
+      "pronunciation_uz": "konteyjes",
+      "uzbek": "yuqumli (bevosita muloqot orqali)",
+      "pos": "adj",
+      "example_en": "Chickenpox is highly contagious among young children.",
+      "example_uz": "Suvchechak yosh bolalar orasida juda yuqumli hisoblanadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "immunity",
+      "pronunciation_uz": "imyuniti",
+      "uzbek": "immunitet, kasallikka chidamlilik",
+      "pos": "noun",
+      "example_en": "Fresh fruits, sleep, and exercise strengthen your immunity.",
+      "example_uz": "Yangi mevalar, uyqu va mashqlar immunitetingizni mustahkamlaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "vaccine",
+      "pronunciation_uz": "veksin",
+      "uzbek": "vaksina, emlash dorisi",
+      "pos": "noun",
+      "example_en": "The vaccine protects children against polio and measles.",
+      "example_uz": "Vaksina bolalarni poliomiyelit va qizamiqdan himoya qiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "vaccinate",
+      "pronunciation_uz": "veksineyt",
+      "uzbek": "emlamoq",
+      "pos": "verb",
+      "example_en": "Clinics vaccinate infants according to the health calendar.",
+      "example_uz": "Poliklinikalar goʻdaklarni salomatlik taqvimi boʻyicha emlaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "symptom",
+      "pronunciation_uz": "simptom",
+      "uzbek": "kasallik belgisi, alomat, simptom",
+      "pos": "noun",
+      "example_en": "A high fever and dry cough are common flu symptoms.",
+      "example_uz": "Yuqori isitma va quruq yoʻtal grippning keng tarqalgan alomatlaridir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "ache",
+      "pronunciation_uz": "eyk",
+      "uzbek": "ogʻriq, simillab ogʻrish; ogʻrimoq",
+      "pos": "noun",
+      "example_en": "A warm bath relieved the dull ache in his shoulders.",
+      "example_uz": "Iliq vanna uning yelkasidagi simillagan ogʻriqni qoldirdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "toothache",
+      "pronunciation_uz": "tuseyk",
+      "uzbek": "tish ogʻrigʻi",
+      "pos": "noun",
+      "example_en": "He went to the dental clinic because of a severe toothache.",
+      "example_uz": "U qattiq tish ogʻrigʻi sababli stomatologiya klinikasiga bordi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "stomachache",
+      "pronunciation_uz": "stomakeyk",
+      "uzbek": "qorin ogʻrigʻi",
+      "pos": "noun",
+      "example_en": "Eating unripe green fruit gave the boy a stomachache.",
+      "example_uz": "Xom gʻoʻra yeyish bolaning qornini ogʻritib qoʻydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "backache",
+      "pronunciation_uz": "bekeyk",
+      "uzbek": "bel ogʻrigʻi",
+      "pos": "noun",
+      "example_en": "An ergonomic chair helps office workers avoid backache.",
+      "example_uz": "Qulay stul ofis xodimlariga bel ogʻrigʻidan saqlanishda yordam beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "earache",
+      "pronunciation_uz": "ireyk",
+      "uzbek": "quloq ogʻrigʻi",
+      "pos": "noun",
+      "example_en": "Swimming in cold water gave him an earache.",
+      "example_uz": "Sovuq suvda choʻmilish uning qulogʻini ogʻritdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sore throat",
+      "pronunciation_uz": "sor srout",
+      "uzbek": "tomoq ogʻrigʻi",
+      "pos": "noun",
+      "example_en": "Gargling with warm salt water helps a sore throat.",
+      "example_uz": "Iliq tuzli suv bilan gʻargʻara qilish tomoq ogʻrigʻida foyda beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "runny nose",
+      "pronunciation_uz": "ranni nouz",
+      "uzbek": "burun oqishi, tumov",
+      "pos": "noun",
+      "example_en": "He carried a handkerchief because of his runny nose.",
+      "example_uz": "Burni oqayotgani uchun u yonida dastroʻmol olib yurdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "congestion",
+      "pronunciation_uz": "konjeschen",
+      "uzbek": "burun bitishi, tiqilishi",
+      "pos": "noun",
+      "example_en": "Inhaling warm herbal steam relieves nasal congestion.",
+      "example_uz": "Issiq giyohli bugʻdan nafas olish burun bitishini ochadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "chills",
+      "pronunciation_uz": "chilz",
+      "uzbek": "et uvishishi, titroq",
+      "pos": "noun",
+      "example_en": "He had a fever and chills, so he stayed in bed.",
+      "example_uz": "Harorati koʻtarilib eti uvishgani sababli u oʻrinda yotdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "dizziness",
+      "pronunciation_uz": "dizines",
+      "uzbek": "bosh aylanishi",
+      "pos": "noun",
+      "example_en": "Standing up too quickly can cause brief dizziness.",
+      "example_uz": "Oʻrindan juda tez turib ketish qisqa muddatli bosh aylanishiga sabab boʻlishi mumkin.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "nausea",
+      "pronunciation_uz": "nozia",
+      "uzbek": "koʻngil aynishi",
+      "pos": "noun",
+      "example_en": "Sipping cool mint tea helps calm nausea.",
+      "example_uz": "Salqin yalpizli choyni hoʻplab ichish koʻngil aynishini bosadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "vomit",
+      "pronunciation_uz": "vomit",
+      "uzbek": "qayt qilmoq, qusmoq",
+      "pos": "verb",
+      "example_en": "Food poisoning can cause a patient to vomit.",
+      "example_uz": "Ovqatdan zaharlanish bemorda qayt qilishni keltirib chiqarishi mumkin.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "indigestion",
+      "pronunciation_uz": "indijeschen",
+      "uzbek": "oshqozon buzilishi, hazm boʻlmaslik",
+      "pos": "noun",
+      "example_en": "Eating heavy fried food late at night causes indigestion.",
+      "example_uz": "Kechasi ogʻir qovurilgan ovqat yeyish hazm buzilishiga olib keladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "heartburn",
+      "pronunciation_uz": "hartbyorn",
+      "uzbek": "jigʻildon qaynashi",
+      "pos": "noun",
+      "example_en": "Avoid very oily meals if you suffer from heartburn.",
+      "example_uz": "Jigʻildon qaynashidan aziyat cheksangiz, juda yogʻli taomlardan saqlaning.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "allergy",
+      "pronunciation_uz": "elerji",
+      "uzbek": "allergiya",
+      "pos": "noun",
+      "example_en": "In spring many people have an allergy to flower pollen.",
+      "example_uz": "Bahorda koʻp odamlarda gul changiga allergiya boʻladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "rash",
+      "pronunciation_uz": "resh",
+      "uzbek": "toshma (teridagi toshma)",
+      "pos": "noun",
+      "example_en": "Touching the stinging nettle caused an itchy red rash.",
+      "example_uz": "Chayonoʻtga tegib ketish qichishadigan qizil toshma toshirdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "itch",
+      "pronunciation_uz": "itch",
+      "uzbek": "qichishmoq; qichima",
+      "pos": "verb",
+      "example_en": "Mosquito bites itch terribly if you scratch them.",
+      "example_uz": "Chivin chaqqan joyni qashlasangiz, u qattiq qichishadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "swelling",
+      "pronunciation_uz": "svelling",
+      "uzbek": "shish",
+      "pos": "noun",
+      "example_en": "Putting ice on the sprained ankle reduced the swelling.",
+      "example_uz": "Qayrilgan toʻpiqqa muz qoʻyish shishni kamaytirdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "inflammation",
+      "pronunciation_uz": "inflameyshn",
+      "uzbek": "yalligʻlanish",
+      "pos": "noun",
+      "example_en": "Chamomile tea is known to reduce mild inflammation.",
+      "example_uz": "Moychechak choyi yengil yalligʻlanishni kamaytirishi bilan maʼlum.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "bruise",
+      "pronunciation_uz": "bruz",
+      "uzbek": "koʻkargan joy, momataloq; lat yemoq",
+      "pos": "noun",
+      "example_en": "The fall left a dark purple bruise on his shin.",
+      "example_uz": "Yiqilish uning boldirida toʻq binafsharang momataloq qoldirdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "blister",
+      "pronunciation_uz": "blister",
+      "uzbek": "qavariq, suvcha",
+      "pos": "noun",
+      "example_en": "Walking ten miles in stiff boots gave him a blister.",
+      "example_uz": "Qattiq etikda oʻn mil piyoda yurish uning oyogʻini qavartirdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "splinter",
+      "pronunciation_uz": "splinter",
+      "uzbek": "zirapcha",
+      "pos": "noun",
+      "example_en": "He got a tiny wooden splinter in his thumb.",
+      "example_uz": "Uning bosh barmogʻiga mayda yogʻoch zirapcha kirib ketdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "scratch",
+      "pronunciation_uz": "skretch",
+      "uzbek": "tirnalgan joy; tirnamoq",
+      "pos": "noun",
+      "example_en": "The rose thorns left a shallow scratch on her wrist.",
+      "example_uz": "Atirgul tikanlari uning bilagida sayoz tirnalish izini qoldirdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "wound",
+      "pronunciation_uz": "vund",
+      "uzbek": "yara, jarohat",
+      "pos": "noun",
+      "example_en": "The nurse washed the wound and covered it with gauze.",
+      "example_uz": "Hamshira yarani yuvib, ustini doka bilan yopdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "injury",
+      "pronunciation_uz": "injeri",
+      "uzbek": "jarohat, shikastlanish",
+      "pos": "noun",
+      "example_en": "Wearing a helmet prevents serious head injury.",
+      "example_uz": "Dubulgʻa kiyish boshning jiddiy jarohatlanishining oldini oladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sprain",
+      "pronunciation_uz": "spreyn",
+      "uzbek": "pay choʻzilishi, qayrilish; qayiltirib olmoq",
+      "pos": "verb",
+      "example_en": "He sprained his wrist while trying to catch the heavy box.",
+      "example_uz": "U ogʻir qutini tutib qolaman deb bilagini qayiltirib oldi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "fracture",
+      "pronunciation_uz": "frekcher",
+      "uzbek": "suyak sinishi, darz ketishi",
+      "pos": "noun",
+      "example_en": "The X-ray showed a hairline fracture in the forearm bone.",
+      "example_uz": "Rentgen tasviri bilak suyagida ingichka darz borligini koʻrsatdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "cramp",
+      "pronunciation_uz": "kremp",
+      "uzbek": "tomir tortishishi, spazm",
+      "pos": "noun",
+      "example_en": "The swimmer got a sudden cramp in his calf muscle.",
+      "example_uz": "Suzuvchining boldir mushagi toʻsatdan tortishib qoldi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sunburn",
+      "pronunciation_uz": "sanbyorn",
+      "uzbek": "quyoshda kuyish",
+      "pos": "noun",
+      "example_en": "Wear a wide hat at noon to avoid painful sunburn.",
+      "example_uz": "Tush paytida quyoshda kuyib qolmaslik uchun keng soyabonli shlyapa kiying.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "recover",
+      "pronunciation_uz": "rikaver",
+      "uzbek": "sogʻaymoq, oyoqqa turmoq",
+      "pos": "verb",
+      "example_en": "It took him a full week to recover from the flu.",
+      "example_uz": "Grippdan toʻliq sogʻayib ketishi uchun unga bir hafta vaqt kerak boʻldi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "recovery",
+      "pronunciation_uz": "rikaveri",
+      "uzbek": "sogʻayish, tiklanish",
+      "pos": "noun",
+      "example_en": "We wished our neighbor a speedy recovery.",
+      "example_uz": "Biz qoʻshnimizga tezroq sogʻayib ketishini tiladik.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "treatment",
+      "pronunciation_uz": "tritment",
+      "uzbek": "davolash, muolaja",
+      "pos": "noun",
+      "example_en": "Early diagnosis makes medical treatment much more effective.",
+      "example_uz": "Erta qoʻyilgan tashxis tibbiy muolajani ancha samarali qiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "therapy",
+      "pronunciation_uz": "serapi",
+      "uzbek": "terapiya, davolash kursi",
+      "pos": "noun",
+      "example_en": "Physical therapy helped him walk normally after knee surgery.",
+      "example_uz": "Fizioterapiya tizza operatsiyasidan keyin unga normal yurishda yordam berdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "first aid",
+      "pronunciation_uz": "fyorst eyd",
+      "uzbek": "birinchi tez tibbiy yordam",
+      "pos": "noun",
+      "example_en": "Every driver should carry a first aid kit in the car.",
+      "example_uz": "Har bir haydovchi mashinasida birinchi yordam qutichasini olib yurishi kerak.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "compress",
+      "pronunciation_uz": "kompres",
+      "uzbek": "kompress (dori-darmonli bogʻlam)",
+      "pos": "noun",
+      "example_en": "Apply a cool compress to the forehead to ease the headache.",
+      "example_uz": "Bosh ogʻrigʻini yengillashtirish uchun peshonaga salqin kompress qoʻying.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "gauze",
+      "pronunciation_uz": "goz",
+      "uzbek": "doka",
+      "pos": "noun",
+      "example_en": "Place a layer of clean gauze over the burn.",
+      "example_uz": "Kuygan joy ustiga bir qavat toza doka qoʻying.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "ointment",
+      "pronunciation_uz": "oyntment",
+      "uzbek": "malham, surtma dori, maz",
+      "pos": "noun",
+      "example_en": "Rub herbal ointment onto the sore muscle before sleep.",
+      "example_uz": "Uyqu oldidan ogʻriyotgan mushakka giyohli malham surting.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "pill",
+      "pronunciation_uz": "pil",
+      "uzbek": "hapdori, tabletka",
+      "pos": "noun",
+      "example_en": "Swallow the vitamin pill with a full glass of water.",
+      "example_uz": "Vitamin tabletkasini bir stakan toʻla suv bilan iching.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "tablet",
+      "pronunciation_uz": "teblet",
+      "uzbek": "tabletka",
+      "pos": "noun",
+      "example_en": "Dissolve one effervescent tablet in warm water.",
+      "example_uz": "Bitta vishillovchi tabletkani iliq suvda eriting.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "capsule",
+      "pronunciation_uz": "kepsul",
+      "uzbek": "kapsula",
+      "pos": "noun",
+      "example_en": "Fish oil is often sold in soft gelatin capsules.",
+      "example_uz": "Baliq yogʻi koʻpincha yumshoq jelatin kapsulalarda sotiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "drops",
+      "pronunciation_uz": "drops",
+      "uzbek": "tomchi dori",
+      "pos": "noun",
+      "example_en": "Put two soothing eye drops into each eye.",
+      "example_uz": "Har bir koʻzga ikki tomchidan tinchlantiruvchi koʻz tomchisidan tomizing.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "injection",
+      "pronunciation_uz": "injekshn",
+      "uzbek": "ukol, inyeksiya",
+      "pos": "noun",
+      "example_en": "The experienced nurse gave the injection almost painlessly.",
+      "example_uz": "Tajribali hamshira ukolni deyarli ogʻriqsiz qildi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "syringe",
+      "pronunciation_uz": "sirinj",
+      "uzbek": "shprits",
+      "pos": "noun",
+      "example_en": "Always use a new disposable syringe for each injection.",
+      "example_uz": "Har bir ukol uchun doimo yangi bir martalik shprits ishlating.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "prescription",
+      "pronunciation_uz": "preskripshn",
+      "uzbek": "shifokor retsepti (dori uchun)",
+      "pos": "noun",
+      "example_en": "You need a doctor's prescription to buy this antibiotic.",
+      "example_uz": "Ushbu antibiotikni sotib olish uchun sizga shifokor retsepti kerak.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "dose",
+      "pronunciation_uz": "dous",
+      "uzbek": "doza, dori meʼyori",
+      "pos": "noun",
+      "example_en": "Never exceed the recommended daily dose of medication.",
+      "example_uz": "Dorining tavsiya etilgan kunlik meʼyoridan hech qachon oshirmang.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "thermometer",
+      "pronunciation_uz": "termomiter",
+      "uzbek": "termometr, harorat oʻlchagich",
+      "pos": "noun",
+      "example_en": "The digital thermometer showed thirty-six point six degrees.",
+      "example_uz": "Raqamli termometr oʻttiz olti butun onda olti darajani koʻrsatdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "stethoscope",
+      "pronunciation_uz": "stetoskop",
+      "uzbek": "stetoskop (yurak va oʻpkani eshitish asbobi)",
+      "pos": "noun",
+      "example_en": "The physician listened to the boy's lungs with a stethoscope.",
+      "example_uz": "Shifokor stetoskop yordamida bolaning oʻpkasini eshitib koʻrdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "blood pressure",
+      "pronunciation_uz": "blad presher",
+      "uzbek": "qon bosimi",
+      "pos": "noun",
+      "example_en": "Cutting down on salt helps maintain normal blood pressure.",
+      "example_uz": "Tuzni kamaytirish normal qon bosimini saqlashga yordam beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "checkup",
+      "pronunciation_uz": "chekap",
+      "uzbek": "tibbiy koʻrik",
+      "pos": "noun",
+      "example_en": "Everyone should go for a general health checkup once a year.",
+      "example_uz": "Har bir inson yilda bir marta umumiy tibbiy koʻrikdan oʻtishi kerak.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "surgeon",
+      "pronunciation_uz": "syorjen",
+      "uzbek": "jarroh, xirurg",
+      "pos": "noun",
+      "example_en": "The skilled eye surgeon performed the operation in twenty minutes.",
+      "example_uz": "Malakali koʻz jarrohi operatsiyani yigirma daqiqada amalga oshirdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "pharmacist",
+      "pronunciation_uz": "farmasist",
+      "uzbek": "dorixona xodimi, farmatsevt",
+      "pos": "noun",
+      "example_en": "Ask the pharmacist how many times a day to take the syrup.",
+      "example_uz": "Farmatsevtdan siropni kuniga necha marta ichish kerakligini soʻrang.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "clinic",
+      "pronunciation_uz": "klinik",
+      "uzbek": "poliklinika, klinika",
+      "pos": "noun",
+      "example_en": "Our neighborhood clinic opened a new diagnostic wing.",
+      "example_uz": "Mahallamiz poliklinikasida yangi diagnostika boʻlimi ochildi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "ward",
+      "pronunciation_uz": "vord",
+      "uzbek": "palata, shifoxona boʻlimi",
+      "pos": "noun",
+      "example_en": "The sunlit hospital ward had four clean beds.",
+      "example_uz": "Quyosh nuri tushib turgan shifoxona palatasida toʻrtta toza karavot bor edi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "ambulance",
+      "pronunciation_uz": "embyulens",
+      "uzbek": "tez yordam mashinasi",
+      "pos": "noun",
+      "example_en": "All cars yielded the lane to the approaching ambulance.",
+      "example_uz": "Barcha mashinalar yaqinlashib kelayotgan tez yordam mashinasiga yoʻl berdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "stretcher",
+      "pronunciation_uz": "stretcher",
+      "uzbek": "zambil (bemor tashish uchun)",
+      "pos": "noun",
+      "example_en": "Paramedics carried the injured player on a stretcher.",
+      "example_uz": "Tez yordam xodimlari jarohatlangan oʻyinchini zambilda olib chiqishdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "wheelchair",
+      "pronunciation_uz": "vilcher",
+      "uzbek": "nogironlik aravachasi",
+      "pos": "noun",
+      "example_en": "The building entrance has a gentle ramp for wheelchairs.",
+      "example_uz": "Bino kirish qismida aravachalar uchun qulay nishab yoʻlak bor.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "crutch",
+      "pronunciation_uz": "kratch",
+      "uzbek": "qoʻltiqtayoq",
+      "pos": "noun",
+      "example_en": "He walked with crutches for three weeks after breaking his ankle.",
+      "example_uz": "Toʻpigʻi singanidan keyin u uch hafta qoʻltiqtayoqda yurdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "nutrition",
+      "pronunciation_uz": "nyutrishn",
+      "uzbek": "oziqlanish, ovqatlanish tartibi",
+      "pos": "noun",
+      "example_en": "Balanced nutrition is the cornerstone of good health.",
+      "example_uz": "Muvozanatli ovqatlanish mustahkam salomatlikning asosidir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "nutrient",
+      "pronunciation_uz": "nyutrient",
+      "uzbek": "ozuqa moddasi",
+      "pos": "noun",
+      "example_en": "Dark leafy greens are packed with essential nutrients.",
+      "example_uz": "Toʻq yashil bargli koʻkatlar zarur ozuqa moddalariga boy.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "protein",
+      "pronunciation_uz": "protin",
+      "uzbek": "oqsil, protein",
+      "pos": "noun",
+      "example_en": "Eggs, beans, and meat are rich sources of protein.",
+      "example_uz": "Tuxum, loviya va goʻsht oqsilning boy manbalaridir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "carbohydrate",
+      "pronunciation_uz": "karbohaydreyt",
+      "uzbek": "uglevod",
+      "pos": "noun",
+      "example_en": "Whole grains provide slow-burning carbohydrates for energy.",
+      "example_uz": "Butun don mahsulotlari quvvat uchun sekin soʻriluvchi uglevodlarni beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "vitamin",
+      "pronunciation_uz": "vaytamin",
+      "uzbek": "vitamin, darmondori",
+      "pos": "noun",
+      "example_en": "Citrus fruits and bell peppers contain plenty of vitamin C.",
+      "example_uz": "Sitrus mevalar va bulgʻor qalampirida C vitamini juda koʻp.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "mineral",
+      "pronunciation_uz": "mineral",
+      "uzbek": "mineral modda",
+      "pos": "noun",
+      "example_en": "Calcium is a mineral that keeps bones and teeth strong.",
+      "example_uz": "Kalsiy suyak va tishlarni mustahkam saqlaydigan mineraldir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "calorie",
+      "pronunciation_uz": "kalori",
+      "uzbek": "kaloriya",
+      "pos": "noun",
+      "example_en": "A brisk one-hour walk burns about three hundred calories.",
+      "example_uz": "Bir soatlik tez yurish taxminan uch yuz kaloriyani sarflaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "cholesterol",
+      "pronunciation_uz": "kolesterol",
+      "uzbek": "xolesterin",
+      "pos": "noun",
+      "example_en": "Oatmeal and walnuts help lower bad cholesterol.",
+      "example_uz": "Suli boʻtqasi va yongʻoq zararli xolesterinni kamaytirishga yordam beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "metabolism",
+      "pronunciation_uz": "metabolizm",
+      "uzbek": "moddalar almashinuvi, metabolizm",
+      "pos": "noun",
+      "example_en": "Regular physical activity boosts your metabolism.",
+      "example_uz": "Muntazam jismoniy faollik moddalar almashinuvini tezlashtiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "diet",
+      "pronunciation_uz": "dayet",
+      "uzbek": "parhez, ovqatlanish rejimi",
+      "pos": "noun",
+      "example_en": "The doctor advised him to follow a low-salt diet.",
+      "example_uz": "Shifokor unga tuzi kam parhezga amal qilishni maslahat berdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "fasting",
+      "pronunciation_uz": "fasting",
+      "uzbek": "roʻza tutish, ochlik parhezi",
+      "pos": "noun",
+      "example_en": "During fasting, it is important to drink enough water at dawn.",
+      "example_uz": "Roʻza paytida saharlikda yetarli miqdorda suv ichish muhim.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "hydration",
+      "pronunciation_uz": "haydreyshn",
+      "uzbek": "tanani suv bilan taʼminlash, namlantirish",
+      "pos": "noun",
+      "example_en": "Proper hydration is critical during Uzbekistan's hot summer.",
+      "example_uz": "Oʻzbekistonning issiq yozida tanani yetarli suv bilan taʼminlash juda muhim.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "dehydrated",
+      "pronunciation_uz": "dihaydreyted",
+      "uzbek": "suvsizlangan",
+      "pos": "adj",
+      "example_en": "Working in the sun without water left him dehydrated.",
+      "example_uz": "Quyosh ostida suvsiz ishlash uning tanasini suvsizlantirib qoʻydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "antioxidant",
+      "pronunciation_uz": "antioksidant",
+      "uzbek": "antioksidant",
+      "pos": "noun",
+      "example_en": "Green tea and pomegranates are rich in natural antioxidants.",
+      "example_uz": "Koʻk choy va anor tabiiy antioksidantlarga boy.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "obesity",
+      "pronunciation_uz": "obisiti",
+      "uzbek": "semizlik, ortiqcha vazn kasalligi",
+      "pos": "noun",
+      "example_en": "Active outdoor games help prevent childhood obesity.",
+      "example_uz": "Ochiq havodagi harakatli oʻyinlar bolalarda ortiqcha vazn paydo boʻlishining oldini oladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "overweight",
+      "pronunciation_uz": "ouverveyt",
+      "uzbek": "ortiqcha vaznli",
+      "pos": "adj",
+      "example_en": "Cutting out sugary sodas helped him stop being overweight.",
+      "example_uz": "Shakarli gazli ichimliklardan voz kechish unga ortiqcha vazndan xalos boʻlishga yordam berdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "slender",
+      "pronunciation_uz": "slender",
+      "uzbek": "xipcha, nozik, kelishgan",
+      "pos": "adj",
+      "example_en": "Long walks helped her stay fit and slender.",
+      "example_uz": "Uzoq piyoda sayrlar unga sogʻlom va xipcha boʻlib qolishga yordam berdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "fitness",
+      "pronunciation_uz": "fitnes",
+      "uzbek": "jismoniy tayyorgarlik, fitnes",
+      "pos": "noun",
+      "example_en": "Consistency matters more than intensity in daily fitness.",
+      "example_uz": "Kundalik jismoniy mashqlarda kuchdan koʻra davomiylik muhimroq.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "workout",
+      "pronunciation_uz": "vorkaut",
+      "uzbek": "mashgʻulot, badantarbiya mashqi",
+      "pos": "noun",
+      "example_en": "He starts every morning with a twenty-minute workout.",
+      "example_uz": "U har tongni yigirma daqiqalik badantarbiya mashqi bilan boshlaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "gymnastics",
+      "pronunciation_uz": "jimnestiks",
+      "uzbek": "gimnastika, badantarbiya",
+      "pos": "noun",
+      "example_en": "Light morning gymnastics wakes up the whole body.",
+      "example_uz": "Yengil ertalabki badantarbiya butun tanani uygʻotadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "aerobics",
+      "pronunciation_uz": "erobiks",
+      "uzbek": "aerobika",
+      "pos": "noun",
+      "example_en": "She attends a water aerobics class twice a week.",
+      "example_uz": "U haftada ikki marta suv aerobikasi mashgʻulotiga qatnaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "yoga",
+      "pronunciation_uz": "yoga",
+      "uzbek": "yoga",
+      "pos": "noun",
+      "example_en": "Practicing yoga improves flexibility and inner calm.",
+      "example_uz": "Yoga bilan shugʻullanish egiluvchanlik va ichki xotirjamlikni oshiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "meditation",
+      "pronunciation_uz": "mediteyshn",
+      "uzbek": "meditatsiya, fikrni jamlash",
+      "pos": "noun",
+      "example_en": "Ten minutes of quiet meditation reduces daily stress.",
+      "example_uz": "Oʻn daqiqalik sokin meditatsiya kundalik stressni kamaytiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "push-up",
+      "pronunciation_uz": "push-ap",
+      "uzbek": "poldan qoʻlga tayanib koʻtarilish (otjimaniye)",
+      "pos": "noun",
+      "example_en": "He can do thirty push-ups without stopping.",
+      "example_uz": "U toʻxtamasdan oʻttiz marta qoʻlga tayanib koʻtarila oladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "pull-up",
+      "pronunciation_uz": "pul-ap",
+      "uzbek": "turnikda tortilish",
+      "pos": "noun",
+      "example_en": "There is a horizontal bar in the yard for doing pull-ups.",
+      "example_uz": "Hovlida tortilish mashqini bajarish uchun turnik bor.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "sit-up",
+      "pronunciation_uz": "sit-ap",
+      "uzbek": "qorin mushaklari mashqi (press)",
+      "pos": "noun",
+      "example_en": "Doing sit-ups strengthens your abdominal muscles.",
+      "example_uz": "Press mashqini bajarish qorin mushaklarini mustahkamlaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "warm-up",
+      "pronunciation_uz": "vorm-ap",
+      "uzbek": "mashq oldidan qizishish, chigil yozish",
+      "pos": "noun",
+      "example_en": "Never skip the five-minute warm-up before running.",
+      "example_uz": "Yugurishdan oldin besh daqiqalik chigil yozish mashqini aslo qoldirmang.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "flexibility",
+      "pronunciation_uz": "fleksibiliti",
+      "uzbek": "egiluvchanlik, qayishqoqlik",
+      "pos": "noun",
+      "example_en": "Daily stretching increases the flexibility of your joints.",
+      "example_uz": "Har kuni choʻzilish mashqlarini bajarish boʻgʻimlar egiluvchanligini oshiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "endurance",
+      "pronunciation_uz": "indyurens",
+      "uzbek": "bardosh, chidamlilik",
+      "pos": "noun",
+      "example_en": "Swimming long laps builds cardiovascular endurance.",
+      "example_uz": "Uzoq masofaga suzish yurak-qon tomir chidamliligini oshiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "vigor",
+      "pronunciation_uz": "vigor",
+      "uzbek": "gʻayrat, quvvat, tetiklik",
+      "pos": "noun",
+      "example_en": "After a good night's rest, he worked with renewed vigor.",
+      "example_uz": "Tungi yaxshi dam olishdan soʻng u yangi gʻayrat bilan ishladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "vitality",
+      "pronunciation_uz": "vayteliti",
+      "uzbek": "hayotiy quvvat, joʻshqinlik",
+      "pos": "noun",
+      "example_en": "Fresh mountain air and spring water give villagers great vitality.",
+      "example_uz": "Toza togʻ havosi va buloq suvi qishloq ahliga katta hayotiy quvvat beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "well-being",
+      "pronunciation_uz": "vel-biing",
+      "uzbek": "farovonlik, salomatlik va xotirjamlik",
+      "pos": "noun",
+      "example_en": "Spending time with family improves emotional well-being.",
+      "example_uz": "Oila davrasida vaqt oʻtkazish ruhiy xotirjamlikni yaxshilaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "wellness",
+      "pronunciation_uz": "velnes",
+      "uzbek": "sogʻlom turmush, salomatlik holati",
+      "pos": "noun",
+      "example_en": "The resort offers mineral baths and wellness programs.",
+      "example_uz": "Sihatgoh mineral vannalar va sogʻlomlashtirish dasturlarini taklif etadi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "longevity",
+      "pronunciation_uz": "lonjeviti",
+      "uzbek": "uzoq umr koʻrish",
+      "pos": "noun",
+      "example_en": "Active work, simple food, and peace of mind promote longevity.",
+      "example_uz": "Faol mehnat, oddiy taom va xotirjamlik uzoq umr koʻrishga xizmat qiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "lifestyle",
+      "pronunciation_uz": "layfstayl",
+      "uzbek": "turmush tarzi, hayot tarzi",
+      "pos": "noun",
+      "example_en": "Switching to an active lifestyle improved his sleep and mood.",
+      "example_uz": "Faol turmush tarziga oʻtish uning uyqusi va kayfiyatini yaxshiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "habit",
+      "pronunciation_uz": "hebit",
+      "uzbek": "odat, koʻnikma",
+      "pos": "noun",
+      "example_en": "Drinking a glass of warm water in the morning is a healthy habit.",
+      "example_uz": "Ertalab bir stakan iliq suv ichish foydali odatdir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "moderation",
+      "pronunciation_uz": "modereyshn",
+      "uzbek": "meʼyor, moʻtadillik",
+      "pos": "noun",
+      "example_en": "Ibn Sina taught that moderation in food and sleep is the key to health.",
+      "example_uz": "Ibn Sino ovqat va uyquda meʼyorni bilish salomatlik garovi ekanini uqtirgan.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "abstinence",
+      "pronunciation_uz": "ebstinens",
+      "uzbek": "tiyilish, parhez, voz kechish",
+      "pos": "noun",
+      "example_en": "Abstinence from smoking and alcohol protects the heart and liver.",
+      "example_uz": "Chekish va ichkilikdan tiyilish yurak hamda jigarni asraydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "addiction",
+      "pronunciation_uz": "edikshn",
+      "uzbek": "qaramlik, zararli odatga bogʻlanib qolish",
+      "pos": "noun",
+      "example_en": "Overcoming an addiction requires strong willpower and support.",
+      "example_uz": "Zararli odatga qaramlikni yengish kuchli iroda va koʻmakni talab qiladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "quit",
+      "pronunciation_uz": "kvit",
+      "uzbek": "tashlamoq (zararli odatni), toʻxtatmoq",
+      "pos": "verb",
+      "example_en": "He decided to quit smoking for the sake of his health.",
+      "example_uz": "U oʻz salomatligi uchun chekishni tashlashga qaror qildi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "stress",
+      "pronunciation_uz": "stres",
+      "uzbek": "stress, ruhiy zoʻriqish",
+      "pos": "noun",
+      "example_en": "Gardening is a wonderful way to relieve daily stress.",
+      "example_uz": "Bogʻdorchilik kundalik ruhiy zoʻriqishni ketkazishning ajoyib usulidir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "tension",
+      "pronunciation_uz": "tenshn",
+      "uzbek": "taranglik, zoʻriqish",
+      "pos": "noun",
+      "example_en": "Deep breathing releases muscle tension in the neck.",
+      "example_uz": "Chuqur nafas olish boʻyindagi mushak zoʻriqishini boʻshashtiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "fatigue",
+      "pronunciation_uz": "fatig",
+      "uzbek": "toliqish, charchoq, horgʻinlik",
+      "pos": "noun",
+      "example_en": "Staring at a screen all day causes eye fatigue.",
+      "example_uz": "Kun boʻyi ekranga tikilish koʻz toliqishiga olib keladi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "exhaustion",
+      "pronunciation_uz": "igzoschen",
+      "uzbek": "holdan toyish, qattiq charchash",
+      "pos": "noun",
+      "example_en": "The hikers sat down by the stream in complete exhaustion.",
+      "example_uz": "Sayohatchilar qattiq holdan toyib soy boʻyiga oʻtirishdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "insomnia",
+      "pronunciation_uz": "insomnia",
+      "uzbek": "uyqusizlik, bedorlik",
+      "pos": "noun",
+      "example_en": "Drinking coffee late in the evening can cause insomnia.",
+      "example_uz": "Kechqurun qahva ichish uyqusizlikka sabab boʻlishi mumkin.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "nap",
+      "pronunciation_uz": "nep",
+      "uzbek": "kunduzgi qisqa uyqu, mizgʻish",
+      "pos": "noun",
+      "example_en": "A twenty-minute afternoon nap restores your mental focus.",
+      "example_uz": "Kunduzi yigirma daqiqa mizgʻib olish diqqatni jamlaydi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "slumber",
+      "pronunciation_uz": "slamber",
+      "uzbek": "shirin uyqu, tinch uyqu",
+      "pos": "noun",
+      "example_en": "The baby fell into a peaceful slumber in the cradle.",
+      "example_uz": "Chaqaloq beshikda tinch va shirin uyquga ketdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "drowsy",
+      "pronunciation_uz": "drauzi",
+      "uzbek": "uyqusiragan, mudragan",
+      "pos": "adj",
+      "example_en": "Some allergy medicines can make you feel drowsy.",
+      "example_uz": "Baʼzi allergiya dorilari odamni uyqusiratib qoʻyishi mumkin.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "refreshed",
+      "pronunciation_uz": "rifresht",
+      "uzbek": "tetiklashgan, dam olgan",
+      "pos": "adj",
+      "example_en": "She woke up at dawn feeling rested and refreshed.",
+      "example_uz": "U tongda dam olgan va tetiklashgan holda uygʻondi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "energetic",
+      "pronunciation_uz": "enerjetik",
+      "uzbek": "sergʻayrat, tetik, harakatchan",
+      "pos": "adj",
+      "example_en": "The children were energetic and ready to play outdoors.",
+      "example_uz": "Bolalar sergʻayrat va koʻchada oʻynashga tayyor edilar.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "wholesome",
+      "pronunciation_uz": "houlsam",
+      "uzbek": "foydali, sogʻlom, toza",
+      "pos": "adj",
+      "example_en": "Home-cooked meals made from fresh produce are wholesome.",
+      "example_uz": "Yangi mahsulotlardan uyda pishirilgan taomlar sogʻliq uchun foydalidir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "rejuvenate",
+      "pronunciation_uz": "rijuveneyt",
+      "uzbek": "yoshartirmoq, kuch-quvvatni tiklamoq",
+      "pos": "verb",
+      "example_en": "A week in the mountain resort helped rejuvenate his spirits.",
+      "example_uz": "Togʻ sihatgohidagi bir hafta uning kuch-quvvatini tiklashga yordam berdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "relax",
+      "pronunciation_uz": "rileks",
+      "uzbek": "dam olmoq, boʻshashmoq, hordiq chiqarmoq",
+      "pos": "verb",
+      "example_en": "Sit on the tapchan under the grapevine and relax.",
+      "example_uz": "Tok ostidagi soʻrida oʻtirib, hordiq chiqaring.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "unwind",
+      "pronunciation_uz": "anvaynd",
+      "uzbek": "charchoqni yozmoq, koʻngilni yozmoq",
+      "pos": "verb",
+      "example_en": "Listening to classical maqom music helps him unwind after work.",
+      "example_uz": "Mumtoz maqom musiqasini tinglash unga ishdan keyin charchoqni yozishga yordam beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "spa",
+      "pronunciation_uz": "spa",
+      "uzbek": "sihatgoh, suv bilan davolash maskani, spa",
+      "pos": "noun",
+      "example_en": "Chartak is famous for its natural mineral water spa.",
+      "example_uz": "Chortoq oʻzining tabiiy mineral suvli sihatgohi bilan mashhur.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "massage",
+      "pronunciation_uz": "massaj",
+      "uzbek": "massaj, uqalash",
+      "pos": "noun",
+      "example_en": "A gentle shoulder massage eased the stiffness in his back.",
+      "example_uz": "Yelkani ohista uqalash uning belidagi qotib qolishni yozdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "gargle",
+      "pronunciation_uz": "gargl",
+      "uzbek": "gʻargʻara qilmoq, tomoq chaymoq",
+      "pos": "verb",
+      "example_en": "Gargle with warm chamomile infusion three times a day.",
+      "example_uz": "Kuniga uch marta iliq moychechak damlamasi bilan tomoqni gʻargʻara qiling.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "disinfectant",
+      "pronunciation_uz": "disinfektant",
+      "uzbek": "dezinfeksiyalovchi vosita",
+      "pos": "noun",
+      "example_en": "Wash the hospital floor with a mild disinfectant.",
+      "example_uz": "Shifoxona polini yumshoq dezinfeksiyalovchi vosita bilan yuving.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "inoculate",
+      "pronunciation_uz": "inokyuleyt",
+      "uzbek": "emlamoq, vaksina qilmoq",
+      "pos": "verb",
+      "example_en": "Doctors inoculate travelers against tropical fevers.",
+      "example_uz": "Shifokorlar sayohatchilarni tropik isitmalarga qarshi emlaydilar.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "diagnose",
+      "pronunciation_uz": "dayagnouz",
+      "uzbek": "tashxis qoʻymoq, aniqlamoq",
+      "pos": "verb",
+      "example_en": "Blood tests help the physician diagnose the condition accurately.",
+      "example_uz": "Qon tahlillari shifokorga holatga aniq tashxis qoʻyishda yordam beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "diagnosis",
+      "pronunciation_uz": "dayagnousis",
+      "uzbek": "tashxis, diagnoz",
+      "pos": "noun",
+      "example_en": "An accurate diagnosis is the first step toward recovery.",
+      "example_uz": "Aniq tashxis — sogʻayish sari qoʻyilgan birinchi qadamdir.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "prescribe",
+      "pronunciation_uz": "preskrayb",
+      "uzbek": "yozib bermoq, tayinlamoq (dori yoki rejim)",
+      "pos": "verb",
+      "example_en": "The doctor decided to prescribe rest and herbal tea.",
+      "example_uz": "Shifokor tinch dam olish va giyohli choy tayinlashga qaror qildi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "relieve",
+      "pronunciation_uz": "riliv",
+      "uzbek": "yengillashtirmoq, qoldirmoq (ogʻriqni)",
+      "pos": "verb",
+      "example_en": "A warm compress helped relieve the pain in his neck.",
+      "example_uz": "Issiq kompress uning boʻynidagi ogʻriqni yengillashtirishga yordam berdi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "soothe",
+      "pronunciation_uz": "suz",
+      "uzbek": "tinchlantirmoq, yumshatmoq (ogʻriq yoki achishishni)",
+      "pos": "verb",
+      "example_en": "Aloe gel helps soothe skin after too much sun.",
+      "example_uz": "Aloe geli quyoshda koʻp yurgandan keyin terini tinchlantirishga yordam beradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "hydrate",
+      "pronunciation_uz": "haydreyt",
+      "uzbek": "suv bilan toʻyintirmoq, namlantirmoq",
+      "pos": "verb",
+      "example_en": "Drink mineral water to hydrate your body after sports.",
+      "example_uz": "Sportdan soʻng tanangizni suv bilan toʻyintirish uchun mineral suv iching.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    },
+    {
+      "english": "nourish",
+      "pronunciation_uz": "norish",
+      "uzbek": "oziqlantirmoq, quvvat bermoq",
+      "pos": "verb",
+      "example_en": "Wholesome home-cooked soups nourish the body in winter.",
+      "example_uz": "Uyda pishirilgan foydali shoʻrvalar qishda tanani oziqlantiradi.",
+      "category": "Salomatlik, gigiyena va sogʻlom turmush"
+    }
+  ]
+}

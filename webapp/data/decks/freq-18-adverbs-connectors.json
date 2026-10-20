@@ -1,0 +1,1339 @@
+{
+  "title": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)",
+  "category": "Adverbs, Connectors & Transitions",
+  "group": "freq",
+  "words": [
+    {
+      "english": "absolutely",
+      "pronunciation_uz": "ebsolyutli",
+      "uzbek": "mutlaqo, butunlay",
+      "pos": "adv",
+      "example_en": "You are absolutely right about this.",
+      "example_uz": "Siz bu borada mutlaqo haqsiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "accordingly",
+      "pronunciation_uz": "ekoʻdingli",
+      "uzbek": "shunga muvofiq",
+      "pos": "adv",
+      "example_en": "Please check the rules and act accordingly.",
+      "example_uz": "Qoidalarni tekshiring va shunga muvofiq ish tuting.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "additionally",
+      "pronunciation_uz": "edishnalli",
+      "uzbek": "bundan tashqari, qoʻshimcha ravishda",
+      "pos": "adv",
+      "example_en": "Additionally, we offer free delivery.",
+      "example_uz": "Bundan tashqari, biz bepul yetkazib berishni taklif qilamiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "afterward",
+      "pronunciation_uz": "aftevord",
+      "uzbek": "keyin, soʻngra",
+      "pos": "adv",
+      "example_en": "We had dinner and went for a walk afterward.",
+      "example_uz": "Biz kechki ovqat yedik va keyin sayrga chiqdik.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "altogether",
+      "pronunciation_uz": "oʻltugeze",
+      "uzbek": "butunlay, jami boʻlib",
+      "pos": "adv",
+      "example_en": "That will be fifty dollars altogether.",
+      "example_uz": "Jami boʻlib ellik dollar boʻladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "anyway",
+      "pronunciation_uz": "enivey",
+      "uzbek": "har holda, baribir",
+      "pos": "adv",
+      "example_en": "It was raining, but we went out anyway.",
+      "example_uz": "Yomgʻir yogʻayotgan edi, lekin baribir koʻchaga chiqdik.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "anywhere",
+      "pronunciation_uz": "eniver",
+      "uzbek": "har qanday joyda, biror joyga",
+      "pos": "adv",
+      "example_en": "Sit anywhere you like.",
+      "example_uz": "Oʻzingizga yoqqan har qanday joyga oʻtiring.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "apparently",
+      "pronunciation_uz": "epparentli",
+      "uzbek": "aftidan, koʻrinishidan",
+      "pos": "adv",
+      "example_en": "Apparently, the flight has been delayed.",
+      "example_uz": "Aftidan, parvoz kechiktirilgan koʻrinadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "approximately",
+      "pronunciation_uz": "epproksimetli",
+      "uzbek": "taxminan, chamasi",
+      "pos": "adv",
+      "example_en": "The trip takes approximately two hours.",
+      "example_uz": "Safar taxminan ikki soat davom etadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "aside",
+      "pronunciation_uz": "esayd",
+      "uzbek": "chetga, bir chekkaga",
+      "pos": "adv",
+      "example_en": "He stepped aside to let her pass.",
+      "example_uz": "U qizni oʻtkazib yuborish uchun chetga chiqdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "automatically",
+      "pronunciation_uz": "oʻtomatikli",
+      "uzbek": "avtomatik tarzda",
+      "pos": "adv",
+      "example_en": "The doors lock automatically at night.",
+      "example_uz": "Eshiklar kechasi avtomatik tarzda qulflanadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "barely",
+      "pronunciation_uz": "berli",
+      "uzbek": "zoʻrgʻa, arang",
+      "pos": "adv",
+      "example_en": "I could barely hear his voice.",
+      "example_uz": "Men uning ovozini zoʻrgʻa eshitdim.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "basically",
+      "pronunciation_uz": "beysikli",
+      "uzbek": "asosan, mohiyatan",
+      "pos": "adv",
+      "example_en": "The two plans are basically the same.",
+      "example_uz": "Ikkala reja asosan bir xil.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "besides",
+      "pronunciation_uz": "bisaydz",
+      "uzbek": "bundan tashqari, ustiga-ustak",
+      "pos": "adv",
+      "example_en": "I am too tired to go; besides, it is late.",
+      "example_uz": "Borishga juda charchaganman, ustiga-ustak kech boʻldi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "briefly",
+      "pronunciation_uz": "brifli",
+      "uzbek": "qisqacha",
+      "pos": "adv",
+      "example_en": "She explained the issue briefly.",
+      "example_uz": "U masalani qisqacha tushuntirib berdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "broadly",
+      "pronunciation_uz": "broʻdli",
+      "uzbek": "keng maʼnoda, umuman",
+      "pos": "adv",
+      "example_en": "Broadly speaking, the economy is growing.",
+      "example_uz": "Umuman olganda, iqtisodiyot oʻsib bormoqda.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "carefully",
+      "pronunciation_uz": "kerfulli",
+      "uzbek": "ehtiyotkorlik bilan, diqqat bilan",
+      "pos": "adv",
+      "example_en": "Please drive carefully on icy roads.",
+      "example_uz": "Muzlagan yoʻllarda ehtiyotkorlik bilan haydang.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "clearly",
+      "pronunciation_uz": "klirli",
+      "uzbek": "aniq, ravshan",
+      "pos": "adv",
+      "example_en": "Speak clearly so everyone can understand.",
+      "example_uz": "Hamma tushunishi uchun aniq gapiring.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "closely",
+      "pronunciation_uz": "kloʻsli",
+      "uzbek": "yaqindan, diqqat bilan",
+      "pos": "adv",
+      "example_en": "Watch closely how I solve this problem.",
+      "example_uz": "Bu masalani qanday yechishimni diqqat bilan kuzating.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "commonly",
+      "pronunciation_uz": "komonli",
+      "uzbek": "odatda, koʻpincha",
+      "pos": "adv",
+      "example_en": "This spice is commonly used in Uzbek food.",
+      "example_uz": "Bu ziravor oʻzbek taomlarida koʻpincha ishlatiladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "completely",
+      "pronunciation_uz": "komplitli",
+      "uzbek": "butunlay, tamomila",
+      "pos": "adv",
+      "example_en": "I completely forgot about the meeting.",
+      "example_uz": "Uchrashuv haqida butunlay unutibman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "consequently",
+      "pronunciation_uz": "konsekventli",
+      "uzbek": "natijada, binobarin",
+      "pos": "adv",
+      "example_en": "He didn't study and consequently failed.",
+      "example_uz": "U oʻqimadi va natijada yiqildi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "considerably",
+      "pronunciation_uz": "konsiderabli",
+      "uzbek": "sezilarli darajada",
+      "pos": "adv",
+      "example_en": "Prices have risen considerably this year.",
+      "example_uz": "Bu yil narxlar sezilarli darajada oshdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "constantly",
+      "pronunciation_uz": "konstantli",
+      "uzbek": "doimo, tinimsiz",
+      "pos": "adv",
+      "example_en": "Technology is constantly changing.",
+      "example_uz": "Texnologiya tinimsiz oʻzgarib bormoqda.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "continually",
+      "pronunciation_uz": "kontinyualli",
+      "uzbek": "uzluksiz, ketma-ket",
+      "pos": "adv",
+      "example_en": "She continually strives to improve her skills.",
+      "example_uz": "U oʻz mahoratini oshirishga uzluksiz intiladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "correctly",
+      "pronunciation_uz": "korrektli",
+      "uzbek": "toʻgʻri",
+      "pos": "adv",
+      "example_en": "Did I spell your name correctly?",
+      "example_uz": "Ismingizni toʻgʻri yozdimmi?",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "currently",
+      "pronunciation_uz": "karrentli",
+      "uzbek": "hozirgi vaqtda, ayni paytda",
+      "pos": "adv",
+      "example_en": "He is currently working in Tashkent.",
+      "example_uz": "U hozirgi vaqtda Toshkentda ishlamoqda.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "deeply",
+      "pronunciation_uz": "dipli",
+      "uzbek": "chuqur, chin dildan",
+      "pos": "adv",
+      "example_en": "We are deeply grateful for your help.",
+      "example_uz": "Yordamingiz uchun chin dildan minnatdormiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "definitely",
+      "pronunciation_uz": "definitli",
+      "uzbek": "aniq, shubhasiz",
+      "pos": "adv",
+      "example_en": "I will definitely call you tomorrow.",
+      "example_uz": "Ertaga sizga aniq qoʻngʻiroq qilaman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "deliberately",
+      "pronunciation_uz": "deliberetli",
+      "uzbek": "ataylab, qasddan",
+      "pos": "adv",
+      "example_en": "He deliberately ignored my question.",
+      "example_uz": "U savolimni ataylab eʼtiborsiz qoldirdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "directly",
+      "pronunciation_uz": "direktli",
+      "uzbek": "toʻgʻridan-toʻgʻri, bevosita",
+      "pos": "adv",
+      "example_en": "You can fly directly to London.",
+      "example_uz": "Londonga toʻgʻridan-toʻgʻri uchishingiz mumkin.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "doubtless",
+      "pronunciation_uz": "dautles",
+      "uzbek": "shubhasiz",
+      "pos": "adv",
+      "example_en": "Doubtless, he has his own reasons.",
+      "example_uz": "Shubhasiz, uning oʻz sabablari bor.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "dramatically",
+      "pronunciation_uz": "dramatikli",
+      "uzbek": "keskin, tubdan",
+      "pos": "adv",
+      "example_en": "Life has changed dramatically in ten years.",
+      "example_uz": "Oʻn yil ichida hayot keskin oʻzgardi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "eagerly",
+      "pronunciation_uz": "igerli",
+      "uzbek": "intizorlik bilan,ishtiyoq bilan",
+      "pos": "adv",
+      "example_en": "The children waited eagerly for the gifts.",
+      "example_uz": "Bolalar sovgʻalarni intizorlik bilan kutishdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "easily",
+      "pronunciation_uz": "izili",
+      "uzbek": "osongina, bemalol",
+      "pos": "adv",
+      "example_en": "She easily passed the driving test.",
+      "example_uz": "U haydovchilik imtihonidan osongina oʻtdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "effectively",
+      "pronunciation_uz": "effektivli",
+      "uzbek": "samarali tarzda",
+      "pos": "adv",
+      "example_en": "Learn to manage your time effectively.",
+      "example_uz": "Vaqtingizni samarali boshqarishni oʻrganing.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "efficiently",
+      "pronunciation_uz": "efishentli",
+      "uzbek": "unumli, tezkorlik bilan",
+      "pos": "adv",
+      "example_en": "The new machine works very efficiently.",
+      "example_uz": "Yangi uskuna juda unumli ishlaydi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "elsewhere",
+      "pronunciation_uz": "elsver",
+      "uzbek": "boshqa joyda",
+      "pos": "adv",
+      "example_en": "If it is too expensive here, we will look elsewhere.",
+      "example_uz": "Bu yerda juda qimmat boʻlsa, boshqa joydan qidiramiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "entirely",
+      "pronunciation_uz": "entayrli",
+      "uzbek": "butunlay, toʻlaligicha",
+      "pos": "adv",
+      "example_en": "That is an entirely different matter.",
+      "example_uz": "Bu butunlay boshqa masala.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "equally",
+      "pronunciation_uz": "ikvalli",
+      "uzbek": "baravar, teng darajada",
+      "pos": "adv",
+      "example_en": "All team members are equally important.",
+      "example_uz": "Barcha jamoa aʼzolari teng darajada muhimdir.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "essentially",
+      "pronunciation_uz": "esenshalli",
+      "uzbek": "mohiyatan, aslini olganda",
+      "pos": "adv",
+      "example_en": "Both methods are essentially the same.",
+      "example_uz": "Ikkala usul ham mohiyatan bir xil.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "eventually",
+      "pronunciation_uz": "ivenchualli",
+      "uzbek": "oxir-oqibat, vaqti kelib",
+      "pos": "adv",
+      "example_en": "Hard work eventually pays off.",
+      "example_uz": "Mehnat oxir-oqibat oʻz mevasini beradi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "evidently",
+      "pronunciation_uz": "evidentli",
+      "uzbek": "koʻrinib turibdiki, yaqqol",
+      "pos": "adv",
+      "example_en": "She was evidently pleased with the result.",
+      "example_uz": "U natijadan yaqqol mamnun edi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "exactly",
+      "pronunciation_uz": "igzaktli",
+      "uzbek": "aynan, xuddi",
+      "pos": "adv",
+      "example_en": "Tell me exactly what happened.",
+      "example_uz": "Nima boʻlganini menga aynan aytib bering.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "exclusively",
+      "pronunciation_uz": "eksklyuzivli",
+      "uzbek": "faqatgina, maxsus",
+      "pos": "adv",
+      "example_en": "This room is reserved exclusively for guests.",
+      "example_uz": "Bu xona faqatgina mehmonlar uchun ajratilgan.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "extremely",
+      "pronunciation_uz": "ekstrimli",
+      "uzbek": "nihoyatda, oʻta",
+      "pos": "adv",
+      "example_en": "Summers here can be extremely hot.",
+      "example_uz": "Bu yerda yoz oʻta issiq boʻlishi mumkin.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "fairly",
+      "pronunciation_uz": "ferli",
+      "uzbek": "anchagina, adolatli ravishda",
+      "pos": "adv",
+      "example_en": "The exam was fairly easy.",
+      "example_uz": "Imtihon anchagina oson boʻldi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "firmly",
+      "pronunciation_uz": "foʻmli",
+      "uzbek": "qatʼiy, mahkam",
+      "pos": "adv",
+      "example_en": "Hold the rope firmly with both hands.",
+      "example_uz": "Arqonni ikkala qoʻlingiz bilan mahkam ushlang.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "formerly",
+      "pronunciation_uz": "foʻmerli",
+      "uzbek": "ilgari, avvallari",
+      "pos": "adv",
+      "example_en": "This building was formerly a library.",
+      "example_uz": "Bu bino ilgari kutubxona boʻlgan.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "frankly",
+      "pronunciation_uz": "frenkli",
+      "uzbek": "ochigʻini aytganda",
+      "pos": "adv",
+      "example_en": "Frankly, I don't agree with this idea.",
+      "example_uz": "Ochigʻini aytganda, men bu fikrga qoʻshilmayman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "freely",
+      "pronunciation_uz": "frili",
+      "uzbek": "erkin, bemalol",
+      "pos": "adv",
+      "example_en": "You may speak freely here.",
+      "example_uz": "Bu yerda erkin gapirishingiz mumkin.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "fully",
+      "pronunciation_uz": "fulli",
+      "uzbek": "toʻliq, butunlay",
+      "pos": "adv",
+      "example_en": "I fully understand your concern.",
+      "example_uz": "Men sizning xavotiringizni toʻliq tushunaman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "generally",
+      "pronunciation_uz": "jeneralli",
+      "uzbek": "umuman olganda, odatda",
+      "pos": "adv",
+      "example_en": "Generally, I wake up at six o'clock.",
+      "example_uz": "Odatda men soat oltida uygʻonaman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "gently",
+      "pronunciation_uz": "jentli",
+      "uzbek": "ohista, muloyimlik bilan",
+      "pos": "adv",
+      "example_en": "She gently closed the bedroom door.",
+      "example_uz": "U yotoqxona eshigini ohista yopdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "genuinely",
+      "pronunciation_uz": "jenyuinli",
+      "uzbek": "chin dildan, samimiy",
+      "pos": "adv",
+      "example_en": "He was genuinely happy to see us.",
+      "example_uz": "U bizni koʻrganidan chin dildan xursand boʻldi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "gradually",
+      "pronunciation_uz": "gradyualli",
+      "uzbek": "asta-sekin, bosqichma-bosqich",
+      "pos": "adv",
+      "example_en": "The weather is gradually getting warmer.",
+      "example_uz": "Ob-havo asta-sekin isib bormoqda.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "greatly",
+      "pronunciation_uz": "greytli",
+      "uzbek": "juda, katta darajada",
+      "pos": "adv",
+      "example_en": "Your support is greatly appreciated.",
+      "example_uz": "Qoʻllab-quvvatlashingiz juda qadrlanadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "hardly",
+      "pronunciation_uz": "hardli",
+      "uzbek": "deyarli yoʻq, zoʻrgʻa",
+      "pos": "adv",
+      "example_en": "There is hardly any milk left.",
+      "example_uz": "Deyarli sut qolmabdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "heavily",
+      "pronunciation_uz": "hevili",
+      "uzbek": "kuchli, qattiq",
+      "pos": "adv",
+      "example_en": "It rained heavily all night.",
+      "example_uz": "Tuni bilan kuchli yomgʻir yogʻdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "hence",
+      "pronunciation_uz": "hens",
+      "uzbek": "shu sababli, bundan buyon",
+      "pos": "adv",
+      "example_en": "He was tired, hence he went to bed early.",
+      "example_uz": "U charchagan edi, shu sababli erta yotdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "highly",
+      "pronunciation_uz": "hayli",
+      "uzbek": "yuqori darajada, juda",
+      "pos": "adv",
+      "example_en": "She is a highly skilled doctor.",
+      "example_uz": "U yuqori malakali shifokor.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "honestly",
+      "pronunciation_uz": "onestli",
+      "uzbek": "rostini aytsam, halol",
+      "pos": "adv",
+      "example_en": "Honestly, I have no idea where it is.",
+      "example_uz": "Rostini aytsam, u qayerdaligini bilmayman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "hopefully",
+      "pronunciation_uz": "hoʻpfulli",
+      "uzbek": "umid qilamanki, inshaalloh",
+      "pos": "adv",
+      "example_en": "Hopefully, we will arrive on time.",
+      "example_uz": "Umid qilamanki, oʻz vaqtida yetib boramiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "increasingly",
+      "pronunciation_uz": "inkrisingli",
+      "uzbek": "tobora, borgan sari",
+      "pos": "adv",
+      "example_en": "Clean water is becoming increasingly scarce.",
+      "example_uz": "Toza suv tobora tanqis boʻlib bormoqda.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "incredibly",
+      "pronunciation_uz": "inkredibli",
+      "uzbek": "aqldan ozgudek, nihoyatda",
+      "pos": "adv",
+      "example_en": "The view from the mountain was incredibly beautiful.",
+      "example_uz": "Togʻdan koʻringan manzara nihoyatda goʻzal edi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "indeed",
+      "pronunciation_uz": "indid",
+      "uzbek": "haqiqatan ham, darhaqiqat",
+      "pos": "adv",
+      "example_en": "A friend in need is a friend indeed.",
+      "example_uz": "Ogʻir kunda yoningda turgan doʻst haqiqiy doʻstdir.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "independently",
+      "pronunciation_uz": "indipendentli",
+      "uzbek": "mustaqil ravishda",
+      "pos": "adv",
+      "example_en": "Students must complete the task independently.",
+      "example_uz": "Talabalar vazifani mustaqil ravishda bajarishlari shart.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "indirectly",
+      "pronunciation_uz": "indirektli",
+      "uzbek": "bilvosita",
+      "pos": "adv",
+      "example_en": "His decision indirectly affected our team.",
+      "example_uz": "Uning qarori jamoamizga bilvosita taʼsir qildi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "individually",
+      "pronunciation_uz": "indivijualli",
+      "uzbek": "alohida-alohida, yakka tartibda",
+      "pos": "adv",
+      "example_en": "The teacher spoke to each student individually.",
+      "example_uz": "Oʻqituvchi har bir oʻquvchi bilan alohida gaplashdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "inevitably",
+      "pronunciation_uz": "inevitabli",
+      "uzbek": "muqarrar ravishda",
+      "pos": "adv",
+      "example_en": "Delays inevitably increase the cost.",
+      "example_uz": "Kechikishlar muqarrar ravishda xarajatlarni oshiradi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "initially",
+      "pronunciation_uz": "inishalli",
+      "uzbek": "dastlab, avvaliga",
+      "pos": "adv",
+      "example_en": "Initially, the project seemed impossible.",
+      "example_uz": "Dastlab loyiha imkonsizdek tuyulgan edi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "instantly",
+      "pronunciation_uz": "instantli",
+      "uzbek": "bir zumda, darrov",
+      "pos": "adv",
+      "example_en": "She recognized his voice instantly.",
+      "example_uz": "U yigitning ovozini bir zumda tanidi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "intensely",
+      "pronunciation_uz": "intensli",
+      "uzbek": "qizgʻin, jadal",
+      "pos": "adv",
+      "example_en": "He focused intensely on the chessboard.",
+      "example_uz": "U diqqatini shaxmat taxtasiga jadal qaratdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "intentionally",
+      "pronunciation_uz": "intenshnalli",
+      "uzbek": "qasddan, atayin",
+      "pos": "adv",
+      "example_en": "I would never hurt anyone intentionally.",
+      "example_uz": "Men hech qachon birovni qasddan xafa qilmayman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "interestingly",
+      "pronunciation_uz": "intrestingli",
+      "uzbek": "qizigʻi shundaki",
+      "pos": "adv",
+      "example_en": "Interestingly, both brothers chose the same career.",
+      "example_uz": "Qizigʻi shundaki, ikkala aka-uka bir xil kasbni tanladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "jointly",
+      "pronunciation_uz": "joyntli",
+      "uzbek": "birgalikda, hamkorlikda",
+      "pos": "adv",
+      "example_en": "The two companies jointly developed the app.",
+      "example_uz": "Ikki kompaniya ilovani birgalikda ishlab chiqdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "largely",
+      "pronunciation_uz": "larjli",
+      "uzbek": "asosan, koʻp jihatdan",
+      "pos": "adv",
+      "example_en": "Success depends largely on your effort.",
+      "example_uz": "Muvaffaqiyat koʻp jihatdan harakatingizga bogʻliq.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "lately",
+      "pronunciation_uz": "leytli",
+      "uzbek": "oxirgi paytlarda, yaqinda",
+      "pos": "adv",
+      "example_en": "Have you read any good books lately?",
+      "example_uz": "Oxirgi paytlarda biror yaxshi kitob oʻqidingizmi?",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "literally",
+      "pronunciation_uz": "literalli",
+      "uzbek": "soʻzma-soʻz, tom maʼnoda",
+      "pos": "adv",
+      "example_en": "Do not translate idioms literally.",
+      "example_uz": "Iboralarni soʻzma-soʻz tarjima qilmang.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "locally",
+      "pronunciation_uz": "loʻkalli",
+      "uzbek": "mahalliy miqyosda",
+      "pos": "adv",
+      "example_en": "All the vegetables are grown locally.",
+      "example_uz": "Barcha sabzavotlar mahalliy miqyosda yetishtiriladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "loosely",
+      "pronunciation_uz": "lusli",
+      "uzbek": "boʻsh qilib, erkin",
+      "pos": "adv",
+      "example_en": "Tie the scarf loosely around your neck.",
+      "example_uz": "Sharfni boʻyningizga boʻsh qilib bogʻlang.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "loudly",
+      "pronunciation_uz": "laudli",
+      "uzbek": "baland ovozda",
+      "pos": "adv",
+      "example_en": "The audience laughed loudly at the joke.",
+      "example_uz": "Tomoshabinlar hazildan baland ovozda kulishdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "luckily",
+      "pronunciation_uz": "lakili",
+      "uzbek": "baxtga koʻra, omad kulib",
+      "pos": "adv",
+      "example_en": "Luckily, I had an umbrella with me.",
+      "example_uz": "Baxtga koʻra, yonimda soyabonim bor edi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "mainly",
+      "pronunciation_uz": "meynli",
+      "uzbek": "asosan",
+      "pos": "adv",
+      "example_en": "The museum is visited mainly by tourists.",
+      "example_uz": "Muzeyga asosan sayyohlar tashrif buyuradi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "meanwhile",
+      "pronunciation_uz": "minvayl",
+      "uzbek": "shu orada, ayni paytda",
+      "pos": "adv",
+      "example_en": "Mother cooked dinner; meanwhile, I set the table.",
+      "example_uz": "Onam ovqat pishirdi, shu orada men dasturxon tuzadim.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "merely",
+      "pronunciation_uz": "mirli",
+      "uzbek": "shunchaki, xolos",
+      "pos": "adv",
+      "example_en": "It was merely a suggestion, not an order.",
+      "example_uz": "Bu buyruq emas, shunchaki taklif edi xolos.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "mostly",
+      "pronunciation_uz": "moʻstli",
+      "uzbek": "aksariyat hollarda, asosan",
+      "pos": "adv",
+      "example_en": "We mostly stay home on Sundays.",
+      "example_uz": "Biz yakshanba kunlari asosan uyda qolamiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "moreover",
+      "pronunciation_uz": "moʻroʻve",
+      "uzbek": "bundan tashqari, ustiga-ustak",
+      "pos": "adv",
+      "example_en": "The rent is low; moreover, the location is great.",
+      "example_uz": "Ijara haqi past, ustiga-ustak joylashuvi ajoyib.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "namely",
+      "pronunciation_uz": "neymli",
+      "uzbek": "yaʼni, xususan",
+      "pos": "adv",
+      "example_en": "Only one person objected, namely the manager.",
+      "example_uz": "Faqat bir kishi, yaʼni boshqaruvchi eʼtiroz bildirdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "naturally",
+      "pronunciation_uz": "nechuralli",
+      "uzbek": "tabiiyki, tabiiy ravishda",
+      "pos": "adv",
+      "example_en": "Naturally, parents worry about their children.",
+      "example_uz": "Tabiiyki, ota-onalar farzandlari uchun qaygʻuradilar.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "nearly",
+      "pronunciation_uz": "nirli",
+      "uzbek": "deyarli, qariyb",
+      "pos": "adv",
+      "example_en": "We waited for nearly an hour.",
+      "example_uz": "Biz qariyb bir soat kutdik.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "necessarily",
+      "pronunciation_uz": "neseserili",
+      "uzbek": "albatta, shart",
+      "pos": "adv",
+      "example_en": "Expensive things are not necessarily better.",
+      "example_uz": "Qimmat narsalar har doim ham yaxshiroq boʻlavermaydi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "neat",
+      "pronunciation_uz": "nit",
+      "uzbek": "ozoda, tartibli",
+      "pos": "adj",
+      "example_en": "She keeps her desk very neat.",
+      "example_uz": "U ish stolini juda ozoda tutadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "nevertheless",
+      "pronunciation_uz": "nevezeles",
+      "uzbek": "shunga qaramay",
+      "pos": "adv",
+      "example_en": "The task was hard; nevertheless, we succeeded.",
+      "example_uz": "Vazifa qiyin edi, shunga qaramay biz uddaladik.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "newly",
+      "pronunciation_uz": "nyuli",
+      "uzbek": "yangi, yaqinda",
+      "pos": "adv",
+      "example_en": "They moved into a newly built apartment.",
+      "example_uz": "Ular yangi qurilgan xonadonga koʻchib oʻtishdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "nonetheless",
+      "pronunciation_uz": "nanzeles",
+      "uzbek": "shunday boʻlsa-da",
+      "pos": "adv",
+      "example_en": "There were risks, but we tried nonetheless.",
+      "example_uz": "Xavflar bor edi, shunday boʻlsa-da biz urinib koʻrdik.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "normally",
+      "pronunciation_uz": "noʻmalli",
+      "uzbek": "odatda, normal holatda",
+      "pos": "adv",
+      "example_en": "The store normally opens at nine.",
+      "example_uz": "Doʻkon odatda soat toʻqqizda ochiladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "notably",
+      "pronunciation_uz": "noʻtabli",
+      "uzbek": "ayniqsa, xususan",
+      "pos": "adv",
+      "example_en": "Several cities, notably Samarkand, attract millions.",
+      "example_uz": "Bir qancha shaharlar, xususan Samarqand millionlab odamlarni jalb qiladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "nowadays",
+      "pronunciation_uz": "nauedeyz",
+      "uzbek": "hozirgi kunda, bugungi zamonda",
+      "pos": "adv",
+      "example_en": "Nowadays, almost everyone uses a smartphone.",
+      "example_uz": "Hozirgi kunda deyarli hamma smartfondan foydalanadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "nowhere",
+      "pronunciation_uz": "noʻver",
+      "uzbek": "hech qayerda",
+      "pos": "adv",
+      "example_en": "My keys were nowhere to be found.",
+      "example_uz": "Kalitlarim hech qayerdan topilmadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "obviously",
+      "pronunciation_uz": "obviesli",
+      "uzbek": "ochiq-oydin, tabiiyki",
+      "pos": "adv",
+      "example_en": "Obviously, we need more time to prepare.",
+      "example_uz": "Tabiiyki, tayyorlanish uchun bizga koʻproq vaqt kerak.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "occasionally",
+      "pronunciation_uz": "okeyjnalli",
+      "uzbek": "baʼzan, vaqti-vaqti bilan",
+      "pos": "adv",
+      "example_en": "We occasionally meet for coffee.",
+      "example_uz": "Biz vaqti-vaqti bilan qahva ichishga uchrashib turamiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "officially",
+      "pronunciation_uz": "ofishalli",
+      "uzbek": "rasman, rasmiy ravishda",
+      "pos": "adv",
+      "example_en": "The bridge was officially opened yesterday.",
+      "example_uz": "Koʻprik kecha rasman ochildi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "openly",
+      "pronunciation_uz": "oʻpenli",
+      "uzbek": "ochiqchasiga, yashirmasdan",
+      "pos": "adv",
+      "example_en": "They discussed the problem openly.",
+      "example_uz": "Ular muammoni ochiqchasiga muhokama qilishdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "originally",
+      "pronunciation_uz": "orijinalli",
+      "uzbek": "asli, dastlab",
+      "pos": "adv",
+      "example_en": "The family originally came from Bukhara.",
+      "example_uz": "Bu oila asli Buxorodan kelgan.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "otherwise",
+      "pronunciation_uz": "azevayz",
+      "uzbek": "aks holda, boʻlmasa",
+      "pos": "adv",
+      "example_en": "Hurry up, otherwise we will miss the train.",
+      "example_uz": "Shoshiling, aks holda poyezddan kechikamiz.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "overall",
+      "pronunciation_uz": "oʻveroʻl",
+      "uzbek": "umumiy hisobda, umuman",
+      "pos": "adv",
+      "example_en": "Overall, the conference was a great success.",
+      "example_uz": "Umuman olganda, anjuman juda muvaffaqiyatli oʻtdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "overseas",
+      "pronunciation_uz": "oʻversiz",
+      "uzbek": "xorijda, chet elga",
+      "pos": "adv",
+      "example_en": "She plans to study overseas next year.",
+      "example_uz": "U kelasi yili xorijda oʻqishni rejalashtirmoqda.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "partially",
+      "pronunciation_uz": "parshalli",
+      "uzbek": "qisman",
+      "pos": "adv",
+      "example_en": "The project was only partially funded.",
+      "example_uz": "Loyiha faqat qisman moliyalashtirildi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "particularly",
+      "pronunciation_uz": "partikyularli",
+      "uzbek": "ayniqsa, alohida",
+      "pos": "adv",
+      "example_en": "This book is particularly useful for beginners.",
+      "example_uz": "Bu kitob yangi boshlovchilar uchun ayniqsa foydali.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "partly",
+      "pronunciation_uz": "partli",
+      "uzbek": "maʼlum darajada, qisman",
+      "pos": "adv",
+      "example_en": "I am partly responsible for the mistake.",
+      "example_uz": "Xato uchun qisman men javobgarman.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "patiently",
+      "pronunciation_uz": "peyshentli",
+      "uzbek": "sabr bilan",
+      "pos": "adv",
+      "example_en": "She waited patiently for her turn.",
+      "example_uz": "U oʻz navbatini sabr bilan kutdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "perfectly",
+      "pronunciation_uz": "poʻfektli",
+      "uzbek": "mukammal, juda yaxshi",
+      "pos": "adv",
+      "example_en": "The coat fits you perfectly.",
+      "example_uz": "Palto sizga juda mos tushdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "permanently",
+      "pronunciation_uz": "poʻmanentli",
+      "uzbek": "doimiy ravishda, butunlay",
+      "pos": "adv",
+      "example_en": "The file was permanently deleted.",
+      "example_uz": "Fayl butunlay oʻchirib tashlandi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "personally",
+      "pronunciation_uz": "poʻsonalli",
+      "uzbek": "shaxsan",
+      "pos": "adv",
+      "example_en": "The director thanked everyone personally.",
+      "example_uz": "Direktor hammaga shaxsan minnatdorchilik bildirdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "physically",
+      "pronunciation_uz": "fizikli",
+      "uzbek": "jismonan",
+      "pos": "adv",
+      "example_en": "Climbing mountains is physically demanding.",
+      "example_uz": "Togʻga chiqish jismonan kuch talab qiladi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "plainly",
+      "pronunciation_uz": "pleynli",
+      "uzbek": "aniq, oddiy qilib",
+      "pos": "adv",
+      "example_en": "She stated her opinion plainly.",
+      "example_uz": "U oʻz fikrini ochiq va aniq aytdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "politely",
+      "pronunciation_uz": "polaytli",
+      "uzbek": "xushmuomalalik bilan, odob bilan",
+      "pos": "adv",
+      "example_en": "He politely asked for directions.",
+      "example_uz": "U odob bilan yoʻl soʻradi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "poorly",
+      "pronunciation_uz": "purli",
+      "uzbek": "yomon, sust",
+      "pos": "adv",
+      "example_en": "The event was poorly organized.",
+      "example_uz": "Tadbir sust tashkil etilgan edi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "possibly",
+      "pronunciation_uz": "possibli",
+      "uzbek": "balki, ehtimol",
+      "pos": "adv",
+      "example_en": "Could you possibly help me with this box?",
+      "example_uz": "Menga shu qutini koʻtarishga yordam bera olasizmi?",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "potentially",
+      "pronunciation_uz": "potenshalli",
+      "uzbek": "potensial jihatdan, ehtimoliy",
+      "pos": "adv",
+      "example_en": "This is a potentially dangerous situation.",
+      "example_uz": "Bu ehtimoliy xavfli vaziyatdir.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "practically",
+      "pronunciation_uz": "praktikli",
+      "uzbek": "amalda, deyarli",
+      "pos": "adv",
+      "example_en": "The hall was practically empty.",
+      "example_uz": "Zal deyarli boʻm-boʻsh edi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "precisely",
+      "pronunciation_uz": "prisaysli",
+      "uzbek": "aniq, nuqtama-nuqta",
+      "pos": "adv",
+      "example_en": "The train left at precisely eight o'clock.",
+      "example_uz": "Poyezd aniq soat sakkizda joʻnadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "predominantly",
+      "pronunciation_uz": "pridominantli",
+      "uzbek": "asosan, koʻpchilik qismi",
+      "pos": "adv",
+      "example_en": "The neighborhood is predominantly residential.",
+      "example_uz": "Mahalla asosan turar-joy binolaridan iborat.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "presumably",
+      "pronunciation_uz": "prizyumabli",
+      "uzbek": "chamasi, taxminan",
+      "pos": "adv",
+      "example_en": "Presumably, they have already arrived.",
+      "example_uz": "Chamasi, ular allaqachon yetib borishgan.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "previously",
+      "pronunciation_uz": "priviesli",
+      "uzbek": "avval, oldinroq",
+      "pos": "adv",
+      "example_en": "Have you visited Uzbekistan previously?",
+      "example_uz": "Avval Oʻzbekistonga kelganmisiz?",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "primarily",
+      "pronunciation_uz": "praymerili",
+      "uzbek": "birinchi navbatda, asosan",
+      "pos": "adv",
+      "example_en": "The course is designed primarily for adults.",
+      "example_uz": "Kurs birinchi navbatda kattalar uchun moʻljallangan.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "promptly",
+      "pronunciation_uz": "promptli",
+      "uzbek": "darhol, oʻz vaqtida",
+      "pos": "adv",
+      "example_en": "She answered all emails promptly.",
+      "example_uz": "U barcha xatlarga oʻz vaqtida javob berdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "properly",
+      "pronunciation_uz": "properli",
+      "uzbek": "toʻgʻri, koʻngildagidek",
+      "pos": "adv",
+      "example_en": "Make sure the machine is working properly.",
+      "example_uz": "Uskuna toʻgʻri ishlayotganiga ishonch hosil qiling.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "publicly",
+      "pronunciation_uz": "pablikli",
+      "uzbek": "ommaviy ravishda, oshkora",
+      "pos": "adv",
+      "example_en": "The company publicly announced the new product.",
+      "example_uz": "Kompaniya yangi mahsulotni ommaviy ravishda eʼlon qildi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "purely",
+      "pronunciation_uz": "pyurli",
+      "uzbek": "sof, faqatgina",
+      "pos": "adv",
+      "example_en": "I met him purely by chance.",
+      "example_uz": "Men uni faqatgina tasodifan uchratib qoldim.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "rapidly",
+      "pronunciation_uz": "rapidli",
+      "uzbek": "tez, shiddat bilan",
+      "pos": "adv",
+      "example_en": "The city is growing rapidly.",
+      "example_uz": "Shahar shiddat bilan oʻsib bormoqda.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "readily",
+      "pronunciation_uz": "redili",
+      "uzbek": "bajonidil, osongina",
+      "pos": "adv",
+      "example_en": "Information is readily available online.",
+      "example_uz": "Maʼlumotni internetdan osongina topish mumkin.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "reasonably",
+      "pronunciation_uz": "riznabli",
+      "uzbek": "oqilona, maʼqul darajada",
+      "pos": "adv",
+      "example_en": "The restaurant offers reasonably priced food.",
+      "example_uz": "Restoran maʼqul narxdagi taomlarni taklif etadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "recently",
+      "pronunciation_uz": "risentli",
+      "uzbek": "yaqinda",
+      "pos": "adv",
+      "example_en": "We recently moved to a new office.",
+      "example_uz": "Biz yaqinda yangi ofisga koʻchib oʻtdik.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "regularly",
+      "pronunciation_uz": "regyularli",
+      "uzbek": "muntazam ravishda",
+      "pos": "adv",
+      "example_en": "Water the plants regularly.",
+      "example_uz": "Oʻsimliklarni muntazam ravishda sugʻorib turing.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "relatively",
+      "pronunciation_uz": "relativli",
+      "uzbek": "nisbatan",
+      "pos": "adv",
+      "example_en": "Winter was relatively mild this year.",
+      "example_uz": "Bu yil qish nisbatan iliq keldi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "remarkably",
+      "pronunciation_uz": "rimarkabli",
+      "uzbek": "ajoyib tarzda, hayratlanarli",
+      "pos": "adv",
+      "example_en": "She recovered remarkably fast.",
+      "example_uz": "U hayratlanarli darajada tez sogʻayib ketdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "repeatedly",
+      "pronunciation_uz": "ripitedli",
+      "uzbek": "qayta-qayta, takroran",
+      "pos": "adv",
+      "example_en": "I called him repeatedly, but he didn't answer.",
+      "example_uz": "Men unga qayta-qayta qoʻngʻiroq qildim, lekin javob bermadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "reportedly",
+      "pronunciation_uz": "ripoʻtedli",
+      "uzbek": "xabar qilinishicha",
+      "pos": "adv",
+      "example_en": "The deal is reportedly worth millions.",
+      "example_uz": "Xabar qilinishicha, bitim millionlab dollarga teng.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "roughly",
+      "pronunciation_uz": "rafli",
+      "uzbek": "taxminan, qoʻpol ravishda",
+      "pos": "adv",
+      "example_en": "There were roughly two hundred people there.",
+      "example_uz": "U yerda taxminan ikki yuz kishi bor edi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "safely",
+      "pronunciation_uz": "seyfli",
+      "uzbek": "bexatar, eson-omon",
+      "pos": "adv",
+      "example_en": "The plane landed safely despite the fog.",
+      "example_uz": "Tumanga qaramay, samolyot eson-omon qoʻndi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "scarcely",
+      "pronunciation_uz": "skersli",
+      "uzbek": "zoʻrgʻa, arang",
+      "pos": "adv",
+      "example_en": "I could scarcely believe my eyes.",
+      "example_uz": "Oʻz koʻzlarimga zoʻrgʻa ishondim.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "secretly",
+      "pronunciation_uz": "sikretli",
+      "uzbek": "yashirincha, pinhona",
+      "pos": "adv",
+      "example_en": "They secretly planned a birthday party for her.",
+      "example_uz": "Ular qiz uchun yashirincha tugʻilgan kun bazmini rejalashtirishdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "seemingly",
+      "pronunciation_uz": "simingli",
+      "uzbek": "koʻrinishidan, goʻyo",
+      "pos": "adv",
+      "example_en": "He solved a seemingly impossible puzzle.",
+      "example_uz": "U koʻrinishidan imkonsiz tuyulgan jumboqni yechdi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "seldom",
+      "pronunciation_uz": "seldom",
+      "uzbek": "kamdan-kam hollarda",
+      "pos": "adv",
+      "example_en": "Barking dogs seldom bite.",
+      "example_uz": "Koʻp huradigan it kamdan-kam qopadi.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "separately",
+      "pronunciation_uz": "seperetli",
+      "uzbek": "alohida",
+      "pos": "adv",
+      "example_en": "Please pack the glasses separately.",
+      "example_uz": "Iltimos, stakanlarni alohida joylang.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    },
+    {
+      "english": "seriously",
+      "pronunciation_uz": "siriesli",
+      "uzbek": "jiddiy",
+      "pos": "adv",
+      "example_en": "You should take your health seriously.",
+      "example_uz": "Sogʻligʻingizga jiddiy qarashingiz kerak.",
+      "category": "Ravishlar va bogʻlovchilar (Adverbs & Connectors)"
+    }
+  ]
+}

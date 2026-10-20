@@ -1,0 +1,925 @@
+{
+  "title": "Ilm-fan, fizika, kimyo va koinot",
+  "category": "Science, Physics, Chemistry & Space",
+  "group": "topic",
+  "words": [
+    {
+      "english": "science",
+      "pronunciation_uz": "sayens",
+      "uzbek": "ilm-fan",
+      "pos": "noun",
+      "example_en": "Modern science has transformed our understanding of nature.",
+      "example_uz": "Zamonaviy ilm-fan tabiat haqidagi tushunchamizni oʻzgartirib yubordi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "scientific",
+      "pronunciation_uz": "sayentifik",
+      "uzbek": "ilmiy",
+      "pos": "adj",
+      "example_en": "Every claim must be supported by scientific data.",
+      "example_uz": "Har bir daʼvo ilmiy maʼlumotlar bilan tasdiqlanishi kerak.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "discovery",
+      "pronunciation_uz": "diskaveri",
+      "uzbek": "kashfiyot",
+      "pos": "noun",
+      "example_en": "The discovery of penicillin revolutionized medicine.",
+      "example_uz": "Penitsillinning kashf etilishi tibbiyotda inqilob yasadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "invention",
+      "pronunciation_uz": "invenshn",
+      "uzbek": "ixtiro",
+      "pos": "noun",
+      "example_en": "The telescope was a groundbreaking scientific invention.",
+      "example_uz": "Teleskop olamshumul ilmiy ixtiro boʻlgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "physicist",
+      "pronunciation_uz": "fizisist",
+      "uzbek": "fizik olim",
+      "pos": "noun",
+      "example_en": "The physicist lectured on quantum mechanics.",
+      "example_uz": "Fizik olim kvant mexanikasi boʻyicha maʼruza oʻqidi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "atom",
+      "pronunciation_uz": "atom",
+      "uzbek": "atom",
+      "pos": "noun",
+      "example_en": "An atom consists of a nucleus surrounded by electrons.",
+      "example_uz": "Atom elektronlar bilan oʻralgan yadrodan tashkil topgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "atomic",
+      "pronunciation_uz": "atomik",
+      "uzbek": "atomga oid",
+      "pos": "adj",
+      "example_en": "The periodic table arranges elements by atomic number.",
+      "example_uz": "Davriy jadvalda elementlar atom raqami boʻyicha joylashtirilgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "molecule",
+      "pronunciation_uz": "molekyul",
+      "uzbek": "molekula",
+      "pos": "noun",
+      "example_en": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+      "example_uz": "Suv molekulasi ikkita vodorod va bitta kislorod atomidan iborat.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "particle",
+      "pronunciation_uz": "partikl",
+      "uzbek": "zarra",
+      "pos": "noun",
+      "example_en": "Dust particles floated in the beam of sunlight.",
+      "example_uz": "Chang zarralari quyosh nuri dastasida suzib yurardi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "nucleus",
+      "pronunciation_uz": "nyuklias",
+      "uzbek": "yadro",
+      "pos": "noun",
+      "example_en": "Protons and neutrons are tightly packed in the nucleus.",
+      "example_uz": "Protonlar va neytronlar yadroda zich joylashgan boʻladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "proton",
+      "pronunciation_uz": "proton",
+      "uzbek": "proton",
+      "pos": "noun",
+      "example_en": "A proton carries a positive electrical charge.",
+      "example_uz": "Proton musbat elektr zaryadiga ega.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "neutron",
+      "pronunciation_uz": "nyutron",
+      "uzbek": "neytron",
+      "pos": "noun",
+      "example_en": "Unlike a proton, a neutron has no electrical charge.",
+      "example_uz": "Protondan farqli oʻlaroq, neytron elektr zaryadiga ega emas.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "electron",
+      "pronunciation_uz": "ilektron",
+      "uzbek": "elektron",
+      "pos": "noun",
+      "example_en": "Electric current is the flow of electrons through a wire.",
+      "example_uz": "Elektr toki — elektronlarning sim orqali oqib oʻtishidir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "quantum",
+      "pronunciation_uz": "kvontam",
+      "uzbek": "kvant",
+      "pos": "noun",
+      "example_en": "Quantum computers process information at incredible speeds.",
+      "example_uz": "Kvant kompyuterlari maʼlumotni aqlbovar qilmas tezlikda qayta ishlaydi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "gravitational",
+      "pronunciation_uz": "graviteyshnal",
+      "uzbek": "gravitatsion",
+      "pos": "adj",
+      "example_en": "The moon's gravitational pull causes ocean tides.",
+      "example_uz": "Oyning gravitatsion tortish kuchi okeanlarda suv koʻtarilishi va qaytishini keltirib chiqaradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "friction",
+      "pronunciation_uz": "frikshn",
+      "uzbek": "ishqalanish",
+      "pos": "noun",
+      "example_en": "Motor oil reduces friction between moving metal parts.",
+      "example_uz": "Motor moyi harakatlanuvchi metall qismlar orasidagi ishqalanishni kamaytiradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "inertia",
+      "pronunciation_uz": "inersha",
+      "uzbek": "inersiya",
+      "pos": "noun",
+      "example_en": "Seatbelts protect passengers from the effect of inertia.",
+      "example_uz": "Xavfsizlik kamarlari yoʻlovchilarni inersiya taʼsiridan himoya qiladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "velocity",
+      "pronunciation_uz": "velositi",
+      "uzbek": "tezlik vektori",
+      "pos": "noun",
+      "example_en": "Light travels through a vacuum at a constant velocity.",
+      "example_uz": "Yorugʻlik vakuumda oʻzgarmas tezlik bilan tarqaladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "acceleration",
+      "pronunciation_uz": "akselereyshn",
+      "uzbek": "tezlanish",
+      "pos": "noun",
+      "example_en": "The electric car showed rapid acceleration on the track.",
+      "example_uz": "Elektromobil yoʻlakda tez oʻsib boruvchi tezlanishni namoyish etdi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "mass",
+      "pronunciation_uz": "mas",
+      "uzbek": "massa",
+      "pos": "noun",
+      "example_en": "An object's mass remains the same even on the Moon.",
+      "example_uz": "Jismning massasi hatto Oyda ham oʻzgarmay qoladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "density",
+      "pronunciation_uz": "densiti",
+      "uzbek": "zichlik",
+      "pos": "noun",
+      "example_en": "Ice floats because its density is lower than liquid water.",
+      "example_uz": "Muzning zichligi suyuq suvnikidan past boʻlgani uchun u suv yuzida qalqib turadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "vacuum",
+      "pronunciation_uz": "vakyum",
+      "uzbek": "vakuum",
+      "pos": "noun",
+      "example_en": "Sound waves cannot travel through a complete vacuum.",
+      "example_uz": "Tovush toʻlqinlari mutlaq vakuum orqali tarqala olmaydi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "thermodynamics",
+      "pronunciation_uz": "sermodaynamiks",
+      "uzbek": "termodinamika",
+      "pos": "noun",
+      "example_en": "Thermodynamics studies the relationship between heat and work.",
+      "example_uz": "Termodinamika issiqlik va ish oʻrtasidagi bogʻliqlikni oʻrganadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "radioactive",
+      "pronunciation_uz": "reydioaktiv",
+      "uzbek": "radioaktiv",
+      "pos": "adj",
+      "example_en": "Radioactive materials must be stored in lead containers.",
+      "example_uz": "Radioaktiv materiallar qoʻrgʻoshin idishlarda saqlanishi shart.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "wavelength",
+      "pronunciation_uz": "veyvlengs",
+      "uzbek": "toʻlqin uzunligi",
+      "pos": "noun",
+      "example_en": "Red light has a longer wavelength than blue light.",
+      "example_uz": "Qizil yorugʻlik koʻk yorugʻlikka qaraganda uzunroq toʻlqin uzunligiga ega.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "frequency",
+      "pronunciation_uz": "frikvensi",
+      "uzbek": "chastota",
+      "pos": "noun",
+      "example_en": "Human ears can only hear sound within a certain frequency range.",
+      "example_uz": "Inson qulogʻi tovushni faqat maʼlum bir chastota oraligʻidagina eshita oladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "spectrum",
+      "pronunciation_uz": "spektram",
+      "uzbek": "spektr",
+      "pos": "noun",
+      "example_en": "A glass prism splits white light into a colorful spectrum.",
+      "example_uz": "Shisha prizma oq yorugʻlikni rang-barang spektrga ajratadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "optics",
+      "pronunciation_uz": "optiks",
+      "uzbek": "optika",
+      "pos": "noun",
+      "example_en": "Ibn al-Haytham made pioneering contributions to optics.",
+      "example_uz": "Ibn al-Haysam optika faniga ulkan hissa qoʻshgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "reflection",
+      "pronunciation_uz": "riflekshn",
+      "uzbek": "yorugʻlik qaytishi",
+      "pos": "noun",
+      "example_en": "We saw the clear reflection of the peaks in the lake.",
+      "example_uz": "Biz koʻlda choʻqqilarning tiniq aksini koʻrdik.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "refraction",
+      "pronunciation_uz": "rifrakshn",
+      "uzbek": "yorugʻlik sinishi",
+      "pos": "noun",
+      "example_en": "Refraction makes a straw in water look bent.",
+      "example_uz": "Yorugʻlikning sinishi suvdagi naychani egilgandek koʻrsatadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "laser",
+      "pronunciation_uz": "leyzer",
+      "uzbek": "lazer",
+      "pos": "noun",
+      "example_en": "Surgeons use a precise laser for eye operations.",
+      "example_uz": "Jarrohlar koʻz operatsiyalari uchun aniq lazerdan foydalanadilar.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "magnet",
+      "pronunciation_uz": "magnit",
+      "uzbek": "magnit",
+      "pos": "noun",
+      "example_en": "A magnet attracts iron nails and steel clips.",
+      "example_uz": "Magnit temir mixlar va poʻlat qisqichlarni oʻziga tortadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "electricity",
+      "pronunciation_uz": "ilektrisiti",
+      "uzbek": "elektr energiyasi",
+      "pos": "noun",
+      "example_en": "Solar panels convert sunlight directly into electricity.",
+      "example_uz": "Quyosh panellari quyosh nurini bevosita elektr energiyasiga aylantiradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "voltage",
+      "pronunciation_uz": "voltij",
+      "uzbek": "kuchlanish",
+      "pos": "noun",
+      "example_en": "High voltage lines carry power across long distances.",
+      "example_uz": "Yuqori kuchlanishli liniyalar elektr quvvatini uzoq masofalarga uzatadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "insulator",
+      "pronunciation_uz": "insyuleytor",
+      "uzbek": "izolyator",
+      "pos": "noun",
+      "example_en": "Rubber serves as an effective electrical insulator.",
+      "example_uz": "Rezina samarali elektr izolyatori vazifasini bajaradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "chemist",
+      "pronunciation_uz": "kemist",
+      "uzbek": "kimyogar",
+      "pos": "noun",
+      "example_en": "The chemist synthesized a new biodegradable polymer.",
+      "example_uz": "Kimyogar biologik parchalanadigan yangi polimerni sintez qildi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "substance",
+      "pronunciation_uz": "sabstans",
+      "uzbek": "modda",
+      "pos": "noun",
+      "example_en": "Diamond is the hardest natural substance known.",
+      "example_uz": "Olmos maʼlum boʻlgan eng qattiq tabiiy moddadir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "mixture",
+      "pronunciation_uz": "mikscher",
+      "uzbek": "aralashma",
+      "pos": "noun",
+      "example_en": "Air is a mixture of nitrogen, oxygen, and other gases.",
+      "example_uz": "Havo azot, kislorod va boshqa gazlar aralashmasidir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "dissolve",
+      "pronunciation_uz": "dizolv",
+      "uzbek": "erimoq",
+      "pos": "verb",
+      "example_en": "Sugar dissolves much faster in hot tea than in cold water.",
+      "example_uz": "Shakar sovuq suvga qaraganda issiq choyda ancha tez eriydi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "reaction",
+      "pronunciation_uz": "riakshn",
+      "uzbek": "reaksiya",
+      "pos": "noun",
+      "example_en": "Mixing baking soda and vinegar causes a foaming reaction.",
+      "example_uz": "Isteʼmol sodasi va sirkini aralashtirish koʻpiklanish reaksiyasini keltirib chiqaradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "alkali",
+      "pronunciation_uz": "alkalay",
+      "uzbek": "ishqor",
+      "pos": "noun",
+      "example_en": "An alkali neutralizes an acid to form salt and water.",
+      "example_uz": "Ishqor kislotani neytrallab, tuz va suv hosil qiladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "oxidation",
+      "pronunciation_uz": "oksideyshn",
+      "uzbek": "oksidlanish",
+      "pos": "noun",
+      "example_en": "Rust on iron gates is the result of slow oxidation.",
+      "example_uz": "Temir darvozalardagi zang sekin oksidlanish natijasidir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "combustion",
+      "pronunciation_uz": "kombaschn",
+      "uzbek": "yonish",
+      "pos": "noun",
+      "example_en": "Oxygen is required for the combustion of fuel.",
+      "example_uz": "Yoqilgʻining yonishi uchun kislorod zarur.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "melting",
+      "pronunciation_uz": "melting",
+      "uzbek": "erish",
+      "pos": "noun",
+      "example_en": "The melting of mountain glaciers feeds our rivers in spring.",
+      "example_uz": "Bahorda togʻ muzliklarining erishi daryolarimizni suv bilan toʻyintiradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "metal",
+      "pronunciation_uz": "metal",
+      "uzbek": "metall",
+      "pos": "noun",
+      "example_en": "Aluminum is a lightweight metal used in aircraft.",
+      "example_uz": "Alyuminiy samolyotsozlikda ishlatiladigan yengil metalldir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "alloy",
+      "pronunciation_uz": "aloy",
+      "uzbek": "qotishma",
+      "pos": "noun",
+      "example_en": "Bronze is an alloy made primarily of copper and tin.",
+      "example_uz": "Bronza asosan mis va qalaydan tayyorlanadigan qotishmadir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "hydrogen",
+      "pronunciation_uz": "haydrojen",
+      "uzbek": "vodorod",
+      "pos": "noun",
+      "example_en": "Hydrogen is the lightest and most abundant element in the universe.",
+      "example_uz": "Vodorod koinotdagi eng yengil va eng koʻp tarqalgan elementdir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "helium",
+      "pronunciation_uz": "hiliam",
+      "uzbek": "geliy",
+      "pos": "noun",
+      "example_en": "Weather balloons are filled with lighter-than-air helium.",
+      "example_uz": "Ob-havo sharlari havodan yengil boʻlgan geliy bilan toʻldiriladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "nitrogen",
+      "pronunciation_uz": "naytrojen",
+      "uzbek": "azot",
+      "pos": "noun",
+      "example_en": "Nitrogen makes up about seventy-eight percent of Earth's air.",
+      "example_uz": "Azot Yer havosining taxminan yetmish sakkiz foizini tashkil qiladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "silicon",
+      "pronunciation_uz": "silikon",
+      "uzbek": "kremniy",
+      "pos": "noun",
+      "example_en": "Sand is rich in silicon dioxide.",
+      "example_uz": "Qum kremniy dioksidiga boy.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "calcium",
+      "pronunciation_uz": "kalsiam",
+      "uzbek": "kalsiy",
+      "pos": "noun",
+      "example_en": "Dairy products provide calcium for strong teeth.",
+      "example_uz": "Sut mahsulotlari mustahkam tishlar uchun kalsiy yetkazib beradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "sodium",
+      "pronunciation_uz": "sodiam",
+      "uzbek": "natriy",
+      "pos": "noun",
+      "example_en": "Sodium is a soft, reactive metal kept under oil.",
+      "example_uz": "Natriy moy ostida saqlanadigan yumshoq, faol metalldir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "potassium",
+      "pronunciation_uz": "potasiam",
+      "uzbek": "kaliy",
+      "pos": "noun",
+      "example_en": "Bananas and apricots are rich sources of potassium.",
+      "example_uz": "Banan va oʻrik kaliyning boy manbalaridir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "silver",
+      "pronunciation_uz": "silver",
+      "uzbek": "kumush",
+      "pos": "noun",
+      "example_en": "The artisan crafted traditional jewelry from pure silver.",
+      "example_uz": "Hunarmand sof kumushdan anʼanaviy taqinchoqlar yasadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "gold",
+      "pronunciation_uz": "gould",
+      "uzbek": "oltin",
+      "pos": "noun",
+      "example_en": "Uzbekistan is one of the world's major producers of gold.",
+      "example_uz": "Oʻzbekiston dunyodagi yirik oltin qazib chiqaruvchi davlatlardan biridir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "mercury",
+      "pronunciation_uz": "merkyuri",
+      "uzbek": "simob",
+      "pos": "noun",
+      "example_en": "Mercury is the only metal that is liquid at room temperature.",
+      "example_uz": "Simob xona haroratida suyuq holatda boʻladigan yagona metalldir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "uranium",
+      "pronunciation_uz": "yureyniam",
+      "uzbek": "uran",
+      "pos": "noun",
+      "example_en": "Uranium is used as fuel in nuclear power plants.",
+      "example_uz": "Uran atom elektr stansiyalarida yoqilgʻi sifatida ishlatiladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "astronomer",
+      "pronunciation_uz": "astronomer",
+      "uzbek": "astronom",
+      "pos": "noun",
+      "example_en": "The astronomer mapped the positions of over a thousand stars.",
+      "example_uz": "Astronom mingdan ortiq yulduzlarning joylashuvini xaritaga tushirdi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "astronomical",
+      "pronunciation_uz": "astronomikal",
+      "uzbek": "astronomik",
+      "pos": "adj",
+      "example_en": "Light-years are used to measure vast astronomical distances.",
+      "example_uz": "Yorugʻlik yili ulkan astronomik masofalarni oʻlchash uchun ishlatiladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "universe",
+      "pronunciation_uz": "yunivers",
+      "uzbek": "koinot",
+      "pos": "noun",
+      "example_en": "The universe contains billions of galaxies.",
+      "example_uz": "Koinot milliardlab galaktikalarni oʻz ichiga oladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "cosmos",
+      "pronunciation_uz": "kozmos",
+      "uzbek": "kosmos",
+      "pos": "noun",
+      "example_en": "Satellites help scientists explore the mysteries of the cosmos.",
+      "example_uz": "Sunʼiy yoʻldoshlar olimlarga kosmos sirlarini oʻrganishda yordam beradi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "cosmic",
+      "pronunciation_uz": "kozmik",
+      "uzbek": "kosmik",
+      "pos": "adj",
+      "example_en": "The detector records cosmic rays entering the atmosphere.",
+      "example_uz": "Detektor atmosferaga kirayotgan kosmik nurlarni qayd etadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "space",
+      "pronunciation_uz": "speys",
+      "uzbek": "fazoviy boʻshliq",
+      "pos": "noun",
+      "example_en": "Yuri Gagarin was the first human to travel into space.",
+      "example_uz": "Yuriy Gagarin fazoga parvoz qilgan birinchi inson boʻlgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "spacecraft",
+      "pronunciation_uz": "speyskraft",
+      "uzbek": "kosmik kema",
+      "pos": "noun",
+      "example_en": "The unmanned spacecraft landed safely on Mars.",
+      "example_uz": "Uchuvchisiz kosmik kema Marsga muvaffaqiyatli qoʻndi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "spaceship",
+      "pronunciation_uz": "speysship",
+      "uzbek": "fazoviy kema",
+      "pos": "noun",
+      "example_en": "Children love stories about traveling in a futuristic spaceship.",
+      "example_uz": "Bolalar kelajakdagi fazoviy kemada sayohat qilish haqidagi hikoyalarni yaxshi koʻradilar.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "astronaut",
+      "pronunciation_uz": "astronot",
+      "uzbek": "astronavt",
+      "pos": "noun",
+      "example_en": "The astronaut conducted experiments aboard the space station.",
+      "example_uz": "Astronavt kosmik stansiya bortida tajribalar oʻtkazdi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "cosmonaut",
+      "pronunciation_uz": "kozmonot",
+      "uzbek": "kosmonavt",
+      "pos": "noun",
+      "example_en": "Salizhan Sharipov is a famous cosmonaut who flew into orbit.",
+      "example_uz": "Solijon Sharipov orbitaga uchgan mashhur kosmonavtdir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "rocket",
+      "pronunciation_uz": "rokit",
+      "uzbek": "raketa",
+      "pos": "noun",
+      "example_en": "The powerful rocket launched from the cosmodrome at dawn.",
+      "example_uz": "Kuchli raketa tongda kosmodromdan uchirildi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "satellite",
+      "pronunciation_uz": "satelayt",
+      "uzbek": "sunʼiy yoʻldosh",
+      "pos": "noun",
+      "example_en": "A communications satellite relays television signals worldwide.",
+      "example_uz": "Aloqa sunʼiy yoʻldoshi televizion signallarni butun dunyo boʻylab uzatadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "orbit",
+      "pronunciation_uz": "orbit",
+      "uzbek": "orbita",
+      "pos": "noun",
+      "example_en": "The Earth completes one orbit around the Sun every year.",
+      "example_uz": "Yer har yili Quyosh atrofida bitta toʻliq orbita boʻylab aylanib chiqadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "orbital",
+      "pronunciation_uz": "orbital",
+      "uzbek": "orbital",
+      "pos": "adj",
+      "example_en": "Engineers calculated the exact orbital speed of the probe.",
+      "example_uz": "Muhandislar zondning aniq orbital tezligini hisoblab chiqdilar.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "galaxy",
+      "pronunciation_uz": "galaksi",
+      "uzbek": "galaktika",
+      "pos": "noun",
+      "example_en": "Our solar system is located in the Milky Way galaxy.",
+      "example_uz": "Bizning quyosh tizimimiz Somon yoʻli galaktikasida joylashgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "nebula",
+      "pronunciation_uz": "nebyula",
+      "uzbek": "tumanlik",
+      "pos": "noun",
+      "example_en": "A nebula is a giant cloud of dust and gas in space.",
+      "example_uz": "Tumanlik — fazodagi chang va gazdan iborat ulkan bulutdir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "constellation",
+      "pronunciation_uz": "konsteleyshn",
+      "uzbek": "yulduz turkumi",
+      "pos": "noun",
+      "example_en": "Sailors used the Ursa Major constellation to find north.",
+      "example_uz": "Dengizchilar shimolni topish uchun Katta Ayiq yulduz turkumidan foydalanganlar.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "star",
+      "pronunciation_uz": "star",
+      "uzbek": "yulduz",
+      "pos": "noun",
+      "example_en": "The Sun is the closest star to our planet.",
+      "example_uz": "Quyosh sayyoramizga eng yaqin yulduzdir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "stellar",
+      "pronunciation_uz": "stelar",
+      "uzbek": "yulduzlarga oid",
+      "pos": "adj",
+      "example_en": "Telescopes captured images of a stellar nursery.",
+      "example_uz": "Teleskoplar yangi yulduzlar paydo boʻladigan hudud tasvirlarini suratga oldi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "supernova",
+      "pronunciation_uz": "supernova",
+      "uzbek": "oʻta yangi yulduz",
+      "pos": "noun",
+      "example_en": "A supernova shines brighter than an entire galaxy for weeks.",
+      "example_uz": "Oʻta yangi yulduz portlashi haftalar davomida butun bir galaktikadan ham yorqinroq charaqlaydi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "black hole",
+      "pronunciation_uz": "blak houl",
+      "uzbek": "qora tuynuk",
+      "pos": "noun",
+      "example_en": "Not even light can escape the gravity of a black hole.",
+      "example_uz": "Hatto yorugʻlik ham qora tuynukning tortishish kuchidan qochib qutula olmaydi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "solar",
+      "pronunciation_uz": "solar",
+      "uzbek": "quyoshga oid",
+      "pos": "adj",
+      "example_en": "Solar energy is clean, renewable, and abundant in Uzbekistan.",
+      "example_uz": "Quyosh energiyasi Oʻzbekistonda toza, qayta tiklanuvchi va serob manbadir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "lunar",
+      "pronunciation_uz": "lunar",
+      "uzbek": "oyga oid",
+      "pos": "adj",
+      "example_en": "Scientists studied rock samples from the lunar surface.",
+      "example_uz": "Olimlar Oy yuzasidan olingan togʻ jinsi namunalarini oʻrgandilar.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "eclipse",
+      "pronunciation_uz": "iklips",
+      "uzbek": "tutilish",
+      "pos": "noun",
+      "example_en": "Thousands gathered to watch the total lunar eclipse.",
+      "example_uz": "Minglab odamlar toʻliq Oy tutilishini tomosha qilish uchun yigʻildi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "planet",
+      "pronunciation_uz": "planet",
+      "uzbek": "sayyora",
+      "pos": "noun",
+      "example_en": "Jupiter is the largest planet in our solar system.",
+      "example_uz": "Yupiter quyosh tizimimizdagi eng katta sayyoradir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "planetary",
+      "pronunciation_uz": "planetari",
+      "uzbek": "sayyoraviy",
+      "pos": "adj",
+      "example_en": "The probe sent back detailed photos of planetary rings.",
+      "example_uz": "Zond sayyoraviy halqalarning batafsil fotosuratlarini yubordi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "asteroid",
+      "pronunciation_uz": "asteroid",
+      "uzbek": "asteroid",
+      "pos": "noun",
+      "example_en": "The asteroid belt lies between Mars and Jupiter.",
+      "example_uz": "Asteroidlar belbogʻi Mars va Yupiter oraligʻida joylashgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "comet",
+      "pronunciation_uz": "komit",
+      "uzbek": "kometa",
+      "pos": "noun",
+      "example_en": "Halley's Comet appears in our night sky every seventy-six years.",
+      "example_uz": "Galley kometasi tungi osmonimizda har yetmish olti yilda koʻrinadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "meteor",
+      "pronunciation_uz": "mitior",
+      "uzbek": "meteor",
+      "pos": "noun",
+      "example_en": "A bright meteor streaked across the August night sky.",
+      "example_uz": "Avgustning tungi osmonida yorqin meteor chaqnab oʻtdi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "meteorite",
+      "pronunciation_uz": "mitiorayt",
+      "uzbek": "meteorit",
+      "pos": "noun",
+      "example_en": "The natural history museum displays an iron meteorite.",
+      "example_uz": "Tabiat tarixi muzeyida temir meteorit namoyishga qoʻyilgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "axis",
+      "pronunciation_uz": "aksis",
+      "uzbek": "oʻq",
+      "pos": "noun",
+      "example_en": "The Earth rotates on its tilted axis once every twenty-four hours.",
+      "example_uz": "Yer oʻzining ogʻma oʻqi atrofida har yigirma toʻrt soatda bir marta aylanadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "rotation",
+      "pronunciation_uz": "roteyshn",
+      "uzbek": "aylanish",
+      "pos": "noun",
+      "example_en": "The rotation of the Earth causes day and night.",
+      "example_uz": "Yerning oʻz oʻqi atrofida aylanishi kun va tun almashinuvini hosil qiladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "gravity wave",
+      "pronunciation_uz": "graviti veyv",
+      "uzbek": "gravitatsion toʻlqin",
+      "pos": "noun",
+      "example_en": "Sensitive detectors measured a faint gravity wave from deep space.",
+      "example_uz": "Sezgir detektorlar uzoq fazodan kelgan kuchsiz gravitatsion toʻlqinni oʻlchadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "plasma",
+      "pronunciation_uz": "plazma",
+      "uzbek": "plazma",
+      "pos": "noun",
+      "example_en": "Stars are made of superheated plasma.",
+      "example_uz": "Yulduzlar oʻta qizigan plazmadan tashkil topgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "magnetism",
+      "pronunciation_uz": "magnetizm",
+      "uzbek": "magnetizm",
+      "pos": "noun",
+      "example_en": "Electricity and magnetism are closely related forces.",
+      "example_uz": "Elektr va magnetizm oʻzaro chambarchas bogʻliq kuchlardir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "acoustics",
+      "pronunciation_uz": "akustiks",
+      "uzbek": "akustika",
+      "pos": "noun",
+      "example_en": "The concert hall was designed with superb acoustics.",
+      "example_uz": "Konsert zali ajoyib akustika bilan loyihalashtirilgan.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "ultrasound",
+      "pronunciation_uz": "altrasaund",
+      "uzbek": "ultratovush",
+      "pos": "noun",
+      "example_en": "Bats use ultrasound to navigate in the dark.",
+      "example_uz": "Koʻrshapalaklar qorongʻida yoʻl topish uchun ultratovushdan foydalanadi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "entropy",
+      "pronunciation_uz": "entropi",
+      "uzbek": "entropiya",
+      "pos": "noun",
+      "example_en": "In an isolated system, entropy tends to increase over time.",
+      "example_uz": "Yopiq tizimda entropiya vaqt oʻtishi bilan ortib borishga moyil boʻladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "potential",
+      "pronunciation_uz": "potenshal",
+      "uzbek": "potensial",
+      "pos": "adj",
+      "example_en": "Water stored behind a high dam has potential energy.",
+      "example_uz": "Baland toʻgʻon ortida toʻplangan suv potensial energiyaga ega.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "fusion",
+      "pronunciation_uz": "fyujn",
+      "uzbek": "termoyadroviy sintez",
+      "pos": "noun",
+      "example_en": "Nuclear fusion powers the core of the Sun.",
+      "example_uz": "Termoyadroviy sintez Quyosh yadrosini quvvat bilan taʼminlaydi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "fission",
+      "pronunciation_uz": "fishn",
+      "uzbek": "yadro boʻlinishi",
+      "pos": "noun",
+      "example_en": "Nuclear fission splits heavy atoms into smaller ones.",
+      "example_uz": "Yadro boʻlinishi ogʻir atomlarni kichikroq qismlarga parchalaydi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "isotope",
+      "pronunciation_uz": "aysotoup",
+      "uzbek": "izotop",
+      "pos": "noun",
+      "example_en": "Carbon-14 is a radioactive isotope used to date ancient wood.",
+      "example_uz": "Uglerod-14 qadimgi yogʻochning yoshini aniqlashda ishlatiladigan radioaktiv izotopdir.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "polymer",
+      "pronunciation_uz": "polimer",
+      "uzbek": "polimer",
+      "pos": "noun",
+      "example_en": "Cotton and silk are examples of natural polymers.",
+      "example_uz": "Paxta va ipak tabiiy polimerlarga misol boʻla oladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "distillation",
+      "pronunciation_uz": "distileyshn",
+      "uzbek": "distillash",
+      "pos": "noun",
+      "example_en": "Pure water can be obtained from seawater by distillation.",
+      "example_uz": "Dengiz suvidan distillash orqali toza suv olish mumkin.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    },
+    {
+      "english": "filtration",
+      "pronunciation_uz": "filtreyshn",
+      "uzbek": "filtrlash",
+      "pos": "noun",
+      "example_en": "Sand and charcoal are used in water filtration.",
+      "example_uz": "Qum va koʻmir suvni filtrlashda qoʻllaniladi.",
+      "category": "Ilm-fan, fizika, kimyo va koinot"
+    }
+  ]
+}

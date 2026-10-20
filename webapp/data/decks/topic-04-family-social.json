@@ -1,0 +1,1393 @@
+{
+  "title": "Oila, inson davrlari va munosabatlar",
+  "category": "Family, Relationships & Life Stages",
+  "group": "topic",
+  "words": [
+    {
+      "english": "ancestor",
+      "pronunciation_uz": "ensestor",
+      "uzbek": "ajdod, ota-bobo",
+      "pos": "noun",
+      "example_en": "We honor the traditions passed down by our ancestors.",
+      "example_uz": "Biz ajdodlarimizdan meros qolgan anʼanalarni qadrlaymiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "descendant",
+      "pronunciation_uz": "disendant",
+      "uzbek": "avlod, zurriyot",
+      "pos": "noun",
+      "example_en": "The museum displays letters written by the poet's descendants.",
+      "example_uz": "Muzeyda shoir avlodlari tomonidan yozilgan maktublar namoyish etilgan.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "heritage",
+      "pronunciation_uz": "heritij",
+      "uzbek": "meros, madaniy meros",
+      "pos": "noun",
+      "example_en": "Samarkand is a treasure of our cultural heritage.",
+      "example_uz": "Samarqand bizning madaniy merosimiz xazinasidir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "lineage",
+      "pronunciation_uz": "liniij",
+      "uzbek": "nasl-nasab, shajara",
+      "pos": "noun",
+      "example_en": "My grandfather can trace our family lineage back seven generations.",
+      "example_uz": "Bobom oilamiz shajarasini yetti avlodgacha sanab bera oladilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "kin",
+      "pronunciation_uz": "kin",
+      "uzbek": "qarindosh-urugʻ, jigarlar",
+      "pos": "noun",
+      "example_en": "All our kith and kin gathered for the spring holiday.",
+      "example_uz": "Bahor bayramiga barcha qarindosh-urugʻlarimiz toʻplanishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "clan",
+      "pronunciation_uz": "klen",
+      "uzbek": "urugʻ, sulola, katta oila",
+      "pos": "noun",
+      "example_en": "The entire family clan meets every Navruz.",
+      "example_uz": "Butun oila sulolasi har Navroʻzda uchrashadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "dynasty",
+      "pronunciation_uz": "daynesti",
+      "uzbek": "sulola",
+      "pos": "noun",
+      "example_en": "They come from a famous dynasty of master potters.",
+      "example_uz": "Ular mashhur usta kulollar sulolasidan chiqqan.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "heir",
+      "pronunciation_uz": "er",
+      "uzbek": "merosxoʻr, voris",
+      "pos": "noun",
+      "example_en": "The eldest son became the heir to the family orchard.",
+      "example_uz": "Toʻngʻich oʻgʻil oilaviy bogʻning merosxoʻri boʻldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "inheritance",
+      "pronunciation_uz": "inheritens",
+      "uzbek": "meros (mol-mulk)",
+      "pos": "noun",
+      "example_en": "He received his grandfather's library as an inheritance.",
+      "example_uz": "U bobosining kutubxonasini meros sifatida oldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "grandparent",
+      "pronunciation_uz": "grendperent",
+      "uzbek": "buvi yoki bobo",
+      "pos": "noun",
+      "example_en": "Children learn patience and wisdom from their grandparents.",
+      "example_uz": "Bolalar sabr-toqat va donolikni bobo-buvilaridan oʻrganadilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "grandchild",
+      "pronunciation_uz": "grendchayld",
+      "uzbek": "nabira, nevara",
+      "pos": "noun",
+      "example_en": "She knitted warm wool socks for every grandchild.",
+      "example_uz": "U har bir nabirasi uchun issiq jun paypoq toʻqidi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "grandson",
+      "pronunciation_uz": "grendsan",
+      "uzbek": "oʻgʻil nabira",
+      "pos": "noun",
+      "example_en": "The old craftsman taught woodcarving to his grandson.",
+      "example_uz": "Keksa usta yogʻoch oʻymakorligini oʻgʻil nabirasiga oʻrgatdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "granddaughter",
+      "pronunciation_uz": "grenddoter",
+      "uzbek": "qiz nabira",
+      "pos": "noun",
+      "example_en": "His granddaughter reads him stories every evening.",
+      "example_uz": "Qiz nabirasi unga har oqshom hikoyalar oʻqib beradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "great-grandfather",
+      "pronunciation_uz": "greyt-grendfazer",
+      "uzbek": "katta bobo, buva",
+      "pos": "noun",
+      "example_en": "My great-grandfather planted this walnut tree eighty years ago.",
+      "example_uz": "Katta bobom bu yongʻoq daraxtini sakson yil avval ekkan ekanlar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "great-grandmother",
+      "pronunciation_uz": "greyt-grendmazer",
+      "uzbek": "katta buvi, momo",
+      "pos": "noun",
+      "example_en": "We still keep the embroidered suzani made by our great-grandmother.",
+      "example_uz": "Katta buvimiz tikkan kashtali soʻzanani hali ham saqlaymiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "sibling",
+      "pronunciation_uz": "sibling",
+      "uzbek": "aka-uka yoki opa-singil",
+      "pos": "noun",
+      "example_en": "Do you have any older siblings?",
+      "example_uz": "Sizning oʻzingizdan katta aka-opalaringiz bormi?",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "half-brother",
+      "pronunciation_uz": "haf-brazer",
+      "uzbek": "oʻgay aka yoki uka (ota yoki ona bir)",
+      "pos": "noun",
+      "example_en": "His half-brother lives and works in Bukhara.",
+      "example_uz": "Uning akasi Buxoroda yashaydi va ishlaydi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "stepfather",
+      "pronunciation_uz": "stepfazer",
+      "uzbek": "oʻgay ota",
+      "pos": "noun",
+      "example_en": "Her stepfather raised her with great kindness and care.",
+      "example_uz": "Oʻgay otasi uni katta mehr va gʻamxoʻrlik bilan voyaga yetkazdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "stepmother",
+      "pronunciation_uz": "stepmazer",
+      "uzbek": "oʻgay ona",
+      "pos": "noun",
+      "example_en": "In fairy tales, the stepmother is often strict.",
+      "example_uz": "Ertaklarda oʻgay ona koʻpincha qattiqqoʻl boʻladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "stepson",
+      "pronunciation_uz": "stepsan",
+      "uzbek": "oʻgay oʻgʻil",
+      "pos": "noun",
+      "example_en": "He treated his stepson just like his own child.",
+      "example_uz": "U oʻgay oʻgʻliga xuddi oʻz farzandidek munosabatda boʻldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "stepdaughter",
+      "pronunciation_uz": "stepdoter",
+      "uzbek": "oʻgay qiz",
+      "pos": "noun",
+      "example_en": "She helped her stepdaughter prepare for university exams.",
+      "example_uz": "U oʻgay qiziga universitet imtihonlariga tayyorlanishda yordam berdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "orphan",
+      "pronunciation_uz": "orfan",
+      "uzbek": "yetim bola",
+      "pos": "noun",
+      "example_en": "During the war, Tashkent families adopted thousands of orphans.",
+      "example_uz": "Urush yillarida Toshkent oilalari minglab yetim bolalarni farzandlikka olgan.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "guardian",
+      "pronunciation_uz": "gardian",
+      "uzbek": "vasiy, homiy",
+      "pos": "noun",
+      "example_en": "A parent or legal guardian must sign the permission form.",
+      "example_uz": "Ruxsatnomaga ota-ona yoki qonuniy vasiy imzo chekishi kerak.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "adopt",
+      "pronunciation_uz": "adopt",
+      "uzbek": "farzandlikka olmoq, asrab olmoq",
+      "pos": "verb",
+      "example_en": "Shaakhmed Shamakhmudov and his wife chose to adopt fifteen children.",
+      "example_uz": "Shoahmad Shomahmudov va uning rafiqasi oʻn besh nafar bolani farzandlikka olishgan.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "father-in-law",
+      "pronunciation_uz": "fazer-in-lo",
+      "uzbek": "qaynota",
+      "pos": "noun",
+      "example_en": "He respects his father-in-law and asks for his advice.",
+      "example_uz": "U qaynotasini hurmat qiladi va undan maslahat soʻraydi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "mother-in-law",
+      "pronunciation_uz": "mazer-in-lo",
+      "uzbek": "qaynona",
+      "pos": "noun",
+      "example_en": "The young bride learned family recipes from her mother-in-law.",
+      "example_uz": "Yosh kelin oilaviy taom retseptlarini qaynonasidan oʻrgandi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "son-in-law",
+      "pronunciation_uz": "san-in-lo",
+      "uzbek": "kuyov (qizning eri)",
+      "pos": "noun",
+      "example_en": "Their son-in-law helped repair the garden roof.",
+      "example_uz": "Kuyovlari bogʻ tomini taʼmirlashga yordam berdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "daughter-in-law",
+      "pronunciation_uz": "doter-in-lo",
+      "uzbek": "kelin (oʻgʻilning xotini)",
+      "pos": "noun",
+      "example_en": "The new daughter-in-law greeted the guests warmly.",
+      "example_uz": "Yangi kelin mehmonlarni samimiy kutib oldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "brother-in-law",
+      "pronunciation_uz": "brazer-in-lo",
+      "uzbek": "qaynogʻa, qayni, pochcha, boja",
+      "pos": "noun",
+      "example_en": "My brother-in-law is a skilled civil engineer.",
+      "example_uz": "Mening pochcham malakali qurilish muhandisi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "sister-in-law",
+      "pronunciation_uz": "sister-in-lo",
+      "uzbek": "qaynopa, qaynsingil, kelinoyi, ovsin",
+      "pos": "noun",
+      "example_en": "She went shopping at the bazaar with her sister-in-law.",
+      "example_uz": "U ovsini bilan bozorga xarid qilishga bordi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "in-laws",
+      "pronunciation_uz": "in-loz",
+      "uzbek": "qudalar, qaynota-qaynona urugʻlari",
+      "pos": "noun",
+      "example_en": "We are visiting our in-laws this Sunday.",
+      "example_uz": "Bu yakshanbada qudalarimiznikiga mehmonga boryapmiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "spouse",
+      "pronunciation_uz": "spaus",
+      "uzbek": "turmush oʻrtoq, umr yoʻldosh",
+      "pos": "noun",
+      "example_en": "Employees may invite their spouse to the annual dinner.",
+      "example_uz": "Xodimlar yillik kechki ovqatga turmush oʻrtoqlarini taklif qilishlari mumkin.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "fiance",
+      "pronunciation_uz": "fiansey",
+      "uzbek": "qalliq, unashtirilgan yigit (boʻlajak kuyov)",
+      "pos": "noun",
+      "example_en": "Her fiance works at a software company in Tashkent.",
+      "example_uz": "Uning qalligʻi Toshkentdagi dasturiy taʼminot kompaniyasida ishlaydi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "fiancee",
+      "pronunciation_uz": "fiansey",
+      "uzbek": "qalliq, unashtirilgan qiz (boʻlajak kelin)",
+      "pos": "noun",
+      "example_en": "He bought a gold ring for his fiancee.",
+      "example_uz": "U unashtirilgan qalligʻi uchun tilla uzuk sotib oldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "bride",
+      "pronunciation_uz": "brayd",
+      "uzbek": "kelin, kelinchak",
+      "pos": "noun",
+      "example_en": "The bride wore a white dress and an embroidered veil.",
+      "example_uz": "Kelinchak oq libos va kashtali yopinchiq kiygan edi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "groom",
+      "pronunciation_uz": "grum",
+      "uzbek": "kuyov, kuyov bola",
+      "pos": "noun",
+      "example_en": "Friends congratulated the smiling groom at the wedding.",
+      "example_uz": "Doʻstlar toʻyda kulib turgan kuyovni tabriklashdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "newlywed",
+      "pronunciation_uz": "nyulived",
+      "uzbek": "yangi turmush qurgan kelin-kuyov",
+      "pos": "noun",
+      "example_en": "The newlyweds moved into a cozy two-room apartment.",
+      "example_uz": "Yangi kelin-kuyovlar shinam ikki xonali kvartiraga koʻchib oʻtishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "matchmaker",
+      "pronunciation_uz": "metchmeyker",
+      "uzbek": "sovchi",
+      "pos": "noun",
+      "example_en": "In Uzbek tradition, matchmakers visit the girl's family with bread and sweets.",
+      "example_uz": "Oʻzbek anʼanasiga koʻra, sovchilar qizning oilasiga non va shirinliklar bilan boradilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "engagement",
+      "pronunciation_uz": "ingeyjment",
+      "uzbek": "fotiha, unashtiruv",
+      "pos": "noun",
+      "example_en": "Both families celebrated the engagement with the breaking of bread.",
+      "example_uz": "Har ikki oila non sindirish marosimi bilan fotiha toʻyini nishonladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "dowry",
+      "pronunciation_uz": "dauri",
+      "uzbek": "sep, kelin sepi",
+      "pos": "noun",
+      "example_en": "The mother prepared hand-stitched quilts for her daughter's dowry.",
+      "example_uz": "Ona qizining sepi uchun qoʻlda qavilgan koʻrpalar tayyorladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "wedding",
+      "pronunciation_uz": "vedding",
+      "uzbek": "nikoh toʻyi, toʻy",
+      "pos": "noun",
+      "example_en": "Music and dancing filled the hall during the wedding.",
+      "example_uz": "Nikoh toʻyi davomida zal musiqa va raqslarga toʻldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "marriage",
+      "pronunciation_uz": "merrij",
+      "uzbek": "nikoh, turmush",
+      "pos": "noun",
+      "example_en": "Mutual respect is the foundation of a happy marriage.",
+      "example_uz": "Oʻzaro hurmat baxtli turmushning poydevoridir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "anniversary",
+      "pronunciation_uz": "eniverseri",
+      "uzbek": "yubiley, nikoh yilligi",
+      "pos": "noun",
+      "example_en": "My parents celebrated their thirtieth wedding anniversary.",
+      "example_uz": "Ota-onam toʻylarining oʻttiz yilligini nishonlashdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "honeymoon",
+      "pronunciation_uz": "hanimun",
+      "uzbek": "asal oyi",
+      "pos": "noun",
+      "example_en": "They traveled to the mountains for their honeymoon.",
+      "example_uz": "Ular asal oyini oʻtkazish uchun togʻlarga sayohat qilishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "divorce",
+      "pronunciation_uz": "divors",
+      "uzbek": "ajrashish, nikohni bekor qilish",
+      "pos": "noun",
+      "example_en": "Family elders tried to help the couple avoid divorce.",
+      "example_uz": "Oila kattalari er-xotinga ajrashishning oldini olishda yordam berishga harakat qilishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "widow",
+      "pronunciation_uz": "vidou",
+      "uzbek": "beva ayol",
+      "pos": "noun",
+      "example_en": "The elderly widow is surrounded by her loving grandchildren.",
+      "example_uz": "Keksa beva ayol mehribon nabiralari qurshovida yashaydi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "widower",
+      "pronunciation_uz": "vidouer",
+      "uzbek": "beva erkak",
+      "pos": "noun",
+      "example_en": "The widower tends his rose garden every morning.",
+      "example_uz": "Beva qolgan chol har kuni ertalab atirgul bogʻini parvarish qiladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "bachelor",
+      "pronunciation_uz": "bechelor",
+      "uzbek": "boʻydoq yigit",
+      "pos": "noun",
+      "example_en": "My older cousin is still a bachelor.",
+      "example_uz": "Mening katta amakivachcham hali ham boʻydoq.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "engaged",
+      "pronunciation_uz": "ingeyjd",
+      "uzbek": "unashtirilgan, fotiha qilingan",
+      "pos": "adj",
+      "example_en": "They got engaged in autumn and plan to marry in spring.",
+      "example_uz": "Ular kuzda unashtirildilar va bahorda toʻy qilishni rejalashtirishmoqda.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "married",
+      "pronunciation_uz": "merrid",
+      "uzbek": "oilali, turmush qurgan",
+      "pos": "adj",
+      "example_en": "They have been happily married for twenty-five years.",
+      "example_uz": "Ular yigirma besh yildan beri baxtli turmush kechirishmoqda.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "pregnant",
+      "pronunciation_uz": "pregnant",
+      "uzbek": "homilador",
+      "pos": "adj",
+      "example_en": "Everyone offered their seat on the bus to the pregnant woman.",
+      "example_uz": "Avtobusda hamma homilador ayolga joy boʻshatib berdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "maternity",
+      "pronunciation_uz": "materniti",
+      "uzbek": "onalik; tugʻruq",
+      "pos": "noun",
+      "example_en": "She is currently on maternity leave with her newborn.",
+      "example_uz": "U hozirda yangi tugʻilgan chaqalogʻi bilan onalik taʼtilida.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "birth",
+      "pronunciation_uz": "byors",
+      "uzbek": "tugʻilish, dunyoga kelish",
+      "pos": "noun",
+      "example_en": "The birth of their first child brought immense joy.",
+      "example_uz": "Birinchi farzandlarining dunyoga kelishi cheksiz quvonch keltirdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "newborn",
+      "pronunciation_uz": "nyuborn",
+      "uzbek": "yangi tugʻilgan chaqaloq, goʻdak",
+      "pos": "noun",
+      "example_en": "The newborn sleeps for most of the day.",
+      "example_uz": "Yangi tugʻilgan chaqaloq kunning koʻp qismini uxlab oʻtkazadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "infant",
+      "pronunciation_uz": "infant",
+      "uzbek": "goʻdak, emizikli bola",
+      "pos": "noun",
+      "example_en": "The mother wrapped the infant in a soft cotton blanket.",
+      "example_uz": "Ona goʻdakni yumshoq paxtali yoʻrgakka oʻradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "infancy",
+      "pronunciation_uz": "infansi",
+      "uzbek": "goʻdaklik davri",
+      "pos": "noun",
+      "example_en": "Good nutrition during infancy is vital for growth.",
+      "example_uz": "Goʻdaklik davrida yaxshi oziqlanish oʻsish uchun juda muhim.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "toddler",
+      "pronunciation_uz": "todler",
+      "uzbek": "endi yurgan bola (1–3 yosh)",
+      "pos": "noun",
+      "example_en": "The curious toddler took his first unsteady steps.",
+      "example_uz": "Qiziquvchan kichkintoy oʻzining ilk dadil boʻlmagan qadamlarini tashladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "childhood",
+      "pronunciation_uz": "chayldhud",
+      "uzbek": "bolalik",
+      "pos": "noun",
+      "example_en": "I spent my childhood summers in my grandfather's village.",
+      "example_uz": "Men bolalik yozlarimni bobomning qishlogʻida oʻtkazganman.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "adolescence",
+      "pronunciation_uz": "adolesens",
+      "uzbek": "oʻsmirlik davri, balogʻatga yetish",
+      "pos": "noun",
+      "example_en": "Adolescence is a time of rapid physical and emotional change.",
+      "example_uz": "Oʻsmirlik — tez jismoniy va hissiy oʻzgarishlar davridir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "adolescent",
+      "pronunciation_uz": "adolesent",
+      "uzbek": "oʻsmir",
+      "pos": "noun",
+      "example_en": "Adolescents need both guidance and independence.",
+      "example_uz": "Oʻsmirlarga ham yoʻl-yoʻriq, ham mustaqillik kerak.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "maturity",
+      "pronunciation_uz": "matyuriti",
+      "uzbek": "voyaga yetganlik, yetuklik, kamolot",
+      "pos": "noun",
+      "example_en": "With age comes emotional maturity and patience.",
+      "example_uz": "Yosh oʻtishi bilan hissiy yetuklik va sabr-toqat paydo boʻladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "adulthood",
+      "pronunciation_uz": "adalthud",
+      "uzbek": "voyaga yetganlik davri, kattalik",
+      "pos": "noun",
+      "example_en": "Taking responsibility for your choices is part of adulthood.",
+      "example_uz": "Oʻz tanlovlari uchun javobgarlikni olish kattalik davrining bir qismidir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "middle-aged",
+      "pronunciation_uz": "midl-eyjd",
+      "uzbek": "oʻrta yoshli",
+      "pos": "adj",
+      "example_en": "A middle-aged couple bought the house next door.",
+      "example_uz": "Qoʻshni uyni oʻrta yoshli er-xotin sotib oldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "senior",
+      "pronunciation_uz": "sinior",
+      "uzbek": "katta yoshli, keksa, nuroniy",
+      "pos": "noun",
+      "example_en": "Public transport offers discounts for seniors.",
+      "example_uz": "Jamoat transportida nuroniylar uchun chegirmalar mavjud.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "pensioner",
+      "pronunciation_uz": "penshner",
+      "uzbek": "nafaqaxoʻr, pensioner",
+      "pos": "noun",
+      "example_en": "The retired teacher is now an active pensioner.",
+      "example_uz": "Nafaqaga chiqqan oʻqituvchi hozirda faol nafaqaxoʻr.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "retire",
+      "pronunciation_uz": "ritayr",
+      "uzbek": "nafaqaga chiqmoq",
+      "pos": "verb",
+      "example_en": "My father plans to retire after forty years of teaching.",
+      "example_uz": "Otam qirq yillik oʻqituvchilikdan soʻng nafaqaga chiqishni rejalashtirmoqda.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "retirement",
+      "pronunciation_uz": "ritayrment",
+      "uzbek": "nafaqa davri, isteʼfo",
+      "pos": "noun",
+      "example_en": "He took up beekeeping and gardening during his retirement.",
+      "example_uz": "U nafaqa davrida asalarichilik va bogʻdorchilik bilan shugʻullana boshladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "upbringing",
+      "pronunciation_uz": "apbringing",
+      "uzbek": "tarbiya",
+      "pos": "noun",
+      "example_en": "Polite speech reflects a person's good family upbringing.",
+      "example_uz": "Xushmuomala nutq insonning oilada olgan yaxshi tarbiyasini aks ettiradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "spoil",
+      "pronunciation_uz": "spoyl",
+      "uzbek": "erkalatib yubormoq, taltaytirmoq",
+      "pos": "verb",
+      "example_en": "Grandparents love to spoil their grandchildren with sweets.",
+      "example_uz": "Bobo-buvilar nabiralarini shirinliklar bilan erkalatishni yaxshi koʻradilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "scold",
+      "pronunciation_uz": "skould",
+      "uzbek": "koyimoq, urishmoq, tanbeh bermoq",
+      "pos": "verb",
+      "example_en": "Do not scold a child harshly in front of strangers.",
+      "example_uz": "Bolani begonalar oldida qattiq koyimang.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "respect",
+      "pronunciation_uz": "rispekt",
+      "uzbek": "hurmat qilmoq; hurmat, ehtirom",
+      "pos": "verb",
+      "example_en": "Always respect your elders and listen to their counsel.",
+      "example_uz": "Har doim kattalarni hurmat qiling va ularning nasihatiga quloq tuting.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "cherish",
+      "pronunciation_uz": "cherish",
+      "uzbek": "ardoqlamoq, eʼzozlamoq",
+      "pos": "verb",
+      "example_en": "We cherish the memories of our family gatherings.",
+      "example_uz": "Biz oilaviy davralarimiz xotiralarini ardoqlaymiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "reconcile",
+      "pronunciation_uz": "rekonsayl",
+      "uzbek": "yarashmoq, yarashtirmoq",
+      "pos": "verb",
+      "example_en": "The two brothers shook hands and decided to reconcile.",
+      "example_uz": "Ikki aka-uka qoʻl berib koʻrishib, yarashishga qaror qilishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "quarrel",
+      "pronunciation_uz": "kvorrel",
+      "uzbek": "janjallashmoq, tortishib qolmoq; janjal",
+      "pos": "verb",
+      "example_en": "Good neighbors never quarrel over minor fences.",
+      "example_uz": "Ahil qoʻshnilar arzimas narsalar ustida hech qachon janjallashmaydilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "insult",
+      "pronunciation_uz": "insalt",
+      "uzbek": "haqorat qilmoq, ranjitmoq",
+      "pos": "verb",
+      "example_en": "Never insult someone in anger; words leave deep scars.",
+      "example_uz": "Gʻazab ustida hech kimni ranjitmang; soʻz chuqur iz qoldiradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "betray",
+      "pronunciation_uz": "bitrey",
+      "uzbek": "xiyonat qilmoq, sotmoq",
+      "pos": "verb",
+      "example_en": "A loyal companion would never betray your trust.",
+      "example_uz": "Sodiq hamroh ishonchingizga hech qachon xiyonat qilmaydi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "trust",
+      "pronunciation_uz": "trast",
+      "uzbek": "ishonmoq; ishonch",
+      "pos": "verb",
+      "example_en": "You can trust him completely with your secret.",
+      "example_uz": "Siringizni unga toʻliq ishonib aytishingiz mumkin.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "rely",
+      "pronunciation_uz": "rilay",
+      "uzbek": "suyanmoq, tayanmoq, ishonmoq",
+      "pos": "verb",
+      "example_en": "In difficult times, we rely on family and close friends.",
+      "example_uz": "Qiyin damlarda biz oilamiz va yaqin doʻstlarimizga suyanamiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "confide",
+      "pronunciation_uz": "konfayd",
+      "uzbek": "dardlashmoq, sir aytmoq",
+      "pos": "verb",
+      "example_en": "She always confides her worries to her older sister.",
+      "example_uz": "U oʻz tashvishlarini doimo opasiga aytib dardlashadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "console",
+      "pronunciation_uz": "konsoul",
+      "uzbek": "koʻnglini koʻtarmoq, hamdardlik bildirmoq",
+      "pos": "verb",
+      "example_en": "Friends came to console the family after their loss.",
+      "example_uz": "Doʻstlar musibatdan soʻng oilaga hamdardlik bildirish uchun kelishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "embrace",
+      "pronunciation_uz": "imbreys",
+      "uzbek": "quchoqlamoq; quchoq",
+      "pos": "verb",
+      "example_en": "The father stepped forward to embrace his returning son.",
+      "example_uz": "Ota safardan qaytgan oʻgʻlini quchoqlash uchun oldinga chiqdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "welcome",
+      "pronunciation_uz": "velkam",
+      "uzbek": "xush koʻrmoq, ochiq chehra bilan kutib olmoq",
+      "pos": "verb",
+      "example_en": "We always welcome guests into our home with hot tea.",
+      "example_uz": "Biz mehmonlarni uyimizda doimo issiq choy bilan kutib olamiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "escort",
+      "pronunciation_uz": "eskort",
+      "uzbek": "kuzatib qoʻymoq",
+      "pos": "verb",
+      "example_en": "The host walked out to the gate to escort the guests.",
+      "example_uz": "Mezbon mehmonlarni kuzatib qoʻyish uchun darvozagacha chiqdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "visit",
+      "pronunciation_uz": "vizit",
+      "uzbek": "tashrif buyurmoq, mehmonga bormoq",
+      "pos": "verb",
+      "example_en": "We visit our grandparents in the village every month.",
+      "example_uz": "Biz har oyda qishloqdagi bobo va buvimizni koʻrgani boramiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "acquaintance",
+      "pronunciation_uz": "akveyntens",
+      "uzbek": "tanish, bilish",
+      "pos": "noun",
+      "example_en": "He is not a close friend, just a business acquaintance.",
+      "example_uz": "U yaqin doʻst emas, shunchaki ish boʻyicha tanish.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "companion",
+      "pronunciation_uz": "kompenyon",
+      "uzbek": "hamroh, yoʻldosh, ulfat",
+      "pos": "noun",
+      "example_en": "A cheerful companion makes a long journey seem short.",
+      "example_uz": "Xushchaqchaq hamroh uzoq safarni qisqa qilib koʻrsatadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "comrade",
+      "pronunciation_uz": "komred",
+      "uzbek": "safdosh, oʻrtoq",
+      "pos": "noun",
+      "example_en": "The old soldiers remained loyal comrades for life.",
+      "example_uz": "Keksa askarlar bir umrga sodiq safdosh boʻlib qoldilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "peer",
+      "pronunciation_uz": "pir",
+      "uzbek": "tengdosh, tengqur",
+      "pos": "noun",
+      "example_en": "Teenagers often care deeply about the opinions of their peers.",
+      "example_uz": "Oʻsmirlar koʻpincha tengdoshlarining fikriga katta ahamiyat berishadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "classmate",
+      "pronunciation_uz": "klasmeyt",
+      "uzbek": "sinfdosh",
+      "pos": "noun",
+      "example_en": "I met my former school classmate at the book fair.",
+      "example_uz": "Kitob yarmarkasida sobiq maktabdoshimni uchratib qoldim.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "roommate",
+      "pronunciation_uz": "rummeyt",
+      "uzbek": "xonadosh",
+      "pos": "noun",
+      "example_en": "My dormitory roommate is from Khorezm.",
+      "example_uz": "Yotoqxonadagi xonadoshim Xorazmdan.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "flatmate",
+      "pronunciation_uz": "fletmeyt",
+      "uzbek": "kvartiradosh, bir uyda turuvchi sherik",
+      "pos": "noun",
+      "example_en": "He splits the monthly utility bills with his flatmate.",
+      "example_uz": "U oylik kommunal toʻlovlarni kvartiradoshi bilan boʻlishib toʻlaydi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "coworker",
+      "pronunciation_uz": "kouvorker",
+      "uzbek": "hamkasb, birga ishlovchi",
+      "pos": "noun",
+      "example_en": "Her coworkers bought a cake for her birthday.",
+      "example_uz": "Hamkasblari uning tugʻilgan kuniga tort sotib olishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "pal",
+      "pronunciation_uz": "pel",
+      "uzbek": "ogʻayni, oshna, doʻst",
+      "pos": "noun",
+      "example_en": "They have been best pals since primary school.",
+      "example_uz": "Ular boshlangʻich maktabdan beri qadrdon oshnalar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "buddy",
+      "pronunciation_uz": "baddi",
+      "uzbek": "doʻst, joʻra, ogʻayni",
+      "pos": "noun",
+      "example_en": "He went fishing on Sunday with his old buddy.",
+      "example_uz": "U yakshanba kuni eski joʻrasi bilan baliq oviga bordi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "confidant",
+      "pronunciation_uz": "konfidant",
+      "uzbek": "sirdosh, yaqin kishi",
+      "pos": "noun",
+      "example_en": "Her mother has always been her closest confidant.",
+      "example_uz": "Onasi doimo uning eng yaqin sirdoshi boʻlib kelgan.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "mentor",
+      "pronunciation_uz": "mentor",
+      "uzbek": "ustoz, murabbiy",
+      "pos": "noun",
+      "example_en": "Every apprentice needs a wise mentor to learn the craft.",
+      "example_uz": "Har bir shogirdga hunar oʻrganish uchun dono ustoz kerak.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "apprentice",
+      "pronunciation_uz": "eprentis",
+      "uzbek": "shogird",
+      "pos": "noun",
+      "example_en": "The young apprentice watched the master woodcarver closely.",
+      "example_uz": "Yosh shogird usta yogʻoch oʻymakorning ishini diqqat bilan kuzatdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "hostess",
+      "pronunciation_uz": "houstes",
+      "uzbek": "mezbon ayol, uy bekasi",
+      "pos": "noun",
+      "example_en": "The hostess welcomed everyone with a warm smile.",
+      "example_uz": "Uy bekasi barchani iliq tabassum bilan qarshi oldi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "neighborhood",
+      "pronunciation_uz": "neyborhud",
+      "uzbek": "mahalla, atrof-muhit, qoʻshnichilik",
+      "pos": "noun",
+      "example_en": "Our neighborhood is quiet and full of shade trees.",
+      "example_uz": "Mahallamiz tinch va soyali daraxtlarga toʻla.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "hospitality",
+      "pronunciation_uz": "hospitaliti",
+      "uzbek": "mehmondoʻstlik",
+      "pos": "noun",
+      "example_en": "Uzbekistan is famous worldwide for its warm hospitality.",
+      "example_uz": "Oʻzbekiston oʻzining samimiy mehmondoʻstligi bilan dunyoga mashhur.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "etiquette",
+      "pronunciation_uz": "etiket",
+      "uzbek": "odob-axloq qoidalari, etiket",
+      "pos": "noun",
+      "example_en": "Pouring tea half-full is a sign of respect in Uzbek etiquette.",
+      "example_uz": "Choyni oz-ozdan quyib uzatish oʻzbek odobida hurmat belgisidir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "custom",
+      "pronunciation_uz": "kastom",
+      "uzbek": "urf-odat, udum",
+      "pos": "noun",
+      "example_en": "Hashar is an ancient custom of mutual neighborhood help.",
+      "example_uz": "Hashar — qoʻni-qoʻshnilarning qadimiy oʻzaro yordam udumidir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "tradition",
+      "pronunciation_uz": "tredishn",
+      "uzbek": "anʼana, qadriyat",
+      "pos": "noun",
+      "example_en": "Cooking sumalak together in spring is a beloved tradition.",
+      "example_uz": "Bahorda birgalikda sumalak pishirish sevimli anʼanadir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "ceremony",
+      "pronunciation_uz": "seremoni",
+      "uzbek": "marosim, tantana",
+      "pos": "noun",
+      "example_en": "The cradle ceremony, Beshik Tuy, celebrates a newborn child.",
+      "example_uz": "Beshik toʻyi marosimi yangi tugʻilgan chaqaloq sharafiga oʻtkaziladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "ritual",
+      "pronunciation_uz": "rityual",
+      "uzbek": "marosim, udum",
+      "pos": "noun",
+      "example_en": "Morning tea is an essential daily ritual in every home.",
+      "example_uz": "Ertalabki choy — har bir xonadonda muhim kundalik udumdir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "blessing",
+      "pronunciation_uz": "blessing",
+      "uzbek": "duo, oq fotiha",
+      "pos": "noun",
+      "example_en": "Before a long journey, we ask elders for their blessing.",
+      "example_uz": "Uzoq safar oldidan keksalardan oq fotiha va duo olamiz.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "courtesy",
+      "pronunciation_uz": "kyortesi",
+      "uzbek": "odob, mulozamat, xushmuomalalik",
+      "pos": "noun",
+      "example_en": "Giving up your seat to elders is common courtesy.",
+      "example_uz": "Kattalarga joy berish oddiy odob qoidasidir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "manners",
+      "pronunciation_uz": "mennerz",
+      "uzbek": "xulq-atvor, odob",
+      "pos": "noun",
+      "example_en": "Good table manners are taught at home from childhood.",
+      "example_uz": "Dasturxon odobi uyda bolalikdan oʻrgatiladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "gratitude",
+      "pronunciation_uz": "gretityud",
+      "uzbek": "minnatdorchilik, shukrona",
+      "pos": "noun",
+      "example_en": "She expressed her heartfelt gratitude to the doctors.",
+      "example_uz": "U shifokorlarga chin dildan minnatdorchilik bildirdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "sympathy",
+      "pronunciation_uz": "simpasi",
+      "uzbek": "hamdardlik, xayrixohlik",
+      "pos": "noun",
+      "example_en": "Neighbors offered their deep sympathy to the grieving family.",
+      "example_uz": "Qoʻshnilar motam tutayotgan oilaga chuqur hamdardlik bildirishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "compassion",
+      "pronunciation_uz": "kompeshn",
+      "uzbek": "mehr-shafqat, rahmdillik",
+      "pos": "noun",
+      "example_en": "Treating the weak with compassion is a noble virtue.",
+      "example_uz": "Zaiflarga mehr-shafqat koʻrsatish olijanob fazilatdir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "empathy",
+      "pronunciation_uz": "empasi",
+      "uzbek": "hamdardlik, birovning dardini his qilish",
+      "pos": "noun",
+      "example_en": "A good listener shows genuine empathy for others.",
+      "example_uz": "Yaxshi tinglovchi boshqalarning dardiga chinakam hamdardlik koʻrsatadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "affection",
+      "pronunciation_uz": "effekshn",
+      "uzbek": "mehr, muhabbat, iliq munosabat",
+      "pos": "noun",
+      "example_en": "Parents show affection through both words and actions.",
+      "example_uz": "Ota-onalar mehrlarini ham soʻz, ham amal bilan koʻrsatadilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "devotion",
+      "pronunciation_uz": "divoushn",
+      "uzbek": "sadoqat, fidoyilik",
+      "pos": "noun",
+      "example_en": "Her lifelong devotion to her family inspired everyone.",
+      "example_uz": "Uning oilasiga boʻlgan bir umrlik sadoqati barchani ruhlantirdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "loyalty",
+      "pronunciation_uz": "loyalti",
+      "uzbek": "sadoqat, vafodorlik",
+      "pos": "noun",
+      "example_en": "Loyalty is the most valuable quality in friendship.",
+      "example_uz": "Sadoqat — doʻstlikdagi eng qadrli fazilatdir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "friendship",
+      "pronunciation_uz": "frendship",
+      "uzbek": "doʻstlik, birodarlik",
+      "pos": "noun",
+      "example_en": "True friendship withstands the test of time and distance.",
+      "example_uz": "Chin doʻstlik vaqt va masofa sinovidan oʻtadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "companionship",
+      "pronunciation_uz": "kompenyenship",
+      "uzbek": "hamrohlik, ulfatchilik, suhbatdoshlik",
+      "pos": "noun",
+      "example_en": "Elderly people value warm companionship and conversation.",
+      "example_uz": "Keksalar samimiy suhbatdoshlik va hamrohlikni qadrlaydilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "harmony",
+      "pronunciation_uz": "harmoni",
+      "uzbek": "totuvlik, ahillik, hamjihatlik",
+      "pos": "noun",
+      "example_en": "May peace and harmony always reign in your home.",
+      "example_uz": "Xonadoningizda doimo tinchlik va totuvlik hukm sursin.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "unity",
+      "pronunciation_uz": "yuniti",
+      "uzbek": "birlik, ahillik, birdamlik",
+      "pos": "noun",
+      "example_en": "Family unity makes every hardship easier to overcome.",
+      "example_uz": "Oila ahilligi har qanday qiyinchilikni yengib oʻtishni osonlashtiradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "reunion",
+      "pronunciation_uz": "riyunyon",
+      "uzbek": "diydorlashuv, qayta uchrashuv",
+      "pos": "noun",
+      "example_en": "We organized a school reunion twenty years after graduation.",
+      "example_uz": "Maktabni bitirganimizga yigirma yil toʻlganda sinfdoshlar uchrashuvini tashkil qildik.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "homesick",
+      "pronunciation_uz": "houmsik",
+      "uzbek": "uyini sogʻingan, yurtini qoʻmsagan",
+      "pos": "adj",
+      "example_en": "During his first month abroad, the student felt homesick.",
+      "example_uz": "Chet eldagi birinchi oyida talaba uyini juda sogʻindi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "hospitable",
+      "pronunciation_uz": "hospitabl",
+      "uzbek": "mehmondoʻst, ochiq qoʻl",
+      "pos": "adj",
+      "example_en": "The villagers were remarkably warm and hospitable.",
+      "example_uz": "Qishloq odamlari nihoyatda samimiy va mehmondoʻst edilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "respectful",
+      "pronunciation_uz": "rispektful",
+      "uzbek": "hurmatli, odobli, ehtiromli",
+      "pos": "adj",
+      "example_en": "He spoke in a quiet, respectful tone to his teacher.",
+      "example_uz": "U ustoziga past va ehtiromli ohangda gapirdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "courteous",
+      "pronunciation_uz": "kyorties",
+      "uzbek": "xushmuomala, muloyim, odobli",
+      "pos": "adj",
+      "example_en": "The courteous clerk helped the elderly woman carry her bag.",
+      "example_uz": "Xushmuomala xodim keksa ayolga sumkasini koʻtarishda yordam berdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "affectionate",
+      "pronunciation_uz": "effekshnet",
+      "uzbek": "mehribon, suyukli",
+      "pos": "adj",
+      "example_en": "The child gave her mother an affectionate smile.",
+      "example_uz": "Bola onasiga mehribonlik bilan jilmayib qaradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "caring",
+      "pronunciation_uz": "kering",
+      "uzbek": "gʻamxoʻr, mehribon",
+      "pos": "adj",
+      "example_en": "He grew up in a warm and caring household.",
+      "example_uz": "U iliq va gʻamxoʻr oilada voyaga yetdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "supportive",
+      "pronunciation_uz": "saportiv",
+      "uzbek": "qoʻllab-quvvatlovchi, madadkor",
+      "pos": "adj",
+      "example_en": "Her family was very supportive of her medical studies.",
+      "example_uz": "Oilasi uning tibbiyot sohasidagi oʻqishini juda qoʻllab-quvvatladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "trustworthy",
+      "pronunciation_uz": "trastvorzi",
+      "uzbek": "ishonchli, sodiq",
+      "pos": "adj",
+      "example_en": "Choose a trustworthy person to look after the business.",
+      "example_uz": "Ishga qarab turish uchun ishonchli odamni tanlang.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "reliable",
+      "pronunciation_uz": "rilayabl",
+      "uzbek": "ishonchli, tayansa boʻladigan",
+      "pos": "adj",
+      "example_en": "My brother is the most reliable person I know.",
+      "example_uz": "Akam men bilgan eng ishonchli inson.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "sincere",
+      "pronunciation_uz": "sinsir",
+      "uzbek": "samimiy, chin dildan",
+      "pos": "adj",
+      "example_en": "Please accept our sincere wishes for your health and happiness.",
+      "example_uz": "Sogʻlik va baxt tilab bildirgan samimiy tilaklarimizni qabul qiling.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "modest",
+      "pronunciation_uz": "modest",
+      "uzbek": "kamtarin,ibo-hayoli, odmi",
+      "pos": "adj",
+      "example_en": "She is modest about her achievements in science.",
+      "example_uz": "U ilm-fandagi yutuqlari haqida kamtarlik qiladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "tolerant",
+      "pronunciation_uz": "tolerant",
+      "uzbek": "bagʻrikeng, toqatli, sabrli",
+      "pos": "adj",
+      "example_en": "A harmonious society requires people to be tolerant and kind.",
+      "example_uz": "Ahil jamiyat odamlardan bagʻrikeng va mehribon boʻlishni talab etadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "forgiving",
+      "pronunciation_uz": "forgiving",
+      "uzbek": "kechirimli, rahmdil",
+      "pos": "adj",
+      "example_en": "A forgiving heart brings peace to the whole family.",
+      "example_uz": "Kechirimli qalb butun oilaga xotirjamlik olib keladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "sociable",
+      "pronunciation_uz": "soushabl",
+      "uzbek": "dilkash, kirishimli, ulfat",
+      "pos": "adj",
+      "example_en": "She is sociable and makes friends easily wherever she goes.",
+      "example_uz": "U dilkash boʻlib, qayoqqa borsa oson doʻst orttiradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "forefather",
+      "pronunciation_uz": "forfazer",
+      "uzbek": "ota-bobo, ajdod",
+      "pos": "noun",
+      "example_en": "Our forefathers built magnificent madrasahs and libraries.",
+      "example_uz": "Ota-bobolarimiz muhtasham madrasalar va kutubxonalar barpo etganlar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "progeny",
+      "pronunciation_uz": "projeni",
+      "uzbek": "farzandlar, zurriyot, avlod",
+      "pos": "noun",
+      "example_en": "The old tree planted by the grandfather now shades his progeny.",
+      "example_uz": "Bobo ekkan keksa daraxt bugun uning zurriyotlariga soya bermoqda.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "offspring",
+      "pronunciation_uz": "ofspring",
+      "uzbek": "farzand, bola, nasl",
+      "pos": "noun",
+      "example_en": "Parents work hard to provide a good education for their offspring.",
+      "example_uz": "Ota-onalar farzandlariga yaxshi taʼlim berish uchun astoydil mehnat qiladilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "firstborn",
+      "pronunciation_uz": "fyorstborn",
+      "uzbek": "toʻngʻich farzand",
+      "pos": "noun",
+      "example_en": "Their firstborn son is studying architecture.",
+      "example_uz": "Ularning toʻngʻich oʻgʻli meʼmorchilik yoʻnalishida oʻqiydi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "namesake",
+      "pronunciation_uz": "neymsayk",
+      "uzbek": "adash (ismi bir xil odam)",
+      "pos": "noun",
+      "example_en": "The boy was named after his grandfather and is his proud namesake.",
+      "example_uz": "Bolaga bobosining ismi qoʻyilgan boʻlib, u bobosining faxrli adashidir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "compatriot",
+      "pronunciation_uz": "kompetriot",
+      "uzbek": "vatandosh, hamyurt",
+      "pos": "noun",
+      "example_en": "It is always a joy to meet a compatriot when traveling abroad.",
+      "example_uz": "Chet elda sayohat qilganda hamyurtni uchratish doimo quvonchli.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "countryman",
+      "pronunciation_uz": "kantrimen",
+      "uzbek": "hamyurt, yurtdosh",
+      "pos": "noun",
+      "example_en": "He greeted his fellow countryman warmly at the international conference.",
+      "example_uz": "U xalqaro anjumanda yurtdoshini samimiy qutladi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "housemate",
+      "pronunciation_uz": "hausmeyt",
+      "uzbek": "bir uyda yashovchi sherik, xonadosh",
+      "pos": "noun",
+      "example_en": "Each housemate takes turns cooking dinner during the week.",
+      "example_uz": "Hafta davomida har bir xonadosh navbat bilan kechki ovqat pishiradi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "playmate",
+      "pronunciation_uz": "pleymeyt",
+      "uzbek": "oʻyindosh, bolalikdagi oʻrtoq",
+      "pos": "noun",
+      "example_en": "The neighbor's children were my daily playmates in summer.",
+      "example_uz": "Qoʻshnining bolalari yozda mening kundalik oʻyindoshlarim edi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "pen pal",
+      "pronunciation_uz": "pen pel",
+      "uzbek": "yozishma doʻst, xat orqali doʻstlashgan oʻrtoq",
+      "pos": "noun",
+      "example_en": "Having a foreign pen pal is a great way to practice English.",
+      "example_uz": "Chet ellik yozishma doʻstga ega boʻlish ingliz tilini mashq qilishning ajoyib usulidir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "patriarch",
+      "pronunciation_uz": "peytriark",
+      "uzbek": "oila boshligʻi, nuroniy oqsoqol",
+      "pos": "noun",
+      "example_en": "Everyone listened attentively as the family patriarch gave his blessing.",
+      "example_uz": "Oila oqsoqoli duo qilayotganda hamma diqqat bilan quloq tutdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "matriarch",
+      "pronunciation_uz": "meytriark",
+      "uzbek": "xonadon ulugʻi boʻlgan keksa ona/buvi",
+      "pos": "noun",
+      "example_en": "Our ninety-year-old grandmother is the beloved matriarch of the family.",
+      "example_uz": "Toʻqson yoshli buvimiz oilamizning sevimli va ulugʻ ustunidirlar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "elder",
+      "pronunciation_uz": "elder",
+      "uzbek": "yoshi katta, oqsoqol, nuroniy",
+      "pos": "noun",
+      "example_en": "Always yield the path and offer greetings first to an elder.",
+      "example_uz": "Yoshi ulugʻ insonga doimo yoʻl bering va birinchi boʻlib salom bering.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "breadwinner",
+      "pronunciation_uz": "bredvinner",
+      "uzbek": "oila boquvchisi",
+      "pos": "noun",
+      "example_en": "After his father retired, the eldest brother became the main breadwinner.",
+      "example_uz": "Otasi nafaqaga chiqqach, katta aka oilaning asosiy boquvchisiga aylandi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "homemaker",
+      "pronunciation_uz": "hoummeyker",
+      "uzbek": "uy bekasi, roʻzgʻor yurituvchi",
+      "pos": "noun",
+      "example_en": "A skilled homemaker keeps the household running smoothly.",
+      "example_uz": "Uquvli uy bekasi roʻzgʻor ishlarini saranjom-sarishta yuritadi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "kinfolk",
+      "pronunciation_uz": "kinfouk",
+      "uzbek": "qarindosh-urugʻlar",
+      "pos": "noun",
+      "example_en": "Kinfolk traveled from several provinces for the wedding feast.",
+      "example_uz": "Toʻy bazmiga bir necha viloyatdan qarindosh-urugʻlar kelishdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "befriend",
+      "pronunciation_uz": "bifrend",
+      "uzbek": "doʻstlashmoq, doʻst tutinmoq",
+      "pos": "verb",
+      "example_en": "He quickly befriended the new student on the first day of class.",
+      "example_uz": "U darsning birinchi kunidayoq yangi talaba bilan tez doʻstlashib ketdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "mingle",
+      "pronunciation_uz": "mingl",
+      "uzbek": "aralashib yurmoq, suhbatlashmoq (mehmonlar bilan)",
+      "pos": "verb",
+      "example_en": "The host walked around the courtyard to mingle with all the guests.",
+      "example_uz": "Mezbon barcha mehmonlar bilan suhbatlashish uchun hovli boʻylab yurdi.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "socialize",
+      "pronunciation_uz": "soushalayz",
+      "uzbek": "muloqot qilmoq, odamlar bilan aralashmoq",
+      "pos": "verb",
+      "example_en": "Tea houses are traditional places where neighbors gather to socialize.",
+      "example_uz": "Choyxonalar qoʻshnilar toʻplanib muloqot qiladigan anʼanaviy maskanlardir.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    },
+    {
+      "english": "cooperate",
+      "pronunciation_uz": "koopereyt",
+      "uzbek": "hamkorlik qilmoq, koʻmaklashmoq",
+      "pos": "verb",
+      "example_en": "Neighbors cooperate during a community hashar to clean the street.",
+      "example_uz": "Qoʻshnilar koʻchani tozalash uchun mahalla hasharida hamkorlik qiladilar.",
+      "category": "Oila, inson davrlari va munosabatlar"
+    }
+  ]
+}

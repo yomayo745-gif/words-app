@@ -1,0 +1,817 @@
+{
+  "title": "Matematika, geometriya va statistika",
+  "category": "Mathematics, Geometry & Logic",
+  "group": "topic",
+  "words": [
+    {
+      "english": "mathematician",
+      "pronunciation_uz": "masematishn",
+      "uzbek": "matematik",
+      "pos": "noun",
+      "example_en": "The mathematician solved a problem that had puzzled scholars for decades.",
+      "example_uz": "Matematik olimlarni oʻnlab yillar davomida oʻylantirib kelgan masalani yechdi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "mathematical",
+      "pronunciation_uz": "masematikal",
+      "uzbek": "matematik",
+      "pos": "adj",
+      "example_en": "Engineers built a mathematical model of the bridge.",
+      "example_uz": "Muhandislar koʻprikning matematik modelini yaratdilar.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "algebraic",
+      "pronunciation_uz": "aljebreyik",
+      "uzbek": "algebraik",
+      "pos": "adj",
+      "example_en": "Students simplified the complex algebraic expression.",
+      "example_uz": "Oʻquvchilar murakkab algebraik ifodani soddalashtirdilar.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "geometric",
+      "pronunciation_uz": "jiometrik",
+      "uzbek": "geometrik",
+      "pos": "adj",
+      "example_en": "Traditional tiles in Samarkand feature intricate geometric patterns.",
+      "example_uz": "Samarqanddagi anʼanaviy koshinlarda murakkab geometrik naqshlar aks etgan.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "trigonometry",
+      "pronunciation_uz": "trigonometri",
+      "uzbek": "trigonometriya",
+      "pos": "noun",
+      "example_en": "Trigonometry explores the relationships between triangle angles and sides.",
+      "example_uz": "Trigonometriya uchburchakning burchaklari va tomonlari oʻrtasidagi bogʻliqlikni oʻrganadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "calculus",
+      "pronunciation_uz": "kalkyulas",
+      "uzbek": "oliy matematika hisobi",
+      "pos": "noun",
+      "example_en": "Calculus is essential for physics and engineering.",
+      "example_uz": "Differensial va integral hisob fizika hamda muhandislik uchun juda zarur.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "number",
+      "pronunciation_uz": "namber",
+      "uzbek": "son",
+      "pos": "noun",
+      "example_en": "Write down a two-digit number on the board.",
+      "example_uz": "Doskaga ikki xonali son yozing.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "numeral",
+      "pronunciation_uz": "nyumeral",
+      "uzbek": "raqam belgisi",
+      "pos": "noun",
+      "example_en": "Modern science uses Arabic numerals from zero to nine.",
+      "example_uz": "Zamonaviy ilm-fan noldan toʻqqizgacha boʻlgan arab raqamlaridan foydalanadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "digit",
+      "pronunciation_uz": "dijit",
+      "uzbek": "raqam",
+      "pos": "noun",
+      "example_en": "The postal code consists of six digits.",
+      "example_uz": "Pochta indeksi oltita raqamdan iborat.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "zero",
+      "pronunciation_uz": "zirou",
+      "uzbek": "nol",
+      "pos": "noun",
+      "example_en": "Any number multiplied by zero equals zero.",
+      "example_uz": "Har qanday sonni nolga koʻpaytirsa, nol hosil boʻladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "odd",
+      "pronunciation_uz": "od",
+      "uzbek": "toq",
+      "pos": "adj",
+      "example_en": "Three, seven, and nine are odd numbers.",
+      "example_uz": "Uch, yetti va toʻqqiz toq sonlardir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "prime",
+      "pronunciation_uz": "praym",
+      "uzbek": "tub son",
+      "pos": "adj",
+      "example_en": "A prime number is divisible only by one and itself.",
+      "example_uz": "Tub son faqat birga va oʻziga boʻlinadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "positive",
+      "pronunciation_uz": "pozitiv",
+      "uzbek": "musbat",
+      "pos": "adj",
+      "example_en": "Numbers greater than zero are called positive numbers.",
+      "example_uz": "Noldan katta sonlar musbat sonlar deb ataladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "negative",
+      "pronunciation_uz": "negativ",
+      "uzbek": "manfiy",
+      "pos": "adj",
+      "example_en": "Winter temperatures in the north drop to negative values.",
+      "example_uz": "Shimolda qishki harorat manfiy koʻrsatkichlargacha tushadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "numerator",
+      "pronunciation_uz": "nyumereytor",
+      "uzbek": "surat",
+      "pos": "noun",
+      "example_en": "In the fraction three-fifths, three is the numerator.",
+      "example_uz": "Beshdan uch kasrida uch soni kasrning suratidir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "denominator",
+      "pronunciation_uz": "dinomineytor",
+      "uzbek": "maxraj",
+      "pos": "noun",
+      "example_en": "Find a common denominator before adding the fractions.",
+      "example_uz": "Kasrlarni qoʻshishdan oldin umumiy maxraj toping.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "decimal",
+      "pronunciation_uz": "desimal",
+      "uzbek": "oʻnli kasr",
+      "pos": "noun",
+      "example_en": "Convert the fraction one-half into a decimal.",
+      "example_uz": "Ikkidan bir kasrini oʻnli kasrga aylantiring.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "percent",
+      "pronunciation_uz": "persent",
+      "uzbek": "foiz",
+      "pos": "noun",
+      "example_en": "The store offered a twenty percent discount on books.",
+      "example_uz": "Doʻkon kitoblarga yigirma foizlik chegirma taklif qildi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "proportional",
+      "pronunciation_uz": "proporshnal",
+      "uzbek": "mutanosib",
+      "pos": "adj",
+      "example_en": "The tax is directly proportional to the income.",
+      "example_uz": "Soliq daromadga toʻgʻri proporsionaldir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "addition",
+      "pronunciation_uz": "edishn",
+      "uzbek": "qoʻshish amali",
+      "pos": "noun",
+      "example_en": "First-grade pupils practice addition and subtraction.",
+      "example_uz": "Birinchi sinf oʻquvchilari qoʻshish va ayirish amallarini mashq qiladilar.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "plus",
+      "pronunciation_uz": "plas",
+      "uzbek": "plyus",
+      "pos": "noun",
+      "example_en": "Five plus seven equals twelve.",
+      "example_uz": "Besh plyus yetti oʻn ikkiga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "sum",
+      "pronunciation_uz": "sam",
+      "uzbek": "yigʻindi",
+      "pos": "noun",
+      "example_en": "The sum of the angles in a triangle is 180 degrees.",
+      "example_uz": "Uchburchakning ichki burchaklari yigʻindisi 180 gradusga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "total",
+      "pronunciation_uz": "toutal",
+      "uzbek": "jami",
+      "pos": "noun",
+      "example_en": "Calculate the grand total at the bottom of the column.",
+      "example_uz": "Ustunning pastki qismida umumiy jami miqdorni hisoblang.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "subtraction",
+      "pronunciation_uz": "sabtrakshn",
+      "uzbek": "ayirish amali",
+      "pos": "noun",
+      "example_en": "Check your subtraction by adding the numbers back.",
+      "example_uz": "Sonlarni qayta qoʻshib koʻrish orqali ayirish amalini tekshiring.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "subtract",
+      "pronunciation_uz": "sabtrakt",
+      "uzbek": "ayirmoq",
+      "pos": "verb",
+      "example_en": "If you subtract six from ten, you get four.",
+      "example_uz": "Agar oʻndan oltini ayirsangiz, toʻrt hosil boʻladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "minus",
+      "pronunciation_uz": "maynas",
+      "uzbek": "minus",
+      "pos": "noun",
+      "example_en": "Write a minus sign in front of the number.",
+      "example_uz": "Sonning oldiga minus belgisini yozing.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "difference",
+      "pronunciation_uz": "diferens",
+      "uzbek": "ayirma",
+      "pos": "noun",
+      "example_en": "The difference between fifty and thirty is twenty.",
+      "example_uz": "Ellik va oʻttiz orasidagi ayirma yigirmaga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "multiplication",
+      "pronunciation_uz": "maltiplikeyshn",
+      "uzbek": "koʻpaytirish amali",
+      "pos": "noun",
+      "example_en": "Every student memorized the multiplication table.",
+      "example_uz": "Har bir oʻquvchi koʻpaytirish jadvalini yod oldi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "division",
+      "pronunciation_uz": "divijn",
+      "uzbek": "boʻlish amali",
+      "pos": "noun",
+      "example_en": "Long division is easy once you learn the steps.",
+      "example_uz": "Qadamlarni oʻrganib olsangiz, burchaklab boʻlish amali juda oson.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "quotient",
+      "pronunciation_uz": "kvoushent",
+      "uzbek": "boʻlinma",
+      "pos": "noun",
+      "example_en": "When twenty is divided by four, the quotient is five.",
+      "example_uz": "Yigirma toʻrtga boʻlinganda, boʻlinma beshga teng boʻladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "remainder",
+      "pronunciation_uz": "rimeynder",
+      "uzbek": "qoldiq",
+      "pos": "noun",
+      "example_en": "Ten divided by three leaves a remainder of one.",
+      "example_uz": "Oʻnni uchga boʻlganda bir qoldiq qoladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "equality",
+      "pronunciation_uz": "ikvoliti",
+      "uzbek": "tenglik",
+      "pos": "noun",
+      "example_en": "An equals sign shows mathematical equality between two sides.",
+      "example_uz": "Tenglik belgisi ikki tomon oʻrtasidagi matematik tenglikni koʻrsatadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "inequality",
+      "pronunciation_uz": "inikvoliti",
+      "uzbek": "tengsizlik",
+      "pos": "noun",
+      "example_en": "Solve the linear inequality and graph the solution.",
+      "example_uz": "Chiziqli tengsizlikni yeching va yechimni grafikda tasvirlang.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "equation",
+      "pronunciation_uz": "ikveyjn",
+      "uzbek": "tenglama",
+      "pos": "noun",
+      "example_en": "Find the value of x in this quadratic equation.",
+      "example_uz": "Ushbu kvadrat tenglamada iksning qiymatini toping.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "coefficient",
+      "pronunciation_uz": "kouifishent",
+      "uzbek": "koeffitsiyent",
+      "pos": "noun",
+      "example_en": "In the term 5x, the number five is the coefficient.",
+      "example_uz": "5x hadida besh soni koeffitsiyent hisoblanadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "exponent",
+      "pronunciation_uz": "iksponent",
+      "uzbek": "daraja koʻrsatkichi",
+      "pos": "noun",
+      "example_en": "An exponent tells how many times a number is multiplied by itself.",
+      "example_uz": "Daraja koʻrsatkichi sonning oʻz-oʻziga necha marta koʻpaytirilishini bildiradi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "square root",
+      "pronunciation_uz": "skver rut",
+      "uzbek": "kvadrat ildiz",
+      "pos": "noun",
+      "example_en": "The square root of sixty-four is eight.",
+      "example_uz": "Oltmish toʻrtning kvadrat ildizi sakkizga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "logarithm",
+      "pronunciation_uz": "logarizm",
+      "uzbek": "logarifm",
+      "pos": "noun",
+      "example_en": "Logarithms simplify complex multiplication calculations.",
+      "example_uz": "Logarifmlar murakkab koʻpaytirish hisob-kitoblarini soddalashtiradi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "infinity",
+      "pronunciation_uz": "infiniti",
+      "uzbek": "cheksizlik",
+      "pos": "noun",
+      "example_en": "The set of natural numbers continues to infinity.",
+      "example_uz": "Natural sonlar toʻplami cheksizlikkacha davom etadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "calculation",
+      "pronunciation_uz": "kalkyuleyshn",
+      "uzbek": "hisob-kitob",
+      "pos": "noun",
+      "example_en": "One small error in the calculation changed the result.",
+      "example_uz": "Hisob-kitobdagi bitta kichik xato natijani oʻzgartirib yubordi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "line",
+      "pronunciation_uz": "layn",
+      "uzbek": "chiziq",
+      "pos": "noun",
+      "example_en": "Use a ruler to draw a straight line.",
+      "example_uz": "Toʻgʻri chiziq chizish uchun chizgʻichdan foydalaning.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "ray",
+      "pronunciation_uz": "rey",
+      "uzbek": "nur",
+      "pos": "noun",
+      "example_en": "A geometric ray starts at a point and extends forever.",
+      "example_uz": "Geometrik nur bitta nuqtadan boshlanib, cheksiz davom etadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "parallel",
+      "pronunciation_uz": "paralel",
+      "uzbek": "parallel",
+      "pos": "adj",
+      "example_en": "Parallel lines never meet no matter how far they extend.",
+      "example_uz": "Parallel chiziqlar qancha choʻzilmasin, hech qachon kesishmaydi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "perpendicular",
+      "pronunciation_uz": "perpendikyular",
+      "uzbek": "perpendikulyar",
+      "pos": "adj",
+      "example_en": "The walls of the building are perpendicular to the floor.",
+      "example_uz": "Binoning devorlari polga nisbatan perpendikulyardir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "intersect",
+      "pronunciation_uz": "intersekt",
+      "uzbek": "kesishmoq",
+      "pos": "verb",
+      "example_en": "The two main avenues intersect near the fountain.",
+      "example_uz": "Ikki asosiy shohkoʻcha favvora yonida kesishadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "obtuse",
+      "pronunciation_uz": "obtyus",
+      "uzbek": "oʻtmas burchakli",
+      "pos": "adj",
+      "example_en": "An obtuse angle is between ninety and 180 degrees.",
+      "example_uz": "Oʻtmas burchak toʻqson va 180 gradus orasida boʻladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "diagonal",
+      "pronunciation_uz": "dayagonal",
+      "uzbek": "diagonal",
+      "pos": "noun",
+      "example_en": "A diagonal connects two opposite corners of a rectangle.",
+      "example_uz": "Diagonal toʻrtburchakning ikki qarama-qarshi burchagini tutashtiradi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "symmetry",
+      "pronunciation_uz": "simetri",
+      "uzbek": "simmetriya",
+      "pos": "noun",
+      "example_en": "A butterfly's wings show natural bilateral symmetry.",
+      "example_uz": "Kapalak qanotlari tabiiy ikki tomonlama simmetriyani namoyon etadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "symmetrical",
+      "pronunciation_uz": "simetrikal",
+      "uzbek": "simmetrik",
+      "pos": "adj",
+      "example_en": "The facade of the madrasah is perfectly symmetrical.",
+      "example_uz": "Madrasaning old koʻrinishi mukammal simmetrikdir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "shape",
+      "pronunciation_uz": "sheyp",
+      "uzbek": "shakl",
+      "pos": "noun",
+      "example_en": "Children sorted the wooden blocks by color and shape.",
+      "example_uz": "Bolalar yogʻoch kubiklarni rangi va shakliga qarab ajratishdi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "triangle",
+      "pronunciation_uz": "trayangl",
+      "uzbek": "uchburchak",
+      "pos": "noun",
+      "example_en": "An equilateral triangle has three equal sides.",
+      "example_uz": "Teng tomonli uchburchakning uchala tomoni oʻzaro teng boʻladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "triangular",
+      "pronunciation_uz": "trayangyular",
+      "uzbek": "uchburchak shaklidagi",
+      "pos": "adj",
+      "example_en": "Samsa is often baked in a triangular shape.",
+      "example_uz": "Somsa koʻpincha uchburchak shaklda yopiladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "hypotenuse",
+      "pronunciation_uz": "haypotenyuz",
+      "uzbek": "gipotenuza",
+      "pos": "noun",
+      "example_en": "The hypotenuse is the longest side of a right triangle.",
+      "example_uz": "Gipotenuza toʻgʻri burchakli uchburchakning eng uzun tomonidir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "rectangle",
+      "pronunciation_uz": "rektangl",
+      "uzbek": "toʻgʻri toʻrtburchak",
+      "pos": "noun",
+      "example_en": "A standard door has the shape of a rectangle.",
+      "example_uz": "Standart eshik toʻgʻri toʻrtburchak shaklga ega.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "rectangular",
+      "pronunciation_uz": "rektangyular",
+      "uzbek": "toʻgʻri toʻrtburchakli",
+      "pos": "adj",
+      "example_en": "They placed a rectangular table in the dining room.",
+      "example_uz": "Ular oshxonaga toʻgʻri toʻrtburchak shakldagi stol qoʻyishdi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "polygon",
+      "pronunciation_uz": "poligon",
+      "uzbek": "koʻpburchak",
+      "pos": "noun",
+      "example_en": "A regular polygon has equal sides and equal angles.",
+      "example_uz": "Muntazam koʻpburchakning tomonlari va burchaklari teng boʻladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "pentagon",
+      "pronunciation_uz": "pentagon",
+      "uzbek": "beshburchak",
+      "pos": "noun",
+      "example_en": "A pentagon is a geometric figure with five sides.",
+      "example_uz": "Beshburchak — beshta tomonga ega geometrik shakldir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "hexagon",
+      "pronunciation_uz": "heksagon",
+      "uzbek": "oltiburchak",
+      "pos": "noun",
+      "example_en": "Honeycomb cells are built in the shape of a hexagon.",
+      "example_uz": "Asalari uyasi katakchalari oltiburchak shaklda quriladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "octagon",
+      "pronunciation_uz": "oktagon",
+      "uzbek": "sakkizburchak",
+      "pos": "noun",
+      "example_en": "A traffic stop sign has the shape of an octagon.",
+      "example_uz": "Toʻxtash yoʻl belgisi sakkizburchak shaklga ega.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "circular",
+      "pronunciation_uz": "serkyular",
+      "uzbek": "dumaloq",
+      "pos": "adj",
+      "example_en": "Traditional Uzbek bread has a flat circular shape.",
+      "example_uz": "Anʼanaviy oʻzbek noni yassi dumaloq shaklga ega.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "oval",
+      "pronunciation_uz": "ouval",
+      "uzbek": "oval",
+      "pos": "noun",
+      "example_en": "The running track around the stadium forms an oval.",
+      "example_uz": "Stadion atrofidagi yugurish yoʻlagi oval shaklini hosil qiladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "radius",
+      "pronunciation_uz": "reydias",
+      "uzbek": "radius",
+      "pos": "noun",
+      "example_en": "The radius of a circle is half of its diameter.",
+      "example_uz": "Aylananing radiusi uning diametri yarmiga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "diameter",
+      "pronunciation_uz": "dayamiter",
+      "uzbek": "diametr",
+      "pos": "noun",
+      "example_en": "The diameter passes straight through the center of the circle.",
+      "example_uz": "Diametr aylananing qoq markazidan toʻgʻri oʻtadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "circumference",
+      "pronunciation_uz": "serkamferens",
+      "uzbek": "aylana uzunligi",
+      "pos": "noun",
+      "example_en": "Al-Biruni calculated the Earth's circumference with great accuracy.",
+      "example_uz": "Abu Rayhon Beruniy Yer aylanasi uzunligini katta aniqlik bilan hisoblab chiqqan.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "arc",
+      "pronunciation_uz": "ark",
+      "uzbek": "yoy",
+      "pos": "noun",
+      "example_en": "The rainbow formed a bright arc across the sky.",
+      "example_uz": "Kamalak osmon boʻylab yorqin yoy hosil qildi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "tangent",
+      "pronunciation_uz": "tanjent",
+      "uzbek": "urinma",
+      "pos": "noun",
+      "example_en": "A tangent touches a circle at only one point.",
+      "example_uz": "Urinma chiziq aylanaga faqat bitta nuqtada tegib oʻtadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "sphere",
+      "pronunciation_uz": "sfir",
+      "uzbek": "shar",
+      "pos": "noun",
+      "example_en": "A basketball has the three-dimensional shape of a sphere.",
+      "example_uz": "Basketbol toʻpi uch oʻlchamli shar shakliga ega.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "spherical",
+      "pronunciation_uz": "sferikal",
+      "uzbek": "sharsimon",
+      "pos": "adj",
+      "example_en": "Drops of water in zero gravity become spherical.",
+      "example_uz": "Vaznsizlik holatida suv tomchilari sharsimon shaklga kiradi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "pyramid",
+      "pronunciation_uz": "piramid",
+      "uzbek": "piramida",
+      "pos": "noun",
+      "example_en": "A square pyramid has a square base and four triangular faces.",
+      "example_uz": "Toʻrtburchakli piramida kvadrat asos va toʻrtta uchburchak yon yoqqa ega.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "prism",
+      "pronunciation_uz": "prizm",
+      "uzbek": "prizma",
+      "pos": "noun",
+      "example_en": "The glass prism has two triangular bases.",
+      "example_uz": "Shisha prizma ikkita uchburchak asosga ega.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "perimeter",
+      "pronunciation_uz": "perimiter",
+      "uzbek": "perimetr",
+      "pos": "noun",
+      "example_en": "Add all four sides to find the perimeter of the garden.",
+      "example_uz": "Bogʻning perimetrini topish uchun barcha toʻrt tomonini qoʻshing.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "area",
+      "pronunciation_uz": "eria",
+      "uzbek": "yuza",
+      "pos": "noun",
+      "example_en": "The area of the room is twenty-four square meters.",
+      "example_uz": "Xonaning yuzasi yigirma toʻrt kvadrat metrga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "volume",
+      "pronunciation_uz": "volyum",
+      "uzbek": "hajm",
+      "pos": "noun",
+      "example_en": "Calculate the volume of water that the tank can hold.",
+      "example_uz": "Hovuz sigʻdira oladigan suv hajmini hisoblang.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "surface",
+      "pronunciation_uz": "serfis",
+      "uzbek": "sirt",
+      "pos": "noun",
+      "example_en": "A cube has a total surface area of six squares.",
+      "example_uz": "Kubning toʻla sirti oltita kvadrat yuzasidan iborat.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "height",
+      "pronunciation_uz": "hayt",
+      "uzbek": "balandlik",
+      "pos": "noun",
+      "example_en": "The height of the TV tower in Tashkent is 375 meters.",
+      "example_uz": "Toshkent teleminorasining balandligi 375 metrga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "depth",
+      "pronunciation_uz": "deps",
+      "uzbek": "chuqurlik",
+      "pos": "noun",
+      "example_en": "Lake Issyk-Kul reaches a depth of over six hundred meters.",
+      "example_uz": "Issiqkoʻlning chuqurligi olti yuz metrdan oshadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "coordinate",
+      "pronunciation_uz": "koordinat",
+      "uzbek": "koordinata",
+      "pos": "noun",
+      "example_en": "Find the exact location using latitude and longitude coordinates.",
+      "example_uz": "Kenglik va uzunlik koordinatalari yordamida aniq joylashuvni toping.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "vector",
+      "pronunciation_uz": "vektor",
+      "uzbek": "vektor",
+      "pos": "noun",
+      "example_en": "A vector has both magnitude and direction.",
+      "example_uz": "Vektor ham miqdorga, ham yoʻnalishga ega.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "matrix",
+      "pronunciation_uz": "meytriks",
+      "uzbek": "matritsa",
+      "pos": "noun",
+      "example_en": "Computer graphics rely heavily on matrix multiplication.",
+      "example_uz": "Kompyuter grafikasi matritsalarni koʻpaytirishga tayanadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "derivative",
+      "pronunciation_uz": "derivativ",
+      "uzbek": "hosila",
+      "pos": "noun",
+      "example_en": "The derivative represents the rate of change of a function.",
+      "example_uz": "Hosila funksiyaning oʻzgarish tezligini ifodalaydi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "statistical",
+      "pronunciation_uz": "statistikal",
+      "uzbek": "statistik",
+      "pos": "adj",
+      "example_en": "The report includes a statistical analysis of crop yields.",
+      "example_uz": "Hisobot hosildorlikning statistik tahlilini oʻz ichiga oladi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "probability",
+      "pronunciation_uz": "probabiliti",
+      "uzbek": "ehtimollik",
+      "pos": "noun",
+      "example_en": "The probability of getting heads in a coin toss is fifty percent.",
+      "example_uz": "Tanga tashlanganda gerb tushish ehtimolligi ellik foizga teng.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "graph",
+      "pronunciation_uz": "graf",
+      "uzbek": "grafik",
+      "pos": "noun",
+      "example_en": "The line graph shows steady population growth.",
+      "example_uz": "Chiziqli grafik aholining barqaror oʻsishini koʻrsatadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "diagram",
+      "pronunciation_uz": "dayagram",
+      "uzbek": "chizma",
+      "pos": "noun",
+      "example_en": "Draw a Venn diagram to compare the two sets.",
+      "example_uz": "Ikki toʻplamni solishtirish uchun Venn diagrammasini chizing.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "unit",
+      "pronunciation_uz": "yunit",
+      "uzbek": "oʻlchov birligi",
+      "pos": "noun",
+      "example_en": "The meter is the standard unit of length.",
+      "example_uz": "Metr uzunlikning standart oʻlchov birligidir.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "measurement",
+      "pronunciation_uz": "mejerment",
+      "uzbek": "oʻlchash",
+      "pos": "noun",
+      "example_en": "Take the measurement twice before cutting the wood.",
+      "example_uz": "Yogʻochni kesishdan oldin ikki marta oʻlchab oling.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "metric",
+      "pronunciation_uz": "metrik",
+      "uzbek": "metrik",
+      "pos": "adj",
+      "example_en": "Most countries in the world use the metric system.",
+      "example_uz": "Dunyoning aksariyat mamlakatlari metrik tizimdan foydalanadi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "hectare",
+      "pronunciation_uz": "hektar",
+      "uzbek": "gektar",
+      "pos": "noun",
+      "example_en": "The orchard covers an area of ten hectares.",
+      "example_uz": "Mevali bogʻ oʻn gektar maydonni egallaydi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "set",
+      "pronunciation_uz": "set",
+      "uzbek": "toʻplam",
+      "pos": "noun",
+      "example_en": "An empty set contains no elements at all.",
+      "example_uz": "Boʻsh toʻplam umuman hech qanday elementga ega boʻlmaydi.",
+      "category": "Matematika, geometriya va statistika"
+    },
+    {
+      "english": "subset",
+      "pronunciation_uz": "sabset",
+      "uzbek": "qism toʻplam",
+      "pos": "noun",
+      "example_en": "The set of even numbers is a subset of integers.",
+      "example_uz": "Juft sonlar toʻplami butun sonlar toʻplamining qism toʻplamidir.",
+      "category": "Matematika, geometriya va statistika"
+    }
+  ]
+}

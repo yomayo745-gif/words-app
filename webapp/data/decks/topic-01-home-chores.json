@@ -1,0 +1,1429 @@
+{
+  "title": "Uy-joy, jihozlar va roʻzgʻor",
+  "category": "Home, Appliances & Household",
+  "group": "topic",
+  "words": [
+    {
+      "english": "attic",
+      "pronunciation_uz": "ettik",
+      "uzbek": "chordoq, boloxona",
+      "pos": "noun",
+      "example_en": "We stored old boxes in the dusty attic.",
+      "example_uz": "Biz eski qutilarni chang bosgan chordoqqa joyladik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "basement",
+      "pronunciation_uz": "beysment",
+      "uzbek": "yertoʻla, podval",
+      "pos": "noun",
+      "example_en": "The washing machine is kept in the basement.",
+      "example_uz": "Kir yuvish mashinasi yertoʻlada saqlanadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hallway",
+      "pronunciation_uz": "holvey",
+      "uzbek": "yoʻlak, dahliz",
+      "pos": "noun",
+      "example_en": "Please leave your wet umbrella in the hallway.",
+      "example_uz": "Iltimos, hoʻl soyaboningizni dahlizda qoldiring.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "corridor",
+      "pronunciation_uz": "koridor",
+      "uzbek": "uzun yoʻlak",
+      "pos": "noun",
+      "example_en": "His room is at the end of the long corridor.",
+      "example_uz": "Uning xonasi uzun yoʻlakning oxirida joylashgan.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "balcony",
+      "pronunciation_uz": "balkoni",
+      "uzbek": "balkon, ayvoncha",
+      "pos": "noun",
+      "example_en": "She grows red geraniums on her balcony.",
+      "example_uz": "U oʻz balkonida qizil yorongullar oʻstiradi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "porch",
+      "pronunciation_uz": "porch",
+      "uzbek": "peshayvon, kirish ayvoni",
+      "pos": "noun",
+      "example_en": "They sat on the front porch drinking tea.",
+      "example_uz": "Ular old peshayvonda choy ichib oʻtirishdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "veranda",
+      "pronunciation_uz": "veranda",
+      "uzbek": "ochiq ayvon, veranda",
+      "pos": "noun",
+      "example_en": "The wide veranda overlooks the orchard.",
+      "example_uz": "Keng veranda mevali boqqa qaragan.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "patio",
+      "pronunciation_uz": "patio",
+      "uzbek": "ichki hovli maydonchasi",
+      "pos": "noun",
+      "example_en": "We set up a grill on the stone patio.",
+      "example_uz": "Biz tosh yotqizilgan hovli maydonchasiga mangal oʻrnatdik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "courtyard",
+      "pronunciation_uz": "kortyard",
+      "uzbek": "ichki hovli, sahn",
+      "pos": "noun",
+      "example_en": "Traditional Uzbek houses have a shady courtyard.",
+      "example_uz": "Anʼanaviy oʻzbek uylarida soyali ichki hovli boʻladi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "pantry",
+      "pronunciation_uz": "pentri",
+      "uzbek": "oziq-ovqat omborxonasi",
+      "pos": "noun",
+      "example_en": "Keep canned goods and flour in the cool pantry.",
+      "example_uz": "Konservalar va unni salqin omborxonada saqlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "nursery",
+      "pronunciation_uz": "nyorseri",
+      "uzbek": "bolalar xonasi",
+      "pos": "noun",
+      "example_en": "They painted the nursery walls pale yellow.",
+      "example_uz": "Ular bolalar xonasi devorlarini och sariq rangga boʻyashdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "laundry room",
+      "pronunciation_uz": "londri rum",
+      "uzbek": "kir yuvish xonasi",
+      "pos": "noun",
+      "example_en": "Hang the damp shirts in the laundry room.",
+      "example_uz": "Nam koʻylaklarni kir yuvish xonasiga osib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "garage",
+      "pronunciation_uz": "garaj",
+      "uzbek": "garaj",
+      "pos": "noun",
+      "example_en": "He parked his car inside the garage.",
+      "example_uz": "U mashinasini garaj ichiga qoʻydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "driveway",
+      "pronunciation_uz": "drayvvey",
+      "uzbek": "uy oldidagi mashina yoʻlagi",
+      "pos": "noun",
+      "example_en": "Clear the snow from the driveway before driving out.",
+      "example_uz": "Mashinada chiqishdan oldin yoʻlakdagi qorni kurab tashlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "chimney",
+      "pronunciation_uz": "chimni",
+      "uzbek": "moʻri, dudburon",
+      "pos": "noun",
+      "example_en": "Smoke rose slowly from the brick chimney.",
+      "example_uz": "Gʻishtli moʻridan tutun sekin koʻtarildi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "fireplace",
+      "pronunciation_uz": "fayrpleys",
+      "uzbek": "kamin, oʻchoq",
+      "pos": "noun",
+      "example_en": "We gathered around the warm fireplace in winter.",
+      "example_uz": "Qishda issiq kamin atrofida toʻplandik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "staircase",
+      "pronunciation_uz": "sterkeys",
+      "uzbek": "zina, zinapoya",
+      "pos": "noun",
+      "example_en": "The wooden staircase leads to the upper floor.",
+      "example_uz": "Yogʻoch zinapoya yuqori qavatga olib chiqadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "handrail",
+      "pronunciation_uz": "hendreyl",
+      "uzbek": "tutqich, zina panjarasi",
+      "pos": "noun",
+      "example_en": "Hold the handrail when walking down the stairs.",
+      "example_uz": "Zinadan tushayotganda tutqichni ushlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "windowsill",
+      "pronunciation_uz": "vindousil",
+      "uzbek": "deraza tokchasi",
+      "pos": "noun",
+      "example_en": "Three small cacti sit on the sunny windowsill.",
+      "example_uz": "Quyosh tushib turgan deraza tokchasida uchta kichik kaktus turibdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "shutter",
+      "pronunciation_uz": "shatter",
+      "uzbek": "deraza tavaqasi, panjarasi",
+      "pos": "noun",
+      "example_en": "Close the wooden shutters before the storm hits.",
+      "example_uz": "Boʻron boshlanishidan oldin yogʻoch deraza tavaqalarini yoping.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "blinds",
+      "pronunciation_uz": "blayndz",
+      "uzbek": "jalyuzi",
+      "pos": "noun",
+      "example_en": "Tilt the blinds to let in some morning light.",
+      "example_uz": "Ertalabki yorugʻlik kirishi uchun jalyuzini biroz oching.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "wallpaper",
+      "pronunciation_uz": "volpeyper",
+      "uzbek": "gulqogʻoz, oboy",
+      "pos": "noun",
+      "example_en": "We peeled off the old floral wallpaper.",
+      "example_uz": "Biz eski gulli gulqogʻozni shilib oldik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "tile",
+      "pronunciation_uz": "tayl",
+      "uzbek": "kafel, koshin, plitka",
+      "pos": "noun",
+      "example_en": "Ceramic tiles cover the bathroom walls.",
+      "example_uz": "Hammom devorlarini sopol kafellar qoplagan.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "linoleum",
+      "pronunciation_uz": "linoleum",
+      "uzbek": "linoleum",
+      "pos": "noun",
+      "example_en": "Linoleum is easy to mop and keep clean.",
+      "example_uz": "Linoleumni yuvish va toza saqlash oson.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "parquet",
+      "pronunciation_uz": "parket",
+      "uzbek": "parket",
+      "pos": "noun",
+      "example_en": "The oak parquet floor was freshly polished.",
+      "example_uz": "Eman daraxtidan qilingan parket pol yangi jilolangan edi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "rug",
+      "pronunciation_uz": "rag",
+      "uzbek": "gilamcha, sholcha",
+      "pos": "noun",
+      "example_en": "A soft wool rug lies beside the bed.",
+      "example_uz": "Karavot yonida yumshoq jun gilamcha toʻshalgan.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "doormat",
+      "pronunciation_uz": "dormet",
+      "uzbek": "ostona gilamchasi, oyogʻartgich",
+      "pos": "noun",
+      "example_en": "Wipe your muddy boots on the doormat.",
+      "example_uz": "Loy etiklarigizni ostona gilamchasiga artib oling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "armchair",
+      "pronunciation_uz": "armcher",
+      "uzbek": "kreslo",
+      "pos": "noun",
+      "example_en": "Grandfather reads the newspaper in his leather armchair.",
+      "example_uz": "Bobom charm kreslosida gazeta oʻqiydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "stool",
+      "pronunciation_uz": "stul",
+      "uzbek": "kursi, taburetka",
+      "pos": "noun",
+      "example_en": "She sat on a high wooden stool at the counter.",
+      "example_uz": "U peshtaxta oldidagi baland yogʻoch taburetkada oʻtirdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "bookshelf",
+      "pronunciation_uz": "bukshrelf",
+      "uzbek": "kitob javoni",
+      "pos": "noun",
+      "example_en": "Every bookshelf in his study is packed with novels.",
+      "example_uz": "Uning ish xonasidagi har bir kitob javoni romanlar bilan toʻla.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "bookcase",
+      "pronunciation_uz": "bukkeys",
+      "uzbek": "kitob shkafi",
+      "pos": "noun",
+      "example_en": "We assembled a tall oak bookcase yesterday.",
+      "example_uz": "Kecha biz baland eman kitob shkafini yigʻdik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "wardrobe",
+      "pronunciation_uz": "vordroub",
+      "uzbek": "kiyim shkafi, garderob",
+      "pos": "noun",
+      "example_en": "Hang your winter coat inside the wardrobe.",
+      "example_uz": "Qishki paltongizni kiyim shkafi ichiga ilib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "closet",
+      "pronunciation_uz": "klozet",
+      "uzbek": "devoriy shkaf, kichik xonacha",
+      "pos": "noun",
+      "example_en": "Extra blankets are stored in the hall closet.",
+      "example_uz": "Qoʻshimcha adyollar yoʻlakdagi shkafda saqlanadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "cupboard",
+      "pronunciation_uz": "kaberd",
+      "uzbek": "idish-tovoq javoni, shkafcha",
+      "pos": "noun",
+      "example_en": "Put the dry teacups back into the cupboard.",
+      "example_uz": "Quruq piyolalarni javonga qaytarib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "dresser",
+      "pronunciation_uz": "dresser",
+      "uzbek": "koʻzguli komod, tryumo",
+      "pos": "noun",
+      "example_en": "She left her comb on top of the dresser.",
+      "example_uz": "U tarogʻini komod ustida qoldirdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "nightstand",
+      "pronunciation_uz": "naytstend",
+      "uzbek": "karavot yonidagi tumbichka",
+      "pos": "noun",
+      "example_en": "He placed his glasses on the nightstand.",
+      "example_uz": "U koʻzoynagini karavot yonidagi tumbichkaga qoʻydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "cradle",
+      "pronunciation_uz": "kreydl",
+      "uzbek": "beshik, belanchak",
+      "pos": "noun",
+      "example_en": "The mother gently rocked the wooden cradle.",
+      "example_uz": "Ona yogʻoch beshikni ohista tebratdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "crib",
+      "pronunciation_uz": "krib",
+      "uzbek": "chaqaloq karavotchasi",
+      "pos": "noun",
+      "example_en": "The baby is sleeping peacefully in the crib.",
+      "example_uz": "Chaqaloq oʻz karavotchasida tinch uxlayapti.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "mattress",
+      "pronunciation_uz": "mettres",
+      "uzbek": "matras, toʻshak",
+      "pos": "noun",
+      "example_en": "A firm mattress supports your spine while sleeping.",
+      "example_uz": "Qattiq matras uxlayotganda umurtqa pogʻonasini tutib turadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "pillowcase",
+      "pronunciation_uz": "pilloukeys",
+      "uzbek": "yostiq jildi",
+      "pos": "noun",
+      "example_en": "Change the cotton pillowcases once a week.",
+      "example_uz": "Paxtali yostiq jildlarini haftada bir marta almashtiring.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "bedsheet",
+      "pronunciation_uz": "bedshit",
+      "uzbek": "choyshab",
+      "pos": "noun",
+      "example_en": "Freshly washed bedsheets smell wonderful.",
+      "example_uz": "Yangi yuvilgan choyshablar ajoyib hid taratadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "duvet",
+      "pronunciation_uz": "duvey",
+      "uzbek": "par koʻrpa",
+      "pos": "noun",
+      "example_en": "In winter we use a thick down duvet.",
+      "example_uz": "Qishda biz qalin par koʻrpa ishlatamiz.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "quilt",
+      "pronunciation_uz": "kvilt",
+      "uzbek": "qavilgan koʻrpa, quroq koʻrpa",
+      "pos": "noun",
+      "example_en": "My grandmother sewed this patchwork quilt by hand.",
+      "example_uz": "Bu quroq koʻrpani buvim qoʻlda tikkanlar.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "chandelier",
+      "pronunciation_uz": "shendelir",
+      "uzbek": "qandil",
+      "pos": "noun",
+      "example_en": "Dust the chandelier carefully with a soft cloth.",
+      "example_uz": "Qandil changini yumshoq mato bilan ehtiyotkorlik bilan arting.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "lantern",
+      "pronunciation_uz": "lentern",
+      "uzbek": "fonus, chiroq",
+      "pos": "noun",
+      "example_en": "Hang a solar lantern near the garden gate.",
+      "example_uz": "Bogʻ darvozasi yoniga quyosh batareyali fonus osib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "lightbulb",
+      "pronunciation_uz": "laytbalb",
+      "uzbek": "lampochka",
+      "pos": "noun",
+      "example_en": "We need to replace the burnt-out lightbulb.",
+      "example_uz": "Kuyib qolgan lampochkani almashtirishimiz kerak.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "socket",
+      "pronunciation_uz": "soket",
+      "uzbek": "rozetka",
+      "pos": "noun",
+      "example_en": "Do not touch the electrical socket with wet hands.",
+      "example_uz": "Elektr rozetkasiga hoʻl qoʻl bilan tegmang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "switch",
+      "pronunciation_uz": "svitch",
+      "uzbek": "viklyuchatel, chiroq tugmasi",
+      "pos": "noun",
+      "example_en": "Flip the wall switch to turn on the light.",
+      "example_uz": "Chiroqni yoqish uchun devordagi tugmani bosing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "plug",
+      "pronunciation_uz": "plag",
+      "uzbek": "shtepsel vilkasi, tiqin",
+      "pos": "noun",
+      "example_en": "Insert the plug firmly into the outlet.",
+      "example_uz": "Vilkani rozetkaga mahkam tiqing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "extension cord",
+      "pronunciation_uz": "ekstenshn kord",
+      "uzbek": "uzaytirgich sim",
+      "pos": "noun",
+      "example_en": "Use an extension cord so the vacuum reaches the corner.",
+      "example_uz": "Changyutgich burchakka yetishi uchun uzaytirgich sim ishlating.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "radiator",
+      "pronunciation_uz": "reydeyter",
+      "uzbek": "isitish batareyasi, radiator",
+      "pos": "noun",
+      "example_en": "The cast-iron radiator keeps the bedroom cozy.",
+      "example_uz": "Choʻyan radiator yotoqxonani issiq saqlaydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "thermostat",
+      "pronunciation_uz": "termostat",
+      "uzbek": "termostat, harorat rostlagich",
+      "pos": "noun",
+      "example_en": "Set the thermostat to twenty-two degrees.",
+      "example_uz": "Termostatni yigirma ikki darajaga sozlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "air conditioner",
+      "pronunciation_uz": "er kondishner",
+      "uzbek": "konditsioner",
+      "pos": "noun",
+      "example_en": "Turn on the air conditioner during the July heatwave.",
+      "example_uz": "Iyul jaziramasida konditsionerni yoqing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "heater",
+      "pronunciation_uz": "hiter",
+      "uzbek": "isitgich, pech",
+      "pos": "noun",
+      "example_en": "We bought an electric heater for the cold workshop.",
+      "example_uz": "Sovuq ustaxona uchun elektr isitgich sotib oldik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "boiler",
+      "pronunciation_uz": "boyler",
+      "uzbek": "suv isitish qozoni, boyler",
+      "pos": "noun",
+      "example_en": "The gas boiler provides hot water for the house.",
+      "example_uz": "Gaz qozoni uyni issiq suv bilan taʼminlaydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "refrigerator",
+      "pronunciation_uz": "rifrijereytor",
+      "uzbek": "muzlatkich, xolodilnik",
+      "pos": "noun",
+      "example_en": "Store fresh dairy products inside the refrigerator.",
+      "example_uz": "Yangi sut mahsulotlarini muzlatkich ichida saqlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "freezer",
+      "pronunciation_uz": "frizer",
+      "uzbek": "muzlatish kamerasi",
+      "pos": "noun",
+      "example_en": "Put the berries in the freezer for winter.",
+      "example_uz": "Rezavorlarni qish uchun muzlatish kamerasiga solib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "dishwasher",
+      "pronunciation_uz": "dishvosher",
+      "uzbek": "idish yuvish mashinasi",
+      "pos": "noun",
+      "example_en": "Load the dirty plates into the dishwasher.",
+      "example_uz": "Kir likopchalarni idish yuvish mashinasiga joylang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "washing machine",
+      "pronunciation_uz": "voshing mashin",
+      "uzbek": "kir yuvish mashinasi",
+      "pos": "noun",
+      "example_en": "The washing machine just finished its spin cycle.",
+      "example_uz": "Kir yuvish mashinasi hozirgina siqish jarayonini tugatdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "dryer",
+      "pronunciation_uz": "drayer",
+      "uzbek": "quritish mashinasi, quritgich",
+      "pos": "noun",
+      "example_en": "Take the towels out of the tumble dryer.",
+      "example_uz": "Sochiqlarni quritish mashinasidan oling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "vacuum cleaner",
+      "pronunciation_uz": "vakyum kliner",
+      "uzbek": "changyutgich",
+      "pos": "noun",
+      "example_en": "Run the vacuum cleaner over the living room rug.",
+      "example_uz": "Mehmonxona gilami ustidan changyutgich yurgizing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "ironing board",
+      "pronunciation_uz": "ayroning bord",
+      "uzbek": "dazmol taxtasi",
+      "pos": "noun",
+      "example_en": "Unfold the ironing board to press your trousers.",
+      "example_uz": "Shimingizni dazmollash uchun dazmol taxtasini yozing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "sewing machine",
+      "pronunciation_uz": "souing mashin",
+      "uzbek": "tikuv mashinasi",
+      "pos": "noun",
+      "example_en": "She hemmed the curtains on her sewing machine.",
+      "example_uz": "U tikuv mashinasida pardaning etagini qayirib tikdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "humidifier",
+      "pronunciation_uz": "hyumidifayer",
+      "uzbek": "havo namlagich",
+      "pos": "noun",
+      "example_en": "A humidifier prevents dry air in the winter.",
+      "example_uz": "Havo namlagich qishda havo qurib ketishining oldini oladi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "sink",
+      "pronunciation_uz": "sink",
+      "uzbek": "rakovina, chanoq",
+      "pos": "noun",
+      "example_en": "Rinse the vegetables in the kitchen sink.",
+      "example_uz": "Sabzavotlarni oshxona rakovinasida chayib oling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "tap",
+      "pronunciation_uz": "tep",
+      "uzbek": "suv joʻmragi",
+      "pos": "noun",
+      "example_en": "Cold water flows from the right tap.",
+      "example_uz": "Oʻng joʻmrakdan sovuq suv oqadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "pipe",
+      "pronunciation_uz": "payp",
+      "uzbek": "quvur, truba",
+      "pos": "noun",
+      "example_en": "A frozen water pipe burst under the sink.",
+      "example_uz": "Rakovina ostidagi muzlab qolgan suv quvuri yorilib ketdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "plumber",
+      "pronunciation_uz": "plamer",
+      "uzbek": "santexnik, chilangar",
+      "pos": "noun",
+      "example_en": "Call a plumber to fix the leaking toilet.",
+      "example_uz": "Suv oqayotgan unitazni tuzatish uchun santexnik chaqiring.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "bathtub",
+      "pronunciation_uz": "bastab",
+      "uzbek": "vanna",
+      "pos": "noun",
+      "example_en": "She filled the bathtub with warm soapy water.",
+      "example_uz": "U vannani iliq koʻpikli suvga toʻldirdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "shower",
+      "pronunciation_uz": "shauer",
+      "uzbek": "dush",
+      "pos": "noun",
+      "example_en": "I always take a quick shower after jogging.",
+      "example_uz": "Men yugurishdan keyin har doim tez dush qabul qilaman.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "sponge",
+      "pronunciation_uz": "spanj",
+      "uzbek": "gubka, shimgich",
+      "pos": "noun",
+      "example_en": "Scrub the greasy pan with a wet sponge.",
+      "example_uz": "Yogʻli tovani hoʻl gubka bilan ishqalab yuving.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "dustpan",
+      "pronunciation_uz": "dastpen",
+      "uzbek": "axlat kurakchasi, xokandoz",
+      "pos": "noun",
+      "example_en": "Sweep the broken glass into the dustpan.",
+      "example_uz": "Singan shisha boʻlaklarini xokandozga supurib oling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "mop",
+      "pronunciation_uz": "mop",
+      "uzbek": "pol yuvgich, shvabra",
+      "pos": "noun",
+      "example_en": "Use a damp mop to clean the kitchen floor.",
+      "example_uz": "Oshxona polini tozalash uchun nam shvabra ishlating.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "rag",
+      "pronunciation_uz": "reg",
+      "uzbek": "latta, artgich mato",
+      "pos": "noun",
+      "example_en": "Wipe the dusty shelves with a clean rag.",
+      "example_uz": "Chang bosgan tokchalarni toza latta bilan arting.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "duster",
+      "pronunciation_uz": "daster",
+      "uzbek": "chang artgich",
+      "pos": "noun",
+      "example_en": "Use a feather duster for delicate picture frames.",
+      "example_uz": "Nozik rasm ramkalari uchun patli chang artgich ishlating.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "detergent",
+      "pronunciation_uz": "diterjent",
+      "uzbek": "kir yuvish vositasi, kukun",
+      "pos": "noun",
+      "example_en": "Add one scoop of laundry detergent to the drum.",
+      "example_uz": "Barabanga bir qoshiq kir yuvish kukunidan soling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "bleach",
+      "pronunciation_uz": "blich",
+      "uzbek": "oqartiruvchi vosita, xlor",
+      "pos": "noun",
+      "example_en": "Use bleach carefully when washing white linens.",
+      "example_uz": "Oq choyshablarni yuvayotganda oqartirgichni ehtiyot boʻlib ishlating.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "stain",
+      "pronunciation_uz": "steyn",
+      "uzbek": "dogʻ",
+      "pos": "noun",
+      "example_en": "Baking soda helped remove the coffee stain.",
+      "example_uz": "Isteʼmol sodasi qahva dogʻini ketkazishga yordam berdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "trash",
+      "pronunciation_uz": "tresh",
+      "uzbek": "axlat, chiqindi",
+      "pos": "noun",
+      "example_en": "Please take out the trash before dinner.",
+      "example_uz": "Iltimos, kechki ovqatdan oldin axlatni tashlab keling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "wastebasket",
+      "pronunciation_uz": "veystbasket",
+      "uzbek": "qogʻoz va chiqindi savatchasi",
+      "pos": "noun",
+      "example_en": "Toss the crumpled paper into the wastebasket.",
+      "example_uz": "Gʻijimlangan qogʻozni chiqindi savatchasiga tashlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "recycle",
+      "pronunciation_uz": "risaykl",
+      "uzbek": "qayta ishlamoq",
+      "pos": "verb",
+      "example_en": "We sort plastic bottles and cardboard to recycle them.",
+      "example_uz": "Biz plastik idishlar va kartonni qayta ishlash uchun saralaymiz.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "sweep",
+      "pronunciation_uz": "svip",
+      "uzbek": "supurmoq",
+      "pos": "verb",
+      "example_en": "She went outside to sweep the front steps.",
+      "example_uz": "U old zinapoyalarni supurish uchun tashqariga chiqdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "scrub",
+      "pronunciation_uz": "skrab",
+      "uzbek": "ishqalab yuvmoq",
+      "pos": "verb",
+      "example_en": "You need to scrub the bathroom tiles with a brush.",
+      "example_uz": "Hammom kafellarini choʻtka bilan ishqalab yuvishingiz kerak.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "wipe",
+      "pronunciation_uz": "vayp",
+      "uzbek": "artmoq",
+      "pos": "verb",
+      "example_en": "Wipe the dining table after the children finish eating.",
+      "example_uz": "Bolalar ovqatlanib boʻlgach, ovqatlanish stolini arting.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "polish",
+      "pronunciation_uz": "polish",
+      "uzbek": "jilolamoq, yaltiratmoq",
+      "pos": "verb",
+      "example_en": "Beeswax is great to polish wooden furniture.",
+      "example_uz": "Asalari mumi yogʻoch mebellarni jilolash uchun juda yaxshi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "rinse",
+      "pronunciation_uz": "rins",
+      "uzbek": "chaymoq",
+      "pos": "verb",
+      "example_en": "Rinse the soap off the plates with clean water.",
+      "example_uz": "Likopchalardagi sovunni toza suv bilan chayib tashlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "soak",
+      "pronunciation_uz": "souk",
+      "uzbek": "ivitib qoʻymoq, boʻktirmoq",
+      "pos": "verb",
+      "example_en": "Soak the burnt pot in warm water overnight.",
+      "example_uz": "Kuygan qozonni tun boʻyi iliq suvda ivitib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "declutter",
+      "pronunciation_uz": "diklatter",
+      "uzbek": "ortiqcha narsalardan tozalamoq",
+      "pos": "verb",
+      "example_en": "We spent Saturday trying to declutter the garage.",
+      "example_uz": "Shanba kunini garajni ortiqcha narsalardan tozalashga sarfladik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "tidy",
+      "pronunciation_uz": "taydi",
+      "uzbek": "tartibli, sarishta",
+      "pos": "adj",
+      "example_en": "She always keeps her study desk neat and tidy.",
+      "example_uz": "U ish stolini doimo ozoda va sarishta saqlaydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "messy",
+      "pronunciation_uz": "messi",
+      "uzbek": "tartibsiz, ivirsiq",
+      "pos": "adj",
+      "example_en": "Clean up your messy room before guests arrive.",
+      "example_uz": "Mehmonlar kelishidan oldin tartibsiz xonangizni yigʻishtiring.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "spotless",
+      "pronunciation_uz": "spotles",
+      "uzbek": "top-toza, begʻubor",
+      "pos": "adj",
+      "example_en": "After three hours of cleaning, the kitchen was spotless.",
+      "example_uz": "Uch soatlik tozalashdan soʻng oshxona top-toza boʻldi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "spacious",
+      "pronunciation_uz": "speyshes",
+      "uzbek": "keng, katta",
+      "pos": "adj",
+      "example_en": "The apartment has a spacious living room with tall windows.",
+      "example_uz": "Kvartirada baland derazali keng mehmonxona bor.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "cramped",
+      "pronunciation_uz": "krempt",
+      "uzbek": "tor, tiqilinch",
+      "pos": "adj",
+      "example_en": "The tiny storage room felt dark and cramped.",
+      "example_uz": "Kichkina omborxona qorongʻi va tor tuyuldi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "chore",
+      "pronunciation_uz": "chor",
+      "uzbek": "uy yumushi, roʻzgʻor ishi",
+      "pos": "noun",
+      "example_en": "Every child in the house has a daily chore.",
+      "example_uz": "Uydagi har bir bolaning kundalik uy yumushi bor.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "housework",
+      "pronunciation_uz": "hausvork",
+      "uzbek": "uy ishlari",
+      "pos": "noun",
+      "example_en": "They share the housework equally on weekends.",
+      "example_uz": "Dam olish kunlari ular uy ishlarini teng boʻlishadilar.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "upkeep",
+      "pronunciation_uz": "apkip",
+      "uzbek": "parvarish, saqlash xarajati",
+      "pos": "noun",
+      "example_en": "An old house requires constant upkeep and repair.",
+      "example_uz": "Eski uy doimiy parvarish va taʼmirni talab qiladi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "remodel",
+      "pronunciation_uz": "rimodl",
+      "uzbek": "qayta qurmoq, shaklini oʻzgartirmoq",
+      "pos": "verb",
+      "example_en": "We knocked down a wall to remodel the dining area.",
+      "example_uz": "Ovqatlanish xonasini qayta qurish uchun devorni buzib tashladik.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "whitewash",
+      "pronunciation_uz": "vaytvosh",
+      "uzbek": "ohaklamoq, oqlamoq",
+      "pos": "verb",
+      "example_en": "In spring villagers whitewash the trunks of fruit trees.",
+      "example_uz": "Bahorda qishloq ahli mevali daraxt tanalarini oqlaydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "plaster",
+      "pronunciation_uz": "plaster",
+      "uzbek": "suvoq, ganch",
+      "pos": "noun",
+      "example_en": "Cracks appeared in the old ceiling plaster.",
+      "example_uz": "Eski shift suvogʻida yoriqlar paydo boʻldi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "gutter",
+      "pronunciation_uz": "gatter",
+      "uzbek": "tarnov",
+      "pos": "noun",
+      "example_en": "Autumn leaves blocked the rain gutter on the roof.",
+      "example_uz": "Kuzgi barglar tomdagi yomgʻir tarnovini toʻsib qoʻydi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "shingle",
+      "pronunciation_uz": "shingl",
+      "uzbek": "tom yopqich plitasi, cherepitsa",
+      "pos": "noun",
+      "example_en": "Strong wind blew several shingles off the roof.",
+      "example_uz": "Kuchli shamol tomdan bir nechta cherepitsani uchirib ketdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "gate",
+      "pronunciation_uz": "geyt",
+      "uzbek": "darvoza, eshikcha",
+      "pos": "noun",
+      "example_en": "Please latch the iron gate when you leave.",
+      "example_uz": "Chiqib ketayotganingizda temir darvozani ilib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hedge",
+      "pronunciation_uz": "hedj",
+      "uzbek": "jonli devor, buta toʻsiq",
+      "pos": "noun",
+      "example_en": "He trimmed the green hedge with garden shears.",
+      "example_uz": "U yashil buta toʻsiqni bogʻ qaychisi bilan tekisladi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "lawn",
+      "pronunciation_uz": "lon",
+      "uzbek": "maysazor, gazon",
+      "pos": "noun",
+      "example_en": "My neighbor waters his green lawn every evening.",
+      "example_uz": "Qoʻshnim har oqshom yashil maysazorini sugʻoradi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "lawnmower",
+      "pronunciation_uz": "lonmouer",
+      "uzbek": "maysa oʻrgich",
+      "pos": "noun",
+      "example_en": "The electric lawnmower makes cutting grass easy.",
+      "example_uz": "Elektr maysa oʻrgich oʻt oʻrishni osonlashtiradi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hose",
+      "pronunciation_uz": "houz",
+      "uzbek": "shlang, rezina ichak",
+      "pos": "noun",
+      "example_en": "Use the garden hose to wash the muddy bicycle.",
+      "example_uz": "Loy boʻlgan velosipedni yuvish uchun bogʻ shlangidan foydalaning.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "sprinkler",
+      "pronunciation_uz": "sprinkler",
+      "uzbek": "suv purkagich",
+      "pos": "noun",
+      "example_en": "The rotating sprinkler watered the flowerbed.",
+      "example_uz": "Aylanma suv purkagich gulzorni sugʻordi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "flowerpot",
+      "pronunciation_uz": "flauerpot",
+      "uzbek": "gul tuvagi, tuvak",
+      "pos": "noun",
+      "example_en": "Put the clay flowerpot on the sunny balcony.",
+      "example_uz": "Sopol gul tuvagini quyoshli balkonga qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "wheelbarrow",
+      "pronunciation_uz": "vilberrou",
+      "uzbek": "gʻildirakli zambil, aravacha",
+      "pos": "noun",
+      "example_en": "He pushed a wheelbarrow full of garden soil.",
+      "example_uz": "U bogʻ tuprogʻiga toʻla gʻildirakli aravachani itarib bordi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "shovel",
+      "pronunciation_uz": "shavl",
+      "uzbek": "belkurak, lopatka",
+      "pos": "noun",
+      "example_en": "Use a flat shovel to clear snow from the path.",
+      "example_uz": "Yoʻlakdagi qorni tozalash uchun yassi belkurak ishlating.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "spade",
+      "pronunciation_uz": "speyd",
+      "uzbek": "bel, oʻtkir belkurak",
+      "pos": "noun",
+      "example_en": "Dig a deep hole for the sapling with a spade.",
+      "example_uz": "Koʻchat uchun bel bilan chuqur kovlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "rake",
+      "pronunciation_uz": "reyk",
+      "uzbek": "xaskash",
+      "pos": "noun",
+      "example_en": "Gather the fallen leaves into a pile with a rake.",
+      "example_uz": "Toʻkilgan barglarni xaskash bilan bir uyimga toʻplang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hoe",
+      "pronunciation_uz": "hou",
+      "uzbek": "ketmon, chopiq asbobi",
+      "pos": "noun",
+      "example_en": "The farmer used a sharp hoe to clear weeds.",
+      "example_uz": "Dehqon begona oʻtlarni tozalash uchun oʻtkir ketmon ishlatdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "shed",
+      "pronunciation_uz": "shed",
+      "uzbek": "omborcha, bostirma",
+      "pos": "noun",
+      "example_en": "Keep the garden tools locked inside the wooden shed.",
+      "example_uz": "Bogʻ asboblarini yogʻoch bostirma ichida qulflab saqlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "padlock",
+      "pronunciation_uz": "pedlok",
+      "uzbek": "osma qulf",
+      "pos": "noun",
+      "example_en": "He secured the shed door with a brass padlock.",
+      "example_uz": "U bostirma eshigini mis osma qulf bilan mahkamladi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hinge",
+      "pronunciation_uz": "hinj",
+      "uzbek": "eshik oshiq-moshigʻi, sharnir",
+      "pos": "noun",
+      "example_en": "Put a drop of oil on the squeaky door hinge.",
+      "example_uz": "Gʻiyqillayotgan eshik oshiq-moshigʻiga bir tomchi moy tomizing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "doorknob",
+      "pronunciation_uz": "dornob",
+      "uzbek": "eshik dastagi, tutqichi",
+      "pos": "noun",
+      "example_en": "Turn the brass doorknob to open the study.",
+      "example_uz": "Ish xonasini ochish uchun mis eshik dastagini burang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "latch",
+      "pronunciation_uz": "letch",
+      "uzbek": "zulfin, tamba",
+      "pos": "noun",
+      "example_en": "Slide the wooden latch to lock the gate.",
+      "example_uz": "Darvozani yopish uchun yogʻoch zulfinni suring.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "doorbell",
+      "pronunciation_uz": "dorbel",
+      "uzbek": "eshik qoʻngʻirogʻi",
+      "pos": "noun",
+      "example_en": "Someone is ringing the front doorbell.",
+      "example_uz": "Kimdir kirish eshigi qoʻngʻirogʻini chalyapti.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "peephole",
+      "pronunciation_uz": "piphoul",
+      "uzbek": "eshik koʻzchasi",
+      "pos": "noun",
+      "example_en": "Look through the peephole before opening the door.",
+      "example_uz": "Eshikni ochishdan oldin eshik koʻzchasidan qarang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hammer",
+      "pronunciation_uz": "hemmer",
+      "uzbek": "bolgʻa",
+      "pos": "noun",
+      "example_en": "He used a hammer to drive the nail into the wall.",
+      "example_uz": "U mixni devorga qoqish uchun bolgʻa ishlatdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "nail",
+      "pronunciation_uz": "neyl",
+      "uzbek": "mix",
+      "pos": "noun",
+      "example_en": "Hang the framed painting on a sturdy nail.",
+      "example_uz": "Ramkali suratni mustahkam mixga ilib qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "screw",
+      "pronunciation_uz": "skru",
+      "uzbek": "burama mix, vint, shurup",
+      "pos": "noun",
+      "example_en": "Tighten the loose screw on the chair leg.",
+      "example_uz": "Stul oyogʻidagi boʻshab qolgan burama mixni qotiring.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "screwdriver",
+      "pronunciation_uz": "skrudrayver",
+      "uzbek": "otvyortka, buragich",
+      "pos": "noun",
+      "example_en": "Hand me the flathead screwdriver from the toolbox.",
+      "example_uz": "Asboblar qutisidan yassi otvyortkani menga uzating.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "wrench",
+      "pronunciation_uz": "rench",
+      "uzbek": "gayka kaliti",
+      "pos": "noun",
+      "example_en": "The plumber used a heavy wrench to tighten the nut.",
+      "example_uz": "Santexnik gaykani qotirish uchun ogʻir kalit ishlatdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "pliers",
+      "pronunciation_uz": "players",
+      "uzbek": "ombir",
+      "pos": "noun",
+      "example_en": "Use pliers to pull out the bent wire.",
+      "example_uz": "Qiyshaygan simni sugʻurib olish uchun ombir ishlating.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "saw",
+      "pronunciation_uz": "so",
+      "uzbek": "arra",
+      "pos": "noun",
+      "example_en": "He cut the dry firewood with a hand saw.",
+      "example_uz": "U quruq oʻtinni qoʻl arrasi bilan kesdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "ladder",
+      "pronunciation_uz": "ledder",
+      "uzbek": "narvon, shoti",
+      "pos": "noun",
+      "example_en": "Climb the aluminum ladder carefully to reach the roof.",
+      "example_uz": "Tomga chiqish uchun alyuminiy narvonga ehtiyot boʻlib tirmashing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "toolbox",
+      "pronunciation_uz": "tulboks",
+      "uzbek": "asboblar qutisi",
+      "pos": "noun",
+      "example_en": "Keep all your wrenches and nails in the metal toolbox.",
+      "example_uz": "Barcha kalit va mixlaringizni temir asboblar qutisida saqlang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "paintbrush",
+      "pronunciation_uz": "peyntbrash",
+      "uzbek": "boʻyoq choʻtkasi",
+      "pos": "noun",
+      "example_en": "Wash the paintbrush thoroughly after painting the trim.",
+      "example_uz": "Hoshiyani boʻyab boʻlgach, boʻyoq choʻtkasini yaxshilab yuving.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "sandpaper",
+      "pronunciation_uz": "sendpeyper",
+      "uzbek": "qumqogʻoz, jilvir qogʻoz",
+      "pos": "noun",
+      "example_en": "Smooth the rough wood surface with fine sandpaper.",
+      "example_uz": "Gʻadir-budur yogʻoch yuzasini mayin qumqogʻoz bilan tekislang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "glue",
+      "pronunciation_uz": "glu",
+      "uzbek": "yelim, kley",
+      "pos": "noun",
+      "example_en": "Use wood glue to mend the broken drawer.",
+      "example_uz": "Singan tortmani yamash uchun yogʻoch yelimidan foydalaning.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "tape measure",
+      "pronunciation_uz": "teyp mejer",
+      "uzbek": "oʻlchov lentasi, ruletka",
+      "pos": "noun",
+      "example_en": "Measure the width of the window with a tape measure.",
+      "example_uz": "Deraza kengligini ruletka bilan oʻlchang.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "vase",
+      "pronunciation_uz": "veyz",
+      "uzbek": "guldon, vaza",
+      "pos": "noun",
+      "example_en": "Put the fresh tulips in a glass vase with water.",
+      "example_uz": "Yangi lolalarni suvli shisha guldonga soling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "cellar",
+      "pronunciation_uz": "sellar",
+      "uzbek": "yertoʻla, salqin ombor",
+      "pos": "noun",
+      "example_en": "We keep jars of pickled cucumbers in the cool cellar.",
+      "example_uz": "Biz tuzlangan bodring bankalarini salqin yertoʻlada saqlaymiz.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "loft",
+      "pronunciation_uz": "loft",
+      "uzbek": "boloxona, chordoq xona",
+      "pos": "noun",
+      "example_en": "They converted the sunny loft into an art studio.",
+      "example_uz": "Ular quyoshli boloxonani rassomlik ustaxonasiga aylantirishdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "alcove",
+      "pronunciation_uz": "elkouv",
+      "uzbek": "tokcha, taxmon, xona ichidagi chuqurcha",
+      "pos": "noun",
+      "example_en": "Quilts and pillows are stacked neatly in the alcove.",
+      "example_uz": "Koʻrpa va yostiqlar taxmonga chiroyli qilib taxlangan.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "eaves",
+      "pronunciation_uz": "ivz",
+      "uzbek": "bostirma cheti, karniz, boʻgʻot",
+      "pos": "noun",
+      "example_en": "Swallows built a mud nest under the eaves of the roof.",
+      "example_uz": "Qaldirgʻochlar tom boʻgʻoti ostiga loydan uya qurdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "skylight",
+      "pronunciation_uz": "skaylayt",
+      "uzbek": "tomdagi deraza, tuynuk",
+      "pos": "noun",
+      "example_en": "Sunlight pours into the stairwell through the glass skylight.",
+      "example_uz": "Shisha tuynuk orqali zinapoya maydonchasiga quyosh nuri tushib turadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "windowpane",
+      "pronunciation_uz": "vindoupeyn",
+      "uzbek": "deraza oynasi",
+      "pos": "noun",
+      "example_en": "Raindrops tapped gently against the windowpane.",
+      "example_uz": "Yomgʻir tomchilari deraza oynasiga ohista urilardi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "baseboard",
+      "pronunciation_uz": "beysbord",
+      "uzbek": "plintus (pol va devor tutashgan hoshiya)",
+      "pos": "noun",
+      "example_en": "Wipe the dust along the wooden baseboard.",
+      "example_uz": "Yogʻoch plintus boʻylab changni artib oling.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "banister",
+      "pronunciation_uz": "benister",
+      "uzbek": "zina panjarasi, tutqichi",
+      "pos": "noun",
+      "example_en": "The carpenter polished the carved oak banister.",
+      "example_uz": "Duradgor oʻymakor eman zina panjarasini jiloladi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "mantelpiece",
+      "pronunciation_uz": "mentlpis",
+      "uzbek": "kamin tokchasi",
+      "pos": "noun",
+      "example_en": "An antique clock stands on the mantelpiece.",
+      "example_uz": "Kamin tokchasida qadimiy soat turibdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hearth",
+      "pronunciation_uz": "hars",
+      "uzbek": "oʻchoq, kamin oldi",
+      "pos": "noun",
+      "example_en": "The family gathered around the warm hearth.",
+      "example_uz": "Oila issiq oʻchoq atrofida jam boʻldi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "headboard",
+      "pronunciation_uz": "hedbord",
+      "uzbek": "karavot suyanchigʻi (bosh qismi)",
+      "pos": "noun",
+      "example_en": "The wooden headboard is carved with floral motifs.",
+      "example_uz": "Karavotning yogʻoch suyanchigʻi gul naqshlari bilan oʻyilgan.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "bunk bed",
+      "pronunciation_uz": "bank bed",
+      "uzbek": "ikki qavatli karavot",
+      "pos": "noun",
+      "example_en": "The twin brothers sleep in a wooden bunk bed.",
+      "example_uz": "Egizak aka-ukalar ikki qavatli yogʻoch karavotda uxlaydilar.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "hammock",
+      "pronunciation_uz": "hemmok",
+      "uzbek": "gamak, osma toʻr belanchak",
+      "pos": "noun",
+      "example_en": "He read a book in the hammock between two apple trees.",
+      "example_uz": "U ikki olma daraxti orasiga osilgan gamakda kitob oʻqidi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "footstool",
+      "pronunciation_uz": "futstul",
+      "uzbek": "oyoq qoʻygich kursicha, pufik",
+      "pos": "noun",
+      "example_en": "Rest your tired feet on the padded footstool.",
+      "example_uz": "Charchagan oyoqlaringizni yumshoq kursicha ustiga qoʻying.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "sideboard",
+      "pronunciation_uz": "saydbord",
+      "uzbek": "servand, idish-tovoq javoni",
+      "pos": "noun",
+      "example_en": "Porcelain teapots are displayed inside the glass sideboard.",
+      "example_uz": "Oynavand servand ichida chinni choynaklar terib qoʻyilgan.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "lamp shade",
+      "pronunciation_uz": "lemp sheyd",
+      "uzbek": "abajur, chiroq qalpogʻi",
+      "pos": "noun",
+      "example_en": "The fabric lamp shade softens the bright light.",
+      "example_uz": "Mato abajur yorqin chiroq nurini yumshatib beradi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "fuse",
+      "pronunciation_uz": "fyuz",
+      "uzbek": "saqlagich (elektr saqlagichi)",
+      "pos": "noun",
+      "example_en": "The lights went out because a fuse blew.",
+      "example_uz": "Elektr saqlagichi kuyib qolgani sababli chiroq oʻchdi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "circuit breaker",
+      "pronunciation_uz": "syorkit breyker",
+      "uzbek": "avtomat oʻchirgich (elektr shitida)",
+      "pos": "noun",
+      "example_en": "Flip the circuit breaker back on after unplugging the heater.",
+      "example_uz": "Isitgichni rozetkadan sugʻurgandan soʻng avtomat oʻchirgichni yoqing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "water heater",
+      "pronunciation_uz": "voter hiter",
+      "uzbek": "suv isitgich, kolonka",
+      "pos": "noun",
+      "example_en": "The electric water heater warms fifty liters of water.",
+      "example_uz": "Elektr suv isitgich ellik litr suvni isitib beradi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "extractor hood",
+      "pronunciation_uz": "ikstrektor hud",
+      "uzbek": "oshxona havo tortgichi (vityajka)",
+      "pos": "noun",
+      "example_en": "Turn on the extractor hood while frying fish.",
+      "example_uz": "Baliq qovurayotganda oshxona havo tortgichini yoqing.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "cistern",
+      "pronunciation_uz": "sistern",
+      "uzbek": "suv baki, sardoba",
+      "pos": "noun",
+      "example_en": "Rainwater is collected in an underground cistern.",
+      "example_uz": "Yomgʻir suvi yer osti sardobasida toʻplanadi.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "valve",
+      "pronunciation_uz": "velv",
+      "uzbek": "klapan, ventil, joʻmrak qopqogʻi",
+      "pos": "noun",
+      "example_en": "Shut off the main gas valve before leaving for vacation.",
+      "example_uz": "Taʼtilga ketishdan oldin asosiy gaz ventilini yoping.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "putty",
+      "pronunciation_uz": "patti",
+      "uzbek": "zamaska, shpaklyovka",
+      "pos": "noun",
+      "example_en": "Fill the nail holes in the wall with white putty.",
+      "example_uz": "Devordagi mix oʻrinlarini oq shpaklyovka bilan toʻldiring.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    },
+    {
+      "english": "varnish",
+      "pronunciation_uz": "varnish",
+      "uzbek": "lak; laklamoq (yogʻochni)",
+      "pos": "noun",
+      "example_en": "Apply two coats of clear varnish to protect the wooden door.",
+      "example_uz": "Yogʻoch eshikni himoya qilish uchun ikki qavat tiniq lak surting.",
+      "category": "Uy-joy, jihozlar va roʻzgʻor"
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "title": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)",
+  "category": "IELTS/TOEFL Academic (S–Z)",
+  "group": "freq",
+  "words": [
+    {
+      "english": "sanction",
+      "pronunciation_uz": "senkshn",
+      "uzbek": "ruxsat; jazo chorasi (sanksiya)",
+      "pos": "noun",
+      "example_en": "The project cannot proceed without official sanction.",
+      "example_uz": "Loyiha rasmiy ruxsatsiz davom eta olmaydi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "scrutinize",
+      "pronunciation_uz": "skrutinayz",
+      "uzbek": "sinchiklab tekshirmoq",
+      "pos": "verb",
+      "example_en": "Auditors scrutinized the financial records.",
+      "example_uz": "Auditorlar moliyaviy hujjatlarni sinchiklab tekshirdilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "scrutiny",
+      "pronunciation_uz": "skrutini",
+      "uzbek": "sinchkov tekshiruv, diqqat-eʼtibor",
+      "pos": "noun",
+      "example_en": "The proposal came under close public scrutiny.",
+      "example_uz": "Taklif jamoatchilikning diqqatli tekshiruvi ostiga tushdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "secular",
+      "pronunciation_uz": "sekyule",
+      "uzbek": "dunyoviy",
+      "pos": "adj",
+      "example_en": "Public schools provide secular education.",
+      "example_uz": "Davlat maktablari dunyoviy taʼlim beradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "sedentary",
+      "pronunciation_uz": "sedenteri",
+      "uzbek": "kamharakat, oʻtroq",
+      "pos": "adj",
+      "example_en": "A sedentary lifestyle can harm your health.",
+      "example_uz": "Kamharakat turmush tarzi sogʻligʻingizga zarar yetkazishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "segment",
+      "pronunciation_uz": "segment",
+      "uzbek": "boʻlak, qism, segment",
+      "pos": "noun",
+      "example_en": "Small businesses form a vital segment of the economy.",
+      "example_uz": "Kichik biznes iqtisodiyotning muhim qismini tashkil etadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "sequence",
+      "pronunciation_uz": "sikvens",
+      "uzbek": "ketma-ketlik, izchillik",
+      "pos": "noun",
+      "example_en": "Arrange the events in chronological sequence.",
+      "example_uz": "Voqealarni vaqt ketma-ketligida joylashtiring.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "severity",
+      "pronunciation_uz": "siveriti",
+      "uzbek": "jiddiylik, ogʻirlik darajasi",
+      "pos": "noun",
+      "example_en": "Doctors assessed the severity of the injury.",
+      "example_uz": "Shifokorlar jarohatning ogʻirlik darajasini baholadilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "signify",
+      "pronunciation_uz": "signifay",
+      "uzbek": "anglatmoq, bildirmoq",
+      "pos": "verb",
+      "example_en": "What does the red symbol on the map signify?",
+      "example_uz": "Xaritadagi qizil belgi nimani anglatadi?",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "simulate",
+      "pronunciation_uz": "simyuleyt",
+      "uzbek": "imitatsiya qilmoq, modellashtirmoq",
+      "pos": "verb",
+      "example_en": "Flight simulators simulate real weather conditions.",
+      "example_uz": "Parvoz trenajyorlari haqiqiy ob-havo sharoitlarini modellashtiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "skeptical",
+      "pronunciation_uz": "skeptikl",
+      "uzbek": "shubha bilan qaraydigan",
+      "pos": "adj",
+      "example_en": "Many scientists were initially skeptical of the claim.",
+      "example_uz": "Koʻpchilik olimlar dastlab bu daʼvoga shubha bilan qarashgan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "solely",
+      "pronunciation_uz": "soʻlli",
+      "uzbek": "faqatgina, yolgʻiz",
+      "pos": "adv",
+      "example_en": "Selection is based solely on merit.",
+      "example_uz": "Tanlov faqatgina qobiliyat va xizmatga asoslanadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "solicit",
+      "pronunciation_uz": "solisit",
+      "uzbek": "soʻramoq, iltimos qilmoq",
+      "pos": "verb",
+      "example_en": "The company solicited feedback from customers.",
+      "example_uz": "Kompaniya mijozlardan fikr-mulohaza soʻradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "somber",
+      "pronunciation_uz": "sombe",
+      "uzbek": "gʻamgin, maʼyus, jiddiy",
+      "pos": "adj",
+      "example_en": "Everyone remained in a somber mood after the news.",
+      "example_uz": "Xabardan soʻng hamma maʼyus kayfiyatda qoldi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "sophisticated",
+      "pronunciation_uz": "sofistikeyted",
+      "uzbek": "murakkab, mukammal, nozik didli",
+      "pos": "adj",
+      "example_en": "Modern telescopes use sophisticated sensors.",
+      "example_uz": "Zamonaviy teleskoplar mukammal datchiklardan foydalanadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "sovereign",
+      "pronunciation_uz": "sovrin",
+      "uzbek": "suveren, mustaqil",
+      "pos": "adj",
+      "example_en": "Uzbekistan is a sovereign democratic state.",
+      "example_uz": "Oʻzbekiston — suveren demokratik davlat.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "sporadic",
+      "pronunciation_uz": "sporadik",
+      "uzbek": "onda-sonda boʻladigan, tarqoq",
+      "pos": "adj",
+      "example_en": "Sporadic rain showers are expected today.",
+      "example_uz": "Bugun onda-sonda qisqa yomgʻir yogʻishi kutilmoqda.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "stagnant",
+      "pronunciation_uz": "stegnant",
+      "uzbek": "turib qolgan, rivojlanmayotgan",
+      "pos": "adj",
+      "example_en": "Mosquitoes breed in stagnant water.",
+      "example_uz": "Chivinlar oqmay turib qolgan suvda koʻpayadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "stamina",
+      "pronunciation_uz": "stemina",
+      "uzbek": "chidamlilik, bardosh",
+      "pos": "noun",
+      "example_en": "Marathon runners need incredible stamina.",
+      "example_uz": "Marafon yuguruvchilariga ajoyib chidamlilik kerak.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "stark",
+      "pronunciation_uz": "stark",
+      "uzbek": "keskin, yaqqol",
+      "pos": "adj",
+      "example_en": "There is a stark contrast between the two photos.",
+      "example_uz": "Ikkita fotosurat oʻrtasida keskin farq bor.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "steadfast",
+      "pronunciation_uz": "stedfast",
+      "uzbek": "sobitqadam, sodiq, qatʼiy",
+      "pos": "adj",
+      "example_en": "She remained steadfast in her principles.",
+      "example_uz": "U oʻz tamoyillarida sobitqadam qoldi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "stimulate",
+      "pronunciation_uz": "stimyuleyt",
+      "uzbek": "ragʻbatlantirmoq, jonlantirmoq",
+      "pos": "verb",
+      "example_en": "Reading stimulates the imagination.",
+      "example_uz": "Kitob oʻqish tasavvurni boyitadi va jonlantiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "stipulate",
+      "pronunciation_uz": "stipyuleyt",
+      "uzbek": "shart qilib qoʻymoq, belgilamoq",
+      "pos": "verb",
+      "example_en": "The contract stipulates a thirty-day notice period.",
+      "example_uz": "Shartnomada oʻttiz kun oldin ogohlantirish muddati belgilangan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "strive",
+      "pronunciation_uz": "strayv",
+      "uzbek": "intilmoq, harakat qilmoq",
+      "pos": "verb",
+      "example_en": "We always strive for excellence.",
+      "example_uz": "Biz har doim mukammallikka intilamiz.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "subordinate",
+      "pronunciation_uz": "saboʻdinet",
+      "uzbek": "boʻysunuvchi, ikkinchi darajali",
+      "pos": "adj",
+      "example_en": "Personal wishes were subordinate to team goals.",
+      "example_uz": "Shaxsiy istaklar jamoa maqsadlaridan keyingi oʻrinda edi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "subside",
+      "pronunciation_uz": "sabsayd",
+      "uzbek": "pasaymoq, tinchimoq",
+      "pos": "verb",
+      "example_en": "We waited for the storm to subside.",
+      "example_uz": "Biz boʻronning tinchishini kutdik.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "subsidize",
+      "pronunciation_uz": "sabsidayz",
+      "uzbek": "subsidiya bermoq, moliyaviy qoʻllamoq",
+      "pos": "verb",
+      "example_en": "The government subsidizes public transport.",
+      "example_uz": "Hukumat jamoat transportini moliyaviy qoʻllab-quvvatlaydi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "substantial",
+      "pronunciation_uz": "sabstenshl",
+      "uzbek": "sezilarli, katta, salmoqli",
+      "pos": "adj",
+      "example_en": "They made a substantial contribution to the project.",
+      "example_uz": "Ular loyihaga salmoqli hissa qoʻshdilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "substantiate",
+      "pronunciation_uz": "sabstenshieyt",
+      "uzbek": "dalillar bilan isbotlamoq",
+      "pos": "verb",
+      "example_en": "Can you substantiate your claim with facts?",
+      "example_uz": "Daʼvoyingizni faktlar bilan isbotlab bera olasizmi?",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "subtle",
+      "pronunciation_uz": "satl",
+      "uzbek": "nozik, sezilar-sezilmas",
+      "pos": "adj",
+      "example_en": "There is a subtle difference between the two shades.",
+      "example_uz": "Ikki rang tusi oʻrtasida nozik farq bor.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "succinct",
+      "pronunciation_uz": "saksinkt",
+      "uzbek": "loʻnda, qisqa va aniq",
+      "pos": "adj",
+      "example_en": "Keep your presentation clear and succinct.",
+      "example_uz": "Taqdimotingizni tushunarli va loʻnda qiling.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "suffice",
+      "pronunciation_uz": "safays",
+      "uzbek": "yetarli boʻlmoq, kifoya qilmoq",
+      "pos": "verb",
+      "example_en": "A brief summary will suffice for now.",
+      "example_uz": "Hozircha qisqacha xulosa kifoya qiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "superficial",
+      "pronunciation_uz": "superfishl",
+      "uzbek": "yuzaki, sayoz",
+      "pos": "adj",
+      "example_en": "The wound was only superficial and healed fast.",
+      "example_uz": "Jarohat yuzaki boʻlib, tezda bitib ketdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "superfluous",
+      "pronunciation_uz": "superfluas",
+      "uzbek": "ortiqcha, hojati yoʻq",
+      "pos": "adj",
+      "example_en": "Modern design avoids superfluous decoration.",
+      "example_uz": "Zamonaviy dizayn ortiqcha bezaklardan qochadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "supersede",
+      "pronunciation_uz": "supersid",
+      "uzbek": "oʻrnini egallamoq (eskisini siqib chiqarib)",
+      "pos": "verb",
+      "example_en": "Digital cameras superseded film cameras.",
+      "example_uz": "Raqamli kameralar plyonkali kameralarning oʻrnini egalladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "supplement",
+      "pronunciation_uz": "sapliment",
+      "uzbek": "qoʻshimcha, toʻldiruvchi qism",
+      "pos": "noun",
+      "example_en": "Vitamins are used as a dietary supplement.",
+      "example_uz": "Vitaminlar ovqatga qoʻshimcha sifatida ishlatiladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "suppress",
+      "pronunciation_uz": "sapres",
+      "uzbek": "bostirmoq, ichiga yutmoq",
+      "pos": "verb",
+      "example_en": "She tried to suppress a smile.",
+      "example_uz": "U tabassumini yashirishga (ichiga yutishga) harakat qildi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "surpass",
+      "pronunciation_uz": "serpas",
+      "uzbek": "ortda qoldirmoq, oʻzib ketmoq",
+      "pos": "verb",
+      "example_en": "The film's success surpassed all expectations.",
+      "example_uz": "Filmning muvaffaqiyati barcha kutilganidan oshib tushdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "susceptible",
+      "pronunciation_uz": "saseptibl",
+      "uzbek": "taʼsirchan, moyil (kasallikka)",
+      "pos": "adj",
+      "example_en": "Young plants are susceptible to frost.",
+      "example_uz": "Yosh nihollar sovuqqa taʼsirchan boʻladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "sustain",
+      "pronunciation_uz": "sasteyn",
+      "uzbek": "tutib turmoq, davom ettirmoq",
+      "pos": "verb",
+      "example_en": "Water is essential to sustain life.",
+      "example_uz": "Suv hayotni davom ettirish uchun zarurdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "sustainable",
+      "pronunciation_uz": "sasteynabl",
+      "uzbek": "barqaror, ekologik bezarar",
+      "pos": "adj",
+      "example_en": "Tourism should be developed in a sustainable way.",
+      "example_uz": "Turizm barqaror tarzda rivojlantirilishi kerak.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "synthesize",
+      "pronunciation_uz": "sinsesayz",
+      "uzbek": "umumlashtirmoq, sintez qilmoq",
+      "pos": "verb",
+      "example_en": "Good essays synthesize ideas from multiple sources.",
+      "example_uz": "Yaxshi insholar bir nechta manbadagi gʻoyalarni umumlashtiradi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "tangible",
+      "pronunciation_uz": "tenjibl",
+      "uzbek": "koʻzga koʻrinadigan, sezilarli, moddiy",
+      "pos": "adj",
+      "example_en": "The reforms brought tangible benefits to citizens.",
+      "example_uz": "Islohotlar fuqarolarga sezilarli naf keltirdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "tantamount",
+      "pronunciation_uz": "tentamaunt",
+      "uzbek": "barobar, teng kuchli",
+      "pos": "adj",
+      "example_en": "Silence in this case is tantamount to agreement.",
+      "example_uz": "Bu holatda sukut saqlash rozilik bildirish bilan barobardir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "tedious",
+      "pronunciation_uz": "tidies",
+      "uzbek": "zerikarli, bir xil va mashaqqatli",
+      "pos": "adj",
+      "example_en": "Entering data manually can be a tedious task.",
+      "example_uz": "Maʼlumotlarni qoʻlda kiritish zerikarli ish boʻlishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "tenacious",
+      "pronunciation_uz": "teneyshas",
+      "uzbek": "qatʼiyatli, boʻsh kelmaydigan",
+      "pos": "adj",
+      "example_en": "The tenacious climber reached the summit.",
+      "example_uz": "Qatʼiyatli alpinist choʻqqiga yetib chiqdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "tentative",
+      "pronunciation_uz": "tentativ",
+      "uzbek": "dastlabki, taxminiy (oʻzgarishi mumkin)",
+      "pos": "adj",
+      "example_en": "We fixed a tentative date for the wedding.",
+      "example_uz": "Biz toʻy uchun dastlabki sanani belgiladik.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "terminate",
+      "pronunciation_uz": "toʻmineyt",
+      "uzbek": "tugatmoq, bekor qilmoq",
+      "pos": "verb",
+      "example_en": "Either party may terminate the agreement.",
+      "example_uz": "Har ikki tomon shartnomani bekor qilishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "threshold",
+      "pronunciation_uz": "sreshold",
+      "uzbek": "ostona, chegara",
+      "pos": "noun",
+      "example_en": "Humanity stands on the threshold of new discoveries.",
+      "example_uz": "Insoniyat yangi kashfiyotlar ostonasida turibdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "thrive",
+      "pronunciation_uz": "srayv",
+      "uzbek": "barq urib oʻsmoq, gullab-yashnamoq",
+      "pos": "verb",
+      "example_en": "Pomegranates thrive in warm sunny climates.",
+      "example_uz": "Anor issiq va quyoshli iqlimda barq urib oʻsadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "thwart",
+      "pronunciation_uz": "svoʻt",
+      "uzbek": "toʻsqinlik qilmoq, chippakka chiqarmoq",
+      "pos": "verb",
+      "example_en": "Bad weather thwarted our plans for a picnic.",
+      "example_uz": "Yomon ob-havo piknik rejalarimizni chippakka chiqardi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "timely",
+      "pronunciation_uz": "taymli",
+      "uzbek": "oʻz vaqtida qilingan",
+      "pos": "adj",
+      "example_en": "Thank you for your timely assistance.",
+      "example_uz": "Oʻz vaqtida koʻrsatgan yordamingiz uchun rahmat.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "tolerate",
+      "pronunciation_uz": "tolereyt",
+      "uzbek": "chidamoq, toqat qilmoq",
+      "pos": "verb",
+      "example_en": "Desert plants can tolerate extreme heat.",
+      "example_uz": "Choʻl oʻsimliklari jazirama issiqqa chiday oladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "tractable",
+      "pronunciation_uz": "trektabl",
+      "uzbek": "boshqarish oson, murosaga keladigan",
+      "pos": "adj",
+      "example_en": "Breaking the problem into parts made it more tractable.",
+      "example_uz": "Muammoni qismlarga boʻlish uni hal qilishni osonlashtirdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "transcend",
+      "pronunciation_uz": "transend",
+      "uzbek": "chegaradan chiqmoq, ustun turmoq",
+      "pos": "verb",
+      "example_en": "Great music transcends language barriers.",
+      "example_uz": "Buyuk musiqa til toʻsiqlaridan ustun turadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "transient",
+      "pronunciation_uz": "tranzient",
+      "uzbek": "oʻtkinchi, qisqa muddatli",
+      "pos": "adj",
+      "example_en": "Fame on social media is often transient.",
+      "example_uz": "Ijtimoiy tarmoqdagi mashhurlik koʻpincha oʻtkinchi boʻladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "transition",
+      "pronunciation_uz": "tranzishn",
+      "uzbek": "oʻtish davri, oʻzgarish",
+      "pos": "noun",
+      "example_en": "The transition to clean energy takes time.",
+      "example_uz": "Toza energiyaga oʻtish vaqt talab etadi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "transparent",
+      "pronunciation_uz": "transparent",
+      "uzbek": "shaffof, ochiq-oydin",
+      "pos": "adj",
+      "example_en": "Glass is a transparent material.",
+      "example_uz": "Shisha — shaffof materialdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "trivial",
+      "pronunciation_uz": "trivial",
+      "uzbek": "arzimas, mayda-chuyda",
+      "pos": "adj",
+      "example_en": "Don't waste time arguing over trivial matters.",
+      "example_uz": "Arzimas narsalar ustida tortishib vaqt yoʻqotmang.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "turbulent",
+      "pronunciation_uz": "toʻbyulent",
+      "uzbek": "notinch, algʻov-dalgʻov",
+      "pos": "adj",
+      "example_en": "The airplane passed through turbulent air.",
+      "example_uz": "Samolyot notinch havo oqimidan oʻtdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "ubiquitous",
+      "pronunciation_uz": "yubikvitas",
+      "uzbek": "hamma joyda uchraydigan",
+      "pos": "adj",
+      "example_en": "Coffee shops have become ubiquitous in the city.",
+      "example_uz": "Qahvaxonalar shaharda hamma joyda uchraydigan boʻlib qoldi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "ultimate",
+      "pronunciation_uz": "altimet",
+      "uzbek": "yakuniy, eng oliy",
+      "pos": "adj",
+      "example_en": "Our ultimate goal is customer satisfaction.",
+      "example_uz": "Bizning eng oliy maqsadimiz — mijozlar mamnunligi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "unanimous",
+      "pronunciation_uz": "yunanimas",
+      "uzbek": "yakdil, bir ovozdan qabul qilingan",
+      "pos": "adj",
+      "example_en": "The committee reached a unanimous decision.",
+      "example_uz": "Qoʻmita bir ovozdan yakdil qarorga keldi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "undermine",
+      "pronunciation_uz": "andemayn",
+      "uzbek": "putur yetkazmoq, zaiflashtirmoq",
+      "pos": "verb",
+      "example_en": "Rumors can undermine trust in a team.",
+      "example_uz": "Mish-mishlar jamoadagi ishonchga putur yetkazishi mumkin.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "underscore",
+      "pronunciation_uz": "andeskoʻ",
+      "uzbek": "alohida taʼkidlamoq",
+      "pos": "verb",
+      "example_en": "The report underscores the need for clean water.",
+      "example_uz": "Hisobot toza suvga boʻlgan ehtiyojni alohida taʼkidlaydi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "undertake",
+      "pronunciation_uz": "andeteyk",
+      "uzbek": "zimmasiga olmoq, kirishmoq",
+      "pos": "verb",
+      "example_en": "Scientists undertook a five-year study.",
+      "example_uz": "Olimlar besh yillik tadqiqotga kirishdilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "unify",
+      "pronunciation_uz": "yunifay",
+      "uzbek": "birlashtirmoq",
+      "pos": "verb",
+      "example_en": "The new leader worked to unify the nation.",
+      "example_uz": "Yangi rahbar xalqni birlashtirish uchun mehnat qildi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "unravel",
+      "pronunciation_uz": "anrevl",
+      "uzbek": "yechmoq (jumboqni), oydinlashtirmoq",
+      "pos": "verb",
+      "example_en": "Detectives worked to unravel the mystery.",
+      "example_uz": "Izquvarlar sirni fosh etish ustida ishladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "uphold",
+      "pronunciation_uz": "aphoʻld",
+      "uzbek": "qoʻllab-quvvatlamoq, himoya qilmoq",
+      "pos": "verb",
+      "example_en": "Courts exist to uphold the law.",
+      "example_uz": "Sudlar qonun ustuvorligini himoya qilish uchun mavjud.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "utilize",
+      "pronunciation_uz": "yutilayz",
+      "uzbek": "foydalanmoq, ishlatmoq",
+      "pos": "verb",
+      "example_en": "We must utilize solar energy more efficiently.",
+      "example_uz": "Biz quyosh energiyasidan samaraliroq foydalanishimiz kerak.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "utterly",
+      "pronunciation_uz": "aterli",
+      "uzbek": "butunlay, mutlaqo",
+      "pos": "adv",
+      "example_en": "The landscape changed utterly after the rain.",
+      "example_uz": "Yomgʻirdan keyin manzara butunlay oʻzgardi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "validate",
+      "pronunciation_uz": "valideyt",
+      "uzbek": "tasdiqlamoq, qonuniylashtirmoq",
+      "pos": "verb",
+      "example_en": "Experiments validated the scientist's hypothesis.",
+      "example_uz": "Tajribalar olimning gipotezasini tasdiqladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "viable",
+      "pronunciation_uz": "vayabl",
+      "uzbek": "yashovchan, amalga oshirsa boʻladigan",
+      "pos": "adj",
+      "example_en": "Solar power is a viable alternative to coal.",
+      "example_uz": "Quyosh energiyasi koʻmirga munosib muqobil variantdir.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "vigorous",
+      "pronunciation_uz": "vigoras",
+      "uzbek": "gʻayratli, shiddatli, baquvvat",
+      "pos": "adj",
+      "example_en": "Take thirty minutes of vigorous exercise daily.",
+      "example_uz": "Har kuni oʻttiz daqiqa faol jismoniy mashq qiling.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "vindicate",
+      "pronunciation_uz": "vindikeyt",
+      "uzbek": "oqlamoq, haqligini isbotlamoq",
+      "pos": "verb",
+      "example_en": "New evidence vindicated the accused man.",
+      "example_uz": "Yangi dalillar ayblanuvchini oqladi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "volatile",
+      "pronunciation_uz": "volatayl",
+      "uzbek": "beqaror, tez oʻzgaruvchan",
+      "pos": "adj",
+      "example_en": "Oil prices remain highly volatile.",
+      "example_uz": "Neft narxlari juda beqarorligicha qolmoqda.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "vulnerable",
+      "pronunciation_uz": "valnerabl",
+      "uzbek": "himoyasiz, zaif, taʼsirchan",
+      "pos": "adj",
+      "example_en": "Elderly people are more vulnerable to heatwaves.",
+      "example_uz": "Keksalar jazirama issiqqa nisbatan taʼsirchanroq boʻladilar.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "warrant",
+      "pronunciation_uz": "vorant",
+      "uzbek": "asos boʻlmoq, kafolatlamoq",
+      "pos": "verb",
+      "example_en": "The issue is serious enough to warrant attention.",
+      "example_uz": "Masala eʼtibor qaratishga arziydigan darajada jiddiy.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "wary",
+      "pronunciation_uz": "veri",
+      "uzbek": "ehtiyotkor, hushyor",
+      "pos": "adj",
+      "example_en": "Be wary of emails asking for your password.",
+      "example_uz": "Parolingizni soʻrab kelgan xatlardan ehtiyot boʻling.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "widespread",
+      "pronunciation_uz": "vaydspred",
+      "uzbek": "keng tarqalgan",
+      "pos": "adj",
+      "example_en": "The reform received widespread support.",
+      "example_uz": "Islohot keng koʻlamli qoʻllab-quvvatlashga ega boʻldi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "withstand",
+      "pronunciation_uz": "vizstend",
+      "uzbek": "bardosh bermoq, chidamoq",
+      "pos": "verb",
+      "example_en": "The bridge was built to withstand strong earthquakes.",
+      "example_uz": "Koʻprik kuchli zilzilalarga bardosh beradigan qilib qurilgan.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "yield",
+      "pronunciation_uz": "yild",
+      "uzbek": "hosil bermoq, natija bermoq",
+      "pos": "verb",
+      "example_en": "The new seeds yielded a rich harvest.",
+      "example_uz": "Yangi urugʻlar moʻl hosil berdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "zeal",
+      "pronunciation_uz": "zil",
+      "uzbek": "gʻayrat, ishtiyoq, joʻshqinlik",
+      "pos": "noun",
+      "example_en": "She approached her new job with great zeal.",
+      "example_uz": "U yangi ishiga katta ishtiyoq bilan kirishdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    },
+    {
+      "english": "zenith",
+      "pronunciation_uz": "zinis",
+      "uzbek": "choʻqqi, eng yuqori nuqta (zenit)",
+      "pos": "noun",
+      "example_en": "The empire reached its zenith in the fifteenth century.",
+      "example_uz": "Saltanat oʻn beshinchi asrda oʻz taraqqiyotining choʻqqisiga chiqdi.",
+      "category": "IELTS va TOEFL akademik soʻzlar (5-qism: S–Z)"
+    }
+  ]
+}

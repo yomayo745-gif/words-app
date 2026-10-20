@@ -1,0 +1,736 @@
+{
+  "title": "Tibbiyot, shifoxona va farmatsevtika",
+  "category": "Medicine, Healthcare & Pharmacology",
+  "group": "topic",
+  "words": [
+    {
+      "english": "healthcare",
+      "pronunciation_uz": "helsker",
+      "uzbek": "sogʻliqni saqlash",
+      "pos": "noun",
+      "example_en": "Rural clinics have improved access to quality healthcare.",
+      "example_uz": "Qishloq poliklinikalari sifatli sogʻliqni saqlash xizmatlaridan foydalanishni yaxshiladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "clinical",
+      "pronunciation_uz": "klinikal",
+      "uzbek": "klinik",
+      "pos": "adj",
+      "example_en": "The new treatment passed all clinical trials successfully.",
+      "example_uz": "Yangi davolash usuli barcha klinik sinovlardan muvaffaqiyatli oʻtdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "intensive care",
+      "pronunciation_uz": "intensiv ker",
+      "uzbek": "jonlantirish boʻlimi",
+      "pos": "noun",
+      "example_en": "After the operation, he was monitored in intensive care.",
+      "example_uz": "Operatsiyadan soʻng u jonlantirish boʻlimida kuzatuv ostida boʻldi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "emergency",
+      "pronunciation_uz": "imerjensi",
+      "uzbek": "tez tibbiy yordam holati",
+      "pos": "noun",
+      "example_en": "Call an ambulance immediately in a medical emergency.",
+      "example_uz": "Shoshilinch tibbiy holatda darhol tez yordam chaqiring.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "physician",
+      "pronunciation_uz": "fizishn",
+      "uzbek": "terapevt shifokor",
+      "pos": "noun",
+      "example_en": "Ibn Sina is remembered as one of history's greatest physicians.",
+      "example_uz": "Ibn Sino tarixdagi eng buyuk tabib va shifokorlardan biri sifatida yodga olinadi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "surgery",
+      "pronunciation_uz": "serjeri",
+      "uzbek": "jarrohlik amaliyoti",
+      "pos": "noun",
+      "example_en": "Modern keyhole surgery allows patients to recover faster.",
+      "example_uz": "Zamonaviy kichik kesmali jarrohlik bemorlarga tezroq sogʻayish imkonini beradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "surgical",
+      "pronunciation_uz": "serjikal",
+      "uzbek": "jarrohlikka oid",
+      "pos": "adj",
+      "example_en": "All surgical instruments must be completely sterilized.",
+      "example_uz": "Barcha jarrohlik asboblari toʻliq sterillanishi shart.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "pediatrics",
+      "pronunciation_uz": "pidiatriks",
+      "uzbek": "pediatriya",
+      "pos": "noun",
+      "example_en": "She chose to specialize in pediatrics because she loves children.",
+      "example_uz": "Bolalarni yaxshi koʻrgani uchun u pediatriya yoʻnalishida ixtisoslashishni tanladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "cardiologist",
+      "pronunciation_uz": "kardiolojist",
+      "uzbek": "kardiolog",
+      "pos": "noun",
+      "example_en": "The cardiologist examined the patient's heart rhythm.",
+      "example_uz": "Kardiolog bemorning yurak urish maromini tekshirdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "cardiology",
+      "pronunciation_uz": "kardioloji",
+      "uzbek": "kardiologiya",
+      "pos": "noun",
+      "example_en": "The national cardiology center acquired new diagnostic scanners.",
+      "example_uz": "Milliy kardiologiya markazi yangi diagnostika skanerlarini xarid qildi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "neurologist",
+      "pronunciation_uz": "nyurolojist",
+      "uzbek": "nevrolog",
+      "pos": "noun",
+      "example_en": "He consulted a neurologist about his frequent migraines.",
+      "example_uz": "U tez-tez tutadigan migren ogʻriqlari boʻyicha nevrolog bilan maslahatlashdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "neurology",
+      "pronunciation_uz": "nyuroloji",
+      "uzbek": "nevrologiya",
+      "pos": "noun",
+      "example_en": "Neurology focuses on disorders of the nervous system.",
+      "example_uz": "Nevrologiya asab tizimi kasalliklarini oʻrganishga qaratilgan.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "dermatologist",
+      "pronunciation_uz": "dermatolojist",
+      "uzbek": "dermatolog",
+      "pos": "noun",
+      "example_en": "The dermatologist recommended a soothing cream for the rash.",
+      "example_uz": "Dermatolog toshma uchun tinchlantiruvchi krem tavsiya qildi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "ophthalmologist",
+      "pronunciation_uz": "ofsalmolojist",
+      "uzbek": "koʻz shifokori",
+      "pos": "noun",
+      "example_en": "The ophthalmologist tested her vision with an eye chart.",
+      "example_uz": "Koʻz shifokori maxsus jadval yordamida uning koʻrish qobiliyatini tekshirdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "oncologist",
+      "pronunciation_uz": "onkolojist",
+      "uzbek": "onkolog",
+      "pos": "noun",
+      "example_en": "Early screening helps the oncologist treat tumors effectively.",
+      "example_uz": "Erta tekshiruv onkologga oʻsmalarni samarali davolashda yordam beradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "psychiatrist",
+      "pronunciation_uz": "saykayetrist",
+      "uzbek": "psixiatr",
+      "pos": "noun",
+      "example_en": "A psychiatrist is a medical doctor who treats mental illnesses.",
+      "example_uz": "Psixiatr — ruhiy kasalliklarni davolaydigan diplomli shifokordir.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "anesthesiologist",
+      "pronunciation_uz": "anesiziolojist",
+      "uzbek": "anesteziolog",
+      "pos": "noun",
+      "example_en": "The anesthesiologist monitored the patient throughout the surgery.",
+      "example_uz": "Anesteziolog butun jarrohlik amaliyoti davomida bemor holatini kuzatib bordi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "anesthesia",
+      "pronunciation_uz": "anesizia",
+      "uzbek": "narkoz",
+      "pos": "noun",
+      "example_en": "The wisdom tooth was removed under local anesthesia.",
+      "example_uz": "Aql tishi mahalliy ogʻriqsizlantirish ostida olindi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "anesthetic",
+      "pronunciation_uz": "anesetik",
+      "uzbek": "ogʻriqsizlantiruvchi vosita",
+      "pos": "noun",
+      "example_en": "The dentist injected a mild anesthetic into the gum.",
+      "example_uz": "Tish shifokori milkka yengil ogʻriqsizlantiruvchi dori yubordi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "radiologist",
+      "pronunciation_uz": "reydiolojist",
+      "uzbek": "rentgenolog",
+      "pos": "noun",
+      "example_en": "The radiologist examined the chest X-ray on the screen.",
+      "example_uz": "Rentgenolog ekranda koʻkrak qafasi rentgen tasvirini koʻzdan kechirdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "pharmacology",
+      "pronunciation_uz": "farmakoloji",
+      "uzbek": "farmakologiya",
+      "pos": "noun",
+      "example_en": "Pharmacology studies how drugs interact with the human body.",
+      "example_uz": "Farmakologiya dori vositalarining inson organizmiga qanday taʼsir qilishini oʻrganadi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "pharmaceutical",
+      "pronunciation_uz": "farmasyutikal",
+      "uzbek": "farmatsevtik",
+      "pos": "adj",
+      "example_en": "A new pharmaceutical plant opened in the industrial park.",
+      "example_uz": "Sanoat parkida yangi farmatsevtika zavodi ochildi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "diagnostic",
+      "pronunciation_uz": "dayagnostik",
+      "uzbek": "diagnostik",
+      "pos": "adj",
+      "example_en": "The clinic opened a modern diagnostic laboratory.",
+      "example_uz": "Poliklinikada zamonaviy diagnostika laboratoriyasi ochildi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "syndrome",
+      "pronunciation_uz": "sindroum",
+      "uzbek": "sindrom",
+      "pos": "noun",
+      "example_en": "Carpal tunnel syndrome can affect people who type all day.",
+      "example_uz": "Bilak kanali sindromi kun boʻyi klaviaturada yozadigan odamlarda uchrashi mumkin.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "prognosis",
+      "pronunciation_uz": "prognosis",
+      "uzbek": "kasallik oqibati taxmini",
+      "pos": "noun",
+      "example_en": "With early therapy, the patient's prognosis is excellent.",
+      "example_uz": "Erta boshlangan muolaja tufayli bemorning tuzalib ketish taxmini juda yaxshi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "screening",
+      "pronunciation_uz": "skrining",
+      "uzbek": "skrining tekshiruvi",
+      "pos": "noun",
+      "example_en": "Regular health screening detects illnesses at an early stage.",
+      "example_uz": "Muntazam tibbiy skrining kasalliklarni erta bosqichda aniqlaydi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "biopsy",
+      "pronunciation_uz": "bayopsi",
+      "uzbek": "biopsiya",
+      "pos": "noun",
+      "example_en": "The tissue biopsy confirmed that the growth was benign.",
+      "example_uz": "Toʻqima biopsiyasi oʻsmaning xavfsiz ekanligini tasdiqladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "autopsy",
+      "pronunciation_uz": "otopsi",
+      "uzbek": "autopsiya",
+      "pos": "noun",
+      "example_en": "The medical examiner performed an autopsy to determine the cause.",
+      "example_uz": "Sud-tibbiyot eksperti sababni aniqlash uchun yorib koʻrish tekshiruvini oʻtkazdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "x-ray",
+      "pronunciation_uz": "eks-rey",
+      "uzbek": "rentgen nuri",
+      "pos": "noun",
+      "example_en": "The X-ray showed a hairline fracture in the wrist.",
+      "example_uz": "Rentgen tasviri bilak suyagida ingichka darz borligini koʻrsatdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "tomography",
+      "pronunciation_uz": "tomografi",
+      "uzbek": "tomografiya",
+      "pos": "noun",
+      "example_en": "Computed tomography provides detailed cross-sectional images.",
+      "example_uz": "Kompyuter tomografiyasi ichki aʼzolarning batafsil qatlamli tasvirlarini beradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "electrocardiogram",
+      "pronunciation_uz": "ilektrokardiogram",
+      "uzbek": "elektrokardiogramma",
+      "pos": "noun",
+      "example_en": "The nurse attached sensors to record an electrocardiogram.",
+      "example_uz": "Hamshira elektrokardiogramma yozib olish uchun datchiklarni uladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "hypertension",
+      "pronunciation_uz": "haypertenshn",
+      "uzbek": "gipertoniya",
+      "pos": "noun",
+      "example_en": "Untreated hypertension increases the risk of stroke.",
+      "example_uz": "Davolanmagan gipertoniya insult xavfini oshiradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "infectious",
+      "pronunciation_uz": "infekshas",
+      "uzbek": "yuqumli",
+      "pos": "adj",
+      "example_en": "Measles is a highly infectious childhood illness.",
+      "example_uz": "Qizamiq bolalarda uchraydigan oʻta yuqumli kasallikdir.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "viral",
+      "pronunciation_uz": "vayral",
+      "uzbek": "virusli",
+      "pos": "adj",
+      "example_en": "Rest and fluids are the best remedies for a mild viral illness.",
+      "example_uz": "Dam olish va koʻp suyuqlik ichish yengil virusli kasallik uchun eng yaxshi davodir.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "bacterial",
+      "pronunciation_uz": "baktirial",
+      "uzbek": "bakteriyali",
+      "pos": "adj",
+      "example_en": "The doctor prescribed eye drops for the bacterial infection.",
+      "example_uz": "Shifokor bakteriyali infeksiya uchun koʻz tomchilarini yozib berdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "parasite",
+      "pronunciation_uz": "parasayt",
+      "uzbek": "parazit",
+      "pos": "noun",
+      "example_en": "Malaria is caused by a microscopic parasite carried by mosquitoes.",
+      "example_uz": "Bezgak chivinlar таshuvchi mikroskopik parazit tufayli kelib chiqadi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "epidemic",
+      "pronunciation_uz": "ipidemik",
+      "uzbek": "epidemiya",
+      "pos": "noun",
+      "example_en": "Sanitation measures stopped the cholera epidemic.",
+      "example_uz": "Sanitariya choralari vabo epidemiyasini toʻxtatdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "pandemic",
+      "pronunciation_uz": "pandemik",
+      "uzbek": "pandemiya",
+      "pos": "noun",
+      "example_en": "The global pandemic accelerated the adoption of telemedicine.",
+      "example_uz": "Global pandemiya masofaviy tibbiyotning joriy etilishini tezlashtirdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "quarantine",
+      "pronunciation_uz": "kvorantin",
+      "uzbek": "karantin",
+      "pos": "noun",
+      "example_en": "Infected animals were kept in quarantine for two weeks.",
+      "example_uz": "Kasallangan hayvonlar ikki hafta davomida karantinda saqlandi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "vaccination",
+      "pronunciation_uz": "vaksineyshn",
+      "uzbek": "emlash",
+      "pos": "noun",
+      "example_en": "Keep your vaccination certificate in a safe place.",
+      "example_uz": "Emlash sertifikatingizni xavfsiz joyda saqlang.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "antibody",
+      "pronunciation_uz": "antibodi",
+      "uzbek": "antitana",
+      "pos": "noun",
+      "example_en": "White blood cells produce antibodies to fight pathogens.",
+      "example_uz": "Oq qon tanachalari kasallik qoʻzgʻatuvchilarga qarshi kurashish uchun antitanalar ishlab chiqaradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "allergic",
+      "pronunciation_uz": "alerjik",
+      "uzbek": "allergiyasi bor",
+      "pos": "adj",
+      "example_en": "Inform the waiter if you are allergic to peanuts.",
+      "example_uz": "Agar yeryongʻoqqa allergiyangiz boʻlsa, ofitsiantni ogohlantiring.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "malignant",
+      "pronunciation_uz": "malignant",
+      "uzbek": "xavfli oʻsma",
+      "pos": "adj",
+      "example_en": "Surgeons removed the malignant tumor immediately.",
+      "example_uz": "Jarrohlar xavfli oʻsmani darhol olib tashladilar.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "tumor",
+      "pronunciation_uz": "tyumor",
+      "uzbek": "oʻsma",
+      "pos": "noun",
+      "example_en": "The MRI scan detected a tiny tumor at an early stage.",
+      "example_uz": "MRT tekshiruvi erta bosqichdagi kichik oʻsmani aniqladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "cancer",
+      "pronunciation_uz": "kanser",
+      "uzbek": "saraton",
+      "pos": "noun",
+      "example_en": "Avoiding tobacco significantly reduces the risk of lung cancer.",
+      "example_uz": "Tamakidan voz kechish oʻpka saratoni xavfini sezilarli darajada kamaytiradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "diabetes",
+      "pronunciation_uz": "dayabitiz",
+      "uzbek": "qandli diabet",
+      "pos": "noun",
+      "example_en": "Patients with diabetes must monitor their blood sugar levels.",
+      "example_uz": "Qandli diabetga chalingan bemorlar qondagi qand miqdorini nazorat qilishlari shart.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "asthma",
+      "pronunciation_uz": "azma",
+      "uzbek": "astma",
+      "pos": "noun",
+      "example_en": "He carries an inhaler to control his asthma.",
+      "example_uz": "U astmasini nazorat qilish uchun yonida ingalyator olib yuradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "pneumonia",
+      "pronunciation_uz": "nyumounia",
+      "uzbek": "zotiljam",
+      "pos": "noun",
+      "example_en": "Severe pneumonia often requires hospital treatment.",
+      "example_uz": "Ogʻir zotiljam koʻpincha shifoxonada davolanishni talab qiladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "bronchitis",
+      "pronunciation_uz": "bronkaytis",
+      "uzbek": "bronxit",
+      "pos": "noun",
+      "example_en": "A persistent cough can be a sign of bronchitis.",
+      "example_uz": "Tinimsiz yoʻtal bronxit belgisi boʻlishi mumkin.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "influenza",
+      "pronunciation_uz": "influenza",
+      "uzbek": "gripp",
+      "pos": "noun",
+      "example_en": "Seasonal influenza spreads rapidly during cold months.",
+      "example_uz": "Mavsumiy gripp sovuq oylarda tez tarqaladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "migraine",
+      "pronunciation_uz": "maygreyn",
+      "uzbek": "migren",
+      "pos": "noun",
+      "example_en": "Bright lights can trigger a painful migraine.",
+      "example_uz": "Yorqin chiroqlar ogʻriqli migren xurujini qoʻzgʻatishi mumkin.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "stroke",
+      "pronunciation_uz": "strouk",
+      "uzbek": "insult",
+      "pos": "noun",
+      "example_en": "Immediate medical care is critical when someone has a stroke.",
+      "example_uz": "Kimdir insultga uchraganda darhol tibbiy yordam koʻrsatish hayotiy muhimdir.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "arthritis",
+      "pronunciation_uz": "arsraytis",
+      "uzbek": "artrit",
+      "pos": "noun",
+      "example_en": "Gentle swimming exercises help relieve joint pain from arthritis.",
+      "example_uz": "Yengil suzish mashqlari artrit tufayli yuzaga kelgan boʻgʻim ogʻrigʻini yengillashtiradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "anemia",
+      "pronunciation_uz": "enimia",
+      "uzbek": "kamqonlik",
+      "pos": "noun",
+      "example_en": "Iron-rich foods like spinach and liver help prevent anemia.",
+      "example_uz": "Ismaloq va jigar kabi temirga boy taomlar kamqonlikning oldini olishga yordam beradi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "concussion",
+      "pronunciation_uz": "konkashn",
+      "uzbek": "miya chayqalishi",
+      "pos": "noun",
+      "example_en": "After hitting his head, the athlete was checked for a concussion.",
+      "example_uz": "Boshi urilgandan soʻng, sportchi miya chayqalishiga tekshirildi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "bleeding",
+      "pronunciation_uz": "bliding",
+      "uzbek": "qon ketishi",
+      "pos": "noun",
+      "example_en": "Apply firm pressure to the cut to stop the bleeding.",
+      "example_uz": "Qon ketishini toʻxtatish uchun kesilgan joyni mahkam bosing.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "hemorrhage",
+      "pronunciation_uz": "hemorij",
+      "uzbek": "kuchli qon ketish",
+      "pos": "noun",
+      "example_en": "The emergency team worked quickly to control internal hemorrhage.",
+      "example_uz": "Tez yordam guruhi ichki qon ketishni toʻxtatish uchun tezkor ishladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "dehydration",
+      "pronunciation_uz": "dihaydreyshn",
+      "uzbek": "suvsizlanish",
+      "pos": "noun",
+      "example_en": "Drink plenty of water in summer to avoid dehydration.",
+      "example_uz": "Yozda organizm suvsizlanishining oldini olish uchun koʻp suv iching.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "poisoning",
+      "pronunciation_uz": "poyzning",
+      "uzbek": "zaharlanish",
+      "pos": "noun",
+      "example_en": "Unwashed vegetables can cause severe food poisoning.",
+      "example_uz": "Yuvilmagan sabzavotlar ogʻir ovqatdan zaharlanishga sabab boʻlishi mumkin.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "treat",
+      "pronunciation_uz": "trit",
+      "uzbek": "davolamoq",
+      "pos": "verb",
+      "example_en": "Rural doctors treat hundreds of villagers every week.",
+      "example_uz": "Qishloq shifokorlari har hafta yuzlab qishloq aholisini davolaydilar.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "rehabilitation",
+      "pronunciation_uz": "rihabiliteyshn",
+      "uzbek": "reabilitatsiya",
+      "pos": "noun",
+      "example_en": "The center offers sports injury rehabilitation.",
+      "example_uz": "Markaz sport jarohatlaridan keyingi reabilitatsiyani taklif etadi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "medication",
+      "pronunciation_uz": "medikeyshn",
+      "uzbek": "dori-darmon",
+      "pos": "noun",
+      "example_en": "Take your medication after meals with a full glass of water.",
+      "example_uz": "Dori-darmoningizni ovqatdan keyin bir stakan suv bilan iching.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "drug",
+      "pronunciation_uz": "drag",
+      "uzbek": "dori vositasi",
+      "pos": "noun",
+      "example_en": "Every new drug is tested for safety before reaching pharmacies.",
+      "example_uz": "Har bir yangi dori vositasi dorixonalarga yetib borishidan oldin xavfsizlik sinovidan oʻtkaziladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "dosage",
+      "pronunciation_uz": "dousij",
+      "uzbek": "doza miqdori",
+      "pos": "noun",
+      "example_en": "The correct dosage depends on the child's body weight.",
+      "example_uz": "Toʻgʻri doza miqdori bolaning tana vazniga bogʻliq.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "side effect",
+      "pronunciation_uz": "sayd ifekt",
+      "uzbek": "nojoʻya taʼsir",
+      "pos": "noun",
+      "example_en": "Drowsiness is a common side effect of allergy pills.",
+      "example_uz": "Uyquchanlik allergiya dorilarining keng tarqalgan nojoʻya taʼsiridir.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "antibiotic",
+      "pronunciation_uz": "antibayotik",
+      "uzbek": "antibiotik",
+      "pos": "noun",
+      "example_en": "Always finish the full course of antibiotics prescribed.",
+      "example_uz": "Har doim yozib berilgan antibiotiklarning toʻliq kursini oxirigacha iching.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "painkiller",
+      "pronunciation_uz": "peynkiler",
+      "uzbek": "ogʻriq qoldiruvchi dori",
+      "pos": "noun",
+      "example_en": "He took a mild painkiller for his toothache.",
+      "example_uz": "U tish ogʻrigʻi uchun yengil ogʻriq qoldiruvchi dori ichdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "sedative",
+      "pronunciation_uz": "sedativ",
+      "uzbek": "tinchlantiruvchi dori",
+      "pos": "noun",
+      "example_en": "The doctor gave the anxious patient a mild sedative.",
+      "example_uz": "Shifokor bezovta bemorga yengil tinchlantiruvchi dori berdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "insulin",
+      "pronunciation_uz": "insyulin",
+      "uzbek": "insulin",
+      "pos": "noun",
+      "example_en": "Insulin regulates the level of glucose in the bloodstream.",
+      "example_uz": "Insulin qon oqimidagi glyukoza miqdorini tartibga soladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "inject",
+      "pronunciation_uz": "injekt",
+      "uzbek": "shprits bilan yubormoq",
+      "pos": "verb",
+      "example_en": "The doctor used a fine needle to inject the vaccine.",
+      "example_uz": "Shifokor vaksinani yuborish uchun ingichka ignadan foydalandi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "iv drip",
+      "pronunciation_uz": "ay-vi drip",
+      "uzbek": "osma ukol",
+      "pos": "noun",
+      "example_en": "Fluids were given to the patient through an IV drip.",
+      "example_uz": "Bemorga tomchi ukol orqali suyuqlik yuborildi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "transfusion",
+      "pronunciation_uz": "transfyujn",
+      "uzbek": "qon quyish",
+      "pos": "noun",
+      "example_en": "Blood donors save lives by making blood transfusion possible.",
+      "example_uz": "Qon donorlari qon quyish imkoniyatini yaratib, insonlar hayotini saqlab qoladilar.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "donor",
+      "pronunciation_uz": "dounor",
+      "uzbek": "donor",
+      "pos": "noun",
+      "example_en": "Volunteers lined up at the clinic to become blood donors.",
+      "example_uz": "Koʻngillilar qon donori boʻlish uchun poliklinikada navbatga turishdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "transplant",
+      "pronunciation_uz": "transplant",
+      "uzbek": "transplantatsiya",
+      "pos": "noun",
+      "example_en": "The kidney transplant operation was a complete success.",
+      "example_uz": "Buyrakni koʻchirib oʻtkazish operatsiyasi toʻliq muvaffaqiyatli oʻtdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "incision",
+      "pronunciation_uz": "insijn",
+      "uzbek": "jarrohlik kesmasi",
+      "pos": "noun",
+      "example_en": "The surgeon made a small incision in the abdomen.",
+      "example_uz": "Jarroh qorin sohasida kichik kesma qildi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "splint",
+      "pronunciation_uz": "splint",
+      "uzbek": "shina taxtakach",
+      "pos": "noun",
+      "example_en": "The paramedic secured the broken leg with a splint.",
+      "example_uz": "Feldsher singan oyoqni maxsus shina bilan mahkamladi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "scalpel",
+      "pronunciation_uz": "skalpel",
+      "uzbek": "skalpel",
+      "pos": "noun",
+      "example_en": "A surgical scalpel has an extremely sharp blade.",
+      "example_uz": "Jarrohlik skalpeli nihoyatda oʻtkir tigʻga ega.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "defibrillator",
+      "pronunciation_uz": "difibrileytor",
+      "uzbek": "defibrillyator",
+      "pos": "noun",
+      "example_en": "Airports keep an automated defibrillator for cardiac emergencies.",
+      "example_uz": "Aeroportlarda yurak bilan bogʻliq favqulodda holatlar uchun avtomatik defibrillyator saqlanadi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "ventilator",
+      "pronunciation_uz": "ventileytor",
+      "uzbek": "sunʼiy nafas oldirish apparati",
+      "pos": "noun",
+      "example_en": "The ventilator helped the patient breathe during surgery.",
+      "example_uz": "Sunʼiy nafas oldirish apparati operatsiya vaqtida bemorga nafas olishda yordam berdi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "incubator",
+      "pronunciation_uz": "inkyubeytor",
+      "uzbek": "inkubator kuvez",
+      "pos": "noun",
+      "example_en": "Premature babies are kept warm inside a medical incubator.",
+      "example_uz": "Muddatidan oldin tugʻilgan chaqaloqlar tibbiy inkubator ichida issiq saqlanadi.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    },
+    {
+      "english": "resuscitation",
+      "pronunciation_uz": "risasiteyshn",
+      "uzbek": "jonlantirish",
+      "pos": "noun",
+      "example_en": "Lifeguards are trained in cardiopulmonary resuscitation.",
+      "example_uz": "Qutqaruvchilar yurak-oʻpka reanimatsiyasi boʻyicha maxsus tayyorgarlikdan oʻtadilar.",
+      "category": "Tibbiyot, shifoxona va farmatsevtika"
+    }
+  ]
+}

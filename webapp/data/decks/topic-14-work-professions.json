@@ -1,0 +1,1186 @@
+{
+  "title": "Kasblar, hunarlar va ish joyi",
+  "category": "Jobs, Professions & Workplace",
+  "group": "topic",
+  "words": [
+    {
+      "english": "profession",
+      "pronunciation_uz": "profeshn",
+      "uzbek": "kasb, mutaxassislik",
+      "pos": "noun",
+      "example_en": "Teaching is one of the most respected professions in society.",
+      "example_uz": "Oʻqituvchilik jamiyatdagi eng hurmatli kasblardan biridir.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "occupation",
+      "pronunciation_uz": "okyupeyshn",
+      "uzbek": "mashgʻulot, kasb-kor",
+      "pos": "noun",
+      "example_en": "Please write your full name and occupation on the form.",
+      "example_uz": "Iltimos, anketaga toʻliq ismingiz va kasbingizni yozing.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "vocation",
+      "pronunciation_uz": "voukeyshn",
+      "uzbek": "qiziqish boʻyicha kasb, moyillik",
+      "pos": "noun",
+      "example_en": "For her, nursing is not just a job but a true vocation.",
+      "example_uz": "Uning uchun hamshiralik shunchaki ish emas, balki haqiqiy hayotiy burchdir.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "craft",
+      "pronunciation_uz": "kraft",
+      "uzbek": "hunar, kasb-hunar",
+      "pos": "noun",
+      "example_en": "The master potter passed his ancient craft on to his son.",
+      "example_uz": "Usta kulol oʻzining qadimiy hunarini oʻgʻliga oʻrgatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "employment",
+      "pronunciation_uz": "imployment",
+      "uzbek": "bandlik, ish bilan taʼminlash",
+      "pos": "noun",
+      "example_en": "New textile factories created employment for hundreds of locals.",
+      "example_uz": "Yangi toʻqimachilik fabrikalari yuzlab mahalliy aholi uchun ish oʻrinlari yaratdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "workplace",
+      "pronunciation_uz": "uerkpleys",
+      "uzbek": "ish joyi",
+      "pos": "noun",
+      "example_en": "A clean and safe workplace improves employee morale.",
+      "example_uz": "Toza va xavfsiz ish joyi xodimlarning kayfiyatini koʻtaradi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "workforce",
+      "pronunciation_uz": "uerkfors",
+      "uzbek": "ishchi kuchi, mehnat jamoasi",
+      "pos": "noun",
+      "example_en": "A skilled workforce is the greatest asset of any enterprise.",
+      "example_uz": "Malakali ishchi kuchi har qanday korxonaning eng katta boyligidir.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "staff",
+      "pronunciation_uz": "staf",
+      "uzbek": "xodimlar, shtat, jamoa",
+      "pos": "noun",
+      "example_en": "The hotel staff greeted the international delegation warmly.",
+      "example_uz": "Mehmonxona xodimlari xalqaro delegatsiyani samimiy kutib oldilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "personnel",
+      "pronunciation_uz": "personel",
+      "uzbek": "kadrlar, shaxsiy tarkib",
+      "pos": "noun",
+      "example_en": "All new personnel must attend the fire safety briefing.",
+      "example_uz": "Barcha yangi xodimlar yongʻin xavfsizligi boʻyicha yoʻriqnomada qatnashishlari shart.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "employee",
+      "pronunciation_uz": "imployi",
+      "uzbek": "xodim, ishchi",
+      "pos": "noun",
+      "example_en": "Every employee receives paid annual leave.",
+      "example_uz": "Har bir xodim haq toʻlanadigan yillik mehnat taʼtilini oladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "employer",
+      "pronunciation_uz": "imployer",
+      "uzbek": "ish beruvchi",
+      "pos": "noun",
+      "example_en": "The employer provides free lunches and transport for workers.",
+      "example_uz": "Ish beruvchi ishchilar uchun bepul tushlik va transport taqdim etadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "worker",
+      "pronunciation_uz": "uerker",
+      "uzbek": "ishchi, mehnatkash",
+      "pos": "noun",
+      "example_en": "Each factory worker wears protective gloves and a helmet.",
+      "example_uz": "Har bir zavod ishchisi himoya qoʻlqopi va dubulgʻa kiyadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "supervisor",
+      "pronunciation_uz": "supervayzer",
+      "uzbek": "nazoratchi, ish boshqaruvchi, rahbar",
+      "pos": "noun",
+      "example_en": "Report any equipment malfunction to your shift supervisor.",
+      "example_uz": "Uskunadagi har qanday nosozlik haqida smena boshligʻiga xabar bering.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "boss",
+      "pronunciation_uz": "bos",
+      "uzbek": "boshliq, xoʻjayin",
+      "pos": "noun",
+      "example_en": "Our boss approved the flexible working hours for parents.",
+      "example_uz": "Boshligʻimiz ota-onalar uchun moslashuvchan ish soatlarini tasdiqladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "foreman",
+      "pronunciation_uz": "formen",
+      "uzbek": "ustaboshi, brigadir, prorab",
+      "pos": "noun",
+      "example_en": "The construction foreman checked the quality of the brickwork.",
+      "example_uz": "Qurilish prorabi gʻisht terish sifatini tekshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "trainee",
+      "pronunciation_uz": "treyni",
+      "uzbek": "stajyor, oʻrganuvchi xodim",
+      "pos": "noun",
+      "example_en": "Each new trainee spends two weeks learning the company software.",
+      "example_uz": "Har bir yangi stajyor ikki hafta davomida kompaniya dasturini oʻrganadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "applicant",
+      "pronunciation_uz": "eplikant",
+      "uzbek": "nomzod, ariza topshiruvchi",
+      "pos": "noun",
+      "example_en": "Each job applicant was invited for a thirty-minute interview.",
+      "example_uz": "Ishga kirish uchun har bir nomzod oʻttiz daqiqalik suhbatga taklif qilindi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "candidate",
+      "pronunciation_uz": "kendideyt",
+      "uzbek": "nomzod",
+      "pos": "noun",
+      "example_en": "The committee selected the most experienced candidate for the post.",
+      "example_uz": "Komissiya lavozimga eng tajribali nomzodni tanlab oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "recruiter",
+      "pronunciation_uz": "rikruter",
+      "uzbek": "ishga tanlovchi mutaxassis (rekruter)",
+      "pos": "noun",
+      "example_en": "The HR recruiter contacted her about an open position.",
+      "example_uz": "Kadrlar boʻyicha mutaxassis boʻsh ish oʻrni yuzasidan u bilan bogʻlandi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "job opening",
+      "pronunciation_uz": "job oupening",
+      "uzbek": "boʻsh ish oʻrni, vakansiya",
+      "pos": "noun",
+      "example_en": "The factory announced a new job opening for a quality inspector.",
+      "example_uz": "Zavod sifat nazoratchisi uchun yangi boʻsh ish oʻrni eʼlon qildi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "position",
+      "pronunciation_uz": "pozishn",
+      "uzbek": "lavozim, ish oʻrni",
+      "pos": "noun",
+      "example_en": "He applied for the position of senior electrical engineer.",
+      "example_uz": "U katta elektr muhandisi lavozimiga ariza topshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "post",
+      "pronunciation_uz": "poust",
+      "uzbek": "lavozim, mansab",
+      "pos": "noun",
+      "example_en": "She has held the post of chief editor for five years.",
+      "example_uz": "U besh yildan beri bosh muharrir lavozimida ishlab kelmoqda.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "resume",
+      "pronunciation_uz": "rezume",
+      "uzbek": "rezyume, tarjimai hol maʼlumotnomasi",
+      "pos": "noun",
+      "example_en": "Update your resume with your latest certificates and skills.",
+      "example_uz": "Rezyumengizni eng soʻnggi sertifikatlar va koʻnikmalaringiz bilan yangilang.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "portfolio",
+      "pronunciation_uz": "portfoliou",
+      "uzbek": "portfolio (ish namunalari toʻplami)",
+      "pos": "noun",
+      "example_en": "The graphic designer showed a digital portfolio of her logos.",
+      "example_uz": "Grafik dizayner oʻzi yaratgan logotiplarning raqamli portfoliosini koʻrsatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "reference letter",
+      "pronunciation_uz": "referens leter",
+      "uzbek": "tavsiyanoma xati",
+      "pos": "noun",
+      "example_en": "His former professor wrote a strong reference letter for him.",
+      "example_uz": "Uning sobiq professori u uchun kuchli tavsiyanoma xati yozib berdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "probation",
+      "pronunciation_uz": "probeyshn",
+      "uzbek": "sinov muddati",
+      "pos": "noun",
+      "example_en": "New employees undergo a three-month probation period.",
+      "example_uz": "Yangi xodimlar uch oylik sinov muddatidan oʻtadilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "demotion",
+      "pronunciation_uz": "dimoushn",
+      "uzbek": "lavozimdan pasaytirish",
+      "pos": "noun",
+      "example_en": "Repeated negligence resulted in a demotion.",
+      "example_uz": "Takroriy beparvolik lavozimdan pasaytirilishga olib keldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "transfer",
+      "pronunciation_uz": "trensfer",
+      "uzbek": "boshqa boʻlimga yoki filialga oʻtkazish",
+      "pos": "noun",
+      "example_en": "He requested a transfer to the Samarkand regional branch.",
+      "example_uz": "U Samarqand viloyati filialiga oʻtkazishlarini soʻradi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "dismissal",
+      "pronunciation_uz": "dismisal",
+      "uzbek": "ishdan boʻshatish",
+      "pos": "noun",
+      "example_en": "Unfair dismissal is prohibited by the labor code.",
+      "example_uz": "Asossiz ishdan boʻshatish mehnat kodeksi bilan taqiqlangan.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "resignation",
+      "pronunciation_uz": "rezigneyshn",
+      "uzbek": "isteʼfo, oʻz xohishi bilan ishdan ketish",
+      "pos": "noun",
+      "example_en": "He handed in his letter of resignation two weeks in advance.",
+      "example_uz": "U ishdan boʻshash haqidagi arizasini ikki hafta oldin topshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "pension",
+      "pronunciation_uz": "penshn",
+      "uzbek": "nafaqa, pensiya",
+      "pos": "noun",
+      "example_en": "Grandfather receives his state pension on the fifth of every month.",
+      "example_uz": "Buvam har oyning beshinchi sanasida davlat pensiyasini oladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "wage",
+      "pronunciation_uz": "ueyj",
+      "uzbek": "ish haqi (kunlik yoki haftalik maosh)",
+      "pos": "noun",
+      "example_en": "Seasonal workers receive a fair daily wage.",
+      "example_uz": "Mavsumiy ishchilar adolatli kunlik ish haqi oladilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "paycheck",
+      "pronunciation_uz": "peychek",
+      "uzbek": "ish haqi varaqasi (maosh toʻlovi)",
+      "pos": "noun",
+      "example_en": "Part of his monthly paycheck goes directly into a savings account.",
+      "example_uz": "Uning oylik maoshining bir qismi toʻgʻridan-toʻgʻri jamgʻarma hisobiga oʻtkaziladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "bonus",
+      "pronunciation_uz": "bounas",
+      "uzbek": "mukofot puli, bonus",
+      "pos": "noun",
+      "example_en": "The company paid a year-end bonus to all staff members.",
+      "example_uz": "Kompaniya yil yakunida barcha xodimlarga mukofot puli toʻladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "allowance",
+      "pronunciation_uz": "elauans",
+      "uzbek": "ustama pul, xizmat safari puli",
+      "pos": "noun",
+      "example_en": "Engineers working in the desert receive a special field allowance.",
+      "example_uz": "Choʻlda ishlaydigan muhandislar maxsus dala ustama pulini oladilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "overtime",
+      "pronunciation_uz": "ouvertaym",
+      "uzbek": "ish vaqtidan tashqari ish",
+      "pos": "noun",
+      "example_en": "Employees are paid double for working overtime on holidays.",
+      "example_uz": "Bayram kunlari ish vaqtidan tashqari ishlaganlik uchun xodimlarga ikki baravar haq toʻlanadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "shift",
+      "pronunciation_uz": "shift",
+      "uzbek": "smena, navbatchilik",
+      "pos": "noun",
+      "example_en": "Nurses and factory operators often work in three shifts.",
+      "example_uz": "Hamshiralar va zavod operatorlari koʻpincha uch smenada ishlaydilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "roster",
+      "pronunciation_uz": "roster",
+      "uzbek": "navbatchilik jadvali, xodimlar roʻyxati",
+      "pos": "noun",
+      "example_en": "Check the weekly duty roster to see who works the night shift.",
+      "example_uz": "Tungi smenada kim ishlashini bilish uchun haftalik navbatchilik jadvalini tekshiring.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "maternity leave",
+      "pronunciation_uz": "meterniti liv",
+      "uzbek": "dekret taʼtili (onalik taʼtili)",
+      "pos": "noun",
+      "example_en": "The law guarantees job security during maternity leave.",
+      "example_uz": "Qonun onalik taʼtili davrida ish joyi saqlanishini kafolatlaydi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "sick leave",
+      "pronunciation_uz": "sik liv",
+      "uzbek": "kasallik taʼtili (byulleten)",
+      "pos": "noun",
+      "example_en": "He took three days of sick leave to recover from the flu.",
+      "example_uz": "U grippdan tuzalish uchun uch kunlik kasallik taʼtilini oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "workload",
+      "pronunciation_uz": "uerkloud",
+      "uzbek": "ish hajmi, yuklama",
+      "pos": "noun",
+      "example_en": "Hiring two new assistants reduced the team's heavy workload.",
+      "example_uz": "Ikki yangi yordamchini ishga olish jamoaning ogʻir ish yuklamasini kamaytirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "duty",
+      "pronunciation_uz": "dyuti",
+      "uzbek": "xizmat vazifasi, burch",
+      "pos": "noun",
+      "example_en": "The customs officer is on duty at the border crossing today.",
+      "example_uz": "Bojxona xodimi bugun chegara oʻtkazish punktida xizmat vazifasini bajarmoqda.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "responsibility",
+      "pronunciation_uz": "risponsibiliti",
+      "uzbek": "masʼuliyat, javobgarlik",
+      "pos": "noun",
+      "example_en": "Ensuring passenger safety is the pilot's primary responsibility.",
+      "example_uz": "Yoʻlovchilar xavfsizligini taʼminlash uchuvchining asosiy masʼuliyatidir.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "skill",
+      "pronunciation_uz": "skil",
+      "uzbek": "koʻnikma, mahorat",
+      "pos": "noun",
+      "example_en": "Communication is a vital skill in almost every profession.",
+      "example_uz": "Muloqot deyarli har bir kasbda muhim koʻnikma hisoblanadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "competence",
+      "pronunciation_uz": "kompetens",
+      "uzbek": "kompetensiya, malakalilik, layoqat",
+      "pos": "noun",
+      "example_en": "The surgeon demonstrated high professional competence.",
+      "example_uz": "Jarroh yuqori kasbiy malakasini namoyish etdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "expertise",
+      "pronunciation_uz": "ekspertiz",
+      "uzbek": "chuqur bilim va tajriba, ekspertlik",
+      "pos": "noun",
+      "example_en": "We invited an agronomist with expertise in drip irrigation.",
+      "example_uz": "Tomchilatib sugʻorish boʻyicha chuqur tajribaga ega agronomni taklif qildik.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "productivity",
+      "pronunciation_uz": "prodaktiviti",
+      "uzbek": "mehnat unumdorligi",
+      "pos": "noun",
+      "example_en": "Modern machinery increased agricultural productivity significantly.",
+      "example_uz": "Zamonaviy texnikalar qishloq xoʻjaligi mehnat unumdorligini sezilarli darajada oshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "efficiency",
+      "pronunciation_uz": "ifishensi",
+      "uzbek": "samaradorlik",
+      "pos": "noun",
+      "example_en": "Automating routine tasks improved office efficiency.",
+      "example_uz": "Kundalik vazifalarni avtomatlashtirish ofis samaradorligini oshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "union",
+      "pronunciation_uz": "yunyon",
+      "uzbek": "kasaba uyushmasi",
+      "pos": "noun",
+      "example_en": "The labor union protects the rights and safety of workers.",
+      "example_uz": "Kasaba uyushmasi ishchilarning huquqlari va xavfsizligini himoya qiladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "strike",
+      "pronunciation_uz": "strayk",
+      "uzbek": "ish tashlash",
+      "pos": "noun",
+      "example_en": "Negotiations prevented a transport strike in the port city.",
+      "example_uz": "Muzokaralar port shahrida transportchilar ish tashlashining oldini oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "freelancer",
+      "pronunciation_uz": "frilenser",
+      "uzbek": "frilanser (mustaqil yollanma mutaxassis)",
+      "pos": "noun",
+      "example_en": "As a freelancer, she designs websites for clients worldwide.",
+      "example_uz": "Frilanser sifatida u butun dunyo boʻylab mijozlar uchun veb-saytlar yaratadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "architect",
+      "pronunciation_uz": "arkitekt",
+      "uzbek": "meʼmor, arxitektor",
+      "pos": "noun",
+      "example_en": "The architect designed an earthquake-resistant residential tower.",
+      "example_uz": "Meʼmor zilzilaga chidamli turar-joy minorasini loyihalashtirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "engineer",
+      "pronunciation_uz": "injinir",
+      "uzbek": "muhandis",
+      "pos": "noun",
+      "example_en": "A civil engineer inspected the steel girders of the bridge.",
+      "example_uz": "Qurilish muhandisi koʻprikning poʻlat toʻsinlarini koʻzdan kechirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "technician",
+      "pronunciation_uz": "teknishn",
+      "uzbek": "texnik xodim, usta-texnik",
+      "pos": "noun",
+      "example_en": "A laboratory technician calibrated the measuring instruments.",
+      "example_uz": "Laboratoriya texnigi oʻlchov asboblarini sozladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "electrician",
+      "pronunciation_uz": "ilektrishn",
+      "uzbek": "elektrik, elektr ustasi",
+      "pos": "noun",
+      "example_en": "The electrician replaced the old wiring in the workshop.",
+      "example_uz": "Elektrik ustaxonadagi eski elektr simlarini almashtirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "carpenter",
+      "pronunciation_uz": "karpenter",
+      "uzbek": "duradgor",
+      "pos": "noun",
+      "example_en": "The skilled carpenter made carved wooden doors and window frames.",
+      "example_uz": "Mohir duradgor oʻymakor yogʻoch eshiklar va deraza romlarini yasadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "joiner",
+      "pronunciation_uz": "joyner",
+      "uzbek": "yogʻoch ustasi (rom va mebel yasovchi)",
+      "pos": "noun",
+      "example_en": "The joiner fitted oak bookshelves into the study room.",
+      "example_uz": "Yogʻoch ustasi ish xonasiga eman daraxtidan kitob javonlarini oʻrnatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "mason",
+      "pronunciation_uz": "meyson",
+      "uzbek": "gʻisht teruvchi, tosh ustasi",
+      "pos": "noun",
+      "example_en": "The master mason restored the ancient brick arch carefully.",
+      "example_uz": "Usta gʻisht teruvchi qadimiy gʻishtli ravoqni ehtiyotkorlik bilan tikladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "welder",
+      "pronunciation_uz": "uelder",
+      "uzbek": "payvandchi (svarshik)",
+      "pos": "noun",
+      "example_en": "The welder wore a dark protective mask while joining steel pipes.",
+      "example_uz": "Payvandchi poʻlat quvurlarni ulash paytida qoraytirilgan himoya niqobini taqib oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "blacksmith",
+      "pronunciation_uz": "bleksmith",
+      "uzbek": "temirchi",
+      "pos": "noun",
+      "example_en": "The village blacksmith forged horseshoes and garden tools.",
+      "example_uz": "Qishloq temirchisi taqalar va bogʻ asboblarini bolgʻalab yasadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "locksmith",
+      "pronunciation_uz": "loksmith",
+      "uzbek": "chilangar, qulf ustasi",
+      "pos": "noun",
+      "example_en": "A locksmith helped us open the jammed metal door.",
+      "example_uz": "Qulf ustasi tiqilib qolgan temir eshikni ochishimizga yordam berdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "painter",
+      "pronunciation_uz": "peynter",
+      "uzbek": "boʻyoqchi (malyar) yoki rassom",
+      "pos": "noun",
+      "example_en": "The house painter applied two coats of white paint to the ceiling.",
+      "example_uz": "Boʻyoqchi shiftga ikki qatlam oq boʻyoq surtdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "shoemaker",
+      "pronunciation_uz": "shumeyker",
+      "uzbek": "etikdoʻz, kosib",
+      "pos": "noun",
+      "example_en": "The shoemaker repaired the leather soles of my winter boots.",
+      "example_uz": "Kosib qishki etigimning charm tagcharmini taʼmirlab berdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "baker",
+      "pronunciation_uz": "beyker",
+      "uzbek": "nonvoy",
+      "pos": "noun",
+      "example_en": "The baker pulls hot tandoor bread from the oven at dawn.",
+      "example_uz": "Nonvoy tong saharda tandirdan issiq nonlarni uzib oladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "barber",
+      "pronunciation_uz": "barber",
+      "uzbek": "sartarosh (erkaklar sartaroshi)",
+      "pos": "noun",
+      "example_en": "My brother goes to the neighborhood barber every three weeks.",
+      "example_uz": "Akam har uch haftada mahalladagi sartaroshga boradi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "potter",
+      "pronunciation_uz": "poter",
+      "uzbek": "kulol",
+      "pos": "noun",
+      "example_en": "A Rishtan potter shaped a clay bowl on the spinning wheel.",
+      "example_uz": "Rishtonlik kulol aylanayotgan charx ustida loydan kosa yasadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "weaver",
+      "pronunciation_uz": "uiver",
+      "uzbek": "toʻquvchi",
+      "pos": "noun",
+      "example_en": "The Margilan weaver creates colorful atlas and adras silk.",
+      "example_uz": "Margʻilonlik toʻquvchi rang-barang atlas va adras ipak matolarini toʻqiydi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "farmer",
+      "pronunciation_uz": "farmer",
+      "uzbek": "fermer, dehqon",
+      "pos": "noun",
+      "example_en": "The farmer harvested sweet melons and watermelons in August.",
+      "example_uz": "Dehqon avgust oyida shirin qovun va tarvuzlarni yigʻib oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "agronomist",
+      "pronunciation_uz": "egronomist",
+      "uzbek": "agronom",
+      "pos": "noun",
+      "example_en": "The agronomist tested the soil moisture in the cotton field.",
+      "example_uz": "Agronom paxta dalasidagi tuproq namligini tekshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "gardener",
+      "pronunciation_uz": "gardener",
+      "uzbek": "bogʻbon",
+      "pos": "noun",
+      "example_en": "The experienced gardener pruned the apple and peach trees in spring.",
+      "example_uz": "Tajribali bogʻbon bahorda olma va shaftoli daraxtlariga shakl berib butadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "shepherd",
+      "pronunciation_uz": "sheperd",
+      "uzbek": "choʻpon",
+      "pos": "noun",
+      "example_en": "The shepherd led his flock of sheep to the mountain pasture.",
+      "example_uz": "Choʻpon qoʻy suruvini togʻ yayloviga boshlab bordi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "veterinarian",
+      "pronunciation_uz": "veterinerian",
+      "uzbek": "veterinar, chorva shifokori",
+      "pos": "noun",
+      "example_en": "The veterinarian vaccinated the calves on the dairy farm.",
+      "example_uz": "Veterinar sut chorvachilik fermasidagi buzoqlarni emladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "pediatrician",
+      "pronunciation_uz": "pidiatrishn",
+      "uzbek": "pediatr (bolalar shifokori)",
+      "pos": "noun",
+      "example_en": "The pediatrician examined the child and prescribed vitamins.",
+      "example_uz": "Bolalar shifokori bolani koʻrikdan oʻtkazdi va vitaminlar yozib berdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "paramedic",
+      "pronunciation_uz": "peremedik",
+      "uzbek": "tez yordam feldsheri",
+      "pos": "noun",
+      "example_en": "A paramedic gave first aid to the injured cyclist immediately.",
+      "example_uz": "Tez yordam feldsheri jarohatlangan velosipedchiga darhol birinchi tibbiy yordam koʻrsatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "midwife",
+      "pronunciation_uz": "miduayf",
+      "uzbek": "doya, akusherka",
+      "pos": "noun",
+      "example_en": "An experienced midwife assisted at the maternity clinic.",
+      "example_uz": "Tajribali akusherka tugʻruqxonada yordam koʻrsatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "lawyer",
+      "pronunciation_uz": "loyer",
+      "uzbek": "huquqshunos, advokat",
+      "pos": "noun",
+      "example_en": "A corporate lawyer reviewed the terms of the lease agreement.",
+      "example_uz": "Korporativ huquqshunos ijara shartnomasi shartlarini koʻrib chiqdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "attorney",
+      "pronunciation_uz": "etorni",
+      "uzbek": "advokat, vakolatli huquqshunos",
+      "pos": "noun",
+      "example_en": "The defense attorney presented key documents in court.",
+      "example_uz": "Himoyachi advokat sudda muhim hujjatlarni taqdim etdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "prosecutor",
+      "pronunciation_uz": "prosekyutor",
+      "uzbek": "prokuror",
+      "pos": "noun",
+      "example_en": "The state prosecutor led the investigation into financial fraud.",
+      "example_uz": "Davlat prokurori moliyaviy firibgarlik boʻyicha tergovni olib bordi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "notary",
+      "pronunciation_uz": "noutari",
+      "uzbek": "notarius",
+      "pos": "noun",
+      "example_en": "The contract for selling the house was certified by a public notary.",
+      "example_uz": "Uyni sotish shartnomasi davlat notariusi tomonidan tasdiqlandi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "detective",
+      "pronunciation_uz": "ditektiv",
+      "uzbek": "izquvar, tergovchi",
+      "pos": "noun",
+      "example_en": "The police detective solved the case using security camera footage.",
+      "example_uz": "Ichki ishlar tergovchisi kuzatuv kamerasi yozuvlari yordamida ishni fosh etdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "firefighter",
+      "pronunciation_uz": "fayrfayter",
+      "uzbek": "oʻt oʻchiruvchi",
+      "pos": "noun",
+      "example_en": "Brave firefighters rescued the family from the smoke-filled building.",
+      "example_uz": "Jasur oʻt oʻchiruvchilar oilani tutunga toʻlgan binodan qutqarib qoldilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "lifeguard",
+      "pronunciation_uz": "layfgard",
+      "uzbek": "qutqaruvchi (suv havzasida)",
+      "pos": "noun",
+      "example_en": "The lifeguard watches swimmers from a high chair by the pool.",
+      "example_uz": "Suv qutqaruvchisi hovuz boʻyidagi baland kursidan suzuvchilarni kuzatib turadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "bodyguard",
+      "pronunciation_uz": "bodigard",
+      "uzbek": "tansoqchi",
+      "pos": "noun",
+      "example_en": "A trained bodyguard accompanied the visiting diplomat.",
+      "example_uz": "Maxsus tayyorgarlikdan oʻtgan tansoqchi tashrif buyurgan diplomatga hamrohlik qildi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "watchman",
+      "pronunciation_uz": "uochmen",
+      "uzbek": "qorovul, tungi posbon",
+      "pos": "noun",
+      "example_en": "The night watchman checks all warehouse doors every hour.",
+      "example_uz": "Tungi qorovul har soatda omborxonaning barcha eshiklarini tekshirib chiqadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "postman",
+      "pronunciation_uz": "poustmen",
+      "uzbek": "pochtachi",
+      "pos": "noun",
+      "example_en": "The postman brought registered letters and magazines.",
+      "example_uz": "Pochtachi buyurtmali xatlar va jurnallarni olib keldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "dispatcher",
+      "pronunciation_uz": "dispetcher",
+      "uzbek": "dispetcher",
+      "pos": "noun",
+      "example_en": "The air traffic dispatcher coordinates planes on the runway.",
+      "example_uz": "Aviatsiya dispetcheri uchish-qoʻnish yoʻlagidagi samolyotlar harakatini muvofiqlashtiradi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "flight attendant",
+      "pronunciation_uz": "flayt etendant",
+      "uzbek": "bortkuzatuvchi (styuardessa / styuard)",
+      "pos": "noun",
+      "example_en": "The flight attendant demonstrated how to use the life vest.",
+      "example_uz": "Bortkuzatuvchi qutqaruv nimchasidan qanday foydalanishni koʻrsatib berdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "sailor",
+      "pronunciation_uz": "seylor",
+      "uzbek": "dengizchi, matros",
+      "pos": "noun",
+      "example_en": "The young sailor tied the thick rope around the dock post.",
+      "example_uz": "Yosh dengizchi qalin arqonni pristan ustuniga bogʻladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "miner",
+      "pronunciation_uz": "mayner",
+      "uzbek": "konchi, shaxtyor",
+      "pos": "noun",
+      "example_en": "Gold and copper miners work with heavy underground machinery.",
+      "example_uz": "Oltin va mis konchilari yer ostidagi ogʻir texnikalar bilan ishlaydilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "metallurgist",
+      "pronunciation_uz": "metalurjist",
+      "uzbek": "metallurg",
+      "pos": "noun",
+      "example_en": "The metallurgist tested the strength of the new steel alloy.",
+      "example_uz": "Metallurg yangi poʻlat qotishmasining mustahkamligini sinovdan oʻtkazdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "geologist",
+      "pronunciation_uz": "jiolojist",
+      "uzbek": "geolog",
+      "pos": "noun",
+      "example_en": "A team of geologists discovered a new natural gas reserve.",
+      "example_uz": "Geologlar guruhi yangi tabiiy gaz konini topdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "surveyor",
+      "pronunciation_uz": "serveyor",
+      "uzbek": "yer oʻlchovchi, geodezist",
+      "pos": "noun",
+      "example_en": "The land surveyor measured the exact boundaries of the plot.",
+      "example_uz": "Geodezist yer uchastkasining aniq chegaralarini oʻlchadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "programmer",
+      "pronunciation_uz": "progremer",
+      "uzbek": "dasturchi",
+      "pos": "noun",
+      "example_en": "The programmer wrote clean code for the mobile banking app.",
+      "example_uz": "Dasturchi mobil bank ilovasi uchun toza kod yozdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "developer",
+      "pronunciation_uz": "diveloper",
+      "uzbek": "dastur ishlab chiquvchi (developer) yoki quruvchi",
+      "pos": "noun",
+      "example_en": "She works as a backend software developer at an IT park.",
+      "example_uz": "U IT-parkda bekend dasturiy taʼminot ishlab chiquvchisi boʻlib ishlaydi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "analyst",
+      "pronunciation_uz": "enalist",
+      "uzbek": "tahlilchi, analitik",
+      "pos": "noun",
+      "example_en": "The data analyst prepared visual charts for the quarterly meeting.",
+      "example_uz": "Maʼlumotlar tahlilchisi choraklik yigʻilish uchun vizual diagrammalar tayyorladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "designer",
+      "pronunciation_uz": "dizayner",
+      "uzbek": "dizayner, loyihachi",
+      "pos": "noun",
+      "example_en": "An interior designer chose warm lighting for the new cafe.",
+      "example_uz": "Interyer dizayneri yangi qahvaxona uchun iliq yoritish tizimini tanladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "journalist",
+      "pronunciation_uz": "jernalist",
+      "uzbek": "jurnalist, muxbir",
+      "pos": "noun",
+      "example_en": "The journalist interviewed the olympic champion after the match.",
+      "example_uz": "Jurnalist oʻyindan soʻng olimpiada chempionidan intervyu oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "reporter",
+      "pronunciation_uz": "riporter",
+      "uzbek": "reportyor, muxbir",
+      "pos": "noun",
+      "example_en": "A television reporter broadcast live from the festival square.",
+      "example_uz": "Televideniye muxbiri festival maydonidan jonli efirda xabar uzatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "editor",
+      "pronunciation_uz": "editor",
+      "uzbek": "muharrir",
+      "pos": "noun",
+      "example_en": "The book editor corrected stylistic errors in the manuscript.",
+      "example_uz": "Kitob muharriri qoʻlyozmadagi uslubiy xatolarni tuzatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "translator",
+      "pronunciation_uz": "transleytor",
+      "uzbek": "yozma tarjimon",
+      "pos": "noun",
+      "example_en": "A literary translator translated the Uzbek novel into English.",
+      "example_uz": "Badiiy tarjimon oʻzbek romanini ingliz tiliga tarjima qildi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "interpreter",
+      "pronunciation_uz": "interpreter",
+      "uzbek": "ogʻzaki tarjimon (sinxron tarjimon)",
+      "pos": "noun",
+      "example_en": "The simultaneous interpreter worked in a soundproof booth.",
+      "example_uz": "Sinxron tarjimon ovoz oʻtkazmaydigan kabinada ishladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "photographer",
+      "pronunciation_uz": "fotografer",
+      "uzbek": "fotograf, suratkash",
+      "pos": "noun",
+      "example_en": "The wedding photographer captured joyful moments of the family.",
+      "example_uz": "Toʻy suratkashi oilaning quvonchli lahzalarini muhrladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "cameraman",
+      "pronunciation_uz": "kemeramen",
+      "uzbek": "tasvirchi, teleoperator",
+      "pos": "noun",
+      "example_en": "The documentary cameraman filmed snow leopards in the mountains.",
+      "example_uz": "Hujjatli film operatori togʻlarda qor qoplonlarini tasvirga oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "director",
+      "pronunciation_uz": "direktor",
+      "uzbek": "rejissyor (yoki korxona direktori)",
+      "pos": "noun",
+      "example_en": "The film director yelled 'Action!' and the scene began.",
+      "example_uz": "Kino rejissyori 'Motor!' deb hayqirdi va sahna boshlandi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "actor",
+      "pronunciation_uz": "ektor",
+      "uzbek": "aktyor",
+      "pos": "noun",
+      "example_en": "The theater actor received a standing ovation from the audience.",
+      "example_uz": "Teatr aktyori tomoshabinlar tomonidan tik turib olqishlandi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "musician",
+      "pronunciation_uz": "myuzishn",
+      "uzbek": "musiqachi, sozanda",
+      "pos": "noun",
+      "example_en": "The traditional musician played a melody on the dutar.",
+      "example_uz": "Anʼanaviy sozanda dutorda kuy chaldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "composer",
+      "pronunciation_uz": "kompouzer",
+      "uzbek": "bastakor, kompozitor",
+      "pos": "noun",
+      "example_en": "The composer wrote the musical score for the historical drama.",
+      "example_uz": "Bastakor tarixiy drama uchun musiqa bastaladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "sculptor",
+      "pronunciation_uz": "skalptor",
+      "uzbek": "haykaltarosh",
+      "pos": "noun",
+      "example_en": "The sculptor carved a horse figure out of white marble.",
+      "example_uz": "Haykaltarosh oq marmardan ot haykalini yoʻndi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "accountant",
+      "pronunciation_uz": "ekauntant",
+      "uzbek": "buxgalter, hisobchi",
+      "pos": "noun",
+      "example_en": "The chief accountant prepared the annual tax declaration.",
+      "example_uz": "Bosh hisobchi yillik soliq deklaratsiyasini tayyorladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "auditor",
+      "pronunciation_uz": "oditor",
+      "uzbek": "auditor, moliyaviy taftishchi",
+      "pos": "noun",
+      "example_en": "An external auditor checked the company's financial records.",
+      "example_uz": "Tashqi auditor kompaniyaning moliyaviy hujjatlarini tekshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "economist",
+      "pronunciation_uz": "ikonomist",
+      "uzbek": "iqtisodchi",
+      "pos": "noun",
+      "example_en": "The bank economist forecast lower inflation next year.",
+      "example_uz": "Bank iqtisodchisi kelasi yilda inflyatsiya pasayishini prognoz qildi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "broker",
+      "pronunciation_uz": "brouker",
+      "uzbek": "broker, dallol, vositachi",
+      "pos": "noun",
+      "example_en": "A customs broker helped clear the imported machinery quickly.",
+      "example_uz": "Bojxona brokeri import qilingan uskunalarni tezda rasmiylashtirishga yordam berdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "realtor",
+      "pronunciation_uz": "rieltor",
+      "uzbek": "rieltor (koʻchmas mulk agenti)",
+      "pos": "noun",
+      "example_en": "The realtor showed us three apartments near the metro station.",
+      "example_uz": "Rieltor bizga metro bekati yaqinidagi uchta xonadonni koʻrsatdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "secretary",
+      "pronunciation_uz": "sekreteri",
+      "uzbek": "kotib, kotiba",
+      "pos": "noun",
+      "example_en": "The executive secretary scheduled the board meeting for Monday.",
+      "example_uz": "Maʼmuriy kotiba boshqaruv yigʻilishini dushanba kuniga belgiladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "receptionist",
+      "pronunciation_uz": "risepshnist",
+      "uzbek": "qabulxona xodimi (administrator)",
+      "pos": "noun",
+      "example_en": "The clinic receptionist registered the patient's appointment.",
+      "example_uz": "Klinika qabulxonasi xodimi bemorning qabul vaqtini roʻyxatga oldi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "consultant",
+      "pronunciation_uz": "konsaltant",
+      "uzbek": "maslahatchi, konsultant",
+      "pos": "noun",
+      "example_en": "An agricultural consultant advised farmers on organic fertilizers.",
+      "example_uz": "Qishloq xoʻjaligi maslahatchisi fermerlarga organik oʻgʻitlar boʻyicha maslahat berdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "diplomat",
+      "pronunciation_uz": "diplomat",
+      "uzbek": "diplomat",
+      "pos": "noun",
+      "example_en": "The experienced diplomat speaks four foreign languages fluently.",
+      "example_uz": "Tajribali diplomat toʻrtta xorijiy tilda ravon soʻzlashadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "ambassador",
+      "pronunciation_uz": "embesador",
+      "uzbek": "elchi",
+      "pos": "noun",
+      "example_en": "The ambassador presented his credentials to the President.",
+      "example_uz": "Elchi Prezidentga ishonch yorliqlarini topshirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "civil servant",
+      "pronunciation_uz": "sivil servant",
+      "uzbek": "davlat xizmatchisi",
+      "pos": "noun",
+      "example_en": "Every civil servant must act with honesty and transparency.",
+      "example_uz": "Har bir davlat xizmatchisi halollik va ochiqlik bilan ish tutishi shart.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "recruit",
+      "pronunciation_uz": "rikrut",
+      "uzbek": "ishga jalb qilmoq, saralab olmoq",
+      "pos": "verb",
+      "example_en": "Universities hold job fairs where companies recruit graduates.",
+      "example_uz": "Universitetlarda kompaniyalar bitiruvchilarni ishga jalb qiladigan mehnat yarmarkalari oʻtkaziladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "dismiss",
+      "pronunciation_uz": "dismis",
+      "uzbek": "ishdan boʻshatmoq",
+      "pos": "verb",
+      "example_en": "A manager cannot dismiss an employee without a valid legal reason.",
+      "example_uz": "Rahbar qonuniy asossiz xodimni ishdan boʻshata olmaydi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "resign",
+      "pronunciation_uz": "rizayn",
+      "uzbek": "isteʼfoga chiqmoq, oʻz xohishi bilan ishdan ketmoq",
+      "pos": "verb",
+      "example_en": "He decided to resign from his post to start his own workshop.",
+      "example_uz": "U oʻz ustaxonasini ochish uchun lavozimidan ketishga qaror qildi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "supervise",
+      "pronunciation_uz": "supervayz",
+      "uzbek": "nazorat qilmoq, boshqarmoq (ishni)",
+      "pos": "verb",
+      "example_en": "A senior engineer will supervise the installation of the turbines.",
+      "example_uz": "Katta muhandis turbinalarni oʻrnatish jarayonini nazorat qiladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "toil",
+      "pronunciation_uz": "toyl",
+      "uzbek": "mashaqqat bilan mehnat qilmoq, ter toʻkmoq",
+      "pos": "verb",
+      "example_en": "Farmers toil in the fields from early spring until late autumn.",
+      "example_uz": "Dehqonlar erta bahordan kech kuzgacha dalalarda ter toʻkib mehnat qiladilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "delegate",
+      "pronunciation_uz": "deligeyt",
+      "uzbek": "vakolat yoki vazifani topshirmoq",
+      "pos": "verb",
+      "example_en": "An effective leader knows how to delegate tasks to team members.",
+      "example_uz": "Samarali rahbar vazifalarni jamoa aʼzolariga qanday taqsimlashni biladi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "skilled",
+      "pronunciation_uz": "skild",
+      "uzbek": "malakali, mohir",
+      "pos": "adj",
+      "example_en": "Uzbekistan is famous for its skilled woodcarvers and ceramicists.",
+      "example_uz": "Oʻzbekiston oʻzining mohir yogʻoch oʻymakorlari va kulollari bilan mashhur.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "qualified",
+      "pronunciation_uz": "kuolifayd",
+      "uzbek": "malakali, diplomli, talabga javob beradigan",
+      "pos": "adj",
+      "example_en": "Only a qualified electrician should repair high-voltage panels.",
+      "example_uz": "Yuqori kuchlanishli shitlarni faqat malakali elektrik taʼmirlashi kerak.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "unemployed",
+      "pronunciation_uz": "animployd",
+      "uzbek": "ishsiz",
+      "pos": "adj",
+      "example_en": "Vocational centers offer free courses for unemployed citizens.",
+      "example_uz": "Kasb-hunarga oʻqitish markazlari ishsiz fuqarolar uchun bepul kurslar taklif etadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "part-time",
+      "pronunciation_uz": "part-taym",
+      "uzbek": "toʻliqsiz ish kuni (yarim stavka)",
+      "pos": "adj",
+      "example_en": "Many university students work a part-time job in the evenings.",
+      "example_uz": "Koʻplab universitet talabalari kechqurunlari yarim stavkada ishlaydilar.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "full-time",
+      "pronunciation_uz": "ful-taym",
+      "uzbek": "toʻliq ish kuni (toʻliq stavka)",
+      "pos": "adj",
+      "example_en": "After graduation, she accepted a full-time position at the bank.",
+      "example_uz": "Oʻqishni bitirgach, u bankda toʻliq stavkali lavozimga ishga kirdi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    },
+    {
+      "english": "vocational",
+      "pronunciation_uz": "voukeyshnal",
+      "uzbek": "kasb-hunarga oid, kasbiy",
+      "pos": "adj",
+      "example_en": "Vocational schools train young people in practical trades.",
+      "example_uz": "Kasb-hunar maktablari yoshlarni amaliy hunarlarga oʻrgatadi.",
+      "category": "Kasblar, hunarlar va ish joyi"
+    }
+  ]
+}

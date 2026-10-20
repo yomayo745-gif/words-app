@@ -1,0 +1,1069 @@
+{
+  "title": "Sport turlari va musobaqalar",
+  "category": "Sports, Athletics & Competitions",
+  "group": "topic",
+  "words": [
+    {
+      "english": "amateur",
+      "pronunciation_uz": "emacher",
+      "uzbek": "havaskor",
+      "pos": "noun",
+      "example_en": "The tournament is open to both amateur and professional boxers.",
+      "example_uz": "Turnir ham havaskor, ham professional bokschilar uchun ochiq.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "archery",
+      "pronunciation_uz": "archeri",
+      "uzbek": "kamonbozlik (yoydan oʻq otish)",
+      "pos": "noun",
+      "example_en": "Steady hands and sharp focus are essential in archery.",
+      "example_uz": "Kamonbozlikda qoʻlning qimirlamasligi va oʻtkir diqqat juda muhim.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "athlete",
+      "pronunciation_uz": "atlit",
+      "uzbek": "sportchi (atlet)",
+      "pos": "noun",
+      "example_en": "Uzbek athletes won several gold medals at the Olympics.",
+      "example_uz": "Oʻzbekistonlik sportchilar Olimpiadada bir nechta oltin medallarni qoʻlga kiritdilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "athletics",
+      "pronunciation_uz": "atletiks",
+      "uzbek": "yengil atletika",
+      "pos": "noun",
+      "example_en": "Running, jumping, and throwing events make up athletics.",
+      "example_uz": "Yugurish, sakrash va uloqtirish musobaqalari yengil atletikani tashkil etadi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "badminton",
+      "pronunciation_uz": "bedminton",
+      "uzbek": "badminton",
+      "pos": "noun",
+      "example_en": "We played badminton with a shuttlecock in the park.",
+      "example_uz": "Biz bogʻda volan bilan badminton oʻynadik.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "ball",
+      "pronunciation_uz": "bol",
+      "uzbek": "toʻp (koptok)",
+      "pos": "noun",
+      "example_en": "The midfielder passed the ball to the striker.",
+      "example_uz": "Yarim himoyachi toʻpni hujumchiga uzatdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "barbell",
+      "pronunciation_uz": "barbel",
+      "uzbek": "shtanga",
+      "pos": "noun",
+      "example_en": "The weightlifter lifted a heavy barbell above his head.",
+      "example_uz": "Ogʻir atletikachi ogʻir shtangani boshi uzra koʻtardi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "baseball",
+      "pronunciation_uz": "beysbol",
+      "uzbek": "beysbol",
+      "pos": "noun",
+      "example_en": "The batter hit the baseball high over the fence.",
+      "example_uz": "Oʻyinchi beysbol toʻpini panjara ustidan balandga urib yubordi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "basketball",
+      "pronunciation_uz": "basketbol",
+      "uzbek": "basketbol",
+      "pos": "noun",
+      "example_en": "He scored three points from behind the basketball arc.",
+      "example_uz": "U basketbol yoyining ortidan uch ochkoli toʻp kiritdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "baton",
+      "pronunciation_uz": "baton",
+      "uzbek": "estafeta tayoqchasi",
+      "pos": "noun",
+      "example_en": "The sprinter passed the baton smoothly to her teammate.",
+      "example_uz": "Qisqa masofaga yuguruvchi estafeta tayoqchasini jamoadoshiga ravon uzatdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "biathlon",
+      "pronunciation_uz": "bayatlon",
+      "uzbek": "biatlon",
+      "pos": "noun",
+      "example_en": "Biathlon combines cross-country skiing and rifle shooting.",
+      "example_uz": "Biatlon changʻi poygasi va miltiqdan oʻq otishni birlashtiradi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "billiards",
+      "pronunciation_uz": "bilyardz",
+      "uzbek": "bilyard",
+      "pos": "noun",
+      "example_en": "Playing billiards requires geometry and precise control.",
+      "example_uz": "Bilyard oʻynash geometriya va aniq nazoratni talab qiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "bleachers",
+      "pronunciation_uz": "blichers",
+      "uzbek": "tribuna oʻrindiqlari",
+      "pos": "noun",
+      "example_en": "Students cheered loudly from the stadium bleachers.",
+      "example_uz": "Talabalar stadion tribunalaridan baland ovozda olqishladilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "bout",
+      "pronunciation_uz": "baut",
+      "uzbek": "jang (boks yoki kurash bellashuvi)",
+      "pos": "noun",
+      "example_en": "The championship boxing bout lasted twelve rounds.",
+      "example_uz": "Chempionlik boks jangi oʻn ikki raund davom etdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "bowling",
+      "pronunciation_uz": "bouling",
+      "uzbek": "bouling",
+      "pos": "noun",
+      "example_en": "He knocked down all ten pins on his first bowling throw.",
+      "example_uz": "U birinchi bouling zarbasidayoq oʻnta keglining barchasini yiqitdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "boxer",
+      "pronunciation_uz": "bokser",
+      "uzbek": "bokschi",
+      "pos": "noun",
+      "example_en": "The young boxer trained on the heavy bag every morning.",
+      "example_uz": "Yosh bokschi har ertalab ogʻir qopda mashq qildi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "boxing",
+      "pronunciation_uz": "boksing",
+      "uzbek": "boks",
+      "pos": "noun",
+      "example_en": "Boxing is one of the most popular sports in Uzbekistan.",
+      "example_uz": "Boks Oʻzbekistondagi eng ommabop sport turlaridan biridir.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "captain",
+      "pronunciation_uz": "kepten",
+      "uzbek": "jamoa sardori (kapitan)",
+      "pos": "noun",
+      "example_en": "The team captain shook hands with the referee.",
+      "example_uz": "Jamoa sardori hakam bilan qoʻl berib koʻrishdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "catch",
+      "pronunciation_uz": "kech",
+      "uzbek": "tutib olmoq (toʻpni)",
+      "pos": "verb",
+      "example_en": "The goalkeeper leaped high to catch the corner kick.",
+      "example_uz": "Darvozabon burchakdan tepilgan toʻpni tutib olish uchun balandga sakradi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "champion",
+      "pronunciation_uz": "chempion",
+      "uzbek": "chempion (gʻolib)",
+      "pos": "noun",
+      "example_en": "The reigning world champion defended his title.",
+      "example_uz": "Amaldagi jahon chempioni oʻz unvonini himoya qildi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "championship",
+      "pronunciation_uz": "chempionship",
+      "uzbek": "chempionat (birinchilik)",
+      "pos": "noun",
+      "example_en": "Tashkent hosted the Asian Youth Championship.",
+      "example_uz": "Toshkent yoshlar oʻrtasidagi Osiyo chempionatiga mezbonlik qildi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "cleats",
+      "pronunciation_uz": "klits",
+      "uzbek": "butsa (tishli sport poyabzali)",
+      "pos": "noun",
+      "example_en": "Football players wear cleats for traction on wet grass.",
+      "example_uz": "Futbolchilar hoʻl maysada sirpanmaslik uchun butsa kiyadilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "contested",
+      "pronunciation_uz": "kontested",
+      "uzbek": "keskin kurash ostida oʻtgan",
+      "pos": "adj",
+      "example_en": "The final match was closely contested until the last minute.",
+      "example_uz": "Final uchrashuvi soʻnggi daqiqagacha keskin kurash ostida oʻtdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "corner kick",
+      "pronunciation_uz": "korner kik",
+      "uzbek": "burchak zarbasi",
+      "pos": "noun",
+      "example_en": "The defender headed the ball in from a corner kick.",
+      "example_uz": "Himoyachi burchak zarbasidan uzatilgan toʻpni boshi bilan darvozaga kiritdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "court",
+      "pronunciation_uz": "kort",
+      "uzbek": "kort (tennis yoki basketbol maydoni)",
+      "pos": "noun",
+      "example_en": "They played doubles on an outdoor clay tennis court.",
+      "example_uz": "Ular ochiq tuproqli tennis kortida juftlik bahsini oʻtkazdilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "crossbar",
+      "pronunciation_uz": "krosbar",
+      "uzbek": "darvoza toʻsini (perekladina)",
+      "pos": "noun",
+      "example_en": "The free kick struck the crossbar and bounced out.",
+      "example_uz": "Jarima zarbasi darvoza toʻsiniga tegib qaytdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "cycling",
+      "pronunciation_uz": "saykling",
+      "uzbek": "velosport",
+      "pos": "noun",
+      "example_en": "Road cycling requires strong legs and cardiovascular endurance.",
+      "example_uz": "Shosse velosporti baquvvat oyoqlar va yurak-qon tomir chidamliligini talab qiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "defender",
+      "pronunciation_uz": "difender",
+      "uzbek": "himoyachi",
+      "pos": "noun",
+      "example_en": "The central defender blocked the dangerous shot.",
+      "example_uz": "Markaziy himoyachi xavfli zarbani toʻsib qoldi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "discus",
+      "pronunciation_uz": "diskas",
+      "uzbek": "disk (uloqtirish sport anjomi)",
+      "pos": "noun",
+      "example_en": "The athlete spun inside the ring before throwing the discus.",
+      "example_uz": "Sportchi diskni uloqtirishdan oldin aylana ichida aylandi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "dive",
+      "pronunciation_uz": "dayv",
+      "uzbek": "suvga sakramoq (shoʻngʻimoq)",
+      "pos": "verb",
+      "example_en": "Watch the swimmer dive cleanly off the starting block.",
+      "example_uz": "Suzuvchining start tumbasidan suvga tekis sakrashini kuzating.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "diving",
+      "pronunciation_uz": "dayving",
+      "uzbek": "suvga sakrash sporti (yoki dayving)",
+      "pos": "noun",
+      "example_en": "Synchronized diving requires perfect timing between partners.",
+      "example_uz": "Sinxron suvga sakrash sheriklar oʻrtasida mukammal uygʻunlikni talab qiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "dodge",
+      "pronunciation_uz": "doj",
+      "uzbek": "chap bermoq (zarbadan qochmoq)",
+      "pos": "verb",
+      "example_en": "The boxer moved his head quickly to dodge the punch.",
+      "example_uz": "Bokschi zarbadan chap berish uchun boshini tez harakatlantirdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "doping",
+      "pronunciation_uz": "douping",
+      "uzbek": "doping (taqiqlangan vosita)",
+      "pos": "noun",
+      "example_en": "All medalists undergo strict anti-doping tests.",
+      "example_uz": "Barcha sovrindorlar qatʼiy antidoping tekshiruvidan oʻtadilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "dribble",
+      "pronunciation_uz": "dribl",
+      "uzbek": "toʻpni olib yurmoq (dribling qilmoq)",
+      "pos": "verb",
+      "example_en": "He can dribble past two defenders in tight spaces.",
+      "example_uz": "U tor maydonda ikki himoyachini aldab oʻta oladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "dumbbell",
+      "pronunciation_uz": "dambel",
+      "uzbek": "gantel",
+      "pos": "noun",
+      "example_en": "Do ten repetitions of shoulder presses with light dumbbells.",
+      "example_uz": "Yengil gantellar bilan yelkaga koʻtarish mashqini oʻn marta bajaring.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "equalizer",
+      "pronunciation_uz": "ikvalayzer",
+      "uzbek": "hisobni tenglashtiruvchi gol",
+      "pos": "noun",
+      "example_en": "The striker scored a dramatic equalizer in stoppage time.",
+      "example_uz": "Hujumchi qoʻshib berilgan vaqtda hisobni tenglashtiruvchi dramatik gol urdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "fencing",
+      "pronunciation_uz": "fensing",
+      "uzbek": "qilichbozlik",
+      "pos": "noun",
+      "example_en": "Competitors wear protective white masks in fencing.",
+      "example_uz": "Qilichbozlikda musobaqa ishtirokchilari himoya qiluvchi oq niqob kiyadilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "field hockey",
+      "pronunciation_uz": "fild hoki",
+      "uzbek": "chim ustida xokkey",
+      "pos": "noun",
+      "example_en": "Field hockey is played with curved sticks and a hard ball.",
+      "example_uz": "Chim ustida xokkey uchi qayrilgan tayoqlar va qattiq toʻp bilan oʻynaladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "figure skating",
+      "pronunciation_uz": "figyur skeyting",
+      "uzbek": "figurali uchish",
+      "pos": "noun",
+      "example_en": "Figure skating blends athletic jumps with graceful artistry.",
+      "example_uz": "Figurali uchish atletik sakrashlarni nafis sanʼat bilan uygʻunlashtiradi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "finish line",
+      "pronunciation_uz": "finish layn",
+      "uzbek": "marra chizigʻi",
+      "pos": "noun",
+      "example_en": "She sprinted across the finish line in first place.",
+      "example_uz": "U marra chizigʻini birinchi boʻlib kesib oʻtdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "flutter kick",
+      "pronunciation_uz": "flater kik",
+      "uzbek": "oyoqlarni navbatma-navbat harakatlantirish (suzishda)",
+      "pos": "noun",
+      "example_en": "Practice the flutter kick while holding a kickboard.",
+      "example_uz": "Suzish taxtachasini ushlab oyoqlarni harakatlantirishni mashq qiling.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "football",
+      "pronunciation_uz": "futbol",
+      "uzbek": "futbol",
+      "pos": "noun",
+      "example_en": "Children play football in every neighborhood across the country.",
+      "example_uz": "Mamlakatning har bir mahallasida bolalar futbol oʻynaydilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "foul",
+      "pronunciation_uz": "faul",
+      "uzbek": "qoida buzilishi (fol)",
+      "pos": "noun",
+      "example_en": "The referee blew the whistle after a rough foul.",
+      "example_uz": "Qoʻpol qoida buzilishidan soʻng hakam hushtak chaldi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "free kick",
+      "pronunciation_uz": "fri kik",
+      "uzbek": "jarima zarbasi",
+      "pos": "noun",
+      "example_en": "He curled the free kick into the top corner of the net.",
+      "example_uz": "U jarima zarbasidan toʻpni darvozaning yuqori burchagiga aylantirib kiritdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "freestyle",
+      "pronunciation_uz": "fristayl",
+      "uzbek": "erkin uslub (kurash yoki suzishda)",
+      "pos": "noun",
+      "example_en": "He won the gold medal in freestyle wrestling.",
+      "example_uz": "U erkin kurash boʻyicha oltin medalni qoʻlga kiritdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "goalkeeper",
+      "pronunciation_uz": "goulkiper",
+      "uzbek": "darvozabon",
+      "pos": "noun",
+      "example_en": "The goalkeeper saved a penalty in the final minute.",
+      "example_uz": "Darvozabon soʻnggi daqiqada penaltini qaytardi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "gold medal",
+      "pronunciation_uz": "gould medal",
+      "uzbek": "oltin medal",
+      "pos": "noun",
+      "example_en": "Winning an Olympic gold medal is every athlete's dream.",
+      "example_uz": "Olimpiada oltin medalini yutish har bir sportchining orzusidir.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "golf",
+      "pronunciation_uz": "golf",
+      "uzbek": "golf",
+      "pos": "noun",
+      "example_en": "The player hit the small white golf ball onto the green.",
+      "example_uz": "Oʻyinchi kichkina oq golf toʻpini maysazorga urib tushirdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "gym",
+      "pronunciation_uz": "jim",
+      "uzbek": "sport zal (trenajyor zali)",
+      "pos": "noun",
+      "example_en": "We work out at the neighborhood gym after work.",
+      "example_uz": "Biz ishdan keyin mahalladagi sport zalida shugʻullanamiz.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "gymnast",
+      "pronunciation_uz": "jimnast",
+      "uzbek": "gimnastikachi",
+      "pos": "noun",
+      "example_en": "The legendary Uzbek gymnast competed in eight Olympic Games.",
+      "example_uz": "Afsonaviy oʻzbek gimnastikachisi sakkizta Olimpiya oʻyinlarida qatnashgan.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "halftime",
+      "pronunciation_uz": "haftaym",
+      "uzbek": "taymlar oraligʻidagi tanaffus",
+      "pos": "noun",
+      "example_en": "The score was tied one-to-one at halftime.",
+      "example_uz": "Tanaffusda hisob bir-bir koʻrinishida teng edi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "handball",
+      "pronunciation_uz": "hendbol",
+      "uzbek": "gandbol (qoʻl toʻpi)",
+      "pos": "noun",
+      "example_en": "Handball is a fast-paced indoor team sport.",
+      "example_uz": "Gandbol yopiq zalda oʻynaladigan tezkor jamoaviy sport turidir.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "header",
+      "pronunciation_uz": "heder",
+      "uzbek": "bosh bilan berilgan zarba",
+      "pos": "noun",
+      "example_en": "The tall striker scored with a powerful header.",
+      "example_uz": "Boʻydor hujumchi bosh bilan kuchli zarba berib gol urdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "high jump",
+      "pronunciation_uz": "hay jamp",
+      "uzbek": "balandlikka sakrash",
+      "pos": "noun",
+      "example_en": "She cleared the bar at two meters in the high jump.",
+      "example_uz": "U balandlikka sakrashda ikki metrlik plankadan oʻtdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "hockey",
+      "pronunciation_uz": "hoki",
+      "uzbek": "xokkey",
+      "pos": "noun",
+      "example_en": "Ice hockey players skate at high speeds across the rink.",
+      "example_uz": "Muz ustida xokkey oʻyinchilari maydon boʻylab katta tezlikda uchadilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "hoop",
+      "pronunciation_uz": "hup",
+      "uzbek": "halqa (basketbol savati yoki gimnastika halqasi)",
+      "pos": "noun",
+      "example_en": "The ball rimmed around the basketball hoop and dropped in.",
+      "example_uz": "Toʻp basketbol halqasi atrofida aylanib, savatga tushdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "hurdle",
+      "pronunciation_uz": "herdl",
+      "uzbek": "toʻsiq (yugurish toʻsigʻi)",
+      "pos": "noun",
+      "example_en": "Runners leap over ten hurdles in the 110-meter race.",
+      "example_uz": "Yuguruvchilar 110 metrli poygada oʻnta toʻsiqdan sakrab oʻtadilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "ice rink",
+      "pronunciation_uz": "ays rink",
+      "uzbek": "muz maydoni (katok)",
+      "pos": "noun",
+      "example_en": "Families went ice skating at the Humo Arena ice rink.",
+      "example_uz": "Oilalar Humo Arena muz maydonida konkida uchishga bordilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "javelin",
+      "pronunciation_uz": "jevelin",
+      "uzbek": "nayza (uloqtirish nayzasi)",
+      "pos": "noun",
+      "example_en": "His javelin throw broke the national record.",
+      "example_uz": "Uning nayza uloqtirishi milliy rekordni yangiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "jersey",
+      "pronunciation_uz": "jerzi",
+      "uzbek": "sport futbolkasi (forma)",
+      "pos": "noun",
+      "example_en": "Each player's name and number are printed on the jersey.",
+      "example_uz": "Har bir oʻyinchining ismi va raqami sport futbolkasiga yozilgan.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "judo",
+      "pronunciation_uz": "judou",
+      "uzbek": "dzyudo",
+      "pos": "noun",
+      "example_en": "Uzbekistan has a strong tradition of excellence in judo.",
+      "example_uz": "Oʻzbekiston dzyudo boʻyicha kuchli mahorat anʼanasiga ega.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "jump rope",
+      "pronunciation_uz": "jamp roup",
+      "uzbek": "argʻamchi (skakalka)",
+      "pos": "noun",
+      "example_en": "Boxers use a jump rope to improve footwork and stamina.",
+      "example_uz": "Bokschilar oyoq harakati va chidamlilikni oshirish uchun argʻamchida sakraydilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "karate",
+      "pronunciation_uz": "karati",
+      "uzbek": "karate",
+      "pos": "noun",
+      "example_en": "He earned his black belt in karate after years of practice.",
+      "example_uz": "U yillar davomidagi mashgʻulotlardan soʻng karateda qora belbogʻ oldi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "knockout",
+      "pronunciation_uz": "nokaut",
+      "uzbek": "nokaut",
+      "pos": "noun",
+      "example_en": "The heavyweight boxer won the match by knockout.",
+      "example_uz": "Ogʻir vaznli bokschi jangda nokaut bilan gʻalaba qozondi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "kurash",
+      "pronunciation_uz": "kurash",
+      "uzbek": "kurash (oʻzbek milliy kurashi)",
+      "pos": "noun",
+      "example_en": "Kurash originated in Uzbekistan and is now an international sport.",
+      "example_uz": "Kurash Oʻzbekistonda paydo boʻlgan va hozirda xalqaro sport turidir.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "league",
+      "pronunciation_uz": "lig",
+      "uzbek": "liga",
+      "pos": "noun",
+      "example_en": "Sixteen clubs compete in the top football league.",
+      "example_uz": "Oliy futbol ligasida oʻn oltita klub kuch sinashadi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "long jump",
+      "pronunciation_uz": "long jamp",
+      "uzbek": "uzunlikka sakrash",
+      "pos": "noun",
+      "example_en": "Speed on the runway is crucial for a great long jump.",
+      "example_uz": "Uzoqqa sakrashda yaxshi natija uchun yoʻlakchadagi tezlik muhim.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "marathon",
+      "pronunciation_uz": "maraton",
+      "uzbek": "marafon (42 km yugurish)",
+      "pos": "noun",
+      "example_en": "Thousands of runners participated in the Tashkent International Marathon.",
+      "example_uz": "Toshkent xalqaro marafonida minglab yuguruvchilar ishtirok etdilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "martial arts",
+      "pronunciation_uz": "marshal arts",
+      "uzbek": "jang sanʼatlari (sharq yakkakurashlari)",
+      "pos": "noun",
+      "example_en": "Martial arts teach self-control, respect, and discipline.",
+      "example_uz": "Jang sanʼatlari oʻzini tutish, hurmat va intizomni oʻrgatadi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "mat",
+      "pronunciation_uz": "met",
+      "uzbek": "gilam (kurash yoki gimnastika toʻshagi)",
+      "pos": "noun",
+      "example_en": "The two wrestlers stepped onto the circular mat.",
+      "example_uz": "Ikki kurashchi dumaloq gilam ustiga chiqdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "midfielder",
+      "pronunciation_uz": "midfilder",
+      "uzbek": "yarim himoyachi",
+      "pos": "noun",
+      "example_en": "A creative midfielder controls the tempo of the game.",
+      "example_uz": "Ijodkor yarim himoyachi oʻyin surʼatini boshqaradi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "net",
+      "pronunciation_uz": "net",
+      "uzbek": "toʻr (darvoza yoki tennis toʻri)",
+      "pos": "noun",
+      "example_en": "The tennis ball clipped the top of the net.",
+      "example_uz": "Tennis toʻpi toʻrning yuqori chetiga tegib oʻtdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "offense",
+      "pronunciation_uz": "ofens",
+      "uzbek": "hujum (hujum chizigʻi)",
+      "pos": "noun",
+      "example_en": "The basketball team is known for its fast-break offense.",
+      "example_uz": "Basketbol jamoasi oʻzining tezkor hujumi bilan tanilgan.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "offside",
+      "pronunciation_uz": "ofsayd",
+      "uzbek": "oʻyindan tashqari holat (ofsayd)",
+      "pos": "noun",
+      "example_en": "The goal was disallowed because the striker was offside.",
+      "example_uz": "Hujumchi oʻyindan tashqari holatda boʻlgani uchun gol inobatga olinmadi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "olympics",
+      "pronunciation_uz": "olimpiks",
+      "uzbek": "Olimpiya oʻyinlari",
+      "pos": "noun",
+      "example_en": "The Summer Olympics take place every four years.",
+      "example_uz": "Yozgi Olimpiya oʻyinlari har toʻrt yilda bir marta oʻtkaziladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "paddle",
+      "pronunciation_uz": "pedl",
+      "uzbek": "eshkak (yoki stol tennisi raketkasi)",
+      "pos": "noun",
+      "example_en": "Hold the table tennis paddle with a relaxed grip.",
+      "example_uz": "Stol tennisi raketkasini erkin ushlang.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "penalty",
+      "pronunciation_uz": "penalti",
+      "uzbek": "penalti (jarima zarbasi)",
+      "pos": "noun",
+      "example_en": "The referee awarded a penalty for a handball in the box.",
+      "example_uz": "Hakam jarima maydonchasi ichida qoʻl bilan oʻynalgani uchun penalti belgiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "pitch",
+      "pronunciation_uz": "pich",
+      "uzbek": "futbol maydoni",
+      "pos": "noun",
+      "example_en": "Groundskeepers watered the grass pitch before kickoff.",
+      "example_uz": "Maydon xodimlari oʻyin boshlanishidan oldin maysazorni sugʻordilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "player",
+      "pronunciation_uz": "pleyer",
+      "uzbek": "oʻyinchi",
+      "pos": "noun",
+      "example_en": "Each team is allowed to substitute five players.",
+      "example_uz": "Har bir jamoaga beshta oʻyinchini almashtirishga ruxsat beriladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "playoff",
+      "pronunciation_uz": "pleyof",
+      "uzbek": "pley-off (chiqib ketish bahslari)",
+      "pos": "noun",
+      "example_en": "The top eight teams qualify for the championship playoffs.",
+      "example_uz": "Eng yaxshi sakkizta jamoa chempionat pley-off bosqichiga yoʻl oladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "podium",
+      "pronunciation_uz": "poudium",
+      "uzbek": "shohsupa (podium)",
+      "pos": "noun",
+      "example_en": "Three national flags were raised above the podium.",
+      "example_uz": "Shohsupa uzra uchta davlat bayrogʻi koʻtarildi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "point",
+      "pronunciation_uz": "poynt",
+      "uzbek": "ochko (ball)",
+      "pos": "noun",
+      "example_en": "Our volleyball team won the set by two points.",
+      "example_uz": "Voleybol jamoamiz partiyani ikki ochko farqi bilan yutdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "pole vault",
+      "pronunciation_uz": "poul volt",
+      "uzbek": "langarchoʻp bilan sakrash",
+      "pos": "noun",
+      "example_en": "The pole vault requires speed, strength, and acrobatics.",
+      "example_uz": "Langarchoʻp bilan sakrash tezlik, kuch va akrobatikani talab qiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "pool",
+      "pronunciation_uz": "pul",
+      "uzbek": "suzish havzasi (basseyn)",
+      "pos": "noun",
+      "example_en": "An Olympic-sized swimming pool is fifty meters long.",
+      "example_uz": "Olimpiya oʻlchamidagi suzish havzasining uzunligi ellik metr boʻladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "practice",
+      "pronunciation_uz": "praktis",
+      "uzbek": "mashgʻulot (mashq qilmoq)",
+      "pos": "noun",
+      "example_en": "Football practice starts at four o'clock every Tuesday.",
+      "example_uz": "Futbol mashgʻuloti har seshanba soat toʻrtda boshlanadi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "puck",
+      "pronunciation_uz": "pak",
+      "uzbek": "shayba (xokkey shaybasi)",
+      "pos": "noun",
+      "example_en": "The hockey player slid the rubber puck across the ice.",
+      "example_uz": "Xokkeychi rezina shaybani muz ustida sirgʻantirib uzatdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "punch",
+      "pronunciation_uz": "panch",
+      "uzbek": "musht zarbasi (musht tushirmoq)",
+      "pos": "noun",
+      "example_en": "He blocked the left hook and countered with a straight punch.",
+      "example_uz": "U chapdan berilgan zarbani toʻsib, toʻgʻri musht zarbasi bilan javob qaytardi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "qualify",
+      "pronunciation_uz": "kvalifay",
+      "uzbek": "saralashdan oʻtmoq (yoʻllanma olmoq)",
+      "pos": "verb",
+      "example_en": "Our national team managed to qualify for the World Cup.",
+      "example_uz": "Milliy terma jamoamiz Jahon chempionatiga yoʻllanma olishga muvaffaq boʻldi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "quarterfinal",
+      "pronunciation_uz": "kvorterfaynal",
+      "uzbek": "chorak final",
+      "pos": "noun",
+      "example_en": "She defeated the top seed in the quarterfinal.",
+      "example_uz": "U chorak finalda birinchi raqamli saralangan sportchini magʻlub etdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "race",
+      "pronunciation_uz": "reys",
+      "uzbek": "poyga (yugurish musobaqasi)",
+      "pos": "noun",
+      "example_en": "The 100-meter race is the fastest event on the track.",
+      "example_uz": "100 metrga yugurish poygasi trekdagi eng tezkor yoʻnalishdir.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "racket",
+      "pronunciation_uz": "reket",
+      "uzbek": "raketka",
+      "pos": "noun",
+      "example_en": "String your tennis racket with the right tension.",
+      "example_uz": "Tennis raketkangiz torlarini toʻgʻri taranglikda torting.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "record",
+      "pronunciation_uz": "rekord",
+      "uzbek": "rekord",
+      "pos": "noun",
+      "example_en": "The weightlifter set a new Olympic record in the clean and jerk.",
+      "example_uz": "Ogʻir atletikachi siltab koʻtarishda yangi Olimpiya rekordini oʻrnatdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "referee",
+      "pronunciation_uz": "referi",
+      "uzbek": "hakam (referi)",
+      "pos": "noun",
+      "example_en": "The referee checked the video replay before making a decision.",
+      "example_uz": "Hakam qaror qabul qilishdan oldin videotakrorni koʻrib chiqdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "relay",
+      "pronunciation_uz": "riley",
+      "uzbek": "estafeta",
+      "pos": "noun",
+      "example_en": "Four runners make up a 4x100 meter relay team.",
+      "example_uz": "Toʻrt nafar yuguruvchi 4x100 metrli estafeta jamoasini tashkil qiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "round",
+      "pronunciation_uz": "raund",
+      "uzbek": "raund (davra / bosqich)",
+      "pos": "noun",
+      "example_en": "She advanced to the third round of the tennis open.",
+      "example_uz": "U tennis ochiq chempionatining uchinchi bosqichiga chiqdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "rowing",
+      "pronunciation_uz": "rouing",
+      "uzbek": "akademik eshkak eshish",
+      "pos": "noun",
+      "example_en": "Rowing crews train early on the calm water of the canal.",
+      "example_uz": "Eshkak eshish jamoalari erta tongda kanalning tinch suvida mashq qiladilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "rugby",
+      "pronunciation_uz": "ragbi",
+      "uzbek": "regbi",
+      "pos": "noun",
+      "example_en": "Rugby is played with an oval-shaped ball.",
+      "example_uz": "Regbi oval shakldagi toʻp bilan oʻynaladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "runner",
+      "pronunciation_uz": "raner",
+      "uzbek": "yuguruvchi",
+      "pos": "noun",
+      "example_en": "Hydration stations were set up for the marathon runners.",
+      "example_uz": "Marafon yuguruvchilari uchun suv ichish shoxobchalari tashkil etildi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "scoreboard",
+      "pronunciation_uz": "skorbord",
+      "uzbek": "tablo (hisob koʻrsatkichi)",
+      "pos": "noun",
+      "example_en": "The electronic scoreboard flashed the goal scorer's name.",
+      "example_uz": "Elektron tabloda gol muallifining ismi chaqnadi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "scuba diving",
+      "pronunciation_uz": "skuba dayving",
+      "uzbek": "akvalang bilan suv ostiga shoʻngʻish",
+      "pos": "noun",
+      "example_en": "Scuba diving lets you explore coral reefs up close.",
+      "example_uz": "Akvalang bilan shoʻngʻish marjon riflarini yaqindan oʻrganish imkonini beradi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "semifinal",
+      "pronunciation_uz": "semifaynal",
+      "uzbek": "yarim final",
+      "pos": "noun",
+      "example_en": "Winners of the two semifinals will meet on Sunday.",
+      "example_uz": "Ikki yarim final gʻoliblari yakshanba kuni oʻzaro kuch sinashadilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "serve",
+      "pronunciation_uz": "serv",
+      "uzbek": "toʻpni oʻyinga kiritmoq (podacha)",
+      "pos": "verb",
+      "example_en": "It is her turn to serve in the volleyball match.",
+      "example_uz": "Voleybol uchrashuvida toʻpni oʻyinga kiritish navbati uniki.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "shot put",
+      "pronunciation_uz": "shot put",
+      "uzbek": "yadro uloqtirish",
+      "pos": "noun",
+      "example_en": "The shot put requires explosive upper-body power.",
+      "example_uz": "Yadro uloqtirish tana yuqori qismining portlovchi kuchini talab qiladi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "shuttlecock",
+      "pronunciation_uz": "shatlkok",
+      "uzbek": "volan (badminton patli koptokchasi)",
+      "pos": "noun",
+      "example_en": "Hit the feathered shuttlecock high over the net.",
+      "example_uz": "Patli volanni toʻr ustidan baland qilib uring.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "silver medal",
+      "pronunciation_uz": "silver medal",
+      "uzbek": "kumush medal",
+      "pos": "noun",
+      "example_en": "Finishing second earned him the silver medal.",
+      "example_uz": "Ikkinchi oʻrinni egallash unga kumush medalni keltirdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "skate",
+      "pronunciation_uz": "skeyt",
+      "uzbek": "konki (konkida uchmoq)",
+      "pos": "noun",
+      "example_en": "Sharpen the blades of your ice skates regularly.",
+      "example_uz": "Muz konkilarining tigʻini muntazam charxlab turing.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "skateboard",
+      "pronunciation_uz": "skeytbord",
+      "uzbek": "skeytbord",
+      "pos": "noun",
+      "example_en": "Teenagers practiced tricks on their skateboards at the park.",
+      "example_uz": "Oʻsmirlar bogʻda skeytbordlarida mashqlar bajarishdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "ski",
+      "pronunciation_uz": "ski",
+      "uzbek": "changʻi (changʻida uchmoq)",
+      "pos": "noun",
+      "example_en": "Many tourists ski down the slopes of Amirsoy in winter.",
+      "example_uz": "Qishda koʻplab sayyohlar Amirsoy yonbagʻirlarida changʻida uchadilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "skiing",
+      "pronunciation_uz": "skiing",
+      "uzbek": "changʻi sporti",
+      "pos": "noun",
+      "example_en": "Alpine skiing is a thrilling winter sport.",
+      "example_uz": "Togʻ changʻi sporti hayajonli qishki sport turidir.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "spectator",
+      "pronunciation_uz": "spekteytor",
+      "uzbek": "tomoshabin",
+      "pos": "noun",
+      "example_en": "Spectators applauded the gymnasts after the routine.",
+      "example_uz": "Tomoshabinlar mashqdan soʻng gimnastikachilarni olqishladilar.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "sprint",
+      "pronunciation_uz": "sprint",
+      "uzbek": "qisqa masofaga tez yugurish (sprint)",
+      "pos": "noun",
+      "example_en": "He saved his energy for a final sprint to the tape.",
+      "example_uz": "U kuchini marraga yaqin soʻnggi tezlanish uchun saqlab qoʻydi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "squad",
+      "pronunciation_uz": "skvod",
+      "uzbek": "tarkib (jamoa tarkibi)",
+      "pos": "noun",
+      "example_en": "The coach named twenty-three players to the national squad.",
+      "example_uz": "Murabbiy milliy terma jamoa tarkibiga yigirma uch nafar oʻyinchini kiritdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "striker",
+      "pronunciation_uz": "strayker",
+      "uzbek": "hujumchi (forvard)",
+      "pos": "noun",
+      "example_en": "The striker scored twenty goals during the season.",
+      "example_uz": "Hujumchi mavsum davomida yigirmata gol urdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "substitute",
+      "pronunciation_uz": "sabstityut",
+      "uzbek": "zaxira oʻyinchisi (oʻrinbosar)",
+      "pos": "noun",
+      "example_en": "The substitute came on and scored the winning goal.",
+      "example_uz": "Zaxiradan tushgan oʻyinchi gʻalaba golini kiritdi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "swim",
+      "pronunciation_uz": "svim",
+      "uzbek": "suzmoq",
+      "pos": "verb",
+      "example_en": "Learning to swim is an important life skill for children.",
+      "example_uz": "Suzishni oʻrganish bolalar uchun muhim hayotiy koʻnikmadir.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "swimmer",
+      "pronunciation_uz": "svimer",
+      "uzbek": "suzuvchi",
+      "pos": "noun",
+      "example_en": "The swimmer wore goggles and a silicone cap.",
+      "example_uz": "Suzuvchi koʻzoynak va silikon qalpoqcha taqib oldi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "swimming",
+      "pronunciation_uz": "sviming",
+      "uzbek": "suzish sporti",
+      "pos": "noun",
+      "example_en": "Swimming works out every major muscle group in the body.",
+      "example_uz": "Suzish tanadagi barcha asosiy mushak guruhlarini chiniqtiradi.",
+      "category": "Sport turlari va musobaqalar"
+    },
+    {
+      "english": "table tennis",
+      "pronunciation_uz": "teybl tenis",
+      "uzbek": "stol tennisi (ping-pong)",
+      "pos": "noun",
+      "example_en": "We have a table tennis table in the student recreation room.",
+      "example_uz": "Talabalar dam olish xonasida stol tennisi stoli bor.",
+      "category": "Sport turlari va musobaqalar"
+    }
+  ]
+}
