@@ -1,0 +1,187 @@
+{
+  "title": "1-kitob: 1.2-bob",
+  "category": "1500 Essential English Words 1",
+  "group": "book",
+  "words": [
+    {
+      "english": "able",
+      "pronunciation_uz": "eybl",
+      "uzbek": "qila olmoq",
+      "pos": "adj",
+      "example_en": "She is able to swim.",
+      "example_uz": "U suza oladi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "alone",
+      "pronunciation_uz": "eloun",
+      "uzbek": "yolgʻiz",
+      "pos": "adj",
+      "example_en": "She cries when she is alone.",
+      "example_uz": "Qachonki u yolgʻiz qolsa yigʻlaydi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "animal",
+      "pronunciation_uz": "enimal",
+      "uzbek": "hayvon",
+      "pos": "noun",
+      "example_en": "The boy watches the animal.",
+      "example_uz": "Bola hayvonni tomosha qiladi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "become",
+      "pronunciation_uz": "bikam",
+      "uzbek": "boʻlmoq",
+      "pos": "verb",
+      "example_en": "The child wants to become a teacher.",
+      "example_uz": "Bola oʻqituvchi boʻlishni xohlaydi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "call",
+      "pronunciation_uz": "kol",
+      "uzbek": "chaqirmoq",
+      "pos": "verb",
+      "example_en": "Dad calls my name.",
+      "example_uz": "Dadam mening ismim bilan chaqiradi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "catch",
+      "pronunciation_uz": "kech",
+      "uzbek": "tutib olmoq",
+      "pos": "verb",
+      "example_en": "He catches the ball.",
+      "example_uz": "U toʻpni tutib oladi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "country",
+      "pronunciation_uz": "kantri",
+      "uzbek": "qishloq",
+      "pos": "noun",
+      "example_en": "The farm is in the country.",
+      "example_uz": "Ferma qishloqda.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "monkey",
+      "pronunciation_uz": "manki",
+      "uzbek": "maymun",
+      "pos": "noun",
+      "example_en": "The monkey is in the tree.",
+      "example_uz": "Maymun daraxtda.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "thin",
+      "pronunciation_uz": "sin",
+      "uzbek": "ingichka",
+      "pos": "adj",
+      "example_en": "The laptop is thin.",
+      "example_uz": "Noutbuk ingichka.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "word",
+      "pronunciation_uz": "vord",
+      "uzbek": "soʻz",
+      "pos": "noun",
+      "example_en": "A story has many words.",
+      "example_uz": "Hikoyada koʻp soʻzlar bor.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "baby",
+      "pronunciation_uz": "beybi",
+      "uzbek": "chaqaloq",
+      "pos": "noun",
+      "example_en": "The baby cries a lot.",
+      "example_uz": "Chaqaloq koʻp yigʻlaydi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "clean",
+      "pronunciation_uz": "klin",
+      "uzbek": "tozalamoq",
+      "pos": "verb",
+      "example_en": "She cleans the floor.",
+      "example_uz": "U polni tozalaydi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "eat",
+      "pronunciation_uz": "it",
+      "uzbek": "yemoq",
+      "pos": "verb",
+      "example_en": "The students eat lunch.",
+      "example_uz": "Talabalar tushlik qiladi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "enjoy",
+      "pronunciation_uz": "injoy",
+      "uzbek": "rohatlanmoq",
+      "pos": "verb",
+      "example_en": "She enjoys art class.",
+      "example_uz": "U rasm darsida mazza qiladi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "family",
+      "pronunciation_uz": "femili",
+      "uzbek": "oila",
+      "pos": "noun",
+      "example_en": "My family is big.",
+      "example_uz": "Mening oilam katta.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "fruit",
+      "pronunciation_uz": "frut",
+      "uzbek": "meva",
+      "pos": "noun",
+      "example_en": "She eats fruit every day.",
+      "example_uz": "U har kuni meva yeydi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "jump",
+      "pronunciation_uz": "jamp",
+      "uzbek": "sakramoq",
+      "pos": "verb",
+      "example_en": "They jump into the water.",
+      "example_uz": "Ular suvga sakraydi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "kind",
+      "pronunciation_uz": "kaynd",
+      "uzbek": "tur, xil",
+      "pos": "noun",
+      "example_en": "There are many kinds of apples.",
+      "example_uz": "Bu yerda olmalarning koʻp navlari bor.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "man",
+      "pronunciation_uz": "men",
+      "uzbek": "kishi",
+      "pos": "noun",
+      "example_en": "The man laughs at the funny story.",
+      "example_uz": "Kishi kulguli hikoyadan kuladi.",
+      "category": "1-kitob: 1.2-bob"
+    },
+    {
+      "english": "parent",
+      "pronunciation_uz": "perent",
+      "uzbek": "ota - ona",
+      "pos": "noun",
+      "example_en": "Their parents are nice.",
+      "example_uz": "Ularning ota onalari ajoyib.",
+      "category": "1-kitob: 1.2-bob"
+    }
+  ]
+}

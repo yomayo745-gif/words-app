@@ -1,0 +1,187 @@
+{
+  "title": "3-kitob: 3.2-bob",
+  "category": "1500 Essential English Words 3",
+  "group": "book",
+  "words": [
+    {
+      "english": "active",
+      "pronunciation_uz": "ektiv",
+      "uzbek": "faol",
+      "pos": "adj",
+      "example_en": "Children are very active and like to run and jump.",
+      "example_uz": "Bolalar juda faol va yugurish va sakrashni yoqtiradi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "believe",
+      "pronunciation_uz": "biliv",
+      "uzbek": "ishonmoq",
+      "pos": "verb",
+      "example_en": "He believes he is a smart boy.",
+      "example_uz": "U aqlli bola ekanligiga ishonadi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "environment",
+      "pronunciation_uz": "envayronment",
+      "uzbek": "atrof - muhit",
+      "pos": "noun",
+      "example_en": "Fresh air is a good reason to live in a clean environment.",
+      "example_uz": "Toza havo obod atrof-muhitda yashashga yaxshi sabab.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "forest",
+      "pronunciation_uz": "forest",
+      "uzbek": "oʻrmon",
+      "pos": "noun",
+      "example_en": "The forest seems to be burning.",
+      "example_uz": "Oʻrmon yonayotgandek koʻrinadi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "human",
+      "pronunciation_uz": "xyumen",
+      "uzbek": "inson",
+      "pos": "noun",
+      "example_en": "The old bridge was built by humans a long time ago.",
+      "example_uz": "Eski koʻprik uzoq vaqt avval insonlar tomonidan qurilgan.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "hunt",
+      "pronunciation_uz": "xant",
+      "uzbek": "ov qilmoq",
+      "pos": "verb",
+      "example_en": "Some people in North America like to hunt.",
+      "example_uz": "Janubiy Amerikadagi baʼzi odamlar ovlashni yoqtiradi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "path",
+      "pronunciation_uz": "pes",
+      "uzbek": "yoʻlak",
+      "pos": "noun",
+      "example_en": "Both paths take you to the gate of the park.",
+      "example_uz": "Ikkala yoʻlaklar ham sizni bogʻning darvozasiga olib boradi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "safe",
+      "pronunciation_uz": "seyf",
+      "uzbek": "xavfsiz",
+      "pos": "adj",
+      "example_en": "The gentleman stands in a safe place away from the subway.",
+      "example_uz": "Kishi metrodan xavfsiz joyda turibdi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "service",
+      "pronunciation_uz": "servis",
+      "uzbek": "xizmat",
+      "pos": "noun",
+      "example_en": "The new restaurant has delicious food and great service.",
+      "example_uz": "Yangi restoranning taomlari mazali va xizmati juda ajoyib.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "wild",
+      "pronunciation_uz": "vayld",
+      "uzbek": "yovvoyi",
+      "pos": "adj",
+      "example_en": "Africa is a popular place to see wild animals.",
+      "example_uz": "Afrika yovvoyi hayvonlarni koʻrish uchun eng mashhur joy.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "area",
+      "pronunciation_uz": "eria",
+      "uzbek": "hudud",
+      "pos": "noun",
+      "example_en": "The people living in this area are very poor.",
+      "example_uz": "Bu hududda yashaydigan odamlar juda kambagʻal.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "choice",
+      "pronunciation_uz": "choys",
+      "uzbek": "tanlov",
+      "pos": "noun",
+      "example_en": "It is your choice. Do you want to go north or south?",
+      "example_uz": "Bu sizning tanlovingiz. Siz shimolga borishni xohlaysizmi yoki janubgami?",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "enter",
+      "pronunciation_uz": "enter",
+      "uzbek": "kirmoq",
+      "pos": "verb",
+      "example_en": "She enters through the front gate.",
+      "example_uz": "U old darvozadan kiradi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "important",
+      "pronunciation_uz": "important",
+      "uzbek": "muhim",
+      "pos": "adj",
+      "example_en": "The king is the most important piece in the game.",
+      "example_uz": "Shoh - oʻyinning eng muhim qismi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "lie",
+      "pronunciation_uz": "lay",
+      "uzbek": "yotmoq",
+      "pos": "verb",
+      "example_en": "She lies in the grass and looks up at the sky.",
+      "example_uz": "U maysada yotib, osmonga qaraydi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "mad",
+      "pronunciation_uz": "med",
+      "uzbek": "dargʻazab",
+      "pos": "adj",
+      "example_en": "The woman is mad because someone hit her car.",
+      "example_uz": "Ayol dargʻazab, chunki kimdir uning mashinasini urib yuborgan.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "nature",
+      "pronunciation_uz": "neycher",
+      "uzbek": "tabiat",
+      "pos": "noun",
+      "example_en": "She likes to take pictures of nature.",
+      "example_uz": "U tabiatni suratga olishni yaxshi koʻradi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "protect",
+      "pronunciation_uz": "protekt",
+      "uzbek": "himoya qilmoq",
+      "pos": "verb",
+      "example_en": "The umbrella protects the people from the hot sun.",
+      "example_uz": "Soyabon odamlarni issiq quyoshning harorati himoya qiladi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "shout",
+      "pronunciation_uz": "shaut",
+      "uzbek": "baqirmoq",
+      "pos": "verb",
+      "example_en": "The shy boy surprised everyone by shouting.",
+      "example_uz": "Uyatchan bola baqirib, barchani hayratda qoldirdi.",
+      "category": "3-kitob: 3.2-bob"
+    },
+    {
+      "english": "usually",
+      "pronunciation_uz": "yujuali",
+      "uzbek": "odatda",
+      "pos": "adv",
+      "example_en": "People usually shake hands when they introduce themselves.",
+      "example_uz": "Odamlar, odatda, oʻzlarini tanishtirganda qoʻl siqishadilar.",
+      "category": "3-kitob: 3.2-bob"
+    }
+  ]
+}

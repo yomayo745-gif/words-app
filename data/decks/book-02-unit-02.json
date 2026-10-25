@@ -1,0 +1,187 @@
+{
+  "title": "2-kitob: 2.2-bob",
+  "category": "1500 Essential English Words 2",
+  "group": "book",
+  "words": [
+    {
+      "english": "baseball",
+      "pronunciation_uz": "beysbol",
+      "uzbek": "beysbol",
+      "pos": "noun",
+      "example_en": "I really like to play baseball with my brother.",
+      "example_uz": "Men ukam bilan beysbol oʻynashni haqiqatdan yoqtiraman.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "basketball",
+      "pronunciation_uz": "basketbol",
+      "uzbek": "basketbol",
+      "pos": "noun",
+      "example_en": "I need new shoes for playing basketball.",
+      "example_uz": "Menga basketbol oʻynash uchun yangi oyoq kiyimlar kerak.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "dangerous",
+      "pronunciation_uz": "denjeres",
+      "uzbek": "xavfli",
+      "pos": "adj",
+      "example_en": "Going into the city alone can be dangerous.",
+      "example_uz": "Shaharga yolgʻiz kirish xavfli boʻlishi mumkin.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "excited",
+      "pronunciation_uz": "eksaytid",
+      "uzbek": "xursand boʻlmoq",
+      "pos": "adj",
+      "example_en": "Lisa is excited to hear the president's speech.",
+      "example_uz": "Liza prezidentning nutqini eshitganidan xursand boʻldi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "hill",
+      "pronunciation_uz": "xil",
+      "uzbek": "choʻqqi",
+      "pos": "noun",
+      "example_en": "I wonder what is at the top of that hill.",
+      "example_uz": "Men bu choʻqqining tepasida nima borligiga hayronman.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "hit",
+      "pronunciation_uz": "xit",
+      "uzbek": "urmoq",
+      "pos": "verb",
+      "example_en": "Josh hit the ball with his bat.",
+      "example_uz": "Josh bita (yogʻoch toʻqmoqcha) bilan toʻpni urdi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "hospital",
+      "pronunciation_uz": "xospital",
+      "uzbek": "shifoxona",
+      "pos": "noun",
+      "example_en": "The nurse at the hospital was nice to Janet.",
+      "example_uz": "Shifoxonadagi hamshira Janetga mehribon edi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "hurt",
+      "pronunciation_uz": "xort",
+      "uzbek": "jarohatlanmoq",
+      "pos": "verb",
+      "example_en": "Max hurt his leg when he fell down during the game.",
+      "example_uz": "Maks oʻyin davomida yiqilib tushib oyogʻini jarohatlab oldi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "motorbike",
+      "pronunciation_uz": "motorbayk",
+      "uzbek": "mototsikl",
+      "pos": "noun",
+      "example_en": "Riding a motorbike is one of my hobbies.",
+      "example_uz": "Mototsikl minish mening sevimli mashgʻulotlarimdan biri.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "slow",
+      "pronunciation_uz": "slou",
+      "uzbek": "sekin",
+      "pos": "adj",
+      "example_en": "The snail is a slow animal.",
+      "example_uz": "Shilliqqurt sekin yuradigan hayvon.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "drop",
+      "pronunciation_uz": "drop",
+      "uzbek": "tushirib yubormoq",
+      "pos": "verb",
+      "example_en": "Agnes dropped the ball.",
+      "example_uz": "Agnes toʻpni tushirib yubordi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "earth",
+      "pronunciation_uz": "ors",
+      "uzbek": "tuproq",
+      "pos": "noun",
+      "example_en": "The earth here is perfect for growing things.",
+      "example_uz": "Bu joydagi yer narsalarni oʻstirish uchun juda yaxshi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "flag",
+      "pronunciation_uz": "fleg",
+      "uzbek": "bayroq",
+      "pos": "noun",
+      "example_en": "This flag shows the race is over.",
+      "example_uz": "Bu bayroq musobaqaning tugashini koʻrsatadi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "foolish",
+      "pronunciation_uz": "fulish",
+      "uzbek": "ahmoqona",
+      "pos": "adj",
+      "example_en": "It was foolish to get close to the animal.",
+      "example_uz": "Hayvonga yaqin borish ahmoqlik edi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "hold",
+      "pronunciation_uz": "xould",
+      "uzbek": "ushlamoq",
+      "pos": "verb",
+      "example_en": "The lady is holding a bottle of water.",
+      "example_uz": "Xonim bir shisha suv ushlab turibdi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "matter",
+      "pronunciation_uz": "metter",
+      "uzbek": "muhim boʻlmoq",
+      "pos": "verb",
+      "example_en": "It does not matter which doctor you see. They are all good.",
+      "example_uz": "Sizni qaysi shifokor koʻrishi muhim emas. Ularning barchasi yaxshi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "round",
+      "pronunciation_uz": "raund",
+      "uzbek": "dumaloq",
+      "pos": "adj",
+      "example_en": "The colorful ball is round.",
+      "example_uz": "Rangli koptok dumaloq.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "take",
+      "pronunciation_uz": "teyk",
+      "uzbek": "olmoq",
+      "pos": "verb",
+      "example_en": "I am going to take my little brother to a game.",
+      "example_uz": "Men oʻyinga kichkina ukamni olib bormoqchiman.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "tie",
+      "pronunciation_uz": "tay",
+      "uzbek": "durang",
+      "pos": "noun",
+      "example_en": "The game ended in a tie.",
+      "example_uz": "Oʻyin durang bilan tugadi.",
+      "category": "2-kitob: 2.2-bob"
+    },
+    {
+      "english": "weather",
+      "pronunciation_uz": "vezer",
+      "uzbek": "ob - havo",
+      "pos": "noun",
+      "example_en": "We did not have our baseball game because of bad weather.",
+      "example_uz": "Yomon havo tufayli bizda beysbol oʻyini boʻlmadi.",
+      "category": "2-kitob: 2.2-bob"
+    }
+  ]
+}

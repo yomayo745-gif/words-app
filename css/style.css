@@ -1040,6 +1040,20 @@ html[data-theme="dark"] .corner-art {
   transition: transform 140ms ease, border-color 200ms ease, background 200ms ease;
 }
 
+.sheet-item.sheet-sub-item {
+  margin-left: 12px;
+  width: calc(100% - 12px);
+  padding: 8px 12px;
+  background: var(--surface-control);
+}
+
+.sheet-item.sheet-sub-item .sheet-swatch {
+  width: 32px;
+  height: 32px;
+  font-size: 11px;
+  border-radius: 9px;
+}
+
 .sheet-item:active {
   transform: scale(0.98);
 }

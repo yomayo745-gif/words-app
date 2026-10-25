@@ -1,0 +1,187 @@
+{
+  "title": "4-kitob: 4.2-bob",
+  "category": "1500 Essential English Words 4",
+  "group": "book",
+  "words": [
+    {
+      "english": "bit",
+      "pronunciation_uz": "bit",
+      "uzbek": "boʻlak",
+      "pos": "noun",
+      "example_en": "I broke the chocolate into bits so I could share it with my friends.",
+      "example_uz": "Men shokoladni doʻstlarim bilan baham koʻrish uchun boʻlaklarga boʻldim.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "common",
+      "pronunciation_uz": "komon",
+      "uzbek": "tarqalgan",
+      "pos": "adj",
+      "example_en": "Colds are quite common in the winter.",
+      "example_uz": "Shamollash qishda juda keng tarqalgan.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "diet",
+      "pronunciation_uz": "dayet",
+      "uzbek": "dieta",
+      "pos": "noun",
+      "example_en": "I intend to have a healthier diet by eating more fruit.",
+      "example_uz": "Men koʻproq meva yeyish orqali sogʻlom dieta tutishga maqsad qilaman.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "evidence",
+      "pronunciation_uz": "evidens",
+      "uzbek": "dalil",
+      "pos": "noun",
+      "example_en": "The police found evidence that Chris was the thief.",
+      "example_uz": "Politsiya Kris oʻgʻriligini bildiruvchi dalil topdi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "fit",
+      "pronunciation_uz": "fit",
+      "uzbek": "sogʻlom",
+      "pos": "adj",
+      "example_en": "They stay fit by running whenever possible.",
+      "example_uz": "Ular imkon boʻlganida yugurish orqali qomatlarini saqlaydilar.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "limit",
+      "pronunciation_uz": "limit",
+      "uzbek": "cheklamoq",
+      "pos": "verb",
+      "example_en": "She has little money and must limit how much she spends.",
+      "example_uz": "Uning puli oz va xarajatlarini cheklashi kerak.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "physical",
+      "pronunciation_uz": "fizikl",
+      "uzbek": "jismoniy",
+      "pos": "adj",
+      "example_en": "Playing sports is a good way to get physical exercise.",
+      "example_uz": "Sport bilan shugʻullanish - jismoniy mashqlar qilishning yaxshi usuli.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "poison",
+      "pronunciation_uz": "poyzn",
+      "uzbek": "zahar",
+      "pos": "noun",
+      "example_en": "The symbol on the bottle says that it is poison.",
+      "example_uz": "Shishadagi belgi zahar ekanligini bildiradi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "sale",
+      "pronunciation_uz": "seyl",
+      "uzbek": "sotish",
+      "pos": "noun",
+      "example_en": "There is a nice house for sale in my neighborhood.",
+      "example_uz": "Mening mahallamda sotiladigan bir yaxshi uy bor.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "type",
+      "pronunciation_uz": "tayp",
+      "uzbek": "xil, tur",
+      "pos": "noun",
+      "example_en": "Bakeries usually sell several different types of bread.",
+      "example_uz": "Nonvoyxonalarda odatda bir necha xil non sotiladi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "amount",
+      "pronunciation_uz": "amaunt",
+      "uzbek": "miqdor",
+      "pos": "noun",
+      "example_en": "Make sure to use the right amount of oil to fry the food.",
+      "example_uz": "Ovqat pishirish uchun yogʻdan toʻgʻri miqdorda foydalanishga ishonch hosil qiling.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "cure",
+      "pronunciation_uz": "kyur",
+      "uzbek": "dori - darmon",
+      "pos": "noun",
+      "example_en": "The new cure made John feel better almost immediately.",
+      "example_uz": "Yangi dori-darmon deyarli tezlikda Jonni yaxshiroq his qildirdi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "disease",
+      "pronunciation_uz": "diziz",
+      "uzbek": "kasallik",
+      "pos": "noun",
+      "example_en": "A disease made the tree's leaves turn brown.",
+      "example_uz": "Kasallik daraxt barglarini jigarrang tusga kiritdi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "medical",
+      "pronunciation_uz": "medikl",
+      "uzbek": "tibbiy",
+      "pos": "adj",
+      "example_en": "If you often have awful headaches, you should get medical help.",
+      "example_uz": "Agar sizda kuchli bosh ogʻrigʻi kuzatilsa tez-tez, siz tibbiy yordam olishingiz shart.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "necessary",
+      "pronunciation_uz": "nesesseri",
+      "uzbek": "zarur",
+      "pos": "adj",
+      "example_en": "When getting ready for a trip, take only what is necessary.",
+      "example_uz": "Sayohatga tayyorlanayotganingizda faqat zarur narsalarni oling.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "produce",
+      "pronunciation_uz": "prodyus",
+      "uzbek": "ishlab chiqarmoq",
+      "pos": "verb",
+      "example_en": "Cars produce a lot of problems for the environment.",
+      "example_uz": "Mashinalar atrof-muhitga koʻp muammolar yaratadi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "reduce",
+      "pronunciation_uz": "redyus",
+      "uzbek": "kamaytirmoq",
+      "pos": "verb",
+      "example_en": "The store has reduced its prices on everything.",
+      "example_uz": "Doʻkon hamma narsani narxini kamaytirdi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "serious",
+      "pronunciation_uz": "sieries",
+      "uzbek": "jiddiy",
+      "pos": "adj",
+      "example_en": "We saw a serious car accident this afternoon.",
+      "example_uz": "Biz kunduzi jiddiy avto halokatni koʻrdik.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "source",
+      "pronunciation_uz": "sors",
+      "uzbek": "manba",
+      "pos": "noun",
+      "example_en": "This river is the main source of water for many animals.",
+      "example_uz": "Daryo koʻp hayvonlar uchun suvning asosiy manbasi.",
+      "category": "4-kitob: 4.2-bob"
+    },
+    {
+      "english": "supply",
+      "pronunciation_uz": "saplay",
+      "uzbek": "taʼminlamoq",
+      "pos": "verb",
+      "example_en": "My father supplies carrots to a restaurant in our town.",
+      "example_uz": "Mening dadam shahrimizdagi restoranlarni sabzi bilan taʼminlaydi.",
+      "category": "4-kitob: 4.2-bob"
+    }
+  ]
+}
