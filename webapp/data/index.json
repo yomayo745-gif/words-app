@@ -1,7 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "totalWords": 7226,
+  "bookWords": 160,
   "totalDeckFiles": 54,
+  "totalBookFiles": 8,
   "allFiles": [
     "data/decks/freq-01-top-150.json",
     "data/decks/freq-02-top-300.json",
@@ -59,6 +61,158 @@
     "data/decks/topic-35-collocations.json"
   ],
   "decks": [
+    {
+      "id": "book-01-all",
+      "title": "Kitob 1 — Barcha boblar",
+      "category": "1500 Essential English Words 1",
+      "group": "book",
+      "badge": "K1",
+      "wordCount": 40,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/book-01-unit-01.json",
+        "data/decks/book-01-unit-02.json"
+      ],
+      "isBookSummary": true
+    },
+    {
+      "id": "book-01-unit-01",
+      "title": "1-kitob: 1.1-bob",
+      "category": "1500 Essential English Words 1",
+      "group": "book",
+      "badge": "1.1",
+      "wordCount": 20,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/book-01-unit-01.json"
+      ]
+    },
+    {
+      "id": "book-01-unit-02",
+      "title": "1-kitob: 1.2-bob",
+      "category": "1500 Essential English Words 1",
+      "group": "book",
+      "badge": "1.2",
+      "wordCount": 20,
+      "accentIndex": 4,
+      "files": [
+        "data/decks/book-01-unit-02.json"
+      ]
+    },
+    {
+      "id": "book-02-all",
+      "title": "Kitob 2 — Barcha boblar",
+      "category": "1500 Essential English Words 2",
+      "group": "book",
+      "badge": "K2",
+      "wordCount": 40,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/book-02-unit-01.json",
+        "data/decks/book-02-unit-02.json"
+      ],
+      "isBookSummary": true
+    },
+    {
+      "id": "book-02-unit-01",
+      "title": "2-kitob: 2.1-bob",
+      "category": "1500 Essential English Words 2",
+      "group": "book",
+      "badge": "2.1",
+      "wordCount": 20,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/book-02-unit-01.json"
+      ]
+    },
+    {
+      "id": "book-02-unit-02",
+      "title": "2-kitob: 2.2-bob",
+      "category": "1500 Essential English Words 2",
+      "group": "book",
+      "badge": "2.2",
+      "wordCount": 20,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/book-02-unit-02.json"
+      ]
+    },
+    {
+      "id": "book-03-all",
+      "title": "Kitob 3 — Barcha boblar",
+      "category": "1500 Essential English Words 3",
+      "group": "book",
+      "badge": "K3",
+      "wordCount": 40,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/book-03-unit-01.json",
+        "data/decks/book-03-unit-02.json"
+      ],
+      "isBookSummary": true
+    },
+    {
+      "id": "book-03-unit-01",
+      "title": "3-kitob: 3.1-bob",
+      "category": "1500 Essential English Words 3",
+      "group": "book",
+      "badge": "3.1",
+      "wordCount": 20,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/book-03-unit-01.json"
+      ]
+    },
+    {
+      "id": "book-03-unit-02",
+      "title": "3-kitob: 3.2-bob",
+      "category": "1500 Essential English Words 3",
+      "group": "book",
+      "badge": "3.2",
+      "wordCount": 20,
+      "accentIndex": 2,
+      "files": [
+        "data/decks/book-03-unit-02.json"
+      ]
+    },
+    {
+      "id": "book-04-all",
+      "title": "Kitob 4 — Barcha boblar",
+      "category": "1500 Essential English Words 4",
+      "group": "book",
+      "badge": "K4",
+      "wordCount": 40,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/book-04-unit-01.json",
+        "data/decks/book-04-unit-02.json"
+      ],
+      "isBookSummary": true
+    },
+    {
+      "id": "book-04-unit-01",
+      "title": "4-kitob: 4.1-bob",
+      "category": "1500 Essential English Words 4",
+      "group": "book",
+      "badge": "4.1",
+      "wordCount": 20,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/book-04-unit-01.json"
+      ]
+    },
+    {
+      "id": "book-04-unit-02",
+      "title": "4-kitob: 4.2-bob",
+      "category": "1500 Essential English Words 4",
+      "group": "book",
+      "badge": "4.2",
+      "wordCount": 20,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/book-04-unit-02.json"
+      ]
+    },
     {
       "id": "top-500",
       "title": "Top 500 — Eng kerakli soʻzlar",
@@ -207,7 +361,7 @@
       "category": "Top 500 • 1–150",
       "group": "freq",
       "wordCount": 150,
-      "accentIndex": 0,
+      "accentIndex": 8,
       "files": [
         "data/decks/freq-01-top-150.json"
       ]
@@ -218,7 +372,7 @@
       "category": "Top 500 • 151–300",
       "group": "freq",
       "wordCount": 150,
-      "accentIndex": 1,
+      "accentIndex": 9,
       "files": [
         "data/decks/freq-02-top-300.json"
       ]
@@ -229,7 +383,7 @@
       "category": "Top 500 • 301–450",
       "group": "freq",
       "wordCount": 150,
-      "accentIndex": 2,
+      "accentIndex": 0,
       "files": [
         "data/decks/freq-03-top-450.json"
       ]
@@ -240,7 +394,7 @@
       "category": "Top 1000 • Everyday Verbs 1",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 3,
+      "accentIndex": 1,
       "files": [
         "data/decks/freq-04-verbs-1.json"
       ]
@@ -251,7 +405,7 @@
       "category": "Top 1000 • Everyday Verbs 2",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 4,
+      "accentIndex": 2,
       "files": [
         "data/decks/freq-05-verbs-2.json"
       ]
@@ -262,7 +416,7 @@
       "category": "Top 1000 • Everyday Adjectives 1",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 5,
+      "accentIndex": 3,
       "files": [
         "data/decks/freq-06-adjectives-1.json"
       ]
@@ -273,7 +427,7 @@
       "category": "Top 2000 • Everyday Adjectives 2",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 6,
+      "accentIndex": 4,
       "files": [
         "data/decks/freq-07-adjectives-2.json"
       ]
@@ -284,7 +438,7 @@
       "category": "Top 2000 • Everyday Objects & Materials",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 7,
+      "accentIndex": 5,
       "files": [
         "data/decks/freq-08-everyday-nouns.json"
       ]
@@ -295,7 +449,7 @@
       "category": "Irregular Verbs (3 Forms)",
       "group": "freq",
       "wordCount": 155,
-      "accentIndex": 8,
+      "accentIndex": 6,
       "files": [
         "data/decks/freq-09-irregular-verbs.json"
       ]
@@ -306,7 +460,7 @@
       "category": "Common Phrasal Verbs 1",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 9,
+      "accentIndex": 7,
       "files": [
         "data/decks/freq-10-phrasal-verbs-1.json"
       ]
@@ -317,7 +471,7 @@
       "category": "Common Phrasal Verbs 2",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 0,
+      "accentIndex": 8,
       "files": [
         "data/decks/freq-11-phrasal-verbs-2.json"
       ]
@@ -328,7 +482,7 @@
       "category": "IELTS/TOEFL Academic (A–C)",
       "group": "freq",
       "wordCount": 131,
-      "accentIndex": 1,
+      "accentIndex": 9,
       "files": [
         "data/decks/freq-12-ielts-academic-1.json"
       ]
@@ -339,7 +493,7 @@
       "category": "IELTS/TOEFL Academic (D–H)",
       "group": "freq",
       "wordCount": 127,
-      "accentIndex": 2,
+      "accentIndex": 0,
       "files": [
         "data/decks/freq-13-ielts-academic-2.json"
       ]
@@ -350,7 +504,7 @@
       "category": "IELTS/TOEFL Academic (I–M)",
       "group": "freq",
       "wordCount": 135,
-      "accentIndex": 3,
+      "accentIndex": 1,
       "files": [
         "data/decks/freq-14-ielts-academic-3.json"
       ]
@@ -361,7 +515,7 @@
       "category": "IELTS/TOEFL Academic (N–R)",
       "group": "freq",
       "wordCount": 124,
-      "accentIndex": 4,
+      "accentIndex": 2,
       "files": [
         "data/decks/freq-15-ielts-academic-4.json"
       ]
@@ -372,7 +526,7 @@
       "category": "IELTS/TOEFL Academic (S–Z)",
       "group": "freq",
       "wordCount": 84,
-      "accentIndex": 5,
+      "accentIndex": 3,
       "files": [
         "data/decks/freq-16-ielts-academic-5.json"
       ]
@@ -383,7 +537,7 @@
       "category": "Spoken English Phrases & Expressions",
       "group": "freq",
       "wordCount": 160,
-      "accentIndex": 6,
+      "accentIndex": 4,
       "files": [
         "data/decks/freq-17-spoken-phrases.json"
       ]
@@ -394,7 +548,7 @@
       "category": "Adverbs, Connectors & Transitions",
       "group": "freq",
       "wordCount": 148,
-      "accentIndex": 7,
+      "accentIndex": 5,
       "files": [
         "data/decks/freq-18-adverbs-connectors.json"
       ]
@@ -405,7 +559,7 @@
       "category": "Time, Numbers, Units & Quantities",
       "group": "freq",
       "wordCount": 135,
-      "accentIndex": 8,
+      "accentIndex": 6,
       "files": [
         "data/decks/freq-19-time-quantities.json"
       ]
@@ -416,7 +570,7 @@
       "category": "Home, Appliances & Household",
       "group": "topic",
       "wordCount": 158,
-      "accentIndex": 9,
+      "accentIndex": 7,
       "files": [
         "data/decks/topic-01-home-chores.json"
       ]
@@ -427,7 +581,7 @@
       "category": "Food, Produce & Spices",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 0,
+      "accentIndex": 8,
       "files": [
         "data/decks/topic-02-food-ingredients.json"
       ]
@@ -438,7 +592,7 @@
       "category": "Cooking, Dishes & Restaurant",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 1,
+      "accentIndex": 9,
       "files": [
         "data/decks/topic-03-cooking-dining.json"
       ]
@@ -449,7 +603,7 @@
       "category": "Family, Relationships & Life Stages",
       "group": "topic",
       "wordCount": 154,
-      "accentIndex": 2,
+      "accentIndex": 0,
       "files": [
         "data/decks/topic-04-family-social.json"
       ]
@@ -460,7 +614,7 @@
       "category": "Human Body & Anatomy",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 3,
+      "accentIndex": 1,
       "files": [
         "data/decks/topic-05-body-anatomy.json"
       ]
@@ -471,7 +625,7 @@
       "category": "Health, Hygiene & Wellness",
       "group": "topic",
       "wordCount": 158,
-      "accentIndex": 4,
+      "accentIndex": 2,
       "files": [
         "data/decks/topic-06-health-wellness.json"
       ]
@@ -482,7 +636,7 @@
       "category": "Clothes, Fabrics & Fashion",
       "group": "topic",
       "wordCount": 141,
-      "accentIndex": 5,
+      "accentIndex": 3,
       "files": [
         "data/decks/topic-07-clothes-fashion.json"
       ]
@@ -493,7 +647,7 @@
       "category": "Shopping, Retail & Services",
       "group": "topic",
       "wordCount": 131,
-      "accentIndex": 6,
+      "accentIndex": 4,
       "files": [
         "data/decks/topic-08-shopping-consumer.json"
       ]
@@ -504,7 +658,7 @@
       "category": "City, Architecture & Urban Life",
       "group": "topic",
       "wordCount": 116,
-      "accentIndex": 7,
+      "accentIndex": 5,
       "files": [
         "data/decks/topic-09-city-architecture.json"
       ]
@@ -515,7 +669,7 @@
       "category": "Transport, Vehicles & Traffic",
       "group": "topic",
       "wordCount": 134,
-      "accentIndex": 8,
+      "accentIndex": 6,
       "files": [
         "data/decks/topic-10-transport-traffic.json"
       ]
@@ -526,7 +680,7 @@
       "category": "Travel, Tourism & Geography",
       "group": "topic",
       "wordCount": 139,
-      "accentIndex": 9,
+      "accentIndex": 7,
       "files": [
         "data/decks/topic-11-travel-geography.json"
       ]
@@ -537,7 +691,7 @@
       "category": "School, Classroom & Subjects",
       "group": "topic",
       "wordCount": 129,
-      "accentIndex": 0,
+      "accentIndex": 8,
       "files": [
         "data/decks/topic-12-school-classroom.json"
       ]
@@ -548,7 +702,7 @@
       "category": "University, Degrees & Research",
       "group": "topic",
       "wordCount": 126,
-      "accentIndex": 1,
+      "accentIndex": 9,
       "files": [
         "data/decks/topic-13-university-research.json"
       ]
@@ -559,7 +713,7 @@
       "category": "Jobs, Professions & Workplace",
       "group": "topic",
       "wordCount": 131,
-      "accentIndex": 2,
+      "accentIndex": 0,
       "files": [
         "data/decks/topic-14-work-professions.json"
       ]
@@ -570,7 +724,7 @@
       "category": "Business, Management & Trade",
       "group": "topic",
       "wordCount": 95,
-      "accentIndex": 3,
+      "accentIndex": 1,
       "files": [
         "data/decks/topic-15-business-commerce.json"
       ]
@@ -581,7 +735,7 @@
       "category": "Money, Banking & Finance",
       "group": "topic",
       "wordCount": 108,
-      "accentIndex": 4,
+      "accentIndex": 2,
       "files": [
         "data/decks/topic-16-money-finance.json"
       ]
@@ -592,7 +746,7 @@
       "category": "Computers, Software & AI",
       "group": "topic",
       "wordCount": 121,
-      "accentIndex": 5,
+      "accentIndex": 3,
       "files": [
         "data/decks/topic-17-tech-computing.json"
       ]
@@ -603,7 +757,7 @@
       "category": "Internet, Smartphones & Social Media",
       "group": "topic",
       "wordCount": 126,
-      "accentIndex": 6,
+      "accentIndex": 4,
       "files": [
         "data/decks/topic-18-internet-mobile.json"
       ]
@@ -614,7 +768,7 @@
       "category": "Nature, Plants & Agriculture",
       "group": "topic",
       "wordCount": 93,
-      "accentIndex": 7,
+      "accentIndex": 5,
       "files": [
         "data/decks/topic-19-nature-plants.json"
       ]
@@ -625,7 +779,7 @@
       "category": "Animals, Birds & Marine Life",
       "group": "topic",
       "wordCount": 139,
-      "accentIndex": 8,
+      "accentIndex": 6,
       "files": [
         "data/decks/topic-20-animals-wildlife.json"
       ]
@@ -636,7 +790,7 @@
       "category": "Weather, Climate & Environment",
       "group": "topic",
       "wordCount": 126,
-      "accentIndex": 9,
+      "accentIndex": 7,
       "files": [
         "data/decks/topic-21-weather-ecology.json"
       ]
@@ -647,7 +801,7 @@
       "category": "Sports, Athletics & Competitions",
       "group": "topic",
       "wordCount": 118,
-      "accentIndex": 0,
+      "accentIndex": 8,
       "files": [
         "data/decks/topic-22-sports-fitness.json"
       ]
@@ -658,7 +812,7 @@
       "category": "Hobbies, Games & Leisure",
       "group": "topic",
       "wordCount": 114,
-      "accentIndex": 1,
+      "accentIndex": 9,
       "files": [
         "data/decks/topic-23-hobbies-games.json"
       ]
@@ -669,7 +823,7 @@
       "category": "Art, Music, Literature & Cinema",
       "group": "topic",
       "wordCount": 125,
-      "accentIndex": 2,
+      "accentIndex": 0,
       "files": [
         "data/decks/topic-24-art-music-cinema.json"
       ]
@@ -680,7 +834,7 @@
       "category": "Emotions, Moods & Psychology",
       "group": "topic",
       "wordCount": 128,
-      "accentIndex": 3,
+      "accentIndex": 1,
       "files": [
         "data/decks/topic-25-emotions-psychology.json"
       ]
@@ -691,7 +845,7 @@
       "category": "Personality, Character & Ethics",
       "group": "topic",
       "wordCount": 115,
-      "accentIndex": 4,
+      "accentIndex": 2,
       "files": [
         "data/decks/topic-26-personality-ethics.json"
       ]
@@ -702,7 +856,7 @@
       "category": "Politics, Government & Diplomacy",
       "group": "topic",
       "wordCount": 100,
-      "accentIndex": 5,
+      "accentIndex": 3,
       "files": [
         "data/decks/topic-27-politics-state.json"
       ]
@@ -713,7 +867,7 @@
       "category": "Law, Courts & Justice",
       "group": "topic",
       "wordCount": 114,
-      "accentIndex": 6,
+      "accentIndex": 4,
       "files": [
         "data/decks/topic-28-law-justice.json"
       ]
@@ -724,7 +878,7 @@
       "category": "Science, Physics, Chemistry & Space",
       "group": "topic",
       "wordCount": 102,
-      "accentIndex": 7,
+      "accentIndex": 5,
       "files": [
         "data/decks/topic-29-science-universe.json"
       ]
@@ -735,7 +889,7 @@
       "category": "Mathematics, Geometry & Logic",
       "group": "topic",
       "wordCount": 90,
-      "accentIndex": 8,
+      "accentIndex": 6,
       "files": [
         "data/decks/topic-30-math-geometry.json"
       ]
@@ -746,7 +900,7 @@
       "category": "Medicine, Healthcare & Pharmacology",
       "group": "topic",
       "wordCount": 81,
-      "accentIndex": 9,
+      "accentIndex": 7,
       "files": [
         "data/decks/topic-31-medicine-clinical.json"
       ]
@@ -757,7 +911,7 @@
       "category": "History, Civilization & Culture",
       "group": "topic",
       "wordCount": 99,
-      "accentIndex": 0,
+      "accentIndex": 8,
       "files": [
         "data/decks/topic-32-history-society.json"
       ]
@@ -768,7 +922,7 @@
       "category": "Common English Idioms 1",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 1,
+      "accentIndex": 9,
       "files": [
         "data/decks/topic-33-idioms-1.json"
       ]
@@ -779,7 +933,7 @@
       "category": "Common English Idioms 2",
       "group": "topic",
       "wordCount": 158,
-      "accentIndex": 2,
+      "accentIndex": 0,
       "files": [
         "data/decks/topic-34-idioms-2.json"
       ]
@@ -790,7 +944,7 @@
       "category": "Essential English Collocations",
       "group": "topic",
       "wordCount": 148,
-      "accentIndex": 3,
+      "accentIndex": 1,
       "files": [
         "data/decks/topic-35-collocations.json"
       ]

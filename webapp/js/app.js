@@ -582,6 +582,7 @@
   // =========================================================================
   function getDeckShortCode(deck, index) {
     if (deck.id === ALL_DECK_ID) return "ALL";
+    if (deck.badge) return deck.badge;
     if (deck.isMilestone) {
       return deck.id.replace("top-", "");
     }
@@ -596,25 +597,27 @@
     const allOption = {
       id: ALL_DECK_ID,
       title: "Hammasi (Barcha soʻzlar)",
-      category: `All ${state.manifest.totalDeckFiles} Decks`,
+      category: `Barcha ${state.manifest.totalDeckFiles} ta umumiy toʻplam`,
       group: "all",
       wordCount: state.manifest.totalWords,
       accentIndex: 0,
     };
 
+    const bookDecks = state.manifest.decks.filter((d) => d.group === "book");
     const freqDecks = state.manifest.decks.filter((d) => d.group === "freq");
-    const topicDecks = state.manifest.decks.filter((d) => d.group !== "freq");
+    const topicDecks = state.manifest.decks.filter((d) => d.group === "topic");
 
     function matchesSearch(d) {
       if (!query) return true;
       return (
         d.title.toLowerCase().includes(query) ||
         (d.category && d.category.toLowerCase().includes(query)) ||
-        d.id.toLowerCase().includes(query)
+        d.id.toLowerCase().includes(query) ||
+        (d.badge && d.badge.toLowerCase().includes(query))
       );
     }
 
-    function createDeckRow(deck, badgeText) {
+    function createDeckRow(deck, badgeText, isSubItem = false) {
       const palette = ACCENT_PALETTES[(deck.accentIndex || 0) % ACCENT_PALETTES.length];
       const savedIdx = state.positions[deck.id];
       const posNum = typeof savedIdx === "number" ? Math.min(deck.wordCount, savedIdx + 1) : 1;
@@ -622,7 +625,7 @@
 
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "sheet-item" + (state.selectedDeckId === deck.id ? " is-selected" : "");
+      btn.className = "sheet-item" + (isSubItem ? " sheet-sub-item" : "") + (state.selectedDeckId === deck.id ? " is-selected" : "");
       btn.style.setProperty("--item-accent", palette.start);
       btn.setAttribute("role", "option");
       btn.setAttribute("aria-selected", state.selectedDeckId === deck.id ? "true" : "false");
@@ -650,6 +653,22 @@
     if (matchesSearch(allOption)) {
       dom.categoryList.appendChild(createDeckRow(allOption, "ALL"));
       renderedCount += 1;
+    }
+
+    // 1500 Essential English Words books (strictly below Hammasi)
+    const matchedBooks = bookDecks.filter(matchesSearch);
+    if (matchedBooks.length > 0) {
+      const hdr = document.createElement("div");
+      hdr.className = "sheet-section-header";
+      hdr.textContent = `Kitoblar: 1500 Essential English Words (${matchedBooks.length})`;
+      dom.categoryList.appendChild(hdr);
+
+      matchedBooks.forEach((d) => {
+        const badge = d.badge || getDeckShortCode(d);
+        const isSub = !d.isBookSummary;
+        dom.categoryList.appendChild(createDeckRow(d, badge, isSub));
+        renderedCount += 1;
+      });
     }
 
     const matchedFreq = freqDecks.filter(matchesSearch);
@@ -832,7 +851,27 @@
     }
 
     loadSavedState(async () => {
+      const params = new URLSearchParams(window.location.search);
+      const urlDeck = params.get("deck");
+      const urlIndex = params.get("index");
+      const urlFlipped = params.get("flip");
+      const urlPicker = params.get("picker");
+
+      if (urlDeck && (state.decksById[urlDeck] || urlDeck === ALL_DECK_ID)) {
+        state.selectedDeckId = urlDeck;
+      }
+      if (urlIndex !== null && !isNaN(parseInt(urlIndex, 10))) {
+        state.positions[state.selectedDeckId] = parseInt(urlIndex, 10);
+      }
+
       await activateDeck(state.selectedDeckId, false);
+
+      if (urlFlipped === "1" || urlFlipped === "true") {
+        setTimeout(toggleFlip, 100);
+      }
+      if (urlPicker === "1" || urlPicker === "true") {
+        setTimeout(openCategorySheet, 150);
+      }
     });
   }
 

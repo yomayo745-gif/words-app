@@ -5,15 +5,17 @@ Checks:
 - Valid JSON syntax in every deck file
 - Every entry has non-empty string fields:
   english, pronunciation_uz, uzbek, pos, example_en, example_uz, category
-- Zero duplicate English words (case-insensitive) within a deck or across all decks
+- Zero duplicate English words across all general decks (freq + topic)
+- Zero duplicate English words within each book deck
 - Prints per-deck word counts and the grand total
-- Exits with non-zero status on any validation error (or if total < min_total)
+- Exits with non-zero status on any validation error (or if general total < min_total)
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -50,10 +52,12 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
     if not deck_files:
         raise ValueError(f"No deck JSON files found in {decks_dir}")
 
-    seen_english: dict[str, tuple[str, int]] = {}
-    deck_summaries: list[tuple[str, int]] = []
+    seen_english_general: dict[str, tuple[str, int]] = {}
+    seen_english_per_book: dict[str, dict[str, tuple[str, int]]] = {}
+    deck_summaries: list[tuple[str, int, str]] = []
     errors: list[str] = []
-    grand_total = 0
+    general_total = 0
+    books_total = 0
 
     for deck_file in deck_files:
         try:
@@ -73,6 +77,14 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
             errors.append(f"[EMPTY DECK] {deck_file.name}: contains 0 words.")
             continue
 
+        is_book = deck_file.name.startswith("book-") or (isinstance(payload, dict) and payload.get("group") == "book")
+        book_key = "general"
+        if is_book:
+            book_match = re.match(r"(book-\d+)", deck_file.name)
+            book_key = book_match.group(1) if book_match else "book"
+            if book_key not in seen_english_per_book:
+                seen_english_per_book[book_key] = {}
+
         for idx, entry in enumerate(words, start=1):
             if not isinstance(entry, dict):
                 errors.append(f"[{deck_file.name} #{idx}] Entry is not a JSON object.")
@@ -89,30 +101,47 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
             en_raw = entry.get("english", "")
             if isinstance(en_raw, str) and en_raw.strip():
                 en_norm = en_raw.strip().lower()
-                if en_norm in seen_english:
-                    prev_deck, prev_idx = seen_english[en_norm]
-                    errors.append(
-                        f"[DUPLICATE] '{en_raw.strip()}' in {deck_file.name} (#{idx}) "
-                        f"already exists in {prev_deck} (#{prev_idx})."
-                    )
+                if is_book:
+                    book_seen = seen_english_per_book[book_key]
+                    if en_norm in book_seen:
+                        prev_deck, prev_idx = book_seen[en_norm]
+                        errors.append(
+                            f"[DUPLICATE IN {book_key.upper()}] '{en_raw.strip()}' in {deck_file.name} (#{idx}) "
+                            f"already exists in {prev_deck} (#{prev_idx})."
+                        )
+                    else:
+                        book_seen[en_norm] = (deck_file.name, idx)
                 else:
-                    seen_english[en_norm] = (deck_file.name, idx)
+                    if en_norm in seen_english_general:
+                        prev_deck, prev_idx = seen_english_general[en_norm]
+                        errors.append(
+                            f"[DUPLICATE] '{en_raw.strip()}' in {deck_file.name} (#{idx}) "
+                            f"already exists in {prev_deck} (#{prev_idx})."
+                        )
+                    else:
+                        seen_english_general[en_norm] = (deck_file.name, idx)
 
         count = len(words)
-        deck_summaries.append((deck_file.name, count))
-        grand_total += count
+        grp_type = "book" if is_book else "general"
+        deck_summaries.append((deck_file.name, count, grp_type))
+        if is_book:
+            books_total += count
+        else:
+            general_total += count
 
-    print("=" * 68)
-    print(f"{'DECK FILE':<44} | {'WORDS':>8} | {'RUNNING':>10}")
-    print("-" * 68)
+    print("=" * 72)
+    print(f"{'DECK FILE':<44} | {'TYPE':<7} | {'WORDS':>6} | {'RUNNING':>8}")
+    print("-" * 72)
     running = 0
-    for name, count in deck_summaries:
+    for name, count, grp_type in deck_summaries:
         running += count
-        print(f"{name:<44} | {count:>8} | {running:>10}")
-    print("=" * 68)
+        print(f"{name:<44} | {grp_type:<7} | {count:>6} | {running:>8}")
+    print("=" * 72)
     print(f"Total Decks: {len(deck_summaries)}")
-    print(f"Grand Total Unique Words: {grand_total}")
-    print("=" * 68)
+    print(f"General Unique Words (Hammasi): {general_total}")
+    print(f"Book Words (Kitoblar 1-4): {books_total}")
+    print(f"Grand Total Words: {general_total + books_total}")
+    print("=" * 72)
 
     if errors:
         print(f"\nVALIDATION FAILED with {len(errors)} error(s):", file=sys.stderr)
@@ -122,16 +151,16 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
             print(f"  ... and {len(errors) - 50} more errors.", file=sys.stderr)
         raise SystemExit(1)
 
-    if grand_total < min_total:
+    if general_total < min_total:
         print(
-            f"\nVALIDATION FAILED: Grand total is {grand_total} words, "
+            f"\nVALIDATION FAILED: General total is {general_total} words, "
             f"which is below the required minimum of {min_total}.",
             file=sys.stderr,
         )
         raise SystemExit(1)
 
     print("STATUS: ALL CHECKS PASSED (0 duplicates, 0 empty fields, valid JSON).")
-    return grand_total, deck_summaries
+    return general_total, [(name, count) for name, count, _ in deck_summaries]
 
 
 def main() -> int:
@@ -140,7 +169,7 @@ def main() -> int:
         "--min-total",
         type=int,
         default=5000,
-        help="Minimum required grand total of unique words (default: 5000).",
+        help="Minimum required grand total of unique general words (default: 5000).",
     )
     args = parser.parse_args()
     validate_all_decks(DECKS_DIR, min_total=args.min_total)

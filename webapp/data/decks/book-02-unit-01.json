@@ -1,0 +1,187 @@
+{
+  "title": "2-kitob: 2.1-bob",
+  "category": "1500 Essential English Words 2",
+  "group": "book",
+  "words": [
+    {
+      "english": "angry",
+      "pronunciation_uz": "engri",
+      "uzbek": "jahldor",
+      "pos": "adj",
+      "example_en": "Because Jane does not listen to her, Jane's mom is angry.",
+      "example_uz": "Jeyn uni tinglamasligi sababli, Jeynning onasi jahldor.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "boring",
+      "pronunciation_uz": "boring",
+      "uzbek": "zerikarli",
+      "pos": "adj",
+      "example_en": "Jason hates staying inside because it is so boring.",
+      "example_uz": "Jason ichkarida qolishdan nafratlanardi chunki bu zerikarli.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "class",
+      "pronunciation_uz": "kles",
+      "uzbek": "sinf",
+      "pos": "noun",
+      "example_en": "Ryan's dad teaches a new class.",
+      "example_uz": "Ryanning dadasi yangi sinfni oʻqitadi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "dream",
+      "pronunciation_uz": "drim",
+      "uzbek": "orzu qilmoq",
+      "pos": "verb",
+      "example_en": "She dreams about living in the city.",
+      "example_uz": "U shaharda yashashni orzu qiladi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "famous",
+      "pronunciation_uz": "feymes",
+      "uzbek": "mashhur",
+      "pos": "adj",
+      "example_en": "The kids like the famous baseball player.",
+      "example_uz": "Bolalar mashhur beysbol oʻyinchisini yoqtiradi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "feel",
+      "pronunciation_uz": "fil",
+      "uzbek": "his qilmoq",
+      "pos": "verb",
+      "example_en": "He felt very hot after walking for half the morning.",
+      "example_uz": "U ertalab yarim soat yurganidan soʻng oʻzini juda issiq his qildi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "future",
+      "pronunciation_uz": "fyucher",
+      "uzbek": "kelajak",
+      "pos": "noun",
+      "example_en": "In the future, we will not need roads for driving.",
+      "example_uz": "Kelajakda bizga haydash uchun yoʻllar kerak boʻlmaydi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "group",
+      "pronunciation_uz": "grup",
+      "uzbek": "guruh",
+      "pos": "noun",
+      "example_en": "The group uses a large table to study.",
+      "example_uz": "Guruh oʻqish uchun katta stoldan foydalanadi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "hobby",
+      "pronunciation_uz": "xobbi",
+      "uzbek": "sevimli mashgʻulot",
+      "pos": "noun",
+      "example_en": "Her hobbies are drawing and painting.",
+      "example_uz": "Uning sevimli mashgʻulotlari chizish va boʻyash.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "job",
+      "pronunciation_uz": "job",
+      "uzbek": "ish",
+      "pos": "noun",
+      "example_en": "She needs money, so she wants to get a job.",
+      "example_uz": "Unga pul zarur, shuning uchun u ishga kirishni xohlaydi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "hundred",
+      "pronunciation_uz": "xandred",
+      "uzbek": "yuz",
+      "pos": "noun",
+      "example_en": "Five hundred dollars is a lot of money.",
+      "example_uz": "Besh yuz dollar katta pul.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "invite",
+      "pronunciation_uz": "invayt",
+      "uzbek": "taklif qilmoq",
+      "pos": "verb",
+      "example_en": "Mrs. Jones invited us into her home.",
+      "example_uz": "Jones xonim bizni uyiga taklif qildi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "math",
+      "pronunciation_uz": "mes",
+      "uzbek": "matematika",
+      "pos": "noun",
+      "example_en": "The boy is good at math.",
+      "example_uz": "Bola matematikadan yaxshi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "photograph (photo)",
+      "pronunciation_uz": "fotograf",
+      "uzbek": "rasm",
+      "pos": "noun",
+      "example_en": "I am glad you shared these photos with me.",
+      "example_uz": "Men bu rasmlarni men bilan boʻlishganligingizdan xursandman.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "president",
+      "pronunciation_uz": "prezident",
+      "uzbek": "prezident",
+      "pos": "noun",
+      "example_en": "Many kids dream about becoming their country's president.",
+      "example_uz": "Koʻpchilik bolalar oʻz davlatining prezidenti boʻlishini xohlaydi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "really",
+      "pronunciation_uz": "rieli",
+      "uzbek": "haqiqatdan",
+      "pos": "adv",
+      "example_en": "This TV show is really good.",
+      "example_uz": "Bu TV shou haqiqatdan yaxshi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "speech",
+      "pronunciation_uz": "spich",
+      "uzbek": "nutq",
+      "pos": "noun",
+      "example_en": "The woman answered a lot of questions during her speech.",
+      "example_uz": "Ayol nutqi davomida koʻp savollarga javob berdi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "travel",
+      "pronunciation_uz": "trevel",
+      "uzbek": "sayohat qilmoq",
+      "pos": "verb",
+      "example_en": "Vicky loves to travel. She goes to many faraway places.",
+      "example_uz": "Vikki sayohat qilishni yoqtiradi. U koʻp uzoq joylarga boradi.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "voice",
+      "pronunciation_uz": "voys",
+      "uzbek": "ovoz",
+      "pos": "noun",
+      "example_en": "Janet has a beautiful voice. She should give singing lessons.",
+      "example_uz": "Janettaning chiroyli ovozi bor. U kuylashdan dars berishi kerak.",
+      "category": "2-kitob: 2.1-bob"
+    },
+    {
+      "english": "wonder",
+      "pronunciation_uz": "vander",
+      "uzbek": "hayron boʻlmoq",
+      "pos": "verb",
+      "example_en": "Carlos did not bring a pencil to class today. I wonder why.",
+      "example_uz": "Karlos bugun sinfga qalamini olib bormadi. Men negaligiga hayronman.",
+      "category": "2-kitob: 2.1-bob"
+    }
+  ]
+}

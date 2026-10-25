@@ -1,0 +1,187 @@
+{
+  "title": "3-kitob: 3.1-bob",
+  "category": "1500 Essential English Words 3",
+  "group": "book",
+  "words": [
+    {
+      "english": "burn",
+      "pronunciation_uz": "born",
+      "uzbek": "yonmoq",
+      "pos": "verb",
+      "example_en": "The paper is burning.",
+      "example_uz": "Qogʻoz yonyapti.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "exchange",
+      "pronunciation_uz": "ekscheynj",
+      "uzbek": "almashmoq",
+      "pos": "verb",
+      "example_en": "The gentlemen exchange phone numbers.",
+      "example_uz": "Jentelmen telefon raqamlarini almashadi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "introduce",
+      "pronunciation_uz": "introdyus",
+      "uzbek": "tanishtirmoq",
+      "pos": "verb",
+      "example_en": "Jane's husband introduces her to his handsome friend.",
+      "example_uz": "Jeynning turmush oʻrtogʻi uni oʻzini kelishgan doʻstiga tanishtirdi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "offer",
+      "pronunciation_uz": "offer",
+      "uzbek": "taklif qilmoq",
+      "pos": "verb",
+      "example_en": "Paul offered the man money, but he was not interested.",
+      "example_uz": "Paul kishiga pul taklif qildi, lekin u qiziqmadi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "pardon",
+      "pronunciation_uz": "pardon",
+      "uzbek": "kechirim",
+      "pos": "noun",
+      "example_en": "\"Pardon me. Can you tell me how to get to the subway?\"",
+      "example_uz": "Kechirasiz. Menga yer osti yoʻliga qanday borishni ayta olasizmi?",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "popular",
+      "pronunciation_uz": "popyular",
+      "uzbek": "mashhur",
+      "pos": "adj",
+      "example_en": "This busy street is a popular place to shop.",
+      "example_uz": "Bu gavjum koʻcha xarid qilish uchun mashhur joy.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "prepare",
+      "pronunciation_uz": "priper",
+      "uzbek": "tayyorlamoq",
+      "pos": "verb",
+      "example_en": "The cooks prepare a delicious meal in the restaurant.",
+      "example_uz": "Oshpazlar restoranda mazali taom tayyorlaydilar.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "reason",
+      "pronunciation_uz": "rizn",
+      "uzbek": "sabab",
+      "pos": "noun",
+      "example_en": "He did not have a reason for arriving late at the theater.",
+      "example_uz": "U teatrga kech yetib kelganligiga sabab yoʻq edi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "shake",
+      "pronunciation_uz": "sheyk",
+      "uzbek": "siqmoq",
+      "pos": "verb",
+      "example_en": "The woman shakes Sue's hand and congratulates her.",
+      "example_uz": "Ayol Syu bilan qoʻlini qoʻl siqishdi va uni tabriklaydi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "shy",
+      "pronunciation_uz": "shay",
+      "uzbek": "uyatchan",
+      "pos": "adj",
+      "example_en": "The young boy is very shy.",
+      "example_uz": "Yosh bola juda uyatchan.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "bell",
+      "pronunciation_uz": "bel",
+      "uzbek": "qoʻngʻiroq",
+      "pos": "noun",
+      "example_en": "The bell rings when the gate opens.",
+      "example_uz": "Qoʻngʻiroq darvoza ochilsa jaranglaydi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "block",
+      "pronunciation_uz": "blok",
+      "uzbek": "blok",
+      "pos": "noun",
+      "example_en": "There are many houses on each block.",
+      "example_uz": "Har bir blokda koʻp uylar bor.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "borrow",
+      "pronunciation_uz": "borrou",
+      "uzbek": "olib turmoq",
+      "pos": "verb",
+      "example_en": "Thank you for letting me borrow your math book this week.",
+      "example_uz": "Bu hafta seni matematika kitobingni olib turishga ruxsat berganing uchun tashakkur.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "bowl",
+      "pronunciation_uz": "boul",
+      "uzbek": "kosa",
+      "pos": "noun",
+      "example_en": "I had a big bowl of soup for lunch.",
+      "example_uz": "Men tushlikka bir katta kosada shoʻrva ichdim.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "confuse",
+      "pronunciation_uz": "konfyuz",
+      "uzbek": "chalkashtirmoq",
+      "pos": "verb",
+      "example_en": "Math confuses Scott.",
+      "example_uz": "Matematika Skotni chalkashtiradi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "knock",
+      "pronunciation_uz": "nok",
+      "uzbek": "taqillatmoq",
+      "pos": "verb",
+      "example_en": "She continued to knock on the door.",
+      "example_uz": "U eshikni taqillatishda davom etdi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "result",
+      "pronunciation_uz": "rizalt",
+      "uzbek": "natija",
+      "pos": "noun",
+      "example_en": "John's doctor was very happy with his test results.",
+      "example_uz": "Johnning shifokori uning test natijalaridan juda xursand boʻldi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "seem",
+      "pronunciation_uz": "sim",
+      "uzbek": "koʻrinmoq, tuyulmoq",
+      "pos": "verb",
+      "example_en": "They seem to be enjoying the funny movie tonight.",
+      "example_uz": "Ular bugun kechki kulguli filmdan rohatlangandek koʻrindi.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "smart",
+      "pronunciation_uz": "smart",
+      "uzbek": "aqlli",
+      "pos": "adj",
+      "example_en": "Chris is a very smart boy.",
+      "example_uz": "Kris juda aqlli bola.",
+      "category": "3-kitob: 3.1-bob"
+    },
+    {
+      "english": "subject",
+      "pronunciation_uz": "sabjekt",
+      "uzbek": "fan",
+      "pos": "noun",
+      "example_en": "English is the most popular subject at my school.",
+      "example_uz": "Ingliz tili mening maktabimdagi eng ommabop fan.",
+      "category": "3-kitob: 3.1-bob"
+    }
+  ]
+}
