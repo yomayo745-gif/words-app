@@ -494,6 +494,7 @@
   // =========================================================================
   function toggleFlip() {
     if (state.isEndState || state.isAnimating) return;
+    stopAllAudio();
     state.isFlipped = !state.isFlipped;
     dom.wordCard.classList.toggle("is-flipped", state.isFlipped);
     triggerHaptic("light");
@@ -501,6 +502,7 @@
 
   function goNext() {
     if (state.isAnimating) return;
+    stopAllAudio();
     triggerHaptic("light");
 
     if (state.isEndState) {
@@ -539,6 +541,7 @@
     if (state.isAnimating) return;
     if (!state.isEndState && state.currentIndex <= 0) return;
 
+    stopAllAudio();
     triggerHaptic("light");
     state.isAnimating = true;
     dom.cardScene.classList.remove("anim-in-right", "anim-in-left", "anim-out-left");
@@ -565,6 +568,7 @@
   }
 
   function restartDeck() {
+    stopAllAudio();
     triggerHaptic("light");
     resetCardToFrontInstant();
     state.currentIndex = 0;
@@ -574,6 +578,7 @@
   }
 
   function toggleShuffle() {
+    stopAllAudio();
     triggerHaptic("light");
     state.isShuffled = !state.isShuffled;
     if (state.isShuffled) {
@@ -715,6 +720,7 @@
   }
 
   function openCategorySheet() {
+    stopAllAudio();
     triggerHaptic("light");
     state.searchQuery = "";
     dom.deckSearchInput.value = "";
@@ -738,6 +744,7 @@
   }
 
   async function selectDeckFromSheet(deckId) {
+    stopAllAudio();
     triggerHaptic("light");
     state.positions[state.selectedDeckId] = state.currentIndex;
     state.isEndState = false;
@@ -806,80 +813,146 @@
   }
 
   // =========================================================================
-  // English Pronunciation Speech (Web Speech API + HTML5 Audio Fallback)
+  // Native English Audio Engine (Authentic American English Pronunciation)
+  // - 100% Native English voice (Youdao American Studio + Google Translate TTS)
+  // - NEVER uses system-default or Russian device voice
+  // - Single audio stream with instant cancellation (prevents dual/overlapping audio)
+  // - Debounced button clicks with pulsing visual feedback
   // =========================================================================
-  let activeAudio = null;
+  let currentAudio = null;
+  let currentAudioBtn = null;
+  let audioThrottleTime = 0;
 
-  function speakText(text, btnEl) {
-    if (!text) return;
-    triggerHaptic("light");
-
-    if (btnEl) {
-      btnEl.classList.add("is-speaking");
-      setTimeout(() => {
-        if (btnEl) btnEl.classList.remove("is-speaking");
-      }, 1500);
+  function stopAllAudio() {
+    if (currentAudio) {
+      try {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+      } catch (_) {}
+      currentAudio = null;
     }
-
-    // Clean text of phonetic markers or parentheses for crisp speech
-    const clean = text
-      .replace(/\(.*?\)/g, "")
-      .replace(/[\/\[\]]/g, "")
-      .replace(/\s+/g, " ")
-      .trim();
-
-    if (!clean) return;
-
     if (typeof window !== "undefined" && "speechSynthesis" in window) {
       try {
         window.speechSynthesis.cancel();
-        const utter = new SpeechSynthesisUtterance(clean);
-        utter.lang = "en-US";
-        utter.rate = 0.88;
-        utter.pitch = 1.0;
-
-        const voices = window.speechSynthesis.getVoices();
-        const enVoice =
-          voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha"))) ||
-          voices.find((v) => v.lang.startsWith("en-US")) ||
-          voices.find((v) => v.lang.startsWith("en"));
-        if (enVoice) utter.voice = enVoice;
-
-        utter.onend = () => {
-          if (btnEl) btnEl.classList.remove("is-speaking");
-        };
-        utter.onerror = () => {
-          if (btnEl) btnEl.classList.remove("is-speaking");
-          fallbackAudio(clean, btnEl);
-        };
-
-        window.speechSynthesis.speak(utter);
-        return;
-      } catch (_) {
-        // Fallback
-      }
+      } catch (_) {}
     }
-
-    fallbackAudio(clean, btnEl);
+    if (currentAudioBtn) {
+      currentAudioBtn.classList.remove("is-speaking");
+      currentAudioBtn = null;
+    }
   }
 
-  function fallbackAudio(clean, btnEl) {
-    try {
-      if (activeAudio) {
-        activeAudio.pause();
-        activeAudio = null;
+  function cleanTextForAudio(text) {
+    if (!text) return "";
+    return text
+      .replace(/\(.* *?\)/g, "") // remove parenthetical expressions
+      .replace(/[\/\[\]]/g, "") // remove phonetic slashes/brackets
+      .replace(/["'’]/g, "") // remove quotation marks
+      .replace(/[.,!?;:]/g, " ") // replace sentence punctuation with space
+      .replace(/\s+/g, " ") // normalize spacing
+      .trim();
+  }
+
+  function playNativeAudio(text, btnEl) {
+    const clean = cleanTextForAudio(text);
+    if (!clean) return;
+
+    // Throttle rapid clicks (prevent rapid sound pileup)
+    const now = Date.now();
+    if (now - audioThrottleTime < 280) return;
+    audioThrottleTime = now;
+
+    // Immediately stop any currently playing sound or speech
+    stopAllAudio();
+    triggerHaptic("light");
+
+    if (btnEl) {
+      currentAudioBtn = btnEl;
+      btnEl.classList.add("is-speaking");
+    }
+
+    const wordsCount = clean.split(" ").length;
+    const candidateUrls = [];
+
+    // For single words and short phrases: authentic American English dictionary recording
+    if (wordsCount <= 4) {
+      candidateUrls.push(`https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(clean)}&type=2`);
+    }
+    // High-quality Google Translate native English TTS (works for both words and full sentences)
+    candidateUrls.push(`https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=${encodeURIComponent(clean)}`);
+
+    let candidateIndex = 0;
+
+    function tryNextCandidate() {
+      if (candidateIndex >= candidateUrls.length) {
+        // As a last-resort fallback: only use SpeechSynthesis IF an explicit English voice exists!
+        fallbackVerifiedSpeechSynthesis(clean, btnEl);
+        return;
       }
-      const audioUrl = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(clean)}&type=2`;
-      activeAudio = new Audio(audioUrl);
-      activeAudio.onended = () => {
+
+      const audioUrl = candidateUrls[candidateIndex++];
+      const audio = new Audio();
+      currentAudio = audio;
+
+      const finishPlayback = () => {
+        if (currentAudio === audio) {
+          currentAudio = null;
+        }
         if (btnEl) btnEl.classList.remove("is-speaking");
+        if (currentAudioBtn === btnEl) currentAudioBtn = null;
       };
-      activeAudio.onerror = () => {
-        if (btnEl) btnEl.classList.remove("is-speaking");
+
+      audio.onended = finishPlayback;
+      audio.onerror = () => {
+        if (currentAudio === audio) {
+          tryNextCandidate();
+        }
       };
-      activeAudio.play().catch(() => {
-        if (btnEl) btnEl.classList.remove("is-speaking");
+
+      audio.play().catch(() => {
+        if (currentAudio === audio) {
+          tryNextCandidate();
+        }
       });
+    }
+
+    tryNextCandidate();
+  }
+
+  function fallbackVerifiedSpeechSynthesis(clean, btnEl) {
+    if (typeof window === "undefined" || !("speechSynthesis" in window)) {
+      if (btnEl) btnEl.classList.remove("is-speaking");
+      return;
+    }
+
+    try {
+      const voices = window.speechSynthesis.getVoices();
+      // STRICT FILTER: ONLY allow speech synthesis if an explicit ENGLISH voice exists!
+      // NEVER fall back to Russian, Uzbek, or system-default non-English voices!
+      const enVoice =
+        voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha") || v.name.includes("English"))) ||
+        voices.find((v) => v.lang && (v.lang === "en-US" || v.lang === "en-GB")) ||
+        voices.find((v) => v.lang && v.lang.startsWith("en"));
+
+      if (!enVoice) {
+        // Refuse to speak in Russian/non-English voice
+        if (btnEl) btnEl.classList.remove("is-speaking");
+        return;
+      }
+
+      const utter = new SpeechSynthesisUtterance(clean);
+      utter.voice = enVoice;
+      utter.lang = enVoice.lang || "en-US";
+      utter.rate = 0.88;
+
+      utter.onend = () => {
+        if (btnEl) btnEl.classList.remove("is-speaking");
+      };
+      utter.onerror = () => {
+        if (btnEl) btnEl.classList.remove("is-speaking");
+      };
+
+      window.speechSynthesis.speak(utter);
     } catch (_) {
       if (btnEl) btnEl.classList.remove("is-speaking");
     }
@@ -892,7 +965,7 @@
       dom.speakBtn.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) speakText(word.english, dom.speakBtn);
+        if (word) playNativeAudio(word.english, dom.speakBtn);
       });
     }
 
@@ -900,7 +973,7 @@
       dom.ipaPill.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) speakText(word.english, dom.speakBtn);
+        if (word) playNativeAudio(word.english, dom.speakBtn);
       });
     }
 
@@ -908,7 +981,7 @@
       dom.pronunciationPill.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) speakText(word.english, dom.speakBtn);
+        if (word) playNativeAudio(word.english, dom.speakBtn);
       });
     }
 
@@ -916,7 +989,7 @@
       dom.exampleSpeakBtn.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) speakText(word.example_en, dom.exampleSpeakBtn);
+        if (word) playNativeAudio(word.example_en, dom.exampleSpeakBtn);
       });
     }
 
