@@ -10,7 +10,8 @@
       "pos": "verb",
       "example_en": "He cries when he is sad.",
       "example_uz": "Qachonki u xafa boʻlsa yigʻlaydi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/kraɪ/"
     },
     {
       "english": "drive",
@@ -19,7 +20,8 @@
       "pos": "verb",
       "example_en": "He drives to work.",
       "example_uz": "U ishga mashina haydab boradi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/draɪv/"
     },
     {
       "english": "funny",
@@ -28,7 +30,8 @@
       "pos": "adj",
       "example_en": "The dog looks funny.",
       "example_uz": "Kuchuk kulguli koʻrinadi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/ˈfəni/"
     },
     {
       "english": "hope",
@@ -37,7 +40,8 @@
       "pos": "verb",
       "example_en": "She hopes the sun comes out.",
       "example_uz": "U quyosh chiqishiga umid qiladi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/hoʊp/"
     },
     {
       "english": "laugh",
@@ -46,7 +50,8 @@
       "pos": "verb",
       "example_en": "Jan laughs a lot.",
       "example_uz": "Jan koʻp kuladi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/læf/"
     },
     {
       "english": "nice",
@@ -55,7 +60,8 @@
       "pos": "adj",
       "example_en": "Mary is very nice.",
       "example_uz": "Meri juda ajoyib.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/naɪs/"
     },
     {
       "english": "smile",
@@ -64,7 +70,8 @@
       "pos": "verb",
       "example_en": "She always smiles.",
       "example_uz": "U doim jilmayadi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/smaɪl/"
     },
     {
       "english": "strong",
@@ -73,7 +80,8 @@
       "pos": "adj",
       "example_en": "My uncle is very strong.",
       "example_uz": "Mening amakim juda kuchli.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/strɔŋ/"
     },
     {
       "english": "student",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "The student has many books.",
       "example_uz": "Talabaning koʻp kitoblari bor.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/ˈstudənt/"
     },
     {
       "english": "young",
@@ -91,7 +100,8 @@
       "pos": "adj",
       "example_en": "The young girl loves her grandma.",
       "example_uz": "Yosh qiz buvisini yaxshi koʻradi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/jəŋ/"
     },
     {
       "english": "big",
@@ -100,7 +110,8 @@
       "pos": "adj",
       "example_en": "The red apple is big.",
       "example_uz": "Qizil olma katta.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/bɪg/"
     },
     {
       "english": "boy",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "The boy is ten years old.",
       "example_uz": "Bola oʻn yoshda.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/bɔɪ/"
     },
     {
       "english": "child",
@@ -118,7 +130,8 @@
       "pos": "noun",
       "example_en": "The child plays in the sand.",
       "example_uz": "Bola qumda oʻynaydi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/tʃaɪld/"
     },
     {
       "english": "have",
@@ -127,7 +140,8 @@
       "pos": "verb",
       "example_en": "She has a cat.",
       "example_uz": "Uning mushugi bor.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/hæv/"
     },
     {
       "english": "loud",
@@ -136,7 +150,8 @@
       "pos": "adj",
       "example_en": "The music is too loud.",
       "example_uz": "Qoʻshiq juda ham baland.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/laʊd/"
     },
     {
       "english": "story",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "We read a story at bedtime.",
       "example_uz": "Biz yotoq vaqti hikoya oʻqiymiz.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/ˈstɔri/"
     },
     {
       "english": "swim",
@@ -154,7 +170,8 @@
       "pos": "verb",
       "example_en": "He can swim.",
       "example_uz": "U suza oladi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/swɪm/"
     },
     {
       "english": "today",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "What day is it today.",
       "example_uz": "Bugun qaysi kun?",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/təˈdeɪ/"
     },
     {
       "english": "watch",
@@ -172,7 +190,8 @@
       "pos": "verb",
       "example_en": "They watch a movie.",
       "example_uz": "Ular film tomosha qiladi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/wɑtʃ/"
     },
     {
       "english": "worry",
@@ -181,7 +200,8 @@
       "pos": "verb",
       "example_en": "She always worries before a test.",
       "example_uz": "U doim testdan oldin xavotirlanadi.",
-      "category": "1-kitob: 1.1-bob"
+      "category": "1-kitob: 1.1-bob",
+      "ipa": "/ˈwəri/"
     }
   ]
 }

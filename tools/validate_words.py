@@ -28,6 +28,7 @@ DECKS_DIR = PROJECT_ROOT / "webapp" / "data" / "decks"
 REQUIRED_FIELDS: tuple[str, ...] = (
     "english",
     "pronunciation_uz",
+    "ipa",
     "uzbek",
     "pos",
     "example_en",

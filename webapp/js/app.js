@@ -53,6 +53,10 @@
     frontCategoryTag: document.getElementById("frontCategoryTag"),
     frontIndexBadge: document.getElementById("frontIndexBadge"),
     englishWord: document.getElementById("englishWord"),
+    speakBtn: document.getElementById("speakBtn"),
+    ipaPill: document.getElementById("ipaPill"),
+    ipaText: document.getElementById("ipaText"),
+    pronunciationPill: document.getElementById("pronunciationPill"),
     pronunciationText: document.getElementById("pronunciationText"),
     posBadge: document.getElementById("posBadge"),
 
@@ -60,6 +64,7 @@
     backIndexBadge: document.getElementById("backIndexBadge"),
     uzbekWord: document.getElementById("uzbekWord"),
     exampleEn: document.getElementById("exampleEn"),
+    exampleSpeakBtn: document.getElementById("exampleSpeakBtn"),
     exampleUz: document.getElementById("exampleUz"),
     backPosBadge: document.getElementById("backPosBadge"),
 
@@ -457,6 +462,9 @@
     dom.frontCategoryTag.textContent = catTag;
     dom.frontIndexBadge.textContent = formattedIndex;
     dom.englishWord.textContent = currentWord.english;
+    if (dom.ipaText) {
+      dom.ipaText.textContent = currentWord.ipa || `/${currentWord.english}/`;
+    }
     dom.pronunciationText.textContent = `[ ${currentWord.pronunciation_uz} ]`;
     dom.posBadge.textContent = POS_LABELS[currentWord.pos] || currentWord.pos;
 
@@ -466,7 +474,8 @@
     dom.uzbekWord.textContent = currentWord.uzbek;
     dom.exampleEn.textContent = currentWord.example_en;
     dom.exampleUz.textContent = currentWord.example_uz;
-    dom.backPosBadge.textContent = `${currentWord.english} • [ ${currentWord.pronunciation_uz} ]`;
+    const ipaOrUz = currentWord.ipa || `[ ${currentWord.pronunciation_uz} ]`;
+    dom.backPosBadge.textContent = `${currentWord.english} • ${ipaOrUz}`;
 
     fitCardTypography(currentWord);
     dom.prevBtn.disabled = state.currentIndex <= 0;
@@ -751,6 +760,7 @@
       "pointerdown",
       (e) => {
         if (state.isEndState && e.target.closest("#restartBtn")) return;
+        if (e.target.closest("#speakBtn, #ipaPill, #pronunciationPill, #exampleSpeakBtn")) return;
         startX = e.clientX;
         startY = e.clientY;
         tracking = true;
@@ -776,9 +786,12 @@
       { passive: true }
     );
 
-    dom.wordCard.addEventListener("click", () => {
+    dom.wordCard.addEventListener("click", (e) => {
       if (swiped) {
         swiped = false;
+        return;
+      }
+      if (e.target.closest("#speakBtn, #ipaPill, #pronunciationPill, #exampleSpeakBtn")) {
         return;
       }
       toggleFlip();
@@ -792,8 +805,120 @@
     });
   }
 
+  // =========================================================================
+  // English Pronunciation Speech (Web Speech API + HTML5 Audio Fallback)
+  // =========================================================================
+  let activeAudio = null;
+
+  function speakText(text, btnEl) {
+    if (!text) return;
+    triggerHaptic("light");
+
+    if (btnEl) {
+      btnEl.classList.add("is-speaking");
+      setTimeout(() => {
+        if (btnEl) btnEl.classList.remove("is-speaking");
+      }, 1500);
+    }
+
+    // Clean text of phonetic markers or parentheses for crisp speech
+    const clean = text
+      .replace(/\(.*?\)/g, "")
+      .replace(/[\/\[\]]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+
+    if (!clean) return;
+
+    if (typeof window !== "undefined" && "speechSynthesis" in window) {
+      try {
+        window.speechSynthesis.cancel();
+        const utter = new SpeechSynthesisUtterance(clean);
+        utter.lang = "en-US";
+        utter.rate = 0.88;
+        utter.pitch = 1.0;
+
+        const voices = window.speechSynthesis.getVoices();
+        const enVoice =
+          voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha"))) ||
+          voices.find((v) => v.lang.startsWith("en-US")) ||
+          voices.find((v) => v.lang.startsWith("en"));
+        if (enVoice) utter.voice = enVoice;
+
+        utter.onend = () => {
+          if (btnEl) btnEl.classList.remove("is-speaking");
+        };
+        utter.onerror = () => {
+          if (btnEl) btnEl.classList.remove("is-speaking");
+          fallbackAudio(clean, btnEl);
+        };
+
+        window.speechSynthesis.speak(utter);
+        return;
+      } catch (_) {
+        // Fallback
+      }
+    }
+
+    fallbackAudio(clean, btnEl);
+  }
+
+  function fallbackAudio(clean, btnEl) {
+    try {
+      if (activeAudio) {
+        activeAudio.pause();
+        activeAudio = null;
+      }
+      const audioUrl = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(clean)}&type=2`;
+      activeAudio = new Audio(audioUrl);
+      activeAudio.onended = () => {
+        if (btnEl) btnEl.classList.remove("is-speaking");
+      };
+      activeAudio.onerror = () => {
+        if (btnEl) btnEl.classList.remove("is-speaking");
+      };
+      activeAudio.play().catch(() => {
+        if (btnEl) btnEl.classList.remove("is-speaking");
+      });
+    } catch (_) {
+      if (btnEl) btnEl.classList.remove("is-speaking");
+    }
+  }
+
   function bindEvents() {
     bindCardGestures();
+
+    if (dom.speakBtn) {
+      dom.speakBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const word = state.activeWords[state.currentIndex];
+        if (word) speakText(word.english, dom.speakBtn);
+      });
+    }
+
+    if (dom.ipaPill) {
+      dom.ipaPill.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const word = state.activeWords[state.currentIndex];
+        if (word) speakText(word.english, dom.speakBtn);
+      });
+    }
+
+    if (dom.pronunciationPill) {
+      dom.pronunciationPill.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const word = state.activeWords[state.currentIndex];
+        if (word) speakText(word.english, dom.speakBtn);
+      });
+    }
+
+    if (dom.exampleSpeakBtn) {
+      dom.exampleSpeakBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const word = state.activeWords[state.currentIndex];
+        if (word) speakText(word.example_en, dom.exampleSpeakBtn);
+      });
+    }
 
     dom.nextBtn.addEventListener("click", goNext);
     dom.prevBtn.addEventListener("click", goPrev);
@@ -867,7 +992,7 @@
       await activateDeck(state.selectedDeckId, false);
 
       if (urlFlipped === "1" || urlFlipped === "true") {
-        setTimeout(toggleFlip, 100);
+        setTimeout(toggleFlip, 300);
       }
       if (urlPicker === "1" || urlPicker === "true") {
         setTimeout(openCategorySheet, 150);

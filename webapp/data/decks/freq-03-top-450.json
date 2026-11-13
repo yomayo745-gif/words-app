@@ -10,7 +10,8 @@
       "pos": "noun",
       "example_en": "There are twelve months in a year.",
       "example_uz": "Bir yilda oʻn ikki oy bor.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/mənθ/"
     },
     {
       "english": "morning",
@@ -19,7 +20,8 @@
       "pos": "noun",
       "example_en": "Fresh morning air gives you energy for the whole day.",
       "example_uz": "Toza tonggi havo kun boʻyi quvvat bagʻishlaydi.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈmɔrnɪŋ/"
     },
     {
       "english": "night",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "Bright stars shone in the clear night sky.",
       "example_uz": "Tiniq tungi osmonda yorqin yulduzlar porlardi.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/naɪt/"
     },
     {
       "english": "nine",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "The library opens at nine every morning.",
       "example_uz": "Kutubxona har kuni ertalab soat toʻqqizda ochiladi.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/naɪn/"
     },
     {
       "english": "past",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "We learn valuable lessons from the past.",
       "example_uz": "Biz oʻtmishdan qimmatli saboqlar olamiz.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/pæst/"
     },
     {
       "english": "schedule",
@@ -55,7 +60,8 @@
       "pos": "noun",
       "example_en": "Following a daily schedule helps you manage time well.",
       "example_uz": "Kundalik jadvalga amal qilish vaqtni toʻgʻri taqsimlashga yordam beradi.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈskɛdʒʊl/"
     },
     {
       "english": "season",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "Spring is my favorite season of the year.",
       "example_uz": "Bahor — yilning men eng yoqtirgan fasli.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈsizən/"
     },
     {
       "english": "second",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "Wait thirty seconds for the page to load.",
       "example_uz": "Sahifa yuklanishi uchun oʻttiz soniya kuting.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈsɛkənd/"
     },
     {
       "english": "seven",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "I wake up at seven o'clock every morning.",
       "example_uz": "Har kuni ertalab soat yettida uygʻonaman.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈsɛvən/"
     },
     {
       "english": "spring",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "Fruit trees blossom beautifully in spring.",
       "example_uz": "Bahorda mevali daraxtlar chiroyli boʻlib gullaydi.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/sprɪŋ/"
     },
     {
       "english": "summer",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "Summer days are long, sunny, and warm.",
       "example_uz": "Yoz kunlari uzun, quyoshli va issiq boʻladi.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈsəmər/"
     },
     {
       "english": "thousand",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "One kilometer equals one thousand meters.",
       "example_uz": "Bir kilometr ming metrga teng.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈθaʊzənd/"
     },
     {
       "english": "tomorrow",
@@ -118,7 +130,8 @@
       "pos": "adv",
       "example_en": "We will start the new chapter tomorrow.",
       "example_uz": "Yangi bobni ertaga boshlaymiz.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/təˈmɑˌroʊ/"
     },
     {
       "english": "weekend",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "How do you usually spend your weekend?",
       "example_uz": "Dam olish kunlarini odatda qanday oʻtkazasiz?",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈwiˌkɛnd/"
     },
     {
       "english": "winter",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "Children love making snowmen in winter.",
       "example_uz": "Bolalar qishda qorbobo yasashni yaxshi koʻradilar.",
-      "category": "Time & Numbers"
+      "category": "Time & Numbers",
+      "ipa": "/ˈwɪntər/"
     },
     {
       "english": "able",
@@ -145,7 +160,8 @@
       "pos": "adj",
       "example_en": "Will you be able to attend the meeting tomorrow?",
       "example_uz": "Ertaga yigʻilishda qatnasha olasizmi?",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈeɪbəl/"
     },
     {
       "english": "ancient",
@@ -154,7 +170,8 @@
       "pos": "adj",
       "example_en": "Bukhara is famous for its ancient architecture.",
       "example_uz": "Buxoro oʻzining qadimiy me’morchiligi bilan mashhur.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈeɪntʃənt/"
     },
     {
       "english": "available",
@@ -163,7 +180,8 @@
       "pos": "adj",
       "example_en": "Is this seat available or taken?",
       "example_uz": "Bu oʻrin boʻshmi yoki bandmi?",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/əˈveɪləbəl/"
     },
     {
       "english": "beautiful",
@@ -172,7 +190,8 @@
       "pos": "adj",
       "example_en": "What a beautiful view of the mountains!",
       "example_uz": "Togʻlarning manzarasi naqadar goʻzal!",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈbjutəfəl/"
     },
     {
       "english": "big",
@@ -181,7 +200,8 @@
       "pos": "adj",
       "example_en": "They live in a big house with a green courtyard.",
       "example_uz": "Ular yashil hovlili katta uyda yashaydilar.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/bɪg/"
     },
     {
       "english": "bright",
@@ -190,7 +210,8 @@
       "pos": "adj",
       "example_en": "The classroom has bright lights and wide windows.",
       "example_uz": "Sinf xonasida yorugʻ chiroqlar va keng derazalar bor.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/braɪt/"
     },
     {
       "english": "busy",
@@ -199,7 +220,8 @@
       "pos": "adj",
       "example_en": "Monday is usually the busiest day of the week.",
       "example_uz": "Dushanba odatda haftaning eng tigʻiz kuni boʻladi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈbɪzi/"
     },
     {
       "english": "careful",
@@ -208,7 +230,8 @@
       "pos": "adj",
       "example_en": "Be careful when crossing a busy street.",
       "example_uz": "Gavjum koʻchani kesib oʻtayotganda ehtiyot boʻling.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈkɛrfəl/"
     },
     {
       "english": "cheap",
@@ -217,7 +240,8 @@
       "pos": "adj",
       "example_en": "Fresh vegetables are cheap at the autumn market.",
       "example_uz": "Kuzgi bozorda yangi sabzavotlar arzon boʻladi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/tʃip/"
     },
     {
       "english": "clear",
@@ -226,7 +250,8 @@
       "pos": "adj",
       "example_en": "The teacher gave a very clear explanation.",
       "example_uz": "Oʻqituvchi juda aniq tushuntirish berdi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/klɪr/"
     },
     {
       "english": "cold",
@@ -235,7 +260,8 @@
       "pos": "adj",
       "example_en": "Drink something warm on a cold winter evening.",
       "example_uz": "Sovuq qish oqshomida issiqroq narsa iching.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/koʊld/"
     },
     {
       "english": "comfortable",
@@ -244,7 +270,8 @@
       "pos": "adj",
       "example_en": "Wear comfortable shoes when walking a long distance.",
       "example_uz": "Uzoq masofaga piyoda yurganda qulay poyabzal kiying.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈkəmfərtəbəl/"
     },
     {
       "english": "common",
@@ -253,7 +280,8 @@
       "pos": "adj",
       "example_en": "These four hundred words are very common in English.",
       "example_uz": "Ushbu toʻrt yuzta soʻz ingliz tilida juda koʻp uchraydi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈkɑmən/"
     },
     {
       "english": "dangerous",
@@ -262,7 +290,8 @@
       "pos": "adj",
       "example_en": "Driving fast on icy roads is dangerous.",
       "example_uz": "Muzlagan yoʻlda mashinani tez haydash xavfli.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈdeɪndʒərəs/"
     },
     {
       "english": "dark",
@@ -271,7 +300,8 @@
       "pos": "adj",
       "example_en": "It gets dark early in December.",
       "example_uz": "Dekabr oyida kun erta qorongʻilashadi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/dɑrk/"
     },
     {
       "english": "deep",
@@ -280,7 +310,8 @@
       "pos": "adj",
       "example_en": "Take a deep breath and speak calmly.",
       "example_uz": "Chuqur nafas oling va xotirjam gapiring.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/dip/"
     },
     {
       "english": "different",
@@ -289,7 +320,8 @@
       "pos": "adj",
       "example_en": "People from different countries attended the festival.",
       "example_uz": "Festivalda turli mamlakatlardan kelgan odamlar qatnashdi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈdɪfərənt/"
     },
     {
       "english": "difficult",
@@ -298,7 +330,8 @@
       "pos": "adj",
       "example_en": "Even a difficult task becomes easy with practice.",
       "example_uz": "Hatto qiyin vazifa ham mashq bilan osonlashadi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈdɪfəkəlt/"
     },
     {
       "english": "dirty",
@@ -307,7 +340,8 @@
       "pos": "adj",
       "example_en": "Put your dirty clothes in the washing machine.",
       "example_uz": "Kir kiyimlaringizni kir yuvish mashinasiga soling.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈdərti/"
     },
     {
       "english": "dry",
@@ -316,7 +350,8 @@
       "pos": "adj",
       "example_en": "Keep matches and paper in a dry place.",
       "example_uz": "Gugurt va qogʻozlarni quruq joyda saqlang.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/draɪ/"
     },
     {
       "english": "easy",
@@ -325,7 +360,8 @@
       "pos": "adj",
       "example_en": "The first questions on the test were quite easy.",
       "example_uz": "Testning birinchi savollari ancha oson edi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈizi/"
     },
     {
       "english": "empty",
@@ -334,7 +370,8 @@
       "pos": "adj",
       "example_en": "There were three empty seats on the bus.",
       "example_uz": "Avtobusda uchta boʻsh joy bor edi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈɛmpti/"
     },
     {
       "english": "expensive",
@@ -343,7 +380,8 @@
       "pos": "adj",
       "example_en": "This watch looks expensive, but it is durable.",
       "example_uz": "Bu soat qimmat koʻrinadi, lekin juda chidamli.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ɪkˈspɛnsɪv/"
     },
     {
       "english": "famous",
@@ -352,7 +390,8 @@
       "pos": "adj",
       "example_en": "Ibn Sina is a famous scientist and physician.",
       "example_uz": "Ibn Sino — mashhur olim va tabibdir.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈfeɪməs/"
     },
     {
       "english": "fast",
@@ -361,7 +400,8 @@
       "pos": "adj",
       "example_en": "The high-speed train is fast and comfortable.",
       "example_uz": "Tezyurar poyezd tez va qulaydir.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/fæst/"
     },
     {
       "english": "foreign",
@@ -370,7 +410,8 @@
       "pos": "adj",
       "example_en": "She speaks two foreign languages fluently.",
       "example_uz": "U ikkita xorijiy tilda ravon gaplashadi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈfɔrən/"
     },
     {
       "english": "free",
@@ -379,7 +420,8 @@
       "pos": "adj",
       "example_en": "Are you free this Saturday afternoon?",
       "example_uz": "Shu shanba tushdan keyin boʻshmisiz?",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/fri/"
     },
     {
       "english": "fresh",
@@ -388,7 +430,8 @@
       "pos": "adj",
       "example_en": "We buy fresh greens and bread every morning.",
       "example_uz": "Biz har kuni ertalab barra koʻkatlar va issiq non olamiz.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/frɛʃ/"
     },
     {
       "english": "full",
@@ -397,7 +440,8 @@
       "pos": "adj",
       "example_en": "The basket is full of sweet red apples.",
       "example_uz": "Savat qip-qizil shirin olmalarga toʻla.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/fʊl/"
     },
     {
       "english": "generous",
@@ -406,7 +450,8 @@
       "pos": "adj",
       "example_en": "Thank you for your generous help and support.",
       "example_uz": "Saxiy yordamingiz va qoʻllab-quvvatlaganingiz uchun rahmat.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈdʒɛnərəs/"
     },
     {
       "english": "good",
@@ -415,7 +460,8 @@
       "pos": "adj",
       "example_en": "Starting the day with a good habit brings success.",
       "example_uz": "Kunni yaxshi odat bilan boshlash muvaffaqiyat keltiradi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/gʊd/"
     },
     {
       "english": "heavy",
@@ -424,7 +470,8 @@
       "pos": "adj",
       "example_en": "This suitcase is too heavy to carry alone.",
       "example_uz": "Bu jomadon yolgʻiz koʻtarish uchun juda ogʻirlik qiladi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈhɛvi/"
     },
     {
       "english": "helpful",
@@ -433,7 +480,8 @@
       "pos": "adj",
       "example_en": "Flashcards are very helpful for memorizing vocabulary.",
       "example_uz": "Lugʻat kartochkalari soʻzlarni yodlashda juda foydali.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈhɛlpfəl/"
     },
     {
       "english": "high",
@@ -442,7 +490,8 @@
       "pos": "adj",
       "example_en": "High mountains surround the green valley.",
       "example_uz": "Baland togʻlar yashil vodiyni oʻrab turadi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/haɪ/"
     },
     {
       "english": "honest",
@@ -451,7 +500,8 @@
       "pos": "adj",
       "example_en": "Everyone respects an honest and fair person.",
       "example_uz": "Hamma halol va adolatli insonni hurmat qiladi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈɑnəst/"
     },
     {
       "english": "hot",
@@ -460,7 +510,8 @@
       "pos": "adj",
       "example_en": "Be careful, the tea in the cup is very hot.",
       "example_uz": "Ehtiyot boʻling, piyoladagi choy juda issiq.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/hɑt/"
     },
     {
       "english": "important",
@@ -469,7 +520,8 @@
       "pos": "adj",
       "example_en": "Sleep and healthy food are important for your mind.",
       "example_uz": "Uyqu va sogʻlom ovqat aqliy faoliyat uchun muhimdir.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˌɪmˈpɔrtənt/"
     },
     {
       "english": "interesting",
@@ -478,7 +530,8 @@
       "pos": "adj",
       "example_en": "We watched an interesting documentary about nature.",
       "example_uz": "Tabiat haqida qiziqarli hujjatli film tomosha qildik.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈɪntəˌrɛstɪŋ/"
     },
     {
       "english": "kind",
@@ -487,7 +540,8 @@
       "pos": "adj",
       "example_en": "Always speak with kind words to people around you.",
       "example_uz": "Atrofingizdagi insonlarga doimo shirin va samimiy soʻzlang.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/kaɪnd/"
     },
     {
       "english": "large",
@@ -496,7 +550,8 @@
       "pos": "adj",
       "example_en": "A large library was opened in the center of town.",
       "example_uz": "Shahar markazida katta kutubxona ochildi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/lɑrdʒ/"
     },
     {
       "english": "local",
@@ -505,7 +560,8 @@
       "pos": "adj",
       "example_en": "Visitors love tasting local food at the bazaar.",
       "example_uz": "Mehmonlar bozorda mahalliy taomlarni tatib koʻrishni yoqtiradilar.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈloʊkəl/"
     },
     {
       "english": "modern",
@@ -514,7 +570,8 @@
       "pos": "adj",
       "example_en": "Modern classrooms use interactive screens.",
       "example_uz": "Zamonaviy sinf xonalarida interaktiv ekranlar qoʻllaniladi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈmɑdərn/"
     },
     {
       "english": "necessary",
@@ -523,7 +580,8 @@
       "pos": "adj",
       "example_en": "Pack only the necessary things for the short trip.",
       "example_uz": "Qisqa safar uchun faqat zarur narsalarni oling.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈnɛsəˌsɛri/"
     },
     {
       "english": "polite",
@@ -532,7 +590,8 @@
       "pos": "adj",
       "example_en": "It is polite to say thank you and please.",
       "example_uz": "Rahmat va iltimos deb aytish odobdan sanaladi.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/pəˈlaɪt/"
     },
     {
       "english": "useful",
@@ -541,7 +600,8 @@
       "pos": "adj",
       "example_en": "This dictionary contains the most useful everyday words.",
       "example_uz": "Ushbu lugʻatda eng foydali kundalik soʻzlar jamlangan.",
-      "category": "Adjectives"
+      "category": "Adjectives",
+      "ipa": "/ˈjusfəl/"
     },
     {
       "english": "about",
@@ -550,7 +610,8 @@
       "pos": "prep",
       "example_en": "Tell me about your favorite book.",
       "example_uz": "Menga eng sevimli kitobingiz haqida gapirib bering.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/əˈbaʊt/"
     },
     {
       "english": "above",
@@ -559,7 +620,8 @@
       "pos": "prep",
       "example_en": "A bright lamp hangs above the dining table.",
       "example_uz": "Ovqatlanish stoli ustida yorugʻ qandil osilib turibdi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/əˈbəv/"
     },
     {
       "english": "across",
@@ -568,7 +630,8 @@
       "pos": "prep",
       "example_en": "The bookshop is right across the street.",
       "example_uz": "Kitob doʻkoni koʻchaning shundoqqina narigi tomonida.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/əˈkrɔs/"
     },
     {
       "english": "actually",
@@ -577,7 +640,8 @@
       "pos": "adv",
       "example_en": "The grammar rule is actually very simple.",
       "example_uz": "Grammatika qoidasi aslida juda oddiy.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈæˌktʃuəli/"
     },
     {
       "english": "after",
@@ -586,7 +650,8 @@
       "pos": "prep",
       "example_en": "Let's go for a walk after dinner.",
       "example_uz": "Kechki ovqatdan keyin sayrga chiqaylik.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈæftər/"
     },
     {
       "english": "again",
@@ -595,7 +660,8 @@
       "pos": "adv",
       "example_en": "Could you please repeat that sentence again?",
       "example_uz": "Iltimos, oʻsha gapni yana bir bor takrorlab bera olasizmi?",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/əˈgɛn/"
     },
     {
       "english": "almost",
@@ -604,7 +670,8 @@
       "pos": "adv",
       "example_en": "We have almost finished our project.",
       "example_uz": "Loyihamizni deyarli tugatdik.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈɔlˌmoʊst/"
     },
     {
       "english": "already",
@@ -613,7 +680,8 @@
       "pos": "adv",
       "example_en": "I have already learned fifty new words this week.",
       "example_uz": "Shu haftada allaqachon ellikta yangi soʻz oʻrgandim.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ɔˈlrɛdi/"
     },
     {
       "english": "also",
@@ -622,7 +690,8 @@
       "pos": "adv",
       "example_en": "She speaks English and also studies German.",
       "example_uz": "U ingliz tilida gapiradi, shuningdek nemis tilini ham oʻrganadi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈɔlsoʊ/"
     },
     {
       "english": "although",
@@ -631,7 +700,8 @@
       "pos": "conj",
       "example_en": "Although it was raining, we enjoyed the walk.",
       "example_uz": "Yomgʻir yogʻayotgan boʻlsa ham, sayrdan zavq oldik.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˌɔlˈðoʊ/"
     },
     {
       "english": "always",
@@ -640,7 +710,8 @@
       "pos": "adv",
       "example_en": "He always arrives at work on time.",
       "example_uz": "U har doim ishga oʻz vaqtida keladi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈɔlˌweɪz/"
     },
     {
       "english": "among",
@@ -649,7 +720,8 @@
       "pos": "prep",
       "example_en": "Divide the sweets equally among the children.",
       "example_uz": "Shirinliklarni bolalar orasida teng taqsimlang.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/əˈməŋ/"
     },
     {
       "english": "because",
@@ -658,7 +730,8 @@
       "pos": "conj",
       "example_en": "I stayed home because the weather was stormy.",
       "example_uz": "Havo boʻronli boʻlgani uchun uyda qoldim.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/bɪˈkɔz/"
     },
     {
       "english": "before",
@@ -667,7 +740,8 @@
       "pos": "prep",
       "example_en": "Check your ticket before boarding the train.",
       "example_uz": "Poyezdga chiqishdan oldin chiptangizni tekshiring.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/bɪˈfɔr/"
     },
     {
       "english": "behind",
@@ -676,7 +750,8 @@
       "pos": "prep",
       "example_en": "A small garden is behind the school building.",
       "example_uz": "Maktab binosi orqasida kichik bogʻ bor.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/bɪˈhaɪnd/"
     },
     {
       "english": "below",
@@ -685,7 +760,8 @@
       "pos": "prep",
       "example_en": "Write your signature below the printed line.",
       "example_uz": "Bosma chiziqning pastiga imzoyingizni qoʻying.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/bɪˈloʊ/"
     },
     {
       "english": "between",
@@ -694,7 +770,8 @@
       "pos": "prep",
       "example_en": "The pharmacy is between the bank and the bakery.",
       "example_uz": "Dorixona bank bilan novvoyxona oʻrtasida joylashgan.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/bɪtˈwin/"
     },
     {
       "english": "both",
@@ -703,7 +780,8 @@
       "pos": "conj",
       "example_en": "Both answers are correct and well written.",
       "example_uz": "Ikkala javob ham toʻgʻri va yaxshi yozilgan.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/boʊθ/"
     },
     {
       "english": "but",
@@ -712,7 +790,8 @@
       "pos": "conj",
       "example_en": "The task was long, but we finished it together.",
       "example_uz": "Vazifa uzoq edi, lekin uni birgalikda tugatdik.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/bʌt/"
     },
     {
       "english": "certainly",
@@ -721,7 +800,8 @@
       "pos": "adv",
       "example_en": "I will certainly help you prepare for the test.",
       "example_uz": "Testga tayyorlanishingizga, albatta, yordam beraman.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈsərtənli/"
     },
     {
       "english": "during",
@@ -730,7 +810,8 @@
       "pos": "prep",
       "example_en": "Please turn off your phone during the lesson.",
       "example_uz": "Iltimos, dars davomida telefoningizni oʻchirib qoʻying.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈdʊrɪŋ/"
     },
     {
       "english": "enough",
@@ -739,7 +820,8 @@
       "pos": "adv",
       "example_en": "Did you get enough sleep last night?",
       "example_uz": "Kecha tunda yetarlicha uxladingizmi?",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ɪˈnəf/"
     },
     {
       "english": "especially",
@@ -748,7 +830,8 @@
       "pos": "adv",
       "example_en": "Spring in Tashkent is lovely, especially in April.",
       "example_uz": "Toshkentda bahor juda goʻzal, ayniqsa aprel oyida.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/əˈspɛʃli/"
     },
     {
       "english": "finally",
@@ -757,7 +840,8 @@
       "pos": "adv",
       "example_en": "After a long journey, we finally reached home.",
       "example_uz": "Uzoq safardan soʻng nihoyat uyga yetib keldik.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈfaɪnəli/"
     },
     {
       "english": "fortunately",
@@ -766,7 +850,8 @@
       "pos": "adv",
       "example_en": "Fortunately, the rain stopped before the match began.",
       "example_uz": "Baxtga koʻra, oʻyin boshlanishidan oldin yomgʻir toʻxtadi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈfɔrtʃənətli/"
     },
     {
       "english": "frequently",
@@ -775,7 +860,8 @@
       "pos": "adv",
       "example_en": "Buses run frequently along this main street.",
       "example_uz": "Ushbu asosiy koʻcha boʻylab avtobuslar tez-tez qatnaydi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈfrikwəntli/"
     },
     {
       "english": "however",
@@ -784,7 +870,8 @@
       "pos": "adv",
       "example_en": "The road was steep; however, we reached the top.",
       "example_uz": "Yoʻl tik edi, shunga qaramay choʻqqiga chiqdik.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˌhaʊˈɛvər/"
     },
     {
       "english": "immediately",
@@ -793,7 +880,8 @@
       "pos": "adv",
       "example_en": "She answered the urgent message immediately.",
       "example_uz": "U shoshilinch xabarga darhol javob yozdi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˌɪˈmiˌdiətli/"
     },
     {
       "english": "inside",
@@ -802,7 +890,8 @@
       "pos": "prep",
       "example_en": "Come inside the house, it is starting to snow.",
       "example_uz": "Uy ichkarisiga kiring, qor yogʻa boshlayapti.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˌɪnˈsaɪd/"
     },
     {
       "english": "instead",
@@ -811,7 +900,8 @@
       "pos": "adv",
       "example_en": "Let's walk to the park instead of taking a taxi.",
       "example_uz": "Taksiga chiqish oʻrniga bogʻga piyoda boraylik.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˌɪnˈstɛd/"
     },
     {
       "english": "maybe",
@@ -820,7 +910,8 @@
       "pos": "adv",
       "example_en": "Maybe we can visit the museum this Sunday.",
       "example_uz": "Balki shu yakshanba kuni muzeyga borarmiz.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈmeɪbi/"
     },
     {
       "english": "never",
@@ -829,7 +920,8 @@
       "pos": "adv",
       "example_en": "It is never too late to learn something new.",
       "example_uz": "Yangi narsa oʻrganishning hech qachon kechi yoʻq.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈnɛvər/"
     },
     {
       "english": "often",
@@ -838,7 +930,8 @@
       "pos": "adv",
       "example_en": "How often do you practice English pronunciation?",
       "example_uz": "Inglizcha talaffuzni qanchalik tez-tez mashq qilasiz?",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈɔftən/"
     },
     {
       "english": "outside",
@@ -847,7 +940,8 @@
       "pos": "prep",
       "example_en": "The children are playing outside in the fresh air.",
       "example_uz": "Bolalar tashqarida toza havoda oʻynashyapti.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈaʊtˈsaɪd/"
     },
     {
       "english": "perhaps",
@@ -856,7 +950,8 @@
       "pos": "adv",
       "example_en": "Perhaps he is still in the library.",
       "example_uz": "Ehtimol, u hali ham kutubxonadadir.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/pərˈhæps/"
     },
     {
       "english": "quickly",
@@ -865,7 +960,8 @@
       "pos": "adv",
       "example_en": "Time passes quickly when you are doing interesting work.",
       "example_uz": "Qiziqarli ish bilan band boʻlsangiz, vaqt tez oʻtadi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/kˈwɪkli/"
     },
     {
       "english": "quietly",
@@ -874,7 +970,8 @@
       "pos": "adv",
       "example_en": "Please speak quietly in the reading room.",
       "example_uz": "Iltimos, oʻquv zalida sekinroq gapiring.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/kˈwaɪətli/"
     },
     {
       "english": "rarely",
@@ -883,7 +980,8 @@
       "pos": "adv",
       "example_en": "It rarely snows in the southern regions.",
       "example_uz": "Janubiy hududlarda qor kamdan-kam yogʻadi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈrɛrli/"
     },
     {
       "english": "since",
@@ -892,7 +990,8 @@
       "pos": "conj",
       "example_en": "We have been friends since primary school.",
       "example_uz": "Biz boshlangʻich maktabdan beri doʻstmiz.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/sɪns/"
     },
     {
       "english": "slowly",
@@ -901,7 +1000,8 @@
       "pos": "adv",
       "example_en": "Please speak slowly so I can understand every word.",
       "example_uz": "Har bir soʻzni tushunishim uchun, iltimos, sekinroq gapiring.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/sˈloʊli/"
     },
     {
       "english": "sometimes",
@@ -910,7 +1010,8 @@
       "pos": "adv",
       "example_en": "Sometimes we study together at the library.",
       "example_uz": "Ba’zan kutubxonada birgalikda dars tayyorlaymiz.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/səmˈtaɪmz/"
     },
     {
       "english": "suddenly",
@@ -919,7 +1020,8 @@
       "pos": "adv",
       "example_en": "Suddenly, a cool breeze blew from the mountains.",
       "example_uz": "Toʻsatdan togʻ tomondan salqin shabada esdi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈsədənli/"
     },
     {
       "english": "therefore",
@@ -928,7 +1030,8 @@
       "pos": "adv",
       "example_en": "He practiced daily; therefore, he passed the test easily.",
       "example_uz": "U har kuni mashq qildi, shuning uchun testdan oson oʻtdi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈðɛrˌfɔr/"
     },
     {
       "english": "together",
@@ -937,7 +1040,8 @@
       "pos": "adv",
       "example_en": "Working together makes any big task lighter.",
       "example_uz": "Birgalikda ishlash har qanday katta vazifani yengillashtiradi.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/təˈgɛðər/"
     },
     {
       "english": "usually",
@@ -946,7 +1050,8 @@
       "pos": "adv",
       "example_en": "I usually drink a glass of water after waking up.",
       "example_uz": "Men odatda uygʻongandan soʻng bir stakan suv ichaman.",
-      "category": "Adverbs & Connectors"
+      "category": "Adverbs & Connectors",
+      "ipa": "/ˈjuʒəwəli/"
     },
     {
       "english": "afraid",
@@ -955,7 +1060,8 @@
       "pos": "adj",
       "example_en": "Don't be afraid to speak English out loud.",
       "example_uz": "Ingliz tilida ovoz chiqarib gapirishdan qoʻrqmang.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/əˈfreɪd/"
     },
     {
       "english": "angry",
@@ -964,7 +1070,8 @@
       "pos": "adj",
       "example_en": "Take a deep breath when you feel angry.",
       "example_uz": "Jahlingiz chiqqanda chuqur nafas oling.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈæŋgri/"
     },
     {
       "english": "anxious",
@@ -973,7 +1080,8 @@
       "pos": "adj",
       "example_en": "It is natural to feel a little anxious before an exam.",
       "example_uz": "Imtihondan oldin biroz hayajon va xavotir sezish tabiiy.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈæŋkʃəs/"
     },
     {
       "english": "appointment",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "I have a dental appointment at four o'clock.",
       "example_uz": "Soat toʻrtda tish shifokori qabuliga yozilganman.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/əˈpɔɪntmənt/"
     },
     {
       "english": "blood",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "Walking briskly improves blood circulation.",
       "example_uz": "Tez-tez yurish qon aylanishini yaxshilaydi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/bləd/"
     },
     {
       "english": "body",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "Regular exercise keeps your body strong.",
       "example_uz": "Muntazam mashqlar tanangizni baquvvat saqlaydi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈbɑdi/"
     },
     {
       "english": "bone",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "Milk and cheese help build strong bones.",
       "example_uz": "Sut va pishloq suyaklarning mustahkam boʻlishiga yordam beradi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/boʊn/"
     },
     {
       "english": "brain",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "Learning new words exercises your brain.",
       "example_uz": "Yangi soʻzlarni oʻrganish miyani charxlaydi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/breɪn/"
     },
     {
       "english": "breath",
@@ -1027,7 +1140,8 @@
       "pos": "noun",
       "example_en": "Step outside and take a breath of fresh air.",
       "example_uz": "Tashqariga chiqib, toza havodan nafas oling.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/brɛθ/"
     },
     {
       "english": "calm",
@@ -1036,7 +1150,8 @@
       "pos": "adj",
       "example_en": "Stay calm and think carefully before answering.",
       "example_uz": "Javob berishdan oldin xotirjam boʻling va yaxshilab oʻylang.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/kɑm/"
     },
     {
       "english": "care",
@@ -1045,7 +1160,8 @@
       "pos": "noun",
       "example_en": "Take good care of your health in cold weather.",
       "example_uz": "Sovuq havoda sogʻligʻingizga yaxshi e’tibor bering.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/kɛr/"
     },
     {
       "english": "confident",
@@ -1054,7 +1170,8 @@
       "pos": "adj",
       "example_en": "Good preparation makes you feel confident.",
       "example_uz": "Yaxshi tayyorgarlik oʻzingizga boʻlgan ishonchni oshiradi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈkɑnfədənt/"
     },
     {
       "english": "cough",
@@ -1063,7 +1180,8 @@
       "pos": "noun",
       "example_en": "Hot herbal tea helped soothe his cough.",
       "example_uz": "Issiq giyohli choy uning yoʻtalini yumshatishga yordam berdi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/kɑf/"
     },
     {
       "english": "curious",
@@ -1072,7 +1190,8 @@
       "pos": "adj",
       "example_en": "Curious students always ask thoughtful questions.",
       "example_uz": "Qiziquvchan oʻquvchilar doimo chuqur savollar berishadi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈkjʊriəs/"
     },
     {
       "english": "dentist",
@@ -1081,7 +1200,8 @@
       "pos": "noun",
       "example_en": "Visit the dentist twice a year for a checkup.",
       "example_uz": "Yiliga ikki marta tish shifokori koʻrigidan oʻting.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈdɛntəst/"
     },
     {
       "english": "disease",
@@ -1090,7 +1210,8 @@
       "pos": "noun",
       "example_en": "Clean hands help prevent many diseases.",
       "example_uz": "Qoʻllarni toza tutish koʻplab kasalliklarning oldini oladi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/dɪˈziz/"
     },
     {
       "english": "doctor",
@@ -1099,7 +1220,8 @@
       "pos": "noun",
       "example_en": "The doctor advised him to rest for three days.",
       "example_uz": "Shifokor unga uch kun dam olishni maslahat berdi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈdɑktər/"
     },
     {
       "english": "energy",
@@ -1108,7 +1230,8 @@
       "pos": "noun",
       "example_en": "A healthy breakfast gives you energy for the morning.",
       "example_uz": "Foydali nonushta ertalabki ishlar uchun quvvat beradi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈɛnərdʒi/"
     },
     {
       "english": "excited",
@@ -1117,7 +1240,8 @@
       "pos": "adj",
       "example_en": "The children were excited about the summer trip.",
       "example_uz": "Bolalar yozgi sayohatdan juda hayajonda edilar.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ɪkˈsaɪtəd/"
     },
     {
       "english": "exercise",
@@ -1126,7 +1250,8 @@
       "pos": "noun",
       "example_en": "Twenty minutes of morning exercise wakes up the body.",
       "example_uz": "Yigirma daqiqalik ertalabki badantarbiya tanani tetiklashtiradi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈɛksərˌsaɪz/"
     },
     {
       "english": "eye",
@@ -1135,7 +1260,8 @@
       "pos": "noun",
       "example_en": "Rest your eyes every hour when working at a computer.",
       "example_uz": "Kompyuterda ishlaganda har soatda koʻzlaringizga dam bering.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/aɪ/"
     },
     {
       "english": "face",
@@ -1144,7 +1270,8 @@
       "pos": "noun",
       "example_en": "A warm smile appeared on her face.",
       "example_uz": "Uning yuzida iliq tabassum paydo boʻldi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/feɪs/"
     },
     {
       "english": "fever",
@@ -1153,7 +1280,8 @@
       "pos": "noun",
       "example_en": "Drink plenty of fluids if you have a fever.",
       "example_uz": "Isitmangiz boʻlsa, koʻproq suyuqlik iching.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈfivər/"
     },
     {
       "english": "glad",
@@ -1162,7 +1290,8 @@
       "pos": "adj",
       "example_en": "I am very glad to meet you today.",
       "example_uz": "Bugun siz bilan uchrashganimdan juda xursandman.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/glæd/"
     },
     {
       "english": "hand",
@@ -1171,7 +1300,8 @@
       "pos": "noun",
       "example_en": "He shook my hand warmly and smiled.",
       "example_uz": "U qoʻlimni samimiy siqib, tabassum qildi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/hænd/"
     },
     {
       "english": "happy",
@@ -1180,7 +1310,8 @@
       "pos": "adj",
       "example_en": "Good news made the whole family happy.",
       "example_uz": "Xushxabar butun oilani xursand qildi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈhæpi/"
     },
     {
       "english": "headache",
@@ -1189,7 +1320,8 @@
       "pos": "noun",
       "example_en": "Fresh air helped relieve my headache.",
       "example_uz": "Toza havo bosh ogʻrigʻimni qoldirishga yordam berdi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈhɛˌdeɪk/"
     },
     {
       "english": "health",
@@ -1198,7 +1330,8 @@
       "pos": "noun",
       "example_en": "Good health is the greatest wealth in life.",
       "example_uz": "Sogʻliq — hayotdagi eng katta boylikdir.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/hɛlθ/"
     },
     {
       "english": "healthy",
@@ -1207,7 +1340,8 @@
       "pos": "adj",
       "example_en": "Eating fruit and vegetables keeps you healthy.",
       "example_uz": "Meva va sabzavotlar iste’mol qilish sogʻlom boʻlishga yordam beradi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈhɛlθi/"
     },
     {
       "english": "heart",
@@ -1216,7 +1350,8 @@
       "pos": "noun",
       "example_en": "She thanked her teacher from the bottom of her heart.",
       "example_uz": "U oʻqituvchisiga chin yurakdan minnatdorchilik bildirdi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/hɑrt/"
     },
     {
       "english": "hospital",
@@ -1225,7 +1360,8 @@
       "pos": "noun",
       "example_en": "A new medical hospital was built in our district.",
       "example_uz": "Tumanimizda yangi tibbiyot shifoxonasi qurildi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈhɑˌspɪtəl/"
     },
     {
       "english": "hungry",
@@ -1234,7 +1370,8 @@
       "pos": "adj",
       "example_en": "Are you hungry after the long walk?",
       "example_uz": "Uzoq sayrdan keyin qorningiz ochdimi?",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈhəŋgri/"
     },
     {
       "english": "lonely",
@@ -1243,7 +1380,8 @@
       "pos": "adj",
       "example_en": "Call your grandparents so they never feel lonely.",
       "example_uz": "Bobo-buvingiz oʻzlarini yolgʻiz his qilmasliklari uchun qoʻngʻiroq qilib turing.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈloʊnli/"
     },
     {
       "english": "medicine",
@@ -1252,7 +1390,8 @@
       "pos": "noun",
       "example_en": "Take this medicine after meals twice a day.",
       "example_uz": "Ushbu dorini kuniga ikki mahal ovqatdan keyin iching.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈmɛdəsən/"
     },
     {
       "english": "nervous",
@@ -1261,7 +1400,8 @@
       "pos": "adj",
       "example_en": "He was nervous at first, then spoke with confidence.",
       "example_uz": "U boshida hayajonlandi, soʻngra ishonch bilan gapirdi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈnərvəs/"
     },
     {
       "english": "nurse",
@@ -1270,7 +1410,8 @@
       "pos": "noun",
       "example_en": "The kind nurse checked the patient's temperature.",
       "example_uz": "Mehribon hamshira bemorning haroratini oʻlchadi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/nərs/"
     },
     {
       "english": "pain",
@@ -1279,7 +1420,8 @@
       "pos": "noun",
       "example_en": "Tell the doctor immediately if you feel any pain.",
       "example_uz": "Biror ogʻriq sezsangiz, darhol shifokorga ayting.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/peɪn/"
     },
     {
       "english": "patient",
@@ -1288,7 +1430,8 @@
       "pos": "noun",
       "example_en": "The patient recovered quickly after treatment.",
       "example_uz": "Bemor muolajadan soʻng tezda sogʻayib ketdi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈpeɪʃənt/"
     },
     {
       "english": "proud",
@@ -1297,7 +1440,8 @@
       "pos": "adj",
       "example_en": "Her parents are very proud of her achievements.",
       "example_uz": "Ota-onasi uning yutuqlaridan juda faxrlanishadi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/praʊd/"
     },
     {
       "english": "sad",
@@ -1306,7 +1450,8 @@
       "pos": "adj",
       "example_en": "Don't be sad, tomorrow will bring new opportunities.",
       "example_uz": "Xafa boʻlmang, ertangi kun yangi imkoniyatlar olib keladi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/sæd/"
     },
     {
       "english": "sick",
@@ -1315,7 +1460,8 @@
       "pos": "adj",
       "example_en": "Stay home and rest if you feel sick.",
       "example_uz": "Oʻzingizni betob his qilsangiz, uyda qolib dam oling.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/sɪk/"
     },
     {
       "english": "sleep",
@@ -1324,7 +1470,8 @@
       "pos": "noun",
       "example_en": "Eight hours of sleep helps your memory work better.",
       "example_uz": "Sakkiz soatlik uyqu xotiraning yaxshi ishlashiga yordam beradi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/slip/"
     },
     {
       "english": "stomach",
@@ -1333,7 +1480,8 @@
       "pos": "noun",
       "example_en": "Do not drink very cold water on an empty stomach.",
       "example_uz": "Och qoringa juda sovuq suv ichmang.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈstəmək/"
     },
     {
       "english": "thirsty",
@@ -1342,7 +1490,8 @@
       "pos": "adj",
       "example_en": "Working under the summer sun made us thirsty.",
       "example_uz": "Yoz quyoshi ostida ishlash bizni chanqatdi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/ˈθərsti/"
     },
     {
       "english": "tired",
@@ -1351,7 +1500,8 @@
       "pos": "adj",
       "example_en": "He felt tired but happy after finishing the work.",
       "example_uz": "U ishni tugatgach, charchagan, ammo xursand edi.",
-      "category": "Feelings & Health"
+      "category": "Feelings & Health",
+      "ipa": "/taɪərd/"
     }
   ]
 }

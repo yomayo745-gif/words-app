@@ -10,7 +10,8 @@
       "pos": "adj",
       "example_en": "Children are very active and like to run and jump.",
       "example_uz": "Bolalar juda faol va yugurish va sakrashni yoqtiradi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈæktɪv/"
     },
     {
       "english": "believe",
@@ -19,7 +20,8 @@
       "pos": "verb",
       "example_en": "He believes he is a smart boy.",
       "example_uz": "U aqlli bola ekanligiga ishonadi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/bɪˈliv/"
     },
     {
       "english": "environment",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "Fresh air is a good reason to live in a clean environment.",
       "example_uz": "Toza havo obod atrof-muhitda yashashga yaxshi sabab.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ɪnˈvaɪrənmənt/"
     },
     {
       "english": "forest",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "The forest seems to be burning.",
       "example_uz": "Oʻrmon yonayotgandek koʻrinadi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈfɔrəst/"
     },
     {
       "english": "human",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "The old bridge was built by humans a long time ago.",
       "example_uz": "Eski koʻprik uzoq vaqt avval insonlar tomonidan qurilgan.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈhjumən/"
     },
     {
       "english": "hunt",
@@ -55,7 +60,8 @@
       "pos": "verb",
       "example_en": "Some people in North America like to hunt.",
       "example_uz": "Janubiy Amerikadagi baʼzi odamlar ovlashni yoqtiradi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/hənt/"
     },
     {
       "english": "path",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "Both paths take you to the gate of the park.",
       "example_uz": "Ikkala yoʻlaklar ham sizni bogʻning darvozasiga olib boradi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/pæθ/"
     },
     {
       "english": "safe",
@@ -73,7 +80,8 @@
       "pos": "adj",
       "example_en": "The gentleman stands in a safe place away from the subway.",
       "example_uz": "Kishi metrodan xavfsiz joyda turibdi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/seɪf/"
     },
     {
       "english": "service",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "The new restaurant has delicious food and great service.",
       "example_uz": "Yangi restoranning taomlari mazali va xizmati juda ajoyib.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈsərvəs/"
     },
     {
       "english": "wild",
@@ -91,7 +100,8 @@
       "pos": "adj",
       "example_en": "Africa is a popular place to see wild animals.",
       "example_uz": "Afrika yovvoyi hayvonlarni koʻrish uchun eng mashhur joy.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/waɪld/"
     },
     {
       "english": "area",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "The people living in this area are very poor.",
       "example_uz": "Bu hududda yashaydigan odamlar juda kambagʻal.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈɛriə/"
     },
     {
       "english": "choice",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "It is your choice. Do you want to go north or south?",
       "example_uz": "Bu sizning tanlovingiz. Siz shimolga borishni xohlaysizmi yoki janubgami?",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/tʃɔɪs/"
     },
     {
       "english": "enter",
@@ -118,7 +130,8 @@
       "pos": "verb",
       "example_en": "She enters through the front gate.",
       "example_uz": "U old darvozadan kiradi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈɛntər/"
     },
     {
       "english": "important",
@@ -127,7 +140,8 @@
       "pos": "adj",
       "example_en": "The king is the most important piece in the game.",
       "example_uz": "Shoh - oʻyinning eng muhim qismi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˌɪmˈpɔrtənt/"
     },
     {
       "english": "lie",
@@ -136,7 +150,8 @@
       "pos": "verb",
       "example_en": "She lies in the grass and looks up at the sky.",
       "example_uz": "U maysada yotib, osmonga qaraydi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/laɪ/"
     },
     {
       "english": "mad",
@@ -145,7 +160,8 @@
       "pos": "adj",
       "example_en": "The woman is mad because someone hit her car.",
       "example_uz": "Ayol dargʻazab, chunki kimdir uning mashinasini urib yuborgan.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/mæd/"
     },
     {
       "english": "nature",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "She likes to take pictures of nature.",
       "example_uz": "U tabiatni suratga olishni yaxshi koʻradi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈneɪtʃər/"
     },
     {
       "english": "protect",
@@ -163,7 +180,8 @@
       "pos": "verb",
       "example_en": "The umbrella protects the people from the hot sun.",
       "example_uz": "Soyabon odamlarni issiq quyoshning harorati himoya qiladi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/prəˈtɛkt/"
     },
     {
       "english": "shout",
@@ -172,7 +190,8 @@
       "pos": "verb",
       "example_en": "The shy boy surprised everyone by shouting.",
       "example_uz": "Uyatchan bola baqirib, barchani hayratda qoldirdi.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ʃaʊt/"
     },
     {
       "english": "usually",
@@ -181,7 +200,8 @@
       "pos": "adv",
       "example_en": "People usually shake hands when they introduce themselves.",
       "example_uz": "Odamlar, odatda, oʻzlarini tanishtirganda qoʻl siqishadilar.",
-      "category": "3-kitob: 3.2-bob"
+      "category": "3-kitob: 3.2-bob",
+      "ipa": "/ˈjuʒəwəli/"
     }
   ]
 }

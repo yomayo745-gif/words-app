@@ -10,7 +10,8 @@
       "pos": "noun",
       "example_en": "Teaching is one of the most respected professions in society.",
       "example_uz": "Oʻqituvchilik jamiyatdagi eng hurmatli kasblardan biridir.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/prəˈfɛʃən/"
     },
     {
       "english": "occupation",
@@ -19,7 +20,8 @@
       "pos": "noun",
       "example_en": "Please write your full name and occupation on the form.",
       "example_uz": "Iltimos, anketaga toʻliq ismingiz va kasbingizni yozing.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌɑkjəˈpeɪʃən/"
     },
     {
       "english": "vocation",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "For her, nursing is not just a job but a true vocation.",
       "example_uz": "Uning uchun hamshiralik shunchaki ish emas, balki haqiqiy hayotiy burchdir.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/voʊˈkeɪʃən/"
     },
     {
       "english": "craft",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "The master potter passed his ancient craft on to his son.",
       "example_uz": "Usta kulol oʻzining qadimiy hunarini oʻgʻliga oʻrgatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/kræft/"
     },
     {
       "english": "employment",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "New textile factories created employment for hundreds of locals.",
       "example_uz": "Yangi toʻqimachilik fabrikalari yuzlab mahalliy aholi uchun ish oʻrinlari yaratdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ɛmˈplɔɪmənt/"
     },
     {
       "english": "workplace",
@@ -55,7 +60,8 @@
       "pos": "noun",
       "example_en": "A clean and safe workplace improves employee morale.",
       "example_uz": "Toza va xavfsiz ish joyi xodimlarning kayfiyatini koʻtaradi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈwərkˌpleɪs/"
     },
     {
       "english": "workforce",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "A skilled workforce is the greatest asset of any enterprise.",
       "example_uz": "Malakali ishchi kuchi har qanday korxonaning eng katta boyligidir.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈwərkˌfɔrs/"
     },
     {
       "english": "staff",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "The hotel staff greeted the international delegation warmly.",
       "example_uz": "Mehmonxona xodimlari xalqaro delegatsiyani samimiy kutib oldilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/stæf/"
     },
     {
       "english": "personnel",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "All new personnel must attend the fire safety briefing.",
       "example_uz": "Barcha yangi xodimlar yongʻin xavfsizligi boʻyicha yoʻriqnomada qatnashishlari shart.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌpərsəˈnɛl/"
     },
     {
       "english": "employee",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "Every employee receives paid annual leave.",
       "example_uz": "Har bir xodim haq toʻlanadigan yillik mehnat taʼtilini oladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ɛmˈplɔɪi/"
     },
     {
       "english": "employer",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "The employer provides free lunches and transport for workers.",
       "example_uz": "Ish beruvchi ishchilar uchun bepul tushlik va transport taqdim etadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ɛmˈplɔɪər/"
     },
     {
       "english": "worker",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "Each factory worker wears protective gloves and a helmet.",
       "example_uz": "Har bir zavod ishchisi himoya qoʻlqopi va dubulgʻa kiyadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈwərkər/"
     },
     {
       "english": "supervisor",
@@ -118,7 +130,8 @@
       "pos": "noun",
       "example_en": "Report any equipment malfunction to your shift supervisor.",
       "example_uz": "Uskunadagi har qanday nosozlik haqida smena boshligʻiga xabar bering.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈsupərˌvaɪzər/"
     },
     {
       "english": "boss",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "Our boss approved the flexible working hours for parents.",
       "example_uz": "Boshligʻimiz ota-onalar uchun moslashuvchan ish soatlarini tasdiqladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/bɑs/"
     },
     {
       "english": "foreman",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "The construction foreman checked the quality of the brickwork.",
       "example_uz": "Qurilish prorabi gʻisht terish sifatini tekshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈfɔrmən/"
     },
     {
       "english": "trainee",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "Each new trainee spends two weeks learning the company software.",
       "example_uz": "Har bir yangi stajyor ikki hafta davomida kompaniya dasturini oʻrganadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈtreɪˈni/"
     },
     {
       "english": "applicant",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "Each job applicant was invited for a thirty-minute interview.",
       "example_uz": "Ishga kirish uchun har bir nomzod oʻttiz daqiqalik suhbatga taklif qilindi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈæplɪkənt/"
     },
     {
       "english": "candidate",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "The committee selected the most experienced candidate for the post.",
       "example_uz": "Komissiya lavozimga eng tajribali nomzodni tanlab oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈkændədeɪt/"
     },
     {
       "english": "recruiter",
@@ -172,7 +190,8 @@
       "pos": "noun",
       "example_en": "The HR recruiter contacted her about an open position.",
       "example_uz": "Kadrlar boʻyicha mutaxassis boʻsh ish oʻrni yuzasidan u bilan bogʻlandi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/rɪˈkrutər/"
     },
     {
       "english": "job opening",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "The factory announced a new job opening for a quality inspector.",
       "example_uz": "Zavod sifat nazoratchisi uchun yangi boʻsh ish oʻrni eʼlon qildi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dʒɑb ˈoʊpənɪŋ/"
     },
     {
       "english": "position",
@@ -190,7 +210,8 @@
       "pos": "noun",
       "example_en": "He applied for the position of senior electrical engineer.",
       "example_uz": "U katta elektr muhandisi lavozimiga ariza topshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/pəˈzɪʃən/"
     },
     {
       "english": "post",
@@ -199,7 +220,8 @@
       "pos": "noun",
       "example_en": "She has held the post of chief editor for five years.",
       "example_uz": "U besh yildan beri bosh muharrir lavozimida ishlab kelmoqda.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/poʊst/"
     },
     {
       "english": "resume",
@@ -208,7 +230,8 @@
       "pos": "noun",
       "example_en": "Update your resume with your latest certificates and skills.",
       "example_uz": "Rezyumengizni eng soʻnggi sertifikatlar va koʻnikmalaringiz bilan yangilang.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/rɪˈzum/"
     },
     {
       "english": "portfolio",
@@ -217,7 +240,8 @@
       "pos": "noun",
       "example_en": "The graphic designer showed a digital portfolio of her logos.",
       "example_uz": "Grafik dizayner oʻzi yaratgan logotiplarning raqamli portfoliosini koʻrsatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/pɔrtˈfoʊliˌoʊ/"
     },
     {
       "english": "reference letter",
@@ -226,7 +250,8 @@
       "pos": "noun",
       "example_en": "His former professor wrote a strong reference letter for him.",
       "example_uz": "Uning sobiq professori u uchun kuchli tavsiyanoma xati yozib berdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈrɛfərəns ˈlɛtər/"
     },
     {
       "english": "probation",
@@ -235,7 +260,8 @@
       "pos": "noun",
       "example_en": "New employees undergo a three-month probation period.",
       "example_uz": "Yangi xodimlar uch oylik sinov muddatidan oʻtadilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/proʊˈbeɪʃən/"
     },
     {
       "english": "demotion",
@@ -244,7 +270,8 @@
       "pos": "noun",
       "example_en": "Repeated negligence resulted in a demotion.",
       "example_uz": "Takroriy beparvolik lavozimdan pasaytirilishga olib keldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dɪˈmoʊʃən/"
     },
     {
       "english": "transfer",
@@ -253,7 +280,8 @@
       "pos": "noun",
       "example_en": "He requested a transfer to the Samarkand regional branch.",
       "example_uz": "U Samarqand viloyati filialiga oʻtkazishlarini soʻradi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/trænsˈfər/"
     },
     {
       "english": "dismissal",
@@ -262,7 +290,8 @@
       "pos": "noun",
       "example_en": "Unfair dismissal is prohibited by the labor code.",
       "example_uz": "Asossiz ishdan boʻshatish mehnat kodeksi bilan taqiqlangan.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dɪsˈmɪsəl/"
     },
     {
       "english": "resignation",
@@ -271,7 +300,8 @@
       "pos": "noun",
       "example_en": "He handed in his letter of resignation two weeks in advance.",
       "example_uz": "U ishdan boʻshash haqidagi arizasini ikki hafta oldin topshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌrɛzəgˈneɪʃən/"
     },
     {
       "english": "pension",
@@ -280,7 +310,8 @@
       "pos": "noun",
       "example_en": "Grandfather receives his state pension on the fifth of every month.",
       "example_uz": "Buvam har oyning beshinchi sanasida davlat pensiyasini oladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈpɛnʃən/"
     },
     {
       "english": "wage",
@@ -289,7 +320,8 @@
       "pos": "noun",
       "example_en": "Seasonal workers receive a fair daily wage.",
       "example_uz": "Mavsumiy ishchilar adolatli kunlik ish haqi oladilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/weɪdʒ/"
     },
     {
       "english": "paycheck",
@@ -298,7 +330,8 @@
       "pos": "noun",
       "example_en": "Part of his monthly paycheck goes directly into a savings account.",
       "example_uz": "Uning oylik maoshining bir qismi toʻgʻridan-toʻgʻri jamgʻarma hisobiga oʻtkaziladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈpeɪˌtʃɛk/"
     },
     {
       "english": "bonus",
@@ -307,7 +340,8 @@
       "pos": "noun",
       "example_en": "The company paid a year-end bonus to all staff members.",
       "example_uz": "Kompaniya yil yakunida barcha xodimlarga mukofot puli toʻladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈboʊnəs/"
     },
     {
       "english": "allowance",
@@ -316,7 +350,8 @@
       "pos": "noun",
       "example_en": "Engineers working in the desert receive a special field allowance.",
       "example_uz": "Choʻlda ishlaydigan muhandislar maxsus dala ustama pulini oladilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/əˈlaʊəns/"
     },
     {
       "english": "overtime",
@@ -325,7 +360,8 @@
       "pos": "noun",
       "example_en": "Employees are paid double for working overtime on holidays.",
       "example_uz": "Bayram kunlari ish vaqtidan tashqari ishlaganlik uchun xodimlarga ikki baravar haq toʻlanadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈoʊvərˌtaɪm/"
     },
     {
       "english": "shift",
@@ -334,7 +370,8 @@
       "pos": "noun",
       "example_en": "Nurses and factory operators often work in three shifts.",
       "example_uz": "Hamshiralar va zavod operatorlari koʻpincha uch smenada ishlaydilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ʃɪft/"
     },
     {
       "english": "roster",
@@ -343,7 +380,8 @@
       "pos": "noun",
       "example_en": "Check the weekly duty roster to see who works the night shift.",
       "example_uz": "Tungi smenada kim ishlashini bilish uchun haftalik navbatchilik jadvalini tekshiring.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈrɑstər/"
     },
     {
       "english": "maternity leave",
@@ -352,7 +390,8 @@
       "pos": "noun",
       "example_en": "The law guarantees job security during maternity leave.",
       "example_uz": "Qonun onalik taʼtili davrida ish joyi saqlanishini kafolatlaydi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/məˈtərnɪti liv/"
     },
     {
       "english": "sick leave",
@@ -361,7 +400,8 @@
       "pos": "noun",
       "example_en": "He took three days of sick leave to recover from the flu.",
       "example_uz": "U grippdan tuzalish uchun uch kunlik kasallik taʼtilini oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/sɪk liv/"
     },
     {
       "english": "workload",
@@ -370,7 +410,8 @@
       "pos": "noun",
       "example_en": "Hiring two new assistants reduced the team's heavy workload.",
       "example_uz": "Ikki yangi yordamchini ishga olish jamoaning ogʻir ish yuklamasini kamaytirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈwərˌkloʊd/"
     },
     {
       "english": "duty",
@@ -379,7 +420,8 @@
       "pos": "noun",
       "example_en": "The customs officer is on duty at the border crossing today.",
       "example_uz": "Bojxona xodimi bugun chegara oʻtkazish punktida xizmat vazifasini bajarmoqda.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈduti/"
     },
     {
       "english": "responsibility",
@@ -388,7 +430,8 @@
       "pos": "noun",
       "example_en": "Ensuring passenger safety is the pilot's primary responsibility.",
       "example_uz": "Yoʻlovchilar xavfsizligini taʼminlash uchuvchining asosiy masʼuliyatidir.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/riˌspɑnsəˈbɪləti/"
     },
     {
       "english": "skill",
@@ -397,7 +440,8 @@
       "pos": "noun",
       "example_en": "Communication is a vital skill in almost every profession.",
       "example_uz": "Muloqot deyarli har bir kasbda muhim koʻnikma hisoblanadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/skɪl/"
     },
     {
       "english": "competence",
@@ -406,7 +450,8 @@
       "pos": "noun",
       "example_en": "The surgeon demonstrated high professional competence.",
       "example_uz": "Jarroh yuqori kasbiy malakasini namoyish etdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈkɑmpətɪns/"
     },
     {
       "english": "expertise",
@@ -415,7 +460,8 @@
       "pos": "noun",
       "example_en": "We invited an agronomist with expertise in drip irrigation.",
       "example_uz": "Tomchilatib sugʻorish boʻyicha chuqur tajribaga ega agronomni taklif qildik.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌɛkspərˈtiz/"
     },
     {
       "english": "productivity",
@@ -424,7 +470,8 @@
       "pos": "noun",
       "example_en": "Modern machinery increased agricultural productivity significantly.",
       "example_uz": "Zamonaviy texnikalar qishloq xoʻjaligi mehnat unumdorligini sezilarli darajada oshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌproʊdəkˈtɪvəti/"
     },
     {
       "english": "efficiency",
@@ -433,7 +480,8 @@
       "pos": "noun",
       "example_en": "Automating routine tasks improved office efficiency.",
       "example_uz": "Kundalik vazifalarni avtomatlashtirish ofis samaradorligini oshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ɪˈfɪʃənsi/"
     },
     {
       "english": "union",
@@ -442,7 +490,8 @@
       "pos": "noun",
       "example_en": "The labor union protects the rights and safety of workers.",
       "example_uz": "Kasaba uyushmasi ishchilarning huquqlari va xavfsizligini himoya qiladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈjunjən/"
     },
     {
       "english": "strike",
@@ -451,7 +500,8 @@
       "pos": "noun",
       "example_en": "Negotiations prevented a transport strike in the port city.",
       "example_uz": "Muzokaralar port shahrida transportchilar ish tashlashining oldini oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/straɪk/"
     },
     {
       "english": "freelancer",
@@ -460,7 +510,8 @@
       "pos": "noun",
       "example_en": "As a freelancer, she designs websites for clients worldwide.",
       "example_uz": "Frilanser sifatida u butun dunyo boʻylab mijozlar uchun veb-saytlar yaratadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈfriˌlænsər/"
     },
     {
       "english": "architect",
@@ -469,7 +520,8 @@
       "pos": "noun",
       "example_en": "The architect designed an earthquake-resistant residential tower.",
       "example_uz": "Meʼmor zilzilaga chidamli turar-joy minorasini loyihalashtirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈɑrkəˌtɛkt/"
     },
     {
       "english": "engineer",
@@ -478,7 +530,8 @@
       "pos": "noun",
       "example_en": "A civil engineer inspected the steel girders of the bridge.",
       "example_uz": "Qurilish muhandisi koʻprikning poʻlat toʻsinlarini koʻzdan kechirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈɛndʒəˈnɪr/"
     },
     {
       "english": "technician",
@@ -487,7 +540,8 @@
       "pos": "noun",
       "example_en": "A laboratory technician calibrated the measuring instruments.",
       "example_uz": "Laboratoriya texnigi oʻlchov asboblarini sozladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/tɛkˈnɪʃən/"
     },
     {
       "english": "electrician",
@@ -496,7 +550,8 @@
       "pos": "noun",
       "example_en": "The electrician replaced the old wiring in the workshop.",
       "example_uz": "Elektrik ustaxonadagi eski elektr simlarini almashtirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ɪlɛkˈtrɪʃən/"
     },
     {
       "english": "carpenter",
@@ -505,7 +560,8 @@
       "pos": "noun",
       "example_en": "The skilled carpenter made carved wooden doors and window frames.",
       "example_uz": "Mohir duradgor oʻymakor yogʻoch eshiklar va deraza romlarini yasadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈkɑrpəntər/"
     },
     {
       "english": "joiner",
@@ -514,7 +570,8 @@
       "pos": "noun",
       "example_en": "The joiner fitted oak bookshelves into the study room.",
       "example_uz": "Yogʻoch ustasi ish xonasiga eman daraxtidan kitob javonlarini oʻrnatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈdʒɔɪnər/"
     },
     {
       "english": "mason",
@@ -523,7 +580,8 @@
       "pos": "noun",
       "example_en": "The master mason restored the ancient brick arch carefully.",
       "example_uz": "Usta gʻisht teruvchi qadimiy gʻishtli ravoqni ehtiyotkorlik bilan tikladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈmeɪsən/"
     },
     {
       "english": "welder",
@@ -532,7 +590,8 @@
       "pos": "noun",
       "example_en": "The welder wore a dark protective mask while joining steel pipes.",
       "example_uz": "Payvandchi poʻlat quvurlarni ulash paytida qoraytirilgan himoya niqobini taqib oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈwɛldər/"
     },
     {
       "english": "blacksmith",
@@ -541,7 +600,8 @@
       "pos": "noun",
       "example_en": "The village blacksmith forged horseshoes and garden tools.",
       "example_uz": "Qishloq temirchisi taqalar va bogʻ asboblarini bolgʻalab yasadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈblæksˌmɪθ/"
     },
     {
       "english": "locksmith",
@@ -550,7 +610,8 @@
       "pos": "noun",
       "example_en": "A locksmith helped us open the jammed metal door.",
       "example_uz": "Qulf ustasi tiqilib qolgan temir eshikni ochishimizga yordam berdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈlɑksˌmɪθ/"
     },
     {
       "english": "painter",
@@ -559,7 +620,8 @@
       "pos": "noun",
       "example_en": "The house painter applied two coats of white paint to the ceiling.",
       "example_uz": "Boʻyoqchi shiftga ikki qatlam oq boʻyoq surtdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈpeɪntər/"
     },
     {
       "english": "shoemaker",
@@ -568,7 +630,8 @@
       "pos": "noun",
       "example_en": "The shoemaker repaired the leather soles of my winter boots.",
       "example_uz": "Kosib qishki etigimning charm tagcharmini taʼmirlab berdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈʃuˌmeɪkər/"
     },
     {
       "english": "baker",
@@ -577,7 +640,8 @@
       "pos": "noun",
       "example_en": "The baker pulls hot tandoor bread from the oven at dawn.",
       "example_uz": "Nonvoy tong saharda tandirdan issiq nonlarni uzib oladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈbeɪkər/"
     },
     {
       "english": "barber",
@@ -586,7 +650,8 @@
       "pos": "noun",
       "example_en": "My brother goes to the neighborhood barber every three weeks.",
       "example_uz": "Akam har uch haftada mahalladagi sartaroshga boradi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈbɑrbər/"
     },
     {
       "english": "potter",
@@ -595,7 +660,8 @@
       "pos": "noun",
       "example_en": "A Rishtan potter shaped a clay bowl on the spinning wheel.",
       "example_uz": "Rishtonlik kulol aylanayotgan charx ustida loydan kosa yasadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈpɑtər/"
     },
     {
       "english": "weaver",
@@ -604,7 +670,8 @@
       "pos": "noun",
       "example_en": "The Margilan weaver creates colorful atlas and adras silk.",
       "example_uz": "Margʻilonlik toʻquvchi rang-barang atlas va adras ipak matolarini toʻqiydi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈwivər/"
     },
     {
       "english": "farmer",
@@ -613,7 +680,8 @@
       "pos": "noun",
       "example_en": "The farmer harvested sweet melons and watermelons in August.",
       "example_uz": "Dehqon avgust oyida shirin qovun va tarvuzlarni yigʻib oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈfɑrmər/"
     },
     {
       "english": "agronomist",
@@ -622,7 +690,8 @@
       "pos": "noun",
       "example_en": "The agronomist tested the soil moisture in the cotton field.",
       "example_uz": "Agronom paxta dalasidagi tuproq namligini tekshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/əˈgrɑnəmɪst/"
     },
     {
       "english": "gardener",
@@ -631,7 +700,8 @@
       "pos": "noun",
       "example_en": "The experienced gardener pruned the apple and peach trees in spring.",
       "example_uz": "Tajribali bogʻbon bahorda olma va shaftoli daraxtlariga shakl berib butadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈgɑrdənər/"
     },
     {
       "english": "shepherd",
@@ -640,7 +710,8 @@
       "pos": "noun",
       "example_en": "The shepherd led his flock of sheep to the mountain pasture.",
       "example_uz": "Choʻpon qoʻy suruvini togʻ yayloviga boshlab bordi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈʃɛpərd/"
     },
     {
       "english": "veterinarian",
@@ -649,7 +720,8 @@
       "pos": "noun",
       "example_en": "The veterinarian vaccinated the calves on the dairy farm.",
       "example_uz": "Veterinar sut chorvachilik fermasidagi buzoqlarni emladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌvɛtrəˈnɛriən/"
     },
     {
       "english": "pediatrician",
@@ -658,7 +730,8 @@
       "pos": "noun",
       "example_en": "The pediatrician examined the child and prescribed vitamins.",
       "example_uz": "Bolalar shifokori bolani koʻrikdan oʻtkazdi va vitaminlar yozib berdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌpidiəˈtrɪʃən/"
     },
     {
       "english": "paramedic",
@@ -667,7 +740,8 @@
       "pos": "noun",
       "example_en": "A paramedic gave first aid to the injured cyclist immediately.",
       "example_uz": "Tez yordam feldsheri jarohatlangan velosipedchiga darhol birinchi tibbiy yordam koʻrsatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌpɛrəˈmɛdɪk/"
     },
     {
       "english": "midwife",
@@ -676,7 +750,8 @@
       "pos": "noun",
       "example_en": "An experienced midwife assisted at the maternity clinic.",
       "example_uz": "Tajribali akusherka tugʻruqxonada yordam koʻrsatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈmɪdˌwaɪf/"
     },
     {
       "english": "lawyer",
@@ -685,7 +760,8 @@
       "pos": "noun",
       "example_en": "A corporate lawyer reviewed the terms of the lease agreement.",
       "example_uz": "Korporativ huquqshunos ijara shartnomasi shartlarini koʻrib chiqdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈlɔjər/"
     },
     {
       "english": "attorney",
@@ -694,7 +770,8 @@
       "pos": "noun",
       "example_en": "The defense attorney presented key documents in court.",
       "example_uz": "Himoyachi advokat sudda muhim hujjatlarni taqdim etdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/əˈtərni/"
     },
     {
       "english": "prosecutor",
@@ -703,7 +780,8 @@
       "pos": "noun",
       "example_en": "The state prosecutor led the investigation into financial fraud.",
       "example_uz": "Davlat prokurori moliyaviy firibgarlik boʻyicha tergovni olib bordi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈprɑsɪˌkjutər/"
     },
     {
       "english": "notary",
@@ -712,7 +790,8 @@
       "pos": "noun",
       "example_en": "The contract for selling the house was certified by a public notary.",
       "example_uz": "Uyni sotish shartnomasi davlat notariusi tomonidan tasdiqlandi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈnoʊtəri/"
     },
     {
       "english": "detective",
@@ -721,7 +800,8 @@
       "pos": "noun",
       "example_en": "The police detective solved the case using security camera footage.",
       "example_uz": "Ichki ishlar tergovchisi kuzatuv kamerasi yozuvlari yordamida ishni fosh etdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dɪˈtɛktɪv/"
     },
     {
       "english": "firefighter",
@@ -730,7 +810,8 @@
       "pos": "noun",
       "example_en": "Brave firefighters rescued the family from the smoke-filled building.",
       "example_uz": "Jasur oʻt oʻchiruvchilar oilani tutunga toʻlgan binodan qutqarib qoldilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈfaɪrˌfaɪtər/"
     },
     {
       "english": "lifeguard",
@@ -739,7 +820,8 @@
       "pos": "noun",
       "example_en": "The lifeguard watches swimmers from a high chair by the pool.",
       "example_uz": "Suv qutqaruvchisi hovuz boʻyidagi baland kursidan suzuvchilarni kuzatib turadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈlaɪfˌgɑrd/"
     },
     {
       "english": "bodyguard",
@@ -748,7 +830,8 @@
       "pos": "noun",
       "example_en": "A trained bodyguard accompanied the visiting diplomat.",
       "example_uz": "Maxsus tayyorgarlikdan oʻtgan tansoqchi tashrif buyurgan diplomatga hamrohlik qildi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈbɑdiˌgɑrd/"
     },
     {
       "english": "watchman",
@@ -757,7 +840,8 @@
       "pos": "noun",
       "example_en": "The night watchman checks all warehouse doors every hour.",
       "example_uz": "Tungi qorovul har soatda omborxonaning barcha eshiklarini tekshirib chiqadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈwɑtʃmən/"
     },
     {
       "english": "postman",
@@ -766,7 +850,8 @@
       "pos": "noun",
       "example_en": "The postman brought registered letters and magazines.",
       "example_uz": "Pochtachi buyurtmali xatlar va jurnallarni olib keldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈpoʊstmən/"
     },
     {
       "english": "dispatcher",
@@ -775,7 +860,8 @@
       "pos": "noun",
       "example_en": "The air traffic dispatcher coordinates planes on the runway.",
       "example_uz": "Aviatsiya dispetcheri uchish-qoʻnish yoʻlagidagi samolyotlar harakatini muvofiqlashtiradi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dɪˈspætʃər/"
     },
     {
       "english": "flight attendant",
@@ -784,7 +870,8 @@
       "pos": "noun",
       "example_en": "The flight attendant demonstrated how to use the life vest.",
       "example_uz": "Bortkuzatuvchi qutqaruv nimchasidan qanday foydalanishni koʻrsatib berdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/flaɪt əˈtɛndənt/"
     },
     {
       "english": "sailor",
@@ -793,7 +880,8 @@
       "pos": "noun",
       "example_en": "The young sailor tied the thick rope around the dock post.",
       "example_uz": "Yosh dengizchi qalin arqonni pristan ustuniga bogʻladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈseɪlər/"
     },
     {
       "english": "miner",
@@ -802,7 +890,8 @@
       "pos": "noun",
       "example_en": "Gold and copper miners work with heavy underground machinery.",
       "example_uz": "Oltin va mis konchilari yer ostidagi ogʻir texnikalar bilan ishlaydilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈmaɪnər/"
     },
     {
       "english": "metallurgist",
@@ -811,7 +900,8 @@
       "pos": "noun",
       "example_en": "The metallurgist tested the strength of the new steel alloy.",
       "example_uz": "Metallurg yangi poʻlat qotishmasining mustahkamligini sinovdan oʻtkazdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/metallurgist/"
     },
     {
       "english": "geologist",
@@ -820,7 +910,8 @@
       "pos": "noun",
       "example_en": "A team of geologists discovered a new natural gas reserve.",
       "example_uz": "Geologlar guruhi yangi tabiiy gaz konini topdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dʒiˈɑlədʒəst/"
     },
     {
       "english": "surveyor",
@@ -829,7 +920,8 @@
       "pos": "noun",
       "example_en": "The land surveyor measured the exact boundaries of the plot.",
       "example_uz": "Geodezist yer uchastkasining aniq chegaralarini oʻlchadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/sərˈveɪər/"
     },
     {
       "english": "programmer",
@@ -838,7 +930,8 @@
       "pos": "noun",
       "example_en": "The programmer wrote clean code for the mobile banking app.",
       "example_uz": "Dasturchi mobil bank ilovasi uchun toza kod yozdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈproʊˌgræmər/"
     },
     {
       "english": "developer",
@@ -847,7 +940,8 @@
       "pos": "noun",
       "example_en": "She works as a backend software developer at an IT park.",
       "example_uz": "U IT-parkda bekend dasturiy taʼminot ishlab chiquvchisi boʻlib ishlaydi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dɪˈvɛləpər/"
     },
     {
       "english": "analyst",
@@ -856,7 +950,8 @@
       "pos": "noun",
       "example_en": "The data analyst prepared visual charts for the quarterly meeting.",
       "example_uz": "Maʼlumotlar tahlilchisi choraklik yigʻilish uchun vizual diagrammalar tayyorladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈænəlɪst/"
     },
     {
       "english": "designer",
@@ -865,7 +960,8 @@
       "pos": "noun",
       "example_en": "An interior designer chose warm lighting for the new cafe.",
       "example_uz": "Interyer dizayneri yangi qahvaxona uchun iliq yoritish tizimini tanladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dɪˈzaɪnər/"
     },
     {
       "english": "journalist",
@@ -874,7 +970,8 @@
       "pos": "noun",
       "example_en": "The journalist interviewed the olympic champion after the match.",
       "example_uz": "Jurnalist oʻyindan soʻng olimpiada chempionidan intervyu oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈdʒərnələst/"
     },
     {
       "english": "reporter",
@@ -883,7 +980,8 @@
       "pos": "noun",
       "example_en": "A television reporter broadcast live from the festival square.",
       "example_uz": "Televideniye muxbiri festival maydonidan jonli efirda xabar uzatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/rɪˈpɔrtər/"
     },
     {
       "english": "editor",
@@ -892,7 +990,8 @@
       "pos": "noun",
       "example_en": "The book editor corrected stylistic errors in the manuscript.",
       "example_uz": "Kitob muharriri qoʻlyozmadagi uslubiy xatolarni tuzatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈɛdətər/"
     },
     {
       "english": "translator",
@@ -901,7 +1000,8 @@
       "pos": "noun",
       "example_en": "A literary translator translated the Uzbek novel into English.",
       "example_uz": "Badiiy tarjimon oʻzbek romanini ingliz tiliga tarjima qildi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/trænsˈleɪtər/"
     },
     {
       "english": "interpreter",
@@ -910,7 +1010,8 @@
       "pos": "noun",
       "example_en": "The simultaneous interpreter worked in a soundproof booth.",
       "example_uz": "Sinxron tarjimon ovoz oʻtkazmaydigan kabinada ishladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌɪnˈtərprətər/"
     },
     {
       "english": "photographer",
@@ -919,7 +1020,8 @@
       "pos": "noun",
       "example_en": "The wedding photographer captured joyful moments of the family.",
       "example_uz": "Toʻy suratkashi oilaning quvonchli lahzalarini muhrladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/fəˈtɑgrəfər/"
     },
     {
       "english": "cameraman",
@@ -928,7 +1030,8 @@
       "pos": "noun",
       "example_en": "The documentary cameraman filmed snow leopards in the mountains.",
       "example_uz": "Hujjatli film operatori togʻlarda qor qoplonlarini tasvirga oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈkæmərəmən/"
     },
     {
       "english": "director",
@@ -937,7 +1040,8 @@
       "pos": "noun",
       "example_en": "The film director yelled 'Action!' and the scene began.",
       "example_uz": "Kino rejissyori 'Motor!' deb hayqirdi va sahna boshlandi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dərˈɛktər/"
     },
     {
       "english": "actor",
@@ -946,7 +1050,8 @@
       "pos": "noun",
       "example_en": "The theater actor received a standing ovation from the audience.",
       "example_uz": "Teatr aktyori tomoshabinlar tomonidan tik turib olqishlandi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈæktər/"
     },
     {
       "english": "musician",
@@ -955,7 +1060,8 @@
       "pos": "noun",
       "example_en": "The traditional musician played a melody on the dutar.",
       "example_uz": "Anʼanaviy sozanda dutorda kuy chaldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/mjuˈzɪʃən/"
     },
     {
       "english": "composer",
@@ -964,7 +1070,8 @@
       "pos": "noun",
       "example_en": "The composer wrote the musical score for the historical drama.",
       "example_uz": "Bastakor tarixiy drama uchun musiqa bastaladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/kəmˈpoʊzər/"
     },
     {
       "english": "sculptor",
@@ -973,7 +1080,8 @@
       "pos": "noun",
       "example_en": "The sculptor carved a horse figure out of white marble.",
       "example_uz": "Haykaltarosh oq marmardan ot haykalini yoʻndi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈskəlptər/"
     },
     {
       "english": "accountant",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "The chief accountant prepared the annual tax declaration.",
       "example_uz": "Bosh hisobchi yillik soliq deklaratsiyasini tayyorladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/əˈkaʊntənt/"
     },
     {
       "english": "auditor",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "An external auditor checked the company's financial records.",
       "example_uz": "Tashqi auditor kompaniyaning moliyaviy hujjatlarini tekshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈɔdɪtər/"
     },
     {
       "english": "economist",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "The bank economist forecast lower inflation next year.",
       "example_uz": "Bank iqtisodchisi kelasi yilda inflyatsiya pasayishini prognoz qildi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ɪˈkɑnəmɪst/"
     },
     {
       "english": "broker",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "A customs broker helped clear the imported machinery quickly.",
       "example_uz": "Bojxona brokeri import qilingan uskunalarni tezda rasmiylashtirishga yordam berdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈbroʊkər/"
     },
     {
       "english": "realtor",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "The realtor showed us three apartments near the metro station.",
       "example_uz": "Rieltor bizga metro bekati yaqinidagi uchta xonadonni koʻrsatdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈriəltər/"
     },
     {
       "english": "secretary",
@@ -1027,7 +1140,8 @@
       "pos": "noun",
       "example_en": "The executive secretary scheduled the board meeting for Monday.",
       "example_uz": "Maʼmuriy kotiba boshqaruv yigʻilishini dushanba kuniga belgiladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈsɛkrəˌtɛri/"
     },
     {
       "english": "receptionist",
@@ -1036,7 +1150,8 @@
       "pos": "noun",
       "example_en": "The clinic receptionist registered the patient's appointment.",
       "example_uz": "Klinika qabulxonasi xodimi bemorning qabul vaqtini roʻyxatga oldi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/rɪˈsɛpʃənɪst/"
     },
     {
       "english": "consultant",
@@ -1045,7 +1160,8 @@
       "pos": "noun",
       "example_en": "An agricultural consultant advised farmers on organic fertilizers.",
       "example_uz": "Qishloq xoʻjaligi maslahatchisi fermerlarga organik oʻgʻitlar boʻyicha maslahat berdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/kənˈsəltənt/"
     },
     {
       "english": "diplomat",
@@ -1054,7 +1170,8 @@
       "pos": "noun",
       "example_en": "The experienced diplomat speaks four foreign languages fluently.",
       "example_uz": "Tajribali diplomat toʻrtta xorijiy tilda ravon soʻzlashadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈdɪpləˌmæt/"
     },
     {
       "english": "ambassador",
@@ -1063,7 +1180,8 @@
       "pos": "noun",
       "example_en": "The ambassador presented his credentials to the President.",
       "example_uz": "Elchi Prezidentga ishonch yorliqlarini topshirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/æmˈbæsədər/"
     },
     {
       "english": "civil servant",
@@ -1072,7 +1190,8 @@
       "pos": "noun",
       "example_en": "Every civil servant must act with honesty and transparency.",
       "example_uz": "Har bir davlat xizmatchisi halollik va ochiqlik bilan ish tutishi shart.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈsɪvəl ˈsərvənt/"
     },
     {
       "english": "recruit",
@@ -1081,7 +1200,8 @@
       "pos": "verb",
       "example_en": "Universities hold job fairs where companies recruit graduates.",
       "example_uz": "Universitetlarda kompaniyalar bitiruvchilarni ishga jalb qiladigan mehnat yarmarkalari oʻtkaziladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/rəˈkrut/"
     },
     {
       "english": "dismiss",
@@ -1090,7 +1210,8 @@
       "pos": "verb",
       "example_en": "A manager cannot dismiss an employee without a valid legal reason.",
       "example_uz": "Rahbar qonuniy asossiz xodimni ishdan boʻshata olmaydi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/dɪsˈmɪs/"
     },
     {
       "english": "resign",
@@ -1099,7 +1220,8 @@
       "pos": "verb",
       "example_en": "He decided to resign from his post to start his own workshop.",
       "example_uz": "U oʻz ustaxonasini ochish uchun lavozimidan ketishga qaror qildi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/rɪˈzaɪn/"
     },
     {
       "english": "supervise",
@@ -1108,7 +1230,8 @@
       "pos": "verb",
       "example_en": "A senior engineer will supervise the installation of the turbines.",
       "example_uz": "Katta muhandis turbinalarni oʻrnatish jarayonini nazorat qiladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈsupərˌvaɪz/"
     },
     {
       "english": "toil",
@@ -1117,7 +1240,8 @@
       "pos": "verb",
       "example_en": "Farmers toil in the fields from early spring until late autumn.",
       "example_uz": "Dehqonlar erta bahordan kech kuzgacha dalalarda ter toʻkib mehnat qiladilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/tɔɪl/"
     },
     {
       "english": "delegate",
@@ -1126,7 +1250,8 @@
       "pos": "verb",
       "example_en": "An effective leader knows how to delegate tasks to team members.",
       "example_uz": "Samarali rahbar vazifalarni jamoa aʼzolariga qanday taqsimlashni biladi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˈdɛləˌgeɪt/"
     },
     {
       "english": "skilled",
@@ -1135,7 +1260,8 @@
       "pos": "adj",
       "example_en": "Uzbekistan is famous for its skilled woodcarvers and ceramicists.",
       "example_uz": "Oʻzbekiston oʻzining mohir yogʻoch oʻymakorlari va kulollari bilan mashhur.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/skɪld/"
     },
     {
       "english": "qualified",
@@ -1144,7 +1270,8 @@
       "pos": "adj",
       "example_en": "Only a qualified electrician should repair high-voltage panels.",
       "example_uz": "Yuqori kuchlanishli shitlarni faqat malakali elektrik taʼmirlashi kerak.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/kˈwɑləˌfaɪd/"
     },
     {
       "english": "unemployed",
@@ -1153,7 +1280,8 @@
       "pos": "adj",
       "example_en": "Vocational centers offer free courses for unemployed citizens.",
       "example_uz": "Kasb-hunarga oʻqitish markazlari ishsiz fuqarolar uchun bepul kurslar taklif etadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/ˌənɛmˈplɔɪd/"
     },
     {
       "english": "part-time",
@@ -1162,7 +1290,8 @@
       "pos": "adj",
       "example_en": "Many university students work a part-time job in the evenings.",
       "example_uz": "Koʻplab universitet talabalari kechqurunlari yarim stavkada ishlaydilar.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/pɑrt-taɪm/"
     },
     {
       "english": "full-time",
@@ -1171,7 +1300,8 @@
       "pos": "adj",
       "example_en": "After graduation, she accepted a full-time position at the bank.",
       "example_uz": "Oʻqishni bitirgach, u bankda toʻliq stavkali lavozimga ishga kirdi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/fʊl-taɪm/"
     },
     {
       "english": "vocational",
@@ -1180,7 +1310,8 @@
       "pos": "adj",
       "example_en": "Vocational schools train young people in practical trades.",
       "example_uz": "Kasb-hunar maktablari yoshlarni amaliy hunarlarga oʻrgatadi.",
-      "category": "Kasblar, hunarlar va ish joyi"
+      "category": "Kasblar, hunarlar va ish joyi",
+      "ipa": "/voʊˈkeɪʃənəl/"
     }
   ]
 }

@@ -10,7 +10,8 @@
       "pos": "noun",
       "example_en": "Every motor vehicle must pass an annual safety inspection.",
       "example_uz": "Har bir avtotransport vositasi yillik texnik koʻrikdan oʻtishi shart.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈvihɪkəl/"
     },
     {
       "english": "sedan",
@@ -19,7 +20,8 @@
       "pos": "noun",
       "example_en": "A four-door sedan is practical for daily family use.",
       "example_uz": "Toʻrt eshikli sedan kundalik oilaviy foydalanish uchun qulay.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/səˈdæn/"
     },
     {
       "english": "hatchback",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "She parked her compact hatchback in a tight space.",
       "example_uz": "U oʻzining ixcham xetchbegini tor joyga qoʻydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈhætʃˌbæk/"
     },
     {
       "english": "convertible",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "He drove a red convertible along the coastal road.",
       "example_uz": "U sohil boʻyidagi yoʻlda qizil kabrioletni haydab ketdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/kənˈvərtəbəl/"
     },
     {
       "english": "minivan",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "Our large family rented a seven-seat minivan for the trip.",
       "example_uz": "Katta oilamiz safar uchun yetti oʻrinli minivenni ijaraga oldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈmɪniˈvæn/"
     },
     {
       "english": "van",
@@ -55,7 +60,8 @@
       "pos": "noun",
       "example_en": "The delivery van arrived with our new refrigerator.",
       "example_uz": "Yetkazib berish furgoni yangi muzlatkichimizni olib keldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/væn/"
     },
     {
       "english": "lorry",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "A heavy lorry was carrying timber across the mountain pass.",
       "example_uz": "Ogʻir yuk mashinasi dovon orqali yogʻoch-taxta olib ketayotgan edi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈlɔri/"
     },
     {
       "english": "truck",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "The dump truck unloaded gravel at the construction site.",
       "example_uz": "Yuk avtomobili qurilish maydonchasiga shagʻal toʻkdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/trək/"
     },
     {
       "english": "trailer",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "The tractor pulled a long trailer loaded with cotton.",
       "example_uz": "Traktor paxta ortilgan uzun tirkamani tortib borardi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtreɪlər/"
     },
     {
       "english": "tractor",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "The farmer plowed the field with a modern diesel tractor.",
       "example_uz": "Fermer dalani zamonaviy dizel traktori bilan shudgor qildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtræktər/"
     },
     {
       "english": "bulldozer",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "A bulldozer cleared the rocks from the mountain road.",
       "example_uz": "Buldozer togʻ yoʻlidagi toshlarni surib tozaladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈbʊlˌdoʊzər/"
     },
     {
       "english": "excavator",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "The yellow excavator dug a deep trench for the pipes.",
       "example_uz": "Sariq ekskavator quvurlar uchun chuqur xandaq qazidi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈɛkskəˌveɪtər/"
     },
     {
       "english": "forklift",
@@ -118,7 +130,8 @@
       "pos": "noun",
       "example_en": "The warehouse operator used a forklift to move heavy pallets.",
       "example_uz": "Ombor xodimi ogʻir tagliklarni koʻchirish uchun avtoyuklagichdan foydalandi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈfɔrˌklɪft/"
     },
     {
       "english": "fire engine",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "Two fire engines rushed toward the burning warehouse.",
       "example_uz": "Ikkita oʻt oʻchirish mashinasi yonayotgan omborxona tomon shoshildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/faɪər ˈɛndʒən/"
     },
     {
       "english": "patrol car",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "A police patrol car was parked near the highway exit.",
       "example_uz": "Yoʻl-patrul mashinasi katta yoʻldan chiqish joyi yaqinida turardi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/pəˈtroʊl kɑr/"
     },
     {
       "english": "taxi",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "We ordered a taxi through a mobile app.",
       "example_uz": "Biz mobil ilova orqali taksi buyurtma qildik.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtæksi/"
     },
     {
       "english": "cab",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "The yellow cab stopped at the corner to pick up a fare.",
       "example_uz": "Sariq taksi mashinasi yoʻlovchi olish uchun burchakda toʻxtadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/kæb/"
     },
     {
       "english": "shuttle",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "A free shuttle runs between the terminals every ten minutes.",
       "example_uz": "Terminallar orasida har oʻn daqiqada bepul qatnov avtobusi yuradi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈʃətəl/"
     },
     {
       "english": "coach",
@@ -172,7 +190,8 @@
       "pos": "noun",
       "example_en": "We traveled to Bukhara on a comfortable air-conditioned coach.",
       "example_uz": "Biz Buxoroga konditsionerli qulay shaharlararo avtobusda bordik.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/koʊtʃ/"
     },
     {
       "english": "minibus",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "The minibus takes passengers directly to the mountain resort.",
       "example_uz": "Mikroavtobus yoʻlovchilarni toʻgʻri togʻ kurortiga olib boradi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈmɪniˌbəs/"
     },
     {
       "english": "trolleybus",
@@ -190,7 +210,8 @@
       "pos": "noun",
       "example_en": "An electric trolleybus runs quietly along the main street.",
       "example_uz": "Elektr trolleybus asosiy koʻcha boʻylab shovqinsiz harakatlanadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/trolleybus/"
     },
     {
       "english": "tram",
@@ -199,7 +220,8 @@
       "pos": "noun",
       "example_en": "Samarkand introduced a modern electric tram line.",
       "example_uz": "Samarqandda zamonaviy elektr tramvay liniyasi ishga tushirildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/træm/"
     },
     {
       "english": "streetcar",
@@ -208,7 +230,8 @@
       "pos": "noun",
       "example_en": "The vintage streetcar is popular with city tourists.",
       "example_uz": "Eski uslubdagi tramvay vagoni shahar sayyohlari orasida mashhur.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈstritˌkɑr/"
     },
     {
       "english": "subway",
@@ -217,7 +240,8 @@
       "pos": "noun",
       "example_en": "Taking the subway is the fastest way to cross the city.",
       "example_uz": "Metroda yurish shaharning narigi chekkasiga oʻtishning eng tez usulidir.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈsəbˌweɪ/"
     },
     {
       "english": "metro",
@@ -226,7 +250,8 @@
       "pos": "noun",
       "example_en": "Tashkent Metro stations are famous for their artistic designs.",
       "example_uz": "Toshkent metropoliteni bekatlari oʻzining badiiy bezaklari bilan mashhur.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈmɛˌtroʊ/"
     },
     {
       "english": "locomotive",
@@ -235,7 +260,8 @@
       "pos": "noun",
       "example_en": "A powerful electric locomotive pulls the high-speed train.",
       "example_uz": "Kuchli elektrovoz tezyurar poyezdni tortib boradi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˌloʊkəˈmoʊtɪv/"
     },
     {
       "english": "carriage",
@@ -244,7 +270,8 @@
       "pos": "noun",
       "example_en": "Our seats are in the third carriage of the express train.",
       "example_uz": "Bizning joylarimiz tezyurar poyezdning uchinchi vagonida.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈkærɪdʒ/"
     },
     {
       "english": "compartment",
@@ -253,7 +280,8 @@
       "pos": "noun",
       "example_en": "Four travelers shared a sleeping compartment on the night train.",
       "example_uz": "Tungi poyezdda toʻrt nafar yoʻlovchi bitta yotoq kupesida ketishdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/kəmˈpɑrtmənt/"
     },
     {
       "english": "freight train",
@@ -262,7 +290,8 @@
       "pos": "noun",
       "example_en": "A long freight train carried coal and grain across the border.",
       "example_uz": "Uzun yuk poyezdi chegara orqali koʻmir va gʻalla olib oʻtdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/freɪt treɪn/"
     },
     {
       "english": "railroad",
@@ -271,7 +300,8 @@
       "pos": "noun",
       "example_en": "The new railroad connects the fertile valley with the capital.",
       "example_uz": "Yangi temir yoʻl serhosil vodiyni poytaxt bilan bogʻlaydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈreɪˌlroʊd/"
     },
     {
       "english": "track",
@@ -280,7 +310,8 @@
       "pos": "noun",
       "example_en": "Never walk across the railway track when the barrier is down.",
       "example_uz": "Shlagbaum tushirilgan paytda hech qachon temir yoʻl izidan oʻtmang.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/træk/"
     },
     {
       "english": "platform",
@@ -289,7 +320,8 @@
       "pos": "noun",
       "example_en": "The high-speed train to Samarkand departs from platform two.",
       "example_uz": "Samarqandga boradigan tezyurar poyezd ikkinchi perrondan joʻnaydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈplætˌfɔrm/"
     },
     {
       "english": "turnstile",
@@ -298,7 +330,8 @@
       "pos": "noun",
       "example_en": "Tap your transport card on the turnstile to enter the metro.",
       "example_uz": "Metroga kirish uchun transport kartangizni turniketga tekkizing.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtərnˌstaɪl/"
     },
     {
       "english": "motorcycle",
@@ -307,7 +340,8 @@
       "pos": "noun",
       "example_en": "The rider wore a protective helmet on his motorcycle.",
       "example_uz": "Chavandoz mototsiklida himoya dubulgʻasini kiyib olgan edi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈmoʊtərˌsaɪkəl/"
     },
     {
       "english": "scooter",
@@ -316,7 +350,8 @@
       "pos": "noun",
       "example_en": "Electric scooters have become popular for short urban trips.",
       "example_uz": "Elektr skuterlar qisqa shahar safarlari uchun ommalashib ketdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈskutər/"
     },
     {
       "english": "moped",
@@ -325,7 +360,8 @@
       "pos": "noun",
       "example_en": "The courier delivers hot pizzas on a small moped.",
       "example_uz": "Kuryer kichik mopedda issiq pitssalarni yetkazib beradi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/moʊpt/"
     },
     {
       "english": "handlebar",
@@ -334,7 +370,8 @@
       "pos": "noun",
       "example_en": "He attached a small bell and a light to the handlebar.",
       "example_uz": "U velosiped ruliga kichik qoʻngʻiroqcha va chiroq oʻrnatdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈhændəlˌbɑr/"
     },
     {
       "english": "pedal",
@@ -343,7 +380,8 @@
       "pos": "noun",
       "example_en": "Push the brake pedal gently when driving on icy roads.",
       "example_uz": "Muzlagan yoʻllarda haydaganda tormoz pedalini ohista bosing.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈpɛdəl/"
     },
     {
       "english": "saddle",
@@ -352,7 +390,8 @@
       "pos": "noun",
       "example_en": "She adjusted the height of the bicycle saddle.",
       "example_uz": "U velosiped oʻrindigʻining balandligini mosladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈsædəl/"
     },
     {
       "english": "motor",
@@ -361,7 +400,8 @@
       "pos": "noun",
       "example_en": "This hybrid car combines a gasoline engine with an electric motor.",
       "example_uz": "Bu gibrid avtomobil benzinli dvigatelni elektr motor bilan birlashtiradi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈmoʊtər/"
     },
     {
       "english": "exhaust",
@@ -370,7 +410,8 @@
       "pos": "noun",
       "example_en": "Thick white smoke came out of the broken exhaust pipe.",
       "example_uz": "Buzilgan tutun chiqarish quvuridan qalin oq tutun chiqdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ɪgˈzɔst/"
     },
     {
       "english": "muffler",
@@ -379,7 +420,8 @@
       "pos": "noun",
       "example_en": "A damaged muffler makes the car sound extremely loud.",
       "example_uz": "Shikastlangan shovqin pasaytirgich mashinaning juda baland ovoz chiqarishiga sabab boʻladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈməflər/"
     },
     {
       "english": "transmission",
@@ -388,7 +430,8 @@
       "pos": "noun",
       "example_en": "Most new city cars come with an automatic transmission.",
       "example_uz": "Aksariyat yangi shahar mashinalari avtomatik uzatmalar qutisi bilan chiqadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/trænsˈmɪʃən/"
     },
     {
       "english": "clutch",
@@ -397,7 +440,8 @@
       "pos": "noun",
       "example_en": "Press the clutch before shifting into first gear.",
       "example_uz": "Birinchi uzatmaga oʻtkazishdan oldin ulash muftasini bosing.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/klətʃ/"
     },
     {
       "english": "gearbox",
@@ -406,7 +450,8 @@
       "pos": "noun",
       "example_en": "The mechanic repaired the faulty gearbox in two days.",
       "example_uz": "Mexanik nosoz uzatmalar qutisini ikki kunda taʼmirladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈgɪrˌbɑks/"
     },
     {
       "english": "gear",
@@ -415,7 +460,8 @@
       "pos": "noun",
       "example_en": "Use a lower gear when driving down a steep hill.",
       "example_uz": "Tik tepalikdan tushayotganda pastroq uzatmadan foydalaning.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/gɪr/"
     },
     {
       "english": "accelerator",
@@ -424,7 +470,8 @@
       "pos": "noun",
       "example_en": "He took his foot off the accelerator to slow down.",
       "example_uz": "U tezlikni pasaytirish uchun oyogʻini gaz pedalidan oldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ækˈsɛlərˌeɪtər/"
     },
     {
       "english": "steering wheel",
@@ -433,7 +480,8 @@
       "pos": "noun",
       "example_en": "Keep both hands on the steering wheel while driving.",
       "example_uz": "Haydash paytida ikkala qoʻlingizni rul chambaragida tuting.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈstɪrɪŋ wil/"
     },
     {
       "english": "dashboard",
@@ -442,7 +490,8 @@
       "pos": "noun",
       "example_en": "A red warning light flashed on the dashboard.",
       "example_uz": "Asboblar panelida qizil ogohlantiruvchi chiroq miltilladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈdæʃˌbɔrd/"
     },
     {
       "english": "speedometer",
@@ -451,7 +500,8 @@
       "pos": "noun",
       "example_en": "The speedometer showed that the car was going eighty kilometers per hour.",
       "example_uz": "Spidometr mashina soatiga sakson kilometr tezlikda ketayotganini koʻrsatdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/spiˈdɑmətər/"
     },
     {
       "english": "odometer",
@@ -460,7 +510,8 @@
       "pos": "noun",
       "example_en": "The odometer reads fifty thousand kilometers.",
       "example_uz": "Odometr ellik ming kilometrni koʻrsatmoqda.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˌoʊˈdɑmətər/"
     },
     {
       "english": "windshield",
@@ -469,7 +520,8 @@
       "pos": "noun",
       "example_en": "A small stone cracked the front windshield.",
       "example_uz": "Kichkina tosh old oynani darz ketkazdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈwɪndˌʃild/"
     },
     {
       "english": "wiper",
@@ -478,7 +530,8 @@
       "pos": "noun",
       "example_en": "Turn on the windshield wipers during heavy rain.",
       "example_uz": "Kuchli yomgʻir paytida oyna artgichlarni yoqing.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈwaɪpər/"
     },
     {
       "english": "headlight",
@@ -487,7 +540,8 @@
       "pos": "noun",
       "example_en": "Switch on your headlights before entering the dark tunnel.",
       "example_uz": "Qorongʻi tonnelga kirishdan oldin old chiroqlarni yoqing.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈhɛˌdlaɪt/"
     },
     {
       "english": "taillight",
@@ -496,7 +550,8 @@
       "pos": "noun",
       "example_en": "The police officer noticed that one taillight was broken.",
       "example_uz": "Yoʻl harakati xodimi bitta orqa chiroq singanini payqadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/taillight/"
     },
     {
       "english": "indicator",
@@ -505,7 +560,8 @@
       "pos": "noun",
       "example_en": "Use your indicator before changing lanes.",
       "example_uz": "Boʻlakni almashtirishdan oldin burilish chirogʻingizni yoqing.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈɪndəˌkeɪtər/"
     },
     {
       "english": "horn",
@@ -514,7 +570,8 @@
       "pos": "noun",
       "example_en": "Do not honk your horn near hospitals or schools.",
       "example_uz": "Shifoxonalar yoki maktablar yaqinida signal chalmang.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/hɔrn/"
     },
     {
       "english": "bumper",
@@ -523,7 +580,8 @@
       "pos": "noun",
       "example_en": "The plastic bumper was scratched in the parking lot.",
       "example_uz": "Avtoturargohda plastik bamper tirnalib qoldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈbəmpər/"
     },
     {
       "english": "fender",
@@ -532,7 +590,8 @@
       "pos": "noun",
       "example_en": "Mud splashed onto the front fender of the truck.",
       "example_uz": "Yuk mashinasining old qanotiga loy sachradi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈfɛndər/"
     },
     {
       "english": "trunk",
@@ -541,7 +600,8 @@
       "pos": "noun",
       "example_en": "We put all our suitcases into the trunk of the car.",
       "example_uz": "Biz barcha jomadonlarimizni mashina yukxonasiga joyladik.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/trəŋk/"
     },
     {
       "english": "seatbelt",
@@ -550,7 +610,8 @@
       "pos": "noun",
       "example_en": "Fasten your seatbelt before the vehicle starts moving.",
       "example_uz": "Transport vositasi harakatlana boshlashidan oldin xavfsizlik kamarini taqing.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈsitˌbɛlt/"
     },
     {
       "english": "airbag",
@@ -559,7 +620,8 @@
       "pos": "noun",
       "example_en": "The front airbag inflates instantly during a collision.",
       "example_uz": "Toʻqnashuv vaqtida old xavfsizlik yostiqchasi bir zumda shishadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈɛrˌbæg/"
     },
     {
       "english": "tire",
@@ -568,7 +630,8 @@
       "pos": "noun",
       "example_en": "You should switch to winter tires before the first snow.",
       "example_uz": "Birinchi qor yogʻishidan oldin qishki shinalarga oʻtishingiz kerak.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/taɪər/"
     },
     {
       "english": "wheel",
@@ -577,7 +640,8 @@
       "pos": "noun",
       "example_en": "The mechanic tightened the bolts on the rear wheel.",
       "example_uz": "Mexanik orqa gʻildirakdagi boltlarni mahkamladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/wil/"
     },
     {
       "english": "axle",
@@ -586,7 +650,8 @@
       "pos": "noun",
       "example_en": "The heavy load put too much pressure on the rear axle.",
       "example_uz": "Ogʻir yuk orqa oʻqqa haddan tashqari bosim tushirdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈæksəl/"
     },
     {
       "english": "puncture",
@@ -595,7 +660,8 @@
       "pos": "noun",
       "example_en": "A sharp nail on the road caused a tire puncture.",
       "example_uz": "Yoʻldagi oʻtkir mix shinaning teshilishiga sabab boʻldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈpəŋktʃər/"
     },
     {
       "english": "jack",
@@ -604,7 +670,8 @@
       "pos": "noun",
       "example_en": "Use the car jack to lift the vehicle and change the flat tire.",
       "example_uz": "Mashinani koʻtarish va yorilgan shinani almashtirish uchun domkratdan foydalaning.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/dʒæk/"
     },
     {
       "english": "gasoline",
@@ -613,7 +680,8 @@
       "pos": "noun",
       "example_en": "We stopped at a service station to fill the tank with gasoline.",
       "example_uz": "Bakni benzin bilan toʻldirish uchun yoqilgʻi quyish shoxobchasida toʻxtadik.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈgæsəˌlin/"
     },
     {
       "english": "petrol",
@@ -622,7 +690,8 @@
       "pos": "noun",
       "example_en": "The price of high-octane petrol rose slightly this month.",
       "example_uz": "Yuqori oktanli benzin narxi shu oyda biroz oshdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈpɛtroʊl/"
     },
     {
       "english": "diesel",
@@ -631,7 +700,8 @@
       "pos": "noun",
       "example_en": "Heavy buses and freight trucks usually run on diesel.",
       "example_uz": "Ogʻir avtobuslar va yuk mashinalari odatda dizel yoqilgʻisida ishlaydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈdisəl/"
     },
     {
       "english": "lubricant",
@@ -640,7 +710,8 @@
       "pos": "noun",
       "example_en": "Synthetic lubricant protects engine parts from friction.",
       "example_uz": "Sintetik moylash materiali dvigatel qismlarini ishqalanishdan himoya qiladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈlubrəkənt/"
     },
     {
       "english": "charging station",
@@ -649,7 +720,8 @@
       "pos": "noun",
       "example_en": "More electric vehicle charging stations are opening across the city.",
       "example_uz": "Shahar boʻylab elektromobillarni quvvatlash shoxobchalari koʻproq ochilmoqda.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtʃɑrdʒɪŋ ˈsteɪʃən/"
     },
     {
       "english": "traffic",
@@ -658,7 +730,8 @@
       "pos": "noun",
       "example_en": "Morning traffic moves slowly near the bridge.",
       "example_uz": "Ertalabki yoʻl harakati koʻprik yaqinida sekinlashadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtræfɪk/"
     },
     {
       "english": "traffic jam",
@@ -667,7 +740,8 @@
       "pos": "noun",
       "example_en": "We were stuck in a traffic jam for forty minutes.",
       "example_uz": "Biz qirq daqiqa davomida avtomobil tirbandligida qolib ketdik.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtræfɪk dʒæm/"
     },
     {
       "english": "rush hour",
@@ -676,7 +750,8 @@
       "pos": "noun",
       "example_en": "Subway trains are crowded during morning and evening rush hour.",
       "example_uz": "Ertalabki va kechki tigʻiz vaqtlarda metro vagonlari gavjum boʻladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/rəʃ aʊər/"
     },
     {
       "english": "gridlock",
@@ -685,7 +760,8 @@
       "pos": "noun",
       "example_en": "Heavy snow caused complete gridlock on the ring road.",
       "example_uz": "Kuchli qor halqa yoʻlida butunlay tirbandlikni keltirib chiqardi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈgrɪˌdlɑk/"
     },
     {
       "english": "traffic light",
@@ -694,7 +770,8 @@
       "pos": "noun",
       "example_en": "Stop immediately when the traffic light turns red.",
       "example_uz": "Svetofor qizil yonganda darhol toʻxtang.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtræfɪk laɪt/"
     },
     {
       "english": "road sign",
@@ -703,7 +780,8 @@
       "pos": "noun",
       "example_en": "A triangular road sign warns drivers of a sharp curve ahead.",
       "example_uz": "Uchburchak yoʻl belgisi haydovchilarni oldinda keskin burilish borligidan ogohlantiradi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/roʊd saɪn/"
     },
     {
       "english": "speed limit",
@@ -712,7 +790,8 @@
       "pos": "noun",
       "example_en": "The speed limit near schools is thirty kilometers per hour.",
       "example_uz": "Maktablar yaqinida tezlik cheklovi soatiga oʻttiz kilometrni tashkil etadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/spid ˈlɪmət/"
     },
     {
       "english": "radar",
@@ -721,7 +800,8 @@
       "pos": "noun",
       "example_en": "A speed radar camera records vehicles exceeding the limit.",
       "example_uz": "Tezlik radari kamerasi belgilangan meʼyordan oshgan mashinalarni qayd etadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈreɪˌdɑr/"
     },
     {
       "english": "registration",
@@ -730,7 +810,8 @@
       "pos": "noun",
       "example_en": "Keep your vehicle registration document inside the glove box.",
       "example_uz": "Avtomobilni roʻyxatdan oʻtkazish hujjatini (texpasportni) mashina boʻlmasida saqlang.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˌrɛdʒɪˈstreɪʃən/"
     },
     {
       "english": "toll",
@@ -739,7 +820,8 @@
       "pos": "noun",
       "example_en": "Drivers pay a small toll to use the new mountain tunnel.",
       "example_uz": "Haydovchilar yangi togʻ tonnelidan foydalanish uchun kichik toʻlov toʻlaydilar.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/toʊl/"
     },
     {
       "english": "detour",
@@ -748,7 +830,8 @@
       "pos": "noun",
       "example_en": "Road repairs forced buses to take a long detour.",
       "example_uz": "Yoʻl taʼmirlash ishlari avtobuslarni uzoq aylanma yoʻldan yurishga majbur qildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/dɪˈtʊr/"
     },
     {
       "english": "bypass",
@@ -757,7 +840,8 @@
       "pos": "noun",
       "example_en": "Freight trucks use the southern bypass to avoid city streets.",
       "example_uz": "Yuk mashinalari shahar koʻchalariga kirmaslik uchun janubiy aylanma yoʻldan foydalanadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈbaɪˌpæs/"
     },
     {
       "english": "median",
@@ -766,7 +850,8 @@
       "pos": "noun",
       "example_en": "Green bushes were planted along the highway median.",
       "example_uz": "Katta yoʻl oʻrtasidagi ajratuvchi boʻlak boʻylab yashil butalar ekildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈmidiən/"
     },
     {
       "english": "guardrail",
@@ -775,7 +860,8 @@
       "pos": "noun",
       "example_en": "Steel guardrails protect cars along the steep mountain pass.",
       "example_uz": "Poʻlat himoya toʻsiqlari tik togʻ dovoni boʻylab mashinalarni himoya qiladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈgɑrˌdreɪl/"
     },
     {
       "english": "pothole",
@@ -784,7 +870,8 @@
       "pos": "noun",
       "example_en": "Workers repaired the potholes that formed after winter frosts.",
       "example_uz": "Ishchilar qishki ayozlardan keyin paydo boʻlgan yoʻl chuqurchalarini taʼmirlashdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈpɑˌthoʊl/"
     },
     {
       "english": "collision",
@@ -793,7 +880,8 @@
       "pos": "noun",
       "example_en": "Thick fog on the highway led to a minor collision.",
       "example_uz": "Katta yoʻldagi qalin tuman kichik toʻqnashuvga sabab boʻldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/kəˈlɪʒən/"
     },
     {
       "english": "wreck",
@@ -802,7 +890,8 @@
       "pos": "noun",
       "example_en": "A tow truck removed the wreck from the middle of the road.",
       "example_uz": "Evakuator halokatga uchragan mashinani yoʻl oʻrtasidan olib ketdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/rɛk/"
     },
     {
       "english": "tow truck",
@@ -811,7 +900,8 @@
       "pos": "noun",
       "example_en": "We called a tow truck when our car broke down at night.",
       "example_uz": "Kechasi mashinamiz buzilib qolganda evakuator chaqirdik.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/toʊ trək/"
     },
     {
       "english": "pedestrian",
@@ -820,7 +910,8 @@
       "pos": "noun",
       "example_en": "Drivers must always yield to a pedestrian on the zebra crossing.",
       "example_uz": "Haydovchilar piyodalar oʻtish joyidagi piyodaga har doim yoʻl berishlari shart.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/pəˈdɛstriən/"
     },
     {
       "english": "commuter",
@@ -829,7 +920,8 @@
       "pos": "noun",
       "example_en": "Suburban trains carry thousands of commuters every morning.",
       "example_uz": "Shahar atrofi poyezdlari har ertalab minglab qatnab ishlovchi yoʻlovchilarni tashiydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/kəmˈjutər/"
     },
     {
       "english": "motorist",
@@ -838,7 +930,8 @@
       "pos": "noun",
       "example_en": "Every motorist should carry a first-aid kit and fire extinguisher.",
       "example_uz": "Har bir avtomobil haydovchisi birinchi yordam qutisi va oʻt oʻchirgich olib yurishi kerak.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈmoʊtərɪst/"
     },
     {
       "english": "cyclist",
@@ -847,7 +940,8 @@
       "pos": "noun",
       "example_en": "A special green lane was painted for cyclists.",
       "example_uz": "Velosipedchilar uchun maxsus yashil yoʻlak chizildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈsaɪkəlɪst/"
     },
     {
       "english": "chauffeur",
@@ -856,7 +950,8 @@
       "pos": "noun",
       "example_en": "The embassy chauffeur waited outside the main entrance.",
       "example_uz": "Elchixona haydovchisi asosiy kirish eshigi tashqarisida kutib turdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ʃoʊˈfər/"
     },
     {
       "english": "mechanic",
@@ -865,7 +960,8 @@
       "pos": "noun",
       "example_en": "An experienced mechanic diagnosed the engine noise quickly.",
       "example_uz": "Tajribali avtomexanik dvigatel shovqini sababini tezda aniqladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/məˈkænɪk/"
     },
     {
       "english": "conductor",
@@ -874,7 +970,8 @@
       "pos": "noun",
       "example_en": "The train conductor checked our electronic tickets at the door.",
       "example_uz": "Vagon kuzatuvchisi eshik oldida elektron chiptalarimizni tekshirdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/kənˈdəktər/"
     },
     {
       "english": "pilot",
@@ -883,7 +980,8 @@
       "pos": "noun",
       "example_en": "The pilot announced that we would land in twenty minutes.",
       "example_uz": "Uchuvchi yigirma daqiqadan soʻng qoʻnishimizni eʼlon qildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈpaɪlət/"
     },
     {
       "english": "cockpit",
@@ -892,7 +990,8 @@
       "pos": "noun",
       "example_en": "Only authorized crew members may enter the cockpit.",
       "example_uz": "Uchuvchilar kabinasiga faqat vakolatli ekipaj aʼzolari kirishi mumkin.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈkɑkˌpɪt/"
     },
     {
       "english": "fuselage",
@@ -901,7 +1000,8 @@
       "pos": "noun",
       "example_en": "Engineers inspected the aircraft fuselage before takeoff.",
       "example_uz": "Muhandislar parvozdan oldin samolyot korpusini koʻzdan kechirishdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/fˈjusəˌlɑdʒ/"
     },
     {
       "english": "wing",
@@ -910,7 +1010,8 @@
       "pos": "noun",
       "example_en": "Ice was cleared from the airplane wings before departure.",
       "example_uz": "Joʻnab ketishdan oldin samolyot qanotlari muzdan tozalandi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/wɪŋ/"
     },
     {
       "english": "propeller",
@@ -919,7 +1020,8 @@
       "pos": "noun",
       "example_en": "The small plane has a twin-blade propeller on its nose.",
       "example_uz": "Kichik samolyotning old qismida ikki pallali parrak bor.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/prəˈpɛlər/"
     },
     {
       "english": "turbine",
@@ -928,7 +1030,8 @@
       "pos": "noun",
       "example_en": "Jet turbines produce tremendous thrust during takeoff.",
       "example_uz": "Reaktiv turbinalar havoga koʻtarilish paytida ulkan tortish kuchini hosil qiladi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtərbaɪn/"
     },
     {
       "english": "runway",
@@ -937,7 +1040,8 @@
       "pos": "noun",
       "example_en": "The jet taxied slowly toward the main runway.",
       "example_uz": "Samolyot asosiy uchish-qoʻnish yoʻlagi tomon sekin harakatlandi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈrənˌweɪ/"
     },
     {
       "english": "hangar",
@@ -946,7 +1050,8 @@
       "pos": "noun",
       "example_en": "Maintenance crews service the aircraft inside a huge hangar.",
       "example_uz": "Texnik xizmat guruhlari ulkan angar ichida samolyotga xizmat koʻrsatadilar.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈhæŋər/"
     },
     {
       "english": "helicopter",
@@ -955,7 +1060,8 @@
       "pos": "noun",
       "example_en": "A rescue helicopter landed on the mountain plateau.",
       "example_uz": "Qutqaruv vertolyoti togʻ platosiga qoʻndi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈhɛlɪˌkɑptər/"
     },
     {
       "english": "glider",
@@ -964,7 +1070,8 @@
       "pos": "noun",
       "example_en": "The light glider soared silently on warm air currents.",
       "example_uz": "Yengil planer iliq havo oqimlarida ovozsiz parvoz qildi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈglaɪdər/"
     },
     {
       "english": "parachute",
@@ -973,7 +1080,8 @@
       "pos": "noun",
       "example_en": "The skydiver opened his parachute at the right altitude.",
       "example_uz": "Parashyutchi kerakli balandlikda parashyutini ochdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈpɛrəˌʃut/"
     },
     {
       "english": "altitude",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "The aircraft is cruising at an altitude of ten thousand meters.",
       "example_uz": "Samolyot oʻn ming metr balandlikda uchib bormoqda.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈæltəˌtud/"
     },
     {
       "english": "turbulence",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "Please keep your seatbelt fastened in case of turbulence.",
       "example_uz": "Havo chayqalishi ehtimoli tufayli xavfsizlik kamarini taqilgan holda saqlang.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈtərbjələns/"
     },
     {
       "english": "vessel",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "A cargo vessel entered the harbor early in the morning.",
       "example_uz": "Yuk kemasi erta tongda bandargohga kirib keldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈvɛsəl/"
     },
     {
       "english": "ship",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "The massive container ship carries thousands of steel boxes.",
       "example_uz": "Ulkan konteyner kemasi minglab poʻlat qutilarni tashiydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ʃɪp/"
     },
     {
       "english": "boat",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "We rented a wooden rowboat on the mountain lake.",
       "example_uz": "Biz togʻ koʻlida yogʻoch eshkakli qayiqni ijaraga oldik.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/boʊt/"
     },
     {
       "english": "ferry",
@@ -1027,7 +1140,8 @@
       "pos": "noun",
       "example_en": "A car ferry connects the mainland with the island.",
       "example_uz": "Avtomobil paromi materikni orol bilan bogʻlaydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈfɛri/"
     },
     {
       "english": "yacht",
@@ -1036,7 +1150,8 @@
       "pos": "noun",
       "example_en": "White yachts were anchored in the calm bay.",
       "example_uz": "Tinch koʻrfazda oq yaxtalar langar tashlab turardi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/jɑt/"
     },
     {
       "english": "barge",
@@ -1045,7 +1160,8 @@
       "pos": "noun",
       "example_en": "A flat barge transported sand and gravel down the river.",
       "example_uz": "Yalpoq barja daryo boʻylab qum va shagʻal tashidi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/bɑrdʒ/"
     },
     {
       "english": "submarine",
@@ -1054,7 +1170,8 @@
       "pos": "noun",
       "example_en": "The research submarine dived deep into the ocean trench.",
       "example_uz": "Tadqiqot suv osti kemasi okean botigʻiga chuqur shoʻngʻidi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈsəbmərˌin/"
     },
     {
       "english": "rudder",
@@ -1063,7 +1180,8 @@
       "pos": "noun",
       "example_en": "The captain turned the rudder to steer away from the rocks.",
       "example_uz": "Kapitan qoyalardan uzoqlashish uchun kema rulini burdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈrədər/"
     },
     {
       "english": "mast",
@@ -1072,7 +1190,8 @@
       "pos": "noun",
       "example_en": "A national flag fluttered at the top of the tall mast.",
       "example_uz": "Baland machta uchida milliy bayroq hilpirab turardi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/mæst/"
     },
     {
       "english": "sail",
@@ -1081,7 +1200,8 @@
       "pos": "noun",
       "example_en": "Strong wind filled the white canvas sail.",
       "example_uz": "Kuchli shamol oq brezent yelkanni toʻldirdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/seɪl/"
     },
     {
       "english": "oar",
@@ -1090,7 +1210,8 @@
       "pos": "noun",
       "example_en": "He pulled both oars steadily to row across the river.",
       "example_uz": "U daryoning narigi betiga oʻtish uchun ikkala eshkakni bir maromda eshdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ɔr/"
     },
     {
       "english": "port",
@@ -1099,7 +1220,8 @@
       "pos": "noun",
       "example_en": "This international port handles millions of tons of freight.",
       "example_uz": "Bu xalqaro port millionlab tonna yuklarni qabul qilib joʻnatadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/pɔrt/"
     },
     {
       "english": "pier",
@@ -1108,7 +1230,8 @@
       "pos": "noun",
       "example_en": "Tourists walked to the end of the wooden pier.",
       "example_uz": "Sayyohlar yogʻoch pirsning oxirigacha borishdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/pɪr/"
     },
     {
       "english": "dock",
@@ -1117,7 +1240,8 @@
       "pos": "noun",
       "example_en": "Workers unloaded crates of fruit at the dock.",
       "example_uz": "Ishchilar kema toʻxtash joyida meva qutilarini tushirishdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/dɑk/"
     },
     {
       "english": "lighthouse",
@@ -1126,7 +1250,8 @@
       "pos": "noun",
       "example_en": "The bright beam of the lighthouse guides ships at night.",
       "example_uz": "Mayoqning yorqin nuri tunda kemalarga yoʻl koʻrsatadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈlaɪˌthaʊs/"
     },
     {
       "english": "cargo",
@@ -1135,7 +1260,8 @@
       "pos": "noun",
       "example_en": "The plane carried medical supplies as urgent cargo.",
       "example_uz": "Samolyot shoshilinch yuk sifatida tibbiy buyumlarni olib keldi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈkɑrˌgoʊ/"
     },
     {
       "english": "freight",
@@ -1144,7 +1270,8 @@
       "pos": "noun",
       "example_en": "Rail freight is economical for heavy raw materials.",
       "example_uz": "Temir yoʻl orqali yuk tashish ogʻir xomashyolar uchun tejamkor hisoblanadi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/freɪt/"
     },
     {
       "english": "decelerate",
@@ -1153,7 +1280,8 @@
       "pos": "verb",
       "example_en": "Drivers must decelerate when approaching a school zone.",
       "example_uz": "Haydovchilar maktab hududiga yaqinlashganda tezlikni pasaytirishlari shart.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/dɪˈsɛlərˌeɪt/"
     },
     {
       "english": "steer",
@@ -1162,7 +1290,8 @@
       "pos": "verb",
       "example_en": "It is difficult to steer a heavy truck on muddy roads.",
       "example_uz": "Loyli yoʻllarda ogʻir yuk mashinasining rulini boshqarish qiyin.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/stɪr/"
     },
     {
       "english": "overtake",
@@ -1171,7 +1300,8 @@
       "pos": "verb",
       "example_en": "Never overtake another vehicle on a blind curve.",
       "example_uz": "Koʻrinmas burilishda hech qachon boshqa transport vositasini quvib oʻtmang.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ˈoʊvərˌteɪk/"
     },
     {
       "english": "commute",
@@ -1180,7 +1310,8 @@
       "pos": "verb",
       "example_en": "She commutes from Chirchiq to Tashkent by train every day.",
       "example_uz": "U har kuni Chirchiqdan Toshkentga poyezdda qatnab ishlaydi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/kəmˈjut/"
     },
     {
       "english": "embark",
@@ -1189,7 +1320,8 @@
       "pos": "verb",
       "example_en": "Passengers waited at the gate to embark on the ferry.",
       "example_uz": "Yoʻlovchilar paromga chiqish uchun darvoza oldida kutib turishdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/ɛmˈbɑrk/"
     },
     {
       "english": "disembark",
@@ -1198,7 +1330,8 @@
       "pos": "verb",
       "example_en": "Crew members helped elderly travelers disembark safely.",
       "example_uz": "Ekipaj aʼzolari keksa yoʻlovchilarga xavfsiz tushishga yordam berishdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/dɪsɛmˈbɑrk/"
     },
     {
       "english": "tow",
@@ -1207,7 +1340,8 @@
       "pos": "verb",
       "example_en": "They had to tow the broken bus to the nearest depot.",
       "example_uz": "Ular buzilgan avtobusni eng yaqin depoga shatakka olib borishga majbur boʻlishdi.",
-      "category": "Transport, avtomobil va yoʻl harakati"
+      "category": "Transport, avtomobil va yoʻl harakati",
+      "ipa": "/toʊ/"
     }
   ]
 }

@@ -560,6 +560,15 @@ html[data-theme="dark"] .corner-art {
   padding: 10px 4px;
 }
 
+.english-word-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+
 .english-word {
   font-size: 42px;
   font-weight: 700;
@@ -571,34 +580,135 @@ html[data-theme="dark"] .corner-art {
   overflow-wrap: normal;
 }
 
+.audio-speak-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(var(--accent-rgb), 0.12);
+  border: 1.5px solid rgba(var(--accent-rgb), 0.28);
+  color: var(--accent-solid);
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: transform 160ms cubic-bezier(0.34, 1.56, 0.64, 1), background 200ms ease, box-shadow 200ms ease, color 200ms ease;
+}
+
+.audio-speak-btn:hover {
+  transform: scale(1.06);
+  background: rgba(var(--accent-rgb), 0.18);
+}
+
+.audio-speak-btn:active {
+  transform: scale(0.92);
+}
+
+.audio-speak-btn .audio-icon {
+  width: 22px;
+  height: 22px;
+  transition: transform 200ms ease;
+}
+
+.audio-speak-btn.is-speaking {
+  background: var(--accent-gradient);
+  color: #ffffff;
+  border-color: transparent;
+  box-shadow: 0 0 0 5px rgba(var(--accent-rgb), 0.28), 0 8px 18px -4px rgba(var(--accent-rgb), 0.5);
+  animation: speak-pulse 1.2s infinite ease-in-out;
+}
+
+@keyframes speak-pulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 4px rgba(var(--accent-rgb), 0.32), 0 8px 18px -4px rgba(var(--accent-rgb), 0.5);
+  }
+  50% {
+    transform: scale(1.08);
+    box-shadow: 0 0 0 9px rgba(var(--accent-rgb), 0.12), 0 12px 22px -3px rgba(var(--accent-rgb), 0.6);
+  }
+}
+
 .pronunciation-wrap {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 8px;
+  max-width: 100%;
+}
+
+.pronunciation-pills-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
   gap: 6px;
   max-width: 100%;
 }
 
-.pronunciation-caption {
-  font-size: 11.5px;
-  font-style: italic;
-  color: var(--text-muted);
-  letter-spacing: 0.02em;
-}
-
-.pronunciation-pill {
+.pron-pill {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  padding: 9px 22px;
+  gap: 6px;
+  padding: 5px 11px 5px 6px;
   border-radius: 999px;
   background: var(--pill-bg);
   border: 1px solid var(--pill-border);
+  transition: transform 140ms ease, background 200ms ease, border-color 200ms ease, box-shadow 200ms ease;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
   max-width: 100%;
 }
 
+.pron-pill:hover {
+  border-color: rgba(var(--accent-rgb), 0.45);
+}
+
+.pron-pill:active {
+  transform: scale(0.96);
+}
+
+.pron-pill-ipa {
+  background: rgba(var(--accent-rgb), 0.08);
+  border-color: rgba(var(--accent-rgb), 0.24);
+}
+
+.pron-badge {
+  font-size: 9.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 2.5px 6.5px;
+  border-radius: 999px;
+  line-height: 1;
+}
+
+.ipa-badge {
+  background: var(--accent-gradient);
+  color: #ffffff;
+}
+
+.uz-badge {
+  background: rgba(148, 163, 184, 0.22);
+  color: var(--text-secondary);
+}
+
+html[data-theme="dark"] .uz-badge {
+  background: rgba(148, 163, 184, 0.2);
+  color: var(--text-primary);
+}
+
+.ipa-text {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--accent-solid);
+  font-family: "DejaVu Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  letter-spacing: 0.02em;
+}
+
 .pronunciation-text {
-  font-size: 17px;
+  font-size: 14.5px;
   font-weight: 700;
   color: var(--pill-text);
   letter-spacing: 0.01em;
@@ -613,7 +723,7 @@ html[data-theme="dark"] .corner-art {
   padding: 5px 12px;
   border-radius: 999px;
   background: rgba(var(--accent-rgb), 0.07);
-  max-width: 58%;
+  max-width: 66%;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -698,22 +808,63 @@ html[data-theme="dark"] .corner-art {
 
 /* Example Sentence Block */
 .example-block {
+  position: relative;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 8px;
-  padding: 12px 14px;
+  padding: 12px 34px 12px 14px;
   border-radius: 18px;
   background: rgba(var(--accent-rgb), 0.07);
   border: 1px solid rgba(var(--accent-rgb), 0.15);
 }
 
 .example-en {
-  font-size: 15px;
+  font-size: 14.5px;
   font-weight: 700;
   line-height: 1.38;
   color: var(--text-primary);
+  text-align: center;
+}
+
+.example-audio-btn {
+  position: absolute;
+  top: 9px;
+  right: 9px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(var(--accent-rgb), 0.12);
+  border: 1px solid rgba(var(--accent-rgb), 0.24);
+  color: var(--accent-solid);
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: transform 140ms ease, background 180ms ease, color 180ms ease;
+  z-index: 2;
+}
+
+.example-audio-btn:hover {
+  background: rgba(var(--accent-rgb), 0.2);
+}
+
+.example-audio-btn:active {
+  transform: scale(0.9);
+}
+
+.example-audio-btn svg {
+  width: 15px;
+  height: 15px;
+}
+
+.example-audio-btn.is-speaking {
+  background: var(--accent-gradient);
+  color: #ffffff;
+  border-color: transparent;
+  animation: speak-pulse 1.2s infinite ease-in-out;
 }
 
 .example-uz {

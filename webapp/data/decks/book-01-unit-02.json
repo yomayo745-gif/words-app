@@ -10,7 +10,8 @@
       "pos": "adj",
       "example_en": "She is able to swim.",
       "example_uz": "U suza oladi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˈeɪbəl/"
     },
     {
       "english": "alone",
@@ -19,7 +20,8 @@
       "pos": "adj",
       "example_en": "She cries when she is alone.",
       "example_uz": "Qachonki u yolgʻiz qolsa yigʻlaydi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/əˈloʊn/"
     },
     {
       "english": "animal",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "The boy watches the animal.",
       "example_uz": "Bola hayvonni tomosha qiladi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˈænəməl/"
     },
     {
       "english": "become",
@@ -37,7 +40,8 @@
       "pos": "verb",
       "example_en": "The child wants to become a teacher.",
       "example_uz": "Bola oʻqituvchi boʻlishni xohlaydi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/bɪˈkəm/"
     },
     {
       "english": "call",
@@ -46,7 +50,8 @@
       "pos": "verb",
       "example_en": "Dad calls my name.",
       "example_uz": "Dadam mening ismim bilan chaqiradi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/kɔl/"
     },
     {
       "english": "catch",
@@ -55,7 +60,8 @@
       "pos": "verb",
       "example_en": "He catches the ball.",
       "example_uz": "U toʻpni tutib oladi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/kætʃ/"
     },
     {
       "english": "country",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "The farm is in the country.",
       "example_uz": "Ferma qishloqda.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˈkəntri/"
     },
     {
       "english": "monkey",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "The monkey is in the tree.",
       "example_uz": "Maymun daraxtda.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˈməŋki/"
     },
     {
       "english": "thin",
@@ -82,7 +90,8 @@
       "pos": "adj",
       "example_en": "The laptop is thin.",
       "example_uz": "Noutbuk ingichka.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/θɪn/"
     },
     {
       "english": "word",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "A story has many words.",
       "example_uz": "Hikoyada koʻp soʻzlar bor.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/wərd/"
     },
     {
       "english": "baby",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "The baby cries a lot.",
       "example_uz": "Chaqaloq koʻp yigʻlaydi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˈbeɪbi/"
     },
     {
       "english": "clean",
@@ -109,7 +120,8 @@
       "pos": "verb",
       "example_en": "She cleans the floor.",
       "example_uz": "U polni tozalaydi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/klin/"
     },
     {
       "english": "eat",
@@ -118,7 +130,8 @@
       "pos": "verb",
       "example_en": "The students eat lunch.",
       "example_uz": "Talabalar tushlik qiladi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/it/"
     },
     {
       "english": "enjoy",
@@ -127,7 +140,8 @@
       "pos": "verb",
       "example_en": "She enjoys art class.",
       "example_uz": "U rasm darsida mazza qiladi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˌɛnˈdʒɔɪ/"
     },
     {
       "english": "family",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "My family is big.",
       "example_uz": "Mening oilam katta.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˈfæməli/"
     },
     {
       "english": "fruit",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "She eats fruit every day.",
       "example_uz": "U har kuni meva yeydi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/frut/"
     },
     {
       "english": "jump",
@@ -154,7 +170,8 @@
       "pos": "verb",
       "example_en": "They jump into the water.",
       "example_uz": "Ular suvga sakraydi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/dʒəmp/"
     },
     {
       "english": "kind",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "There are many kinds of apples.",
       "example_uz": "Bu yerda olmalarning koʻp navlari bor.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/kaɪnd/"
     },
     {
       "english": "man",
@@ -172,7 +190,8 @@
       "pos": "noun",
       "example_en": "The man laughs at the funny story.",
       "example_uz": "Kishi kulguli hikoyadan kuladi.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/mæn/"
     },
     {
       "english": "parent",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "Their parents are nice.",
       "example_uz": "Ularning ota onalari ajoyib.",
-      "category": "1-kitob: 1.2-bob"
+      "category": "1-kitob: 1.2-bob",
+      "ipa": "/ˈpɛrənt/"
     }
   ]
 }
