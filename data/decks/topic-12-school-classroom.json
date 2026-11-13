@@ -10,7 +10,8 @@
       "pos": "noun",
       "example_en": "Our neighborhood school has a large sports ground and library.",
       "example_uz": "Mahallamiz maktabida katta sport maydonchasi va kutubxona bor.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/skul/"
     },
     {
       "english": "kindergarten",
@@ -19,7 +20,8 @@
       "pos": "noun",
       "example_en": "Children learn songs and games in kindergarten.",
       "example_uz": "Bolalar bogʻchasida bolalar qoʻshiqlar va oʻyinlarni oʻrganadilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈkɪndərˌgɑrtən/"
     },
     {
       "english": "preschool",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "Preschool prepares young kids for primary classes.",
       "example_uz": "Maktabgacha taʼlim kichkintoylarni boshlangʻich sinflarga tayyorlaydi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/priˈskul/"
     },
     {
       "english": "elementary school",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "She learned to read and write in elementary school.",
       "example_uz": "U boshlangʻich maktabda oʻqish va yozishni oʻrgandi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˌɛləˈmɛntri skul/"
     },
     {
       "english": "secondary school",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "Students study physics and chemistry in secondary school.",
       "example_uz": "Oʻquvchilar oʻrta maktabda fizika va kimyo fanlarini oʻrganadilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈsɛkənˌdɛri skul/"
     },
     {
       "english": "high school",
@@ -55,7 +60,8 @@
       "pos": "noun",
       "example_en": "After graduating from high school, he entered a technical institute.",
       "example_uz": "Yuqori sinfni tamomlagandan soʻng, u texnika institutiga oʻqishga kirdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/haɪ skul/"
     },
     {
       "english": "lyceum",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "She attends an academic lyceum specializing in exact sciences.",
       "example_uz": "U aniq fanlarga ixtisoslashgan akademik litseyda oʻqiydi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/lyceum/"
     },
     {
       "english": "gymnasium",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "The language gymnasium offers intensive courses in three foreign languages.",
       "example_uz": "Til gimnaziyasi uchta xorijiy tilda chuqurlashtirilgan kurslarni taklif etadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/dʒɪmˈneɪziəm/"
     },
     {
       "english": "boarding school",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "Gifted young athletes train and study at the sports boarding school.",
       "example_uz": "Iqtidorli yosh sportchilar sport maktab-internatida mashq qiladilar va oʻqiydilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈbɔrdɪŋ skul/"
     },
     {
       "english": "classroom",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "Sunlight filled the bright classroom on the second floor.",
       "example_uz": "Ikkinchi qavatdagi yorugʻ sinfxonani quyosh nuri toʻldirdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈklæsˌrum/"
     },
     {
       "english": "homeroom",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "Students gather in their homeroom every Monday morning.",
       "example_uz": "Oʻquvchilar har dushanba ertalab oʻzlariga biriktirilgan sinfxonada toʻplanishadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/homeroom/"
     },
     {
       "english": "playground",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "Primary pupils played tag on the outdoor playground.",
       "example_uz": "Boshlangʻich sinf oʻquvchilari ochiq oʻyin maydonchasida quvlashmachoq oʻynashdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈpleɪˌgraʊnd/"
     },
     {
       "english": "schoolyard",
@@ -118,7 +130,8 @@
       "pos": "noun",
       "example_en": "The first bell rang and everyone lined up in the schoolyard.",
       "example_uz": "Birinchi qoʻngʻiroq chalindi va hamma maktab hovlisida saf tortdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈskuˌljɑrd/"
     },
     {
       "english": "cloakroom",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "Hang your winter coat on a hook in the cloakroom.",
       "example_uz": "Qishki paltongizni garderobdagi ilgakka ilib qoʻying.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈkloʊˌkrum/"
     },
     {
       "english": "staffroom",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "Teachers check test papers in the quiet staffroom.",
       "example_uz": "Oʻqituvchilar tinch oʻqituvchilar xonasida nazorat ishlarini tekshiradilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/staffroom/"
     },
     {
       "english": "principal",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "The school principal congratulated the winners of the Olympiad.",
       "example_uz": "Maktab direktori olimpiada gʻoliblarini tabrikladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈprɪnsəpəl/"
     },
     {
       "english": "headmaster",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "The headmaster welcomed new pupils on the first day of September.",
       "example_uz": "Maktab direktori sentyabrning birinchi kunida yangi oʻquvchilarni qutladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈhɛdˈmæstər/"
     },
     {
       "english": "teacher",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "Our mathematics teacher explains complex problems very clearly.",
       "example_uz": "Matematika oʻqituvchimiz murakkab masalalarni juda tushunarli qilib tushuntiradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈtitʃər/"
     },
     {
       "english": "instructor",
@@ -172,7 +190,8 @@
       "pos": "noun",
       "example_en": "The swimming instructor taught the children how to float.",
       "example_uz": "Suzish murabbiyi bolalarga suv yuzida qalqib turishni oʻrgatdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˌɪnˈstrəktər/"
     },
     {
       "english": "tutor",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "He works with an English tutor twice a week after classes.",
       "example_uz": "U darslardan keyin haftasiga ikki marta ingliz tili repetitori bilan shugʻullanadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈtutər/"
     },
     {
       "english": "schoolmate",
@@ -190,7 +210,8 @@
       "pos": "noun",
       "example_en": "I met an old schoolmate at the book fair yesterday.",
       "example_uz": "Kecha kitob yarmarkasida eski maktabdoshimni uchratib qoldim.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈskulˌmeɪt/"
     },
     {
       "english": "prefect",
@@ -199,7 +220,8 @@
       "pos": "noun",
       "example_en": "A senior prefect helped younger children find their classrooms.",
       "example_uz": "Yuqori sinf navbatchisi kichik bolalarga sinfxonalarini topishga yordam berdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈpriˌfɛkt/"
     },
     {
       "english": "janitor",
@@ -208,7 +230,8 @@
       "pos": "noun",
       "example_en": "The janitor unlocked the school gates early in the morning.",
       "example_uz": "Maktab xodimi erta tongda maktab darvozalarini ochdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈdʒænətər/"
     },
     {
       "english": "librarian",
@@ -217,7 +240,8 @@
       "pos": "noun",
       "example_en": "The school librarian recommended an adventure novel to me.",
       "example_uz": "Maktab kutubxonachisi menga sarguzasht romanni tavsiya qildi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/laɪˈbrɛˌriən/"
     },
     {
       "english": "counselor",
@@ -226,7 +250,8 @@
       "pos": "noun",
       "example_en": "The school counselor helps students choose their future professions.",
       "example_uz": "Maktab maslahatchisi oʻquvchilarga kelajakdagi kasblarini tanlashda yordam beradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈkaʊnsələr/"
     },
     {
       "english": "whiteboard",
@@ -235,7 +260,8 @@
       "pos": "noun",
       "example_en": "She wrote five new vocabulary words on the whiteboard.",
       "example_uz": "U oq doskaga beshta yangi soʻzni yozdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/whiteboard/"
     },
     {
       "english": "chalkboard",
@@ -244,7 +270,8 @@
       "pos": "noun",
       "example_en": "Please wipe the chalkboard clean with a damp sponge.",
       "example_uz": "Iltimos, doskani nam shimgich bilan tozalab arting.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/chalkboard/"
     },
     {
       "english": "marker",
@@ -253,7 +280,8 @@
       "pos": "noun",
       "example_en": "Use a special erasable marker on the whiteboard.",
       "example_uz": "Oq doskada maxsus oʻchiriladigan markerdan foydalaning.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈmɑrkər/"
     },
     {
       "english": "highlighter",
@@ -262,7 +290,8 @@
       "pos": "noun",
       "example_en": "She used a yellow highlighter to mark important dates in the text.",
       "example_uz": "U matndagi muhim sanalarni belgilash uchun sariq matn ajratgichdan foydalandi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/highlighter/"
     },
     {
       "english": "crayon",
@@ -271,7 +300,8 @@
       "pos": "noun",
       "example_en": "The little boy drew a bright sun with an orange crayon.",
       "example_uz": "Kichkina bola toʻq sariq mum qalam bilan yorqin quyoshni chizdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kreɪɑn/"
     },
     {
       "english": "pastel",
@@ -280,7 +310,8 @@
       "pos": "noun",
       "example_en": "Students created autumn landscapes using oil pastels.",
       "example_uz": "Oʻquvchilar moyli pastellardan foydalanib kuz manzaralarini chizishdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/pæˈstɛl/"
     },
     {
       "english": "watercolor",
@@ -289,7 +320,8 @@
       "pos": "noun",
       "example_en": "Clean your brush in water before changing the watercolor shade.",
       "example_uz": "Akvarel rangini oʻzgartirishdan oldin moʻyqalamni suvda yuving.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈwɔtərˌkələr/"
     },
     {
       "english": "sketchbook",
@@ -298,7 +330,8 @@
       "pos": "noun",
       "example_en": "She carries a small sketchbook to draw flowers and trees.",
       "example_uz": "U gullar va daraxtlarni chizish uchun kichik rasm daftarini olib yuradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈskɛtʃˌbʊk/"
     },
     {
       "english": "easel",
@@ -307,7 +340,8 @@
       "pos": "noun",
       "example_en": "Each art student stood in front of a wooden easel.",
       "example_uz": "Har bir tasviriy sanʼat oʻquvchisi yogʻoch molbert oldida turardi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈizəl/"
     },
     {
       "english": "sharpener",
@@ -316,7 +350,8 @@
       "pos": "noun",
       "example_en": "May I borrow your pencil sharpener for a moment?",
       "example_uz": "Qalamtaroshingizni bir daqiqaga olib tursam maylimi?",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/sharpener/"
     },
     {
       "english": "ruler",
@@ -325,7 +360,8 @@
       "pos": "noun",
       "example_en": "Measure the length of each side with a plastic ruler.",
       "example_uz": "Har bir tomonning uzunligini plastik chizgʻich bilan oʻlchang.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈrulər/"
     },
     {
       "english": "protractor",
@@ -334,7 +370,8 @@
       "pos": "noun",
       "example_en": "Use a protractor to draw a forty-five-degree angle.",
       "example_uz": "Qirq besh darajali burchak chizish uchun transportirdan foydalaning.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/protractor/"
     },
     {
       "english": "dividers",
@@ -343,7 +380,8 @@
       "pos": "noun",
       "example_en": "Draw an accurate circle on the graph paper using dividers.",
       "example_uz": "Katakli qogʻozga sirkul yordamida aniq aylana chizing.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/dividers/"
     },
     {
       "english": "set square",
@@ -352,7 +390,8 @@
       "pos": "noun",
       "example_en": "An architect uses a set square to draw perpendicular lines.",
       "example_uz": "Meʼmor perpendikulyar chiziqlarni chizish uchun uchburchak chizgʻichdan foydalanadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/sɛt skwɛr/"
     },
     {
       "english": "abacus",
@@ -361,7 +400,8 @@
       "pos": "noun",
       "example_en": "Young pupils learn mental arithmetic using an abacus.",
       "example_uz": "Kichik oʻquvchilar choʻt yordamida ogʻzaki hisoblashni oʻrganadilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈæbəkəs/"
     },
     {
       "english": "projector",
@@ -370,7 +410,8 @@
       "pos": "noun",
       "example_en": "The biology teacher connected her laptop to the ceiling projector.",
       "example_uz": "Biologiya oʻqituvchisi noutbukini shiftdagi proyektorga uladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/prɑˈdʒɛktər/"
     },
     {
       "english": "pointer",
@@ -379,7 +420,8 @@
       "pos": "noun",
       "example_en": "He used a wooden pointer to show the rivers on the wall map.",
       "example_uz": "U devordagi xaritadan daryolarni koʻrsatish uchun yogʻoch koʻrsatkichdan foydalandi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈpɔɪntər/"
     },
     {
       "english": "textbook",
@@ -388,7 +430,8 @@
       "pos": "noun",
       "example_en": "Open your history textbook to chapter four.",
       "example_uz": "Tarix darsligingizning toʻrtinchi bobini oching.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈtɛkstˌbʊk/"
     },
     {
       "english": "workbook",
@@ -397,7 +440,8 @@
       "pos": "noun",
       "example_en": "Complete the grammar exercises in your workbook.",
       "example_uz": "Mashq daftaringizdagi grammatika mashqlarini bajaring.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/workbook/"
     },
     {
       "english": "copybook",
@@ -406,7 +450,8 @@
       "pos": "noun",
       "example_en": "First graders practice writing letters neatly in a lined copybook.",
       "example_uz": "Birinchi sinf oʻquvchilari chiziqli yozuv daftarida harflarni chiroyli yozishni mashq qiladilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/copybook/"
     },
     {
       "english": "pad",
@@ -415,7 +460,8 @@
       "pos": "noun",
       "example_en": "He jotted down the phone number on a small memo pad.",
       "example_uz": "U kichik bloknotga telefon raqamini yozib oldi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/pæd/"
     },
     {
       "english": "binder",
@@ -424,7 +470,8 @@
       "pos": "noun",
       "example_en": "Keep all your printed handouts organized in a ring binder.",
       "example_uz": "Barcha chop etilgan tarqatma materiallarni halqali papkada tartibli saqlang.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈbaɪndər/"
     },
     {
       "english": "stapler",
@@ -433,7 +480,8 @@
       "pos": "noun",
       "example_en": "The stapler ran out of staples right before the presentation.",
       "example_uz": "Taqdimotdan biroz oldin steplerning oʻqlari tugab qoldi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈsteɪpələr/"
     },
     {
       "english": "hole punch",
@@ -442,7 +490,8 @@
       "pos": "noun",
       "example_en": "Use a hole punch so you can file the sheet in your binder.",
       "example_uz": "Varaqni papkaga tikish uchun teshgichdan foydalaning.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/hoʊl pəntʃ/"
     },
     {
       "english": "tape",
@@ -451,7 +500,8 @@
       "pos": "noun",
       "example_en": "She fixed the torn book cover with clear adhesive tape.",
       "example_uz": "U yirtilgan kitob muqovasini shaffof skotch bilan yopishtirdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/teɪp/"
     },
     {
       "english": "ink",
@@ -460,7 +510,8 @@
       "pos": "noun",
       "example_en": "Official school certificates are signed in blue ink.",
       "example_uz": "Rasmiy maktab shahodatnomalari koʻk siyohda imzolanadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ɪŋk/"
     },
     {
       "english": "fountain pen",
@@ -469,7 +520,8 @@
       "pos": "noun",
       "example_en": "My grandfather still writes letters with an old fountain pen.",
       "example_uz": "Buvam hali ham eski siyohli ruchka bilan xat yozadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈfaʊntən pɛn/"
     },
     {
       "english": "ballpoint",
@@ -478,7 +530,8 @@
       "pos": "noun",
       "example_en": "Bring two black ballpoint pens to the state examination.",
       "example_uz": "Davlat imtihoniga ikkita qora sharikli ruchka olib keling.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈbɔlpɔɪnt/"
     },
     {
       "english": "pencil case",
@@ -487,7 +540,8 @@
       "pos": "noun",
       "example_en": "Her zippered pencil case holds pens, erasers, and a ruler.",
       "example_uz": "Uning fermuarli qalamdonida ruchkalar, oʻchirgʻichlar va chizgʻich bor.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈpɛnsəl keɪs/"
     },
     {
       "english": "satchel",
@@ -496,7 +550,8 @@
       "pos": "noun",
       "example_en": "The little girl carried her books in a leather satchel.",
       "example_uz": "Kichkina qizcha kitoblarini charm maktab sumkasida koʻtarib yurardi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/satchel/"
     },
     {
       "english": "bookmark",
@@ -505,7 +560,8 @@
       "pos": "noun",
       "example_en": "Place a ribbon bookmark between the pages so you don't lose your spot.",
       "example_uz": "Oʻqigan joyingizni yoʻqotmaslik uchun sahifalar orasiga tasmali xatchoʻp qoʻying.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈbʊkmɑrk/"
     },
     {
       "english": "encyclopedia",
@@ -514,7 +570,8 @@
       "pos": "noun",
       "example_en": "She looked up facts about planets in the children's encyclopedia.",
       "example_uz": "U bolalar ensiklopediyasidan sayyoralar haqidagi maʼlumotlarni qidirib topdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ɪnˌsaɪkləˈpidiə/"
     },
     {
       "english": "anthology",
@@ -523,7 +580,8 @@
       "pos": "noun",
       "example_en": "The literature anthology includes poems by Navoi and Babur.",
       "example_uz": "Adabiy majmua Navoiy va Bobur gʻazallarini oʻz ichiga oladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ænˈθɔləˌdʒi/"
     },
     {
       "english": "subject",
@@ -532,7 +590,8 @@
       "pos": "noun",
       "example_en": "History is her favorite subject at school.",
       "example_uz": "Tarix uning maktabdagi eng sevimli fanidir.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/səˈbdʒɛkt/"
     },
     {
       "english": "curriculum",
@@ -541,7 +600,8 @@
       "pos": "noun",
       "example_en": "Computer programming was added to the national school curriculum.",
       "example_uz": "Kompyuter dasturlash milliy maktab oʻquv dasturiga kiritildi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kərˈɪkjələm/"
     },
     {
       "english": "syllabus",
@@ -550,7 +610,8 @@
       "pos": "noun",
       "example_en": "The teacher handed out the course syllabus on the first day.",
       "example_uz": "Oʻqituvchi birinchi kuni fan mavzular rejasini tarqatdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈsɪləbəs/"
     },
     {
       "english": "mathematics",
@@ -559,7 +620,8 @@
       "pos": "noun",
       "example_en": "Al-Khwarizmi made foundational contributions to mathematics.",
       "example_uz": "Al-Xorazmiy matematika faniga fundamental hissa qoʻshgan.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˌmæθəˈmætɪks/"
     },
     {
       "english": "arithmetic",
@@ -568,7 +630,8 @@
       "pos": "noun",
       "example_en": "Primary pupils practice basic arithmetic every day.",
       "example_uz": "Boshlangʻich sinf oʻquvchilari har kuni oddiy arifmetikani mashq qiladilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˌɛrɪθˈmɛtɪk/"
     },
     {
       "english": "algebra",
@@ -577,7 +640,8 @@
       "pos": "noun",
       "example_en": "In algebra, letters are used to represent unknown numbers.",
       "example_uz": "Algebrada nomaʼlum sonlarni ifodalash uchun harflardan foydalaniladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈældʒəbrə/"
     },
     {
       "english": "geometry",
@@ -586,7 +650,8 @@
       "pos": "noun",
       "example_en": "Today we studied the properties of circles in geometry.",
       "example_uz": "Bugun geometriya darsida aylana xossalarini oʻrgandik.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/dʒiˈɑmətri/"
     },
     {
       "english": "physics",
@@ -595,7 +660,8 @@
       "pos": "noun",
       "example_en": "In physics class, we learned how electric circuits work.",
       "example_uz": "Fizika darsida elektr zanjirlari qanday ishlashini oʻrgandik.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈfɪzɪks/"
     },
     {
       "english": "chemistry",
@@ -604,7 +670,8 @@
       "pos": "noun",
       "example_en": "Students memorized the periodic table of elements in chemistry.",
       "example_uz": "Oʻquvchilar kimyo darsida elementlarning davriy jadvalini yod oldilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈkɛmɪstri/"
     },
     {
       "english": "biology",
@@ -613,7 +680,8 @@
       "pos": "noun",
       "example_en": "We examined plant cells under a microscope in biology.",
       "example_uz": "Biologiya darsida oʻsimlik hujayralarini mikroskop ostida koʻzdan kechirdik.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/baɪˈɑlədʒi/"
     },
     {
       "english": "botany",
@@ -622,7 +690,8 @@
       "pos": "noun",
       "example_en": "Botany lessons are much more fun when held in the garden.",
       "example_uz": "Botanika darslari bogʻda oʻtkazilganda ancha qiziqarli boʻladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈbɑtəni/"
     },
     {
       "english": "zoology",
@@ -631,7 +700,8 @@
       "pos": "noun",
       "example_en": "Zoology explains how animals adapt to their environments.",
       "example_uz": "Zoologiya hayvonlarning atrof-muhitga qanday moslashishini tushuntiradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/zoʊˈɑlədʒi/"
     },
     {
       "english": "history",
@@ -640,7 +710,8 @@
       "pos": "noun",
       "example_en": "We are studying the history of ancient Khorezm this month.",
       "example_uz": "Shu oyda biz qadimgi Xorazm tarixini oʻrganyapmiz.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈhɪstəri/"
     },
     {
       "english": "literature",
@@ -649,7 +720,8 @@
       "pos": "noun",
       "example_en": "In literature class, students recited classical Uzbek poetry.",
       "example_uz": "Adabiyot darsida oʻquvchilar mumtoz oʻzbek sheʼriyatidan namunalar oʻqishdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈlɪtərətʃər/"
     },
     {
       "english": "grammar",
@@ -658,7 +730,8 @@
       "pos": "noun",
       "example_en": "Clear grammar helps you express your thoughts accurately.",
       "example_uz": "Aniq grammatika fikrlaringizni toʻgʻri ifodalashga yordam beradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈgræmər/"
     },
     {
       "english": "spelling",
@@ -667,7 +740,8 @@
       "pos": "noun",
       "example_en": "Check your spelling carefully before handing in the dictation.",
       "example_uz": "Diktantni topshirishdan oldin imloni diqqat bilan tekshiring.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈspɛlɪŋ/"
     },
     {
       "english": "calligraphy",
@@ -676,7 +750,8 @@
       "pos": "noun",
       "example_en": "Eastern calligraphy is admired as a fine art form.",
       "example_uz": "Sharq xattotligi nafis sanʼat turi sifatida eʼzozlanadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kəˈlɪgrəfi/"
     },
     {
       "english": "astronomy",
@@ -685,7 +760,8 @@
       "pos": "noun",
       "example_en": "Astronomy clubs observe the moon and planets through telescopes.",
       "example_uz": "Astronomiya toʻgaraklari teleskoplar orqali Oy va sayyoralarni kuzatadilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/əˈstrɑnəmi/"
     },
     {
       "english": "informatics",
@@ -694,7 +770,8 @@
       "pos": "noun",
       "example_en": "Students learn algorithms and spreadsheets in informatics.",
       "example_uz": "Oʻquvchilar informatika darsida algoritmlar va elektron jadvallarni oʻrganadilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˌɪnˌfɔrˈmætɪks/"
     },
     {
       "english": "civics",
@@ -703,7 +780,8 @@
       "pos": "noun",
       "example_en": "Civics classes teach young people about the constitution and laws.",
       "example_uz": "Huquqshunoslik darslari yoshlarga konstitutsiya va qonunlar haqida maʼlumot beradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈsɪvɪks/"
     },
     {
       "english": "ethics",
@@ -712,7 +790,8 @@
       "pos": "noun",
       "example_en": "Respect for elders is a central theme in our ethics lessons.",
       "example_uz": "Kattalarga hurmat odobnoma darslarimizning asosiy mavzusidir.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈɛθɪks/"
     },
     {
       "english": "handicrafts",
@@ -721,7 +800,8 @@
       "pos": "noun",
       "example_en": "In handicrafts class, we learned woodcarving and sewing.",
       "example_uz": "Mehnat darsida yogʻoch oʻymakorligi va tikuvchilikni oʻrgandik.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈhændiˌkræfts/"
     },
     {
       "english": "choir",
@@ -730,7 +810,8 @@
       "pos": "noun",
       "example_en": "The school choir performed three songs at the spring concert.",
       "example_uz": "Maktab xori bahorgi konsertda uchta qoʻshiq ijro etdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kwaɪər/"
     },
     {
       "english": "assignment",
@@ -739,7 +820,8 @@
       "pos": "noun",
       "example_en": "Our reading assignment for the weekend is twenty pages long.",
       "example_uz": "Dam olish kunlari uchun oʻqish topshirigʻimiz yigirma sahifadan iborat.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/əˈsaɪnmənt/"
     },
     {
       "english": "task",
@@ -748,7 +830,8 @@
       "pos": "noun",
       "example_en": "Each group received a different task to solve on the board.",
       "example_uz": "Har bir guruh doskada yechish uchun turli vazifa oldi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/tæsk/"
     },
     {
       "english": "essay",
@@ -757,7 +840,8 @@
       "pos": "noun",
       "example_en": "Write a short essay about your favorite historical figure.",
       "example_uz": "Oʻzingiz yoqtirgan tarixiy shaxs haqida qisqa insho yozing.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ɛˈseɪ/"
     },
     {
       "english": "composition",
@@ -766,7 +850,8 @@
       "pos": "noun",
       "example_en": "Her composition won first prize in the district contest.",
       "example_uz": "Uning inshosi tuman tanlovida birinchi oʻrinni egalladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˌkɑmpəˈzɪʃən/"
     },
     {
       "english": "dictation",
@@ -775,7 +860,8 @@
       "pos": "noun",
       "example_en": "The teacher read the passage slowly during the dictation.",
       "example_uz": "Oʻqituvchi diktant paytida matnni sekin oʻqib berdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/dɪkˈteɪʃən/"
     },
     {
       "english": "quiz",
@@ -784,7 +870,8 @@
       "pos": "noun",
       "example_en": "We have a ten-minute vocabulary quiz every Friday.",
       "example_uz": "Har juma kuni oʻn daqiqalik lugʻat testi topshiramiz.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kwɪz/"
     },
     {
       "english": "test",
@@ -793,7 +880,8 @@
       "pos": "noun",
       "example_en": "He got the highest score on the geometry test.",
       "example_uz": "U geometriya nazorat ishidan eng yuqori ball oldi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/tɛst/"
     },
     {
       "english": "examination",
@@ -802,7 +890,8 @@
       "pos": "noun",
       "example_en": "Final school examinations take place at the end of May.",
       "example_uz": "Yakuniy maktab imtihonlari may oyining oxirida boʻlib oʻtadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ɪgˌzæməˈneɪʃən/"
     },
     {
       "english": "question",
@@ -811,7 +900,8 @@
       "pos": "noun",
       "example_en": "Raise your hand if you have a question about the rule.",
       "example_uz": "Qoida boʻyicha savolingiz boʻlsa, qoʻlingizni koʻtaring.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kˈwɛstʃən/"
     },
     {
       "english": "solution",
@@ -820,7 +910,8 @@
       "pos": "noun",
       "example_en": "She found an elegant solution to the difficult math problem.",
       "example_uz": "U qiyin matematik masalaga ajoyib yechim topdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/səˈluʃən/"
     },
     {
       "english": "correction",
@@ -829,7 +920,8 @@
       "pos": "noun",
       "example_en": "The teacher wrote a helpful correction in the margin.",
       "example_uz": "Oʻqituvchi hoshiyaga foydali tuzatish yozib qoʻydi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kərˈɛkʃən/"
     },
     {
       "english": "score",
@@ -838,7 +930,8 @@
       "pos": "noun",
       "example_en": "His total score on the olympiad test was ninety-six out of one hundred.",
       "example_uz": "Olimpiada testida uning umumiy natijasi yuzdan toʻqson olti ball boʻldi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/skɔr/"
     },
     {
       "english": "report card",
@@ -847,7 +940,8 @@
       "pos": "noun",
       "example_en": "Parents sign the report card at the end of each quarter.",
       "example_uz": "Ota-onalar har chorak oxirida baholar tabeliga imzo qoʻyadilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/riˈpɔrt kɑrd/"
     },
     {
       "english": "register",
@@ -856,7 +950,8 @@
       "pos": "noun",
       "example_en": "The teacher called the roll and marked the class register.",
       "example_uz": "Oʻqituvchi yoʻqlama qildi va sinf jurnaliga belgi qoʻydi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈrɛdʒɪstər/"
     },
     {
       "english": "attendance",
@@ -865,7 +960,8 @@
       "pos": "noun",
       "example_en": "Good attendance is important for keeping up with lessons.",
       "example_uz": "Darslardan orqada qolmaslik uchun yaxshi davomat muhimdir.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/əˈtɛndəns/"
     },
     {
       "english": "absence",
@@ -874,7 +970,8 @@
       "pos": "noun",
       "example_en": "Please bring a doctor's note to explain your absence.",
       "example_uz": "Darsga kelmaganingiz sababini tushuntirish uchun shifokor maʼlumotnomasini olib keling.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈæbsəns/"
     },
     {
       "english": "truancy",
@@ -883,7 +980,8 @@
       "pos": "noun",
       "example_en": "The school has strict rules against truancy.",
       "example_uz": "Maktabda sababsiz dars qoldirishga qarshi qatʼiy qoidalar mavjud.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈtruənsi/"
     },
     {
       "english": "tardiness",
@@ -892,7 +990,8 @@
       "pos": "noun",
       "example_en": "Frequent tardiness disrupts the beginning of the lesson.",
       "example_uz": "Tez-tez kech qolish darsning boshlanishiga xalaqit beradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈtɑrdinəs/"
     },
     {
       "english": "discipline",
@@ -901,7 +1000,8 @@
       "pos": "noun",
       "example_en": "Self-discipline helps students finish their projects on time.",
       "example_uz": "Oʻz-oʻzini intizomga solish oʻquvchilarga loyihalarini oʻz vaqtida tugatishga yordam beradi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈdɪsəplən/"
     },
     {
       "english": "behavior",
@@ -910,7 +1010,8 @@
       "pos": "noun",
       "example_en": "The teacher praised the class for their polite behavior during the trip.",
       "example_uz": "Oʻqituvchi sayohat davomidagi odobli xulq-atvori uchun sinfni maqtadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/bɪˈheɪvjər/"
     },
     {
       "english": "rule",
@@ -919,7 +1020,8 @@
       "pos": "noun",
       "example_en": "One important classroom rule is to listen when others speak.",
       "example_uz": "Muhim sinf qoidalaridan biri boshqalar gapirganda tinglashdir.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/rul/"
     },
     {
       "english": "recess",
@@ -928,7 +1030,8 @@
       "pos": "noun",
       "example_en": "Children played jump rope in the yard during recess.",
       "example_uz": "Tanaffus paytida bolalar hovlida arqon sakrab oʻynashdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/rɪˈsɛs/"
     },
     {
       "english": "playtime",
@@ -937,7 +1040,8 @@
       "pos": "noun",
       "example_en": "Primary school children ran into the yard for playtime.",
       "example_uz": "Boshlangʻich sinf bolalari oʻyin vaqti uchun hovliga yugurib chiqishdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/playtime/"
     },
     {
       "english": "term",
@@ -946,7 +1050,8 @@
       "pos": "noun",
       "example_en": "The first school term begins in September and ends in November.",
       "example_uz": "Birinchi oʻquv choragi sentyabrda boshlanib, noyabrda tugaydi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/tərm/"
     },
     {
       "english": "vacation",
@@ -955,7 +1060,8 @@
       "pos": "noun",
       "example_en": "During the summer vacation, he read five adventure books.",
       "example_uz": "Yozgi taʼtil paytida u beshta sarguzasht kitob oʻqidi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/veɪˈkeɪʃən/"
     },
     {
       "english": "assembly",
@@ -964,7 +1070,8 @@
       "pos": "noun",
       "example_en": "The national anthem is sung at the Monday morning assembly.",
       "example_uz": "Dushanba ertalabki saflanishda davlat madhiyasi kuylanadi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/əˈsɛmbli/"
     },
     {
       "english": "certificate",
@@ -973,7 +1080,8 @@
       "pos": "noun",
       "example_en": "Graduates receive a secondary education certificate.",
       "example_uz": "Bitiruvchilar umumiy oʻrta taʼlim toʻgʻrisidagi shahodatnomani oladilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/sərˈtɪfɪkət/"
     },
     {
       "english": "medal",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "She graduated from school with a gold medal for excellence.",
       "example_uz": "U maktabni aʼlo baholari uchun oltin medal bilan tamomladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈmɛdəl/"
     },
     {
       "english": "olympiad",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "He won second place in the regional chemistry olympiad.",
       "example_uz": "U viloyat kimyo olimpiadasida ikkinchi oʻrinni egalladi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/oʊˈlɪmpiˌæd/"
     },
     {
       "english": "competition",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "Twelve schools took part in the robotics competition.",
       "example_uz": "Robototexnika musobaqasida oʻn ikkita maktab ishtirok etdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˌkɑmpəˈtɪʃən/"
     },
     {
       "english": "club",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "She joined the chess club and the drama club after school.",
       "example_uz": "U darsdan keyin shaxmat va drama toʻgaragiga aʼzo boʻldi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kləb/"
     },
     {
       "english": "field trip",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "Our biology class went on a field trip to the nature reserve.",
       "example_uz": "Biologiya sinfimiz qoʻriqxonaga oʻquv sayohatiga bordi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/fild trɪp/"
     },
     {
       "english": "teach",
@@ -1027,7 +1140,8 @@
       "pos": "verb",
       "example_en": "Experienced teachers teach children how to think independently.",
       "example_uz": "Tajribali oʻqituvchilar bolalarga mustaqil fikrlashni oʻrgatadilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/titʃ/"
     },
     {
       "english": "study",
@@ -1036,7 +1150,8 @@
       "pos": "verb",
       "example_en": "We study two foreign languages at our school.",
       "example_uz": "Biz maktabimizda ikkita chet tilini oʻrganamiz.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈstədi/"
     },
     {
       "english": "read",
@@ -1045,7 +1160,8 @@
       "pos": "verb",
       "example_en": "Pupils read stories aloud to practice pronunciation.",
       "example_uz": "Oʻquvchilar talaffuzni mashq qilish uchun hikoyalarni ovoz chiqarib oʻqiydilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/rɛd/"
     },
     {
       "english": "write",
@@ -1054,7 +1170,8 @@
       "pos": "verb",
       "example_en": "Please write the date and title at the top of the page.",
       "example_uz": "Iltimos, sahifaning yuqori qismiga sana va sarlavhani yozing.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/raɪt/"
     },
     {
       "english": "spell",
@@ -1063,7 +1180,8 @@
       "pos": "verb",
       "example_en": "Can you spell your surname in English?",
       "example_uz": "Familiyangizni ingliz tilida harflab aytib bera olasizmi?",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/spɛl/"
     },
     {
       "english": "pronounce",
@@ -1072,7 +1190,8 @@
       "pos": "verb",
       "example_en": "Listen to the audio recording and pronounce each word clearly.",
       "example_uz": "Audio yozuvni tinglang va har bir soʻzni aniq talaffuz qiling.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/prəˈnaʊns/"
     },
     {
       "english": "translate",
@@ -1081,7 +1200,8 @@
       "pos": "verb",
       "example_en": "Translate these five sentences from Uzbek into English.",
       "example_uz": "Ushbu beshta gapni oʻzbek tilidan ingliz tiliga tarjima qiling.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/trænzˈleɪt/"
     },
     {
       "english": "recite",
@@ -1090,7 +1210,8 @@
       "pos": "verb",
       "example_en": "She stood in front of the class to recite the poem.",
       "example_uz": "U sheʼrni yoddan aytib berish uchun sinf oldiga chiqdi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/rəˈsaɪt/"
     },
     {
       "english": "solve",
@@ -1099,7 +1220,8 @@
       "pos": "verb",
       "example_en": "It took him fifteen minutes to solve the logic puzzle.",
       "example_uz": "Mantiqiy boshqotirmani yechish uchun unga oʻn besh daqiqa kerak boʻldi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/sɑlv/"
     },
     {
       "english": "erase",
@@ -1108,7 +1230,8 @@
       "pos": "verb",
       "example_en": "Wait until everyone finishes copying before you erase the board.",
       "example_uz": "Doskani oʻchirishdan oldin hamma koʻchirib boʻlishini kuting.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ɪˈreɪs/"
     },
     {
       "english": "underline",
@@ -1117,7 +1240,8 @@
       "pos": "verb",
       "example_en": "Underline all the adjectives in the paragraph with a pencil.",
       "example_uz": "Abzasdagi barcha sifatlarning tagiga qalam bilan chizing.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈəndərˌlaɪn/"
     },
     {
       "english": "pass",
@@ -1126,7 +1250,8 @@
       "pos": "verb",
       "example_en": "Everyone in our group studied hard to pass the final test.",
       "example_uz": "Guruhimizdagi hamma yakuniy sinovdan oʻtish uchun qattiq oʻqidi.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/pæs/"
     },
     {
       "english": "praise",
@@ -1135,7 +1260,8 @@
       "pos": "verb",
       "example_en": "Teachers praise students who show diligence and kindness.",
       "example_uz": "Oʻqituvchilar tirishqoqlik va mehribonlik koʻrsatgan oʻquvchilarni maqtaydilar.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/preɪz/"
     },
     {
       "english": "punish",
@@ -1144,7 +1270,8 @@
       "pos": "verb",
       "example_en": "Instead of trying to punish mistakes, help pupils learn from them.",
       "example_uz": "Xatolarni jazolashga urinish oʻrniga, oʻquvchilarga ulardan saboq olishga yordam bering.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/ˈpənɪʃ/"
     },
     {
       "english": "attentive",
@@ -1153,7 +1280,8 @@
       "pos": "adj",
       "example_en": "Be attentive when the teacher explains a new grammar rule.",
       "example_uz": "Oʻqituvchi yangi grammatik qoidani tushuntirayotganda diqqatli boʻling.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/əˈtɛntɪv/"
     },
     {
       "english": "compulsory",
@@ -1162,7 +1290,8 @@
       "pos": "adj",
       "example_en": "Eleven years of schooling is compulsory for all children.",
       "example_uz": "Oʻn bir yillik maktab taʼlimi barcha bolalar uchun majburiydir.",
-      "category": "Maktab, sinfxona va oʻquv qurollari"
+      "category": "Maktab, sinfxona va oʻquv qurollari",
+      "ipa": "/kəmˈpəlsəri/"
     }
   ]
 }

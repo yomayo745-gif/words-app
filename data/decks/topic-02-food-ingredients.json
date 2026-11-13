@@ -10,7 +10,8 @@
       "pos": "noun",
       "example_en": "Sweet dried apricots from Fergana are famous everywhere.",
       "example_uz": "Fargʻonaning shirin turshagi hamma joyda mashhur.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈeɪprəˌkɑt/"
     },
     {
       "english": "pomegranate",
@@ -19,7 +20,8 @@
       "pos": "noun",
       "example_en": "Ruby-red pomegranate seeds are rich in vitamins.",
       "example_uz": "Yoqutdek qizil anor donalari vitaminlarga boy.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˌpɑməˈgrænət/"
     },
     {
       "english": "quince",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "Sliced quince adds a wonderful aroma to Uzbek pilaf.",
       "example_uz": "Toʻgʻralgan behi oʻzbek paloviga ajoyib ifor beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/kwɪns/"
     },
     {
       "english": "persimmon",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "Ripe autumn persimmons are soft and honey-sweet.",
       "example_uz": "Pishgan kuzgi xurmolar yumshoq va asaldek shirin boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/persimmon/"
     },
     {
       "english": "fig",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "We picked fresh purple figs right from the tree.",
       "example_uz": "Biz daraxtning oʻzidan yangi binafsharang anjirlarni uzdik.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/fɪg/"
     },
     {
       "english": "plum",
@@ -55,7 +60,8 @@
       "pos": "noun",
       "example_en": "She made a tart jam from dark purple plums.",
       "example_uz": "U toʻq binafsharang olxoʻridan nordonroq murabbo tayyorladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pləm/"
     },
     {
       "english": "pear",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "This juicy yellow pear melts in your mouth.",
       "example_uz": "Bu sersuv sariq nok ogʻzingizda eriydi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pɛr/"
     },
     {
       "english": "cherry",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "A bowl of chilled dark cherries sits on the table.",
       "example_uz": "Stol ustida bir kosa muzdek qora gilos turibdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈtʃɛri/"
     },
     {
       "english": "melon",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "Nothing beats a slice of fragrant Mirzachul melon in summer.",
       "example_uz": "Yozda bir tilim xushboʻy Mirzachoʻl qovuniga hech narsa yetmaydi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈmɛlən/"
     },
     {
       "english": "watermelon",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "We cooled the heavy striped watermelon in the stream.",
       "example_uz": "Biz ogʻir yoʻl-yoʻl tarvuzni soy suvida sovitdik.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈwɔtərˌmɛlən/"
     },
     {
       "english": "strawberry",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "Fresh strawberries taste great with thick cream.",
       "example_uz": "Yangi qulupnay quyuq qaymoq bilan juda mazali boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈstrɔˌbɛri/"
     },
     {
       "english": "raspberry",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "Hot tea with raspberry jam helps during a cold.",
       "example_uz": "Malina murabbosi qoʻshilgan issiq choy shamollashda yordam beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈræzˌbɛri/"
     },
     {
       "english": "blackberry",
@@ -118,7 +130,8 @@
       "pos": "noun",
       "example_en": "Wild blackberries grow along the mountain stream.",
       "example_uz": "Togʻ soyi boʻylab yovvoyi maymunjonlar oʻsadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈblækˌbɛri/"
     },
     {
       "english": "blueberry",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "She topped her morning oatmeal with fresh blueberries.",
       "example_uz": "U ertalabki suli boʻtqasi ustiga yangi chernika sepdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈbluˌbɛri/"
     },
     {
       "english": "cranberry",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "Cranberry juice has a refreshing sour taste.",
       "example_uz": "Klyukva sharbati tetiklantiruvchi nordon taʼmga ega.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkrænˌbɛri/"
     },
     {
       "english": "currant",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "Black currant leaves give a pleasant scent to pickles.",
       "example_uz": "Qoragʻat barglari tuzlamalarga yoqimli hid beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/currant/"
     },
     {
       "english": "mulberry",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "Children shook the branches to gather sweet white mulberries.",
       "example_uz": "Bolalar shirin oq tut terish uchun shoxlarni silkitishdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈməlˌbɛri/"
     },
     {
       "english": "tangerine",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "The scent of peeled tangerines reminds us of New Year.",
       "example_uz": "Archilgan mandarin hidi bizga Yangi yilni eslatadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˌtændʒərˈin/"
     },
     {
       "english": "grapefruit",
@@ -172,7 +190,8 @@
       "pos": "noun",
       "example_en": "Half a pink grapefruit makes a light breakfast.",
       "example_uz": "Yarimta pushti greypfrut yengil nonushta boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈgreɪpˌfrut/"
     },
     {
       "english": "lime",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "Squeeze a wedge of lime over the grilled fish.",
       "example_uz": "Qovurilgan baliq ustiga bir boʻlak laym suvini siqing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/laɪm/"
     },
     {
       "english": "pineapple",
@@ -190,7 +210,8 @@
       "pos": "noun",
       "example_en": "Cut away the prickly skin of the ripe pineapple.",
       "example_uz": "Pishgan ananasning tikanli poʻstlogʻini kesib tashlang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈpaɪˌnæpəl/"
     },
     {
       "english": "mango",
@@ -199,7 +220,8 @@
       "pos": "noun",
       "example_en": "The tropical mango has sweet orange flesh.",
       "example_uz": "Tropik mangoning shirin toʻq sariq eti bor.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈmæŋgoʊ/"
     },
     {
       "english": "coconut",
@@ -208,7 +230,8 @@
       "pos": "noun",
       "example_en": "She sprinkled shredded coconut over the cake.",
       "example_uz": "U tort ustiga qirgʻichdan chiqarilgan kokos sepdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkoʊkəˌnət/"
     },
     {
       "english": "avocado",
@@ -217,7 +240,8 @@
       "pos": "noun",
       "example_en": "Mash the ripe avocado with lemon juice and salt.",
       "example_uz": "Pishgan avokadoni limon suvi va tuz bilan ezing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˌævəˈkɑdoʊ/"
     },
     {
       "english": "kiwifruit",
@@ -226,7 +250,8 @@
       "pos": "noun",
       "example_en": "Peel the fuzzy brown kiwifruit to reveal the green inside.",
       "example_uz": "Yashil ichki qismini ochish uchun tukli jigarrang kivini arching.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/kiwifruit/"
     },
     {
       "english": "raisin",
@@ -235,7 +260,8 @@
       "pos": "noun",
       "example_en": "Black raisins are dried in the shade for maximum sweetness.",
       "example_uz": "Qora mayiz eng yuqori shirinlikka erishish uchun soyada quritiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈreɪzɪn/"
     },
     {
       "english": "prune",
@@ -244,7 +270,8 @@
       "pos": "noun",
       "example_en": "Stewed beef with prunes is a rich winter dish.",
       "example_uz": "Quritilgan olxoʻri bilan dimlangan mol goʻshti toʻyimli qishki taomdir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/prun/"
     },
     {
       "english": "eggplant",
@@ -253,7 +280,8 @@
       "pos": "noun",
       "example_en": "Brush the eggplant slices with olive oil before grilling.",
       "example_uz": "Grilda pishirishdan oldin baqlajon boʻlaklariga zaytun yogʻi surting.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈɛgˌplænt/"
     },
     {
       "english": "zucchini",
@@ -262,7 +290,8 @@
       "pos": "noun",
       "example_en": "Grated zucchini makes tender vegetable pancakes.",
       "example_uz": "Qirgʻichdan chiqarilgan qovoqchadan yumshoq sabzavotli quymoq chiqadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/zuˈkini/"
     },
     {
       "english": "pumpkin",
@@ -271,7 +300,8 @@
       "pos": "noun",
       "example_en": "Baked samsa with sweet pumpkin is an autumn favorite.",
       "example_uz": "Shirin oshqovoqli somsa kuzning sevimli taomidir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈpəmpkɪn/"
     },
     {
       "english": "turnip",
@@ -280,7 +310,8 @@
       "pos": "noun",
       "example_en": "Boiled yellow turnip softens the broth of soup.",
       "example_uz": "Qaynatilgan sariq sholgʻom shoʻrva qaynatmasini yumshatadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈtərnəp/"
     },
     {
       "english": "radish",
@@ -289,7 +320,8 @@
       "pos": "noun",
       "example_en": "Green Margilan radish is served thinly sliced with pilaf.",
       "example_uz": "Yashil Margʻilon turpi palov bilan yupqa toʻgʻralgan holda tortiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈrædɪʃ/"
     },
     {
       "english": "beetroot",
@@ -298,7 +330,8 @@
       "pos": "noun",
       "example_en": "Red beetroot gives borscht its deep crimson color.",
       "example_uz": "Qizil lavlagi borshga toʻq qirmizi rang beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/beetroot/"
     },
     {
       "english": "cauliflower",
@@ -307,7 +340,8 @@
       "pos": "noun",
       "example_en": "Steam the cauliflower florets until they are just tender.",
       "example_uz": "Gulkaram boʻlaklarini yumshaguncha bugʻda pishiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkɑləˌflaʊər/"
     },
     {
       "english": "broccoli",
@@ -316,7 +350,8 @@
       "pos": "noun",
       "example_en": "Green broccoli retains its crunch when lightly stir-fried.",
       "example_uz": "Yashil brokkoli yengil qovurilganda qarsildoq holatini saqlab qoladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈbrɑkəli/"
     },
     {
       "english": "spinach",
@@ -325,7 +360,8 @@
       "pos": "noun",
       "example_en": "In spring we bake delicious green pastries stuffed with spinach.",
       "example_uz": "Bahorda ismaloq solib mazali koʻk somsa va chuchvara pishiramiz.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈspɪnətʃ/"
     },
     {
       "english": "lettuce",
@@ -334,7 +370,8 @@
       "pos": "noun",
       "example_en": "Wash the crisp lettuce leaves in cold water.",
       "example_uz": "Qarsildoq salat barglarini sovuq suvda yuving.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈlɛtəs/"
     },
     {
       "english": "celery",
@@ -343,7 +380,8 @@
       "pos": "noun",
       "example_en": "Chop two stalks of celery for the chicken soup.",
       "example_uz": "Tovuq shoʻrvasi uchun ikki poya selderey toʻgʻrang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsɛləri/"
     },
     {
       "english": "asparagus",
@@ -352,7 +390,8 @@
       "pos": "noun",
       "example_en": "Roast the green asparagus spears with garlic and butter.",
       "example_uz": "Yashil sarsabil poyalarini sarimsoq va sariyogʻ bilan duxovkada pishiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/əˈspɛrəgəs/"
     },
     {
       "english": "artichoke",
@@ -361,7 +400,8 @@
       "pos": "noun",
       "example_en": "Marinated artichoke hearts are popular in Mediterranean salads.",
       "example_uz": "Marinadlangan artishok oʻzaklari Oʻrta yer dengizi salatlarida mashhur.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈɑrtɪˌtʃoʊk/"
     },
     {
       "english": "leek",
@@ -370,7 +410,8 @@
       "pos": "noun",
       "example_en": "Slice the white part of the leek into thin rings.",
       "example_uz": "Porey piyozining oq qismini yupqa halqalar qilib toʻgʻrang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/lik/"
     },
     {
       "english": "scallion",
@@ -379,7 +420,8 @@
       "pos": "noun",
       "example_en": "Sprinkle chopped scallions on top of the hot broth.",
       "example_uz": "Issiq shoʻrva ustiga toʻgʻralgan koʻk piyoz seping.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈskæljən/"
     },
     {
       "english": "bell pepper",
@@ -388,7 +430,8 @@
       "pos": "noun",
       "example_en": "Stuffed red and yellow bell peppers look colorful on the platter.",
       "example_uz": "Qiymalangan qizil va sariq bulgʻor qalampirlari laganda rang-barang koʻrinadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/bɛl ˈpɛpər/"
     },
     {
       "english": "chili",
@@ -397,7 +440,8 @@
       "pos": "noun",
       "example_en": "Add a small pod of red chili for extra heat.",
       "example_uz": "Qoʻshimcha achchiq taʼm uchun kichik qizil garmdori qoʻshing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈtʃɪli/"
     },
     {
       "english": "mushroom",
@@ -406,7 +450,8 @@
       "pos": "noun",
       "example_en": "Sauté the sliced mushrooms in butter until golden.",
       "example_uz": "Toʻgʻralgan qoʻziqorinlarni tillarang boʻlguncha sariyogʻda qovuring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈməʃrum/"
     },
     {
       "english": "corn",
@@ -415,7 +460,8 @@
       "pos": "noun",
       "example_en": "Boiled sweet corn on the cob is a tasty summer snack.",
       "example_uz": "Soʻtasida qaynatilgan shirin makkajoʻxori mazali yozgi yegulikdir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/kɔrn/"
     },
     {
       "english": "pea",
@@ -424,7 +470,8 @@
       "pos": "noun",
       "example_en": "Fresh green peas are sweet and tender in May.",
       "example_uz": "Yangi koʻk noʻxat may oyida shirin va yumshoq boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pi/"
     },
     {
       "english": "chickpea",
@@ -433,7 +480,8 @@
       "pos": "noun",
       "example_en": "Soak the chickpeas overnight before cooking festive pilaf.",
       "example_uz": "Bayramona palov pishirishdan oldin noʻxatni tun boʻyi ivitib qoʻying.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/chickpea/"
     },
     {
       "english": "lentil",
@@ -442,7 +490,8 @@
       "pos": "noun",
       "example_en": "Red lentil soup cooks in less than thirty minutes.",
       "example_uz": "Qizil yasmiq shoʻrvasi oʻttiz daqiqadan kamroq vaqtda pishadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈlɛntəl/"
     },
     {
       "english": "soybean",
@@ -451,7 +500,8 @@
       "pos": "noun",
       "example_en": "Tofu and soy sauce are made from fermented soybeans.",
       "example_uz": "Tofu va soya sousi bijgʻitilgan soya loviyasidan tayyorlanadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsɔɪˌbin/"
     },
     {
       "english": "kidney bean",
@@ -460,7 +510,8 @@
       "pos": "noun",
       "example_en": "Add boiled red kidney beans to the hearty stew.",
       "example_uz": "Toʻyimli dimlamaga qaynatilgan qizil loviya qoʻshing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkɪdni bin/"
     },
     {
       "english": "walnut",
@@ -469,7 +520,8 @@
       "pos": "noun",
       "example_en": "Crushed walnuts are mixed with honey for a healthy treat.",
       "example_uz": "Foydali shirinlik uchun maydalangan yongʻoq asal bilan aralashtiriladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈwɔlˌnət/"
     },
     {
       "english": "almond",
@@ -478,7 +530,8 @@
       "pos": "noun",
       "example_en": "Roasted salted almonds are served alongside dried fruits.",
       "example_uz": "Qovurilgan shoʻr bodom quruq mevalar bilan birga tortiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈɑmənd/"
     },
     {
       "english": "pistachio",
@@ -487,7 +540,8 @@
       "pos": "noun",
       "example_en": "Green pistachios have a rich, slightly sweet flavor.",
       "example_uz": "Yashil xandon pista boy va biroz shirin taʼmga ega.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pəˈstæʃiˌoʊ/"
     },
     {
       "english": "hazelnut",
@@ -496,7 +550,8 @@
       "pos": "noun",
       "example_en": "Dark chocolate with whole hazelnuts is my favorite.",
       "example_uz": "Butun fundukli qora shokolad mening sevimli shirinligimdir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈheɪzəlˌnət/"
     },
     {
       "english": "peanut",
@@ -505,7 +560,8 @@
       "pos": "noun",
       "example_en": "Spread crunchy peanut butter on warm toast.",
       "example_uz": "Issiq qovurilgan non ustiga qarsildoq yerfistiq pastasini surting.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈpinət/"
     },
     {
       "english": "cashew",
@@ -514,7 +570,8 @@
       "pos": "noun",
       "example_en": "Creamy cashew nuts are often used in Asian stir-fries.",
       "example_uz": "Maʼzali keshyu yongʻoqlari koʻpincha Osiyo qovurma taomlarida ishlatiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkæˌʃu/"
     },
     {
       "english": "chestnut",
@@ -523,7 +580,8 @@
       "pos": "noun",
       "example_en": "Street vendors sell roasted chestnuts in winter.",
       "example_uz": "Koʻcha sotuvchilari qishda qovurilgan kashtan sotadilar.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈtʃɛsˌnət/"
     },
     {
       "english": "sesame",
@@ -532,7 +590,8 @@
       "pos": "noun",
       "example_en": "Hot tandoor bread is generously sprinkled with sesame seeds.",
       "example_uz": "Issiq tandir non ustiga moʻl qilib kunjut sepiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsɛsəmi/"
     },
     {
       "english": "sunflower seed",
@@ -541,7 +600,8 @@
       "pos": "noun",
       "example_en": "Toasted sunflower seeds add crunch to fresh salads.",
       "example_uz": "Qovurilgan kungaboqar pistasi yangi salatlarga qarsildoqlik qoʻshadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsənˌflaʊər sid/"
     },
     {
       "english": "poppy seed",
@@ -550,7 +610,8 @@
       "pos": "noun",
       "example_en": "The sweet roll is filled with black poppy seed paste.",
       "example_uz": "Shirin bulochka ichiga qora koʻknor urugʻi pastasi solingan.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈpɑpi sid/"
     },
     {
       "english": "parsley",
@@ -559,7 +620,8 @@
       "pos": "noun",
       "example_en": "Garnish the boiled potatoes with chopped fresh parsley.",
       "example_uz": "Qaynatilgan kartoshkani toʻgʻralgan yangi petrushka bilan bezang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈpɑrsli/"
     },
     {
       "english": "dill",
@@ -568,7 +630,8 @@
       "pos": "noun",
       "example_en": "Fragrant green dill pairs wonderfully with sour cream.",
       "example_uz": "Xushboʻy yashil shivit smetana bilan ajoyib uygʻunlashadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/dɪl/"
     },
     {
       "english": "cilantro",
@@ -577,7 +640,8 @@
       "pos": "noun",
       "example_en": "Fresh cilantro is essential in Uzbek tomato and onion salad.",
       "example_uz": "Yangi kashnich oʻzbek pomidor-piyoz salatida juda muhim.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/sɪˈlænˌtroʊ/"
     },
     {
       "english": "basil",
@@ -586,7 +650,8 @@
       "pos": "noun",
       "example_en": "Purple and green basil leaves give off a sweet spicy aroma.",
       "example_uz": "Binafsharang va yashil rayhon barglari shirin xushboʻy ifor taratadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈbæzəl/"
     },
     {
       "english": "mint",
@@ -595,7 +660,8 @@
       "pos": "noun",
       "example_en": "Put a sprig of fresh mint into the teapot.",
       "example_uz": "Choynakka bir shoxcha yangi yalpiz soling.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/mɪnt/"
     },
     {
       "english": "rosemary",
@@ -604,7 +670,8 @@
       "pos": "noun",
       "example_en": "Roast lamb with sprigs of rosemary and garlic.",
       "example_uz": "Qoʻy goʻshtini rozmarin shoxchalari va sarimsoq bilan duxovkada pishiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈroʊzˌmɛri/"
     },
     {
       "english": "thyme",
@@ -613,7 +680,8 @@
       "pos": "noun",
       "example_en": "Dried mountain thyme makes an aromatic herbal tea.",
       "example_uz": "Quritilgan togʻjambildan xushboʻy giyohli choy chiqadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/θaɪm/"
     },
     {
       "english": "oregano",
@@ -622,7 +690,8 @@
       "pos": "noun",
       "example_en": "Sprinkle dried oregano over the tomato pizza sauce.",
       "example_uz": "Pomidorli pitssa sousi ustiga quritilgan oregano seping.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˌɔˈrɛgəˌnoʊ/"
     },
     {
       "english": "bay leaf",
@@ -631,7 +700,8 @@
       "pos": "noun",
       "example_en": "Drop two bay leaves into the simmering pot of soup.",
       "example_uz": "Biqirlab qaynayotgan shoʻrva qozoniga ikkita dafna yaprogʻi tashlang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/beɪ lif/"
     },
     {
       "english": "cumin",
@@ -640,7 +710,8 @@
       "pos": "noun",
       "example_en": "Rubbing cumin seeds between your palms releases their aroma.",
       "example_uz": "Zira donalarini kaftlar orasida ishqalash ularning xushboʻy hidini chiqaradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkjumən/"
     },
     {
       "english": "coriander",
@@ -649,7 +720,8 @@
       "pos": "noun",
       "example_en": "Ground coriander seeds are used to season marinades.",
       "example_uz": "Maydalangan kashnich urugʻlari marinadlarni xushboʻylash uchun ishlatiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˌkɔriˈændər/"
     },
     {
       "english": "cinnamon",
@@ -658,7 +730,8 @@
       "pos": "noun",
       "example_en": "Apple pie smells delicious with a pinch of cinnamon.",
       "example_uz": "Olma pirogi bir chimdim dolchin bilan ajoyib hid taratadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsɪnəmən/"
     },
     {
       "english": "ginger",
@@ -667,7 +740,8 @@
       "pos": "noun",
       "example_en": "Grated fresh ginger adds warmth to lemon tea.",
       "example_uz": "Qirgʻichdan chiqarilgan yangi zanjabil limonli choyga harorat bagʻishlaydi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈdʒɪndʒər/"
     },
     {
       "english": "turmeric",
@@ -676,7 +750,8 @@
       "pos": "noun",
       "example_en": "A spoonful of turmeric turns the rice bright golden.",
       "example_uz": "Bir qoshiq zarchava guruchni yorqin tillarangga kiritadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/turmeric/"
     },
     {
       "english": "saffron",
@@ -685,7 +760,8 @@
       "pos": "noun",
       "example_en": "Saffron threads are one of the most precious spices in the world.",
       "example_uz": "Zaʼfaron tolalari dunyodagi eng qimmatbaho ziravorlardan biridir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsæfrən/"
     },
     {
       "english": "paprika",
@@ -694,7 +770,8 @@
       "pos": "noun",
       "example_en": "Smoked paprika gives the stew a rich red color.",
       "example_uz": "Dudlangan paprika dimlamaga boy qizil rang beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pæˈprikə/"
     },
     {
       "english": "clove",
@@ -703,7 +780,8 @@
       "pos": "noun",
       "example_en": "Whole cloves are used in spiced winter beverages.",
       "example_uz": "Butun qalampirmunchoqlar ziravorli qishki ichimliklarda ishlatiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/clove/"
     },
     {
       "english": "nutmeg",
@@ -712,7 +790,8 @@
       "pos": "noun",
       "example_en": "Grate a tiny bit of nutmeg into the white cream sauce.",
       "example_uz": "Oq qaymoqli sousga ozgina muskat yongʻogʻidan qirib soling.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈnətˌmɛg/"
     },
     {
       "english": "cardamom",
@@ -721,7 +800,8 @@
       "pos": "noun",
       "example_en": "Crushed green cardamom pods flavor traditional coffee.",
       "example_uz": "Ezilgan yashil kardamon donalari anʼanaviy qahvaga taʼm beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/cardamom/"
     },
     {
       "english": "vanilla",
@@ -730,7 +810,8 @@
       "pos": "noun",
       "example_en": "Add a few drops of natural vanilla extract to the batter.",
       "example_uz": "Xamirga bir necha tomchi tabiiy vanil ekstrakti qoʻshing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/vəˈnɪlə/"
     },
     {
       "english": "barberry",
@@ -739,7 +820,8 @@
       "pos": "noun",
       "example_en": "Dried black barberries add a pleasant sourness to pilaf.",
       "example_uz": "Quritilgan qora zirk palovga yoqimli nordonlik qoʻshadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/barberry/"
     },
     {
       "english": "mustard",
@@ -748,7 +830,8 @@
       "pos": "noun",
       "example_en": "He spread spicy yellow mustard on his sausage sandwich.",
       "example_uz": "U kolbasali sendvichiga achchiq sariq xantal surtdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈməstərd/"
     },
     {
       "english": "vinegar",
@@ -757,7 +840,8 @@
       "pos": "noun",
       "example_en": "Dress the thinly sliced onions with grape vinegar.",
       "example_uz": "Yupqa toʻgʻralgan piyozga uzum sirkasi seping.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈvɪnəgər/"
     },
     {
       "english": "mayonnaise",
@@ -766,7 +850,8 @@
       "pos": "noun",
       "example_en": "Mix the diced boiled vegetables with a spoon of mayonnaise.",
       "example_uz": "Kubik qilib toʻgʻralgan qaynatilgan sabzavotlarni bir qoshiq mayonez bilan aralashtiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈmeɪəˌneɪz/"
     },
     {
       "english": "ketchup",
@@ -775,7 +860,8 @@
       "pos": "noun",
       "example_en": "The kids love dipping roasted potatoes in tomato ketchup.",
       "example_uz": "Bolalar qovurilgan kartoshkani pomidor ketchupiga botirib yeyishni yaxshi koʻradilar.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkɛtʃəp/"
     },
     {
       "english": "soy sauce",
@@ -784,7 +870,8 @@
       "pos": "noun",
       "example_en": "Season the fried noodles with dark soy sauce.",
       "example_uz": "Qovurilgan ugrani toʻq soya sousi bilan taʼmlang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/sɔɪ sɔs/"
     },
     {
       "english": "olive",
@@ -793,7 +880,8 @@
       "pos": "noun",
       "example_en": "Green and black olives are pressed to make healthy oil.",
       "example_uz": "Foydali yogʻ olish uchun yashil va qora zaytunlar siqiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈɑləv/"
     },
     {
       "english": "wheat",
@@ -802,7 +890,8 @@
       "pos": "noun",
       "example_en": "Golden fields of wheat are harvested in mid-summer.",
       "example_uz": "Oltin bugʻdoy dalalari yoz oʻrtalarida oʻrib olinadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/wit/"
     },
     {
       "english": "barley",
@@ -811,7 +900,8 @@
       "pos": "noun",
       "example_en": "Pearl barley makes a thick and nutritious soup.",
       "example_uz": "Tozalangan arpa yormasidan quyuq va toʻyimli shoʻrva chiqadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈbɑrli/"
     },
     {
       "english": "oats",
@@ -820,7 +910,8 @@
       "pos": "noun",
       "example_en": "Rolled oats cooked in milk make a warm breakfast.",
       "example_uz": "Sutda pishirilgan suli yormasi issiq nonushta boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/oʊts/"
     },
     {
       "english": "rye",
@@ -829,7 +920,8 @@
       "pos": "noun",
       "example_en": "Dark rye bread stays fresh for several days.",
       "example_uz": "Qora javdar noni bir necha kun yangidek turadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/raɪ/"
     },
     {
       "english": "buckwheat",
@@ -838,7 +930,8 @@
       "pos": "noun",
       "example_en": "Boiled buckwheat is rich in iron and protein.",
       "example_uz": "Qaynatilgan grechka temir moddasi va oqsilga boy.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈbəkˌwit/"
     },
     {
       "english": "millet",
@@ -847,7 +940,8 @@
       "pos": "noun",
       "example_en": "Sweet millet porridge is cooked with pumpkin and milk.",
       "example_uz": "Shirin tariq boʻtqasi oshqovoq va sut bilan pishiriladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈmɪlət/"
     },
     {
       "english": "semolina",
@@ -856,7 +950,8 @@
       "pos": "noun",
       "example_en": "Stir the semolina constantly so no lumps form.",
       "example_uz": "Quymoqlanib qolmasligi uchun manniy yormasini tinmay aralashtiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˌsɛməˈlinə/"
     },
     {
       "english": "cornmeal",
@@ -865,7 +960,8 @@
       "pos": "noun",
       "example_en": "Yellow cornmeal gives the baked bread a crumbly texture.",
       "example_uz": "Sariq makkajoʻxori uni yopilgan nonga uvalanuvchan tuzilish beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkɔrnˌmil/"
     },
     {
       "english": "bran",
@@ -874,7 +970,8 @@
       "pos": "noun",
       "example_en": "Wheat bran is added to dough for extra dietary fiber.",
       "example_uz": "Qoʻshimcha kletchatka uchun xamirga bugʻdoy kepagi qoʻshiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/bræn/"
     },
     {
       "english": "starch",
@@ -883,7 +980,8 @@
       "pos": "noun",
       "example_en": "Dissolve a teaspoon of corn starch in cold water to thicken the sauce.",
       "example_uz": "Sousni quyultirish uchun bir choy qoshiq makkajoʻxori kraxmalini sovuq suvda eriting.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/stɑrtʃ/"
     },
     {
       "english": "yeast",
@@ -892,7 +990,8 @@
       "pos": "noun",
       "example_en": "Dissolve dry yeast in warm water and let the dough rise.",
       "example_uz": "Quruq xamirturushni iliq suvda eritib, xamir oshishiga qoʻying.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/jist/"
     },
     {
       "english": "dough",
@@ -901,7 +1000,8 @@
       "pos": "noun",
       "example_en": "Knead the elastic bread dough for ten minutes.",
       "example_uz": "Qayishqoq non xamirini oʻn daqiqa davomida mushtlang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/doʊ/"
     },
     {
       "english": "noodle",
@@ -910,7 +1010,8 @@
       "pos": "noun",
       "example_en": "She stretched the hand-pulled lagman noodles skillfully.",
       "example_uz": "U choʻzma lagʻmon xamirini mahorat bilan choʻzdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈnudəl/"
     },
     {
       "english": "pasta",
@@ -919,7 +1020,8 @@
       "pos": "noun",
       "example_en": "Boil the Italian pasta in salted water for eight minutes.",
       "example_uz": "Italyan makaronini tuzli suvda sakkiz daqiqa qaynating.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈpɑstə/"
     },
     {
       "english": "macaroni",
@@ -928,7 +1030,8 @@
       "pos": "noun",
       "example_en": "Baked macaroni with melted cheese is quick to prepare.",
       "example_uz": "Eritilgan pishloqli makaron pishirigʻi tez tayyor boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˌmækərˈoʊni/"
     },
     {
       "english": "cream",
@@ -937,7 +1040,8 @@
       "pos": "noun",
       "example_en": "Fresh village cream is delicious with hot tandoor bread.",
       "example_uz": "Qishloqning yangi qaymogʻi issiq tandir non bilan juda mazali.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/krim/"
     },
     {
       "english": "sour cream",
@@ -946,7 +1050,8 @@
       "pos": "noun",
       "example_en": "Add a dollop of sour cream to the hot pelmeni.",
       "example_uz": "Issiq chuchvara ustiga bir qoshiq smetana soling.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/saʊər krim/"
     },
     {
       "english": "yogurt",
@@ -955,7 +1060,8 @@
       "pos": "noun",
       "example_en": "Cold homemade yogurt refreshes you on a hot afternoon.",
       "example_uz": "Uyda ivitilgan muzdek qatiq issiq kunda odamni tetiklashtiradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈjoʊgərt/"
     },
     {
       "english": "cottage cheese",
@@ -964,7 +1070,8 @@
       "pos": "noun",
       "example_en": "Mix cottage cheese with raisins for breakfast.",
       "example_uz": "Nonushta uchun tvorogni mayiz bilan aralashtiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkɑtədʒ tʃiz/"
     },
     {
       "english": "whey",
@@ -973,7 +1080,8 @@
       "pos": "noun",
       "example_en": "After straining the curds, clear yellow whey remains.",
       "example_uz": "Qatiq suzib olingandan soʻng tiniq sariq zardob qoladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/weɪ/"
     },
     {
       "english": "margarine",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "Some bakers use margarine for flaky pastry layers.",
       "example_uz": "Baʼzi novvoylar qatlama xamir uchun margarin ishlatadilar.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈmɑrdʒərən/"
     },
     {
       "english": "yolk",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "Brush the top of the samsa with beaten egg yolk.",
       "example_uz": "Somsa ustiga koʻpirtirilgan tuxum sarigʻi surting.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/joʊk/"
     },
     {
       "english": "egg white",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "Whisk the egg whites with sugar into stiff peaks.",
       "example_uz": "Tuxum oqini shakar bilan quyuq koʻpik boʻlguncha koʻpirtiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ɛg waɪt/"
     },
     {
       "english": "lamb",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "Tender lamb ribs are ideal for charcoal kebabs.",
       "example_uz": "Yumshoq qoʻzi qovurgʻalari koʻmirda kabob pishirish uchun juda mos.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/læm/"
     },
     {
       "english": "mutton",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "Traditional Uzbek pilaf is cooked with rich mutton.",
       "example_uz": "Anʼanaviy oʻzbek palovi yogʻli qoʻy goʻshti bilan pishiriladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈmətən/"
     },
     {
       "english": "veal",
@@ -1027,7 +1140,8 @@
       "pos": "noun",
       "example_en": "Lean veal cooks quickly and stays very tender.",
       "example_uz": "Yogʻsiz buzoq goʻshti tez pishadi va juda yumshoq qoladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/vil/"
     },
     {
       "english": "pork",
@@ -1036,7 +1150,8 @@
       "pos": "noun",
       "example_en": "The menu clearly marks which dishes contain pork.",
       "example_uz": "Menyuda qaysi taomlarda choʻchqa goʻshti borligi aniq koʻrsatilgan.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pɔrk/"
     },
     {
       "english": "turkey",
@@ -1045,7 +1160,8 @@
       "pos": "noun",
       "example_en": "Roast turkey breast is a lean source of protein.",
       "example_uz": "Duxovkada pishirilgan kurka toʻshi yogʻsiz oqsil manbaidir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈtərki/"
     },
     {
       "english": "duck",
@@ -1054,7 +1170,8 @@
       "pos": "noun",
       "example_en": "Crispy roast duck is served with sweet plum sauce.",
       "example_uz": "Qarsildoq qilib pishirilgan oʻrdak shirin olxoʻri sousi bilan tortiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/dək/"
     },
     {
       "english": "goose",
@@ -1063,7 +1180,8 @@
       "pos": "noun",
       "example_en": "They baked a whole goose stuffed with sour apples.",
       "example_uz": "Ular ichiga nordon olma toʻldirilgan butun gʻozni pishirishdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/gus/"
     },
     {
       "english": "quail",
@@ -1072,7 +1190,8 @@
       "pos": "noun",
       "example_en": "Fried quails are often placed on top of festive pilaf.",
       "example_uz": "Qovurilgan bedanalar koʻpincha bayram palovi ustiga qoʻyiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/kweɪl/"
     },
     {
       "english": "sausage",
@@ -1081,7 +1200,8 @@
       "pos": "noun",
       "example_en": "Homemade horsemeat sausage, qazi, is a prized delicacy.",
       "example_uz": "Uyda tayyorlangan ot goʻshti kolbasasi — qazi qadrli tansiq taomdir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsɔsədʒ/"
     },
     {
       "english": "minced meat",
@@ -1090,7 +1210,8 @@
       "pos": "noun",
       "example_en": "Mix the minced meat with finely chopped onions and cumin.",
       "example_uz": "Qiymani mayda toʻgʻralgan piyoz va zira bilan aralashtiring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/mɪnst mit/"
     },
     {
       "english": "steak",
@@ -1099,7 +1220,8 @@
       "pos": "noun",
       "example_en": "Sear the beef steak on a hot cast-iron skillet.",
       "example_uz": "Mol goʻshti steykini qizigan choʻyan tovada qovuring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/steɪk/"
     },
     {
       "english": "rib",
@@ -1108,7 +1230,8 @@
       "pos": "noun",
       "example_en": "Slow-cooked beef ribs fall right off the bone.",
       "example_uz": "Past olovda uzoq pishirilgan mol qovurgʻalari suyakdan oson ajraladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/rɪb/"
     },
     {
       "english": "liver",
@@ -1117,7 +1240,8 @@
       "pos": "noun",
       "example_en": "Grilled beef liver skewers cook in just a few minutes.",
       "example_uz": "Qoʻrada pishirilgan jigar kabob bir necha daqiqada tayyor boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈlɪvər/"
     },
     {
       "english": "salmon",
@@ -1126,7 +1250,8 @@
       "pos": "noun",
       "example_en": "Baked salmon fillets are rich in healthy omega fats.",
       "example_uz": "Pishirilgan losos filesi foydali omega yogʻlariga boy.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈsæmən/"
     },
     {
       "english": "trout",
@@ -1135,7 +1260,8 @@
       "pos": "noun",
       "example_en": "Fresh mountain river trout is grilled whole with lemon.",
       "example_uz": "Togʻ daryosining yangi gulmohi baligʻi limon bilan butunligicha pishiriladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/traʊt/"
     },
     {
       "english": "tuna",
@@ -1144,7 +1270,8 @@
       "pos": "noun",
       "example_en": "She made a quick salad with canned tuna and corn.",
       "example_uz": "U konservalangan tunets baligʻi va makkajoʻxoridan tez salat tayyorladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈtunə/"
     },
     {
       "english": "carp",
@@ -1153,7 +1280,8 @@
       "pos": "noun",
       "example_en": "Fried golden carp is a favorite dish near the Syrdarya.",
       "example_uz": "Qovurilgan tillarang sazan Sirdaryo boʻyidagi sevimli taomdir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/kɑrp/"
     },
     {
       "english": "catfish",
@@ -1162,7 +1290,8 @@
       "pos": "noun",
       "example_en": "Boneless catfish meat is great for frying in batter.",
       "example_uz": "Qiltanoqsiz laqqa baliq goʻshti klyarda qovurish uchun juda qulay.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkætˌfɪʃ/"
     },
     {
       "english": "herring",
@@ -1171,7 +1300,8 @@
       "pos": "noun",
       "example_en": "Salted herring is served with boiled potatoes and onion rings.",
       "example_uz": "Tuzlangan seld baligʻi qaynatilgan kartoshka va piyoz halqalari bilan tortiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈhɛrɪŋ/"
     },
     {
       "english": "shrimp",
@@ -1180,7 +1310,8 @@
       "pos": "noun",
       "example_en": "Sauté the peeled shrimp in garlic butter for three minutes.",
       "example_uz": "Tozalangan krevetkalarni sarimsoqli sariyogʻda uch daqiqa qovuring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ʃrɪmp/"
     },
     {
       "english": "prawn",
@@ -1189,7 +1320,8 @@
       "pos": "noun",
       "example_en": "Grilled tiger prawns are served with a wedge of lime.",
       "example_uz": "Grilda pishirilgan yirik krevetkalar bir boʻlak laym bilan tortiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/prɔn/"
     },
     {
       "english": "crab",
@@ -1198,7 +1330,8 @@
       "pos": "noun",
       "example_en": "Sweet white crab meat is used in seafood salads.",
       "example_uz": "Dengiz mahsulotlari salatlarida shirin oq krab goʻshti ishlatiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/kræb/"
     },
     {
       "english": "lobster",
@@ -1207,7 +1340,8 @@
       "pos": "noun",
       "example_en": "Steamed lobster is an expensive seafood dish.",
       "example_uz": "Bugʻda pishirilgan omar qimmatbaho dengiz taomidir.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈlɑbstər/"
     },
     {
       "english": "oyster",
@@ -1216,7 +1350,8 @@
       "pos": "noun",
       "example_en": "Fresh oysters are served on crushed ice with lemon.",
       "example_uz": "Yangi ustritsalar maydalangan muz ustida limon bilan tortiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈɔɪstər/"
     },
     {
       "english": "squid",
@@ -1225,7 +1360,8 @@
       "pos": "noun",
       "example_en": "Do not overcook squid or it will become rubbery.",
       "example_uz": "Kalmarni haddan ortiq pishirmang, aks holda rezina kabi qattiq boʻlib qoladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/skwɪd/"
     },
     {
       "english": "caviar",
@@ -1234,7 +1370,8 @@
       "pos": "noun",
       "example_en": "Red salmon caviar is spread on buttered pancakes.",
       "example_uz": "Qizil losos ikrasi sariyogʻ surtilgan quymoqlar ustiga qoʻyiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkæviˌɑr/"
     },
     {
       "english": "fillet",
@@ -1243,7 +1380,8 @@
       "pos": "noun",
       "example_en": "Cut the chicken fillet into bite-sized cubes.",
       "example_uz": "Tovuq filesini bir luqmalik kubiklar qilib toʻgʻrang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/fəˈleɪ/"
     },
     {
       "english": "rind",
@@ -1252,7 +1390,8 @@
       "pos": "noun",
       "example_en": "Candied watermelon rind can be made into sweet jam.",
       "example_uz": "Tarvuzning oq poʻstlogʻidan shirin murabbo tayyorlash mumkin.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/raɪnd/"
     },
     {
       "english": "peel",
@@ -1261,7 +1400,8 @@
       "pos": "noun",
       "example_en": "Grated orange peel adds fragrance to sponge cake.",
       "example_uz": "Qirgʻichdan chiqarilgan apelsin poʻsti biskvitga xushboʻylik beradi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pil/"
     },
     {
       "english": "shell",
@@ -1270,7 +1410,8 @@
       "pos": "noun",
       "example_en": "Crack the hard walnut shell with a nutcracker.",
       "example_uz": "Yongʻoqning qattiq poʻchogʻini yongʻoqchaqqich bilan chaqing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ʃɛl/"
     },
     {
       "english": "pit",
@@ -1279,7 +1420,8 @@
       "pos": "noun",
       "example_en": "Remove the pits from the cherries before making jam.",
       "example_uz": "Murabbo qilishdan oldin giloslarning danagini olib tashlang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pɪt/"
     },
     {
       "english": "seed",
@@ -1288,7 +1430,8 @@
       "pos": "noun",
       "example_en": "Scoop out the melon seeds with a large spoon.",
       "example_uz": "Qovun urugʻlarini katta qoshiq bilan qirib oling.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/sid/"
     },
     {
       "english": "kernel",
@@ -1297,7 +1440,8 @@
       "pos": "noun",
       "example_en": "Sweet apricot kernels are roasted with ash and salt.",
       "example_uz": "Shirin oʻrik danagi magʻzi kul va tuz bilan qovuriladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈkərnəl/"
     },
     {
       "english": "clove of garlic",
@@ -1306,7 +1450,8 @@
       "pos": "noun",
       "example_en": "Crush two cloves of garlic into the yogurt sauce.",
       "example_uz": "Qatiqli sousga ikki boʻlak sarimsoqni ezib soling.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/clove əv ˈgɑrlɪk/"
     },
     {
       "english": "pinch",
@@ -1315,7 +1460,8 @@
       "pos": "noun",
       "example_en": "Add a pinch of black pepper to the scrambled eggs.",
       "example_uz": "Quymoqqa bir chimdim qora murch qoʻshing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/pɪntʃ/"
     },
     {
       "english": "ripe",
@@ -1324,7 +1470,8 @@
       "pos": "adj",
       "example_en": "Only pick the tomatoes that are bright red and ripe.",
       "example_uz": "Faqat yorqin qizil va pishgan pomidorlarni uzing.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/raɪp/"
     },
     {
       "english": "unripe",
@@ -1333,7 +1480,8 @@
       "pos": "adj",
       "example_en": "Unripe green apricots are crunchy and sour.",
       "example_uz": "Pishmagan koʻk oʻrik gʻoʻralari qarsildoq va nordon boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/unripe/"
     },
     {
       "english": "rotten",
@@ -1342,7 +1490,8 @@
       "pos": "adj",
       "example_en": "Throw away the rotten apple so it doesn't spoil the rest.",
       "example_uz": "Qolganlarini buzmasligi uchun chirigan olmani tashlab yuboring.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈrɑtən/"
     },
     {
       "english": "stale",
@@ -1351,7 +1500,8 @@
       "pos": "adj",
       "example_en": "We used the stale bread to make crunchy croutons.",
       "example_uz": "Biz qotgan nondan qarsildoq suxariklar tayyorlashda foydalandik.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/steɪl/"
     },
     {
       "english": "spoiled",
@@ -1360,7 +1510,8 @@
       "pos": "adj",
       "example_en": "The milk smelled sour because it was spoiled.",
       "example_uz": "Sut aynib qolgani uchun undan nordon hid kelardi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/spɔɪld/"
     },
     {
       "english": "raw",
@@ -1369,7 +1520,8 @@
       "pos": "adj",
       "example_en": "Never eat raw chicken or undercooked meat.",
       "example_uz": "Hech qachon xom tovuq yoki chala pishgan goʻsht yemang.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/rɑ/"
     },
     {
       "english": "organic",
@@ -1378,7 +1530,8 @@
       "pos": "adj",
       "example_en": "These organic apples were grown without pesticides.",
       "example_uz": "Bu organik olmalar pestitsidlarsiz yetishtirilgan.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ɔrˈgænɪk/"
     },
     {
       "english": "juicy",
@@ -1387,7 +1540,8 @@
       "pos": "adj",
       "example_en": "The ripe peach was so juicy that it dripped down my chin.",
       "example_uz": "Pishgan shaftoli shunchalik sersuv ediki, iyagimdan oqib tushdi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈdʒusi/"
     },
     {
       "english": "seedless",
@@ -1396,7 +1550,8 @@
       "pos": "adj",
       "example_en": "Seedless green grapes are dried to make golden raisins.",
       "example_uz": "Danaksiz kishmish uzumlari oltinrang mayiz tayyorlash uchun quritiladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/seedless/"
     },
     {
       "english": "edible",
@@ -1405,7 +1560,8 @@
       "pos": "adj",
       "example_en": "Make sure the wild mushrooms are edible before picking them.",
       "example_uz": "Yovvoyi qoʻziqorinlarni terishdan oldin ularning isteʼmolga yaroqli ekanligiga ishonch hosil qiling.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈɛdəbəl/"
     },
     {
       "english": "nutritious",
@@ -1414,7 +1570,8 @@
       "pos": "adj",
       "example_en": "Walnuts and honey make a very nutritious snack.",
       "example_uz": "Yongʻoq va asal juda toʻyimli yegulik boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/nuˈtrɪʃəs/"
     },
     {
       "english": "nectarine",
@@ -1423,7 +1580,8 @@
       "pos": "noun",
       "example_en": "Smooth-skinned nectarines are sweet and fragrant in summer.",
       "example_uz": "Silliq poʻstli nektarinlar yozda shirin va xushboʻy boʻladi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/nectarine/"
     },
     {
       "english": "medlar",
@@ -1432,7 +1590,8 @@
       "pos": "noun",
       "example_en": "Wild red medlar berries grow in the Chimgan mountains.",
       "example_uz": "Chimyon togʻlarida yovvoyi qizil doʻlana mevalari oʻsadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈmɛdlər/"
     },
     {
       "english": "jujube",
@@ -1441,7 +1600,8 @@
       "pos": "noun",
       "example_en": "Dried jujube fruits are prized in traditional Eastern medicine.",
       "example_uz": "Quritilgan chilonjiyda mevalari Sharq tabobatida qadrlanadi.",
-      "category": "Meva, sabzavot va masalliqlar"
+      "category": "Meva, sabzavot va masalliqlar",
+      "ipa": "/ˈdʒuˌdʒub/"
     }
   ]
 }

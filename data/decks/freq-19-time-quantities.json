@@ -10,7 +10,8 @@
       "pos": "adj",
       "example_en": "Our office is on the second floor.",
       "example_uz": "Ofisimiz ikkinchi qavatda joylashgan.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsɛkənd (ˈsɛkənd)/"
     },
     {
       "english": "third",
@@ -19,7 +20,8 @@
       "pos": "adj",
       "example_en": "She won third prize in the contest.",
       "example_uz": "U tanlovda uchinchi oʻrinni egalladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/θərd/"
     },
     {
       "english": "fourth",
@@ -28,7 +30,8 @@
       "pos": "adj",
       "example_en": "July is the fourth month of the fiscal quarter.",
       "example_uz": "Iyul — toʻrtinchi oy.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/fɔrθ/"
     },
     {
       "english": "sixth",
@@ -37,7 +40,8 @@
       "pos": "adj",
       "example_en": "He finished in sixth place.",
       "example_uz": "U oltinchi oʻrinda marraga yetib keldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/sɪksθ/"
     },
     {
       "english": "seventh",
@@ -46,7 +50,8 @@
       "pos": "adj",
       "example_en": "Sunday is the seventh day of the week.",
       "example_uz": "Yakshanba — haftaning yettinchi kuni.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsɛvənθ/"
     },
     {
       "english": "eighth",
@@ -55,7 +60,8 @@
       "pos": "adj",
       "example_en": "Her birthday is on the eighth of March.",
       "example_uz": "Uning tugʻilgan kuni sakkizinchi martda.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/eɪtθ/"
     },
     {
       "english": "ninth",
@@ -64,7 +70,8 @@
       "pos": "adj",
       "example_en": "September is the ninth month of the year.",
       "example_uz": "Sentabr — yilning toʻqqizinchi oyi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/naɪnθ/"
     },
     {
       "english": "tenth",
@@ -73,7 +80,8 @@
       "pos": "adj",
       "example_en": "We celebrated our tenth anniversary.",
       "example_uz": "Biz oʻn yillik yubileyimizni nishonladik.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/tɛnθ/"
     },
     {
       "english": "eleventh",
@@ -82,7 +90,8 @@
       "pos": "adj",
       "example_en": "The goal was scored in the eleventh minute.",
       "example_uz": "Gol oʻn birinchi daqiqada urildi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ɪˈlɛvənθ/"
     },
     {
       "english": "twelfth",
@@ -91,7 +100,8 @@
       "pos": "adj",
       "example_en": "December is the twelfth month.",
       "example_uz": "Dekabr — oʻn ikkinchi oy.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/twɛlfθ/"
     },
     {
       "english": "twentieth",
@@ -100,7 +110,8 @@
       "pos": "adj",
       "example_en": "Jazz became popular in the twentieth century.",
       "example_uz": "Jazz yigirmanchi asrda mashhur boʻldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/tˈwɛntiˌɛθ/"
     },
     {
       "english": "twenty-first",
@@ -109,7 +120,8 @@
       "pos": "adj",
       "example_en": "We live in the twenty-first century.",
       "example_uz": "Biz yigirma birinchi asrda yashayapmiz.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/tˈwɛnti-fərst/"
     },
     {
       "english": "thirtieth",
@@ -118,7 +130,8 @@
       "pos": "adj",
       "example_en": "Today is his thirtieth birthday.",
       "example_uz": "Bugun uning oʻttiz yoshga toʻlgan kuni.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈθərtiˌɛθ/"
     },
     {
       "english": "hundredth",
@@ -127,7 +140,8 @@
       "pos": "adj",
       "example_en": "She was the hundredth customer today.",
       "example_uz": "U bugungi yuzinchi mijoz boʻldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈhəndrədθ/"
     },
     {
       "english": "thousandth",
@@ -136,7 +150,8 @@
       "pos": "adj",
       "example_en": "Even a thousandth of a second matters in racing.",
       "example_uz": "Poygada soniyaning mingdan bir ulushi ham ahamiyatli.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈθaʊzəndθ/"
     },
     {
       "english": "once",
@@ -145,7 +160,8 @@
       "pos": "adv",
       "example_en": "I go swimming once a week.",
       "example_uz": "Men haftada bir marta suzishga boraman.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/wəns/"
     },
     {
       "english": "twice",
@@ -154,7 +170,8 @@
       "pos": "adv",
       "example_en": "Brush your teeth twice a day.",
       "example_uz": "Tishlaringizni kuniga ikki marta yuving.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/twaɪs/"
     },
     {
       "english": "thrice",
@@ -163,7 +180,8 @@
       "pos": "adv",
       "example_en": "He knocked on the door thrice.",
       "example_uz": "U eshikni uch marta taqillatdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/θraɪs/"
     },
     {
       "english": "triple",
@@ -172,7 +190,8 @@
       "pos": "adj",
       "example_en": "Production increased to triple its previous size.",
       "example_uz": "Ishlab chiqarish avvalgi hajmidan uch barobar oshdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈtrɪpəl/"
     },
     {
       "english": "quadruple",
@@ -181,7 +200,8 @@
       "pos": "verb",
       "example_en": "The company hopes to quadruple its sales.",
       "example_uz": "Kompaniya savdo hajmini toʻrt barobar oshirishga umid qilmoqda.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/kwɑˈdrupəl/"
     },
     {
       "english": "multiple",
@@ -190,7 +210,8 @@
       "pos": "adj",
       "example_en": "She won multiple awards for her work.",
       "example_uz": "U oʻz mehnati uchun bir nechta mukofotlarni qoʻlga kiritdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈməltəpəl/"
     },
     {
       "english": "single",
@@ -199,7 +220,8 @@
       "pos": "adj",
       "example_en": "Not a single person was late.",
       "example_uz": "Birorta ham odam kechikmadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsɪŋgəl/"
     },
     {
       "english": "solo",
@@ -208,7 +230,8 @@
       "pos": "adj",
       "example_en": "He went on a solo trip across Asia.",
       "example_uz": "U Osiyo boʻylab yakka oʻzi sayohatga chiqdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsoʊˌloʊ/"
     },
     {
       "english": "pair",
@@ -217,7 +240,8 @@
       "pos": "noun",
       "example_en": "I bought a new pair of shoes.",
       "example_uz": "Men bir juft yangi poyabzal sotib oldim.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/pɛr/"
     },
     {
       "english": "couple",
@@ -226,7 +250,8 @@
       "pos": "noun",
       "example_en": "Wait a couple of minutes, please.",
       "example_uz": "Iltimos, ikki-uch daqiqa kutib turing.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈkəpəl/"
     },
     {
       "english": "half a dozen",
@@ -235,7 +260,8 @@
       "pos": "noun",
       "example_en": "There were half a dozen apples in the basket.",
       "example_uz": "Savatda oltita olma bor edi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/hæf ə ˈdəzən/"
     },
     {
       "english": "score (twenty)",
@@ -244,7 +270,8 @@
       "pos": "noun",
       "example_en": "A score of people gathered at the gate.",
       "example_uz": "Darvoza oldida yigirmatacha odam toʻplandi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/skɔr (tˈwɛnti)/"
     },
     {
       "english": "millennium",
@@ -253,7 +280,8 @@
       "pos": "noun",
       "example_en": "The city celebrated its second millennium.",
       "example_uz": "Shahar oʻzining ikki ming yilligini nishonladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/məˈlɛniəm/"
     },
     {
       "english": "era",
@@ -262,7 +290,8 @@
       "pos": "noun",
       "example_en": "The invention marked the beginning of a new era.",
       "example_uz": "Ixtiro yangi davr boshlanganini bildirdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈɛrə/"
     },
     {
       "english": "epoch",
@@ -271,7 +300,8 @@
       "pos": "noun",
       "example_en": "The printing press opened a new epoch in history.",
       "example_uz": "Bosmaxona tarixda yangi davrni ochdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈɛpək/"
     },
     {
       "english": "fortnight",
@@ -280,7 +310,8 @@
       "pos": "noun",
       "example_en": "We spent a fortnight by the sea.",
       "example_uz": "Biz dengiz boʻyida ikki hafta oʻtkazdik.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈfɔrtˌnaɪt/"
     },
     {
       "english": "weekday",
@@ -289,7 +320,8 @@
       "pos": "noun",
       "example_en": "The bank is open every weekday.",
       "example_uz": "Bank har bir ish kuni ochiq.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈwikˌdeɪ/"
     },
     {
       "english": "dawn",
@@ -298,7 +330,8 @@
       "pos": "noun",
       "example_en": "The farmers wake up at dawn.",
       "example_uz": "Dehqonlar tong saharda uygʻonishadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/dɔn/"
     },
     {
       "english": "sunrise",
@@ -307,7 +340,8 @@
       "pos": "noun",
       "example_en": "We watched the sunrise from the hill.",
       "example_uz": "Biz tepalikdan quyosh chiqishini tomosha qildik.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsənˌraɪz/"
     },
     {
       "english": "daybreak",
@@ -316,7 +350,8 @@
       "pos": "noun",
       "example_en": "They set off on their journey at daybreak.",
       "example_uz": "Ular tong otishi bilan safarga chiqishdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈdeɪˌbreɪk/"
     },
     {
       "english": "midday",
@@ -325,7 +360,8 @@
       "pos": "noun",
       "example_en": "The sun is strongest at midday.",
       "example_uz": "Quyosh tush paytida eng kuchli qizdiradi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈmɪdˌdeɪ/"
     },
     {
       "english": "noon",
@@ -334,7 +370,8 @@
       "pos": "noun",
       "example_en": "Lunch is served at noon.",
       "example_uz": "Tushlik peshinda tortiladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/nun/"
     },
     {
       "english": "twilight",
@@ -343,7 +380,8 @@
       "pos": "noun",
       "example_en": "We walked home in the twilight.",
       "example_uz": "Biz gʻira-shira oqshomda uyga piyoda qaytdik.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/tˈwaɪˌlaɪt/"
     },
     {
       "english": "dusk",
@@ -352,7 +390,8 @@
       "pos": "noun",
       "example_en": "Streetlights turn on at dusk.",
       "example_uz": "Koʻcha chiroqlari shom paytida yonadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/dəsk/"
     },
     {
       "english": "sunset",
@@ -361,7 +400,8 @@
       "pos": "noun",
       "example_en": "The sky turned orange at sunset.",
       "example_uz": "Quyosh botishida osmon zargʻaldoq rangga kirdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsənˌsɛt/"
     },
     {
       "english": "overnight",
@@ -370,7 +410,8 @@
       "pos": "adv",
       "example_en": "Success does not happen overnight.",
       "example_uz": "Muvaffaqiyat bir kechada kelmaydi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈoʊvərˈnaɪt/"
     },
     {
       "english": "biannual",
@@ -379,7 +420,8 @@
       "pos": "adj",
       "example_en": "We attend a biannual medical conference.",
       "example_uz": "Biz yiliga ikki marta oʻtkaziladigan tibbiy anjumanda qatnashamiz.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/baɪˈænuəl/"
     },
     {
       "english": "biennial",
@@ -388,7 +430,8 @@
       "pos": "adj",
       "example_en": "The art festival is a biennial event.",
       "example_uz": "Sanʼat festivali har ikki yilda bir boʻladigan tadbirdir.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/baɪˈɛniəl/"
     },
     {
       "english": "quarterly",
@@ -397,7 +440,8 @@
       "pos": "adj",
       "example_en": "Taxes are paid on a quarterly basis.",
       "example_uz": "Soliqlar har chorakda toʻlanadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/kˈwɔrtərli/"
     },
     {
       "english": "monthly",
@@ -406,7 +450,8 @@
       "pos": "adj",
       "example_en": "What is the monthly rent for this flat?",
       "example_uz": "Bu xonadonning oylik ijara haqi qancha?",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈmənθli/"
     },
     {
       "english": "weekly",
@@ -415,7 +460,8 @@
       "pos": "adj",
       "example_en": "We hold a weekly team meeting on Mondays.",
       "example_uz": "Dushanba kunlari haftalik jamoa yigʻilishini oʻtkazamiz.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈwikli/"
     },
     {
       "english": "hourly",
@@ -424,7 +470,8 @@
       "pos": "adj",
       "example_en": "Workers are paid an hourly wage.",
       "example_uz": "Ishchilarga soatbay ish haqi toʻlanadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈaʊrli/"
     },
     {
       "english": "instant",
@@ -433,7 +480,8 @@
       "pos": "noun",
       "example_en": "The message was delivered in an instant.",
       "example_uz": "Xabar bir lahzada yetkazildi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈɪnstənt/"
     },
     {
       "english": "momentary",
@@ -442,7 +490,8 @@
       "pos": "adj",
       "example_en": "There was a momentary pause in the conversation.",
       "example_uz": "Suhbatda bir lahzalik tanaffus boʻldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈmoʊmənˌtɛri/"
     },
     {
       "english": "temporary",
@@ -451,7 +500,8 @@
       "pos": "adj",
       "example_en": "This is only a temporary solution.",
       "example_uz": "Bu faqat vaqtinchalik yechim.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈtɛmpərˌɛri/"
     },
     {
       "english": "permanent",
@@ -460,7 +510,8 @@
       "pos": "adj",
       "example_en": "He found a permanent job in the city.",
       "example_uz": "U shahardan doimiy ish topdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈpərmɑˌnɛnt/"
     },
     {
       "english": "infinite",
@@ -469,7 +520,8 @@
       "pos": "adj",
       "example_en": "The universe seems almost infinite.",
       "example_uz": "Koinot deyarli cheksizdek tuyuladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈɪnfənət/"
     },
     {
       "english": "prior",
@@ -478,7 +530,8 @@
       "pos": "adj",
       "example_en": "No prior experience is required for this course.",
       "example_uz": "Bu kurs uchun avvalgi tajriba talab etilmaydi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/praɪər/"
     },
     {
       "english": "subsequent",
@@ -487,7 +540,8 @@
       "pos": "adj",
       "example_en": "Subsequent events proved that she was right.",
       "example_uz": "Keyingi voqealar uning haqligini isbotladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsəbsəkwənt/"
     },
     {
       "english": "simultaneous",
@@ -496,7 +550,8 @@
       "pos": "adj",
       "example_en": "The conference provides simultaneous translation.",
       "example_uz": "Anjumanda sinxron (bir vaqtdagi) tarjima taqdim etiladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˌsaɪməlˈteɪniəs/"
     },
     {
       "english": "meantime",
@@ -505,7 +560,8 @@
       "pos": "noun",
       "example_en": "In the meantime, please take a seat.",
       "example_uz": "Shu vaqt ichida, marhamat, oʻtiring.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈminˌtaɪm/"
     },
     {
       "english": "beforehand",
@@ -514,7 +570,8 @@
       "pos": "adv",
       "example_en": "We bought our train tickets beforehand.",
       "example_uz": "Biz poyezd chiptalarini oldindan sotib oldik.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/bɪˈfɔˌrhænd/"
     },
     {
       "english": "afterwards",
@@ -523,7 +580,8 @@
       "pos": "adv",
       "example_en": "Let's watch the film and talk about it afterwards.",
       "example_uz": "Keling, filmni koʻraylik va keyin u haqida gaplashamiz.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈæftərwərdz/"
     },
     {
       "english": "henceforth",
@@ -532,7 +590,8 @@
       "pos": "adv",
       "example_en": "Henceforth, the new rules will apply to all.",
       "example_uz": "Bundan buyon yangi qoidalar barchaga tatbiq etiladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈhɛnsˈfɔrθ/"
     },
     {
       "english": "now",
@@ -541,7 +600,8 @@
       "pos": "adv",
       "example_en": "We need to leave right now.",
       "example_uz": "Biz hoziroq yoʻlga chiqishimiz kerak.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/naʊ/"
     },
     {
       "english": "someday",
@@ -550,7 +610,8 @@
       "pos": "adv",
       "example_en": "I hope to visit Japan someday.",
       "example_uz": "Bir kun kelib Yaponiyaga borishga umid qilaman.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsəmˌdeɪ/"
     },
     {
       "english": "sometime",
@@ -559,7 +620,8 @@
       "pos": "adv",
       "example_en": "Let's have lunch together sometime next week.",
       "example_uz": "Kelasi hafta biror vaqtda birga tushlik qilaylik.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsəmˌtaɪm/"
     },
     {
       "english": "forever",
@@ -568,7 +630,8 @@
       "pos": "adv",
       "example_en": "True friendship lasts forever.",
       "example_uz": "Haqiqiy doʻstlik abadiy davom etadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/fərˈɛvər/"
     },
     {
       "english": "punctual",
@@ -577,7 +640,8 @@
       "pos": "adj",
       "example_en": "Please be punctual for the interview.",
       "example_uz": "Iltimos, suhbatga oʻz vaqtida keling.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈpəŋktʃuəl/"
     },
     {
       "english": "overdue",
@@ -586,7 +650,8 @@
       "pos": "adj",
       "example_en": "This library book is two weeks overdue.",
       "example_uz": "Kutubxonaning bu kitobini topshirish muddati ikki haftaga oʻtib ketibdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈoʊvərˈdu/"
     },
     {
       "english": "premature",
@@ -595,7 +660,8 @@
       "pos": "adj",
       "example_en": "It is premature to announce the winner now.",
       "example_uz": "Hozir gʻolibni eʼlon qilishga hali erta.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˌpriməˈtʃʊr/"
     },
     {
       "english": "chronological",
@@ -604,7 +670,8 @@
       "pos": "adj",
       "example_en": "List your work experience in chronological order.",
       "example_uz": "Ish tajribangizni vaqt tartibida yozib chiqing.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˌkrɑnəˈlɑdʒɪkəl/"
     },
     {
       "english": "span",
@@ -613,7 +680,8 @@
       "pos": "noun",
       "example_en": "Children have a short attention span.",
       "example_uz": "Bolalarning diqqatni jamlash muddati qisqa boʻladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/spæn/"
     },
     {
       "english": "spell (period)",
@@ -622,7 +690,8 @@
       "pos": "noun",
       "example_en": "We had a cold spell in November.",
       "example_uz": "Noyabr oyida qisqa muddatli sovuq tushdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/spɛl (ˈpɪriəd)/"
     },
     {
       "english": "phase",
@@ -631,7 +700,8 @@
       "pos": "noun",
       "example_en": "The construction is entering its final phase.",
       "example_uz": "Qurilish oʻzining yakuniy bosqichiga kirmoqda.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/feɪz/"
     },
     {
       "english": "stage",
@@ -640,7 +710,8 @@
       "pos": "noun",
       "example_en": "At this stage, we need more data.",
       "example_uz": "Ushbu bosqichda bizga koʻproq maʼlumotlar kerak.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/steɪdʒ/"
     },
     {
       "english": "deadline",
@@ -649,7 +720,8 @@
       "pos": "noun",
       "example_en": "Tomorrow is the deadline for applications.",
       "example_uz": "Ertaga arizalar topshirishning oxirgi muddati.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈdɛˌdlaɪn/"
     },
     {
       "english": "timetable",
@@ -658,7 +730,8 @@
       "pos": "noun",
       "example_en": "Check the train timetable before you go.",
       "example_uz": "Ketishdan oldin poyezdlar jadvalini tekshiring.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈtaɪmˌteɪbəl/"
     },
     {
       "english": "itinerary",
@@ -667,7 +740,8 @@
       "pos": "noun",
       "example_en": "Our tour itinerary includes Khiva and Bukhara.",
       "example_uz": "Sayohat yoʻnalishimiz Xiva va Buxoroni oʻz ichiga oladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/aɪˈtɪnərˌɛri/"
     },
     {
       "english": "agenda",
@@ -676,7 +750,8 @@
       "pos": "noun",
       "example_en": "What is the first item on the agenda?",
       "example_uz": "Kun tartibidagi birinchi masala nima?",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/əˈdʒɛndə/"
     },
     {
       "english": "timezone",
@@ -685,7 +760,8 @@
       "pos": "noun",
       "example_en": "London is in a different timezone from Tashkent.",
       "example_uz": "London Toshkentdan boshqa vaqt mintaqasida joylashgan.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈtaɪmzoʊn/"
     },
     {
       "english": "stopwatch",
@@ -694,7 +770,8 @@
       "pos": "noun",
       "example_en": "The coach timed the runner with a stopwatch.",
       "example_uz": "Murabbiy yuguruvchining vaqtini sekundomer bilan oʻlchadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈstɑpˌwɑtʃ/"
     },
     {
       "english": "hourglass",
@@ -703,7 +780,8 @@
       "pos": "noun",
       "example_en": "Sand flowed slowly through the hourglass.",
       "example_uz": "Qumsoat ichidan qum sekin oqib tushdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈaʊərˌglæs/"
     },
     {
       "english": "sundial",
@@ -712,7 +790,8 @@
       "pos": "noun",
       "example_en": "An ancient sundial stands in the garden.",
       "example_uz": "Bogʻda qadimiy quyosh soati turibdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsənˌdaɪl/"
     },
     {
       "english": "millimeter",
@@ -721,7 +800,8 @@
       "pos": "noun",
       "example_en": "The glass is five millimeters thick.",
       "example_uz": "Oyna besh millimetr qalinlikda.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈmɪləˌmitər/"
     },
     {
       "english": "meter",
@@ -730,7 +810,8 @@
       "pos": "noun",
       "example_en": "The swimming pool is fifty meters long.",
       "example_uz": "Suzish havzasining uzunligi ellik metr.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈmitər/"
     },
     {
       "english": "kilometer",
@@ -739,7 +820,8 @@
       "pos": "noun",
       "example_en": "The village is ten kilometers away.",
       "example_uz": "Qishloq oʻn kilometr uzoqlikda joylashgan.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/kəˈlɑmətər/"
     },
     {
       "english": "inch",
@@ -748,7 +830,8 @@
       "pos": "noun",
       "example_en": "The laptop has a fifteen-inch screen.",
       "example_uz": "Noutbuk oʻn besh dyuymli ekranga ega.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ɪntʃ/"
     },
     {
       "english": "foot (unit)",
@@ -757,7 +840,8 @@
       "pos": "noun",
       "example_en": "The plane is flying at thirty thousand feet.",
       "example_uz": "Samolyot oʻttiz ming fut balandlikda uchmoqda.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/fʊt (ˈjunət)/"
     },
     {
       "english": "yard (unit)",
@@ -766,7 +850,8 @@
       "pos": "noun",
       "example_en": "The house is just a hundred yards from the beach.",
       "example_uz": "Uy sohil boʻyidan atigi yuz yard uzoqlikda.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/jɑrd (ˈjunət)/"
     },
     {
       "english": "mile",
@@ -775,7 +860,8 @@
       "pos": "noun",
       "example_en": "We drove fifty miles along the coast.",
       "example_uz": "Biz qirgʻoq boʻylab ellik mil yoʻl yurdik.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/maɪl/"
     },
     {
       "english": "gram",
@@ -784,7 +870,8 @@
       "pos": "noun",
       "example_en": "Add two hundred grams of flour.",
       "example_uz": "Ikki yuz gramm un qoʻshing.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/græm/"
     },
     {
       "english": "kilogram",
@@ -793,7 +880,8 @@
       "pos": "noun",
       "example_en": "I bought two kilograms of cherries.",
       "example_uz": "Men ikki kilogramm gilos sotib oldim.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈkɪləˌgræm/"
     },
     {
       "english": "ton",
@@ -802,7 +890,8 @@
       "pos": "noun",
       "example_en": "The truck can carry ten tons of cargo.",
       "example_uz": "Yuk mashinasi oʻn tonna yuk koʻtara oladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/tən/"
     },
     {
       "english": "ounce",
@@ -811,7 +900,8 @@
       "pos": "noun",
       "example_en": "Gold is measured in troy ounces.",
       "example_uz": "Oltin troya unsiyalarida oʻlchanadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/aʊns/"
     },
     {
       "english": "pound (weight)",
@@ -820,7 +910,8 @@
       "pos": "noun",
       "example_en": "The baby weighed seven pounds at birth.",
       "example_uz": "Chaqaloq tugʻilganda yetti funt tosh bosdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/paʊnd (weɪt)/"
     },
     {
       "english": "milliliter",
@@ -829,7 +920,8 @@
       "pos": "noun",
       "example_en": "Take five milliliters of this syrup.",
       "example_uz": "Ushbu siropdan besh millilitr iching.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈmɪləˌlitər/"
     },
     {
       "english": "liter",
@@ -838,7 +930,8 @@
       "pos": "noun",
       "example_en": "Drink at least two liters of water a day.",
       "example_uz": "Kuniga kamida ikki litr suv iching.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈlitər/"
     },
     {
       "english": "pint",
@@ -847,7 +940,8 @@
       "pos": "noun",
       "example_en": "She bought a pint of fresh cream.",
       "example_uz": "U yarim litr yangi qaymoq sotib oldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/paɪnt/"
     },
     {
       "english": "drop (amount)",
@@ -856,7 +950,8 @@
       "pos": "noun",
       "example_en": "Put two drops of medicine in each eye.",
       "example_uz": "Har bir koʻzga ikki tomchidan dori tomizing.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/drɑp (əˈmaʊnt)/"
     },
     {
       "english": "pinch (amount)",
@@ -865,7 +960,8 @@
       "pos": "noun",
       "example_en": "Add a pinch of salt to the soup.",
       "example_uz": "Shoʻrvaga bir chimdim tuz qoʻshing.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/pɪntʃ (əˈmaʊnt)/"
     },
     {
       "english": "handful",
@@ -874,7 +970,8 @@
       "pos": "noun",
       "example_en": "Only a handful of people knew the secret.",
       "example_uz": "Sirni faqat sanoqli odamlargina bilar edi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈhændˌfʊl/"
     },
     {
       "english": "spoonful",
@@ -883,7 +980,8 @@
       "pos": "noun",
       "example_en": "Stir in a spoonful of honey.",
       "example_uz": "Bir qoshiq asal solib aralashtiring.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈspunˌfʊl/"
     },
     {
       "english": "cupful",
@@ -892,7 +990,8 @@
       "pos": "noun",
       "example_en": "Add a cupful of rice to the boiling water.",
       "example_uz": "Qaynab turgan suvga bir piyola guruch soling.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/cupful/"
     },
     {
       "english": "bucketful",
@@ -901,7 +1000,8 @@
       "pos": "noun",
       "example_en": "He poured a bucketful of water on the fire.",
       "example_uz": "U olov ustiga bir paqir suv quydi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/bucketful/"
     },
     {
       "english": "heap",
@@ -910,7 +1010,8 @@
       "pos": "noun",
       "example_en": "There is a heap of laundry in the basket.",
       "example_uz": "Savatda bir uyum kir kiyim bor.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/hip/"
     },
     {
       "english": "pile",
@@ -919,7 +1020,8 @@
       "pos": "noun",
       "example_en": "A pile of books lay on the table.",
       "example_uz": "Stol ustida bir taxlam kitob yotardi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/paɪl/"
     },
     {
       "english": "stack",
@@ -928,7 +1030,8 @@
       "pos": "noun",
       "example_en": "He carried a neat stack of papers.",
       "example_uz": "U bir dasta qogʻozni tartib bilan koʻtarib keldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/stæk/"
     },
     {
       "english": "cluster",
@@ -937,7 +1040,8 @@
       "pos": "noun",
       "example_en": "A cluster of stars shone brightly.",
       "example_uz": "Yulduzlar toʻpi charaqlab porlab turardi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈkləstər/"
     },
     {
       "english": "batch",
@@ -946,7 +1050,8 @@
       "pos": "noun",
       "example_en": "She baked a fresh batch of cookies.",
       "example_uz": "U yangi bir partiya pechenye pishirdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/bætʃ/"
     },
     {
       "english": "portion",
@@ -955,7 +1060,8 @@
       "pos": "noun",
       "example_en": "The restaurant serves generous portions.",
       "example_uz": "Restoran katta porsiyalarda ovqat tortadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈpɔrʃən/"
     },
     {
       "english": "share (part)",
@@ -964,7 +1070,8 @@
       "pos": "noun",
       "example_en": "Everyone did their fair share of the work.",
       "example_uz": "Hamma ishning oʻziga tegishli hissasini bajardi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ʃɛr (pɑrt)/"
     },
     {
       "english": "slice",
@@ -973,7 +1080,8 @@
       "pos": "noun",
       "example_en": "Would you like a slice of melon?",
       "example_uz": "Bir tilim qovun yeysizmi?",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/slaɪs/"
     },
     {
       "english": "chunk",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "A large chunk of ice fell into the sea.",
       "example_uz": "Katta bir muz boʻlagi dengizga qulab tushdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/tʃəŋk/"
     },
     {
       "english": "fragment",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "Archaeologists found fragments of ancient pottery.",
       "example_uz": "Arxeologlar qadimiy sopol parchalarini topishdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈfrægmənt/"
     },
     {
       "english": "crumb",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "The birds ate every crumb of bread.",
       "example_uz": "Qushlar nonning har bir ushogʻini yeb bitirishdi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/krəm/"
     },
     {
       "english": "grain (tiny piece)",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "There isn't a grain of truth in that rumor.",
       "example_uz": "U mish-mishda zarracha ham haqiqat yoʻq.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/greɪn (ˈtaɪni pis)/"
     },
     {
       "english": "speck",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "Not a speck of dust was on the shelf.",
       "example_uz": "Tokchada biror gard ham chang yoʻq edi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/spɛk/"
     },
     {
       "english": "shred",
@@ -1027,7 +1140,8 @@
       "pos": "noun",
       "example_en": "He tore the letter into shreds.",
       "example_uz": "U xatni mayda parchalarga boʻlib yirtib tashladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ʃrɛd/"
     },
     {
       "english": "strip",
@@ -1036,7 +1150,8 @@
       "pos": "noun",
       "example_en": "Cut the paper into narrow strips.",
       "example_uz": "Qogʻozni ensiz tasmalarga qirqib chiqing.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/strɪp/"
     },
     {
       "english": "slab",
@@ -1045,7 +1160,8 @@
       "pos": "noun",
       "example_en": "The path was paved with stone slabs.",
       "example_uz": "Yoʻlak tosh plitalar bilan qoplangan edi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/slæb/"
     },
     {
       "english": "block (piece)",
@@ -1054,7 +1170,8 @@
       "pos": "noun",
       "example_en": "He carved a statue from a block of wood.",
       "example_uz": "U yogʻoch boʻlagidan haykal yoʻndi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/blɑk (pis)/"
     },
     {
       "english": "bar (piece)",
@@ -1063,7 +1180,8 @@
       "pos": "noun",
       "example_en": "She bought a bar of dark chocolate.",
       "example_uz": "U bir boʻlak qora shokolad sotib oldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/bɑr (pis)/"
     },
     {
       "english": "loaf",
@@ -1072,7 +1190,8 @@
       "pos": "noun",
       "example_en": "Please buy a loaf of warm bread.",
       "example_uz": "Iltimos, bitta issiq non sotib oling.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/loʊf/"
     },
     {
       "english": "roll (paper/fabric)",
@@ -1081,7 +1200,8 @@
       "pos": "noun",
       "example_en": "We need a roll of wallpaper.",
       "example_uz": "Bizga bir oʻram gulqogʻoz kerak.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/roʊl (ˈpeɪpər/ˈfæbrɪk)/"
     },
     {
       "english": "sheet (layer)",
@@ -1090,7 +1210,8 @@
       "pos": "noun",
       "example_en": "Take a clean sheet of paper.",
       "example_uz": "Toza bir varaq qogʻoz oling.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ʃit (leɪər)/"
     },
     {
       "english": "coat (layer)",
@@ -1099,7 +1220,8 @@
       "pos": "noun",
       "example_en": "The wall needs a second coat of paint.",
       "example_uz": "Devorga ikkinchi qavat boʻyoq surtish kerak.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/koʊt (leɪər)/"
     },
     {
       "english": "majority",
@@ -1108,7 +1230,8 @@
       "pos": "noun",
       "example_en": "The majority of voters supported the plan.",
       "example_uz": "Saylovchilarning aksariyati rejani qoʻllab-quvvatladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/məˈdʒɔrəti/"
     },
     {
       "english": "minority",
@@ -1117,7 +1240,8 @@
       "pos": "noun",
       "example_en": "Only a small minority disagreed.",
       "example_uz": "Faqat kichik bir ozchilik norozi boʻldi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/maɪˈnɔrəti/"
     },
     {
       "english": "surplus",
@@ -1126,7 +1250,8 @@
       "pos": "noun",
       "example_en": "The country exports its grain surplus.",
       "example_uz": "Mamlakat oʻzining ortiqcha gʻallasini eksport qiladi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈsərpləs/"
     },
     {
       "english": "shortage",
@@ -1135,7 +1260,8 @@
       "pos": "noun",
       "example_en": "There is a shortage of skilled engineers.",
       "example_uz": "Malakali muhandislar yetishmovchiligi mavjud.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈʃɔrtədʒ/"
     },
     {
       "english": "scarcity",
@@ -1144,7 +1270,8 @@
       "pos": "noun",
       "example_en": "Water scarcity is a serious global issue.",
       "example_uz": "Suv tanqisligi jiddiy global muammodir.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈskɛrsɪti/"
     },
     {
       "english": "abundance",
@@ -1153,7 +1280,8 @@
       "pos": "noun",
       "example_en": "The region has an abundance of sunshine.",
       "example_uz": "Hududda quyosh nuri moʻl-koʻl.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/əˈbəndəns/"
     },
     {
       "english": "plenty",
@@ -1162,7 +1290,8 @@
       "pos": "pron",
       "example_en": "Don't hurry, we have plenty of time.",
       "example_uz": "Shoshilmang, vaqtimiz yetarli.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈplɛnti/"
     },
     {
       "english": "excess",
@@ -1171,7 +1300,8 @@
       "pos": "noun",
       "example_en": "Avoid eating sugar in excess.",
       "example_uz": "Shakarni meʼyoridan ortiq isteʼmol qilishdan saqlaning.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈɛkˌsɛs/"
     },
     {
       "english": "quota",
@@ -1180,7 +1310,8 @@
       "pos": "noun",
       "example_en": "The factory exceeded its monthly quota.",
       "example_uz": "Zavod oylik rejasini (kvotasini) ortigʻi bilan bajardi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/kˈwoʊtə/"
     },
     {
       "english": "ratio",
@@ -1189,7 +1320,8 @@
       "pos": "noun",
       "example_en": "The teacher-to-student ratio is one to fifteen.",
       "example_uz": "Oʻqituvchi va oʻquvchilar nisbati birga oʻn beshni tashkil etadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈreɪʃiˌoʊ/"
     },
     {
       "english": "proportion",
@@ -1198,7 +1330,8 @@
       "pos": "noun",
       "example_en": "A large proportion of our income goes to food.",
       "example_uz": "Daromadimizning katta ulushi oziq-ovqatga ketadi.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/prəˈpɔrʃən/"
     },
     {
       "english": "percentage",
@@ -1207,7 +1340,8 @@
       "pos": "noun",
       "example_en": "What percentage of the population speaks English?",
       "example_uz": "Aholining necha foizi ingliz tilida gaplashadi?",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/pərˈsɛntədʒ/"
     },
     {
       "english": "fraction",
@@ -1216,7 +1350,8 @@
       "pos": "noun",
       "example_en": "You can buy it for a fraction of the original cost.",
       "example_uz": "Uni asl narxining kichik bir qismiga sotib olishingiz mumkin.",
-      "category": "Vaqt, sonlar, oʻlchov va miqdorlar"
+      "category": "Vaqt, sonlar, oʻlchov va miqdorlar",
+      "ipa": "/ˈfrækʃən/"
     }
   ]
 }

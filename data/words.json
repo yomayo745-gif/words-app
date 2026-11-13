@@ -7,7 +7,8 @@
     "pos": "verb",
     "example_en": "Please accept my warm congratulations.",
     "example_uz": "Iltimos, samimiy tabriklarimni qabul qiling.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ækˈsɛpt/"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "pos": "verb",
     "example_en": "She worked hard to achieve her goal.",
     "example_uz": "U oʻz maqsadiga erishish uchun qattiq mehnat qildi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/əˈtʃiv/"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "pos": "verb",
     "example_en": "Add a little salt to the soup.",
     "example_uz": "Shoʻrvaga ozgina tuz qoʻshing.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/æd/"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "pos": "verb",
     "example_en": "I completely agree with your opinion.",
     "example_uz": "Men sizning fikringizga toʻliq qoʻshilaman.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/əˈgri/"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "pos": "verb",
     "example_en": "Parents do not allow children to stay out late.",
     "example_uz": "Ota-onalar bolalarga kech qolishga ruxsat bermaydilar.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/əˈlaʊ/"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "pos": "verb",
     "example_en": "Please answer the phone quickly.",
     "example_uz": "Iltimos, telefonga tezda javob bering.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˈænsər/"
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "pos": "verb",
     "example_en": "The train will arrive at eight o'clock.",
     "example_uz": "Poyezd soat sakkizda yetib keladi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/əraɪv/"
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "pos": "verb",
     "example_en": "Don't hesitate to ask a question.",
     "example_uz": "Savol soʻrashdan tortinmang.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/æsk/"
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "pos": "verb",
     "example_en": "Our English lessons begin in September.",
     "example_uz": "Ingliz tili darslarimiz sentyabrda boshlanadi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/bɪˈgɪn/"
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "pos": "verb",
     "example_en": "I believe that you can succeed.",
     "example_uz": "Men sizning muvaffaqiyatga erishishingizga ishonaman.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/bɪˈliv/"
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "pos": "verb",
     "example_en": "Can I borrow your pen for a minute?",
     "example_uz": "Ruchkangizni bir daqiqaga olib tursam maylimi?",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˈbɑˌroʊ/"
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@
     "pos": "verb",
     "example_en": "Please bring your notebook tomorrow.",
     "example_uz": "Iltimos, ertaga daftaringizni olib keling.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/brɪŋ/"
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@
     "pos": "verb",
     "example_en": "They plan to build a new school here.",
     "example_uz": "Ular bu yerda yangi maktab qurishni rejalashtirishmoqda.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/bɪld/"
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@
     "pos": "verb",
     "example_en": "We need to buy fresh bread from the bakery.",
     "example_uz": "Novvoyxonadan issiq non sotib olishimiz kerak.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/baɪ/"
   },
   {
     "id": 15,
@@ -147,7 +161,8 @@
     "pos": "verb",
     "example_en": "I will call you after the meeting.",
     "example_uz": "Yigʻilishdan keyin sizga qoʻngʻiroq qilaman.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/kɔl/"
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@
     "pos": "verb",
     "example_en": "Let me help you carry that heavy bag.",
     "example_uz": "Ushbu ogʻir sumkani koʻtarishga yordam beray.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˈkæri/"
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@
     "pos": "verb",
     "example_en": "You can change your password anytime.",
     "example_uz": "Parolingizni istalgan vaqtda oʻzgartirishingiz mumkin.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/tʃeɪndʒ/"
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "pos": "verb",
     "example_en": "Choose the right answer from the list.",
     "example_uz": "Roʻyxatdan toʻgʻri javobni tanlang.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/tʃuz/"
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@
     "pos": "verb",
     "example_en": "We clean our house every Saturday.",
     "example_uz": "Biz har shanba kuni uyimizni tozalaymiz.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/klin/"
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@
     "pos": "verb",
     "example_en": "Please close the window, it is cold.",
     "example_uz": "Iltimos, derazani yoping, havo sovuq.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/kloʊs/"
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@
     "pos": "verb",
     "example_en": "Come to visit us this weekend.",
     "example_uz": "Shu dam olish kunlari biznikiga mehmonga keling.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/kəm/"
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@
     "pos": "verb",
     "example_en": "Let's continue our conversation after lunch.",
     "example_uz": "Suhbatimizni tushlikdan soʻng davom ettiramiz.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/kənˈtɪnju/"
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@
     "pos": "verb",
     "example_en": "My mother loves to cook traditional pilaf.",
     "example_uz": "Onam milliy palov pishirishni yaxshi koʻradilar.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/kʊk/"
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@
     "pos": "verb",
     "example_en": "Students create interesting projects together.",
     "example_uz": "Talabalar birgalikda qiziqarli loyihalar yaratadilar.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/kriˈeɪt/"
   },
   {
     "id": 25,
@@ -247,7 +271,8 @@
     "pos": "verb",
     "example_en": "They decided to travel by train.",
     "example_uz": "Ular poyezdda sayohat qilishga qaror qilishdi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˌdɪˈsaɪd/"
   },
   {
     "id": 26,
@@ -257,7 +282,8 @@
     "pos": "verb",
     "example_en": "Can you describe your hometown?",
     "example_uz": "Oʻz tugʻilgan shahringizni tasvirlab bera olasizmi?",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/dɪˈskraɪb/"
   },
   {
     "id": 27,
@@ -267,7 +293,8 @@
     "pos": "verb",
     "example_en": "Reading books helps develop your vocabulary.",
     "example_uz": "Kitob oʻqish soʻz boyligingizni rivojlantirishga yordam beradi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/dɪˈvɛləp/"
   },
   {
     "id": 28,
@@ -277,7 +304,8 @@
     "pos": "verb",
     "example_en": "He learned to drive a car last year.",
     "example_uz": "U oʻtgan yili mashina haydashni oʻrgandi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/draɪv/"
   },
   {
     "id": 29,
@@ -287,7 +315,8 @@
     "pos": "verb",
     "example_en": "We always eat breakfast together as a family.",
     "example_uz": "Biz har doim oila davrasida birga nonushta qilamiz.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/it/"
   },
   {
     "id": 30,
@@ -297,7 +326,8 @@
     "pos": "verb",
     "example_en": "The teacher explained the grammar rule clearly.",
     "example_uz": "Oʻqituvchi grammatika qoidasini aniq tushuntirib berdi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ɪkˈspleɪn/"
   },
   {
     "id": 31,
@@ -307,7 +337,8 @@
     "pos": "verb",
     "example_en": "I cannot find my house keys anywhere.",
     "example_uz": "Uy kalitlarimni hech qayerdan topa olmayapman.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/faɪnd/"
   },
   {
     "id": 32,
@@ -317,7 +348,8 @@
     "pos": "verb",
     "example_en": "She will finish her report before evening.",
     "example_uz": "U hisobotini kechgacha tugatadi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˈfɪnɪʃ/"
   },
   {
     "id": 33,
@@ -327,7 +359,8 @@
     "pos": "verb",
     "example_en": "Never forget to lock the front door.",
     "example_uz": "Tashqi eshikni qulflashni aslo unutmang.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/fərˈgɛt/"
   },
   {
     "id": 34,
@@ -337,7 +370,8 @@
     "pos": "verb",
     "example_en": "Please give this book to your brother.",
     "example_uz": "Iltimos, bu kitobni akangizga bering.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/gɪv/"
   },
   {
     "id": 35,
@@ -347,7 +381,8 @@
     "pos": "verb",
     "example_en": "Good friends always help each other.",
     "example_uz": "Yaxshi doʻstlar doimo bir-biriga yordam berishadi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/hɛlp/"
   },
   {
     "id": 36,
@@ -357,7 +392,8 @@
     "pos": "verb",
     "example_en": "Daily practice will improve your pronunciation.",
     "example_uz": "Kundalik mashq talaffuzingizni yaxshilaydi.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˌɪmˈpruv/"
   },
   {
     "id": 37,
@@ -367,7 +403,8 @@
     "pos": "verb",
     "example_en": "It is fun to learn ten new words every day.",
     "example_uz": "Har kuni oʻnta yangi soʻz oʻrganish juda maroqli.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/lərn/"
   },
   {
     "id": 38,
@@ -377,7 +414,8 @@
     "pos": "verb",
     "example_en": "Listen carefully to the audio recording.",
     "example_uz": "Audio yozuvni diqqat bilan tinglang.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˈlɪsən/"
   },
   {
     "id": 39,
@@ -387,7 +425,8 @@
     "pos": "verb",
     "example_en": "Open your books to page twenty.",
     "example_uz": "Kitoblaringizning yigirmanchi betini oching.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˈoʊpən/"
   },
   {
     "id": 40,
@@ -397,7 +436,8 @@
     "pos": "verb",
     "example_en": "Can I pay for the meal by card?",
     "example_uz": "Ovqat pulini karta orqali toʻlasam boʻladimi?",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/peɪ/"
   },
   {
     "id": 41,
@@ -407,7 +447,8 @@
     "pos": "verb",
     "example_en": "We need to prepare well for the final exam.",
     "example_uz": "Yakuniy imtihonga yaxshi tayyorgarlik koʻrishimiz kerak.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/priˈpɛr/"
   },
   {
     "id": 42,
@@ -417,7 +458,8 @@
     "pos": "verb",
     "example_en": "Do you remember the name of that street?",
     "example_uz": "Oʻsha koʻchaning nomini eslaysizmi?",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/rɪˈmɛmbər/"
   },
   {
     "id": 43,
@@ -427,7 +469,8 @@
     "pos": "verb",
     "example_en": "I will send the documents by email.",
     "example_uz": "Hujjatlarni elektron pochta orqali yuboraman.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/sɛnd/"
   },
   {
     "id": 44,
@@ -437,7 +480,8 @@
     "pos": "verb",
     "example_en": "Now I understand the meaning of this sentence.",
     "example_uz": "Endi bu gapning ma’nosini tushundim.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/ˌəndərˈstænd/"
   },
   {
     "id": 45,
@@ -447,7 +491,8 @@
     "pos": "verb",
     "example_en": "Please wait for me at the bus stop.",
     "example_uz": "Iltimos, meni avtobus bekatida kuting.",
-    "category": "Verbs"
+    "category": "Verbs",
+    "ipa": "/weɪt/"
   },
   {
     "id": 46,
@@ -457,7 +502,8 @@
     "pos": "noun",
     "example_en": "They rented a bright apartment on the third floor.",
     "example_uz": "Ular uchinchi qavatdan yorugʻ kvartira ijaraga olishdi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/əˈpɑrtmənt/"
   },
   {
     "id": 47,
@@ -467,7 +513,8 @@
     "pos": "noun",
     "example_en": "She put her wallet and phone into her bag.",
     "example_uz": "U hamyoni va telefonini sumkasiga soldi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/bæg/"
   },
   {
     "id": 48,
@@ -477,7 +524,8 @@
     "pos": "noun",
     "example_en": "Wash your hands in the bathroom before dinner.",
     "example_uz": "Kechki ovqatdan oldin hammomda qoʻlingizni yuving.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈbæθˌrum/"
   },
   {
     "id": 49,
@@ -487,7 +535,8 @@
     "pos": "noun",
     "example_en": "He goes to bed at ten o'clock every night.",
     "example_uz": "U har kecha soat oʻnda uxlashga yotadi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/bɛd/"
   },
   {
     "id": 50,
@@ -497,7 +546,8 @@
     "pos": "noun",
     "example_en": "The bedroom window looks out onto the garden.",
     "example_uz": "Yotoqxona derazasi bogʻ tomonga qaragan.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈbɛˌdrum/"
   },
   {
     "id": 51,
@@ -507,7 +557,8 @@
     "pos": "noun",
     "example_en": "Take an extra blanket if you feel cold at night.",
     "example_uz": "Kechasi sovqotsangiz, qoʻshimcha koʻrpa oling.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈblæŋkət/"
   },
   {
     "id": 52,
@@ -517,7 +568,8 @@
     "pos": "noun",
     "example_en": "Always carry a bottle of clean water with you.",
     "example_uz": "Oʻzingiz bilan doimo bir shisha toza suv olib yuring.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈbɑtəl/"
   },
   {
     "id": 53,
@@ -527,7 +579,8 @@
     "pos": "noun",
     "example_en": "She poured hot soup into a ceramic bowl.",
     "example_uz": "U sopol kosaga issiq shoʻrva suzdi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/boʊl/"
   },
   {
     "id": 54,
@@ -537,7 +590,8 @@
     "pos": "noun",
     "example_en": "Keep your old photos inside this wooden box.",
     "example_uz": "Eski suratlaringizni mana shu yogʻoch qutida saqlang.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/bɑks/"
   },
   {
     "id": 55,
@@ -547,7 +601,8 @@
     "pos": "noun",
     "example_en": "Don't forget to pack your toothbrush and hair brush.",
     "example_uz": "Tish choʻtkasi va taroq-choʻtkangizni olishni unutmang.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/brəʃ/"
   },
   {
     "id": 56,
@@ -557,7 +612,8 @@
     "pos": "noun",
     "example_en": "A soft Bukhara carpet covers the living room floor.",
     "example_uz": "Mehmonxona poliga yumshoq Buxoro gilami toʻshalgan.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈkɑrpət/"
   },
   {
     "id": 57,
@@ -567,7 +623,8 @@
     "pos": "noun",
     "example_en": "Please pull up a chair and sit down.",
     "example_uz": "Iltimos, stulni tortib oʻtiring.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/tʃɛr/"
   },
   {
     "id": 58,
@@ -577,7 +634,8 @@
     "pos": "noun",
     "example_en": "The wall clock shows half past seven.",
     "example_uz": "Devor soati yetti yarimni koʻrsatmoqda.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/klɑk/"
   },
   {
     "id": 59,
@@ -587,7 +645,8 @@
     "pos": "noun",
     "example_en": "Put on warm clothes before going outside.",
     "example_uz": "Tashqariga chiqishdan oldin issiq kiyimlarni kiying.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/kloʊðz/"
   },
   {
     "id": 60,
@@ -597,7 +656,8 @@
     "pos": "noun",
     "example_en": "Hang your winter coat in the hallway closet.",
     "example_uz": "Qishki paltongizni yoʻlakdagi shkafga ilib qoʻying.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/koʊt/"
   },
   {
     "id": 61,
@@ -607,7 +667,8 @@
     "pos": "noun",
     "example_en": "Would you like a cup of hot green tea?",
     "example_uz": "Bir piyola issiq koʻk choy ichasizmi?",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/kəp/"
   },
   {
     "id": 62,
@@ -617,7 +678,8 @@
     "pos": "noun",
     "example_en": "She opened the curtain to let the sunlight in.",
     "example_uz": "U quyosh nuri kirishi uchun pardani ochdi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈkərtən/"
   },
   {
     "id": 63,
@@ -627,7 +689,8 @@
     "pos": "noun",
     "example_en": "My brother washed every dish after the meal.",
     "example_uz": "Akam ovqatdan soʻng barcha idish-tovoqlarni yuvdi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/dɪʃ/"
   },
   {
     "id": 64,
@@ -637,7 +700,8 @@
     "pos": "noun",
     "example_en": "Someone is knocking gently at the door.",
     "example_uz": "Kimdir eshikni sekin taqillatyapti.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/dɔr/"
   },
   {
     "id": 65,
@@ -647,7 +711,8 @@
     "pos": "noun",
     "example_en": "The children are playing on the clean floor.",
     "example_uz": "Bolalar toza polda oʻynashyapti.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/flɔr/"
   },
   {
     "id": 66,
@@ -657,7 +722,8 @@
     "pos": "noun",
     "example_en": "Place the fork to the left of the plate.",
     "example_uz": "Sanchqini likopchaning chap tomoniga qoʻying.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/fɔrk/"
   },
   {
     "id": 67,
@@ -667,7 +733,8 @@
     "pos": "noun",
     "example_en": "Put the milk and butter back in the fridge.",
     "example_uz": "Sut va sariyogʻni muzlatkichga qaytarib qoʻying.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/frɪdʒ/"
   },
   {
     "id": 68,
@@ -677,7 +744,8 @@
     "pos": "noun",
     "example_en": "We bought modern wooden furniture for the house.",
     "example_uz": "Biz uy uchun zamonaviy yogʻoch mebel sotib oldik.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈfərnɪtʃər/"
   },
   {
     "id": 69,
@@ -687,7 +755,8 @@
     "pos": "noun",
     "example_en": "My grandfather grows sweet apples in our garden.",
     "example_uz": "Bobom bogʻimizda shirin olmalar yetishtiradilar.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈgɑrdən/"
   },
   {
     "id": 70,
@@ -697,7 +766,8 @@
     "pos": "noun",
     "example_en": "He drank a full glass of cold water.",
     "example_uz": "U bir stakan toʻla sovuq suv ichdi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/glæs/"
   },
   {
     "id": 71,
@@ -707,7 +777,8 @@
     "pos": "noun",
     "example_en": "Their house is near the central park.",
     "example_uz": "Ularning uyi markaziy bogʻ yaqinida joylashgan.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/haʊs/"
   },
   {
     "id": 72,
@@ -717,7 +788,8 @@
     "pos": "noun",
     "example_en": "Turn off the electric iron when you finish.",
     "example_uz": "Ishni tugatgach, elektr dazmolni oʻchiring.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/aɪərn/"
   },
   {
     "id": 73,
@@ -727,7 +799,8 @@
     "pos": "noun",
     "example_en": "Keep your spare key in a safe place.",
     "example_uz": "Zaxira kalitingizni xavfsiz joyda saqlang.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ki/"
   },
   {
     "id": 74,
@@ -737,7 +810,8 @@
     "pos": "noun",
     "example_en": "A delicious smell is coming from the kitchen.",
     "example_uz": "Oshxonadan juda mazali hid kelyapti.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈkɪtʃən/"
   },
   {
     "id": 75,
@@ -747,7 +821,8 @@
     "pos": "noun",
     "example_en": "Be careful when cutting bread with a sharp knife.",
     "example_uz": "Oʻtkir pichoq bilan non kesayotganda ehtiyot boʻling.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/naɪf/"
   },
   {
     "id": 76,
@@ -757,7 +832,8 @@
     "pos": "noun",
     "example_en": "Switch on the desk lamp while reading.",
     "example_uz": "Kitob oʻqiyotganda stol chirogʻini yoqing.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/læmp/"
   },
   {
     "id": 77,
@@ -767,7 +843,8 @@
     "pos": "noun",
     "example_en": "He looked in the mirror and fixed his tie.",
     "example_uz": "U koʻzguga qarab galstugini toʻgʻriladi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈmɪrər/"
   },
   {
     "id": 78,
@@ -777,7 +854,8 @@
     "pos": "noun",
     "example_en": "This cotton pillow is very soft and comfortable.",
     "example_uz": "Bu paxtali yostiq juda yumshoq va qulay.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈpɪloʊ/"
   },
   {
     "id": 79,
@@ -787,7 +865,8 @@
     "pos": "noun",
     "example_en": "She arranged fresh fruit on a large plate.",
     "example_uz": "U katta likopchaga yangi mevalarni terib qoʻydi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/pleɪt/"
   },
   {
     "id": 80,
@@ -797,7 +876,8 @@
     "pos": "noun",
     "example_en": "He kept the train ticket in his jacket pocket.",
     "example_uz": "U poyezd chiptasini kurtkasi choʻntagida saqladi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈpɑkət/"
   },
   {
     "id": 81,
@@ -807,7 +887,8 @@
     "pos": "noun",
     "example_en": "Rain was falling softly on the roof.",
     "example_uz": "Yomgʻir tom ustiga mayin yogʻardi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ruf/"
   },
   {
     "id": 82,
@@ -817,7 +898,8 @@
     "pos": "noun",
     "example_en": "Every room in this building has large windows.",
     "example_uz": "Bu binodagi har bir xonaning katta derazalari bor.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/rum/"
   },
   {
     "id": 83,
@@ -827,7 +909,8 @@
     "pos": "noun",
     "example_en": "He wore a clean white shirt to the interview.",
     "example_uz": "U suhbatga toza oq koʻylak kiyib bordi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ʃərt/"
   },
   {
     "id": 84,
@@ -837,7 +920,8 @@
     "pos": "noun",
     "example_en": "We take off our shoes at the entrance.",
     "example_uz": "Biz kirish joyida poyabzalimizni yechamiz.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ʃuz/"
   },
   {
     "id": 85,
@@ -847,7 +931,8 @@
     "pos": "noun",
     "example_en": "Wash your hands thoroughly with warm water and soap.",
     "example_uz": "Qoʻllaringizni iliq suv va sovun bilan yaxshilab yuving.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/soʊp/"
   },
   {
     "id": 86,
@@ -857,7 +942,8 @@
     "pos": "noun",
     "example_en": "Guests sat comfortably on the wide sofa.",
     "example_uz": "Mehmonlar keng divanga qulay joylashib oʻtirishdi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈsoʊfə/"
   },
   {
     "id": 87,
@@ -867,7 +953,8 @@
     "pos": "noun",
     "example_en": "Stir the tea with a small spoon.",
     "example_uz": "Choyni kichik qoshiq bilan aralashtiring.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/spun/"
   },
   {
     "id": 88,
@@ -877,7 +964,8 @@
     "pos": "noun",
     "example_en": "Dinner is ready on the kitchen table.",
     "example_uz": "Oshxona stolida kechki ovqat tayyor turibdi.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈteɪbəl/"
   },
   {
     "id": 89,
@@ -887,7 +975,8 @@
     "pos": "noun",
     "example_en": "Dry your face with a clean cotton towel.",
     "example_uz": "Yuzingizni toza paxtali sochiq bilan arting.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/taʊəl/"
   },
   {
     "id": 90,
@@ -897,7 +986,8 @@
     "pos": "noun",
     "example_en": "Open the window to let fresh air into the room.",
     "example_uz": "Xonaga toza havo kirishi uchun derazani oching.",
-    "category": "Nouns – Home & Daily Life"
+    "category": "Nouns – Home & Daily Life",
+    "ipa": "/ˈwɪndoʊ/"
   },
   {
     "id": 91,
@@ -907,7 +997,8 @@
     "pos": "noun",
     "example_en": "An apple a day keeps you healthy.",
     "example_uz": "Kuniga bitta olma yeyish sogʻlom boʻlishga yordam beradi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈæpəl/"
   },
   {
     "id": 92,
@@ -917,7 +1008,8 @@
     "pos": "noun",
     "example_en": "She sliced a ripe banana into her breakfast cereal.",
     "example_uz": "U nonushta boʻtqasiga pishgan bananni toʻgʻrab qoʻshdi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/bəˈnænə/"
   },
   {
     "id": 93,
@@ -927,7 +1019,8 @@
     "pos": "noun",
     "example_en": "Beans are rich in protein and fiber.",
     "example_uz": "Loviya oqsil va kletchatkaga juda boy.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/binz/"
   },
   {
     "id": 94,
@@ -937,7 +1030,8 @@
     "pos": "noun",
     "example_en": "We bought fresh beef at the local market.",
     "example_uz": "Mahalliy bozordan yangi mol goʻshti sotib oldik.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/bif/"
   },
   {
     "id": 95,
@@ -947,7 +1041,8 @@
     "pos": "noun",
     "example_en": "Samarkand bread stays fresh for many days.",
     "example_uz": "Samarqand noni koʻp kunlar davomida yangidek turadi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/brɛd/"
   },
   {
     "id": 96,
@@ -957,7 +1052,8 @@
     "pos": "noun",
     "example_en": "Never skip breakfast before going to work.",
     "example_uz": "Ishga ketishdan oldin nonushtani aslo qoldirmang.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈbrɛkfəst/"
   },
   {
     "id": 97,
@@ -967,7 +1063,8 @@
     "pos": "noun",
     "example_en": "Spread some butter and honey on warm bread.",
     "example_uz": "Issiq nonga ozgina sariyogʻ va asal surting.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈbətər/"
   },
   {
     "id": 98,
@@ -977,7 +1074,8 @@
     "pos": "noun",
     "example_en": "Chop the cabbage finely for the vitamin salad.",
     "example_uz": "Vitaminli salat uchun karamni mayda qilib toʻgʻrang.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈkæbədʒ/"
   },
   {
     "id": 99,
@@ -987,7 +1085,8 @@
     "pos": "noun",
     "example_en": "We baked a chocolate cake for her birthday.",
     "example_uz": "Uning tugʻilgan kuniga shokoladli tort pishirdik.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/keɪk/"
   },
   {
     "id": 100,
@@ -997,7 +1096,8 @@
     "pos": "noun",
     "example_en": "Yellow and red carrots are essential for Uzbek pilaf.",
     "example_uz": "Sariq va qizil sabzi oʻzbek palovi uchun juda zarur.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈkærət/"
   },
   {
     "id": 101,
@@ -1007,7 +1107,8 @@
     "pos": "noun",
     "example_en": "He likes a sandwich with cheese and tomatoes.",
     "example_uz": "U pishloq va pomidorli sendvichni yoqtiradi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/tʃiz/"
   },
   {
     "id": 102,
@@ -1017,7 +1118,8 @@
     "pos": "noun",
     "example_en": "Roasted chicken with vegetables makes a great dinner.",
     "example_uz": "Sabzavotlar bilan pishirilgan tovuq goʻshti ajoyib kechki taom boʻladi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈtʃɪkən/"
   },
   {
     "id": 103,
@@ -1027,7 +1129,8 @@
     "pos": "noun",
     "example_en": "Dark chocolate tastes less sweet than milk chocolate.",
     "example_uz": "Qora shokolad sutli shokoladga qaraganda kamroq shirin boʻladi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈtʃɔklət/"
   },
   {
     "id": 104,
@@ -1037,7 +1140,8 @@
     "pos": "noun",
     "example_en": "He drinks a cup of black coffee in the morning.",
     "example_uz": "U ertalab bir finjon qora qahva ichadi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈkɑfi/"
   },
   {
     "id": 105,
@@ -1047,7 +1151,8 @@
     "pos": "noun",
     "example_en": "Fresh cucumbers and tomatoes make the best summer salad.",
     "example_uz": "Yangi bodring va pomidordan eng yaxshi yozgi salat tayyorlanadi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈkjukəmbər/"
   },
   {
     "id": 106,
@@ -1057,7 +1162,8 @@
     "pos": "noun",
     "example_en": "What would you like to have for dinner tonight?",
     "example_uz": "Bugun kechki ovqatga nima yeyishni xohlaysiz?",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈdɪnər/"
   },
   {
     "id": 107,
@@ -1067,7 +1173,8 @@
     "pos": "noun",
     "example_en": "She boiled two eggs for breakfast.",
     "example_uz": "U nonushtaga ikkita tuxum qaynatdi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ɛg/"
   },
   {
     "id": 108,
@@ -1077,7 +1184,8 @@
     "pos": "noun",
     "example_en": "Grilled fish is both delicious and healthy.",
     "example_uz": "Qoʻrada pishirilgan baliq ham mazali, ham foydali.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/fɪʃ/"
   },
   {
     "id": 109,
@@ -1087,7 +1195,8 @@
     "pos": "noun",
     "example_en": "Mix the wheat flour with warm water and salt.",
     "example_uz": "Bugʻdoy unini iliq suv va tuz bilan aralashtiring.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/flaʊər/"
   },
   {
     "id": 110,
@@ -1097,7 +1206,8 @@
     "pos": "noun",
     "example_en": "Uzbekistan is famous for its sweet sunny fruit.",
     "example_uz": "Oʻzbekiston oʻzining quyoshda pishgan shirin mevalari bilan mashhur.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/frut/"
   },
   {
     "id": 111,
@@ -1107,7 +1217,8 @@
     "pos": "noun",
     "example_en": "Add two cloves of garlic to give the dish flavor.",
     "example_uz": "Taomga xushboʻy ta’m berish uchun ikki boʻlak sarimsoq qoʻshing.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈgɑrlɪk/"
   },
   {
     "id": 112,
@@ -1117,7 +1228,8 @@
     "pos": "noun",
     "example_en": "Sweet green grapes ripen in late summer.",
     "example_uz": "Shirin oq uzumlar yoz oxirida pishib yetiladi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/greɪps/"
   },
   {
     "id": 113,
@@ -1127,7 +1239,8 @@
     "pos": "noun",
     "example_en": "Warm tea with lemon and honey helps with a cold.",
     "example_uz": "Limon va asalli issiq choy shamollashda yordam beradi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈhəni/"
   },
   {
     "id": 114,
@@ -1137,7 +1250,8 @@
     "pos": "noun",
     "example_en": "Children love eating cold ice cream on hot days.",
     "example_uz": "Bolalar issiq kunlarda muzqaymoq yeyishni yaxshi koʻradilar.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/aɪs krim/"
   },
   {
     "id": 115,
@@ -1147,7 +1261,8 @@
     "pos": "noun",
     "example_en": "Freshly squeezed orange juice is full of vitamins.",
     "example_uz": "Yangi siqilgan apelsin sharbati vitaminlarga boy.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/dʒus/"
   },
   {
     "id": 116,
@@ -1157,7 +1272,8 @@
     "pos": "noun",
     "example_en": "Squeeze a slice of lemon into your tea.",
     "example_uz": "Choyingizga bir boʻlak limon siqib qoʻshing.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈlɛmən/"
   },
   {
     "id": 117,
@@ -1167,7 +1283,8 @@
     "pos": "noun",
     "example_en": "We usually have lunch at one o'clock.",
     "example_uz": "Biz odatda soat birda tushlik qilamiz.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ləntʃ/"
   },
   {
     "id": 118,
@@ -1177,7 +1294,8 @@
     "pos": "noun",
     "example_en": "Thank you for cooking such a wonderful meal.",
     "example_uz": "Shunday ajoyib taom tayyorlaganingiz uchun rahmat.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/mil/"
   },
   {
     "id": 119,
@@ -1187,7 +1305,8 @@
     "pos": "noun",
     "example_en": "Cut the meat into small pieces before frying.",
     "example_uz": "Qovurishdan oldin goʻshtni mayda boʻlaklarga toʻgʻrang.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/mit/"
   },
   {
     "id": 120,
@@ -1197,7 +1316,8 @@
     "pos": "noun",
     "example_en": "Warm milk before sleep helps you relax.",
     "example_uz": "Uyqudan oldin iliq sut ichish tinchlanishga yordam beradi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/mɪlk/"
   },
   {
     "id": 121,
@@ -1207,7 +1327,8 @@
     "pos": "noun",
     "example_en": "Walnuts and almonds are healthy snacks.",
     "example_uz": "Yongʻoq va bodom foydali tamaddidir.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/nəts/"
   },
   {
     "id": 122,
@@ -1217,7 +1338,8 @@
     "pos": "noun",
     "example_en": "Heat the vegetable oil in a deep pot.",
     "example_uz": "Chuqur qozonda oʻsimlik yogʻini qizdiring.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ɔɪl/"
   },
   {
     "id": 123,
@@ -1227,7 +1349,8 @@
     "pos": "noun",
     "example_en": "Peel and slice the onion thinly.",
     "example_uz": "Piyozni archib, yupqa qilib toʻgʻrang.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈənjən/"
   },
   {
     "id": 124,
@@ -1237,7 +1360,8 @@
     "pos": "noun",
     "example_en": "She peeled a juicy orange and shared it.",
     "example_uz": "U sersuv apelsinni archib, boʻlishdi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈɔrəndʒ/"
   },
   {
     "id": 125,
@@ -1247,7 +1371,8 @@
     "pos": "noun",
     "example_en": "Fergana peaches are soft, fragrant, and sweet.",
     "example_uz": "Fargʻona shaftolilari yumshoq, xushboʻy va shirin boʻladi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/pitʃ/"
   },
   {
     "id": 126,
@@ -1257,7 +1382,8 @@
     "pos": "noun",
     "example_en": "Season the soup with black pepper and herbs.",
     "example_uz": "Shoʻrvaga qora murch va koʻkatlar qoʻshing.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈpɛpər/"
   },
   {
     "id": 127,
@@ -1267,7 +1393,8 @@
     "pos": "noun",
     "example_en": "Baked potatoes taste great with fresh herbs.",
     "example_uz": "Pishirilgan kartoshka yangi koʻkatlar bilan juda mazali boʻladi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/pəˈteɪˌtoʊ/"
   },
   {
     "id": 128,
@@ -1277,7 +1404,8 @@
     "pos": "noun",
     "example_en": "Wash the rice several times in cold water.",
     "example_uz": "Guruchni sovuq suvda bir necha marta yuving.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/raɪs/"
   },
   {
     "id": 129,
@@ -1287,7 +1415,8 @@
     "pos": "noun",
     "example_en": "Please pass me the bowl of fresh salad.",
     "example_uz": "Iltimos, menga yangi salat solingan kosani uzatib yuboring.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈsæləd/"
   },
   {
     "id": 130,
@@ -1297,7 +1426,8 @@
     "pos": "noun",
     "example_en": "Too much salt is not good for your health.",
     "example_uz": "Koʻp tuz iste’mol qilish sogʻliq uchun foydali emas.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/sɔlt/"
   },
   {
     "id": 131,
@@ -1307,7 +1437,8 @@
     "pos": "noun",
     "example_en": "Hot vegetable soup is perfect on a winter day.",
     "example_uz": "Issiq sabzavotli shoʻrva qish kunida ayni muddao.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/sup/"
   },
   {
     "id": 132,
@@ -1317,7 +1448,8 @@
     "pos": "noun",
     "example_en": "I drink green tea without any sugar.",
     "example_uz": "Men koʻk choyni umuman shakarsiz ichaman.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈʃʊgər/"
   },
   {
     "id": 133,
@@ -1327,7 +1459,8 @@
     "pos": "noun",
     "example_en": "Hospitality in Uzbekistan always begins with a pot of tea.",
     "example_uz": "Oʻzbekistonda mehmondoʻstlik doimo bir choynak choy bilan boshlanadi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ti/"
   },
   {
     "id": 134,
@@ -1337,7 +1470,8 @@
     "pos": "noun",
     "example_en": "Ripe red tomatoes grow in our sunny garden.",
     "example_uz": "Quyoshli bogʻimizda qip-qizil pomidorlar pishadi.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/təˈmeɪˌtoʊ/"
   },
   {
     "id": 135,
@@ -1347,7 +1481,8 @@
     "pos": "noun",
     "example_en": "Drink plenty of clean water every single day.",
     "example_uz": "Har kuni yetarli miqdorda toza suv iching.",
-    "category": "Food & Drink"
+    "category": "Food & Drink",
+    "ipa": "/ˈwɔtər/"
   },
   {
     "id": 136,
@@ -1357,7 +1492,8 @@
     "pos": "noun",
     "example_en": "Tickets for adults cost more than for children.",
     "example_uz": "Kattalar uchun chiptalar bolalarnikidan qimmatroq turadi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/əˈdəlt/"
   },
   {
     "id": 137,
@@ -1367,7 +1503,8 @@
     "pos": "noun",
     "example_en": "My aunt lives in Tashkent with her family.",
     "example_uz": "Xolam oilasi bilan Toshkentda yashaydilar.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ænt/"
   },
   {
     "id": 138,
@@ -1377,7 +1514,8 @@
     "pos": "noun",
     "example_en": "The baby is sleeping peacefully in the cradle.",
     "example_uz": "Chaqaloq beshikda tinch uxlayapti.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈbeɪbi/"
   },
   {
     "id": 139,
@@ -1387,7 +1525,8 @@
     "pos": "noun",
     "example_en": "The little boy rode his bicycle in the yard.",
     "example_uz": "Kichkina oʻgʻil bola hovlida velosiped uchdi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/bɔɪ/"
   },
   {
     "id": 140,
@@ -1397,7 +1536,8 @@
     "pos": "noun",
     "example_en": "My older brother studies medicine at university.",
     "example_uz": "Katta akam universitetda tibbiyot yoʻnalishida oʻqiydi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈbrəðər/"
   },
   {
     "id": 141,
@@ -1407,7 +1547,8 @@
     "pos": "noun",
     "example_en": "Every child needs love, care, and good education.",
     "example_uz": "Har bir bola mehr, e’tibor va yaxshi ta’limga muhtoj.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/tʃaɪld/"
   },
   {
     "id": 142,
@@ -1417,7 +1558,8 @@
     "pos": "noun",
     "example_en": "My cousin and I grew up in the same neighborhood.",
     "example_uz": "Xolavachcham bilan bitta mahallada katta boʻlganmiz.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈkəzən/"
   },
   {
     "id": 143,
@@ -1427,7 +1569,8 @@
     "pos": "noun",
     "example_en": "The shop assistant greeted every customer politely.",
     "example_uz": "Sotuvchi har bir xaridorni xushmuomalalik bilan kutib oldi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈkəstəmər/"
   },
   {
     "id": 144,
@@ -1437,7 +1580,8 @@
     "pos": "noun",
     "example_en": "Their daughter speaks both Uzbek and English fluently.",
     "example_uz": "Ularning qizi oʻzbek va ingliz tillarida ravon gapiradi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈdɔtər/"
   },
   {
     "id": 145,
@@ -1447,7 +1591,8 @@
     "pos": "pron",
     "example_en": "Everyone in the hall applauded the speaker.",
     "example_uz": "Zaldagi hamma ma’ruzachini olqishladi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈɛvriˌwən/"
   },
   {
     "id": 146,
@@ -1457,7 +1602,8 @@
     "pos": "noun",
     "example_en": "Our whole family gathers at our grandparents' house on holidays.",
     "example_uz": "Bayramlarda butun oilamiz bobom va buvimning uyida yigʻiladi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈfæməli/"
   },
   {
     "id": 147,
@@ -1467,7 +1613,8 @@
     "pos": "noun",
     "example_en": "My father taught me how to be honest and hardworking.",
     "example_uz": "Otam menga halol va mehnatsevar boʻlishni oʻrgatganlar.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈfɑðər/"
   },
   {
     "id": 148,
@@ -1477,7 +1624,8 @@
     "pos": "noun",
     "example_en": "A true friend supports you in difficult times.",
     "example_uz": "Haqiqiy doʻst qiyin paytlarda sizni qoʻllab-quvvatlaydi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/frɛnd/"
   },
   {
     "id": 149,
@@ -1487,7 +1635,8 @@
     "pos": "noun",
     "example_en": "The girl drew a colorful picture of spring.",
     "example_uz": "Qizcha bahorning rang-barang suratini chizdi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/gərl/"
   },
   {
     "id": 150,
@@ -1497,7 +1646,8 @@
     "pos": "noun",
     "example_en": "My grandfather tells wonderful stories about history.",
     "example_uz": "Bobom tarix haqida ajoyib hikoyalar aytib beradilar.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈgrændˌfɑðər/"
   },
   {
     "id": 151,
@@ -1507,7 +1657,8 @@
     "pos": "noun",
     "example_en": "My grandmother bakes the most delicious pies.",
     "example_uz": "Buvim eng mazali somsa va pishiriqlarni yopadilar.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈgrændˌməðər/"
   },
   {
     "id": 152,
@@ -1517,7 +1668,8 @@
     "pos": "noun",
     "example_en": "In Uzbek culture, a guest is always treated with deep respect.",
     "example_uz": "Oʻzbek madaniyatida mehmonga doimo yuksak hurmat koʻrsatiladi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/gɛst/"
   },
   {
     "id": 153,
@@ -1527,7 +1679,8 @@
     "pos": "noun",
     "example_en": "Her husband works as a civil engineer.",
     "example_uz": "Uning turmush oʻrtogʻi qurilish muhandisi boʻlib ishlaydi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈhəzbənd/"
   },
   {
     "id": 154,
@@ -1537,7 +1690,8 @@
     "pos": "noun",
     "example_en": "A good leader listens to every member of the team.",
     "example_uz": "Yaxshi rahbar jamoaning har bir a’zosini tinglaydi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈlidər/"
   },
   {
     "id": 155,
@@ -1547,7 +1701,8 @@
     "pos": "noun",
     "example_en": "That polite man helped us find the right road.",
     "example_uz": "Oʻsha xushmuomala kishi toʻgʻri yoʻlni topishimizga yordam berdi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/mæn/"
   },
   {
     "id": 156,
@@ -1557,7 +1712,8 @@
     "pos": "noun",
     "example_en": "She became an active member of the reading club.",
     "example_uz": "U kitobxonlar klubining faol a’zosiga aylandi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈmɛmbər/"
   },
   {
     "id": 157,
@@ -1567,7 +1723,8 @@
     "pos": "noun",
     "example_en": "My mother's smile makes our home warm and bright.",
     "example_uz": "Onamning tabassumi uyimizni iliq va charogʻon qiladi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈməðər/"
   },
   {
     "id": 158,
@@ -1577,7 +1734,8 @@
     "pos": "pron",
     "example_en": "I repaired the broken chair all by myself.",
     "example_uz": "Buzilgan stulni oʻzim tuzatdim.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˌmaɪˈsɛlf/"
   },
   {
     "id": 159,
@@ -1587,7 +1745,8 @@
     "pos": "noun",
     "example_en": "Our neighbor shared a plate of hot pilaf with us.",
     "example_uz": "Qoʻshnimiz bizga bir lagan issiq osh chiqardi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈneɪbər/"
   },
   {
     "id": 160,
@@ -1597,7 +1756,8 @@
     "pos": "noun",
     "example_en": "My nephew started first grade at school this year.",
     "example_uz": "Jiyanim bu yil maktabda birinchi sinfga chiqdi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈnɛfju/"
   },
   {
     "id": 161,
@@ -1607,7 +1767,8 @@
     "pos": "noun",
     "example_en": "We bought a storybook for our little niece.",
     "example_uz": "Kichkina jiyanimizga ertak kitob sotib oldik.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/nis/"
   },
   {
     "id": 162,
@@ -1617,7 +1778,8 @@
     "pos": "pron",
     "example_en": "Nobody was late for the morning lesson today.",
     "example_uz": "Bugun ertalabki darsga hech kim kechikmadi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈnoʊˌbɑˌdi/"
   },
   {
     "id": 163,
@@ -1627,7 +1789,8 @@
     "pos": "noun",
     "example_en": "Parents want a bright future for their children.",
     "example_uz": "Ota-onalar farzandlari uchun porloq kelajakni xohlaydilar.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈpɛrənt/"
   },
   {
     "id": 164,
@@ -1637,7 +1800,8 @@
     "pos": "noun",
     "example_en": "Practice speaking English with a study partner.",
     "example_uz": "Oʻquv sherigingiz bilan ingliz tilida gaplashishni mashq qiling.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈpɑrtnər/"
   },
   {
     "id": 165,
@@ -1647,7 +1811,8 @@
     "pos": "noun",
     "example_en": "Many people walk in the park in the evening.",
     "example_uz": "Kechqurun koʻp odamlar bogʻda sayr qilishadi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈpipəl/"
   },
   {
     "id": 166,
@@ -1657,7 +1822,8 @@
     "pos": "noun",
     "example_en": "She is a very kind and patient person.",
     "example_uz": "U juda mehribon va sabrli inson.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈpərsən/"
   },
   {
     "id": 167,
@@ -1667,7 +1833,8 @@
     "pos": "noun",
     "example_en": "We invited all our close relatives to the wedding.",
     "example_uz": "Toʻyga barcha yaqin qarindoshlarimizni taklif qildik.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈrɛlətɪv/"
   },
   {
     "id": 168,
@@ -1677,7 +1844,8 @@
     "pos": "noun",
     "example_en": "My younger sister loves painting and music.",
     "example_uz": "Singlim rasm chizish va musiqani yaxshi koʻradi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈsɪstər/"
   },
   {
     "id": 169,
@@ -1687,7 +1855,8 @@
     "pos": "pron",
     "example_en": "Somebody left an umbrella near the entrance.",
     "example_uz": "Kimdir kirish joyida soyabon qoldiribdi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈsəmˌbɑdi/"
   },
   {
     "id": 170,
@@ -1697,7 +1866,8 @@
     "pos": "noun",
     "example_en": "Their son won first place in the math competition.",
     "example_uz": "Ularning oʻgʻli matematika olimpiadasida birinchi oʻrinni oldi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/sən/"
   },
   {
     "id": 171,
@@ -1707,7 +1877,8 @@
     "pos": "noun",
     "example_en": "Never share your personal password with a stranger.",
     "example_uz": "Shaxsiy parolingizni begona odamga aslo aytmang.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈstreɪndʒər/"
   },
   {
     "id": 172,
@@ -1717,7 +1888,8 @@
     "pos": "noun",
     "example_en": "Our team worked together and finished on time.",
     "example_uz": "Jamoamiz birgalikda ishlab, vazifani oʻz vaqtida tugatdi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/tim/"
   },
   {
     "id": 173,
@@ -1727,7 +1899,8 @@
     "pos": "noun",
     "example_en": "Many teenagers enjoy learning programming and design.",
     "example_uz": "Koʻplab oʻsmirlar dasturlash va dizaynni oʻrganishga qiziqadilar.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈtiˌneɪdʒər/"
   },
   {
     "id": 174,
@@ -1737,7 +1910,8 @@
     "pos": "pron",
     "example_en": "They are preparing for an international conference.",
     "example_uz": "Ular xalqaro anjumanga tayyorgarlik koʻrishmoqda.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ðeɪ/"
   },
   {
     "id": 175,
@@ -1747,7 +1921,8 @@
     "pos": "noun",
     "example_en": "The twin brothers look almost identical.",
     "example_uz": "Egizak aka-ukalar bir-biriga juda oʻxshaydi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/twɪn/"
   },
   {
     "id": 176,
@@ -1757,7 +1932,8 @@
     "pos": "noun",
     "example_en": "My uncle taught me how to ride a horse.",
     "example_uz": "Togʻam menga ot minishni oʻrgatganlar.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈəŋkəl/"
   },
   {
     "id": 177,
@@ -1767,7 +1943,8 @@
     "pos": "pron",
     "example_en": "We practice new English words every evening.",
     "example_uz": "Biz har oqshom yangi inglizcha soʻzlarni mashq qilamiz.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/wiː/"
   },
   {
     "id": 178,
@@ -1777,7 +1954,8 @@
     "pos": "noun",
     "example_en": "He bought fresh flowers for his wife.",
     "example_uz": "U rafiqasi uchun yangi gullar sotib oldi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/waɪf/"
   },
   {
     "id": 179,
@@ -1787,7 +1965,8 @@
     "pos": "noun",
     "example_en": "That woman is a respected teacher at our school.",
     "example_uz": "U ayol maktabimizning hurmatli oʻqituvchisi.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/ˈwʊmən/"
   },
   {
     "id": 180,
@@ -1797,7 +1976,8 @@
     "pos": "noun",
     "example_en": "Youth is the best time to gain knowledge and skills.",
     "example_uz": "Yoshlik — bilim va koʻnikmalar egallash uchun eng yaxshi davr.",
-    "category": "People & Family"
+    "category": "People & Family",
+    "ipa": "/juθ/"
   },
   {
     "id": 181,
@@ -1807,7 +1987,8 @@
     "pos": "noun",
     "example_en": "Thank you for your helpful career advice.",
     "example_uz": "Foydali kasbiy maslahatingiz uchun katta rahmat.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ædˈvaɪs/"
   },
   {
     "id": 182,
@@ -1817,7 +1998,8 @@
     "pos": "noun",
     "example_en": "Send your job application before Friday.",
     "example_uz": "Ishga kirish arizangizni juma kunigacha yuboring.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˌæpləˈkeɪʃən/"
   },
   {
     "id": 183,
@@ -1827,7 +2009,8 @@
     "pos": "noun",
     "example_en": "I read an interesting scientific article today.",
     "example_uz": "Bugun qiziqarli ilmiy maqola oʻqidim.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈɑrtəkəl/"
   },
   {
     "id": 184,
@@ -1837,7 +2020,8 @@
     "pos": "noun",
     "example_en": "Write the new words clearly on the blackboard.",
     "example_uz": "Yangi soʻzlarni doskaga aniq qilib yozing.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈblækˌbɔrd/"
   },
   {
     "id": 185,
@@ -1847,7 +2031,8 @@
     "pos": "noun",
     "example_en": "A good book is a wise and loyal friend.",
     "example_uz": "Yaxshi kitob — dono va sodiq doʻstdir.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/bʊk/"
   },
   {
     "id": 186,
@@ -1857,7 +2042,8 @@
     "pos": "noun",
     "example_en": "She started her own small bakery business.",
     "example_uz": "U oʻzining kichik qandolatchilik biznesini boshladi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈbɪznəs/"
   },
   {
     "id": 187,
@@ -1867,7 +2053,8 @@
     "pos": "noun",
     "example_en": "Learning foreign languages opens many career doors.",
     "example_uz": "Xorijiy tillarni oʻrganish koʻplab karyera eshiklarini ochadi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/kərɪr/"
   },
   {
     "id": 188,
@@ -1877,7 +2064,8 @@
     "pos": "noun",
     "example_en": "Our English class starts at nine in the morning.",
     "example_uz": "Ingliz tili darsimiz ertalab soat toʻqqizda boshlanadi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/klæs/"
   },
   {
     "id": 189,
@@ -1887,7 +2075,8 @@
     "pos": "noun",
     "example_en": "My colleague helped me check the financial report.",
     "example_uz": "Hamkasbim moliyaviy hisobotni tekshirishga yordam berdi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈkɑlig/"
   },
   {
     "id": 190,
@@ -1897,7 +2086,8 @@
     "pos": "noun",
     "example_en": "This technology company employs two hundred people.",
     "example_uz": "Ushbu texnologiya kompaniyasida ikki yuz kishi ishlaydi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈkəmpəˌni/"
   },
   {
     "id": 191,
@@ -1907,7 +2097,8 @@
     "pos": "noun",
     "example_en": "Save your files before turning off the computer.",
     "example_uz": "Kompyuterni oʻchirishdan oldin fayllaringizni saqlab qoʻying.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/kəmˈpjutər/"
   },
   {
     "id": 192,
@@ -1917,7 +2108,8 @@
     "pos": "noun",
     "example_en": "Read every line carefully before signing the contract.",
     "example_uz": "Shartnomani imzolashdan oldin har bir satrini diqqat bilan oʻqing.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈkɑnˌtrækt/"
   },
   {
     "id": 193,
@@ -1927,7 +2119,8 @@
     "pos": "noun",
     "example_en": "He enrolled in a three-month programming course.",
     "example_uz": "U uch oylik dasturlash kursiga yozildi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/kɔrs/"
   },
   {
     "id": 194,
@@ -1937,7 +2130,8 @@
     "pos": "noun",
     "example_en": "She earned a bachelor's degree in economics.",
     "example_uz": "U iqtisodiyot boʻyicha bakalavr darajasini oldi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/dɪˈgri/"
   },
   {
     "id": 195,
@@ -1947,7 +2141,8 @@
     "pos": "noun",
     "example_en": "Contact the customer service department for help.",
     "example_uz": "Yordam olish uchun mijozlarga xizmat koʻrsatish boʻlimiga murojaat qiling.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/dɪˈpɑrtmənt/"
   },
   {
     "id": 196,
@@ -1957,7 +2152,8 @@
     "pos": "noun",
     "example_en": "Keep your study desk neat and organized.",
     "example_uz": "Oʻquv stolingizni ozoda va tartibli tuting.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/dɛsk/"
   },
   {
     "id": 197,
@@ -1967,7 +2163,8 @@
     "pos": "noun",
     "example_en": "Look up unfamiliar words in a bilingual dictionary.",
     "example_uz": "Notanish soʻzlarni ikki tilli lugʻatdan qarab koʻring.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈdɪkʃəˌnɛri/"
   },
   {
     "id": 198,
@@ -1977,7 +2174,8 @@
     "pos": "noun",
     "example_en": "Keep all official documents in a safe folder.",
     "example_uz": "Barcha rasmiy hujjatlarni maxsus papkada saqlang.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈdɑkjəmɛnt/"
   },
   {
     "id": 199,
@@ -1987,7 +2185,8 @@
     "pos": "noun",
     "example_en": "Quality education is the foundation of progress.",
     "example_uz": "Sifatli ta’lim — taraqqiyot poydevoridir.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˌɛdʒəˈkeɪʃən/"
   },
   {
     "id": 200,
@@ -1997,7 +2196,8 @@
     "pos": "noun",
     "example_en": "Success requires patience and daily effort.",
     "example_uz": "Muvaffaqiyat sabr-toqat va kundalik mehnatni talab qiladi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈɛfərt/"
   },
   {
     "id": 201,
@@ -2007,7 +2207,8 @@
     "pos": "noun",
     "example_en": "He passed the final English exam with a high score.",
     "example_uz": "U yakuniy ingliz tili imtihonidan yuqori ball bilan oʻtdi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ɪgˈzæm/"
   },
   {
     "id": 202,
@@ -2017,7 +2218,8 @@
     "pos": "noun",
     "example_en": "She has five years of teaching experience.",
     "example_uz": "U besh yillik oʻqituvchilik tajribasiga ega.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ɪkˈspɪriəns/"
   },
   {
     "id": 203,
@@ -2027,7 +2229,8 @@
     "pos": "noun",
     "example_en": "The textile factory produces high-quality cotton fabric.",
     "example_uz": "Toʻqimachilik fabrikasi yuqori sifatli paxta mato ishlab chiqaradi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈfæktəri/"
   },
   {
     "id": 204,
@@ -2037,7 +2240,8 @@
     "pos": "noun",
     "example_en": "My main goal this year is to speak English fluently.",
     "example_uz": "Bu yilgi asosiy maqsadim — ingliz tilida ravon gapirish.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/goʊl/"
   },
   {
     "id": 205,
@@ -2047,7 +2251,8 @@
     "pos": "noun",
     "example_en": "She received top grades in all her subjects.",
     "example_uz": "U barcha fanlardan a’lo baholar oldi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/greɪd/"
   },
   {
     "id": 206,
@@ -2057,7 +2262,8 @@
     "pos": "noun",
     "example_en": "Always finish your homework before watching television.",
     "example_uz": "Televizor koʻrishdan oldin doimo uy vazifangizni bajaring.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈhoʊmˌwərk/"
   },
   {
     "id": 207,
@@ -2067,7 +2273,8 @@
     "pos": "noun",
     "example_en": "That is a brilliant idea for our new project!",
     "example_uz": "Bu yangi loyihamiz uchun juda ajoyib gʻoya!",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/aɪˈdiə/"
   },
   {
     "id": 208,
@@ -2077,7 +2284,8 @@
     "pos": "noun",
     "example_en": "You can find detailed information on our website.",
     "example_uz": "Batafsil ma’lumotni veb-saytimizdan topishingiz mumkin.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˌɪnˌfɔrˈmeɪʃən/"
   },
   {
     "id": 209,
@@ -2087,7 +2295,8 @@
     "pos": "noun",
     "example_en": "Arrive ten minutes early for your job interview.",
     "example_uz": "Ishga kirish suhbatiga oʻn daqiqa oldinroq boring.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈɪntərvˌju/"
   },
   {
     "id": 210,
@@ -2097,7 +2306,8 @@
     "pos": "noun",
     "example_en": "He found a great job at a software company.",
     "example_uz": "U dasturiy ta’minot kompaniyasidan yaxshi ish topdi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/dʒɑb/"
   },
   {
     "id": 211,
@@ -2107,7 +2317,8 @@
     "pos": "noun",
     "example_en": "Sharing knowledge makes everyone wiser.",
     "example_uz": "Bilim ulashish hammani yanada dono qiladi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈnɑlədʒ/"
   },
   {
     "id": 212,
@@ -2117,7 +2328,8 @@
     "pos": "noun",
     "example_en": "Knowing a second language helps you travel with confidence.",
     "example_uz": "Ikkinchi tilni bilish ishonch bilan sayohat qilishga yordam beradi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈlæŋgwədʒ/"
   },
   {
     "id": 213,
@@ -2127,7 +2339,8 @@
     "pos": "noun",
     "example_en": "Today's lesson is about everyday English verbs.",
     "example_uz": "Bugungi darsimiz kundalik inglizcha fe’llar haqida.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈlɛsən/"
   },
   {
     "id": 214,
@@ -2137,7 +2350,8 @@
     "pos": "noun",
     "example_en": "Students study quietly in the national library.",
     "example_uz": "Talabalar milliy kutubxonada tinch oʻtirib dars tayyorlaydilar.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈlaɪbrɛˌri/"
   },
   {
     "id": 215,
@@ -2147,7 +2361,8 @@
     "pos": "noun",
     "example_en": "The project manager approved our weekly schedule.",
     "example_uz": "Loyiha menejeri haftalik ish jadvalimizni tasdiqladi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈmænədʒər/"
   },
   {
     "id": 216,
@@ -2157,7 +2372,8 @@
     "pos": "noun",
     "example_en": "We have a staff meeting every Monday morning.",
     "example_uz": "Har dushanba ertalab xodimlar yigʻilishini oʻtkazamiz.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈmitɪŋ/"
   },
   {
     "id": 217,
@@ -2167,7 +2383,8 @@
     "pos": "noun",
     "example_en": "Don't be afraid of making mistakes when speaking.",
     "example_uz": "Gapirayotganda xato qilishdan qoʻrqmang.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/mɪˈsteɪk/"
   },
   {
     "id": 218,
@@ -2177,7 +2394,8 @@
     "pos": "noun",
     "example_en": "Write down new expressions in your vocabulary notebook.",
     "example_uz": "Yangi iboralarni lugʻat daftaringizga yozib boring.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈnoʊtˌbʊk/"
   },
   {
     "id": 219,
@@ -2187,7 +2405,8 @@
     "pos": "noun",
     "example_en": "Our office is on the fifth floor of the business center.",
     "example_uz": "Idoramiz biznes markazining beshinchi qavatida joylashgan.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈɔfəs/"
   },
   {
     "id": 220,
@@ -2197,7 +2416,8 @@
     "pos": "noun",
     "example_en": "Read the text on page twelve and answer the questions.",
     "example_uz": "Oʻn ikkinchi betdagi matnni oʻqing va savollarga javob bering.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/peɪdʒ/"
   },
   {
     "id": 221,
@@ -2207,7 +2427,8 @@
     "pos": "noun",
     "example_en": "Please sign the form with a blue or black pen.",
     "example_uz": "Iltimos, blankani koʻk yoki qora ruchka bilan imzolang.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/pɛn/"
   },
   {
     "id": 222,
@@ -2217,7 +2438,8 @@
     "pos": "noun",
     "example_en": "Draw the diagram lightly with a sharp pencil.",
     "example_uz": "Chizmani uchi chiqarilgan qalam bilan yengil chizing.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈpɛnsəl/"
   },
   {
     "id": 223,
@@ -2227,7 +2449,8 @@
     "pos": "noun",
     "example_en": "Our team completed the engineering project ahead of time.",
     "example_uz": "Jamoamiz muhandislik loyihasini muddatidan oldin yakunladi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈprɑdʒɛkt/"
   },
   {
     "id": 224,
@@ -2237,7 +2460,8 @@
     "pos": "noun",
     "example_en": "The company pays a competitive monthly salary.",
     "example_uz": "Kompaniya raqobatbardosh oylik maosh toʻlaydi.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˈsæləri/"
   },
   {
     "id": 225,
@@ -2247,7 +2471,8 @@
     "pos": "noun",
     "example_en": "Thousands of students graduate from university every summer.",
     "example_uz": "Har yili yozda minglab talabalar universitetni tamomlaydilar.",
-    "category": "Work & Study"
+    "category": "Work & Study",
+    "ipa": "/ˌjunəˈvərsəti/"
   },
   {
     "id": 226,
@@ -2257,7 +2482,8 @@
     "pos": "noun",
     "example_en": "Please write your full home address on this card.",
     "example_uz": "Iltimos, ushbu kartochkaga toʻliq uy manzilingizni yozing.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈæˌdrɛs/"
   },
   {
     "id": 227,
@@ -2267,7 +2493,8 @@
     "pos": "noun",
     "example_en": "The airplane landed safely at Tashkent International Airport.",
     "example_uz": "Samolyot Toshkent xalqaro aeroportiga eson-omon qoʻndi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈɛrˌpleɪn/"
   },
   {
     "id": 228,
@@ -2277,7 +2504,8 @@
     "pos": "noun",
     "example_en": "We arrived at the airport two hours before the flight.",
     "example_uz": "Parvozdan ikki soat oldin aeroportga yetib bordik.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈɛrˌpɔrt/"
   },
   {
     "id": 229,
@@ -2287,7 +2515,8 @@
     "pos": "noun",
     "example_en": "You can exchange foreign currency at the bank.",
     "example_uz": "Bankda xorijiy valyutani almashtirishingiz mumkin.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/bæŋk/"
   },
   {
     "id": 230,
@@ -2297,7 +2526,8 @@
     "pos": "noun",
     "example_en": "Tourists walked along the sandy beach at sunset.",
     "example_uz": "Sayyohlar quyosh botishida qumli sohil boʻylab sayr qilishdi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/bitʃ/"
   },
   {
     "id": 231,
@@ -2307,7 +2537,8 @@
     "pos": "noun",
     "example_en": "Riding a bicycle is a clean way to travel around town.",
     "example_uz": "Velosipedda yurish shahar boʻylab harakatlanishning ekologik toza usulidir.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈbaɪsɪkəl/"
   },
   {
     "id": 232,
@@ -2317,7 +2548,8 @@
     "pos": "noun",
     "example_en": "Officers checked our passports at the state border.",
     "example_uz": "Chegarada xodimlar pasportlarimizni tekshirishdi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈbɔrdər/"
   },
   {
     "id": 233,
@@ -2327,7 +2559,8 @@
     "pos": "noun",
     "example_en": "A modern bridge crosses the wide river.",
     "example_uz": "Keng daryo ustidan zamonaviy koʻprik oʻtgan.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/brɪdʒ/"
   },
   {
     "id": 234,
@@ -2337,7 +2570,8 @@
     "pos": "noun",
     "example_en": "Historic buildings in Khiva attract visitors from all over the world.",
     "example_uz": "Xivadagi tarixiy binolar butun dunyodan sayyohlarni jalb qiladi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈbɪldɪŋ/"
   },
   {
     "id": 235,
@@ -2347,7 +2581,8 @@
     "pos": "noun",
     "example_en": "The city bus stops right in front of the museum.",
     "example_uz": "Shahar avtobusi shundoqqina muzey oldida toʻxtaydi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/bəs/"
   },
   {
     "id": 236,
@@ -2357,7 +2592,8 @@
     "pos": "noun",
     "example_en": "Tashkent is the capital and largest city of Uzbekistan.",
     "example_uz": "Toshkent — Oʻzbekistonning poytaxti va eng yirik shahri.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈkæpɪtəl/"
   },
   {
     "id": 237,
@@ -2367,7 +2603,8 @@
     "pos": "noun",
     "example_en": "Always fasten your seatbelt when riding in a car.",
     "example_uz": "Mashinada ketayotganda doimo xavfsizlik kamarini taqing.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/kɑr/"
   },
   {
     "id": 238,
@@ -2377,7 +2614,8 @@
     "pos": "noun",
     "example_en": "An ancient fortress castle stands on top of the hill.",
     "example_uz": "Tepalik ustida qadimiy qal’a qad rostlab turibdi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈkæsəl/"
   },
   {
     "id": 239,
@@ -2387,7 +2625,8 @@
     "pos": "noun",
     "example_en": "The hotel is located in the very center of the city.",
     "example_uz": "Mehmonxona shaharning qoq markazida joylashgan.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈsɛntər/"
   },
   {
     "id": 240,
@@ -2397,7 +2636,8 @@
     "pos": "noun",
     "example_en": "Samarkand is one of the oldest cities in the world.",
     "example_uz": "Samarqand — dunyodagi eng qadimiy shaharlardan biri.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈsɪti/"
   },
   {
     "id": 241,
@@ -2407,7 +2647,8 @@
     "pos": "noun",
     "example_en": "Every country has its own rich traditions and culture.",
     "example_uz": "Har bir mamlakatning oʻz boy an’analari va madaniyati bor.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈkəntri/"
   },
   {
     "id": 242,
@@ -2417,7 +2658,8 @@
     "pos": "noun",
     "example_en": "The Kyzylkum desert stretches across a vast territory.",
     "example_uz": "Qizilqum choʻli bepoyon hudud boʻylab choʻzilgan.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈdɛzərt/"
   },
   {
     "id": 243,
@@ -2427,7 +2669,8 @@
     "pos": "noun",
     "example_en": "We asked a local resident for the right direction.",
     "example_uz": "Mahalliy aholidan toʻgʻri yoʻnalishni soʻradik.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/dərˈɛkʃən/"
   },
   {
     "id": 244,
@@ -2437,7 +2680,8 @@
     "pos": "noun",
     "example_en": "Let's meet at the main entrance of the metro station.",
     "example_uz": "Metro bekatining asosiy kirish joyida uchrashamiz.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈɛntrəns/"
   },
   {
     "id": 245,
@@ -2447,7 +2691,8 @@
     "pos": "noun",
     "example_en": "Follow the green signs to the emergency exit.",
     "example_uz": "Zaxira chiqish joyiga borish uchun yashil belgilarga amal qiling.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈɛgzɪt/"
   },
   {
     "id": 246,
@@ -2457,7 +2702,8 @@
     "pos": "noun",
     "example_en": "Our morning flight to Istanbul was smooth and on time.",
     "example_uz": "Istanbulga ertalabki parvozimiz tinch va oʻz vaqtida oʻtdi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/flaɪt/"
   },
   {
     "id": 247,
@@ -2467,7 +2713,8 @@
     "pos": "noun",
     "example_en": "Tall pine trees grow in the mountain forest.",
     "example_uz": "Togʻ oʻrmonida baland qaragʻay daraxtlari oʻsadi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈfɔrəst/"
   },
   {
     "id": 248,
@@ -2477,7 +2724,8 @@
     "pos": "noun",
     "example_en": "The new highway connects the two major cities.",
     "example_uz": "Yangi katta yoʻl ikki yirik shaharni oʻzaro bogʻlaydi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈhaɪˌweɪ/"
   },
   {
     "id": 249,
@@ -2487,7 +2735,8 @@
     "pos": "noun",
     "example_en": "We booked a quiet room at a comfortable hotel.",
     "example_uz": "Shinam mehmonxonadan tinch xona band qildik.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/hoʊˈtɛl/"
   },
   {
     "id": 250,
@@ -2497,7 +2746,8 @@
     "pos": "noun",
     "example_en": "We took a boat trip to a small green island.",
     "example_uz": "Kichik yashil orolga qayiqda sayohat qildik.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈaɪlənd/"
   },
   {
     "id": 251,
@@ -2507,7 +2757,8 @@
     "pos": "noun",
     "example_en": "Have a safe and pleasant journey!",
     "example_uz": "Safaringiz bexatar va maroqli boʻlsin!",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈdʒərni/"
   },
   {
     "id": 252,
@@ -2517,7 +2768,8 @@
     "pos": "noun",
     "example_en": "The water in the mountain lake is crystal clear.",
     "example_uz": "Togʻ koʻlidagi suv billurdek tiniq.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/leɪk/"
   },
   {
     "id": 253,
@@ -2527,7 +2779,8 @@
     "pos": "noun",
     "example_en": "Do not leave your luggage unattended at the station.",
     "example_uz": "Vokzalda yukingizni qarovsiz qoldirmang.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈləgədʒ/"
   },
   {
     "id": 254,
@@ -2537,7 +2790,8 @@
     "pos": "noun",
     "example_en": "Download an offline city map before your trip.",
     "example_uz": "Safardan oldin shaharning oflayn xaritasini yuklab oling.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/mæp/"
   },
   {
     "id": 255,
@@ -2547,7 +2801,8 @@
     "pos": "noun",
     "example_en": "Chorsu market is full of spices, dried fruit, and fresh bread.",
     "example_uz": "Chorsu bozori ziravorlar, quruq mevalar va issiq nonlarga toʻla.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈmɑrkət/"
   },
   {
     "id": 256,
@@ -2557,7 +2812,8 @@
     "pos": "noun",
     "example_en": "In winter, the Chimgan mountains are covered with white snow.",
     "example_uz": "Qishda Chimyong togʻlari oppoq qor bilan qoplanadi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈmaʊntən/"
   },
   {
     "id": 257,
@@ -2567,7 +2823,8 @@
     "pos": "noun",
     "example_en": "We saw rare historical manuscripts at the museum.",
     "example_uz": "Muzeyda noyob tarixiy qoʻlyozmalarni koʻrdik.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/mjuˈziəm/"
   },
   {
     "id": 258,
@@ -2577,7 +2834,8 @@
     "pos": "noun",
     "example_en": "The Pacific Ocean is the largest ocean on Earth.",
     "example_uz": "Tinch okeani — Yer yuzidagi eng katta okean.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈoʊʃən/"
   },
   {
     "id": 259,
@@ -2587,7 +2845,8 @@
     "pos": "noun",
     "example_en": "Families enjoy walking under the shady trees in the park.",
     "example_uz": "Oilalar bogʻdagi soyali daraxtlar ostida sayr qilishni yoqtirishadi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/pɑrk/"
   },
   {
     "id": 260,
@@ -2597,7 +2856,8 @@
     "pos": "noun",
     "example_en": "Every passenger must show a boarding pass.",
     "example_uz": "Har bir yoʻlovchi chiqish talonini koʻrsatishi shart.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈpæsəndʒər/"
   },
   {
     "id": 261,
@@ -2607,7 +2867,8 @@
     "pos": "noun",
     "example_en": "Always keep your passport in a secure pocket when traveling.",
     "example_uz": "Sayohat paytida pasportingizni doimo ishonchli choʻntakda saqlang.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈpæˌspɔrt/"
   },
   {
     "id": 262,
@@ -2617,7 +2878,8 @@
     "pos": "noun",
     "example_en": "There is a twenty-four-hour pharmacy across the street.",
     "example_uz": "Koʻchaning narigi tomonida tunu kun ishlaydigan dorixona bor.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈfɑrməsi/"
   },
   {
     "id": 263,
@@ -2627,7 +2889,8 @@
     "pos": "noun",
     "example_en": "This restaurant serves delicious traditional Uzbek dishes.",
     "example_uz": "Ushbu restoranda mazali milliy oʻzbek taomlari tortiladi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈrɛstərˌɑnt/"
   },
   {
     "id": 264,
@@ -2637,7 +2900,8 @@
     "pos": "noun",
     "example_en": "The Syr Darya and Amu Darya are great rivers of Central Asia.",
     "example_uz": "Sirdaryo va Amudaryo — Markaziy Osiyoning buyuk daryolaridir.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈrɪvər/"
   },
   {
     "id": 265,
@@ -2647,7 +2911,8 @@
     "pos": "noun",
     "example_en": "Look both ways before crossing the road.",
     "example_uz": "Yoʻlni kesib oʻtishdan oldin ikkala tomonga qarang.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/roʊd/"
   },
   {
     "id": 266,
@@ -2657,7 +2922,8 @@
     "pos": "noun",
     "example_en": "The high-speed train leaves from the central station.",
     "example_uz": "Tezyurar poyezd markaziy vokzaldan joʻnaydi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈsteɪʃən/"
   },
   {
     "id": 267,
@@ -2667,7 +2933,8 @@
     "pos": "noun",
     "example_en": "Trees were planted along both sides of the wide street.",
     "example_uz": "Keng koʻchaning ikki chetiga daraxtlar ekildi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/strit/"
   },
   {
     "id": 268,
@@ -2677,7 +2944,8 @@
     "pos": "noun",
     "example_en": "Buy your return train ticket online in advance.",
     "example_uz": "Qaytish poyezd chiptasini oldindan onlayn xarid qiling.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈtɪkət/"
   },
   {
     "id": 269,
@@ -2687,7 +2955,8 @@
     "pos": "noun",
     "example_en": "The Afrosiyob train reaches Samarkand in two hours.",
     "example_uz": "Afrosiyob poyezdi Samarqandga ikki soatda yetib boradi.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/treɪn/"
   },
   {
     "id": 270,
@@ -2697,7 +2966,8 @@
     "pos": "noun",
     "example_en": "Mountain villages have clean air and peaceful nature.",
     "example_uz": "Togʻ qishloqlarida toza havo va sokin tabiat bor.",
-    "category": "Travel & Places"
+    "category": "Travel & Places",
+    "ipa": "/ˈvɪlədʒ/"
   },
   {
     "id": 271,
@@ -2707,7 +2977,8 @@
     "pos": "noun",
     "example_en": "Let's meet at three o'clock in the afternoon.",
     "example_uz": "Tushdan keyin soat uchda uchrashaylik.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˌæftərˈnun/"
   },
   {
     "id": 272,
@@ -2717,7 +2988,8 @@
     "pos": "noun",
     "example_en": "In autumn, tree leaves turn golden and red.",
     "example_uz": "Kuzda daraxt barglari oltin va qizil rangga kiradi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈɔtəm/"
   },
   {
     "id": 273,
@@ -2727,7 +2999,8 @@
     "pos": "noun",
     "example_en": "We wished our teacher a happy birthday.",
     "example_uz": "Oʻqituvchimizni tugʻilgan kuni bilan tabrikladik.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈbərθˌdeɪ/"
   },
   {
     "id": 274,
@@ -2737,7 +3010,8 @@
     "pos": "noun",
     "example_en": "Mark the exam date on your wall calendar.",
     "example_uz": "Imtihon sanasini devor taqvimingizga belgilab qoʻying.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈkæləndər/"
   },
   {
     "id": 275,
@@ -2747,7 +3021,8 @@
     "pos": "noun",
     "example_en": "Registan Square was built several centuries ago.",
     "example_uz": "Registon maydoni bir necha asr muqaddam bunyod etilgan.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈsɛntʃəri/"
   },
   {
     "id": 276,
@@ -2757,7 +3032,8 @@
     "pos": "adv",
     "example_en": "Review your flashcards daily for fifteen minutes.",
     "example_uz": "Lugʻat kartochkalaringizni har kuni oʻn besh daqiqa takrorlang.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈdeɪli/"
   },
   {
     "id": 277,
@@ -2767,7 +3043,8 @@
     "pos": "noun",
     "example_en": "What is today's date on the calendar?",
     "example_uz": "Bugun taqvim boʻyicha qaysi sana?",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/deɪt/"
   },
   {
     "id": 278,
@@ -2777,7 +3054,8 @@
     "pos": "noun",
     "example_en": "There are seven days in a week.",
     "example_uz": "Bir haftada yetti kun bor.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/deɪ/"
   },
   {
     "id": 279,
@@ -2787,7 +3065,8 @@
     "pos": "noun",
     "example_en": "The city has changed a lot over the past decade.",
     "example_uz": "Soʻnggi oʻn yillikda shahar juda koʻp oʻzgardi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/dɛˈkeɪd/"
   },
   {
     "id": 280,
@@ -2797,7 +3076,8 @@
     "pos": "adj",
     "example_en": "We booked a double room at the hotel.",
     "example_uz": "Mehmonxonadan ikki kishilik xona band qildik.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈdəbəl/"
   },
   {
     "id": 281,
@@ -2807,7 +3087,8 @@
     "pos": "adv",
     "example_en": "Waking up early gives you extra time in the morning.",
     "example_uz": "Erta uygʻonish ertalab sizga qoʻshimcha vaqt beradi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈərli/"
   },
   {
     "id": 282,
@@ -2817,7 +3098,8 @@
     "pos": "noun",
     "example_en": "Lessons at our school start at eight o'clock.",
     "example_uz": "Maktabimizda darslar soat sakkizda boshlanadi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/eɪt/"
   },
   {
     "id": 283,
@@ -2827,7 +3109,8 @@
     "pos": "noun",
     "example_en": "A football team has eleven players on the field.",
     "example_uz": "Futbol jamoasida maydonda oʻn bitta oʻyinchi boʻladi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ɪˈlɛvən/"
   },
   {
     "id": 284,
@@ -2837,7 +3120,8 @@
     "pos": "noun",
     "example_en": "I like reading books in the quiet evening.",
     "example_uz": "Sokin oqshomda kitob oʻqishni yoqtiraman.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈivnɪŋ/"
   },
   {
     "id": 285,
@@ -2847,7 +3131,8 @@
     "pos": "noun",
     "example_en": "We have a fifteen-minute break between classes.",
     "example_uz": "Darslar orasida oʻn besh daqiqalik tanaffusimiz bor.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/fɪfˈtin/"
   },
   {
     "id": 286,
@@ -2857,7 +3142,8 @@
     "pos": "adj",
     "example_en": "May is the fifth month of the year.",
     "example_uz": "May — yilning beshinchi oyi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/fɪfθ/"
   },
   {
     "id": 287,
@@ -2867,7 +3153,8 @@
     "pos": "noun",
     "example_en": "There are fifty questions in the test.",
     "example_uz": "Testda ellikta savol bor.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈfɪfti/"
   },
   {
     "id": 288,
@@ -2877,7 +3164,8 @@
     "pos": "adj",
     "example_en": "January is the first month of the calendar year.",
     "example_uz": "Yanvar — taqvim yilining birinchi oyi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/fərst/"
   },
   {
     "id": 289,
@@ -2887,7 +3175,8 @@
     "pos": "noun",
     "example_en": "Most people work five days a week.",
     "example_uz": "Koʻpchilik haftasiga besh kun ishlaydi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/faɪv/"
   },
   {
     "id": 290,
@@ -2897,7 +3186,8 @@
     "pos": "noun",
     "example_en": "There are four seasons in a year.",
     "example_uz": "Bir yilda toʻrtta fasl bor.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/fɔr/"
   },
   {
     "id": 291,
@@ -2907,7 +3197,8 @@
     "pos": "noun",
     "example_en": "Your hard work today builds your future tomorrow.",
     "example_uz": "Bugungi mehnatingiz ertangi kelajagingizni quradi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/fˈjutʃər/"
   },
   {
     "id": 292,
@@ -2917,7 +3208,8 @@
     "pos": "noun",
     "example_en": "Wait half an hour for the bread to cool down.",
     "example_uz": "Non sovishi uchun yarim soat kuting.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/hæf/"
   },
   {
     "id": 293,
@@ -2927,7 +3219,8 @@
     "pos": "noun",
     "example_en": "Navruz is a joyful spring holiday in Uzbekistan.",
     "example_uz": "Navroʻz — Oʻzbekistonda quvonchli bahor bayrami.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈhɑləˌdeɪ/"
   },
   {
     "id": 294,
@@ -2937,7 +3230,8 @@
     "pos": "noun",
     "example_en": "One hour consists of sixty minutes.",
     "example_uz": "Bir soat oltmish daqiqadan iborat.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/aʊər/"
   },
   {
     "id": 295,
@@ -2947,7 +3241,8 @@
     "pos": "noun",
     "example_en": "More than four hundred words are in this deck.",
     "example_uz": "Ushbu toʻplamda toʻrt yuzdan ortiq soʻz bor.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈhəndrəd/"
   },
   {
     "id": 296,
@@ -2957,7 +3252,8 @@
     "pos": "adv",
     "example_en": "Try not to arrive late for an important meeting.",
     "example_uz": "Muhim uchrashuvga kech qolmaslikka harakat qiling.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/leɪt/"
   },
   {
     "id": 297,
@@ -2967,7 +3263,8 @@
     "pos": "noun",
     "example_en": "The streets become very quiet after midnight.",
     "example_uz": "Yarim tundan keyin koʻchalar juda tinch boʻlib qoladi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈmɪdˌnaɪt/"
   },
   {
     "id": 298,
@@ -2977,7 +3274,8 @@
     "pos": "noun",
     "example_en": "Over three million people live in our capital city.",
     "example_uz": "Poytaxtimizda uch milliondan ortiq aholi istiqomat qiladi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈmɪljən/"
   },
   {
     "id": 299,
@@ -2987,7 +3285,8 @@
     "pos": "noun",
     "example_en": "The bus will arrive in five minutes.",
     "example_uz": "Avtobus besh daqiqada yetib keladi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈmɪnət/"
   },
   {
     "id": 300,
@@ -2997,7 +3296,8 @@
     "pos": "noun",
     "example_en": "Please wait a moment while I check the schedule.",
     "example_uz": "Jadvalni tekshirgunimcha bir lahza kutib turing.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈmoʊmənt/"
   },
   {
     "id": 301,
@@ -3007,7 +3307,8 @@
     "pos": "noun",
     "example_en": "There are twelve months in a year.",
     "example_uz": "Bir yilda oʻn ikki oy bor.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/mənθ/"
   },
   {
     "id": 302,
@@ -3017,7 +3318,8 @@
     "pos": "noun",
     "example_en": "Fresh morning air gives you energy for the whole day.",
     "example_uz": "Toza tonggi havo kun boʻyi quvvat bagʻishlaydi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈmɔrnɪŋ/"
   },
   {
     "id": 303,
@@ -3027,7 +3329,8 @@
     "pos": "noun",
     "example_en": "Bright stars shone in the clear night sky.",
     "example_uz": "Tiniq tungi osmonda yorqin yulduzlar porlardi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/naɪt/"
   },
   {
     "id": 304,
@@ -3037,7 +3340,8 @@
     "pos": "noun",
     "example_en": "The library opens at nine every morning.",
     "example_uz": "Kutubxona har kuni ertalab soat toʻqqizda ochiladi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/naɪn/"
   },
   {
     "id": 305,
@@ -3047,7 +3351,8 @@
     "pos": "noun",
     "example_en": "We learn valuable lessons from the past.",
     "example_uz": "Biz oʻtmishdan qimmatli saboqlar olamiz.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/pæst/"
   },
   {
     "id": 306,
@@ -3057,7 +3362,8 @@
     "pos": "noun",
     "example_en": "Following a daily schedule helps you manage time well.",
     "example_uz": "Kundalik jadvalga amal qilish vaqtni toʻgʻri taqsimlashga yordam beradi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈskɛdʒʊl/"
   },
   {
     "id": 307,
@@ -3067,7 +3373,8 @@
     "pos": "noun",
     "example_en": "Spring is my favorite season of the year.",
     "example_uz": "Bahor — yilning men eng yoqtirgan fasli.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈsizən/"
   },
   {
     "id": 308,
@@ -3077,7 +3384,8 @@
     "pos": "noun",
     "example_en": "Wait thirty seconds for the page to load.",
     "example_uz": "Sahifa yuklanishi uchun oʻttiz soniya kuting.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈsɛkənd/"
   },
   {
     "id": 309,
@@ -3087,7 +3395,8 @@
     "pos": "noun",
     "example_en": "I wake up at seven o'clock every morning.",
     "example_uz": "Har kuni ertalab soat yettida uygʻonaman.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈsɛvən/"
   },
   {
     "id": 310,
@@ -3097,7 +3406,8 @@
     "pos": "noun",
     "example_en": "Fruit trees blossom beautifully in spring.",
     "example_uz": "Bahorda mevali daraxtlar chiroyli boʻlib gullaydi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/sprɪŋ/"
   },
   {
     "id": 311,
@@ -3107,7 +3417,8 @@
     "pos": "noun",
     "example_en": "Summer days are long, sunny, and warm.",
     "example_uz": "Yoz kunlari uzun, quyoshli va issiq boʻladi.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈsəmər/"
   },
   {
     "id": 312,
@@ -3117,7 +3428,8 @@
     "pos": "noun",
     "example_en": "One kilometer equals one thousand meters.",
     "example_uz": "Bir kilometr ming metrga teng.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈθaʊzənd/"
   },
   {
     "id": 313,
@@ -3127,7 +3439,8 @@
     "pos": "adv",
     "example_en": "We will start the new chapter tomorrow.",
     "example_uz": "Yangi bobni ertaga boshlaymiz.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/təˈmɑˌroʊ/"
   },
   {
     "id": 314,
@@ -3137,7 +3450,8 @@
     "pos": "noun",
     "example_en": "How do you usually spend your weekend?",
     "example_uz": "Dam olish kunlarini odatda qanday oʻtkazasiz?",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈwiˌkɛnd/"
   },
   {
     "id": 315,
@@ -3147,7 +3461,8 @@
     "pos": "noun",
     "example_en": "Children love making snowmen in winter.",
     "example_uz": "Bolalar qishda qorbobo yasashni yaxshi koʻradilar.",
-    "category": "Time & Numbers"
+    "category": "Time & Numbers",
+    "ipa": "/ˈwɪntər/"
   },
   {
     "id": 316,
@@ -3157,7 +3472,8 @@
     "pos": "adj",
     "example_en": "Will you be able to attend the meeting tomorrow?",
     "example_uz": "Ertaga yigʻilishda qatnasha olasizmi?",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈeɪbəl/"
   },
   {
     "id": 317,
@@ -3167,7 +3483,8 @@
     "pos": "adj",
     "example_en": "Bukhara is famous for its ancient architecture.",
     "example_uz": "Buxoro oʻzining qadimiy me’morchiligi bilan mashhur.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈeɪntʃənt/"
   },
   {
     "id": 318,
@@ -3177,7 +3494,8 @@
     "pos": "adj",
     "example_en": "Is this seat available or taken?",
     "example_uz": "Bu oʻrin boʻshmi yoki bandmi?",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/əˈveɪləbəl/"
   },
   {
     "id": 319,
@@ -3187,7 +3505,8 @@
     "pos": "adj",
     "example_en": "What a beautiful view of the mountains!",
     "example_uz": "Togʻlarning manzarasi naqadar goʻzal!",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈbjutəfəl/"
   },
   {
     "id": 320,
@@ -3197,7 +3516,8 @@
     "pos": "adj",
     "example_en": "They live in a big house with a green courtyard.",
     "example_uz": "Ular yashil hovlili katta uyda yashaydilar.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/bɪg/"
   },
   {
     "id": 321,
@@ -3207,7 +3527,8 @@
     "pos": "adj",
     "example_en": "The classroom has bright lights and wide windows.",
     "example_uz": "Sinf xonasida yorugʻ chiroqlar va keng derazalar bor.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/braɪt/"
   },
   {
     "id": 322,
@@ -3217,7 +3538,8 @@
     "pos": "adj",
     "example_en": "Monday is usually the busiest day of the week.",
     "example_uz": "Dushanba odatda haftaning eng tigʻiz kuni boʻladi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈbɪzi/"
   },
   {
     "id": 323,
@@ -3227,7 +3549,8 @@
     "pos": "adj",
     "example_en": "Be careful when crossing a busy street.",
     "example_uz": "Gavjum koʻchani kesib oʻtayotganda ehtiyot boʻling.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈkɛrfəl/"
   },
   {
     "id": 324,
@@ -3237,7 +3560,8 @@
     "pos": "adj",
     "example_en": "Fresh vegetables are cheap at the autumn market.",
     "example_uz": "Kuzgi bozorda yangi sabzavotlar arzon boʻladi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/tʃip/"
   },
   {
     "id": 325,
@@ -3247,7 +3571,8 @@
     "pos": "adj",
     "example_en": "The teacher gave a very clear explanation.",
     "example_uz": "Oʻqituvchi juda aniq tushuntirish berdi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/klɪr/"
   },
   {
     "id": 326,
@@ -3257,7 +3582,8 @@
     "pos": "adj",
     "example_en": "Drink something warm on a cold winter evening.",
     "example_uz": "Sovuq qish oqshomida issiqroq narsa iching.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/koʊld/"
   },
   {
     "id": 327,
@@ -3267,7 +3593,8 @@
     "pos": "adj",
     "example_en": "Wear comfortable shoes when walking a long distance.",
     "example_uz": "Uzoq masofaga piyoda yurganda qulay poyabzal kiying.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈkəmfərtəbəl/"
   },
   {
     "id": 328,
@@ -3277,7 +3604,8 @@
     "pos": "adj",
     "example_en": "These four hundred words are very common in English.",
     "example_uz": "Ushbu toʻrt yuzta soʻz ingliz tilida juda koʻp uchraydi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈkɑmən/"
   },
   {
     "id": 329,
@@ -3287,7 +3615,8 @@
     "pos": "adj",
     "example_en": "Driving fast on icy roads is dangerous.",
     "example_uz": "Muzlagan yoʻlda mashinani tez haydash xavfli.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈdeɪndʒərəs/"
   },
   {
     "id": 330,
@@ -3297,7 +3626,8 @@
     "pos": "adj",
     "example_en": "It gets dark early in December.",
     "example_uz": "Dekabr oyida kun erta qorongʻilashadi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/dɑrk/"
   },
   {
     "id": 331,
@@ -3307,7 +3637,8 @@
     "pos": "adj",
     "example_en": "Take a deep breath and speak calmly.",
     "example_uz": "Chuqur nafas oling va xotirjam gapiring.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/dip/"
   },
   {
     "id": 332,
@@ -3317,7 +3648,8 @@
     "pos": "adj",
     "example_en": "People from different countries attended the festival.",
     "example_uz": "Festivalda turli mamlakatlardan kelgan odamlar qatnashdi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈdɪfərənt/"
   },
   {
     "id": 333,
@@ -3327,7 +3659,8 @@
     "pos": "adj",
     "example_en": "Even a difficult task becomes easy with practice.",
     "example_uz": "Hatto qiyin vazifa ham mashq bilan osonlashadi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈdɪfəkəlt/"
   },
   {
     "id": 334,
@@ -3337,7 +3670,8 @@
     "pos": "adj",
     "example_en": "Put your dirty clothes in the washing machine.",
     "example_uz": "Kir kiyimlaringizni kir yuvish mashinasiga soling.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈdərti/"
   },
   {
     "id": 335,
@@ -3347,7 +3681,8 @@
     "pos": "adj",
     "example_en": "Keep matches and paper in a dry place.",
     "example_uz": "Gugurt va qogʻozlarni quruq joyda saqlang.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/draɪ/"
   },
   {
     "id": 336,
@@ -3357,7 +3692,8 @@
     "pos": "adj",
     "example_en": "The first questions on the test were quite easy.",
     "example_uz": "Testning birinchi savollari ancha oson edi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈizi/"
   },
   {
     "id": 337,
@@ -3367,7 +3703,8 @@
     "pos": "adj",
     "example_en": "There were three empty seats on the bus.",
     "example_uz": "Avtobusda uchta boʻsh joy bor edi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈɛmpti/"
   },
   {
     "id": 338,
@@ -3377,7 +3714,8 @@
     "pos": "adj",
     "example_en": "This watch looks expensive, but it is durable.",
     "example_uz": "Bu soat qimmat koʻrinadi, lekin juda chidamli.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ɪkˈspɛnsɪv/"
   },
   {
     "id": 339,
@@ -3387,7 +3725,8 @@
     "pos": "adj",
     "example_en": "Ibn Sina is a famous scientist and physician.",
     "example_uz": "Ibn Sino — mashhur olim va tabibdir.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈfeɪməs/"
   },
   {
     "id": 340,
@@ -3397,7 +3736,8 @@
     "pos": "adj",
     "example_en": "The high-speed train is fast and comfortable.",
     "example_uz": "Tezyurar poyezd tez va qulaydir.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/fæst/"
   },
   {
     "id": 341,
@@ -3407,7 +3747,8 @@
     "pos": "adj",
     "example_en": "She speaks two foreign languages fluently.",
     "example_uz": "U ikkita xorijiy tilda ravon gaplashadi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈfɔrən/"
   },
   {
     "id": 342,
@@ -3417,7 +3758,8 @@
     "pos": "adj",
     "example_en": "Are you free this Saturday afternoon?",
     "example_uz": "Shu shanba tushdan keyin boʻshmisiz?",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/fri/"
   },
   {
     "id": 343,
@@ -3427,7 +3769,8 @@
     "pos": "adj",
     "example_en": "We buy fresh greens and bread every morning.",
     "example_uz": "Biz har kuni ertalab barra koʻkatlar va issiq non olamiz.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/frɛʃ/"
   },
   {
     "id": 344,
@@ -3437,7 +3780,8 @@
     "pos": "adj",
     "example_en": "The basket is full of sweet red apples.",
     "example_uz": "Savat qip-qizil shirin olmalarga toʻla.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/fʊl/"
   },
   {
     "id": 345,
@@ -3447,7 +3791,8 @@
     "pos": "adj",
     "example_en": "Thank you for your generous help and support.",
     "example_uz": "Saxiy yordamingiz va qoʻllab-quvvatlaganingiz uchun rahmat.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈdʒɛnərəs/"
   },
   {
     "id": 346,
@@ -3457,7 +3802,8 @@
     "pos": "adj",
     "example_en": "Starting the day with a good habit brings success.",
     "example_uz": "Kunni yaxshi odat bilan boshlash muvaffaqiyat keltiradi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/gʊd/"
   },
   {
     "id": 347,
@@ -3467,7 +3813,8 @@
     "pos": "adj",
     "example_en": "This suitcase is too heavy to carry alone.",
     "example_uz": "Bu jomadon yolgʻiz koʻtarish uchun juda ogʻirlik qiladi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈhɛvi/"
   },
   {
     "id": 348,
@@ -3477,7 +3824,8 @@
     "pos": "adj",
     "example_en": "Flashcards are very helpful for memorizing vocabulary.",
     "example_uz": "Lugʻat kartochkalari soʻzlarni yodlashda juda foydali.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈhɛlpfəl/"
   },
   {
     "id": 349,
@@ -3487,7 +3835,8 @@
     "pos": "adj",
     "example_en": "High mountains surround the green valley.",
     "example_uz": "Baland togʻlar yashil vodiyni oʻrab turadi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/haɪ/"
   },
   {
     "id": 350,
@@ -3497,7 +3846,8 @@
     "pos": "adj",
     "example_en": "Everyone respects an honest and fair person.",
     "example_uz": "Hamma halol va adolatli insonni hurmat qiladi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈɑnəst/"
   },
   {
     "id": 351,
@@ -3507,7 +3857,8 @@
     "pos": "adj",
     "example_en": "Be careful, the tea in the cup is very hot.",
     "example_uz": "Ehtiyot boʻling, piyoladagi choy juda issiq.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/hɑt/"
   },
   {
     "id": 352,
@@ -3517,7 +3868,8 @@
     "pos": "adj",
     "example_en": "Sleep and healthy food are important for your mind.",
     "example_uz": "Uyqu va sogʻlom ovqat aqliy faoliyat uchun muhimdir.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˌɪmˈpɔrtənt/"
   },
   {
     "id": 353,
@@ -3527,7 +3879,8 @@
     "pos": "adj",
     "example_en": "We watched an interesting documentary about nature.",
     "example_uz": "Tabiat haqida qiziqarli hujjatli film tomosha qildik.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈɪntəˌrɛstɪŋ/"
   },
   {
     "id": 354,
@@ -3537,7 +3890,8 @@
     "pos": "adj",
     "example_en": "Always speak with kind words to people around you.",
     "example_uz": "Atrofingizdagi insonlarga doimo shirin va samimiy soʻzlang.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/kaɪnd/"
   },
   {
     "id": 355,
@@ -3547,7 +3901,8 @@
     "pos": "adj",
     "example_en": "A large library was opened in the center of town.",
     "example_uz": "Shahar markazida katta kutubxona ochildi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/lɑrdʒ/"
   },
   {
     "id": 356,
@@ -3557,7 +3912,8 @@
     "pos": "adj",
     "example_en": "Visitors love tasting local food at the bazaar.",
     "example_uz": "Mehmonlar bozorda mahalliy taomlarni tatib koʻrishni yoqtiradilar.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈloʊkəl/"
   },
   {
     "id": 357,
@@ -3567,7 +3923,8 @@
     "pos": "adj",
     "example_en": "Modern classrooms use interactive screens.",
     "example_uz": "Zamonaviy sinf xonalarida interaktiv ekranlar qoʻllaniladi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈmɑdərn/"
   },
   {
     "id": 358,
@@ -3577,7 +3934,8 @@
     "pos": "adj",
     "example_en": "Pack only the necessary things for the short trip.",
     "example_uz": "Qisqa safar uchun faqat zarur narsalarni oling.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈnɛsəˌsɛri/"
   },
   {
     "id": 359,
@@ -3587,7 +3945,8 @@
     "pos": "adj",
     "example_en": "It is polite to say thank you and please.",
     "example_uz": "Rahmat va iltimos deb aytish odobdan sanaladi.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/pəˈlaɪt/"
   },
   {
     "id": 360,
@@ -3597,7 +3956,8 @@
     "pos": "adj",
     "example_en": "This dictionary contains the most useful everyday words.",
     "example_uz": "Ushbu lugʻatda eng foydali kundalik soʻzlar jamlangan.",
-    "category": "Adjectives"
+    "category": "Adjectives",
+    "ipa": "/ˈjusfəl/"
   },
   {
     "id": 361,
@@ -3607,7 +3967,8 @@
     "pos": "prep",
     "example_en": "Tell me about your favorite book.",
     "example_uz": "Menga eng sevimli kitobingiz haqida gapirib bering.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/əˈbaʊt/"
   },
   {
     "id": 362,
@@ -3617,7 +3978,8 @@
     "pos": "prep",
     "example_en": "A bright lamp hangs above the dining table.",
     "example_uz": "Ovqatlanish stoli ustida yorugʻ qandil osilib turibdi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/əˈbəv/"
   },
   {
     "id": 363,
@@ -3627,7 +3989,8 @@
     "pos": "prep",
     "example_en": "The bookshop is right across the street.",
     "example_uz": "Kitob doʻkoni koʻchaning shundoqqina narigi tomonida.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/əˈkrɔs/"
   },
   {
     "id": 364,
@@ -3637,7 +4000,8 @@
     "pos": "adv",
     "example_en": "The grammar rule is actually very simple.",
     "example_uz": "Grammatika qoidasi aslida juda oddiy.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈæˌktʃuəli/"
   },
   {
     "id": 365,
@@ -3647,7 +4011,8 @@
     "pos": "prep",
     "example_en": "Let's go for a walk after dinner.",
     "example_uz": "Kechki ovqatdan keyin sayrga chiqaylik.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈæftər/"
   },
   {
     "id": 366,
@@ -3657,7 +4022,8 @@
     "pos": "adv",
     "example_en": "Could you please repeat that sentence again?",
     "example_uz": "Iltimos, oʻsha gapni yana bir bor takrorlab bera olasizmi?",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/əˈgɛn/"
   },
   {
     "id": 367,
@@ -3667,7 +4033,8 @@
     "pos": "adv",
     "example_en": "We have almost finished our project.",
     "example_uz": "Loyihamizni deyarli tugatdik.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈɔlˌmoʊst/"
   },
   {
     "id": 368,
@@ -3677,7 +4044,8 @@
     "pos": "adv",
     "example_en": "I have already learned fifty new words this week.",
     "example_uz": "Shu haftada allaqachon ellikta yangi soʻz oʻrgandim.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ɔˈlrɛdi/"
   },
   {
     "id": 369,
@@ -3687,7 +4055,8 @@
     "pos": "adv",
     "example_en": "She speaks English and also studies German.",
     "example_uz": "U ingliz tilida gapiradi, shuningdek nemis tilini ham oʻrganadi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈɔlsoʊ/"
   },
   {
     "id": 370,
@@ -3697,7 +4066,8 @@
     "pos": "conj",
     "example_en": "Although it was raining, we enjoyed the walk.",
     "example_uz": "Yomgʻir yogʻayotgan boʻlsa ham, sayrdan zavq oldik.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˌɔlˈðoʊ/"
   },
   {
     "id": 371,
@@ -3707,7 +4077,8 @@
     "pos": "adv",
     "example_en": "He always arrives at work on time.",
     "example_uz": "U har doim ishga oʻz vaqtida keladi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈɔlˌweɪz/"
   },
   {
     "id": 372,
@@ -3717,7 +4088,8 @@
     "pos": "prep",
     "example_en": "Divide the sweets equally among the children.",
     "example_uz": "Shirinliklarni bolalar orasida teng taqsimlang.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/əˈməŋ/"
   },
   {
     "id": 373,
@@ -3727,7 +4099,8 @@
     "pos": "conj",
     "example_en": "I stayed home because the weather was stormy.",
     "example_uz": "Havo boʻronli boʻlgani uchun uyda qoldim.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/bɪˈkɔz/"
   },
   {
     "id": 374,
@@ -3737,7 +4110,8 @@
     "pos": "prep",
     "example_en": "Check your ticket before boarding the train.",
     "example_uz": "Poyezdga chiqishdan oldin chiptangizni tekshiring.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/bɪˈfɔr/"
   },
   {
     "id": 375,
@@ -3747,7 +4121,8 @@
     "pos": "prep",
     "example_en": "A small garden is behind the school building.",
     "example_uz": "Maktab binosi orqasida kichik bogʻ bor.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/bɪˈhaɪnd/"
   },
   {
     "id": 376,
@@ -3757,7 +4132,8 @@
     "pos": "prep",
     "example_en": "Write your signature below the printed line.",
     "example_uz": "Bosma chiziqning pastiga imzoyingizni qoʻying.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/bɪˈloʊ/"
   },
   {
     "id": 377,
@@ -3767,7 +4143,8 @@
     "pos": "prep",
     "example_en": "The pharmacy is between the bank and the bakery.",
     "example_uz": "Dorixona bank bilan novvoyxona oʻrtasida joylashgan.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/bɪtˈwin/"
   },
   {
     "id": 378,
@@ -3777,7 +4154,8 @@
     "pos": "conj",
     "example_en": "Both answers are correct and well written.",
     "example_uz": "Ikkala javob ham toʻgʻri va yaxshi yozilgan.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/boʊθ/"
   },
   {
     "id": 379,
@@ -3787,7 +4165,8 @@
     "pos": "conj",
     "example_en": "The task was long, but we finished it together.",
     "example_uz": "Vazifa uzoq edi, lekin uni birgalikda tugatdik.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/bʌt/"
   },
   {
     "id": 380,
@@ -3797,7 +4176,8 @@
     "pos": "adv",
     "example_en": "I will certainly help you prepare for the test.",
     "example_uz": "Testga tayyorlanishingizga, albatta, yordam beraman.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈsərtənli/"
   },
   {
     "id": 381,
@@ -3807,7 +4187,8 @@
     "pos": "prep",
     "example_en": "Please turn off your phone during the lesson.",
     "example_uz": "Iltimos, dars davomida telefoningizni oʻchirib qoʻying.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈdʊrɪŋ/"
   },
   {
     "id": 382,
@@ -3817,7 +4198,8 @@
     "pos": "adv",
     "example_en": "Did you get enough sleep last night?",
     "example_uz": "Kecha tunda yetarlicha uxladingizmi?",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ɪˈnəf/"
   },
   {
     "id": 383,
@@ -3827,7 +4209,8 @@
     "pos": "adv",
     "example_en": "Spring in Tashkent is lovely, especially in April.",
     "example_uz": "Toshkentda bahor juda goʻzal, ayniqsa aprel oyida.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/əˈspɛʃli/"
   },
   {
     "id": 384,
@@ -3837,7 +4220,8 @@
     "pos": "adv",
     "example_en": "After a long journey, we finally reached home.",
     "example_uz": "Uzoq safardan soʻng nihoyat uyga yetib keldik.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈfaɪnəli/"
   },
   {
     "id": 385,
@@ -3847,7 +4231,8 @@
     "pos": "adv",
     "example_en": "Fortunately, the rain stopped before the match began.",
     "example_uz": "Baxtga koʻra, oʻyin boshlanishidan oldin yomgʻir toʻxtadi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈfɔrtʃənətli/"
   },
   {
     "id": 386,
@@ -3857,7 +4242,8 @@
     "pos": "adv",
     "example_en": "Buses run frequently along this main street.",
     "example_uz": "Ushbu asosiy koʻcha boʻylab avtobuslar tez-tez qatnaydi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈfrikwəntli/"
   },
   {
     "id": 387,
@@ -3867,7 +4253,8 @@
     "pos": "adv",
     "example_en": "The road was steep; however, we reached the top.",
     "example_uz": "Yoʻl tik edi, shunga qaramay choʻqqiga chiqdik.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˌhaʊˈɛvər/"
   },
   {
     "id": 388,
@@ -3877,7 +4264,8 @@
     "pos": "adv",
     "example_en": "She answered the urgent message immediately.",
     "example_uz": "U shoshilinch xabarga darhol javob yozdi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˌɪˈmiˌdiətli/"
   },
   {
     "id": 389,
@@ -3887,7 +4275,8 @@
     "pos": "prep",
     "example_en": "Come inside the house, it is starting to snow.",
     "example_uz": "Uy ichkarisiga kiring, qor yogʻa boshlayapti.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˌɪnˈsaɪd/"
   },
   {
     "id": 390,
@@ -3897,7 +4286,8 @@
     "pos": "adv",
     "example_en": "Let's walk to the park instead of taking a taxi.",
     "example_uz": "Taksiga chiqish oʻrniga bogʻga piyoda boraylik.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˌɪnˈstɛd/"
   },
   {
     "id": 391,
@@ -3907,7 +4297,8 @@
     "pos": "adv",
     "example_en": "Maybe we can visit the museum this Sunday.",
     "example_uz": "Balki shu yakshanba kuni muzeyga borarmiz.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈmeɪbi/"
   },
   {
     "id": 392,
@@ -3917,7 +4308,8 @@
     "pos": "adv",
     "example_en": "It is never too late to learn something new.",
     "example_uz": "Yangi narsa oʻrganishning hech qachon kechi yoʻq.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈnɛvər/"
   },
   {
     "id": 393,
@@ -3927,7 +4319,8 @@
     "pos": "adv",
     "example_en": "How often do you practice English pronunciation?",
     "example_uz": "Inglizcha talaffuzni qanchalik tez-tez mashq qilasiz?",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈɔftən/"
   },
   {
     "id": 394,
@@ -3937,7 +4330,8 @@
     "pos": "prep",
     "example_en": "The children are playing outside in the fresh air.",
     "example_uz": "Bolalar tashqarida toza havoda oʻynashyapti.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈaʊtˈsaɪd/"
   },
   {
     "id": 395,
@@ -3947,7 +4341,8 @@
     "pos": "adv",
     "example_en": "Perhaps he is still in the library.",
     "example_uz": "Ehtimol, u hali ham kutubxonadadir.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/pərˈhæps/"
   },
   {
     "id": 396,
@@ -3957,7 +4352,8 @@
     "pos": "adv",
     "example_en": "Time passes quickly when you are doing interesting work.",
     "example_uz": "Qiziqarli ish bilan band boʻlsangiz, vaqt tez oʻtadi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/kˈwɪkli/"
   },
   {
     "id": 397,
@@ -3967,7 +4363,8 @@
     "pos": "adv",
     "example_en": "Please speak quietly in the reading room.",
     "example_uz": "Iltimos, oʻquv zalida sekinroq gapiring.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/kˈwaɪətli/"
   },
   {
     "id": 398,
@@ -3977,7 +4374,8 @@
     "pos": "adv",
     "example_en": "It rarely snows in the southern regions.",
     "example_uz": "Janubiy hududlarda qor kamdan-kam yogʻadi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈrɛrli/"
   },
   {
     "id": 399,
@@ -3987,7 +4385,8 @@
     "pos": "conj",
     "example_en": "We have been friends since primary school.",
     "example_uz": "Biz boshlangʻich maktabdan beri doʻstmiz.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/sɪns/"
   },
   {
     "id": 400,
@@ -3997,7 +4396,8 @@
     "pos": "adv",
     "example_en": "Please speak slowly so I can understand every word.",
     "example_uz": "Har bir soʻzni tushunishim uchun, iltimos, sekinroq gapiring.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/sˈloʊli/"
   },
   {
     "id": 401,
@@ -4007,7 +4407,8 @@
     "pos": "adv",
     "example_en": "Sometimes we study together at the library.",
     "example_uz": "Ba’zan kutubxonada birgalikda dars tayyorlaymiz.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/səmˈtaɪmz/"
   },
   {
     "id": 402,
@@ -4017,7 +4418,8 @@
     "pos": "adv",
     "example_en": "Suddenly, a cool breeze blew from the mountains.",
     "example_uz": "Toʻsatdan togʻ tomondan salqin shabada esdi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈsədənli/"
   },
   {
     "id": 403,
@@ -4027,7 +4429,8 @@
     "pos": "adv",
     "example_en": "He practiced daily; therefore, he passed the test easily.",
     "example_uz": "U har kuni mashq qildi, shuning uchun testdan oson oʻtdi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈðɛrˌfɔr/"
   },
   {
     "id": 404,
@@ -4037,7 +4440,8 @@
     "pos": "adv",
     "example_en": "Working together makes any big task lighter.",
     "example_uz": "Birgalikda ishlash har qanday katta vazifani yengillashtiradi.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/təˈgɛðər/"
   },
   {
     "id": 405,
@@ -4047,7 +4451,8 @@
     "pos": "adv",
     "example_en": "I usually drink a glass of water after waking up.",
     "example_uz": "Men odatda uygʻongandan soʻng bir stakan suv ichaman.",
-    "category": "Adverbs & Connectors"
+    "category": "Adverbs & Connectors",
+    "ipa": "/ˈjuʒəwəli/"
   },
   {
     "id": 406,
@@ -4057,7 +4462,8 @@
     "pos": "adj",
     "example_en": "Don't be afraid to speak English out loud.",
     "example_uz": "Ingliz tilida ovoz chiqarib gapirishdan qoʻrqmang.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/əˈfreɪd/"
   },
   {
     "id": 407,
@@ -4067,7 +4473,8 @@
     "pos": "adj",
     "example_en": "Take a deep breath when you feel angry.",
     "example_uz": "Jahlingiz chiqqanda chuqur nafas oling.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈæŋgri/"
   },
   {
     "id": 408,
@@ -4077,7 +4484,8 @@
     "pos": "adj",
     "example_en": "It is natural to feel a little anxious before an exam.",
     "example_uz": "Imtihondan oldin biroz hayajon va xavotir sezish tabiiy.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈæŋkʃəs/"
   },
   {
     "id": 409,
@@ -4087,7 +4495,8 @@
     "pos": "noun",
     "example_en": "I have a dental appointment at four o'clock.",
     "example_uz": "Soat toʻrtda tish shifokori qabuliga yozilganman.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/əˈpɔɪntmənt/"
   },
   {
     "id": 410,
@@ -4097,7 +4506,8 @@
     "pos": "noun",
     "example_en": "Walking briskly improves blood circulation.",
     "example_uz": "Tez-tez yurish qon aylanishini yaxshilaydi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/bləd/"
   },
   {
     "id": 411,
@@ -4107,7 +4517,8 @@
     "pos": "noun",
     "example_en": "Regular exercise keeps your body strong.",
     "example_uz": "Muntazam mashqlar tanangizni baquvvat saqlaydi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈbɑdi/"
   },
   {
     "id": 412,
@@ -4117,7 +4528,8 @@
     "pos": "noun",
     "example_en": "Milk and cheese help build strong bones.",
     "example_uz": "Sut va pishloq suyaklarning mustahkam boʻlishiga yordam beradi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/boʊn/"
   },
   {
     "id": 413,
@@ -4127,7 +4539,8 @@
     "pos": "noun",
     "example_en": "Learning new words exercises your brain.",
     "example_uz": "Yangi soʻzlarni oʻrganish miyani charxlaydi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/breɪn/"
   },
   {
     "id": 414,
@@ -4137,7 +4550,8 @@
     "pos": "noun",
     "example_en": "Step outside and take a breath of fresh air.",
     "example_uz": "Tashqariga chiqib, toza havodan nafas oling.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/brɛθ/"
   },
   {
     "id": 415,
@@ -4147,7 +4561,8 @@
     "pos": "adj",
     "example_en": "Stay calm and think carefully before answering.",
     "example_uz": "Javob berishdan oldin xotirjam boʻling va yaxshilab oʻylang.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/kɑm/"
   },
   {
     "id": 416,
@@ -4157,7 +4572,8 @@
     "pos": "noun",
     "example_en": "Take good care of your health in cold weather.",
     "example_uz": "Sovuq havoda sogʻligʻingizga yaxshi e’tibor bering.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/kɛr/"
   },
   {
     "id": 417,
@@ -4167,7 +4583,8 @@
     "pos": "adj",
     "example_en": "Good preparation makes you feel confident.",
     "example_uz": "Yaxshi tayyorgarlik oʻzingizga boʻlgan ishonchni oshiradi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈkɑnfədənt/"
   },
   {
     "id": 418,
@@ -4177,7 +4594,8 @@
     "pos": "noun",
     "example_en": "Hot herbal tea helped soothe his cough.",
     "example_uz": "Issiq giyohli choy uning yoʻtalini yumshatishga yordam berdi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/kɑf/"
   },
   {
     "id": 419,
@@ -4187,7 +4605,8 @@
     "pos": "adj",
     "example_en": "Curious students always ask thoughtful questions.",
     "example_uz": "Qiziquvchan oʻquvchilar doimo chuqur savollar berishadi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈkjʊriəs/"
   },
   {
     "id": 420,
@@ -4197,7 +4616,8 @@
     "pos": "noun",
     "example_en": "Visit the dentist twice a year for a checkup.",
     "example_uz": "Yiliga ikki marta tish shifokori koʻrigidan oʻting.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈdɛntəst/"
   },
   {
     "id": 421,
@@ -4207,7 +4627,8 @@
     "pos": "noun",
     "example_en": "Clean hands help prevent many diseases.",
     "example_uz": "Qoʻllarni toza tutish koʻplab kasalliklarning oldini oladi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/dɪˈziz/"
   },
   {
     "id": 422,
@@ -4217,7 +4638,8 @@
     "pos": "noun",
     "example_en": "The doctor advised him to rest for three days.",
     "example_uz": "Shifokor unga uch kun dam olishni maslahat berdi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈdɑktər/"
   },
   {
     "id": 423,
@@ -4227,7 +4649,8 @@
     "pos": "noun",
     "example_en": "A healthy breakfast gives you energy for the morning.",
     "example_uz": "Foydali nonushta ertalabki ishlar uchun quvvat beradi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈɛnərdʒi/"
   },
   {
     "id": 424,
@@ -4237,7 +4660,8 @@
     "pos": "adj",
     "example_en": "The children were excited about the summer trip.",
     "example_uz": "Bolalar yozgi sayohatdan juda hayajonda edilar.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ɪkˈsaɪtəd/"
   },
   {
     "id": 425,
@@ -4247,7 +4671,8 @@
     "pos": "noun",
     "example_en": "Twenty minutes of morning exercise wakes up the body.",
     "example_uz": "Yigirma daqiqalik ertalabki badantarbiya tanani tetiklashtiradi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈɛksərˌsaɪz/"
   },
   {
     "id": 426,
@@ -4257,7 +4682,8 @@
     "pos": "noun",
     "example_en": "Rest your eyes every hour when working at a computer.",
     "example_uz": "Kompyuterda ishlaganda har soatda koʻzlaringizga dam bering.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/aɪ/"
   },
   {
     "id": 427,
@@ -4267,7 +4693,8 @@
     "pos": "noun",
     "example_en": "A warm smile appeared on her face.",
     "example_uz": "Uning yuzida iliq tabassum paydo boʻldi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/feɪs/"
   },
   {
     "id": 428,
@@ -4277,7 +4704,8 @@
     "pos": "noun",
     "example_en": "Drink plenty of fluids if you have a fever.",
     "example_uz": "Isitmangiz boʻlsa, koʻproq suyuqlik iching.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈfivər/"
   },
   {
     "id": 429,
@@ -4287,7 +4715,8 @@
     "pos": "adj",
     "example_en": "I am very glad to meet you today.",
     "example_uz": "Bugun siz bilan uchrashganimdan juda xursandman.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/glæd/"
   },
   {
     "id": 430,
@@ -4297,7 +4726,8 @@
     "pos": "noun",
     "example_en": "He shook my hand warmly and smiled.",
     "example_uz": "U qoʻlimni samimiy siqib, tabassum qildi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/hænd/"
   },
   {
     "id": 431,
@@ -4307,7 +4737,8 @@
     "pos": "adj",
     "example_en": "Good news made the whole family happy.",
     "example_uz": "Xushxabar butun oilani xursand qildi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈhæpi/"
   },
   {
     "id": 432,
@@ -4317,7 +4748,8 @@
     "pos": "noun",
     "example_en": "Fresh air helped relieve my headache.",
     "example_uz": "Toza havo bosh ogʻrigʻimni qoldirishga yordam berdi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈhɛˌdeɪk/"
   },
   {
     "id": 433,
@@ -4327,7 +4759,8 @@
     "pos": "noun",
     "example_en": "Good health is the greatest wealth in life.",
     "example_uz": "Sogʻliq — hayotdagi eng katta boylikdir.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/hɛlθ/"
   },
   {
     "id": 434,
@@ -4337,7 +4770,8 @@
     "pos": "adj",
     "example_en": "Eating fruit and vegetables keeps you healthy.",
     "example_uz": "Meva va sabzavotlar iste’mol qilish sogʻlom boʻlishga yordam beradi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈhɛlθi/"
   },
   {
     "id": 435,
@@ -4347,7 +4781,8 @@
     "pos": "noun",
     "example_en": "She thanked her teacher from the bottom of her heart.",
     "example_uz": "U oʻqituvchisiga chin yurakdan minnatdorchilik bildirdi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/hɑrt/"
   },
   {
     "id": 436,
@@ -4357,7 +4792,8 @@
     "pos": "noun",
     "example_en": "A new medical hospital was built in our district.",
     "example_uz": "Tumanimizda yangi tibbiyot shifoxonasi qurildi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈhɑˌspɪtəl/"
   },
   {
     "id": 437,
@@ -4367,7 +4803,8 @@
     "pos": "adj",
     "example_en": "Are you hungry after the long walk?",
     "example_uz": "Uzoq sayrdan keyin qorningiz ochdimi?",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈhəŋgri/"
   },
   {
     "id": 438,
@@ -4377,7 +4814,8 @@
     "pos": "adj",
     "example_en": "Call your grandparents so they never feel lonely.",
     "example_uz": "Bobo-buvingiz oʻzlarini yolgʻiz his qilmasliklari uchun qoʻngʻiroq qilib turing.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈloʊnli/"
   },
   {
     "id": 439,
@@ -4387,7 +4825,8 @@
     "pos": "noun",
     "example_en": "Take this medicine after meals twice a day.",
     "example_uz": "Ushbu dorini kuniga ikki mahal ovqatdan keyin iching.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈmɛdəsən/"
   },
   {
     "id": 440,
@@ -4397,7 +4836,8 @@
     "pos": "adj",
     "example_en": "He was nervous at first, then spoke with confidence.",
     "example_uz": "U boshida hayajonlandi, soʻngra ishonch bilan gapirdi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈnərvəs/"
   },
   {
     "id": 441,
@@ -4407,7 +4847,8 @@
     "pos": "noun",
     "example_en": "The kind nurse checked the patient's temperature.",
     "example_uz": "Mehribon hamshira bemorning haroratini oʻlchadi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/nərs/"
   },
   {
     "id": 442,
@@ -4417,7 +4858,8 @@
     "pos": "noun",
     "example_en": "Tell the doctor immediately if you feel any pain.",
     "example_uz": "Biror ogʻriq sezsangiz, darhol shifokorga ayting.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/peɪn/"
   },
   {
     "id": 443,
@@ -4427,7 +4869,8 @@
     "pos": "noun",
     "example_en": "The patient recovered quickly after treatment.",
     "example_uz": "Bemor muolajadan soʻng tezda sogʻayib ketdi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈpeɪʃənt/"
   },
   {
     "id": 444,
@@ -4437,7 +4880,8 @@
     "pos": "adj",
     "example_en": "Her parents are very proud of her achievements.",
     "example_uz": "Ota-onasi uning yutuqlaridan juda faxrlanishadi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/praʊd/"
   },
   {
     "id": 445,
@@ -4447,7 +4891,8 @@
     "pos": "adj",
     "example_en": "Don't be sad, tomorrow will bring new opportunities.",
     "example_uz": "Xafa boʻlmang, ertangi kun yangi imkoniyatlar olib keladi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/sæd/"
   },
   {
     "id": 446,
@@ -4457,7 +4902,8 @@
     "pos": "adj",
     "example_en": "Stay home and rest if you feel sick.",
     "example_uz": "Oʻzingizni betob his qilsangiz, uyda qolib dam oling.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/sɪk/"
   },
   {
     "id": 447,
@@ -4467,7 +4913,8 @@
     "pos": "noun",
     "example_en": "Eight hours of sleep helps your memory work better.",
     "example_uz": "Sakkiz soatlik uyqu xotiraning yaxshi ishlashiga yordam beradi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/slip/"
   },
   {
     "id": 448,
@@ -4477,7 +4924,8 @@
     "pos": "noun",
     "example_en": "Do not drink very cold water on an empty stomach.",
     "example_uz": "Och qoringa juda sovuq suv ichmang.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈstəmək/"
   },
   {
     "id": 449,
@@ -4487,7 +4935,8 @@
     "pos": "adj",
     "example_en": "Working under the summer sun made us thirsty.",
     "example_uz": "Yoz quyoshi ostida ishlash bizni chanqatdi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/ˈθərsti/"
   },
   {
     "id": 450,
@@ -4497,6 +4946,7 @@
     "pos": "adj",
     "example_en": "He felt tired but happy after finishing the work.",
     "example_uz": "U ishni tugatgach, charchagan, ammo xursand edi.",
-    "category": "Feelings & Health"
+    "category": "Feelings & Health",
+    "ipa": "/taɪərd/"
   }
 ]

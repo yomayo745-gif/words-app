@@ -10,7 +10,8 @@
       "pos": "verb",
       "example_en": "The paper is burning.",
       "example_uz": "Qogʻoz yonyapti.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/bərn/"
     },
     {
       "english": "exchange",
@@ -19,7 +20,8 @@
       "pos": "verb",
       "example_en": "The gentlemen exchange phone numbers.",
       "example_uz": "Jentelmen telefon raqamlarini almashadi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ɪksˈtʃeɪndʒ/"
     },
     {
       "english": "introduce",
@@ -28,7 +30,8 @@
       "pos": "verb",
       "example_en": "Jane's husband introduces her to his handsome friend.",
       "example_uz": "Jeynning turmush oʻrtogʻi uni oʻzini kelishgan doʻstiga tanishtirdi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ˌɪntrəˈdus/"
     },
     {
       "english": "offer",
@@ -37,7 +40,8 @@
       "pos": "verb",
       "example_en": "Paul offered the man money, but he was not interested.",
       "example_uz": "Paul kishiga pul taklif qildi, lekin u qiziqmadi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ˈɔfər/"
     },
     {
       "english": "pardon",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "\"Pardon me. Can you tell me how to get to the subway?\"",
       "example_uz": "Kechirasiz. Menga yer osti yoʻliga qanday borishni ayta olasizmi?",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ˈpɑrdən/"
     },
     {
       "english": "popular",
@@ -55,7 +60,8 @@
       "pos": "adj",
       "example_en": "This busy street is a popular place to shop.",
       "example_uz": "Bu gavjum koʻcha xarid qilish uchun mashhur joy.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ˈpɑpjələr/"
     },
     {
       "english": "prepare",
@@ -64,7 +70,8 @@
       "pos": "verb",
       "example_en": "The cooks prepare a delicious meal in the restaurant.",
       "example_uz": "Oshpazlar restoranda mazali taom tayyorlaydilar.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/priˈpɛr/"
     },
     {
       "english": "reason",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "He did not have a reason for arriving late at the theater.",
       "example_uz": "U teatrga kech yetib kelganligiga sabab yoʻq edi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ˈrizən/"
     },
     {
       "english": "shake",
@@ -82,7 +90,8 @@
       "pos": "verb",
       "example_en": "The woman shakes Sue's hand and congratulates her.",
       "example_uz": "Ayol Syu bilan qoʻlini qoʻl siqishdi va uni tabriklaydi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ʃeɪk/"
     },
     {
       "english": "shy",
@@ -91,7 +100,8 @@
       "pos": "adj",
       "example_en": "The young boy is very shy.",
       "example_uz": "Yosh bola juda uyatchan.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ʃaɪ/"
     },
     {
       "english": "bell",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "The bell rings when the gate opens.",
       "example_uz": "Qoʻngʻiroq darvoza ochilsa jaranglaydi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/bɛl/"
     },
     {
       "english": "block",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "There are many houses on each block.",
       "example_uz": "Har bir blokda koʻp uylar bor.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/blɑk/"
     },
     {
       "english": "borrow",
@@ -118,7 +130,8 @@
       "pos": "verb",
       "example_en": "Thank you for letting me borrow your math book this week.",
       "example_uz": "Bu hafta seni matematika kitobingni olib turishga ruxsat berganing uchun tashakkur.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/ˈbɑˌroʊ/"
     },
     {
       "english": "bowl",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "I had a big bowl of soup for lunch.",
       "example_uz": "Men tushlikka bir katta kosada shoʻrva ichdim.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/boʊl/"
     },
     {
       "english": "confuse",
@@ -136,7 +150,8 @@
       "pos": "verb",
       "example_en": "Math confuses Scott.",
       "example_uz": "Matematika Skotni chalkashtiradi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/kənfˈjuz/"
     },
     {
       "english": "knock",
@@ -145,7 +160,8 @@
       "pos": "verb",
       "example_en": "She continued to knock on the door.",
       "example_uz": "U eshikni taqillatishda davom etdi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/nɑk/"
     },
     {
       "english": "result",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "John's doctor was very happy with his test results.",
       "example_uz": "Johnning shifokori uning test natijalaridan juda xursand boʻldi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/rɪˈzəlt/"
     },
     {
       "english": "seem",
@@ -163,7 +180,8 @@
       "pos": "verb",
       "example_en": "They seem to be enjoying the funny movie tonight.",
       "example_uz": "Ular bugun kechki kulguli filmdan rohatlangandek koʻrindi.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/sim/"
     },
     {
       "english": "smart",
@@ -172,7 +190,8 @@
       "pos": "adj",
       "example_en": "Chris is a very smart boy.",
       "example_uz": "Kris juda aqlli bola.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/smɑrt/"
     },
     {
       "english": "subject",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "English is the most popular subject at my school.",
       "example_uz": "Ingliz tili mening maktabimdagi eng ommabop fan.",
-      "category": "3-kitob: 3.1-bob"
+      "category": "3-kitob: 3.1-bob",
+      "ipa": "/səˈbdʒɛkt/"
     }
   ]
 }

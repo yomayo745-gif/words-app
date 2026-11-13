@@ -10,7 +10,8 @@
       "pos": "noun",
       "example_en": "The search algorithm finds results in milliseconds.",
       "example_uz": "Qidiruv algoritmi natijalarni millisekundlarda topadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈælgərˌɪðəm/"
     },
     {
       "english": "artificial intelligence",
@@ -19,7 +20,8 @@
       "pos": "noun",
       "example_en": "Artificial intelligence is transforming modern medicine.",
       "example_uz": "Sunʼiy intellekt zamonaviy tibbiyotni oʻzgartirmoqda.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌɑrtəˈfɪʃəl ˌɪnˈtɛlədʒəns/"
     },
     {
       "english": "automation",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "Factory automation increased production speed.",
       "example_uz": "Zavodni avtomatlashtirish ishlab chiqarish tezligini oshirdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ɔtəˈmeɪʃən/"
     },
     {
       "english": "backend",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "He works as a backend engineer for a fintech firm.",
       "example_uz": "U fintex kompaniyasida bekend muhandisi boʻlib ishlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌbæˈkɛnd/"
     },
     {
       "english": "backup",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "Always keep a backup of your important code.",
       "example_uz": "Muhim kodingizning zaxira nusxasini doimo saqlang.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈbæˌkəp/"
     },
     {
       "english": "bandwidth",
@@ -55,7 +60,8 @@
       "pos": "noun",
       "example_en": "High-definition video requires significant bandwidth.",
       "example_uz": "Yuqori sifatli video katta oʻtkazish qobiliyatini talab qiladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈbændwɪdθ/"
     },
     {
       "english": "binary",
@@ -64,7 +70,8 @@
       "pos": "adj",
       "example_en": "Computers process all instructions in binary code.",
       "example_uz": "Kompyuterlar barcha buyruqlarni ikkilik kodda qayta ishlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈbaɪnəˌri/"
     },
     {
       "english": "motherboard",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "The technician replaced the damaged motherboard.",
       "example_uz": "Texnik shikastlangan ona platani almashtirdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/motherboard/"
     },
     {
       "english": "bit",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "A single bit represents either zero or one.",
       "example_uz": "Bitta bit nol yoki birni ifodalaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/bɪt/"
     },
     {
       "english": "byte",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "One byte consists of eight adjacent bits.",
       "example_uz": "Bir bayt sakkizta ketma-ket bitdan iborat.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/baɪt/"
     },
     {
       "english": "blockchain",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "Blockchain technology ensures transparent transactions.",
       "example_uz": "Blokcheyn texnologiyasi shaffof tranzaksiyalarni taʼminlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/blockchain/"
     },
     {
       "english": "boolean",
@@ -109,7 +120,8 @@
       "pos": "adj",
       "example_en": "A boolean variable can only be true or false.",
       "example_uz": "Mantiqiy oʻzgaruvchi faqat rost yoki yolgʻon boʻlishi mumkin.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/buˈliən/"
     },
     {
       "english": "bug",
@@ -118,7 +130,8 @@
       "pos": "noun",
       "example_en": "The developer fixed a critical bug before launch.",
       "example_uz": "Dasturchi ishga tushirishdan oldin jiddiy xatoni tuzatdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/bəg/"
     },
     {
       "english": "cache",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "Clearing the cache solved the loading issue.",
       "example_uz": "Kesh xotirani tozalash yuklanish muammosini hal qildi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/kæʃ/"
     },
     {
       "english": "central processing unit",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "The central processing unit executes program instructions.",
       "example_uz": "Markaziy protsessor dastur buyruqlarini bajaradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈsɛntrəl ˈprɑsɛsɪŋ ˈjunət/"
     },
     {
       "english": "chatbot",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "The customer service chatbot answers common questions.",
       "example_uz": "Mijozlarga xizmat koʻrsatish chatboti keng tarqalgan savollarga javob beradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/chatbot/"
     },
     {
       "english": "circuit",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "A short circuit caused the power supply to fail.",
       "example_uz": "Qisqa tutashuv elektr taʼminoti blokining ishdan chiqishiga sabab boʻldi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈsərkət/"
     },
     {
       "english": "cloud computing",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "Cloud computing allows companies to scale servers easily.",
       "example_uz": "Bulutli hisoblash kompaniyalarga serverlarni oson kengaytirish imkonini beradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/klaʊd kəmˈpjutɪŋ/"
     },
     {
       "english": "codebase",
@@ -172,7 +190,8 @@
       "pos": "noun",
       "example_en": "Our team maintains a massive codebase in Python.",
       "example_uz": "Jamoamiz Python tilida katta kod bazasini qoʻllab-quvvatlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/codebase/"
     },
     {
       "english": "compiler",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "The compiler reported a syntax error on line forty.",
       "example_uz": "Kompilyator qirqinchi qatorda sintaktik xato haqida xabar berdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/kəmˈpaɪlər/"
     },
     {
       "english": "compression",
@@ -190,7 +210,8 @@
       "pos": "noun",
       "example_en": "File compression reduces storage space significantly.",
       "example_uz": "Fayllarni siqish xotira joyini sezilarli darajada kamaytiradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/kəmˈprɛʃən/"
     },
     {
       "english": "configuration",
@@ -199,7 +220,8 @@
       "pos": "noun",
       "example_en": "Check the server configuration before restarting.",
       "example_uz": "Qayta ishga tushirishdan oldin server konfiguratsiyasini tekshiring.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/kənˌfɪgjərˈeɪʃən/"
     },
     {
       "english": "configure",
@@ -208,7 +230,8 @@
       "pos": "verb",
       "example_en": "You need to configure the firewall rules properly.",
       "example_uz": "Xavfsizlik devori qoidalarini toʻgʻri sozlashingiz kerak.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/kənˈfɪgjər/"
     },
     {
       "english": "cooling fan",
@@ -217,7 +240,8 @@
       "pos": "noun",
       "example_en": "The cooling fan keeps the processor from overheating.",
       "example_uz": "Sovutish parragi protsessorni qizib ketishdan saqlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈkulɪŋ fæn/"
     },
     {
       "english": "cryptography",
@@ -226,7 +250,8 @@
       "pos": "noun",
       "example_en": "Modern banking relies heavily on cryptography.",
       "example_uz": "Zamonaviy bank tizimi kriptografiyaga tayanadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/cryptography/"
     },
     {
       "english": "cursor",
@@ -235,7 +260,8 @@
       "pos": "noun",
       "example_en": "Move the cursor to the top corner of the screen.",
       "example_uz": "Kursorni ekranning yuqori burchagiga olib boring.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈkərsər/"
     },
     {
       "english": "cyberattack",
@@ -244,7 +270,8 @@
       "pos": "noun",
       "example_en": "The bank successfully blocked a major cyberattack.",
       "example_uz": "Bank yirik kiberhujumni muvaffaqiyatli bartaraf etdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/cyberattack/"
     },
     {
       "english": "cybersecurity",
@@ -253,7 +280,8 @@
       "pos": "noun",
       "example_en": "Companies invest millions in cybersecurity training.",
       "example_uz": "Kompaniyalar kiberxavfsizlik boʻyicha oʻquvlarga millionlab sarmoya kiritadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/cybersecurity/"
     },
     {
       "english": "data mining",
@@ -262,7 +290,8 @@
       "pos": "noun",
       "example_en": "Data mining helps retailers understand buying habits.",
       "example_uz": "Maʼlumotlarni tahlil qilish savdogarlarga xarid odatlarini tushunishga yordam beradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈdeɪtə ˈmaɪnɪŋ/"
     },
     {
       "english": "data science",
@@ -271,7 +300,8 @@
       "pos": "noun",
       "example_en": "She earned a master's degree in data science.",
       "example_uz": "U maʼlumotlar ilmi boʻyicha magistrlik darajasini oldi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈdeɪtə saɪəns/"
     },
     {
       "english": "database",
@@ -280,7 +310,8 @@
       "pos": "noun",
       "example_en": "All customer records are stored in a secure database.",
       "example_uz": "Mijozlarning barcha yozuvlari xavfsiz maʼlumotlar bazasida saqlanadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈdeɪtəˌbeɪs/"
     },
     {
       "english": "debug",
@@ -289,7 +320,8 @@
       "pos": "verb",
       "example_en": "It took three hours to debug the payment module.",
       "example_uz": "Toʻlov modulidagi xatolarni topib tuzatishga uch soat vaqt ketdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/diˈbəg/"
     },
     {
       "english": "debugger",
@@ -298,7 +330,8 @@
       "pos": "noun",
       "example_en": "Use the debugger to inspect variable values step by step.",
       "example_uz": "Oʻzgaruvchilar qiymatini qadam-baqadam tekshirish uchun debaggerdan foydalaning.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/debugger/"
     },
     {
       "english": "decrypt",
@@ -307,7 +340,8 @@
       "pos": "verb",
       "example_en": "Only authorized users can decrypt the private files.",
       "example_uz": "Faqat vakolatli foydalanuvchilar maxfiy fayllar shifrini ochishi mumkin.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/decrypt/"
     },
     {
       "english": "deep learning",
@@ -316,7 +350,8 @@
       "pos": "noun",
       "example_en": "Deep learning enables accurate speech recognition.",
       "example_uz": "Chuqur oʻrganish nutqni aniq tanib olish imkonini beradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/dip ˈlərnɪŋ/"
     },
     {
       "english": "default",
@@ -325,7 +360,8 @@
       "pos": "noun",
       "example_en": "You can restore the settings to their factory default.",
       "example_uz": "Sozlamalarni zavoddagi boshlangʻich holatiga qaytarishingiz mumkin.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/dɪˈfɔlt/"
     },
     {
       "english": "deploy",
@@ -334,7 +370,8 @@
       "pos": "verb",
       "example_en": "We deploy new updates to the server every Friday.",
       "example_uz": "Biz har juma kuni serverga yangi yangilanishlarni joylashtiramiz.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/dɪˈplɔɪ/"
     },
     {
       "english": "deployment",
@@ -343,7 +380,8 @@
       "pos": "noun",
       "example_en": "Automated deployment reduces human error.",
       "example_uz": "Avtomatlashtirilgan joylashtirish inson xatosini kamaytiradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/dɪˈplɔɪmənt/"
     },
     {
       "english": "desktop",
@@ -352,7 +390,8 @@
       "pos": "noun",
       "example_en": "A desktop computer is easier to upgrade than a laptop.",
       "example_uz": "Ish stoli kompyuterini noutbukka qaraganda yangilash osonroq.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈdɛskˌtɑp/"
     },
     {
       "english": "diagnostics",
@@ -361,7 +400,8 @@
       "pos": "noun",
       "example_en": "Run system diagnostics to check for memory errors.",
       "example_uz": "Xotira xatolarini tekshirish uchun tizim diagnostikasini ishga tushiring.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌdaɪəgˈnɑstɪks/"
     },
     {
       "english": "directory",
@@ -370,7 +410,8 @@
       "pos": "noun",
       "example_en": "Create a new directory for the project files.",
       "example_uz": "Loyiha fayllari uchun yangi katalog yarating.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/dərˈɛktəri/"
     },
     {
       "english": "disk",
@@ -379,7 +420,8 @@
       "pos": "noun",
       "example_en": "The hard disk is almost full of video files.",
       "example_uz": "Qattiq disk video fayllar bilan deyarli toʻlgan.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/dɪsk/"
     },
     {
       "english": "documentation",
@@ -388,7 +430,8 @@
       "pos": "noun",
       "example_en": "Read the official documentation before using the library.",
       "example_uz": "Kutubxonadan foydalanishdan oldin rasmiy texnik hujjatlarni oʻqing.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌdɑkjəmɛnˈteɪʃən/"
     },
     {
       "english": "driver",
@@ -397,7 +440,8 @@
       "pos": "noun",
       "example_en": "Install the latest printer driver on your computer.",
       "example_uz": "Kompyuteringizga eng soʻnggi printer drayverini oʻrnating.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈdraɪvər/"
     },
     {
       "english": "drone",
@@ -406,7 +450,8 @@
       "pos": "noun",
       "example_en": "An autonomous drone delivered the medical package.",
       "example_uz": "Avtonom dron tibbiy joʻnatmani yetkazib berdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/droʊn/"
     },
     {
       "english": "encode",
@@ -415,7 +460,8 @@
       "pos": "verb",
       "example_en": "We encode all text files using the UTF-8 standard.",
       "example_uz": "Biz barcha matnli fayllarni UTF-8 standarti yordamida kodlaymiz.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ɛnˈkoʊd/"
     },
     {
       "english": "encrypt",
@@ -424,7 +470,8 @@
       "pos": "verb",
       "example_en": "Always encrypt sensitive passwords in the database.",
       "example_uz": "Maʼlumotlar bazasidagi maxfiy parollarni doimo shifrlang.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ɛnˈkrɪpt/"
     },
     {
       "english": "encryption",
@@ -433,7 +480,8 @@
       "pos": "noun",
       "example_en": "End-to-end encryption protects your private messages.",
       "example_uz": "Uchdan-uchga shifrlash shaxsiy xabarlaringizni himoya qiladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ɛnˈkrɪpʃən/"
     },
     {
       "english": "ethernet",
@@ -442,7 +490,8 @@
       "pos": "noun",
       "example_en": "An ethernet cable provides a stable connection.",
       "example_uz": "Ethernet kabeli barqaror ulanishni taʼminlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈiθərˌnɛt/"
     },
     {
       "english": "execute",
@@ -451,7 +500,8 @@
       "pos": "verb",
       "example_en": "Press enter to execute the script.",
       "example_uz": "Skriptni ishga tushirish uchun enter tugmasini bosing.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈɛksəˌkjut/"
     },
     {
       "english": "execution",
@@ -460,7 +510,8 @@
       "pos": "noun",
       "example_en": "Program execution stopped due to insufficient memory.",
       "example_uz": "Xotira yetishmasligi sababli dasturning bajarilishi toʻxtadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌɛksəˈkjuʃən/"
     },
     {
       "english": "executable",
@@ -469,7 +520,8 @@
       "pos": "noun",
       "example_en": "Do not open an executable from an unknown source.",
       "example_uz": "Nomaʼlum manbadan olingan bajariladigan faylni ochmang.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/executable/"
     },
     {
       "english": "file system",
@@ -478,7 +530,8 @@
       "pos": "noun",
       "example_en": "The operating system organizes data in a file system.",
       "example_uz": "Operatsion tizim maʼlumotlarni fayl tizimida tartibga soladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/faɪl ˈsɪstəm/"
     },
     {
       "english": "firewall",
@@ -487,7 +540,8 @@
       "pos": "noun",
       "example_en": "The corporate firewall blocks suspicious network traffic.",
       "example_uz": "Korporativ xavfsizlik devori shubhali tarmoq trafigini bloklaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈfaɪrwɑl/"
     },
     {
       "english": "firmware",
@@ -496,7 +550,8 @@
       "pos": "noun",
       "example_en": "Updating the router firmware fixed the security flaw.",
       "example_uz": "Router mikrodasturini yangilash xavfsizlik kamchiligini tuzatdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/firmware/"
     },
     {
       "english": "flowchart",
@@ -505,7 +560,8 @@
       "pos": "noun",
       "example_en": "Draw a flowchart to visualize the algorithm logic.",
       "example_uz": "Algoritm mantiqini tasavvur qilish uchun blok-sxema chizing.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈfloʊˌtʃɑrt/"
     },
     {
       "english": "frontend",
@@ -514,7 +570,8 @@
       "pos": "noun",
       "example_en": "She specializes in frontend design and accessibility.",
       "example_uz": "U frontend dizayni va qulaylik yaratishga ixtisoslashgan.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/frontend/"
     },
     {
       "english": "gigabyte",
@@ -523,7 +580,8 @@
       "pos": "noun",
       "example_en": "The movie file is about four gigabytes in size.",
       "example_uz": "Film faylining hajmi taxminan toʻrt gigabaytni tashkil etadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈgɪgəˌbaɪt/"
     },
     {
       "english": "glitch",
@@ -532,7 +590,8 @@
       "pos": "noun",
       "example_en": "A minor software glitch delayed the ticket sale.",
       "example_uz": "Kichik dasturiy nosozlik chiptalar sotuvini kechiktirdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/glɪtʃ/"
     },
     {
       "english": "graphics card",
@@ -541,7 +600,8 @@
       "pos": "noun",
       "example_en": "Training neural networks requires a powerful graphics card.",
       "example_uz": "Neyron tarmoqlarni oʻqitish kuchli videokartani talab qiladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈgræfɪks kɑrd/"
     },
     {
       "english": "hacker",
@@ -550,7 +610,8 @@
       "pos": "noun",
       "example_en": "An ethical hacker helped find vulnerabilities in our app.",
       "example_uz": "Axloqiy xaker ilovamizdagi zaifliklarni topishga yordam berdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈhækər/"
     },
     {
       "english": "hard drive",
@@ -559,7 +620,8 @@
       "pos": "noun",
       "example_en": "We backed up old photos onto an external hard drive.",
       "example_uz": "Eski suratlarni tashqi qattiq diskka zaxiraladik.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/hɑrd draɪv/"
     },
     {
       "english": "hardware",
@@ -568,7 +630,8 @@
       "pos": "noun",
       "example_en": "Computer hardware includes the monitor, keyboard, and chips.",
       "example_uz": "Kompyuterning apparat taʼminoti monitor, klaviatura va chiplarni oʻz ichiga oladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈhɑrdˌwɛr/"
     },
     {
       "english": "hash",
@@ -577,7 +640,8 @@
       "pos": "noun",
       "example_en": "We store a cryptographic hash instead of plain passwords.",
       "example_uz": "Biz oddiy parollar oʻrniga kriptografik xeshni saqlaymiz.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/hæʃ/"
     },
     {
       "english": "integer",
@@ -586,7 +650,8 @@
       "pos": "noun",
       "example_en": "Store the item count as a positive integer.",
       "example_uz": "Mahsulotlar sonini musbat butun son sifatida saqlang.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈɪntədʒər/"
     },
     {
       "english": "interface",
@@ -595,7 +660,8 @@
       "pos": "noun",
       "example_en": "The new software has a clean and intuitive interface.",
       "example_uz": "Yangi dastur toza va tushunarli interfeysga ega.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈɪntərˌfeɪs/"
     },
     {
       "english": "iteration",
@@ -604,7 +670,8 @@
       "pos": "noun",
       "example_en": "Each iteration of the loop processes one record.",
       "example_uz": "Tsiklning har bir takrorlanishi bitta yozuvni qayta ishlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌɪtəˈreɪʃən/"
     },
     {
       "english": "keyboard",
@@ -613,7 +680,8 @@
       "pos": "noun",
       "example_en": "A mechanical keyboard is comfortable for long typing sessions.",
       "example_uz": "Mexanik klaviatura uzoq vaqt yozish uchun qulay.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈkiˌbɔrd/"
     },
     {
       "english": "kilobyte",
@@ -622,7 +690,8 @@
       "pos": "noun",
       "example_en": "A plain text file is only a few kilobytes.",
       "example_uz": "Oddiy matnli fayl atigi bir necha kilobayt boʻladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈkɪloʊˌbaɪt/"
     },
     {
       "english": "laptop",
@@ -631,7 +700,8 @@
       "pos": "noun",
       "example_en": "She carries her lightweight laptop to every lecture.",
       "example_uz": "U yengil noutbukini har bir maʼruzaga olib boradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈlæpˌtɑp/"
     },
     {
       "english": "latency",
@@ -640,7 +710,8 @@
       "pos": "noun",
       "example_en": "Low latency is critical for real-time audio processing.",
       "example_uz": "Real vaqtda audioni qayta ishlash uchun past kechikish juda muhim.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈleɪtənsi/"
     },
     {
       "english": "loop",
@@ -649,7 +720,8 @@
       "pos": "noun",
       "example_en": "An infinite loop caused the program to freeze.",
       "example_uz": "Cheksiz tsikl dasturning qotib qolishiga sabab boʻldi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/lup/"
     },
     {
       "english": "machine learning",
@@ -658,7 +730,8 @@
       "pos": "noun",
       "example_en": "Machine learning models improve as they see more data.",
       "example_uz": "Mashinaviy oʻrganish modellari koʻproq maʼlumot koʻrgan sari yaxshilanadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/məˈʃin ˈlərnɪŋ/"
     },
     {
       "english": "mainframe",
@@ -667,7 +740,8 @@
       "pos": "noun",
       "example_en": "Large banks still use mainframe computers for transactions.",
       "example_uz": "Yirik banklar tranzaksiyalar uchun hali ham meynfreym kompyuterlaridan foydalanadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈmeɪnˌfreɪm/"
     },
     {
       "english": "malware",
@@ -676,7 +750,8 @@
       "pos": "noun",
       "example_en": "Antivirus software scans the computer for malware.",
       "example_uz": "Antivirus dasturi kompyuterni zararli dasturlarga tekshiradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈmælˌwɛr/"
     },
     {
       "english": "megabyte",
@@ -685,7 +760,8 @@
       "pos": "noun",
       "example_en": "Each high-quality photo takes about five megabytes.",
       "example_uz": "Har bir yuqori sifatli surat taxminan besh megabayt joy oladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈmɛgəˌbaɪt/"
     },
     {
       "english": "memory",
@@ -694,7 +770,8 @@
       "pos": "noun",
       "example_en": "Upgrading the system memory made multitasking smoother.",
       "example_uz": "Tizim xotirasini kengaytirish koʻp vazifali ishlashni silliq qildi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈmɛməri/"
     },
     {
       "english": "microchip",
@@ -703,7 +780,8 @@
       "pos": "noun",
       "example_en": "Modern cars depend on dozens of tiny microchips.",
       "example_uz": "Zamonaviy avtomobillar oʻnlab kichik mikrochiplarga tayanadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈmaɪˌkroʊˈtʃɪp/"
     },
     {
       "english": "microprocessor",
@@ -712,7 +790,8 @@
       "pos": "noun",
       "example_en": "The microprocessor controls the smart thermostat.",
       "example_uz": "Mikroprotsessor aqlli termostatni boshqaradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌmaɪkroʊˈprɑsɛsər/"
     },
     {
       "english": "mouse",
@@ -721,7 +800,8 @@
       "pos": "noun",
       "example_en": "Click the right button on your wireless mouse.",
       "example_uz": "Simsiz sichqonchaning oʻng tugmasini bosing.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/maʊs/"
     },
     {
       "english": "natural language processing",
@@ -730,7 +810,8 @@
       "pos": "noun",
       "example_en": "Translation apps rely on natural language processing.",
       "example_uz": "Tarjima ilovalari tabiiy tilni qayta ishlash texnologiyasiga tayanadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈnætʃərəl ˈlæŋgwədʒ ˈprɑsɛsɪŋ/"
     },
     {
       "english": "neural network",
@@ -739,7 +820,8 @@
       "pos": "noun",
       "example_en": "A neural network mimics how the human brain learns.",
       "example_uz": "Neyron tarmoq inson miyasi qanday oʻrganishini taqlid qiladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈnʊrəl ˈnɛtˌwərk/"
     },
     {
       "english": "node",
@@ -748,7 +830,8 @@
       "pos": "noun",
       "example_en": "Every node in the network stores a copy of the ledger.",
       "example_uz": "Tarmoqdagi har bir tugun reyestr nusxasini saqlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/noʊd/"
     },
     {
       "english": "object-oriented",
@@ -757,7 +840,8 @@
       "pos": "adj",
       "example_en": "Java is a widely used object-oriented programming language.",
       "example_uz": "Java keng qoʻllaniladigan obyektga yoʻnaltirilgan dasturlash tilidir.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈɑbdʒɛkt-ˈɔriˌɛntəd/"
     },
     {
       "english": "open source",
@@ -766,7 +850,8 @@
       "pos": "adj",
       "example_en": "Developers around the world contribute to open source software.",
       "example_uz": "Butun dunyo dasturchilari ochiq manbali dasturlarga hissa qoʻshadilar.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈoʊpən sɔrs/"
     },
     {
       "english": "operating system",
@@ -775,7 +860,8 @@
       "pos": "noun",
       "example_en": "Which operating system do you prefer on your computer?",
       "example_uz": "Kompyuteringizda qaysi operatsion tizimni afzal koʻrasiz?",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈɑpərˌeɪtɪŋ ˈsɪstəm/"
     },
     {
       "english": "optimization",
@@ -784,7 +870,8 @@
       "pos": "noun",
       "example_en": "Code optimization reduced server costs by thirty percent.",
       "example_uz": "Kodni optimallashtirish server xarajatlarini oʻttiz foizga kamaytirdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ɑptɪmɪˈzeɪʃən/"
     },
     {
       "english": "parser",
@@ -793,7 +880,8 @@
       "pos": "noun",
       "example_en": "We wrote a custom parser to read the log files.",
       "example_uz": "Biz jurnal fayllarini oʻqish uchun maxsus parser yozdik.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈpɑrsər/"
     },
     {
       "english": "peripheral",
@@ -802,7 +890,8 @@
       "pos": "noun",
       "example_en": "Keyboards, printers, and scanners are computer peripherals.",
       "example_uz": "Klaviaturalar, printerlar va skanerlar kompyuterning tashqi qurilmalaridir.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/pərˈɪfərəl/"
     },
     {
       "english": "pixel",
@@ -811,7 +900,8 @@
       "pos": "noun",
       "example_en": "Each pixel on the screen displays a combination of three colors.",
       "example_uz": "Ekrandagi har bir piksel uchta rang uygʻunligini koʻrsatadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈpɪksəl/"
     },
     {
       "english": "plugin",
@@ -820,7 +910,8 @@
       "pos": "noun",
       "example_en": "Install this plugin to check grammar in your code editor.",
       "example_uz": "Kod muharririda imloni tekshirish uchun ushbu plaginni oʻrnating.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/plugin/"
     },
     {
       "english": "power supply",
@@ -829,7 +920,8 @@
       "pos": "noun",
       "example_en": "A reliable power supply protects internal components.",
       "example_uz": "Ishonchli elektr taʼminoti bloki ichki qismlarni himoya qiladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/paʊər səˈplaɪ/"
     },
     {
       "english": "printer",
@@ -838,7 +930,8 @@
       "pos": "noun",
       "example_en": "Load fresh paper into the laser printer.",
       "example_uz": "Lazerli printerga toza qogʻoz joylang.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈprɪntər/"
     },
     {
       "english": "processor",
@@ -847,7 +940,8 @@
       "pos": "noun",
       "example_en": "The new processor handles video editing effortlessly.",
       "example_uz": "Yangi protsessor video montajni qiyinchiliksiz bajaradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈprɑˌsɛsər/"
     },
     {
       "english": "program",
@@ -856,7 +950,8 @@
       "pos": "noun",
       "example_en": "She wrote a small program to rename hundreds of files.",
       "example_uz": "U yuzlab fayllar nomini oʻzgartirish uchun kichik dastur yozdi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈproʊˌgræm/"
     },
     {
       "english": "programming language",
@@ -865,7 +960,8 @@
       "pos": "noun",
       "example_en": "Python is an easy programming language for beginners.",
       "example_uz": "Python yangi boshlovchilar uchun oson dasturlash tilidir.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈproʊˌgræmɪŋ ˈlæŋgwədʒ/"
     },
     {
       "english": "query",
@@ -874,7 +970,8 @@
       "pos": "noun",
       "example_en": "This SQL query retrieves all orders from last month.",
       "example_uz": "Ushbu SQL soʻrovi oʻtgan oydagi barcha buyurtmalarni oladi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/kˈwiri/"
     },
     {
       "english": "random access memory",
@@ -883,7 +980,8 @@
       "pos": "noun",
       "example_en": "Sixteen gigabytes of random access memory is ideal for coding.",
       "example_uz": "Oʻn olti gigabayt tezkor xotira dasturlash uchun juda mos.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈrændəm ˈækˌsɛs ˈmɛməri/"
     },
     {
       "english": "ransomware",
@@ -892,7 +990,8 @@
       "pos": "noun",
       "example_en": "Ransomware locks files until a payment is made.",
       "example_uz": "Tovlamachi virus toʻlov amalga oshirilmaguncha fayllarni bloklab qoʻyadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ransomware/"
     },
     {
       "english": "reboot",
@@ -901,7 +1000,8 @@
       "pos": "verb",
       "example_en": "Please reboot your computer after the installation finishes.",
       "example_uz": "Oʻrnatish tugagandan soʻng kompyuteringizni qayta yuklang.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/riˈbut/"
     },
     {
       "english": "recursion",
@@ -910,7 +1010,8 @@
       "pos": "noun",
       "example_en": "Tree traversal is easy to implement using recursion.",
       "example_uz": "Daraxt boʻylab oʻtishni rekursiya yordamida amalga oshirish oson.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/recursion/"
     },
     {
       "english": "refactor",
@@ -919,7 +1020,8 @@
       "pos": "verb",
       "example_en": "We need to refactor the old code to make it readable.",
       "example_uz": "Eski kodni oʻqishga qulay qilish uchun uni qayta ishlashimiz kerak.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/refactor/"
     },
     {
       "english": "repository",
@@ -928,7 +1030,8 @@
       "pos": "noun",
       "example_en": "Push your changes to the central Git repository.",
       "example_uz": "Oʻzgarishlaringizni markaziy Git repozitoriysiga yuboring.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/riˈpɑzəˌtɔri/"
     },
     {
       "english": "resolution",
@@ -937,7 +1040,8 @@
       "pos": "noun",
       "example_en": "The monitor supports 4K ultra-high resolution.",
       "example_uz": "Monitor 4K oʻta yuqori ekran aniqligini qoʻllab-quvvatlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌrɛzəˈluʃən/"
     },
     {
       "english": "robot",
@@ -946,7 +1050,8 @@
       "pos": "noun",
       "example_en": "An industrial robot welds car frames with high precision.",
       "example_uz": "Sanoat roboti avtomobil ramkalarini yuqori aniqlikda payvandlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈroʊˌbɑt/"
     },
     {
       "english": "robotics",
@@ -955,7 +1060,8 @@
       "pos": "noun",
       "example_en": "Students built a robotic arm in the robotics lab.",
       "example_uz": "Talabalar robototexnika laboratoriyasida robot qoʻlini yasadilar.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌroʊˈbɑtɪks/"
     },
     {
       "english": "runtime",
@@ -964,7 +1070,8 @@
       "pos": "noun",
       "example_en": "The division by zero caused a runtime error.",
       "example_uz": "Nolga boʻlish ishlash vaqtida xatolikka sabab boʻldi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/runtime/"
     },
     {
       "english": "scalability",
@@ -973,7 +1080,8 @@
       "pos": "noun",
       "example_en": "Cloud architecture provides excellent scalability for startups.",
       "example_uz": "Bulutli arxitektura startaplar uchun aʼlo darajadagi kengayuvchanlikni taʼminlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/scalability/"
     },
     {
       "english": "scanner",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "Use the flatbed scanner to digitize the signed contract.",
       "example_uz": "Imzolangan shartnomani raqamlashtirish uchun skanerdan foydalaning.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈskænər/"
     },
     {
       "english": "schema",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "We updated the database schema to add a phone column.",
       "example_uz": "Telefon ustunini qoʻshish uchun maʼlumotlar bazasi sxemasini yangiladik.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈskimə/"
     },
     {
       "english": "script",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "A backup script runs automatically every midnight.",
       "example_uz": "Zaxiralash skripti har yarim tunda avtomatik ravishda ishga tushadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/skrɪpt/"
     },
     {
       "english": "semiconductor",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "Silicon is the most common material in semiconductor manufacturing.",
       "example_uz": "Kremniy yarimoʻtkazgichlar ishlab chiqarishda eng koʻp ishlatiladigan materialdir.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌsɛmikənˈdəktər/"
     },
     {
       "english": "sensor",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "An optical sensor detects movement in the room.",
       "example_uz": "Optik datchik xonadagi harakatni aniqlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈsɛnsər/"
     },
     {
       "english": "server",
@@ -1027,7 +1140,8 @@
       "pos": "noun",
       "example_en": "The web server handles thousands of requests per second.",
       "example_uz": "Veb-server soniyasiga minglab soʻrovlarni qayta ishlaydi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈsərvər/"
     },
     {
       "english": "simulation",
@@ -1036,7 +1150,8 @@
       "pos": "noun",
       "example_en": "Pilots practice emergencies in a flight simulation.",
       "example_uz": "Uchuvchilar parvoz simulyatsiyasida favqulodda holatlarni mashq qiladilar.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌsɪmjəˈleɪʃən/"
     },
     {
       "english": "software",
@@ -1045,7 +1160,8 @@
       "pos": "noun",
       "example_en": "This accounting software simplifies tax reporting.",
       "example_uz": "Ushbu buxgalteriya dasturiy taʼminoti soliq hisobotini soddalashtiradi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈsɔftˌwɛr/"
     },
     {
       "english": "solid-state drive",
@@ -1054,7 +1170,8 @@
       "pos": "noun",
       "example_en": "A solid-state drive boots much faster than an old disk.",
       "example_uz": "SSD xotira eski diskka qaraganda ancha tez yuklanadi.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈsɑləd-steɪt draɪv/"
     },
     {
       "english": "source code",
@@ -1063,7 +1180,8 @@
       "pos": "noun",
       "example_en": "Review the source code before merging the branch.",
       "example_uz": "Tarmoqni birlashtirishdan oldin manba kodini koʻrib chiqing.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/sɔrs koʊd/"
     },
     {
       "english": "spreadsheet",
@@ -1072,7 +1190,8 @@
       "pos": "noun",
       "example_en": "We track monthly expenses in a shared spreadsheet.",
       "example_uz": "Biz oylik xarajatlarni umumiy elektron jadvalda kuzatib boramiz.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˈsprɛdˌʃit/"
     },
     {
       "english": "string",
@@ -1081,7 +1200,8 @@
       "pos": "noun",
       "example_en": "Concatenate the first name and last name into one string.",
       "example_uz": "Ism va familiyani bitta satrga birlashtiring.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/strɪŋ/"
     },
     {
       "english": "supercomputer",
@@ -1090,7 +1210,8 @@
       "pos": "noun",
       "example_en": "Scientists used a supercomputer to model protein folding.",
       "example_uz": "Olimlar oqsil taxlanishini modellashtirish uchun superkompyuterdan foydalandilar.",
-      "category": "Kompyuter, dasturlash va sunʼiy intellekt"
+      "category": "Kompyuter, dasturlash va sunʼiy intellekt",
+      "ipa": "/ˌsupərkəmˈpjutər/"
     }
   ]
 }

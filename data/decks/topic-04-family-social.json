@@ -10,7 +10,8 @@
       "pos": "noun",
       "example_en": "We honor the traditions passed down by our ancestors.",
       "example_uz": "Biz ajdodlarimizdan meros qolgan anʼanalarni qadrlaymiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈænˌsɛstər/"
     },
     {
       "english": "descendant",
@@ -19,7 +20,8 @@
       "pos": "noun",
       "example_en": "The museum displays letters written by the poet's descendants.",
       "example_uz": "Muzeyda shoir avlodlari tomonidan yozilgan maktublar namoyish etilgan.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/dɪˈsɛndənt/"
     },
     {
       "english": "heritage",
@@ -28,7 +30,8 @@
       "pos": "noun",
       "example_en": "Samarkand is a treasure of our cultural heritage.",
       "example_uz": "Samarqand bizning madaniy merosimiz xazinasidir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈhɛrətədʒ/"
     },
     {
       "english": "lineage",
@@ -37,7 +40,8 @@
       "pos": "noun",
       "example_en": "My grandfather can trace our family lineage back seven generations.",
       "example_uz": "Bobom oilamiz shajarasini yetti avlodgacha sanab bera oladilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈlɪniədʒ/"
     },
     {
       "english": "kin",
@@ -46,7 +50,8 @@
       "pos": "noun",
       "example_en": "All our kith and kin gathered for the spring holiday.",
       "example_uz": "Bahor bayramiga barcha qarindosh-urugʻlarimiz toʻplanishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kɪn/"
     },
     {
       "english": "clan",
@@ -55,7 +60,8 @@
       "pos": "noun",
       "example_en": "The entire family clan meets every Navruz.",
       "example_uz": "Butun oila sulolasi har Navroʻzda uchrashadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/klæn/"
     },
     {
       "english": "dynasty",
@@ -64,7 +70,8 @@
       "pos": "noun",
       "example_en": "They come from a famous dynasty of master potters.",
       "example_uz": "Ular mashhur usta kulollar sulolasidan chiqqan.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈdaɪnəsti/"
     },
     {
       "english": "heir",
@@ -73,7 +80,8 @@
       "pos": "noun",
       "example_en": "The eldest son became the heir to the family orchard.",
       "example_uz": "Toʻngʻich oʻgʻil oilaviy bogʻning merosxoʻri boʻldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ɛr/"
     },
     {
       "english": "inheritance",
@@ -82,7 +90,8 @@
       "pos": "noun",
       "example_en": "He received his grandfather's library as an inheritance.",
       "example_uz": "U bobosining kutubxonasini meros sifatida oldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˌɪnˈhɛrətəns/"
     },
     {
       "english": "grandparent",
@@ -91,7 +100,8 @@
       "pos": "noun",
       "example_en": "Children learn patience and wisdom from their grandparents.",
       "example_uz": "Bolalar sabr-toqat va donolikni bobo-buvilaridan oʻrganadilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈgrændˌpɛrənt/"
     },
     {
       "english": "grandchild",
@@ -100,7 +110,8 @@
       "pos": "noun",
       "example_en": "She knitted warm wool socks for every grandchild.",
       "example_uz": "U har bir nabirasi uchun issiq jun paypoq toʻqidi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈgrænˌdtʃaɪld/"
     },
     {
       "english": "grandson",
@@ -109,7 +120,8 @@
       "pos": "noun",
       "example_en": "The old craftsman taught woodcarving to his grandson.",
       "example_uz": "Keksa usta yogʻoch oʻymakorligini oʻgʻil nabirasiga oʻrgatdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈgrændˌsən/"
     },
     {
       "english": "granddaughter",
@@ -118,7 +130,8 @@
       "pos": "noun",
       "example_en": "His granddaughter reads him stories every evening.",
       "example_uz": "Qiz nabirasi unga har oqshom hikoyalar oʻqib beradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈgrænˌdɔtər/"
     },
     {
       "english": "great-grandfather",
@@ -127,7 +140,8 @@
       "pos": "noun",
       "example_en": "My great-grandfather planted this walnut tree eighty years ago.",
       "example_uz": "Katta bobom bu yongʻoq daraxtini sakson yil avval ekkan ekanlar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/greɪt-ˈgrændˌfɑðər/"
     },
     {
       "english": "great-grandmother",
@@ -136,7 +150,8 @@
       "pos": "noun",
       "example_en": "We still keep the embroidered suzani made by our great-grandmother.",
       "example_uz": "Katta buvimiz tikkan kashtali soʻzanani hali ham saqlaymiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/greɪt-ˈgrændˌməðər/"
     },
     {
       "english": "sibling",
@@ -145,7 +160,8 @@
       "pos": "noun",
       "example_en": "Do you have any older siblings?",
       "example_uz": "Sizning oʻzingizdan katta aka-opalaringiz bormi?",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈsɪblɪŋ/"
     },
     {
       "english": "half-brother",
@@ -154,7 +170,8 @@
       "pos": "noun",
       "example_en": "His half-brother lives and works in Bukhara.",
       "example_uz": "Uning akasi Buxoroda yashaydi va ishlaydi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/hæf-ˈbrəðər/"
     },
     {
       "english": "stepfather",
@@ -163,7 +180,8 @@
       "pos": "noun",
       "example_en": "Her stepfather raised her with great kindness and care.",
       "example_uz": "Oʻgay otasi uni katta mehr va gʻamxoʻrlik bilan voyaga yetkazdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈstɛpˌfɑðər/"
     },
     {
       "english": "stepmother",
@@ -172,7 +190,8 @@
       "pos": "noun",
       "example_en": "In fairy tales, the stepmother is often strict.",
       "example_uz": "Ertaklarda oʻgay ona koʻpincha qattiqqoʻl boʻladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈstɛpˌməðər/"
     },
     {
       "english": "stepson",
@@ -181,7 +200,8 @@
       "pos": "noun",
       "example_en": "He treated his stepson just like his own child.",
       "example_uz": "U oʻgay oʻgʻliga xuddi oʻz farzandidek munosabatda boʻldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈstɛpˌsən/"
     },
     {
       "english": "stepdaughter",
@@ -190,7 +210,8 @@
       "pos": "noun",
       "example_en": "She helped her stepdaughter prepare for university exams.",
       "example_uz": "U oʻgay qiziga universitet imtihonlariga tayyorlanishda yordam berdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈstɛpˌdɔtər/"
     },
     {
       "english": "orphan",
@@ -199,7 +220,8 @@
       "pos": "noun",
       "example_en": "During the war, Tashkent families adopted thousands of orphans.",
       "example_uz": "Urush yillarida Toshkent oilalari minglab yetim bolalarni farzandlikka olgan.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈɔrfən/"
     },
     {
       "english": "guardian",
@@ -208,7 +230,8 @@
       "pos": "noun",
       "example_en": "A parent or legal guardian must sign the permission form.",
       "example_uz": "Ruxsatnomaga ota-ona yoki qonuniy vasiy imzo chekishi kerak.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈgɑrdiən/"
     },
     {
       "english": "adopt",
@@ -217,7 +240,8 @@
       "pos": "verb",
       "example_en": "Shaakhmed Shamakhmudov and his wife chose to adopt fifteen children.",
       "example_uz": "Shoahmad Shomahmudov va uning rafiqasi oʻn besh nafar bolani farzandlikka olishgan.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/əˈdɑpt/"
     },
     {
       "english": "father-in-law",
@@ -226,7 +250,8 @@
       "pos": "noun",
       "example_en": "He respects his father-in-law and asks for his advice.",
       "example_uz": "U qaynotasini hurmat qiladi va undan maslahat soʻraydi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈfɑðər-ɪn-lɔ/"
     },
     {
       "english": "mother-in-law",
@@ -235,7 +260,8 @@
       "pos": "noun",
       "example_en": "The young bride learned family recipes from her mother-in-law.",
       "example_uz": "Yosh kelin oilaviy taom retseptlarini qaynonasidan oʻrgandi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈməðər-ɪn-lɔ/"
     },
     {
       "english": "son-in-law",
@@ -244,7 +270,8 @@
       "pos": "noun",
       "example_en": "Their son-in-law helped repair the garden roof.",
       "example_uz": "Kuyovlari bogʻ tomini taʼmirlashga yordam berdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/sən-ɪn-lɔ/"
     },
     {
       "english": "daughter-in-law",
@@ -253,7 +280,8 @@
       "pos": "noun",
       "example_en": "The new daughter-in-law greeted the guests warmly.",
       "example_uz": "Yangi kelin mehmonlarni samimiy kutib oldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈdɔtər-ɪn-lɔ/"
     },
     {
       "english": "brother-in-law",
@@ -262,7 +290,8 @@
       "pos": "noun",
       "example_en": "My brother-in-law is a skilled civil engineer.",
       "example_uz": "Mening pochcham malakali qurilish muhandisi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈbrəðər-ɪn-lɔ/"
     },
     {
       "english": "sister-in-law",
@@ -271,7 +300,8 @@
       "pos": "noun",
       "example_en": "She went shopping at the bazaar with her sister-in-law.",
       "example_uz": "U ovsini bilan bozorga xarid qilishga bordi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈsɪstər-ɪn-lɔ/"
     },
     {
       "english": "in-laws",
@@ -280,7 +310,8 @@
       "pos": "noun",
       "example_en": "We are visiting our in-laws this Sunday.",
       "example_uz": "Bu yakshanbada qudalarimiznikiga mehmonga boryapmiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ɪn-lɔz/"
     },
     {
       "english": "spouse",
@@ -289,7 +320,8 @@
       "pos": "noun",
       "example_en": "Employees may invite their spouse to the annual dinner.",
       "example_uz": "Xodimlar yillik kechki ovqatga turmush oʻrtoqlarini taklif qilishlari mumkin.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/spaʊs/"
     },
     {
       "english": "fiance",
@@ -298,7 +330,8 @@
       "pos": "noun",
       "example_en": "Her fiance works at a software company in Tashkent.",
       "example_uz": "Uning qalligʻi Toshkentdagi dasturiy taʼminot kompaniyasida ishlaydi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/fiˈɑnˌseɪ/"
     },
     {
       "english": "fiancee",
@@ -307,7 +340,8 @@
       "pos": "noun",
       "example_en": "He bought a gold ring for his fiancee.",
       "example_uz": "U unashtirilgan qalligʻi uchun tilla uzuk sotib oldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/fiˈænsi/"
     },
     {
       "english": "bride",
@@ -316,7 +350,8 @@
       "pos": "noun",
       "example_en": "The bride wore a white dress and an embroidered veil.",
       "example_uz": "Kelinchak oq libos va kashtali yopinchiq kiygan edi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/braɪd/"
     },
     {
       "english": "groom",
@@ -325,7 +360,8 @@
       "pos": "noun",
       "example_en": "Friends congratulated the smiling groom at the wedding.",
       "example_uz": "Doʻstlar toʻyda kulib turgan kuyovni tabriklashdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/grum/"
     },
     {
       "english": "newlywed",
@@ -334,7 +370,8 @@
       "pos": "noun",
       "example_en": "The newlyweds moved into a cozy two-room apartment.",
       "example_uz": "Yangi kelin-kuyovlar shinam ikki xonali kvartiraga koʻchib oʻtishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈnuliˌwɛd/"
     },
     {
       "english": "matchmaker",
@@ -343,7 +380,8 @@
       "pos": "noun",
       "example_en": "In Uzbek tradition, matchmakers visit the girl's family with bread and sweets.",
       "example_uz": "Oʻzbek anʼanasiga koʻra, sovchilar qizning oilasiga non va shirinliklar bilan boradilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmætʃˌmeɪkər/"
     },
     {
       "english": "engagement",
@@ -352,7 +390,8 @@
       "pos": "noun",
       "example_en": "Both families celebrated the engagement with the breaking of bread.",
       "example_uz": "Har ikki oila non sindirish marosimi bilan fotiha toʻyini nishonladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ɛnˈgeɪdʒmənt/"
     },
     {
       "english": "dowry",
@@ -361,7 +400,8 @@
       "pos": "noun",
       "example_en": "The mother prepared hand-stitched quilts for her daughter's dowry.",
       "example_uz": "Ona qizining sepi uchun qoʻlda qavilgan koʻrpalar tayyorladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈdaʊri/"
     },
     {
       "english": "wedding",
@@ -370,7 +410,8 @@
       "pos": "noun",
       "example_en": "Music and dancing filled the hall during the wedding.",
       "example_uz": "Nikoh toʻyi davomida zal musiqa va raqslarga toʻldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈwɛdɪŋ/"
     },
     {
       "english": "marriage",
@@ -379,7 +420,8 @@
       "pos": "noun",
       "example_en": "Mutual respect is the foundation of a happy marriage.",
       "example_uz": "Oʻzaro hurmat baxtli turmushning poydevoridir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmɛrɪdʒ/"
     },
     {
       "english": "anniversary",
@@ -388,7 +430,8 @@
       "pos": "noun",
       "example_en": "My parents celebrated their thirtieth wedding anniversary.",
       "example_uz": "Ota-onam toʻylarining oʻttiz yilligini nishonlashdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˌænəˈvərsəri/"
     },
     {
       "english": "honeymoon",
@@ -397,7 +440,8 @@
       "pos": "noun",
       "example_en": "They traveled to the mountains for their honeymoon.",
       "example_uz": "Ular asal oyini oʻtkazish uchun togʻlarga sayohat qilishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈhəniˌmun/"
     },
     {
       "english": "divorce",
@@ -406,7 +450,8 @@
       "pos": "noun",
       "example_en": "Family elders tried to help the couple avoid divorce.",
       "example_uz": "Oila kattalari er-xotinga ajrashishning oldini olishda yordam berishga harakat qilishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/dɪˈvɔrs/"
     },
     {
       "english": "widow",
@@ -415,7 +460,8 @@
       "pos": "noun",
       "example_en": "The elderly widow is surrounded by her loving grandchildren.",
       "example_uz": "Keksa beva ayol mehribon nabiralari qurshovida yashaydi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈwɪdoʊ/"
     },
     {
       "english": "widower",
@@ -424,7 +470,8 @@
       "pos": "noun",
       "example_en": "The widower tends his rose garden every morning.",
       "example_uz": "Beva qolgan chol har kuni ertalab atirgul bogʻini parvarish qiladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈwɪdoʊər/"
     },
     {
       "english": "bachelor",
@@ -433,7 +480,8 @@
       "pos": "noun",
       "example_en": "My older cousin is still a bachelor.",
       "example_uz": "Mening katta amakivachcham hali ham boʻydoq.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈbætʃələr/"
     },
     {
       "english": "engaged",
@@ -442,7 +490,8 @@
       "pos": "adj",
       "example_en": "They got engaged in autumn and plan to marry in spring.",
       "example_uz": "Ular kuzda unashtirildilar va bahorda toʻy qilishni rejalashtirishmoqda.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ɪnˈgeɪdʒd/"
     },
     {
       "english": "married",
@@ -451,7 +500,8 @@
       "pos": "adj",
       "example_en": "They have been happily married for twenty-five years.",
       "example_uz": "Ular yigirma besh yildan beri baxtli turmush kechirishmoqda.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmɛrid/"
     },
     {
       "english": "pregnant",
@@ -460,7 +510,8 @@
       "pos": "adj",
       "example_en": "Everyone offered their seat on the bus to the pregnant woman.",
       "example_uz": "Avtobusda hamma homilador ayolga joy boʻshatib berdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈprɛgnənt/"
     },
     {
       "english": "maternity",
@@ -469,7 +520,8 @@
       "pos": "noun",
       "example_en": "She is currently on maternity leave with her newborn.",
       "example_uz": "U hozirda yangi tugʻilgan chaqalogʻi bilan onalik taʼtilida.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/məˈtərnɪti/"
     },
     {
       "english": "birth",
@@ -478,7 +530,8 @@
       "pos": "noun",
       "example_en": "The birth of their first child brought immense joy.",
       "example_uz": "Birinchi farzandlarining dunyoga kelishi cheksiz quvonch keltirdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/bərθ/"
     },
     {
       "english": "newborn",
@@ -487,7 +540,8 @@
       "pos": "noun",
       "example_en": "The newborn sleeps for most of the day.",
       "example_uz": "Yangi tugʻilgan chaqaloq kunning koʻp qismini uxlab oʻtkazadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈnubɔrn/"
     },
     {
       "english": "infant",
@@ -496,7 +550,8 @@
       "pos": "noun",
       "example_en": "The mother wrapped the infant in a soft cotton blanket.",
       "example_uz": "Ona goʻdakni yumshoq paxtali yoʻrgakka oʻradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈɪnfənt/"
     },
     {
       "english": "infancy",
@@ -505,7 +560,8 @@
       "pos": "noun",
       "example_en": "Good nutrition during infancy is vital for growth.",
       "example_uz": "Goʻdaklik davrida yaxshi oziqlanish oʻsish uchun juda muhim.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈɪnfənsi/"
     },
     {
       "english": "toddler",
@@ -514,7 +570,8 @@
       "pos": "noun",
       "example_en": "The curious toddler took his first unsteady steps.",
       "example_uz": "Qiziquvchan kichkintoy oʻzining ilk dadil boʻlmagan qadamlarini tashladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈtɑdlər/"
     },
     {
       "english": "childhood",
@@ -523,7 +580,8 @@
       "pos": "noun",
       "example_en": "I spent my childhood summers in my grandfather's village.",
       "example_uz": "Men bolalik yozlarimni bobomning qishlogʻida oʻtkazganman.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈtʃaɪlˌdhʊd/"
     },
     {
       "english": "adolescence",
@@ -532,7 +590,8 @@
       "pos": "noun",
       "example_en": "Adolescence is a time of rapid physical and emotional change.",
       "example_uz": "Oʻsmirlik — tez jismoniy va hissiy oʻzgarishlar davridir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˌædəˈlɛsəns/"
     },
     {
       "english": "adolescent",
@@ -541,7 +600,8 @@
       "pos": "noun",
       "example_en": "Adolescents need both guidance and independence.",
       "example_uz": "Oʻsmirlarga ham yoʻl-yoʻriq, ham mustaqillik kerak.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˌædəˈlɛsənt/"
     },
     {
       "english": "maturity",
@@ -550,7 +610,8 @@
       "pos": "noun",
       "example_en": "With age comes emotional maturity and patience.",
       "example_uz": "Yosh oʻtishi bilan hissiy yetuklik va sabr-toqat paydo boʻladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/məˈtʃʊrəti/"
     },
     {
       "english": "adulthood",
@@ -559,7 +620,8 @@
       "pos": "noun",
       "example_en": "Taking responsibility for your choices is part of adulthood.",
       "example_uz": "Oʻz tanlovlari uchun javobgarlikni olish kattalik davrining bir qismidir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/əˈdəlˌthʊd/"
     },
     {
       "english": "middle-aged",
@@ -568,7 +630,8 @@
       "pos": "adj",
       "example_en": "A middle-aged couple bought the house next door.",
       "example_uz": "Qoʻshni uyni oʻrta yoshli er-xotin sotib oldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmɪdəl-eɪdʒd/"
     },
     {
       "english": "senior",
@@ -577,7 +640,8 @@
       "pos": "noun",
       "example_en": "Public transport offers discounts for seniors.",
       "example_uz": "Jamoat transportida nuroniylar uchun chegirmalar mavjud.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈsinjər/"
     },
     {
       "english": "pensioner",
@@ -586,7 +650,8 @@
       "pos": "noun",
       "example_en": "The retired teacher is now an active pensioner.",
       "example_uz": "Nafaqaga chiqqan oʻqituvchi hozirda faol nafaqaxoʻr.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈpɛnʃənər/"
     },
     {
       "english": "retire",
@@ -595,7 +660,8 @@
       "pos": "verb",
       "example_en": "My father plans to retire after forty years of teaching.",
       "example_uz": "Otam qirq yillik oʻqituvchilikdan soʻng nafaqaga chiqishni rejalashtirmoqda.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/rɪˈtaɪr/"
     },
     {
       "english": "retirement",
@@ -604,7 +670,8 @@
       "pos": "noun",
       "example_en": "He took up beekeeping and gardening during his retirement.",
       "example_uz": "U nafaqa davrida asalarichilik va bogʻdorchilik bilan shugʻullana boshladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/riˈtaɪərmənt/"
     },
     {
       "english": "upbringing",
@@ -613,7 +680,8 @@
       "pos": "noun",
       "example_en": "Polite speech reflects a person's good family upbringing.",
       "example_uz": "Xushmuomala nutq insonning oilada olgan yaxshi tarbiyasini aks ettiradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈəpˌbrɪŋɪŋ/"
     },
     {
       "english": "spoil",
@@ -622,7 +690,8 @@
       "pos": "verb",
       "example_en": "Grandparents love to spoil their grandchildren with sweets.",
       "example_uz": "Bobo-buvilar nabiralarini shirinliklar bilan erkalatishni yaxshi koʻradilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/spɔɪl/"
     },
     {
       "english": "scold",
@@ -631,7 +700,8 @@
       "pos": "verb",
       "example_en": "Do not scold a child harshly in front of strangers.",
       "example_uz": "Bolani begonalar oldida qattiq koyimang.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/skoʊld/"
     },
     {
       "english": "respect",
@@ -640,7 +710,8 @@
       "pos": "verb",
       "example_en": "Always respect your elders and listen to their counsel.",
       "example_uz": "Har doim kattalarni hurmat qiling va ularning nasihatiga quloq tuting.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/rɪˈspɛkt/"
     },
     {
       "english": "cherish",
@@ -649,7 +720,8 @@
       "pos": "verb",
       "example_en": "We cherish the memories of our family gatherings.",
       "example_uz": "Biz oilaviy davralarimiz xotiralarini ardoqlaymiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈtʃɛrɪʃ/"
     },
     {
       "english": "reconcile",
@@ -658,7 +730,8 @@
       "pos": "verb",
       "example_en": "The two brothers shook hands and decided to reconcile.",
       "example_uz": "Ikki aka-uka qoʻl berib koʻrishib, yarashishga qaror qilishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈrɛkənˌsaɪl/"
     },
     {
       "english": "quarrel",
@@ -667,7 +740,8 @@
       "pos": "verb",
       "example_en": "Good neighbors never quarrel over minor fences.",
       "example_uz": "Ahil qoʻshnilar arzimas narsalar ustida hech qachon janjallashmaydilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kˈwɔrəl/"
     },
     {
       "english": "insult",
@@ -676,7 +750,8 @@
       "pos": "verb",
       "example_en": "Never insult someone in anger; words leave deep scars.",
       "example_uz": "Gʻazab ustida hech kimni ranjitmang; soʻz chuqur iz qoldiradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˌɪnˈsəlt/"
     },
     {
       "english": "betray",
@@ -685,7 +760,8 @@
       "pos": "verb",
       "example_en": "A loyal companion would never betray your trust.",
       "example_uz": "Sodiq hamroh ishonchingizga hech qachon xiyonat qilmaydi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/bɪˈtreɪ/"
     },
     {
       "english": "trust",
@@ -694,7 +770,8 @@
       "pos": "verb",
       "example_en": "You can trust him completely with your secret.",
       "example_uz": "Siringizni unga toʻliq ishonib aytishingiz mumkin.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/trəst/"
     },
     {
       "english": "rely",
@@ -703,7 +780,8 @@
       "pos": "verb",
       "example_en": "In difficult times, we rely on family and close friends.",
       "example_uz": "Qiyin damlarda biz oilamiz va yaqin doʻstlarimizga suyanamiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/rɪˈlaɪ/"
     },
     {
       "english": "confide",
@@ -712,7 +790,8 @@
       "pos": "verb",
       "example_en": "She always confides her worries to her older sister.",
       "example_uz": "U oʻz tashvishlarini doimo opasiga aytib dardlashadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kənˈfaɪd/"
     },
     {
       "english": "console",
@@ -721,7 +800,8 @@
       "pos": "verb",
       "example_en": "Friends came to console the family after their loss.",
       "example_uz": "Doʻstlar musibatdan soʻng oilaga hamdardlik bildirish uchun kelishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkɑnsoʊl/"
     },
     {
       "english": "embrace",
@@ -730,7 +810,8 @@
       "pos": "verb",
       "example_en": "The father stepped forward to embrace his returning son.",
       "example_uz": "Ota safardan qaytgan oʻgʻlini quchoqlash uchun oldinga chiqdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ɛmˈbreɪs/"
     },
     {
       "english": "welcome",
@@ -739,7 +820,8 @@
       "pos": "verb",
       "example_en": "We always welcome guests into our home with hot tea.",
       "example_uz": "Biz mehmonlarni uyimizda doimo issiq choy bilan kutib olamiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈwɛlkəm/"
     },
     {
       "english": "escort",
@@ -748,7 +830,8 @@
       "pos": "verb",
       "example_en": "The host walked out to the gate to escort the guests.",
       "example_uz": "Mezbon mehmonlarni kuzatib qoʻyish uchun darvozagacha chiqdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ɛˈskɔrt/"
     },
     {
       "english": "visit",
@@ -757,7 +840,8 @@
       "pos": "verb",
       "example_en": "We visit our grandparents in the village every month.",
       "example_uz": "Biz har oyda qishloqdagi bobo va buvimizni koʻrgani boramiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈvɪzɪt/"
     },
     {
       "english": "acquaintance",
@@ -766,7 +850,8 @@
       "pos": "noun",
       "example_en": "He is not a close friend, just a business acquaintance.",
       "example_uz": "U yaqin doʻst emas, shunchaki ish boʻyicha tanish.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/əkˈweɪntəns/"
     },
     {
       "english": "companion",
@@ -775,7 +860,8 @@
       "pos": "noun",
       "example_en": "A cheerful companion makes a long journey seem short.",
       "example_uz": "Xushchaqchaq hamroh uzoq safarni qisqa qilib koʻrsatadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kəmˈpænjən/"
     },
     {
       "english": "comrade",
@@ -784,7 +870,8 @@
       "pos": "noun",
       "example_en": "The old soldiers remained loyal comrades for life.",
       "example_uz": "Keksa askarlar bir umrga sodiq safdosh boʻlib qoldilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkɑmˌræd/"
     },
     {
       "english": "peer",
@@ -793,7 +880,8 @@
       "pos": "noun",
       "example_en": "Teenagers often care deeply about the opinions of their peers.",
       "example_uz": "Oʻsmirlar koʻpincha tengdoshlarining fikriga katta ahamiyat berishadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/pɪr/"
     },
     {
       "english": "classmate",
@@ -802,7 +890,8 @@
       "pos": "noun",
       "example_en": "I met my former school classmate at the book fair.",
       "example_uz": "Kitob yarmarkasida sobiq maktabdoshimni uchratib qoldim.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈklæsˌmeɪt/"
     },
     {
       "english": "roommate",
@@ -811,7 +900,8 @@
       "pos": "noun",
       "example_en": "My dormitory roommate is from Khorezm.",
       "example_uz": "Yotoqxonadagi xonadoshim Xorazmdan.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈruˌmeɪt/"
     },
     {
       "english": "flatmate",
@@ -820,7 +910,8 @@
       "pos": "noun",
       "example_en": "He splits the monthly utility bills with his flatmate.",
       "example_uz": "U oylik kommunal toʻlovlarni kvartiradoshi bilan boʻlishib toʻlaydi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/flatmate/"
     },
     {
       "english": "coworker",
@@ -829,7 +920,8 @@
       "pos": "noun",
       "example_en": "Her coworkers bought a cake for her birthday.",
       "example_uz": "Hamkasblari uning tugʻilgan kuniga tort sotib olishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkoʊˈwərkər/"
     },
     {
       "english": "pal",
@@ -838,7 +930,8 @@
       "pos": "noun",
       "example_en": "They have been best pals since primary school.",
       "example_uz": "Ular boshlangʻich maktabdan beri qadrdon oshnalar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/pæl/"
     },
     {
       "english": "buddy",
@@ -847,7 +940,8 @@
       "pos": "noun",
       "example_en": "He went fishing on Sunday with his old buddy.",
       "example_uz": "U yakshanba kuni eski joʻrasi bilan baliq oviga bordi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈbədi/"
     },
     {
       "english": "confidant",
@@ -856,7 +950,8 @@
       "pos": "noun",
       "example_en": "Her mother has always been her closest confidant.",
       "example_uz": "Onasi doimo uning eng yaqin sirdoshi boʻlib kelgan.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkɑnfəˌdɑnt/"
     },
     {
       "english": "mentor",
@@ -865,7 +960,8 @@
       "pos": "noun",
       "example_en": "Every apprentice needs a wise mentor to learn the craft.",
       "example_uz": "Har bir shogirdga hunar oʻrganish uchun dono ustoz kerak.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmɛnˌtɔr/"
     },
     {
       "english": "apprentice",
@@ -874,7 +970,8 @@
       "pos": "noun",
       "example_en": "The young apprentice watched the master woodcarver closely.",
       "example_uz": "Yosh shogird usta yogʻoch oʻymakorning ishini diqqat bilan kuzatdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/əˈprɛntəs/"
     },
     {
       "english": "hostess",
@@ -883,7 +980,8 @@
       "pos": "noun",
       "example_en": "The hostess welcomed everyone with a warm smile.",
       "example_uz": "Uy bekasi barchani iliq tabassum bilan qarshi oldi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈhoʊstəs/"
     },
     {
       "english": "neighborhood",
@@ -892,7 +990,8 @@
       "pos": "noun",
       "example_en": "Our neighborhood is quiet and full of shade trees.",
       "example_uz": "Mahallamiz tinch va soyali daraxtlarga toʻla.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈneɪbərˌhʊd/"
     },
     {
       "english": "hospitality",
@@ -901,7 +1000,8 @@
       "pos": "noun",
       "example_en": "Uzbekistan is famous worldwide for its warm hospitality.",
       "example_uz": "Oʻzbekiston oʻzining samimiy mehmondoʻstligi bilan dunyoga mashhur.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˌhɑspəˈtæləti/"
     },
     {
       "english": "etiquette",
@@ -910,7 +1010,8 @@
       "pos": "noun",
       "example_en": "Pouring tea half-full is a sign of respect in Uzbek etiquette.",
       "example_uz": "Choyni oz-ozdan quyib uzatish oʻzbek odobida hurmat belgisidir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈɛtəkət/"
     },
     {
       "english": "custom",
@@ -919,7 +1020,8 @@
       "pos": "noun",
       "example_en": "Hashar is an ancient custom of mutual neighborhood help.",
       "example_uz": "Hashar — qoʻni-qoʻshnilarning qadimiy oʻzaro yordam udumidir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkəstəm/"
     },
     {
       "english": "tradition",
@@ -928,7 +1030,8 @@
       "pos": "noun",
       "example_en": "Cooking sumalak together in spring is a beloved tradition.",
       "example_uz": "Bahorda birgalikda sumalak pishirish sevimli anʼanadir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/trəˈdɪʃən/"
     },
     {
       "english": "ceremony",
@@ -937,7 +1040,8 @@
       "pos": "noun",
       "example_en": "The cradle ceremony, Beshik Tuy, celebrates a newborn child.",
       "example_uz": "Beshik toʻyi marosimi yangi tugʻilgan chaqaloq sharafiga oʻtkaziladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈsɛrəˌmoʊni/"
     },
     {
       "english": "ritual",
@@ -946,7 +1050,8 @@
       "pos": "noun",
       "example_en": "Morning tea is an essential daily ritual in every home.",
       "example_uz": "Ertalabki choy — har bir xonadonda muhim kundalik udumdir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈrɪtʃuəl/"
     },
     {
       "english": "blessing",
@@ -955,7 +1060,8 @@
       "pos": "noun",
       "example_en": "Before a long journey, we ask elders for their blessing.",
       "example_uz": "Uzoq safar oldidan keksalardan oq fotiha va duo olamiz.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈblɛsɪŋ/"
     },
     {
       "english": "courtesy",
@@ -964,7 +1070,8 @@
       "pos": "noun",
       "example_en": "Giving up your seat to elders is common courtesy.",
       "example_uz": "Kattalarga joy berish oddiy odob qoidasidir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkərtəsi/"
     },
     {
       "english": "manners",
@@ -973,7 +1080,8 @@
       "pos": "noun",
       "example_en": "Good table manners are taught at home from childhood.",
       "example_uz": "Dasturxon odobi uyda bolalikdan oʻrgatiladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmænərz/"
     },
     {
       "english": "gratitude",
@@ -982,7 +1090,8 @@
       "pos": "noun",
       "example_en": "She expressed her heartfelt gratitude to the doctors.",
       "example_uz": "U shifokorlarga chin dildan minnatdorchilik bildirdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈgrætəˌtud/"
     },
     {
       "english": "sympathy",
@@ -991,7 +1100,8 @@
       "pos": "noun",
       "example_en": "Neighbors offered their deep sympathy to the grieving family.",
       "example_uz": "Qoʻshnilar motam tutayotgan oilaga chuqur hamdardlik bildirishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈsɪmpəθi/"
     },
     {
       "english": "compassion",
@@ -1000,7 +1110,8 @@
       "pos": "noun",
       "example_en": "Treating the weak with compassion is a noble virtue.",
       "example_uz": "Zaiflarga mehr-shafqat koʻrsatish olijanob fazilatdir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kəmˈpæʃən/"
     },
     {
       "english": "empathy",
@@ -1009,7 +1120,8 @@
       "pos": "noun",
       "example_en": "A good listener shows genuine empathy for others.",
       "example_uz": "Yaxshi tinglovchi boshqalarning dardiga chinakam hamdardlik koʻrsatadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈɛmpəθi/"
     },
     {
       "english": "affection",
@@ -1018,7 +1130,8 @@
       "pos": "noun",
       "example_en": "Parents show affection through both words and actions.",
       "example_uz": "Ota-onalar mehrlarini ham soʻz, ham amal bilan koʻrsatadilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/əˈfɛkʃən/"
     },
     {
       "english": "devotion",
@@ -1027,7 +1140,8 @@
       "pos": "noun",
       "example_en": "Her lifelong devotion to her family inspired everyone.",
       "example_uz": "Uning oilasiga boʻlgan bir umrlik sadoqati barchani ruhlantirdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/dɪˈvoʊʃən/"
     },
     {
       "english": "loyalty",
@@ -1036,7 +1150,8 @@
       "pos": "noun",
       "example_en": "Loyalty is the most valuable quality in friendship.",
       "example_uz": "Sadoqat — doʻstlikdagi eng qadrli fazilatdir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈlɔɪəlti/"
     },
     {
       "english": "friendship",
@@ -1045,7 +1160,8 @@
       "pos": "noun",
       "example_en": "True friendship withstands the test of time and distance.",
       "example_uz": "Chin doʻstlik vaqt va masofa sinovidan oʻtadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈfrɛndʃɪp/"
     },
     {
       "english": "companionship",
@@ -1054,7 +1170,8 @@
       "pos": "noun",
       "example_en": "Elderly people value warm companionship and conversation.",
       "example_uz": "Keksalar samimiy suhbatdoshlik va hamrohlikni qadrlaydilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kəmˈpænjənˌʃɪp/"
     },
     {
       "english": "harmony",
@@ -1063,7 +1180,8 @@
       "pos": "noun",
       "example_en": "May peace and harmony always reign in your home.",
       "example_uz": "Xonadoningizda doimo tinchlik va totuvlik hukm sursin.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈhɑrməni/"
     },
     {
       "english": "unity",
@@ -1072,7 +1190,8 @@
       "pos": "noun",
       "example_en": "Family unity makes every hardship easier to overcome.",
       "example_uz": "Oila ahilligi har qanday qiyinchilikni yengib oʻtishni osonlashtiradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈjunəti/"
     },
     {
       "english": "reunion",
@@ -1081,7 +1200,8 @@
       "pos": "noun",
       "example_en": "We organized a school reunion twenty years after graduation.",
       "example_uz": "Maktabni bitirganimizga yigirma yil toʻlganda sinfdoshlar uchrashuvini tashkil qildik.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/riˈunjən/"
     },
     {
       "english": "homesick",
@@ -1090,7 +1210,8 @@
       "pos": "adj",
       "example_en": "During his first month abroad, the student felt homesick.",
       "example_uz": "Chet eldagi birinchi oyida talaba uyini juda sogʻindi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈhoʊmˌsɪk/"
     },
     {
       "english": "hospitable",
@@ -1099,7 +1220,8 @@
       "pos": "adj",
       "example_en": "The villagers were remarkably warm and hospitable.",
       "example_uz": "Qishloq odamlari nihoyatda samimiy va mehmondoʻst edilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈhɑˈspɪtəbəl/"
     },
     {
       "english": "respectful",
@@ -1108,7 +1230,8 @@
       "pos": "adj",
       "example_en": "He spoke in a quiet, respectful tone to his teacher.",
       "example_uz": "U ustoziga past va ehtiromli ohangda gapirdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/rɪˈspɛktfəl/"
     },
     {
       "english": "courteous",
@@ -1117,7 +1240,8 @@
       "pos": "adj",
       "example_en": "The courteous clerk helped the elderly woman carry her bag.",
       "example_uz": "Xushmuomala xodim keksa ayolga sumkasini koʻtarishda yordam berdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkərtiəs/"
     },
     {
       "english": "affectionate",
@@ -1126,7 +1250,8 @@
       "pos": "adj",
       "example_en": "The child gave her mother an affectionate smile.",
       "example_uz": "Bola onasiga mehribonlik bilan jilmayib qaradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/əˈfɛkʃənət/"
     },
     {
       "english": "caring",
@@ -1135,7 +1260,8 @@
       "pos": "adj",
       "example_en": "He grew up in a warm and caring household.",
       "example_uz": "U iliq va gʻamxoʻr oilada voyaga yetdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkɛrɪŋ/"
     },
     {
       "english": "supportive",
@@ -1144,7 +1270,8 @@
       "pos": "adj",
       "example_en": "Her family was very supportive of her medical studies.",
       "example_uz": "Oilasi uning tibbiyot sohasidagi oʻqishini juda qoʻllab-quvvatladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/səˈpɔrtɪv/"
     },
     {
       "english": "trustworthy",
@@ -1153,7 +1280,8 @@
       "pos": "adj",
       "example_en": "Choose a trustworthy person to look after the business.",
       "example_uz": "Ishga qarab turish uchun ishonchli odamni tanlang.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈtrəstˌwərði/"
     },
     {
       "english": "reliable",
@@ -1162,7 +1290,8 @@
       "pos": "adj",
       "example_en": "My brother is the most reliable person I know.",
       "example_uz": "Akam men bilgan eng ishonchli inson.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/rɪˈlaɪəbəl/"
     },
     {
       "english": "sincere",
@@ -1171,7 +1300,8 @@
       "pos": "adj",
       "example_en": "Please accept our sincere wishes for your health and happiness.",
       "example_uz": "Sogʻlik va baxt tilab bildirgan samimiy tilaklarimizni qabul qiling.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/sɪnˈsɪr/"
     },
     {
       "english": "modest",
@@ -1180,7 +1310,8 @@
       "pos": "adj",
       "example_en": "She is modest about her achievements in science.",
       "example_uz": "U ilm-fandagi yutuqlari haqida kamtarlik qiladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmɑdəst/"
     },
     {
       "english": "tolerant",
@@ -1189,7 +1320,8 @@
       "pos": "adj",
       "example_en": "A harmonious society requires people to be tolerant and kind.",
       "example_uz": "Ahil jamiyat odamlardan bagʻrikeng va mehribon boʻlishni talab etadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈtɑlərənt/"
     },
     {
       "english": "forgiving",
@@ -1198,7 +1330,8 @@
       "pos": "adj",
       "example_en": "A forgiving heart brings peace to the whole family.",
       "example_uz": "Kechirimli qalb butun oilaga xotirjamlik olib keladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/fərˈgɪvɪŋ/"
     },
     {
       "english": "sociable",
@@ -1207,7 +1340,8 @@
       "pos": "adj",
       "example_en": "She is sociable and makes friends easily wherever she goes.",
       "example_uz": "U dilkash boʻlib, qayoqqa borsa oson doʻst orttiradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈsoʊʃəbəl/"
     },
     {
       "english": "forefather",
@@ -1216,7 +1350,8 @@
       "pos": "noun",
       "example_en": "Our forefathers built magnificent madrasahs and libraries.",
       "example_uz": "Ota-bobolarimiz muhtasham madrasalar va kutubxonalar barpo etganlar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈfɔrˌfɑðər/"
     },
     {
       "english": "progeny",
@@ -1225,7 +1360,8 @@
       "pos": "noun",
       "example_en": "The old tree planted by the grandfather now shades his progeny.",
       "example_uz": "Bobo ekkan keksa daraxt bugun uning zurriyotlariga soya bermoqda.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈprɑdʒəni/"
     },
     {
       "english": "offspring",
@@ -1234,7 +1370,8 @@
       "pos": "noun",
       "example_en": "Parents work hard to provide a good education for their offspring.",
       "example_uz": "Ota-onalar farzandlariga yaxshi taʼlim berish uchun astoydil mehnat qiladilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈɔfˌsprɪŋ/"
     },
     {
       "english": "firstborn",
@@ -1243,7 +1380,8 @@
       "pos": "noun",
       "example_en": "Their firstborn son is studying architecture.",
       "example_uz": "Ularning toʻngʻich oʻgʻli meʼmorchilik yoʻnalishida oʻqiydi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈfərstˈbɔrn/"
     },
     {
       "english": "namesake",
@@ -1252,7 +1390,8 @@
       "pos": "noun",
       "example_en": "The boy was named after his grandfather and is his proud namesake.",
       "example_uz": "Bolaga bobosining ismi qoʻyilgan boʻlib, u bobosining faxrli adashidir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈneɪmˌseɪk/"
     },
     {
       "english": "compatriot",
@@ -1261,7 +1400,8 @@
       "pos": "noun",
       "example_en": "It is always a joy to meet a compatriot when traveling abroad.",
       "example_uz": "Chet elda sayohat qilganda hamyurtni uchratish doimo quvonchli.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kəmˈpeɪtriət/"
     },
     {
       "english": "countryman",
@@ -1270,7 +1410,8 @@
       "pos": "noun",
       "example_en": "He greeted his fellow countryman warmly at the international conference.",
       "example_uz": "U xalqaro anjumanda yurtdoshini samimiy qutladi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈkəntrimən/"
     },
     {
       "english": "housemate",
@@ -1279,7 +1420,8 @@
       "pos": "noun",
       "example_en": "Each housemate takes turns cooking dinner during the week.",
       "example_uz": "Hafta davomida har bir xonadosh navbat bilan kechki ovqat pishiradi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/housemate/"
     },
     {
       "english": "playmate",
@@ -1288,7 +1430,8 @@
       "pos": "noun",
       "example_en": "The neighbor's children were my daily playmates in summer.",
       "example_uz": "Qoʻshnining bolalari yozda mening kundalik oʻyindoshlarim edi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈpleɪˌmeɪt/"
     },
     {
       "english": "pen pal",
@@ -1297,7 +1440,8 @@
       "pos": "noun",
       "example_en": "Having a foreign pen pal is a great way to practice English.",
       "example_uz": "Chet ellik yozishma doʻstga ega boʻlish ingliz tilini mashq qilishning ajoyib usulidir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/pɛn pæl/"
     },
     {
       "english": "patriarch",
@@ -1306,7 +1450,8 @@
       "pos": "noun",
       "example_en": "Everyone listened attentively as the family patriarch gave his blessing.",
       "example_uz": "Oila oqsoqoli duo qilayotganda hamma diqqat bilan quloq tutdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈpeɪtriˌɑrk/"
     },
     {
       "english": "matriarch",
@@ -1315,7 +1460,8 @@
       "pos": "noun",
       "example_en": "Our ninety-year-old grandmother is the beloved matriarch of the family.",
       "example_uz": "Toʻqson yoshli buvimiz oilamizning sevimli va ulugʻ ustunidirlar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmeɪtriˌɑrk/"
     },
     {
       "english": "elder",
@@ -1324,7 +1470,8 @@
       "pos": "noun",
       "example_en": "Always yield the path and offer greetings first to an elder.",
       "example_uz": "Yoshi ulugʻ insonga doimo yoʻl bering va birinchi boʻlib salom bering.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈɛldər/"
     },
     {
       "english": "breadwinner",
@@ -1333,7 +1480,8 @@
       "pos": "noun",
       "example_en": "After his father retired, the eldest brother became the main breadwinner.",
       "example_uz": "Otasi nafaqaga chiqqach, katta aka oilaning asosiy boquvchisiga aylandi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈbrɛdˌwɪnər/"
     },
     {
       "english": "homemaker",
@@ -1342,7 +1490,8 @@
       "pos": "noun",
       "example_en": "A skilled homemaker keeps the household running smoothly.",
       "example_uz": "Uquvli uy bekasi roʻzgʻor ishlarini saranjom-sarishta yuritadi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈhoʊmˌmeɪkər/"
     },
     {
       "english": "kinfolk",
@@ -1351,7 +1500,8 @@
       "pos": "noun",
       "example_en": "Kinfolk traveled from several provinces for the wedding feast.",
       "example_uz": "Toʻy bazmiga bir necha viloyatdan qarindosh-urugʻlar kelishdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/kinfolk/"
     },
     {
       "english": "befriend",
@@ -1360,7 +1510,8 @@
       "pos": "verb",
       "example_en": "He quickly befriended the new student on the first day of class.",
       "example_uz": "U darsning birinchi kunidayoq yangi talaba bilan tez doʻstlashib ketdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/bɪˈfrɛnd/"
     },
     {
       "english": "mingle",
@@ -1369,7 +1520,8 @@
       "pos": "verb",
       "example_en": "The host walked around the courtyard to mingle with all the guests.",
       "example_uz": "Mezbon barcha mehmonlar bilan suhbatlashish uchun hovli boʻylab yurdi.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈmɪŋgəl/"
     },
     {
       "english": "socialize",
@@ -1378,7 +1530,8 @@
       "pos": "verb",
       "example_en": "Tea houses are traditional places where neighbors gather to socialize.",
       "example_uz": "Choyxonalar qoʻshnilar toʻplanib muloqot qiladigan anʼanaviy maskanlardir.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/ˈsoʊʃəˌlaɪz/"
     },
     {
       "english": "cooperate",
@@ -1387,7 +1540,8 @@
       "pos": "verb",
       "example_en": "Neighbors cooperate during a community hashar to clean the street.",
       "example_uz": "Qoʻshnilar koʻchani tozalash uchun mahalla hasharida hamkorlik qiladilar.",
-      "category": "Oila, inson davrlari va munosabatlar"
+      "category": "Oila, inson davrlari va munosabatlar",
+      "ipa": "/koʊˈɑpərˌeɪt/"
     }
   ]
 }

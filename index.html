@@ -6,7 +6,7 @@
   <meta name="format-detection" content="telephone=no" />
   <title>Inglizcha – Oʻzbekcha Soʻz Kartochkalari</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
-  <link rel="stylesheet" href="./css/style.css?v=20261020_2" />
+  <link rel="stylesheet" href="./css/style.css?v=20261113_ipa" />
 </head>
 <body>
   <!-- Ambient Background Glow following Current Deck Accent -->
@@ -76,12 +76,30 @@
             </div>
 
             <div class="card-front-body">
-              <h1 class="english-word" id="englishWord">accept</h1>
+              <div class="english-word-container">
+                <h1 class="english-word" id="englishWord">accept</h1>
+                <button type="button" class="audio-speak-btn" id="speakBtn" title="Inglizcha talaffuzini eshitish" aria-label="Inglizcha talaffuzini eshitish">
+                  <svg class="audio-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M11 5L6 9H2V15H6L11 19V5Z" fill="currentColor"/>
+                    <path class="audio-wave wave-inner" d="M15.5 8.5C16.5 9.5 17 10.7 17 12C17 13.3 16.5 14.5 15.5 15.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+                    <path class="audio-wave wave-outer" d="M19 6C20.6 7.6 21.5 9.7 21.5 12C21.5 14.3 20.6 16.4 19 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+                  </svg>
+                </button>
+              </div>
 
+              <!-- Pronunciation wrap showing BOTH official IPA and Uzbek Latin reading -->
               <div class="pronunciation-wrap">
-                <span class="pronunciation-caption">oʻqilishi</span>
-                <div class="pronunciation-pill" id="pronunciationPill">
-                  <span class="pronunciation-text" id="pronunciationText">[ eksept ]</span>
+                <div class="pronunciation-pills-group">
+                  <!-- 1. Rasmiy xalqaro IPA transkripsiyasi ("iyeroglifga o'xshash rasmiy talaffuzi") -->
+                  <div class="pron-pill pron-pill-ipa" id="ipaPill" role="button" tabindex="0" title="Rasmiy xalqaro transkripsiya (IPA) — tinglash uchun bosing">
+                    <span class="pron-badge ipa-badge">IPA</span>
+                    <span class="ipa-text" id="ipaText">/ækˈsɛpt/</span>
+                  </div>
+                  <!-- 2. O'zbekcha soddalashtirilgan o'qilishi -->
+                  <div class="pron-pill pron-pill-uz" id="pronunciationPill" role="button" tabindex="0" title="Oʻzbekcha oʻqilishi — tinglash uchun bosing">
+                    <span class="pron-badge uz-badge">Oʻqilishi</span>
+                    <span class="pronunciation-text" id="pronunciationText">[ eksept ]</span>
+                  </div>
                 </div>
               </div>
             </div>
@@ -127,6 +145,12 @@
               </div>
 
               <div class="example-block">
+                <button type="button" class="example-audio-btn" id="exampleSpeakBtn" title="Misol gapni tinglash" aria-label="Misol gapni tinglash">
+                  <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+                    <path d="M9 4L5 7.5H2V12.5H5L9 16V4Z" fill="currentColor"/>
+                    <path d="M12.5 7.5a3.5 3.5 0 0 1 0 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+                  </svg>
+                </button>
                 <p class="example-en" id="exampleEn">Please accept my warm congratulations.</p>
                 <p class="example-uz" id="exampleUz">Iltimos, samimiy tabriklarimni qabul qiling.</p>
               </div>
@@ -224,6 +248,6 @@
     <div class="sheet-list" id="categoryList" role="listbox"></div>
   </aside>
 
-  <script src="./js/app.js?v=20261020_2"></script>
+  <script src="./js/app.js?v=20261113_ipa"></script>
 </body>
 </html>
