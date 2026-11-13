@@ -1,85 +1,81 @@
-import re
 from pathlib import Path
 
 app_js_path = Path(r"C:\Users\user\Desktop\words-app\webapp\js\app.js")
+index_html_path = Path(r"C:\Users\user\Desktop\words-app\webapp\index.html")
+
+# 1. Update index.html to add <audio id="globalAudioPlayer" preload="auto" playsinline></audio>
+html = index_html_path.read_text(encoding="utf-8")
+if 'id="globalAudioPlayer"' not in html:
+    html = html.replace(
+        '<main class="app-shell" id="appShell">',
+        '<audio id="globalAudioPlayer" preload="auto" playsinline></audio>\n  <main class="app-shell" id="appShell">'
+    )
+    # bump cache buster
+    html = html.replace("20261113_audio_v2", "20261113_audio_v3")
+    index_html_path.write_text(html, encoding="utf-8")
+    print("index.html updated with globalAudioPlayer!")
+
+# 2. Update app.js
 code = app_js_path.read_text(encoding="utf-8")
 
-# 1. Update toggleFlip
-code = code.replace(
-    "function toggleFlip() {\n    if (state.isEndState || state.isAnimating) return;\n    state.isFlipped = !state.isFlipped;",
-    "function toggleFlip() {\n    if (state.isEndState || state.isAnimating) return;\n    stopAllAudio();\n    state.isFlipped = !state.isFlipped;"
-)
+# Replace playNativeAudio function block
+old_engine_marker = "  // Native English Audio Engine (Authentic American English Pronunciation)"
+start_idx = code.find(old_engine_marker)
+if start_idx == -1:
+    print("ERROR: old_engine_marker not found in app.js")
+    exit(1)
 
-# 2. Update goNext
-code = code.replace(
-    "function goNext() {\n    if (state.isAnimating) return;\n    triggerHaptic(\"light\");",
-    "function goNext() {\n    if (state.isAnimating) return;\n    stopAllAudio();\n    triggerHaptic(\"light\");"
-)
+end_marker = "    if (dom.exampleSpeakBtn) {\n      dom.exampleSpeakBtn.addEventListener(\"click\", (e) => {\n        e.stopPropagation();\n        const word = state.activeWords[state.currentIndex];\n        if (word) playNativeAudio(word.example_en, dom.exampleSpeakBtn);\n      });\n    }\n"
+end_idx = code.find(end_marker)
+if end_idx == -1:
+    print("ERROR: end_marker not found in app.js")
+    exit(1)
 
-# 3. Update goPrev
-code = code.replace(
-    "function goPrev() {\n    if (state.isAnimating) return;\n    if (!state.isEndState && state.currentIndex <= 0) return;\n\n    triggerHaptic(\"light\");",
-    "function goPrev() {\n    if (state.isAnimating) return;\n    if (!state.isEndState && state.currentIndex <= 0) return;\n\n    stopAllAudio();\n    triggerHaptic(\"light\");"
-)
-
-# 4. Update restartDeck
-code = code.replace(
-    "function restartDeck() {\n    triggerHaptic(\"light\");",
-    "function restartDeck() {\n    stopAllAudio();\n    triggerHaptic(\"light\");"
-)
-
-# 5. Update toggleShuffle
-code = code.replace(
-    "function toggleShuffle() {\n    triggerHaptic(\"light\");",
-    "function toggleShuffle() {\n    stopAllAudio();\n    triggerHaptic(\"light\");"
-)
-
-# 6. Update openCategorySheet
-code = code.replace(
-    "function openCategorySheet() {\n    triggerHaptic(\"light\");",
-    "function openCategorySheet() {\n    stopAllAudio();\n    triggerHaptic(\"light\");"
-)
-
-# 7. Update selectDeckFromSheet
-code = code.replace(
-    "async function selectDeckFromSheet(deckId) {\n    triggerHaptic(\"light\");",
-    "async function selectDeckFromSheet(deckId) {\n    stopAllAudio();\n    triggerHaptic(\"light\");"
-)
-
-# Replace the entire audio implementation block
-old_pattern = re.compile(
-    r"  // =========================================================================\n"
-    r"  // English Pronunciation Speech \(Web Speech API \+ HTML5 Audio Fallback\)\n"
-    r"  // =========================================================================\n"
-    r".*?"
-    r"    if \(dom\.exampleSpeakBtn\) \{\n"
-    r"      dom\.exampleSpeakBtn\.addEventListener\(\"click\", \(e\) => \{\n"
-    r"        e\.stopPropagation\(\);\n"
-    r"        const word = state\.activeWords\[state\.currentIndex\];\n"
-    r"        if \(word\) speakText\(word\.example_en, dom\.exampleSpeakBtn\);\n"
-    r"      \}\);\n"
-    r"    \}\n",
-    re.DOTALL
-)
-
-new_audio_block = """  // =========================================================================
-  // Native English Audio Engine (Authentic American English Pronunciation)
+new_engine_code = """  // Native English Audio Engine (Authentic American English Pronunciation)
   // - 100% Native English voice (Youdao American Studio + Google Translate TTS)
   // - NEVER uses system-default or Russian device voice
-  // - Single audio stream with instant cancellation (prevents dual/overlapping audio)
+  // - Single persistent audio element with instant stop (prevents dual/overlapping audio)
   // - Debounced button clicks with pulsing visual feedback
   // =========================================================================
-  let currentAudio = null;
+  let audioPlayer = null;
   let currentAudioBtn = null;
   let audioThrottleTime = 0;
+  let cachedEnVoice = null;
+
+  function initAudioEngine() {
+    if (typeof document !== "undefined") {
+      audioPlayer = document.getElementById("globalAudioPlayer");
+      if (!audioPlayer) {
+        audioPlayer = new Audio();
+        audioPlayer.id = "globalAudioPlayer";
+        audioPlayer.preload = "auto";
+        document.body.appendChild(audioPlayer);
+      }
+    }
+
+    if (typeof window !== "undefined" && "speechSynthesis" in window) {
+      const pickVoice = () => {
+        try {
+          const voices = window.speechSynthesis.getVoices() || [];
+          cachedEnVoice =
+            voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha") || v.name.includes("English"))) ||
+            voices.find((v) => v.lang && (v.lang === "en-US" || v.lang === "en-GB")) ||
+            voices.find((v) => v.lang && v.lang.startsWith("en")) ||
+            null;
+        } catch (_) {}
+      };
+      pickVoice();
+      window.speechSynthesis.onvoiceschanged = pickVoice;
+    }
+  }
 
   function stopAllAudio() {
-    if (currentAudio) {
+    if (audioPlayer) {
       try {
-        currentAudio.pause();
-        currentAudio.currentTime = 0;
+        audioPlayer.pause();
+        audioPlayer.currentTime = 0;
+        audioPlayer.removeAttribute("src");
       } catch (_) {}
-      currentAudio = null;
     }
     if (typeof window !== "undefined" && "speechSynthesis" in window) {
       try {
@@ -107,9 +103,13 @@ new_audio_block = """  // ======================================================
     const clean = cleanTextForAudio(text);
     if (!clean) return;
 
+    if (!audioPlayer) {
+      initAudioEngine();
+    }
+
     // Throttle rapid clicks (prevent rapid sound pileup)
     const now = Date.now();
-    if (now - audioThrottleTime < 280) return;
+    if (now - audioThrottleTime < 250) return;
     audioThrottleTime = now;
 
     // Immediately stop any currently playing sound or speech
@@ -127,43 +127,56 @@ new_audio_block = """  // ======================================================
     // For single words and short phrases: authentic American English dictionary recording
     if (wordsCount <= 4) {
       candidateUrls.push(`https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(clean)}&type=2`);
+      candidateUrls.push(`https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(clean)}&type=1`);
     }
-    // High-quality Google Translate native English TTS (works for both words and full sentences)
+    // Google Translate native English TTS (works for words and full sentences)
     candidateUrls.push(`https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=${encodeURIComponent(clean)}`);
 
     let candidateIndex = 0;
 
     function tryNextCandidate() {
       if (candidateIndex >= candidateUrls.length) {
-        // As a last-resort fallback: only use SpeechSynthesis IF an explicit English voice exists!
+        // Fallback: Web Speech API ONLY IF an explicit verified English voice is present
         fallbackVerifiedSpeechSynthesis(clean, btnEl);
         return;
       }
 
       const audioUrl = candidateUrls[candidateIndex++];
-      const audio = new Audio();
-      currentAudio = audio;
+      if (!audioPlayer) return;
 
       const finishPlayback = () => {
-        if (currentAudio === audio) {
-          currentAudio = null;
-        }
+        cleanup();
         if (btnEl) btnEl.classList.remove("is-speaking");
         if (currentAudioBtn === btnEl) currentAudioBtn = null;
       };
 
-      audio.onended = finishPlayback;
-      audio.onerror = () => {
-        if (currentAudio === audio) {
-          tryNextCandidate();
-        }
+      const onError = () => {
+        cleanup();
+        tryNextCandidate();
       };
 
-      audio.play().catch(() => {
-        if (currentAudio === audio) {
-          tryNextCandidate();
+      function cleanup() {
+        audioPlayer.removeEventListener("ended", finishPlayback);
+        audioPlayer.removeEventListener("error", onError);
+      }
+
+      audioPlayer.addEventListener("ended", finishPlayback, { once: true });
+      audioPlayer.addEventListener("error", onError, { once: true });
+
+      try {
+        audioPlayer.src = audioUrl;
+        audioPlayer.load();
+        const playPromise = audioPlayer.play();
+        if (playPromise !== undefined) {
+          playPromise.catch(() => {
+            cleanup();
+            tryNextCandidate();
+          });
         }
-      });
+      } catch (_) {
+        cleanup();
+        tryNextCandidate();
+      }
     }
 
     tryNextCandidate();
@@ -176,23 +189,24 @@ new_audio_block = """  // ======================================================
     }
 
     try {
-      const voices = window.speechSynthesis.getVoices();
-      // STRICT FILTER: ONLY allow speech synthesis if an explicit ENGLISH voice exists!
-      // NEVER fall back to Russian, Uzbek, or system-default non-English voices!
-      const enVoice =
-        voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha") || v.name.includes("English"))) ||
-        voices.find((v) => v.lang && (v.lang === "en-US" || v.lang === "en-GB")) ||
-        voices.find((v) => v.lang && v.lang.startsWith("en"));
+      if (!cachedEnVoice) {
+        const voices = window.speechSynthesis.getVoices() || [];
+        cachedEnVoice =
+          voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha") || v.name.includes("English"))) ||
+          voices.find((v) => v.lang && (v.lang === "en-US" || v.lang === "en-GB")) ||
+          voices.find((v) => v.lang && v.lang.startsWith("en")) ||
+          null;
+      }
 
-      if (!enVoice) {
-        // Refuse to speak in Russian/non-English voice
+      if (!cachedEnVoice) {
+        // STRICT: Never speak with Russian or non-English system voice
         if (btnEl) btnEl.classList.remove("is-speaking");
         return;
       }
 
       const utter = new SpeechSynthesisUtterance(clean);
-      utter.voice = enVoice;
-      utter.lang = enVoice.lang || "en-US";
+      utter.voice = cachedEnVoice;
+      utter.lang = cachedEnVoice.lang || "en-US";
       utter.rate = 0.88;
 
       utter.onend = () => {
@@ -209,6 +223,7 @@ new_audio_block = """  // ======================================================
   }
 
   function bindEvents() {
+    initAudioEngine();
     bindCardGestures();
 
     if (dom.speakBtn) {
@@ -244,10 +259,6 @@ new_audio_block = """  // ======================================================
     }
 """
 
-if not old_pattern.search(code):
-    print("ERROR: old audio pattern not found!")
-    exit(1)
-
-code = old_pattern.sub(lambda m: new_audio_block, code)
+code = code[:start_idx] + new_engine_code + code[end_idx + len(end_marker):]
 app_js_path.write_text(code, encoding="utf-8")
-print("SUCCESS: app.js updated with new Native English Audio Engine!")
+print("SUCCESS: app.js updated with working Audio player!")
