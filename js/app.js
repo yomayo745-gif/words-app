@@ -816,20 +816,48 @@
   // Native English Audio Engine (Authentic American English Pronunciation)
   // - 100% Native English voice (Youdao American Studio + Google Translate TTS)
   // - NEVER uses system-default or Russian device voice
-  // - Single audio stream with instant cancellation (prevents dual/overlapping audio)
+  // - Single persistent audio element with instant stop (prevents dual/overlapping audio)
   // - Debounced button clicks with pulsing visual feedback
   // =========================================================================
-  let currentAudio = null;
+  let audioPlayer = null;
   let currentAudioBtn = null;
   let audioThrottleTime = 0;
+  let cachedEnVoice = null;
+
+  function initAudioEngine() {
+    if (typeof document !== "undefined") {
+      audioPlayer = document.getElementById("globalAudioPlayer");
+      if (!audioPlayer) {
+        audioPlayer = new Audio();
+        audioPlayer.id = "globalAudioPlayer";
+        audioPlayer.preload = "auto";
+        document.body.appendChild(audioPlayer);
+      }
+    }
+
+    if (typeof window !== "undefined" && "speechSynthesis" in window) {
+      const pickVoice = () => {
+        try {
+          const voices = window.speechSynthesis.getVoices() || [];
+          cachedEnVoice =
+            voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha") || v.name.includes("English"))) ||
+            voices.find((v) => v.lang && (v.lang === "en-US" || v.lang === "en-GB")) ||
+            voices.find((v) => v.lang && v.lang.startsWith("en")) ||
+            null;
+        } catch (_) {}
+      };
+      pickVoice();
+      window.speechSynthesis.onvoiceschanged = pickVoice;
+    }
+  }
 
   function stopAllAudio() {
-    if (currentAudio) {
+    if (audioPlayer) {
       try {
-        currentAudio.pause();
-        currentAudio.currentTime = 0;
+        audioPlayer.pause();
+        audioPlayer.currentTime = 0;
+        audioPlayer.removeAttribute("src");
       } catch (_) {}
-      currentAudio = null;
     }
     if (typeof window !== "undefined" && "speechSynthesis" in window) {
       try {
@@ -857,9 +885,13 @@
     const clean = cleanTextForAudio(text);
     if (!clean) return;
 
+    if (!audioPlayer) {
+      initAudioEngine();
+    }
+
     // Throttle rapid clicks (prevent rapid sound pileup)
     const now = Date.now();
-    if (now - audioThrottleTime < 280) return;
+    if (now - audioThrottleTime < 250) return;
     audioThrottleTime = now;
 
     // Immediately stop any currently playing sound or speech
@@ -877,43 +909,56 @@
     // For single words and short phrases: authentic American English dictionary recording
     if (wordsCount <= 4) {
       candidateUrls.push(`https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(clean)}&type=2`);
+      candidateUrls.push(`https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(clean)}&type=1`);
     }
-    // High-quality Google Translate native English TTS (works for both words and full sentences)
+    // Google Translate native English TTS (works for words and full sentences)
     candidateUrls.push(`https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=${encodeURIComponent(clean)}`);
 
     let candidateIndex = 0;
 
     function tryNextCandidate() {
       if (candidateIndex >= candidateUrls.length) {
-        // As a last-resort fallback: only use SpeechSynthesis IF an explicit English voice exists!
+        // Fallback: Web Speech API ONLY IF an explicit verified English voice is present
         fallbackVerifiedSpeechSynthesis(clean, btnEl);
         return;
       }
 
       const audioUrl = candidateUrls[candidateIndex++];
-      const audio = new Audio();
-      currentAudio = audio;
+      if (!audioPlayer) return;
 
       const finishPlayback = () => {
-        if (currentAudio === audio) {
-          currentAudio = null;
-        }
+        cleanup();
         if (btnEl) btnEl.classList.remove("is-speaking");
         if (currentAudioBtn === btnEl) currentAudioBtn = null;
       };
 
-      audio.onended = finishPlayback;
-      audio.onerror = () => {
-        if (currentAudio === audio) {
-          tryNextCandidate();
-        }
+      const onError = () => {
+        cleanup();
+        tryNextCandidate();
       };
 
-      audio.play().catch(() => {
-        if (currentAudio === audio) {
-          tryNextCandidate();
+      function cleanup() {
+        audioPlayer.removeEventListener("ended", finishPlayback);
+        audioPlayer.removeEventListener("error", onError);
+      }
+
+      audioPlayer.addEventListener("ended", finishPlayback, { once: true });
+      audioPlayer.addEventListener("error", onError, { once: true });
+
+      try {
+        audioPlayer.src = audioUrl;
+        audioPlayer.load();
+        const playPromise = audioPlayer.play();
+        if (playPromise !== undefined) {
+          playPromise.catch(() => {
+            cleanup();
+            tryNextCandidate();
+          });
         }
-      });
+      } catch (_) {
+        cleanup();
+        tryNextCandidate();
+      }
     }
 
     tryNextCandidate();
@@ -926,23 +971,24 @@
     }
 
     try {
-      const voices = window.speechSynthesis.getVoices();
-      // STRICT FILTER: ONLY allow speech synthesis if an explicit ENGLISH voice exists!
-      // NEVER fall back to Russian, Uzbek, or system-default non-English voices!
-      const enVoice =
-        voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha") || v.name.includes("English"))) ||
-        voices.find((v) => v.lang && (v.lang === "en-US" || v.lang === "en-GB")) ||
-        voices.find((v) => v.lang && v.lang.startsWith("en"));
+      if (!cachedEnVoice) {
+        const voices = window.speechSynthesis.getVoices() || [];
+        cachedEnVoice =
+          voices.find((v) => v.lang === "en-US" && (v.name.includes("Google") || v.name.includes("Natural") || v.name.includes("Samantha") || v.name.includes("English"))) ||
+          voices.find((v) => v.lang && (v.lang === "en-US" || v.lang === "en-GB")) ||
+          voices.find((v) => v.lang && v.lang.startsWith("en")) ||
+          null;
+      }
 
-      if (!enVoice) {
-        // Refuse to speak in Russian/non-English voice
+      if (!cachedEnVoice) {
+        // STRICT: Never speak with Russian or non-English system voice
         if (btnEl) btnEl.classList.remove("is-speaking");
         return;
       }
 
       const utter = new SpeechSynthesisUtterance(clean);
-      utter.voice = enVoice;
-      utter.lang = enVoice.lang || "en-US";
+      utter.voice = cachedEnVoice;
+      utter.lang = cachedEnVoice.lang || "en-US";
       utter.rate = 0.88;
 
       utter.onend = () => {
@@ -959,6 +1005,7 @@
   }
 
   function bindEvents() {
+    initAudioEngine();
     bindCardGestures();
 
     if (dom.speakBtn) {
