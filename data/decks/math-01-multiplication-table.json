@@ -1,0 +1,808 @@
+{
+  "title": "Karra jadvali (2 dan 9 gacha)",
+  "category": "Karra jadvali (2 dan 9 gacha)",
+  "group": "math",
+  "badge": "2-9",
+  "words": [
+    {
+      "english": "2 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra bir",
+      "uzbek": "2",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 1 = 2",
+      "example_uz": "2 × 1 = 2 (Ikki karra bir — ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra ikki",
+      "uzbek": "4",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 2 = 4",
+      "example_uz": "2 × 2 = 4 (Ikki karra ikki — toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra uch",
+      "uzbek": "6",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 3 = 6",
+      "example_uz": "2 × 3 = 6 (Ikki karra uch — olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra toʻrt",
+      "uzbek": "8",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 4 = 8",
+      "example_uz": "2 × 4 = 8 (Ikki karra toʻrt — sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra besh",
+      "uzbek": "10",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 5 = 10",
+      "example_uz": "2 × 5 = 10 (Ikki karra besh — oʻn)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra olti",
+      "uzbek": "12",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 6 = 12",
+      "example_uz": "2 × 6 = 12 (Ikki karra olti — oʻn ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yetti",
+      "uzbek": "14",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 7 = 14",
+      "example_uz": "2 × 7 = 14 (Ikki karra yetti — oʻn toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra sakkiz",
+      "uzbek": "16",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 8 = 16",
+      "example_uz": "2 × 8 = 16 (Ikki karra sakkiz — oʻn olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra toʻqqiz",
+      "uzbek": "18",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 9 = 18",
+      "example_uz": "2 × 9 = 18 (Ikki karra toʻqqiz — oʻn sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "2 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn",
+      "uzbek": "20",
+      "pos": "Koʻpaytirish • 2 karra",
+      "example_en": "2 × 10 = 20",
+      "example_uz": "2 × 10 = 20 (Ikki karra oʻn — yigirma)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra bir",
+      "uzbek": "3",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 1 = 3",
+      "example_uz": "3 × 1 = 3 (Uch karra bir — uch)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra ikki",
+      "uzbek": "6",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 2 = 6",
+      "example_uz": "3 × 2 = 6 (Uch karra ikki — olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra uch",
+      "uzbek": "9",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 3 = 9",
+      "example_uz": "3 × 3 = 9 (Uch karra uch — toʻqqiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra toʻrt",
+      "uzbek": "12",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 4 = 12",
+      "example_uz": "3 × 4 = 12 (Uch karra toʻrt — oʻn ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra besh",
+      "uzbek": "15",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 5 = 15",
+      "example_uz": "3 × 5 = 15 (Uch karra besh — oʻn besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra olti",
+      "uzbek": "18",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 6 = 18",
+      "example_uz": "3 × 6 = 18 (Uch karra olti — oʻn sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yetti",
+      "uzbek": "21",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 7 = 21",
+      "example_uz": "3 × 7 = 21 (Uch karra yetti — yigirma bir)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra sakkiz",
+      "uzbek": "24",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 8 = 24",
+      "example_uz": "3 × 8 = 24 (Uch karra sakkiz — yigirma toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra toʻqqiz",
+      "uzbek": "27",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 9 = 27",
+      "example_uz": "3 × 9 = 27 (Uch karra toʻqqiz — yigirma yetti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "3 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn",
+      "uzbek": "30",
+      "pos": "Koʻpaytirish • 3 karra",
+      "example_en": "3 × 10 = 30",
+      "example_uz": "3 × 10 = 30 (Uch karra oʻn — oʻttiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra bir",
+      "uzbek": "4",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 1 = 4",
+      "example_uz": "4 × 1 = 4 (Toʻrt karra bir — toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra ikki",
+      "uzbek": "8",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 2 = 8",
+      "example_uz": "4 × 2 = 8 (Toʻrt karra ikki — sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra uch",
+      "uzbek": "12",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 3 = 12",
+      "example_uz": "4 × 3 = 12 (Toʻrt karra uch — oʻn ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra toʻrt",
+      "uzbek": "16",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 4 = 16",
+      "example_uz": "4 × 4 = 16 (Toʻrt karra toʻrt — oʻn olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra besh",
+      "uzbek": "20",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 5 = 20",
+      "example_uz": "4 × 5 = 20 (Toʻrt karra besh — yigirma)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra olti",
+      "uzbek": "24",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 6 = 24",
+      "example_uz": "4 × 6 = 24 (Toʻrt karra olti — yigirma toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yetti",
+      "uzbek": "28",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 7 = 28",
+      "example_uz": "4 × 7 = 28 (Toʻrt karra yetti — yigirma sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra sakkiz",
+      "uzbek": "32",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 8 = 32",
+      "example_uz": "4 × 8 = 32 (Toʻrt karra sakkiz — oʻttiz ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra toʻqqiz",
+      "uzbek": "36",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 9 = 36",
+      "example_uz": "4 × 9 = 36 (Toʻrt karra toʻqqiz — oʻttiz olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "4 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn",
+      "uzbek": "40",
+      "pos": "Koʻpaytirish • 4 karra",
+      "example_en": "4 × 10 = 40",
+      "example_uz": "4 × 10 = 40 (Toʻrt karra oʻn — qirq)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra bir",
+      "uzbek": "5",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 1 = 5",
+      "example_uz": "5 × 1 = 5 (Besh karra bir — besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra ikki",
+      "uzbek": "10",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 2 = 10",
+      "example_uz": "5 × 2 = 10 (Besh karra ikki — oʻn)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra uch",
+      "uzbek": "15",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 3 = 15",
+      "example_uz": "5 × 3 = 15 (Besh karra uch — oʻn besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra toʻrt",
+      "uzbek": "20",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 4 = 20",
+      "example_uz": "5 × 4 = 20 (Besh karra toʻrt — yigirma)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra besh",
+      "uzbek": "25",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 5 = 25",
+      "example_uz": "5 × 5 = 25 (Besh karra besh — yigirma besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra olti",
+      "uzbek": "30",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 6 = 30",
+      "example_uz": "5 × 6 = 30 (Besh karra olti — oʻttiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yetti",
+      "uzbek": "35",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 7 = 35",
+      "example_uz": "5 × 7 = 35 (Besh karra yetti — oʻttiz besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra sakkiz",
+      "uzbek": "40",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 8 = 40",
+      "example_uz": "5 × 8 = 40 (Besh karra sakkiz — qirq)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra toʻqqiz",
+      "uzbek": "45",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 9 = 45",
+      "example_uz": "5 × 9 = 45 (Besh karra toʻqqiz — qirq besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "5 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn",
+      "uzbek": "50",
+      "pos": "Koʻpaytirish • 5 karra",
+      "example_en": "5 × 10 = 50",
+      "example_uz": "5 × 10 = 50 (Besh karra oʻn — ellik)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra bir",
+      "uzbek": "6",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 1 = 6",
+      "example_uz": "6 × 1 = 6 (Olti karra bir — olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra ikki",
+      "uzbek": "12",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 2 = 12",
+      "example_uz": "6 × 2 = 12 (Olti karra ikki — oʻn ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra uch",
+      "uzbek": "18",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 3 = 18",
+      "example_uz": "6 × 3 = 18 (Olti karra uch — oʻn sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra toʻrt",
+      "uzbek": "24",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 4 = 24",
+      "example_uz": "6 × 4 = 24 (Olti karra toʻrt — yigirma toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra besh",
+      "uzbek": "30",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 5 = 30",
+      "example_uz": "6 × 5 = 30 (Olti karra besh — oʻttiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra olti",
+      "uzbek": "36",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 6 = 36",
+      "example_uz": "6 × 6 = 36 (Olti karra olti — oʻttiz olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yetti",
+      "uzbek": "42",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 7 = 42",
+      "example_uz": "6 × 7 = 42 (Olti karra yetti — qirq ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra sakkiz",
+      "uzbek": "48",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 8 = 48",
+      "example_uz": "6 × 8 = 48 (Olti karra sakkiz — qirq sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra toʻqqiz",
+      "uzbek": "54",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 9 = 54",
+      "example_uz": "6 × 9 = 54 (Olti karra toʻqqiz — ellik toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "6 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn",
+      "uzbek": "60",
+      "pos": "Koʻpaytirish • 6 karra",
+      "example_en": "6 × 10 = 60",
+      "example_uz": "6 × 10 = 60 (Olti karra oʻn — oltmish)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra bir",
+      "uzbek": "7",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 1 = 7",
+      "example_uz": "7 × 1 = 7 (Yetti karra bir — yetti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra ikki",
+      "uzbek": "14",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 2 = 14",
+      "example_uz": "7 × 2 = 14 (Yetti karra ikki — oʻn toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra uch",
+      "uzbek": "21",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 3 = 21",
+      "example_uz": "7 × 3 = 21 (Yetti karra uch — yigirma bir)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra toʻrt",
+      "uzbek": "28",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 4 = 28",
+      "example_uz": "7 × 4 = 28 (Yetti karra toʻrt — yigirma sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra besh",
+      "uzbek": "35",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 5 = 35",
+      "example_uz": "7 × 5 = 35 (Yetti karra besh — oʻttiz besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra olti",
+      "uzbek": "42",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 6 = 42",
+      "example_uz": "7 × 6 = 42 (Yetti karra olti — qirq ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra yetti",
+      "uzbek": "49",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 7 = 49",
+      "example_uz": "7 × 7 = 49 (Yetti karra yetti — qirq toʻqqiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra sakkiz",
+      "uzbek": "56",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 8 = 56",
+      "example_uz": "7 × 8 = 56 (Yetti karra sakkiz — ellik olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra toʻqqiz",
+      "uzbek": "63",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 9 = 63",
+      "example_uz": "7 × 9 = 63 (Yetti karra toʻqqiz — oltmish uch)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "7 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra oʻn",
+      "uzbek": "70",
+      "pos": "Koʻpaytirish • 7 karra",
+      "example_en": "7 × 10 = 70",
+      "example_uz": "7 × 10 = 70 (Yetti karra oʻn — yetmish)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra bir",
+      "uzbek": "8",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 1 = 8",
+      "example_uz": "8 × 1 = 8 (Sakkiz karra bir — sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra ikki",
+      "uzbek": "16",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 2 = 16",
+      "example_uz": "8 × 2 = 16 (Sakkiz karra ikki — oʻn olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra uch",
+      "uzbek": "24",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 3 = 24",
+      "example_uz": "8 × 3 = 24 (Sakkiz karra uch — yigirma toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra toʻrt",
+      "uzbek": "32",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 4 = 32",
+      "example_uz": "8 × 4 = 32 (Sakkiz karra toʻrt — oʻttiz ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra besh",
+      "uzbek": "40",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 5 = 40",
+      "example_uz": "8 × 5 = 40 (Sakkiz karra besh — qirq)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra olti",
+      "uzbek": "48",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 6 = 48",
+      "example_uz": "8 × 6 = 48 (Sakkiz karra olti — qirq sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra yetti",
+      "uzbek": "56",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 7 = 56",
+      "example_uz": "8 × 7 = 56 (Sakkiz karra yetti — ellik olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra sakkiz",
+      "uzbek": "64",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 8 = 64",
+      "example_uz": "8 × 8 = 64 (Sakkiz karra sakkiz — oltmish toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra toʻqqiz",
+      "uzbek": "72",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 9 = 72",
+      "example_uz": "8 × 9 = 72 (Sakkiz karra toʻqqiz — yetmish ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "8 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra oʻn",
+      "uzbek": "80",
+      "pos": "Koʻpaytirish • 8 karra",
+      "example_en": "8 × 10 = 80",
+      "example_uz": "8 × 10 = 80 (Sakkiz karra oʻn — sakson)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 1 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra bir",
+      "uzbek": "9",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 1 = 9",
+      "example_uz": "9 × 1 = 9 (Toʻqqiz karra bir — toʻqqiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra ikki",
+      "uzbek": "18",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 2 = 18",
+      "example_uz": "9 × 2 = 18 (Toʻqqiz karra ikki — oʻn sakkiz)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra uch",
+      "uzbek": "27",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 3 = 27",
+      "example_uz": "9 × 3 = 27 (Toʻqqiz karra uch — yigirma yetti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra toʻrt",
+      "uzbek": "36",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 4 = 36",
+      "example_uz": "9 × 4 = 36 (Toʻqqiz karra toʻrt — oʻttiz olti)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra besh",
+      "uzbek": "45",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 5 = 45",
+      "example_uz": "9 × 5 = 45 (Toʻqqiz karra besh — qirq besh)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra olti",
+      "uzbek": "54",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 6 = 54",
+      "example_uz": "9 × 6 = 54 (Toʻqqiz karra olti — ellik toʻrt)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra yetti",
+      "uzbek": "63",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 7 = 63",
+      "example_uz": "9 × 7 = 63 (Toʻqqiz karra yetti — oltmish uch)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra sakkiz",
+      "uzbek": "72",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 8 = 72",
+      "example_uz": "9 × 8 = 72 (Toʻqqiz karra sakkiz — yetmish ikki)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra toʻqqiz",
+      "uzbek": "81",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 9 = 81",
+      "example_uz": "9 × 9 = 81 (Toʻqqiz karra toʻqqiz — sakson bir)",
+      "category": "Karra jadvali"
+    },
+    {
+      "english": "9 × 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra oʻn",
+      "uzbek": "90",
+      "pos": "Koʻpaytirish • 9 karra",
+      "example_en": "9 × 10 = 90",
+      "example_uz": "9 × 10 = 90 (Toʻqqiz karra oʻn — toʻqson)",
+      "category": "Karra jadvali"
+    }
+  ]
+}

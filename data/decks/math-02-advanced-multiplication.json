@@ -1,0 +1,2008 @@
+{
+  "title": "Murakkab koʻpaytirish (Katta sonlar)",
+  "category": "Murakkab karra (Katta sonlar)",
+  "group": "math",
+  "badge": "×+",
+  "words": [
+    {
+      "english": "2 × 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻttiz besh",
+      "uzbek": "70",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 35 = 70",
+      "example_uz": "2 × 35 = 70 (Ikki karra oʻttiz besh — yetmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 889 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra sakkiz yuz sakson toʻqqiz",
+      "uzbek": "5334",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 889 = 5334",
+      "example_uz": "6 × 889 = 5334 (Olti karra sakkiz yuz sakson toʻqqiz — besh ming uch yuz oʻttiz toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra qirq besh",
+      "uzbek": "135",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 45 = 135",
+      "example_uz": "3 × 45 = 135 (Uch karra qirq besh — yuz oʻttiz besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma besh",
+      "uzbek": "100",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 25 = 100",
+      "example_uz": "4 × 25 = 100 (Toʻrt karra yigirma besh — yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oltmish toʻrt",
+      "uzbek": "320",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 64 = 320",
+      "example_uz": "5 × 64 = 320 (Besh karra oltmish toʻrt — uch yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "7 × 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra oʻttiz besh",
+      "uzbek": "245",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "7 × 35 = 245",
+      "example_uz": "7 × 35 = 245 (Yetti karra oʻttiz besh — ikki yuz qirq besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "8 × 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra yuz yigirma besh",
+      "uzbek": "1000",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "8 × 125 = 1000",
+      "example_uz": "8 × 125 = 1000 (Sakkiz karra yuz yigirma besh — ming)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "12 × 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn ikki karra oʻn besh",
+      "uzbek": "180",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "12 × 15 = 180",
+      "example_uz": "12 × 15 = 180 (Oʻn ikki karra oʻn besh — yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "15 × 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn besh karra oʻn besh",
+      "uzbek": "225",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "15 × 15 = 225",
+      "example_uz": "15 × 15 = 225 (Oʻn besh karra oʻn besh — ikki yuz yigirma besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "25 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma besh karra yigirma besh",
+      "uzbek": "625",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "25 × 25 = 625",
+      "example_uz": "25 × 25 = 625 (Yigirma besh karra yigirma besh — olti yuz yigirma besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "16 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn olti karra yigirma besh",
+      "uzbek": "400",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "16 × 25 = 400",
+      "example_uz": "16 × 25 = 400 (Oʻn olti karra yigirma besh — toʻrt yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "14 × 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn toʻrt karra ellik",
+      "uzbek": "700",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "14 × 50 = 700",
+      "example_uz": "14 × 50 = 700 (Oʻn toʻrt karra ellik — yetti yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yuz yigirma besh",
+      "uzbek": "500",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 125 = 500",
+      "example_uz": "4 × 125 = 500 (Toʻrt karra yuz yigirma besh — besh yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "8 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz karra yigirma besh",
+      "uzbek": "200",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "8 × 25 = 200",
+      "example_uz": "8 × 25 = 200 (Sakkiz karra yigirma besh — ikki yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "9 × 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz karra yetmish besh",
+      "uzbek": "675",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "9 × 75 = 675",
+      "example_uz": "9 × 75 = 675 (Toʻqqiz karra yetmish besh — olti yuz yetmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn bir",
+      "uzbek": "22",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 11 = 22",
+      "example_uz": "2 × 11 = 22 (Ikki karra oʻn bir — yigirma ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn ikki",
+      "uzbek": "24",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 12 = 24",
+      "example_uz": "2 × 12 = 24 (Ikki karra oʻn ikki — yigirma toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 13 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn uch",
+      "uzbek": "26",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 13 = 26",
+      "example_uz": "2 × 13 = 26 (Ikki karra oʻn uch — yigirma olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 14 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn toʻrt",
+      "uzbek": "28",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 14 = 28",
+      "example_uz": "2 × 14 = 28 (Ikki karra oʻn toʻrt — yigirma sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn besh",
+      "uzbek": "30",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 15 = 30",
+      "example_uz": "2 × 15 = 30 (Ikki karra oʻn besh — oʻttiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn olti",
+      "uzbek": "32",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 16 = 32",
+      "example_uz": "2 × 16 = 32 (Ikki karra oʻn olti — oʻttiz ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn yetti",
+      "uzbek": "34",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 17 = 34",
+      "example_uz": "2 × 17 = 34 (Ikki karra oʻn yetti — oʻttiz toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 18 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn sakkiz",
+      "uzbek": "36",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 18 = 36",
+      "example_uz": "2 × 18 = 36 (Ikki karra oʻn sakkiz — oʻttiz olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 19 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻn toʻqqiz",
+      "uzbek": "38",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 19 = 38",
+      "example_uz": "2 × 19 = 38 (Ikki karra oʻn toʻqqiz — oʻttiz sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma",
+      "uzbek": "40",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 20 = 40",
+      "example_uz": "2 × 20 = 40 (Ikki karra yigirma — qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 21 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma bir",
+      "uzbek": "42",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 21 = 42",
+      "example_uz": "2 × 21 = 42 (Ikki karra yigirma bir — qirq ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma ikki",
+      "uzbek": "44",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 22 = 44",
+      "example_uz": "2 × 22 = 44 (Ikki karra yigirma ikki — qirq toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 23 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma uch",
+      "uzbek": "46",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 23 = 46",
+      "example_uz": "2 × 23 = 46 (Ikki karra yigirma uch — qirq olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma toʻrt",
+      "uzbek": "48",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 24 = 48",
+      "example_uz": "2 × 24 = 48 (Ikki karra yigirma toʻrt — qirq sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma besh",
+      "uzbek": "50",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 25 = 50",
+      "example_uz": "2 × 25 = 50 (Ikki karra yigirma besh — ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma olti",
+      "uzbek": "52",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 26 = 52",
+      "example_uz": "2 × 26 = 52 (Ikki karra yigirma olti — ellik ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yigirma sakkiz",
+      "uzbek": "56",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 28 = 56",
+      "example_uz": "2 × 28 = 56 (Ikki karra yigirma sakkiz — ellik olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻttiz",
+      "uzbek": "60",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 30 = 60",
+      "example_uz": "2 × 30 = 60 (Ikki karra oʻttiz — oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻttiz ikki",
+      "uzbek": "64",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 32 = 64",
+      "example_uz": "2 × 32 = 64 (Ikki karra oʻttiz ikki — oltmish toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 36 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oʻttiz olti",
+      "uzbek": "72",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 36 = 72",
+      "example_uz": "2 × 36 = 72 (Ikki karra oʻttiz olti — yetmish ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra qirq",
+      "uzbek": "80",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 40 = 80",
+      "example_uz": "2 × 40 = 80 (Ikki karra qirq — sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 42 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra qirq ikki",
+      "uzbek": "84",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 42 = 84",
+      "example_uz": "2 × 42 = 84 (Ikki karra qirq ikki — sakson toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra qirq besh",
+      "uzbek": "90",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 45 = 90",
+      "example_uz": "2 × 45 = 90 (Ikki karra qirq besh — toʻqson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra qirq sakkiz",
+      "uzbek": "96",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 48 = 96",
+      "example_uz": "2 × 48 = 96 (Ikki karra qirq sakkiz — toʻqson olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra ellik",
+      "uzbek": "100",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 50 = 100",
+      "example_uz": "2 × 50 = 100 (Ikki karra ellik — yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra ellik besh",
+      "uzbek": "110",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 55 = 110",
+      "example_uz": "2 × 55 = 110 (Ikki karra ellik besh — yuz oʻn)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oltmish",
+      "uzbek": "120",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 60 = 120",
+      "example_uz": "2 × 60 = 120 (Ikki karra oltmish — yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oltmish toʻrt",
+      "uzbek": "128",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 64 = 128",
+      "example_uz": "2 × 64 = 128 (Ikki karra oltmish toʻrt — yuz yigirma sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra oltmish besh",
+      "uzbek": "130",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 65 = 130",
+      "example_uz": "2 × 65 = 130 (Ikki karra oltmish besh — yuz oʻttiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 70 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yetmish",
+      "uzbek": "140",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 70 = 140",
+      "example_uz": "2 × 70 = 140 (Ikki karra yetmish — yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra yetmish besh",
+      "uzbek": "150",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 75 = 150",
+      "example_uz": "2 × 75 = 150 (Ikki karra yetmish besh — yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 80 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra sakson",
+      "uzbek": "160",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 80 = 160",
+      "example_uz": "2 × 80 = 160 (Ikki karra sakson — yuz oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra sakson besh",
+      "uzbek": "170",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 85 = 170",
+      "example_uz": "2 × 85 = 170 (Ikki karra sakson besh — yuz yetmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra toʻqson",
+      "uzbek": "180",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 90 = 180",
+      "example_uz": "2 × 90 = 180 (Ikki karra toʻqson — yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 95 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra toʻqson besh",
+      "uzbek": "190",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 95 = 190",
+      "example_uz": "2 × 95 = 190 (Ikki karra toʻqson besh — yuz toʻqson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "2 × 99 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki karra toʻqson toʻqqiz",
+      "uzbek": "198",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "2 × 99 = 198",
+      "example_uz": "2 × 99 = 198 (Ikki karra toʻqson toʻqqiz — yuz toʻqson sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn bir",
+      "uzbek": "33",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 11 = 33",
+      "example_uz": "3 × 11 = 33 (Uch karra oʻn bir — oʻttiz uch)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn ikki",
+      "uzbek": "36",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 12 = 36",
+      "example_uz": "3 × 12 = 36 (Uch karra oʻn ikki — oʻttiz olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 13 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn uch",
+      "uzbek": "39",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 13 = 39",
+      "example_uz": "3 × 13 = 39 (Uch karra oʻn uch — oʻttiz toʻqqiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 14 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn toʻrt",
+      "uzbek": "42",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 14 = 42",
+      "example_uz": "3 × 14 = 42 (Uch karra oʻn toʻrt — qirq ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn besh",
+      "uzbek": "45",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 15 = 45",
+      "example_uz": "3 × 15 = 45 (Uch karra oʻn besh — qirq besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn olti",
+      "uzbek": "48",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 16 = 48",
+      "example_uz": "3 × 16 = 48 (Uch karra oʻn olti — qirq sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn yetti",
+      "uzbek": "51",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 17 = 51",
+      "example_uz": "3 × 17 = 51 (Uch karra oʻn yetti — ellik bir)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 18 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn sakkiz",
+      "uzbek": "54",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 18 = 54",
+      "example_uz": "3 × 18 = 54 (Uch karra oʻn sakkiz — ellik toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 19 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻn toʻqqiz",
+      "uzbek": "57",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 19 = 57",
+      "example_uz": "3 × 19 = 57 (Uch karra oʻn toʻqqiz — ellik yetti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma",
+      "uzbek": "60",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 20 = 60",
+      "example_uz": "3 × 20 = 60 (Uch karra yigirma — oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 21 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma bir",
+      "uzbek": "63",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 21 = 63",
+      "example_uz": "3 × 21 = 63 (Uch karra yigirma bir — oltmish uch)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma ikki",
+      "uzbek": "66",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 22 = 66",
+      "example_uz": "3 × 22 = 66 (Uch karra yigirma ikki — oltmish olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 23 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma uch",
+      "uzbek": "69",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 23 = 69",
+      "example_uz": "3 × 23 = 69 (Uch karra yigirma uch — oltmish toʻqqiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma toʻrt",
+      "uzbek": "72",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 24 = 72",
+      "example_uz": "3 × 24 = 72 (Uch karra yigirma toʻrt — yetmish ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma besh",
+      "uzbek": "75",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 25 = 75",
+      "example_uz": "3 × 25 = 75 (Uch karra yigirma besh — yetmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma olti",
+      "uzbek": "78",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 26 = 78",
+      "example_uz": "3 × 26 = 78 (Uch karra yigirma olti — yetmish sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yigirma sakkiz",
+      "uzbek": "84",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 28 = 84",
+      "example_uz": "3 × 28 = 84 (Uch karra yigirma sakkiz — sakson toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻttiz",
+      "uzbek": "90",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 30 = 90",
+      "example_uz": "3 × 30 = 90 (Uch karra oʻttiz — toʻqson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻttiz ikki",
+      "uzbek": "96",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 32 = 96",
+      "example_uz": "3 × 32 = 96 (Uch karra oʻttiz ikki — toʻqson olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻttiz besh",
+      "uzbek": "105",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 35 = 105",
+      "example_uz": "3 × 35 = 105 (Uch karra oʻttiz besh — yuz besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 36 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oʻttiz olti",
+      "uzbek": "108",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 36 = 108",
+      "example_uz": "3 × 36 = 108 (Uch karra oʻttiz olti — yuz sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra qirq",
+      "uzbek": "120",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 40 = 120",
+      "example_uz": "3 × 40 = 120 (Uch karra qirq — yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 42 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra qirq ikki",
+      "uzbek": "126",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 42 = 126",
+      "example_uz": "3 × 42 = 126 (Uch karra qirq ikki — yuz yigirma olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra qirq sakkiz",
+      "uzbek": "144",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 48 = 144",
+      "example_uz": "3 × 48 = 144 (Uch karra qirq sakkiz — yuz qirq toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra ellik",
+      "uzbek": "150",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 50 = 150",
+      "example_uz": "3 × 50 = 150 (Uch karra ellik — yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra ellik besh",
+      "uzbek": "165",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 55 = 165",
+      "example_uz": "3 × 55 = 165 (Uch karra ellik besh — yuz oltmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oltmish",
+      "uzbek": "180",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 60 = 180",
+      "example_uz": "3 × 60 = 180 (Uch karra oltmish — yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oltmish toʻrt",
+      "uzbek": "192",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 64 = 192",
+      "example_uz": "3 × 64 = 192 (Uch karra oltmish toʻrt — yuz toʻqson ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra oltmish besh",
+      "uzbek": "195",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 65 = 195",
+      "example_uz": "3 × 65 = 195 (Uch karra oltmish besh — yuz toʻqson besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 70 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yetmish",
+      "uzbek": "210",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 70 = 210",
+      "example_uz": "3 × 70 = 210 (Uch karra yetmish — ikki yuz oʻn)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra yetmish besh",
+      "uzbek": "225",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 75 = 225",
+      "example_uz": "3 × 75 = 225 (Uch karra yetmish besh — ikki yuz yigirma besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 80 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra sakson",
+      "uzbek": "240",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 80 = 240",
+      "example_uz": "3 × 80 = 240 (Uch karra sakson — ikki yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra sakson besh",
+      "uzbek": "255",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 85 = 255",
+      "example_uz": "3 × 85 = 255 (Uch karra sakson besh — ikki yuz ellik besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra toʻqson",
+      "uzbek": "270",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 90 = 270",
+      "example_uz": "3 × 90 = 270 (Uch karra toʻqson — ikki yuz yetmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 95 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra toʻqson besh",
+      "uzbek": "285",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 95 = 285",
+      "example_uz": "3 × 95 = 285 (Uch karra toʻqson besh — ikki yuz sakson besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "3 × 99 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch karra toʻqson toʻqqiz",
+      "uzbek": "297",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "3 × 99 = 297",
+      "example_uz": "3 × 99 = 297 (Uch karra toʻqson toʻqqiz — ikki yuz toʻqson yetti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn bir",
+      "uzbek": "44",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 11 = 44",
+      "example_uz": "4 × 11 = 44 (Toʻrt karra oʻn bir — qirq toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn ikki",
+      "uzbek": "48",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 12 = 48",
+      "example_uz": "4 × 12 = 48 (Toʻrt karra oʻn ikki — qirq sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 13 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn uch",
+      "uzbek": "52",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 13 = 52",
+      "example_uz": "4 × 13 = 52 (Toʻrt karra oʻn uch — ellik ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 14 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn toʻrt",
+      "uzbek": "56",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 14 = 56",
+      "example_uz": "4 × 14 = 56 (Toʻrt karra oʻn toʻrt — ellik olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn besh",
+      "uzbek": "60",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 15 = 60",
+      "example_uz": "4 × 15 = 60 (Toʻrt karra oʻn besh — oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn olti",
+      "uzbek": "64",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 16 = 64",
+      "example_uz": "4 × 16 = 64 (Toʻrt karra oʻn olti — oltmish toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn yetti",
+      "uzbek": "68",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 17 = 68",
+      "example_uz": "4 × 17 = 68 (Toʻrt karra oʻn yetti — oltmish sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 18 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn sakkiz",
+      "uzbek": "72",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 18 = 72",
+      "example_uz": "4 × 18 = 72 (Toʻrt karra oʻn sakkiz — yetmish ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 19 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻn toʻqqiz",
+      "uzbek": "76",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 19 = 76",
+      "example_uz": "4 × 19 = 76 (Toʻrt karra oʻn toʻqqiz — yetmish olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma",
+      "uzbek": "80",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 20 = 80",
+      "example_uz": "4 × 20 = 80 (Toʻrt karra yigirma — sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 21 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma bir",
+      "uzbek": "84",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 21 = 84",
+      "example_uz": "4 × 21 = 84 (Toʻrt karra yigirma bir — sakson toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma ikki",
+      "uzbek": "88",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 22 = 88",
+      "example_uz": "4 × 22 = 88 (Toʻrt karra yigirma ikki — sakson sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 23 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma uch",
+      "uzbek": "92",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 23 = 92",
+      "example_uz": "4 × 23 = 92 (Toʻrt karra yigirma uch — toʻqson ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma toʻrt",
+      "uzbek": "96",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 24 = 96",
+      "example_uz": "4 × 24 = 96 (Toʻrt karra yigirma toʻrt — toʻqson olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma olti",
+      "uzbek": "104",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 26 = 104",
+      "example_uz": "4 × 26 = 104 (Toʻrt karra yigirma olti — yuz toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yigirma sakkiz",
+      "uzbek": "112",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 28 = 112",
+      "example_uz": "4 × 28 = 112 (Toʻrt karra yigirma sakkiz — yuz oʻn ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻttiz",
+      "uzbek": "120",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 30 = 120",
+      "example_uz": "4 × 30 = 120 (Toʻrt karra oʻttiz — yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻttiz ikki",
+      "uzbek": "128",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 32 = 128",
+      "example_uz": "4 × 32 = 128 (Toʻrt karra oʻttiz ikki — yuz yigirma sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻttiz besh",
+      "uzbek": "140",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 35 = 140",
+      "example_uz": "4 × 35 = 140 (Toʻrt karra oʻttiz besh — yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 36 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oʻttiz olti",
+      "uzbek": "144",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 36 = 144",
+      "example_uz": "4 × 36 = 144 (Toʻrt karra oʻttiz olti — yuz qirq toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra qirq",
+      "uzbek": "160",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 40 = 160",
+      "example_uz": "4 × 40 = 160 (Toʻrt karra qirq — yuz oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 42 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra qirq ikki",
+      "uzbek": "168",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 42 = 168",
+      "example_uz": "4 × 42 = 168 (Toʻrt karra qirq ikki — yuz oltmish sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra qirq besh",
+      "uzbek": "180",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 45 = 180",
+      "example_uz": "4 × 45 = 180 (Toʻrt karra qirq besh — yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra qirq sakkiz",
+      "uzbek": "192",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 48 = 192",
+      "example_uz": "4 × 48 = 192 (Toʻrt karra qirq sakkiz — yuz toʻqson ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra ellik",
+      "uzbek": "200",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 50 = 200",
+      "example_uz": "4 × 50 = 200 (Toʻrt karra ellik — ikki yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra ellik besh",
+      "uzbek": "220",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 55 = 220",
+      "example_uz": "4 × 55 = 220 (Toʻrt karra ellik besh — ikki yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oltmish",
+      "uzbek": "240",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 60 = 240",
+      "example_uz": "4 × 60 = 240 (Toʻrt karra oltmish — ikki yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oltmish toʻrt",
+      "uzbek": "256",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 64 = 256",
+      "example_uz": "4 × 64 = 256 (Toʻrt karra oltmish toʻrt — ikki yuz ellik olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra oltmish besh",
+      "uzbek": "260",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 65 = 260",
+      "example_uz": "4 × 65 = 260 (Toʻrt karra oltmish besh — ikki yuz oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 70 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yetmish",
+      "uzbek": "280",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 70 = 280",
+      "example_uz": "4 × 70 = 280 (Toʻrt karra yetmish — ikki yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra yetmish besh",
+      "uzbek": "300",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 75 = 300",
+      "example_uz": "4 × 75 = 300 (Toʻrt karra yetmish besh — uch yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 80 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra sakson",
+      "uzbek": "320",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 80 = 320",
+      "example_uz": "4 × 80 = 320 (Toʻrt karra sakson — uch yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra sakson besh",
+      "uzbek": "340",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 85 = 340",
+      "example_uz": "4 × 85 = 340 (Toʻrt karra sakson besh — uch yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra toʻqson",
+      "uzbek": "360",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 90 = 360",
+      "example_uz": "4 × 90 = 360 (Toʻrt karra toʻqson — uch yuz oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 95 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra toʻqson besh",
+      "uzbek": "380",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 95 = 380",
+      "example_uz": "4 × 95 = 380 (Toʻrt karra toʻqson besh — uch yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "4 × 99 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt karra toʻqson toʻqqiz",
+      "uzbek": "396",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "4 × 99 = 396",
+      "example_uz": "4 × 99 = 396 (Toʻrt karra toʻqson toʻqqiz — uch yuz toʻqson olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn bir",
+      "uzbek": "55",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 11 = 55",
+      "example_uz": "5 × 11 = 55 (Besh karra oʻn bir — ellik besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn ikki",
+      "uzbek": "60",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 12 = 60",
+      "example_uz": "5 × 12 = 60 (Besh karra oʻn ikki — oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 13 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn uch",
+      "uzbek": "65",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 13 = 65",
+      "example_uz": "5 × 13 = 65 (Besh karra oʻn uch — oltmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 14 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn toʻrt",
+      "uzbek": "70",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 14 = 70",
+      "example_uz": "5 × 14 = 70 (Besh karra oʻn toʻrt — yetmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn besh",
+      "uzbek": "75",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 15 = 75",
+      "example_uz": "5 × 15 = 75 (Besh karra oʻn besh — yetmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn olti",
+      "uzbek": "80",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 16 = 80",
+      "example_uz": "5 × 16 = 80 (Besh karra oʻn olti — sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn yetti",
+      "uzbek": "85",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 17 = 85",
+      "example_uz": "5 × 17 = 85 (Besh karra oʻn yetti — sakson besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 18 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn sakkiz",
+      "uzbek": "90",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 18 = 90",
+      "example_uz": "5 × 18 = 90 (Besh karra oʻn sakkiz — toʻqson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 19 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻn toʻqqiz",
+      "uzbek": "95",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 19 = 95",
+      "example_uz": "5 × 19 = 95 (Besh karra oʻn toʻqqiz — toʻqson besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma",
+      "uzbek": "100",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 20 = 100",
+      "example_uz": "5 × 20 = 100 (Besh karra yigirma — yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 21 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma bir",
+      "uzbek": "105",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 21 = 105",
+      "example_uz": "5 × 21 = 105 (Besh karra yigirma bir — yuz besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma ikki",
+      "uzbek": "110",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 22 = 110",
+      "example_uz": "5 × 22 = 110 (Besh karra yigirma ikki — yuz oʻn)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 23 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma uch",
+      "uzbek": "115",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 23 = 115",
+      "example_uz": "5 × 23 = 115 (Besh karra yigirma uch — yuz oʻn besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma toʻrt",
+      "uzbek": "120",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 24 = 120",
+      "example_uz": "5 × 24 = 120 (Besh karra yigirma toʻrt — yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma besh",
+      "uzbek": "125",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 25 = 125",
+      "example_uz": "5 × 25 = 125 (Besh karra yigirma besh — yuz yigirma besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma olti",
+      "uzbek": "130",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 26 = 130",
+      "example_uz": "5 × 26 = 130 (Besh karra yigirma olti — yuz oʻttiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yigirma sakkiz",
+      "uzbek": "140",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 28 = 140",
+      "example_uz": "5 × 28 = 140 (Besh karra yigirma sakkiz — yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻttiz",
+      "uzbek": "150",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 30 = 150",
+      "example_uz": "5 × 30 = 150 (Besh karra oʻttiz — yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻttiz ikki",
+      "uzbek": "160",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 32 = 160",
+      "example_uz": "5 × 32 = 160 (Besh karra oʻttiz ikki — yuz oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻttiz besh",
+      "uzbek": "175",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 35 = 175",
+      "example_uz": "5 × 35 = 175 (Besh karra oʻttiz besh — yuz yetmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 36 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oʻttiz olti",
+      "uzbek": "180",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 36 = 180",
+      "example_uz": "5 × 36 = 180 (Besh karra oʻttiz olti — yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra qirq",
+      "uzbek": "200",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 40 = 200",
+      "example_uz": "5 × 40 = 200 (Besh karra qirq — ikki yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 42 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra qirq ikki",
+      "uzbek": "210",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 42 = 210",
+      "example_uz": "5 × 42 = 210 (Besh karra qirq ikki — ikki yuz oʻn)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra qirq besh",
+      "uzbek": "225",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 45 = 225",
+      "example_uz": "5 × 45 = 225 (Besh karra qirq besh — ikki yuz yigirma besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra qirq sakkiz",
+      "uzbek": "240",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 48 = 240",
+      "example_uz": "5 × 48 = 240 (Besh karra qirq sakkiz — ikki yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra ellik",
+      "uzbek": "250",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 50 = 250",
+      "example_uz": "5 × 50 = 250 (Besh karra ellik — ikki yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra ellik besh",
+      "uzbek": "275",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 55 = 275",
+      "example_uz": "5 × 55 = 275 (Besh karra ellik besh — ikki yuz yetmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oltmish",
+      "uzbek": "300",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 60 = 300",
+      "example_uz": "5 × 60 = 300 (Besh karra oltmish — uch yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra oltmish besh",
+      "uzbek": "325",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 65 = 325",
+      "example_uz": "5 × 65 = 325 (Besh karra oltmish besh — uch yuz yigirma besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 70 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yetmish",
+      "uzbek": "350",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 70 = 350",
+      "example_uz": "5 × 70 = 350 (Besh karra yetmish — uch yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra yetmish besh",
+      "uzbek": "375",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 75 = 375",
+      "example_uz": "5 × 75 = 375 (Besh karra yetmish besh — uch yuz yetmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 80 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra sakson",
+      "uzbek": "400",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 80 = 400",
+      "example_uz": "5 × 80 = 400 (Besh karra sakson — toʻrt yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra sakson besh",
+      "uzbek": "425",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 85 = 425",
+      "example_uz": "5 × 85 = 425 (Besh karra sakson besh — toʻrt yuz yigirma besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra toʻqson",
+      "uzbek": "450",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 90 = 450",
+      "example_uz": "5 × 90 = 450 (Besh karra toʻqson — toʻrt yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 95 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra toʻqson besh",
+      "uzbek": "475",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 95 = 475",
+      "example_uz": "5 × 95 = 475 (Besh karra toʻqson besh — toʻrt yuz yetmish besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "5 × 99 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh karra toʻqson toʻqqiz",
+      "uzbek": "495",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "5 × 99 = 495",
+      "example_uz": "5 × 99 = 495 (Besh karra toʻqson toʻqqiz — toʻrt yuz toʻqson besh)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn bir",
+      "uzbek": "66",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 11 = 66",
+      "example_uz": "6 × 11 = 66 (Olti karra oʻn bir — oltmish olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn ikki",
+      "uzbek": "72",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 12 = 72",
+      "example_uz": "6 × 12 = 72 (Olti karra oʻn ikki — yetmish ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 13 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn uch",
+      "uzbek": "78",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 13 = 78",
+      "example_uz": "6 × 13 = 78 (Olti karra oʻn uch — yetmish sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 14 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn toʻrt",
+      "uzbek": "84",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 14 = 84",
+      "example_uz": "6 × 14 = 84 (Olti karra oʻn toʻrt — sakson toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn besh",
+      "uzbek": "90",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 15 = 90",
+      "example_uz": "6 × 15 = 90 (Olti karra oʻn besh — toʻqson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn olti",
+      "uzbek": "96",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 16 = 96",
+      "example_uz": "6 × 16 = 96 (Olti karra oʻn olti — toʻqson olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn yetti",
+      "uzbek": "102",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 17 = 102",
+      "example_uz": "6 × 17 = 102 (Olti karra oʻn yetti — yuz ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 18 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn sakkiz",
+      "uzbek": "108",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 18 = 108",
+      "example_uz": "6 × 18 = 108 (Olti karra oʻn sakkiz — yuz sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 19 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻn toʻqqiz",
+      "uzbek": "114",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 19 = 114",
+      "example_uz": "6 × 19 = 114 (Olti karra oʻn toʻqqiz — yuz oʻn toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma",
+      "uzbek": "120",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 20 = 120",
+      "example_uz": "6 × 20 = 120 (Olti karra yigirma — yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 21 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma bir",
+      "uzbek": "126",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 21 = 126",
+      "example_uz": "6 × 21 = 126 (Olti karra yigirma bir — yuz yigirma olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma ikki",
+      "uzbek": "132",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 22 = 132",
+      "example_uz": "6 × 22 = 132 (Olti karra yigirma ikki — yuz oʻttiz ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 23 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma uch",
+      "uzbek": "138",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 23 = 138",
+      "example_uz": "6 × 23 = 138 (Olti karra yigirma uch — yuz oʻttiz sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma toʻrt",
+      "uzbek": "144",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 24 = 144",
+      "example_uz": "6 × 24 = 144 (Olti karra yigirma toʻrt — yuz qirq toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma besh",
+      "uzbek": "150",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 25 = 150",
+      "example_uz": "6 × 25 = 150 (Olti karra yigirma besh — yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma olti",
+      "uzbek": "156",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 26 = 156",
+      "example_uz": "6 × 26 = 156 (Olti karra yigirma olti — yuz ellik olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yigirma sakkiz",
+      "uzbek": "168",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 28 = 168",
+      "example_uz": "6 × 28 = 168 (Olti karra yigirma sakkiz — yuz oltmish sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻttiz",
+      "uzbek": "180",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 30 = 180",
+      "example_uz": "6 × 30 = 180 (Olti karra oʻttiz — yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻttiz ikki",
+      "uzbek": "192",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 32 = 192",
+      "example_uz": "6 × 32 = 192 (Olti karra oʻttiz ikki — yuz toʻqson ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻttiz besh",
+      "uzbek": "210",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 35 = 210",
+      "example_uz": "6 × 35 = 210 (Olti karra oʻttiz besh — ikki yuz oʻn)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 36 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oʻttiz olti",
+      "uzbek": "216",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 36 = 216",
+      "example_uz": "6 × 36 = 216 (Olti karra oʻttiz olti — ikki yuz oʻn olti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra qirq",
+      "uzbek": "240",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 40 = 240",
+      "example_uz": "6 × 40 = 240 (Olti karra qirq — ikki yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 42 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra qirq ikki",
+      "uzbek": "252",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 42 = 252",
+      "example_uz": "6 × 42 = 252 (Olti karra qirq ikki — ikki yuz ellik ikki)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra qirq besh",
+      "uzbek": "270",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 45 = 270",
+      "example_uz": "6 × 45 = 270 (Olti karra qirq besh — ikki yuz yetmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra qirq sakkiz",
+      "uzbek": "288",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 48 = 288",
+      "example_uz": "6 × 48 = 288 (Olti karra qirq sakkiz — ikki yuz sakson sakkiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra ellik",
+      "uzbek": "300",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 50 = 300",
+      "example_uz": "6 × 50 = 300 (Olti karra ellik — uch yuz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra ellik besh",
+      "uzbek": "330",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 55 = 330",
+      "example_uz": "6 × 55 = 330 (Olti karra ellik besh — uch yuz oʻttiz)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oltmish",
+      "uzbek": "360",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 60 = 360",
+      "example_uz": "6 × 60 = 360 (Olti karra oltmish — uch yuz oltmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oltmish toʻrt",
+      "uzbek": "384",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 64 = 384",
+      "example_uz": "6 × 64 = 384 (Olti karra oltmish toʻrt — uch yuz sakson toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra oltmish besh",
+      "uzbek": "390",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 65 = 390",
+      "example_uz": "6 × 65 = 390 (Olti karra oltmish besh — uch yuz toʻqson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 70 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yetmish",
+      "uzbek": "420",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 70 = 420",
+      "example_uz": "6 × 70 = 420 (Olti karra yetmish — toʻrt yuz yigirma)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra yetmish besh",
+      "uzbek": "450",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 75 = 450",
+      "example_uz": "6 × 75 = 450 (Olti karra yetmish besh — toʻrt yuz ellik)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 80 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra sakson",
+      "uzbek": "480",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 80 = 480",
+      "example_uz": "6 × 80 = 480 (Olti karra sakson — toʻrt yuz sakson)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra sakson besh",
+      "uzbek": "510",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 85 = 510",
+      "example_uz": "6 × 85 = 510 (Olti karra sakson besh — besh yuz oʻn)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra toʻqson",
+      "uzbek": "540",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 90 = 540",
+      "example_uz": "6 × 90 = 540 (Olti karra toʻqson — besh yuz qirq)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 95 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra toʻqson besh",
+      "uzbek": "570",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 95 = 570",
+      "example_uz": "6 × 95 = 570 (Olti karra toʻqson besh — besh yuz yetmish)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "6 × 99 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti karra toʻqson toʻqqiz",
+      "uzbek": "594",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "6 × 99 = 594",
+      "example_uz": "6 × 99 = 594 (Olti karra toʻqson toʻqqiz — besh yuz toʻqson toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "7 × 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra oʻn bir",
+      "uzbek": "77",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "7 × 11 = 77",
+      "example_uz": "7 × 11 = 77 (Yetti karra oʻn bir — yetmish yetti)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "7 × 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra oʻn ikki",
+      "uzbek": "84",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "7 × 12 = 84",
+      "example_uz": "7 × 12 = 84 (Yetti karra oʻn ikki — sakson toʻrt)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "7 × 13 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra oʻn uch",
+      "uzbek": "91",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "7 × 13 = 91",
+      "example_uz": "7 × 13 = 91 (Yetti karra oʻn uch — toʻqson bir)",
+      "category": "Murakkab karra"
+    },
+    {
+      "english": "7 × 14 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti karra oʻn toʻrt",
+      "uzbek": "98",
+      "pos": "Murakkab karra • Aqliy hisob",
+      "example_en": "7 × 14 = 98",
+      "example_uz": "7 × 14 = 98 (Yetti karra oʻn toʻrt — toʻqson sakkiz)",
+      "category": "Murakkab karra"
+    }
+  ]
+}

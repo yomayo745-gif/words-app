@@ -1,9 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "totalWords": 7226,
   "bookWords": 160,
+  "mathWords": 730,
   "totalDeckFiles": 54,
   "totalBookFiles": 8,
+  "totalMathFiles": 5,
   "allFiles": [
     "data/decks/freq-01-top-150.json",
     "data/decks/freq-02-top-300.json",
@@ -570,7 +572,7 @@
       "category": "Home, Appliances & Household",
       "group": "topic",
       "wordCount": 158,
-      "accentIndex": 7,
+      "accentIndex": 2,
       "files": [
         "data/decks/topic-01-home-chores.json"
       ]
@@ -581,7 +583,7 @@
       "category": "Food, Produce & Spices",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 8,
+      "accentIndex": 3,
       "files": [
         "data/decks/topic-02-food-ingredients.json"
       ]
@@ -592,7 +594,7 @@
       "category": "Cooking, Dishes & Restaurant",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 9,
+      "accentIndex": 4,
       "files": [
         "data/decks/topic-03-cooking-dining.json"
       ]
@@ -603,7 +605,7 @@
       "category": "Family, Relationships & Life Stages",
       "group": "topic",
       "wordCount": 154,
-      "accentIndex": 0,
+      "accentIndex": 5,
       "files": [
         "data/decks/topic-04-family-social.json"
       ]
@@ -614,7 +616,7 @@
       "category": "Human Body & Anatomy",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 1,
+      "accentIndex": 6,
       "files": [
         "data/decks/topic-05-body-anatomy.json"
       ]
@@ -625,7 +627,7 @@
       "category": "Health, Hygiene & Wellness",
       "group": "topic",
       "wordCount": 158,
-      "accentIndex": 2,
+      "accentIndex": 7,
       "files": [
         "data/decks/topic-06-health-wellness.json"
       ]
@@ -636,7 +638,7 @@
       "category": "Clothes, Fabrics & Fashion",
       "group": "topic",
       "wordCount": 141,
-      "accentIndex": 3,
+      "accentIndex": 8,
       "files": [
         "data/decks/topic-07-clothes-fashion.json"
       ]
@@ -647,7 +649,7 @@
       "category": "Shopping, Retail & Services",
       "group": "topic",
       "wordCount": 131,
-      "accentIndex": 4,
+      "accentIndex": 9,
       "files": [
         "data/decks/topic-08-shopping-consumer.json"
       ]
@@ -658,7 +660,7 @@
       "category": "City, Architecture & Urban Life",
       "group": "topic",
       "wordCount": 116,
-      "accentIndex": 5,
+      "accentIndex": 0,
       "files": [
         "data/decks/topic-09-city-architecture.json"
       ]
@@ -669,7 +671,7 @@
       "category": "Transport, Vehicles & Traffic",
       "group": "topic",
       "wordCount": 134,
-      "accentIndex": 6,
+      "accentIndex": 1,
       "files": [
         "data/decks/topic-10-transport-traffic.json"
       ]
@@ -680,7 +682,7 @@
       "category": "Travel, Tourism & Geography",
       "group": "topic",
       "wordCount": 139,
-      "accentIndex": 7,
+      "accentIndex": 2,
       "files": [
         "data/decks/topic-11-travel-geography.json"
       ]
@@ -691,7 +693,7 @@
       "category": "School, Classroom & Subjects",
       "group": "topic",
       "wordCount": 129,
-      "accentIndex": 8,
+      "accentIndex": 3,
       "files": [
         "data/decks/topic-12-school-classroom.json"
       ]
@@ -702,7 +704,7 @@
       "category": "University, Degrees & Research",
       "group": "topic",
       "wordCount": 126,
-      "accentIndex": 9,
+      "accentIndex": 4,
       "files": [
         "data/decks/topic-13-university-research.json"
       ]
@@ -713,7 +715,7 @@
       "category": "Jobs, Professions & Workplace",
       "group": "topic",
       "wordCount": 131,
-      "accentIndex": 0,
+      "accentIndex": 5,
       "files": [
         "data/decks/topic-14-work-professions.json"
       ]
@@ -724,7 +726,7 @@
       "category": "Business, Management & Trade",
       "group": "topic",
       "wordCount": 95,
-      "accentIndex": 1,
+      "accentIndex": 6,
       "files": [
         "data/decks/topic-15-business-commerce.json"
       ]
@@ -735,7 +737,7 @@
       "category": "Money, Banking & Finance",
       "group": "topic",
       "wordCount": 108,
-      "accentIndex": 2,
+      "accentIndex": 7,
       "files": [
         "data/decks/topic-16-money-finance.json"
       ]
@@ -746,7 +748,7 @@
       "category": "Computers, Software & AI",
       "group": "topic",
       "wordCount": 121,
-      "accentIndex": 3,
+      "accentIndex": 8,
       "files": [
         "data/decks/topic-17-tech-computing.json"
       ]
@@ -757,7 +759,7 @@
       "category": "Internet, Smartphones & Social Media",
       "group": "topic",
       "wordCount": 126,
-      "accentIndex": 4,
+      "accentIndex": 9,
       "files": [
         "data/decks/topic-18-internet-mobile.json"
       ]
@@ -768,7 +770,7 @@
       "category": "Nature, Plants & Agriculture",
       "group": "topic",
       "wordCount": 93,
-      "accentIndex": 5,
+      "accentIndex": 0,
       "files": [
         "data/decks/topic-19-nature-plants.json"
       ]
@@ -779,7 +781,7 @@
       "category": "Animals, Birds & Marine Life",
       "group": "topic",
       "wordCount": 139,
-      "accentIndex": 6,
+      "accentIndex": 1,
       "files": [
         "data/decks/topic-20-animals-wildlife.json"
       ]
@@ -790,7 +792,7 @@
       "category": "Weather, Climate & Environment",
       "group": "topic",
       "wordCount": 126,
-      "accentIndex": 7,
+      "accentIndex": 2,
       "files": [
         "data/decks/topic-21-weather-ecology.json"
       ]
@@ -801,7 +803,7 @@
       "category": "Sports, Athletics & Competitions",
       "group": "topic",
       "wordCount": 118,
-      "accentIndex": 8,
+      "accentIndex": 3,
       "files": [
         "data/decks/topic-22-sports-fitness.json"
       ]
@@ -812,7 +814,7 @@
       "category": "Hobbies, Games & Leisure",
       "group": "topic",
       "wordCount": 114,
-      "accentIndex": 9,
+      "accentIndex": 4,
       "files": [
         "data/decks/topic-23-hobbies-games.json"
       ]
@@ -823,7 +825,7 @@
       "category": "Art, Music, Literature & Cinema",
       "group": "topic",
       "wordCount": 125,
-      "accentIndex": 0,
+      "accentIndex": 5,
       "files": [
         "data/decks/topic-24-art-music-cinema.json"
       ]
@@ -834,7 +836,7 @@
       "category": "Emotions, Moods & Psychology",
       "group": "topic",
       "wordCount": 128,
-      "accentIndex": 1,
+      "accentIndex": 6,
       "files": [
         "data/decks/topic-25-emotions-psychology.json"
       ]
@@ -845,7 +847,7 @@
       "category": "Personality, Character & Ethics",
       "group": "topic",
       "wordCount": 115,
-      "accentIndex": 2,
+      "accentIndex": 7,
       "files": [
         "data/decks/topic-26-personality-ethics.json"
       ]
@@ -856,7 +858,7 @@
       "category": "Politics, Government & Diplomacy",
       "group": "topic",
       "wordCount": 100,
-      "accentIndex": 3,
+      "accentIndex": 8,
       "files": [
         "data/decks/topic-27-politics-state.json"
       ]
@@ -867,7 +869,7 @@
       "category": "Law, Courts & Justice",
       "group": "topic",
       "wordCount": 114,
-      "accentIndex": 4,
+      "accentIndex": 9,
       "files": [
         "data/decks/topic-28-law-justice.json"
       ]
@@ -878,7 +880,7 @@
       "category": "Science, Physics, Chemistry & Space",
       "group": "topic",
       "wordCount": 102,
-      "accentIndex": 5,
+      "accentIndex": 0,
       "files": [
         "data/decks/topic-29-science-universe.json"
       ]
@@ -889,7 +891,7 @@
       "category": "Mathematics, Geometry & Logic",
       "group": "topic",
       "wordCount": 90,
-      "accentIndex": 6,
+      "accentIndex": 1,
       "files": [
         "data/decks/topic-30-math-geometry.json"
       ]
@@ -900,7 +902,7 @@
       "category": "Medicine, Healthcare & Pharmacology",
       "group": "topic",
       "wordCount": 81,
-      "accentIndex": 7,
+      "accentIndex": 2,
       "files": [
         "data/decks/topic-31-medicine-clinical.json"
       ]
@@ -911,7 +913,7 @@
       "category": "History, Civilization & Culture",
       "group": "topic",
       "wordCount": 99,
-      "accentIndex": 8,
+      "accentIndex": 3,
       "files": [
         "data/decks/topic-32-history-society.json"
       ]
@@ -922,7 +924,7 @@
       "category": "Common English Idioms 1",
       "group": "topic",
       "wordCount": 160,
-      "accentIndex": 9,
+      "accentIndex": 4,
       "files": [
         "data/decks/topic-33-idioms-1.json"
       ]
@@ -933,7 +935,7 @@
       "category": "Common English Idioms 2",
       "group": "topic",
       "wordCount": 158,
-      "accentIndex": 0,
+      "accentIndex": 5,
       "files": [
         "data/decks/topic-34-idioms-2.json"
       ]
@@ -944,9 +946,86 @@
       "category": "Essential English Collocations",
       "group": "topic",
       "wordCount": 148,
-      "accentIndex": 1,
+      "accentIndex": 6,
       "files": [
         "data/decks/topic-35-collocations.json"
+      ]
+    },
+    {
+      "id": "math-all",
+      "title": "Barcha matematika (Karra, Boʻlish, Qoʻshish, Ayirish)",
+      "category": "Arifmetika va aqliy hisob",
+      "group": "math",
+      "badge": "MAT",
+      "wordCount": 730,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/math-01-multiplication-table.json",
+        "data/decks/math-02-advanced-multiplication.json",
+        "data/decks/math-03-division.json",
+        "data/decks/math-04-addition.json",
+        "data/decks/math-05-subtraction.json"
+      ],
+      "isMathSummary": true
+    },
+    {
+      "id": "math-01-multiplication-table",
+      "title": "Karra jadvali (2 dan 9 gacha)",
+      "category": "Karra jadvali (2 dan 9 gacha)",
+      "group": "math",
+      "badge": "2-9",
+      "wordCount": 80,
+      "accentIndex": 0,
+      "files": [
+        "data/decks/math-01-multiplication-table.json"
+      ]
+    },
+    {
+      "id": "math-02-advanced-multiplication",
+      "title": "Murakkab koʻpaytirish (Katta sonlar)",
+      "category": "Murakkab karra (Katta sonlar)",
+      "group": "math",
+      "badge": "×+",
+      "wordCount": 200,
+      "accentIndex": 1,
+      "files": [
+        "data/decks/math-02-advanced-multiplication.json"
+      ]
+    },
+    {
+      "id": "math-03-division",
+      "title": "Boʻlish (Jadval & Aqliy hisoblash)",
+      "category": "Boʻlish (Jadval & Aqliy hisoblash)",
+      "group": "math",
+      "badge": "÷",
+      "wordCount": 150,
+      "accentIndex": 5,
+      "files": [
+        "data/decks/math-03-division.json"
+      ]
+    },
+    {
+      "id": "math-04-addition",
+      "title": "Qoʻshish (Tezkor aqliy hisoblash)",
+      "category": "Qoʻshish (Tezkor aqliy hisoblash)",
+      "group": "math",
+      "badge": "+",
+      "wordCount": 150,
+      "accentIndex": 6,
+      "files": [
+        "data/decks/math-04-addition.json"
+      ]
+    },
+    {
+      "id": "math-05-subtraction",
+      "title": "Ayirish (Tezkor aqliy hisoblash)",
+      "category": "Ayirish (Tezkor aqliy hisoblash)",
+      "group": "math",
+      "badge": "−",
+      "wordCount": 150,
+      "accentIndex": 3,
+      "files": [
+        "data/decks/math-05-subtraction.json"
       ]
     }
   ]

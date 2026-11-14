@@ -1,0 +1,1508 @@
+{
+  "title": "Ayirish (Tezkor aqliy hisoblash)",
+  "category": "Ayirish (Tezkor aqliy hisoblash)",
+  "group": "math",
+  "badge": "−",
+  "words": [
+    {
+      "english": "50 − 18 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik ayiruv oʻn sakkiz",
+      "uzbek": "32",
+      "pos": "Ayirish amali",
+      "example_en": "50 − 18 = 32",
+      "example_uz": "50 − 18 = 32 (Ellik ayiruv oʻn sakkiz — oʻttiz ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "60 − 27 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish ayiruv yigirma yetti",
+      "uzbek": "33",
+      "pos": "Ayirish amali",
+      "example_en": "60 − 27 = 33",
+      "example_uz": "60 − 27 = 33 (Oltmish ayiruv yigirma yetti — oʻttiz uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "70 − 34 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish ayiruv oʻttiz toʻrt",
+      "uzbek": "36",
+      "pos": "Ayirish amali",
+      "example_en": "70 − 34 = 36",
+      "example_uz": "70 − 34 = 36 (Yetmish ayiruv oʻttiz toʻrt — oʻttiz olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "80 − 46 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson ayiruv qirq olti",
+      "uzbek": "34",
+      "pos": "Ayirish amali",
+      "example_en": "80 − 46 = 34",
+      "example_uz": "80 − 46 = 34 (Sakson ayiruv qirq olti — oʻttiz toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "90 − 53 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson ayiruv ellik uch",
+      "uzbek": "37",
+      "pos": "Ayirish amali",
+      "example_en": "90 − 53 = 37",
+      "example_uz": "90 − 53 = 37 (Toʻqson ayiruv ellik uch — oʻttiz yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv oʻn yetti",
+      "uzbek": "83",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 17 = 83",
+      "example_uz": "100 − 17 = 83 (Yuz ayiruv oʻn yetti — sakson uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv yigirma toʻrt",
+      "uzbek": "76",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 24 = 76",
+      "example_uz": "100 − 24 = 76 (Yuz ayiruv yigirma toʻrt — yetmish olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 37 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv oʻttiz yetti",
+      "uzbek": "63",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 37 = 63",
+      "example_uz": "100 − 37 = 63 (Yuz ayiruv oʻttiz yetti — oltmish uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 43 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv qirq uch",
+      "uzbek": "57",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 43 = 57",
+      "example_uz": "100 − 43 = 57 (Yuz ayiruv qirq uch — ellik yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv qirq sakkiz",
+      "uzbek": "52",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 48 = 52",
+      "example_uz": "100 − 48 = 52 (Yuz ayiruv qirq sakkiz — ellik ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv ellik besh",
+      "uzbek": "45",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 55 = 45",
+      "example_uz": "100 − 55 = 45 (Yuz ayiruv ellik besh — qirq besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv oltmish toʻrt",
+      "uzbek": "36",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 64 = 36",
+      "example_uz": "100 − 64 = 36 (Yuz ayiruv oltmish toʻrt — oʻttiz olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 73 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv yetmish uch",
+      "uzbek": "27",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 73 = 27",
+      "example_uz": "100 − 73 = 27 (Yuz ayiruv yetmish uch — yigirma yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 82 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv sakson ikki",
+      "uzbek": "18",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 82 = 18",
+      "example_uz": "100 − 82 = 18 (Yuz ayiruv sakson ikki — oʻn sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv sakson besh",
+      "uzbek": "15",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 85 = 15",
+      "example_uz": "100 − 85 = 15 (Yuz ayiruv sakson besh — oʻn besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "100 − 91 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ayiruv toʻqson bir",
+      "uzbek": "9",
+      "pos": "Ayirish amali",
+      "example_en": "100 − 91 = 9",
+      "example_uz": "100 − 91 = 9 (Yuz ayiruv toʻqson bir — toʻqqiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "75 − 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish besh ayiruv yigirma sakkiz",
+      "uzbek": "47",
+      "pos": "Ayirish amali",
+      "example_en": "75 − 28 = 47",
+      "example_uz": "75 − 28 = 47 (Yetmish besh ayiruv yigirma sakkiz — qirq yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "84 − 39 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson toʻrt ayiruv oʻttiz toʻqqiz",
+      "uzbek": "45",
+      "pos": "Ayirish amali",
+      "example_en": "84 − 39 = 45",
+      "example_uz": "84 − 39 = 45 (Sakson toʻrt ayiruv oʻttiz toʻqqiz — qirq besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "92 − 47 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson ikki ayiruv qirq yetti",
+      "uzbek": "45",
+      "pos": "Ayirish amali",
+      "example_en": "92 − 47 = 45",
+      "example_uz": "92 − 47 = 45 (Toʻqson ikki ayiruv qirq yetti — qirq besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "95 − 58 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson besh ayiruv ellik sakkiz",
+      "uzbek": "37",
+      "pos": "Ayirish amali",
+      "example_en": "95 − 58 = 37",
+      "example_uz": "95 − 58 = 37 (Toʻqson besh ayiruv ellik sakkiz — oʻttiz yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "63 − 27 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish uch ayiruv yigirma yetti",
+      "uzbek": "36",
+      "pos": "Ayirish amali",
+      "example_en": "63 − 27 = 36",
+      "example_uz": "63 − 27 = 36 (Oltmish uch ayiruv yigirma yetti — oʻttiz olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "72 − 38 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish ikki ayiruv oʻttiz sakkiz",
+      "uzbek": "34",
+      "pos": "Ayirish amali",
+      "example_en": "72 − 38 = 34",
+      "example_uz": "72 − 38 = 34 (Yetmish ikki ayiruv oʻttiz sakkiz — oʻttiz toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "81 − 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson bir ayiruv qirq besh",
+      "uzbek": "36",
+      "pos": "Ayirish amali",
+      "example_en": "81 − 45 = 36",
+      "example_uz": "81 − 45 = 36 (Sakson bir ayiruv qirq besh — oʻttiz olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "94 − 56 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson toʻrt ayiruv ellik olti",
+      "uzbek": "38",
+      "pos": "Ayirish amali",
+      "example_en": "94 − 56 = 38",
+      "example_uz": "94 − 56 = 38 (Toʻqson toʻrt ayiruv ellik olti — oʻttiz sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "83 − 47 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson uch ayiruv qirq yetti",
+      "uzbek": "36",
+      "pos": "Ayirish amali",
+      "example_en": "83 − 47 = 36",
+      "example_uz": "83 − 47 = 36 (Sakson uch ayiruv qirq yetti — oʻttiz olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "71 − 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish bir ayiruv oʻttiz besh",
+      "uzbek": "36",
+      "pos": "Ayirish amali",
+      "example_en": "71 − 35 = 36",
+      "example_uz": "71 − 35 = 36 (Yetmish bir ayiruv oʻttiz besh — oʻttiz olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "65 − 29 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish besh ayiruv yigirma toʻqqiz",
+      "uzbek": "36",
+      "pos": "Ayirish amali",
+      "example_en": "65 − 29 = 36",
+      "example_uz": "65 − 29 = 36 (Oltmish besh ayiruv yigirma toʻqqiz — oʻttiz olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "54 − 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻrt ayiruv yigirma sakkiz",
+      "uzbek": "26",
+      "pos": "Ayirish amali",
+      "example_en": "54 − 28 = 26",
+      "example_uz": "54 − 28 = 26 (Ellik toʻrt ayiruv yigirma sakkiz — yigirma olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "86 − 49 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson olti ayiruv qirq toʻqqiz",
+      "uzbek": "37",
+      "pos": "Ayirish amali",
+      "example_en": "86 − 49 = 37",
+      "example_uz": "86 − 49 = 37 (Sakson olti ayiruv qirq toʻqqiz — oʻttiz yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "93 − 67 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson uch ayiruv oltmish yetti",
+      "uzbek": "26",
+      "pos": "Ayirish amali",
+      "example_en": "93 − 67 = 26",
+      "example_uz": "93 − 67 = 26 (Toʻqson uch ayiruv oltmish yetti — yigirma olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "125 − 68 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma besh ayiruv oltmish sakkiz",
+      "uzbek": "57",
+      "pos": "Ayirish amali",
+      "example_en": "125 − 68 = 57",
+      "example_uz": "125 − 68 = 57 (Yuz yigirma besh ayiruv oltmish sakkiz — ellik yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "150 − 68 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ellik ayiruv oltmish sakkiz",
+      "uzbek": "82",
+      "pos": "Ayirish amali",
+      "example_en": "150 − 68 = 82",
+      "example_uz": "150 − 68 = 82 (Yuz ellik ayiruv oltmish sakkiz — sakson ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "150 − 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ellik ayiruv yetmish besh",
+      "uzbek": "75",
+      "pos": "Ayirish amali",
+      "example_en": "150 − 75 = 75",
+      "example_uz": "150 − 75 = 75 (Yuz ellik ayiruv yetmish besh — yetmish besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "180 − 95 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz sakson ayiruv toʻqson besh",
+      "uzbek": "85",
+      "pos": "Ayirish amali",
+      "example_en": "180 − 95 = 85",
+      "example_uz": "180 − 95 = 85 (Yuz sakson ayiruv toʻqson besh — sakson besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "200 − 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ayiruv qirq besh",
+      "uzbek": "155",
+      "pos": "Ayirish amali",
+      "example_en": "200 − 45 = 155",
+      "example_uz": "200 − 45 = 155 (Ikki yuz ayiruv qirq besh — yuz ellik besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "200 − 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ayiruv yetmish besh",
+      "uzbek": "125",
+      "pos": "Ayirish amali",
+      "example_en": "200 − 75 = 125",
+      "example_uz": "200 − 75 = 125 (Ikki yuz ayiruv yetmish besh — yuz yigirma besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "200 − 135 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ayiruv yuz oʻttiz besh",
+      "uzbek": "65",
+      "pos": "Ayirish amali",
+      "example_en": "200 − 135 = 65",
+      "example_uz": "200 − 135 = 65 (Ikki yuz ayiruv yuz oʻttiz besh — oltmish besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "200 − 168 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ayiruv yuz oltmish sakkiz",
+      "uzbek": "32",
+      "pos": "Ayirish amali",
+      "example_en": "200 − 168 = 32",
+      "example_uz": "200 − 168 = 32 (Ikki yuz ayiruv yuz oltmish sakkiz — oʻttiz ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "250 − 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ellik ayiruv yetmish besh",
+      "uzbek": "175",
+      "pos": "Ayirish amali",
+      "example_en": "250 − 75 = 175",
+      "example_uz": "250 − 75 = 175 (Ikki yuz ellik ayiruv yetmish besh — yuz yetmish besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "250 − 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ellik ayiruv yuz yigirma besh",
+      "uzbek": "125",
+      "pos": "Ayirish amali",
+      "example_en": "250 − 125 = 125",
+      "example_uz": "250 − 125 = 125 (Ikki yuz ellik ayiruv yuz yigirma besh — yuz yigirma besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "300 − 145 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz ayiruv yuz qirq besh",
+      "uzbek": "155",
+      "pos": "Ayirish amali",
+      "example_en": "300 − 145 = 155",
+      "example_uz": "300 − 145 = 155 (Uch yuz ayiruv yuz qirq besh — yuz ellik besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "300 − 185 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz ayiruv yuz sakson besh",
+      "uzbek": "115",
+      "pos": "Ayirish amali",
+      "example_en": "300 − 185 = 115",
+      "example_uz": "300 − 185 = 115 (Uch yuz ayiruv yuz sakson besh — yuz oʻn besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "350 − 175 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz ellik ayiruv yuz yetmish besh",
+      "uzbek": "175",
+      "pos": "Ayirish amali",
+      "example_en": "350 − 175 = 175",
+      "example_uz": "350 − 175 = 175 (Uch yuz ellik ayiruv yuz yetmish besh — yuz yetmish besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "400 − 160 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz ayiruv yuz oltmish",
+      "uzbek": "240",
+      "pos": "Ayirish amali",
+      "example_en": "400 − 160 = 240",
+      "example_uz": "400 − 160 = 240 (Toʻrt yuz ayiruv yuz oltmish — ikki yuz qirq)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "400 − 245 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz ayiruv ikki yuz qirq besh",
+      "uzbek": "155",
+      "pos": "Ayirish amali",
+      "example_en": "400 − 245 = 155",
+      "example_uz": "400 − 245 = 155 (Toʻrt yuz ayiruv ikki yuz qirq besh — yuz ellik besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "450 − 180 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz ellik ayiruv yuz sakson",
+      "uzbek": "270",
+      "pos": "Ayirish amali",
+      "example_en": "450 − 180 = 270",
+      "example_uz": "450 − 180 = 270 (Toʻrt yuz ellik ayiruv yuz sakson — ikki yuz yetmish)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "500 − 185 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz ayiruv yuz sakson besh",
+      "uzbek": "315",
+      "pos": "Ayirish amali",
+      "example_en": "500 − 185 = 315",
+      "example_uz": "500 − 185 = 315 (Besh yuz ayiruv yuz sakson besh — uch yuz oʻn besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "500 − 260 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz ayiruv ikki yuz oltmish",
+      "uzbek": "240",
+      "pos": "Ayirish amali",
+      "example_en": "500 − 260 = 240",
+      "example_uz": "500 − 260 = 240 (Besh yuz ayiruv ikki yuz oltmish — ikki yuz qirq)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "500 − 345 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz ayiruv uch yuz qirq besh",
+      "uzbek": "155",
+      "pos": "Ayirish amali",
+      "example_en": "500 − 345 = 155",
+      "example_uz": "500 − 345 = 155 (Besh yuz ayiruv uch yuz qirq besh — yuz ellik besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "600 − 275 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz ayiruv ikki yuz yetmish besh",
+      "uzbek": "325",
+      "pos": "Ayirish amali",
+      "example_en": "600 − 275 = 325",
+      "example_uz": "600 − 275 = 325 (Olti yuz ayiruv ikki yuz yetmish besh — uch yuz yigirma besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "600 − 350 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz ayiruv uch yuz ellik",
+      "uzbek": "250",
+      "pos": "Ayirish amali",
+      "example_en": "600 − 350 = 250",
+      "example_uz": "600 − 350 = 250 (Olti yuz ayiruv uch yuz ellik — ikki yuz ellik)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "700 − 340 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz ayiruv uch yuz qirq",
+      "uzbek": "360",
+      "pos": "Ayirish amali",
+      "example_en": "700 − 340 = 360",
+      "example_uz": "700 − 340 = 360 (Yetti yuz ayiruv uch yuz qirq — uch yuz oltmish)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "750 − 280 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz ellik ayiruv ikki yuz sakson",
+      "uzbek": "470",
+      "pos": "Ayirish amali",
+      "example_en": "750 − 280 = 470",
+      "example_uz": "750 − 280 = 470 (Yetti yuz ellik ayiruv ikki yuz sakson — toʻrt yuz yetmish)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "800 − 375 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz ayiruv uch yuz yetmish besh",
+      "uzbek": "425",
+      "pos": "Ayirish amali",
+      "example_en": "800 − 375 = 425",
+      "example_uz": "800 − 375 = 425 (Sakkiz yuz ayiruv uch yuz yetmish besh — toʻrt yuz yigirma besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv yuz yigirma besh",
+      "uzbek": "875",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 125 = 875",
+      "example_uz": "1000 − 125 = 875 (Ming ayiruv yuz yigirma besh — sakkiz yuz yetmish besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 250 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv ikki yuz ellik",
+      "uzbek": "750",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 250 = 750",
+      "example_uz": "1000 − 250 = 750 (Ming ayiruv ikki yuz ellik — yetti yuz ellik)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 345 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv uch yuz qirq besh",
+      "uzbek": "655",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 345 = 655",
+      "example_uz": "1000 − 345 = 655 (Ming ayiruv uch yuz qirq besh — olti yuz ellik besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 375 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv uch yuz yetmish besh",
+      "uzbek": "625",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 375 = 625",
+      "example_uz": "1000 − 375 = 625 (Ming ayiruv uch yuz yetmish besh — olti yuz yigirma besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 450 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv toʻrt yuz ellik",
+      "uzbek": "550",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 450 = 550",
+      "example_uz": "1000 − 450 = 550 (Ming ayiruv toʻrt yuz ellik — besh yuz ellik)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 550 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv besh yuz ellik",
+      "uzbek": "450",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 550 = 450",
+      "example_uz": "1000 − 550 = 450 (Ming ayiruv besh yuz ellik — toʻrt yuz ellik)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 625 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv olti yuz yigirma besh",
+      "uzbek": "375",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 625 = 375",
+      "example_uz": "1000 − 625 = 375 (Ming ayiruv olti yuz yigirma besh — uch yuz yetmish besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 680 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv olti yuz sakson",
+      "uzbek": "320",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 680 = 320",
+      "example_uz": "1000 − 680 = 320 (Ming ayiruv olti yuz sakson — uch yuz yigirma)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 750 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv yetti yuz ellik",
+      "uzbek": "250",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 750 = 250",
+      "example_uz": "1000 − 750 = 250 (Ming ayiruv yetti yuz ellik — ikki yuz ellik)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "1000 − 850 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ayiruv sakkiz yuz ellik",
+      "uzbek": "150",
+      "pos": "Ayirish amali",
+      "example_en": "1000 − 850 = 150",
+      "example_uz": "1000 − 850 = 150 (Ming ayiruv sakkiz yuz ellik — yuz ellik)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "86 − 59 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson olti ayiruv ellik toʻqqiz",
+      "uzbek": "27",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "86 − 59 = 27",
+      "example_uz": "86 − 59 = 27 (Sakson olti ayiruv ellik toʻqqiz — yigirma yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "60 − 49 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish ayiruv qirq toʻqqiz",
+      "uzbek": "11",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "60 − 49 = 11",
+      "example_uz": "60 − 49 = 11 (Oltmish ayiruv qirq toʻqqiz — oʻn bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "57 − 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik yetti ayiruv yigirma besh",
+      "uzbek": "32",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "57 − 25 = 32",
+      "example_uz": "57 − 25 = 32 (Ellik yetti ayiruv yigirma besh — oʻttiz ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "66 − 19 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish olti ayiruv oʻn toʻqqiz",
+      "uzbek": "47",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "66 − 19 = 47",
+      "example_uz": "66 − 19 = 47 (Oltmish olti ayiruv oʻn toʻqqiz — qirq yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "132 − 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz ikki ayiruv yigirma ikki",
+      "uzbek": "110",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "132 − 22 = 110",
+      "example_uz": "132 − 22 = 110 (Yuz oʻttiz ikki ayiruv yigirma ikki — yuz oʻn)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "67 − 57 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish yetti ayiruv ellik yetti",
+      "uzbek": "10",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "67 − 57 = 10",
+      "example_uz": "67 − 57 = 10 (Oltmish yetti ayiruv ellik yetti — oʻn)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "84 − 78 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson toʻrt ayiruv yetmish sakkiz",
+      "uzbek": "6",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "84 − 78 = 6",
+      "example_uz": "84 − 78 = 6 (Sakson toʻrt ayiruv yetmish sakkiz — olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "122 − 100 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma ikki ayiruv yuz",
+      "uzbek": "22",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "122 − 100 = 22",
+      "example_uz": "122 − 100 = 22 (Yuz yigirma ikki ayiruv yuz — yigirma ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "103 − 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz uch ayiruv yigirma ikki",
+      "uzbek": "81",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "103 − 22 = 81",
+      "example_uz": "103 − 22 = 81 (Yuz uch ayiruv yigirma ikki — sakson bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "114 − 73 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻn toʻrt ayiruv yetmish uch",
+      "uzbek": "41",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "114 − 73 = 41",
+      "example_uz": "114 − 73 = 41 (Yuz oʻn toʻrt ayiruv yetmish uch — qirq bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "60 − 37 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish ayiruv oʻttiz yetti",
+      "uzbek": "23",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "60 − 37 = 23",
+      "example_uz": "60 − 37 = 23 (Oltmish ayiruv oʻttiz yetti — yigirma uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "127 − 89 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma yetti ayiruv sakson toʻqqiz",
+      "uzbek": "38",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "127 − 89 = 38",
+      "example_uz": "127 − 89 = 38 (Yuz yigirma yetti ayiruv sakson toʻqqiz — oʻttiz sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "110 − 38 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻn ayiruv oʻttiz sakkiz",
+      "uzbek": "72",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "110 − 38 = 72",
+      "example_uz": "110 − 38 = 72 (Yuz oʻn ayiruv oʻttiz sakkiz — yetmish ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "136 − 126 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz olti ayiruv yuz yigirma olti",
+      "uzbek": "10",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "136 − 126 = 10",
+      "example_uz": "136 − 126 = 10 (Yuz oʻttiz olti ayiruv yuz yigirma olti — oʻn)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "135 − 58 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz besh ayiruv ellik sakkiz",
+      "uzbek": "77",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "135 − 58 = 77",
+      "example_uz": "135 − 58 = 77 (Yuz oʻttiz besh ayiruv ellik sakkiz — yetmish yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "140 − 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq ayiruv oltmish",
+      "uzbek": "80",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "140 − 60 = 80",
+      "example_uz": "140 − 60 = 80 (Yuz qirq ayiruv oltmish — sakson)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "145 − 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq besh ayiruv oltmish besh",
+      "uzbek": "80",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "145 − 65 = 80",
+      "example_uz": "145 − 65 = 80 (Yuz qirq besh ayiruv oltmish besh — sakson)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "54 − 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻrt ayiruv qirq",
+      "uzbek": "14",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "54 − 40 = 14",
+      "example_uz": "54 − 40 = 14 (Ellik toʻrt ayiruv qirq — oʻn toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "119 − 33 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻn toʻqqiz ayiruv oʻttiz uch",
+      "uzbek": "86",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "119 − 33 = 86",
+      "example_uz": "119 − 33 = 86 (Yuz oʻn toʻqqiz ayiruv oʻttiz uch — sakson olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "143 − 97 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq uch ayiruv toʻqson yetti",
+      "uzbek": "46",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "143 − 97 = 46",
+      "example_uz": "143 − 97 = 46 (Yuz qirq uch ayiruv toʻqson yetti — qirq olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "45 − 33 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq besh ayiruv oʻttiz uch",
+      "uzbek": "12",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "45 − 33 = 12",
+      "example_uz": "45 − 33 = 12 (Qirq besh ayiruv oʻttiz uch — oʻn ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "102 − 97 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ikki ayiruv toʻqson yetti",
+      "uzbek": "5",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "102 − 97 = 5",
+      "example_uz": "102 − 97 = 5 (Yuz ikki ayiruv toʻqson yetti — besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "134 − 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz toʻrt ayiruv yigirma ikki",
+      "uzbek": "112",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "134 − 22 = 112",
+      "example_uz": "134 − 22 = 112 (Yuz oʻttiz toʻrt ayiruv yigirma ikki — yuz oʻn ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "95 − 51 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson besh ayiruv ellik bir",
+      "uzbek": "44",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "95 − 51 = 44",
+      "example_uz": "95 − 51 = 44 (Toʻqson besh ayiruv ellik bir — qirq toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "86 − 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson olti ayiruv oʻn olti",
+      "uzbek": "70",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "86 − 16 = 70",
+      "example_uz": "86 − 16 = 70 (Sakson olti ayiruv oʻn olti — yetmish)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "69 − 46 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish toʻqqiz ayiruv qirq olti",
+      "uzbek": "23",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "69 − 46 = 23",
+      "example_uz": "69 − 46 = 23 (Oltmish toʻqqiz ayiruv qirq olti — yigirma uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "35 − 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz besh ayiruv yigirma toʻrt",
+      "uzbek": "11",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "35 − 24 = 11",
+      "example_uz": "35 − 24 = 11 (Oʻttiz besh ayiruv yigirma toʻrt — oʻn bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "61 − 34 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish bir ayiruv oʻttiz toʻrt",
+      "uzbek": "27",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "61 − 34 = 27",
+      "example_uz": "61 − 34 = 27 (Oltmish bir ayiruv oʻttiz toʻrt — yigirma yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "103 − 21 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz uch ayiruv yigirma bir",
+      "uzbek": "82",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "103 − 21 = 82",
+      "example_uz": "103 − 21 = 82 (Yuz uch ayiruv yigirma bir — sakson ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "94 − 77 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson toʻrt ayiruv yetmish yetti",
+      "uzbek": "17",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "94 − 77 = 17",
+      "example_uz": "94 − 77 = 17 (Toʻqson toʻrt ayiruv yetmish yetti — oʻn yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "150 − 61 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ellik ayiruv oltmish bir",
+      "uzbek": "89",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "150 − 61 = 89",
+      "example_uz": "150 − 61 = 89 (Yuz ellik ayiruv oltmish bir — sakson toʻqqiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "112 − 70 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻn ikki ayiruv yetmish",
+      "uzbek": "42",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "112 − 70 = 42",
+      "example_uz": "112 − 70 = 42 (Yuz oʻn ikki ayiruv yetmish — qirq ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "41 − 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq bir ayiruv yigirma ikki",
+      "uzbek": "19",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "41 − 22 = 19",
+      "example_uz": "41 − 22 = 19 (Qirq bir ayiruv yigirma ikki — oʻn toʻqqiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "51 − 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik bir ayiruv yigirma toʻrt",
+      "uzbek": "27",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "51 − 24 = 27",
+      "example_uz": "51 − 24 = 27 (Ellik bir ayiruv yigirma toʻrt — yigirma yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "126 − 31 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma olti ayiruv oʻttiz bir",
+      "uzbek": "95",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "126 − 31 = 95",
+      "example_uz": "126 − 31 = 95 (Yuz yigirma olti ayiruv oʻttiz bir — toʻqson besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "130 − 112 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz ayiruv yuz oʻn ikki",
+      "uzbek": "18",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "130 − 112 = 18",
+      "example_uz": "130 − 112 = 18 (Yuz oʻttiz ayiruv yuz oʻn ikki — oʻn sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "91 − 33 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson bir ayiruv oʻttiz uch",
+      "uzbek": "58",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "91 − 33 = 58",
+      "example_uz": "91 − 33 = 58 (Toʻqson bir ayiruv oʻttiz uch — ellik sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "99 − 33 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson toʻqqiz ayiruv oʻttiz uch",
+      "uzbek": "66",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "99 − 33 = 66",
+      "example_uz": "99 − 33 = 66 (Toʻqson toʻqqiz ayiruv oʻttiz uch — oltmish olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "39 − 14 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz toʻqqiz ayiruv oʻn toʻrt",
+      "uzbek": "25",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "39 − 14 = 25",
+      "example_uz": "39 − 14 = 25 (Oʻttiz toʻqqiz ayiruv oʻn toʻrt — yigirma besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "37 − 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz yetti ayiruv oʻn olti",
+      "uzbek": "21",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "37 − 16 = 21",
+      "example_uz": "37 − 16 = 21 (Oʻttiz yetti ayiruv oʻn olti — yigirma bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "95 − 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson besh ayiruv oltmish toʻrt",
+      "uzbek": "31",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "95 − 64 = 31",
+      "example_uz": "95 − 64 = 31 (Toʻqson besh ayiruv oltmish toʻrt — oʻttiz bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "45 − 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq besh ayiruv qirq",
+      "uzbek": "5",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "45 − 40 = 5",
+      "example_uz": "45 − 40 = 5 (Qirq besh ayiruv qirq — besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "89 − 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson toʻqqiz ayiruv yigirma ikki",
+      "uzbek": "67",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "89 − 22 = 67",
+      "example_uz": "89 − 22 = 67 (Sakson toʻqqiz ayiruv yigirma ikki — oltmish yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "53 − 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik uch ayiruv oʻttiz",
+      "uzbek": "23",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "53 − 30 = 23",
+      "example_uz": "53 − 30 = 23 (Ellik uch ayiruv oʻttiz — yigirma uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "114 − 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻn toʻrt ayiruv oʻn bir",
+      "uzbek": "103",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "114 − 11 = 103",
+      "example_uz": "114 − 11 = 103 (Yuz oʻn toʻrt ayiruv oʻn bir — yuz uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "83 − 53 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson uch ayiruv ellik uch",
+      "uzbek": "30",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "83 − 53 = 30",
+      "example_uz": "83 − 53 = 30 (Sakson uch ayiruv ellik uch — oʻttiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "52 − 44 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik ikki ayiruv qirq toʻrt",
+      "uzbek": "8",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "52 − 44 = 8",
+      "example_uz": "52 − 44 = 8 (Ellik ikki ayiruv qirq toʻrt — sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "86 − 36 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson olti ayiruv oʻttiz olti",
+      "uzbek": "50",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "86 − 36 = 50",
+      "example_uz": "86 − 36 = 50 (Sakson olti ayiruv oʻttiz olti — ellik)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "150 − 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ellik ayiruv yigirma besh",
+      "uzbek": "125",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "150 − 25 = 125",
+      "example_uz": "150 − 25 = 125 (Yuz ellik ayiruv yigirma besh — yuz yigirma besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "116 − 38 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻn olti ayiruv oʻttiz sakkiz",
+      "uzbek": "78",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "116 − 38 = 78",
+      "example_uz": "116 − 38 = 78 (Yuz oʻn olti ayiruv oʻttiz sakkiz — yetmish sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "91 − 43 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson bir ayiruv qirq uch",
+      "uzbek": "48",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "91 − 43 = 48",
+      "example_uz": "91 − 43 = 48 (Toʻqson bir ayiruv qirq uch — qirq sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "104 − 62 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz toʻrt ayiruv oltmish ikki",
+      "uzbek": "42",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "104 − 62 = 42",
+      "example_uz": "104 − 62 = 42 (Yuz toʻrt ayiruv oltmish ikki — qirq ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "140 − 108 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq ayiruv yuz sakkiz",
+      "uzbek": "32",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "140 − 108 = 32",
+      "example_uz": "140 − 108 = 32 (Yuz qirq ayiruv yuz sakkiz — oʻttiz ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "51 − 33 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik bir ayiruv oʻttiz uch",
+      "uzbek": "18",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "51 − 33 = 18",
+      "example_uz": "51 − 33 = 18 (Ellik bir ayiruv oʻttiz uch — oʻn sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "123 − 71 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma uch ayiruv yetmish bir",
+      "uzbek": "52",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "123 − 71 = 52",
+      "example_uz": "123 − 71 = 52 (Yuz yigirma uch ayiruv yetmish bir — ellik ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "42 − 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq ikki ayiruv oʻn besh",
+      "uzbek": "27",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "42 − 15 = 27",
+      "example_uz": "42 − 15 = 27 (Qirq ikki ayiruv oʻn besh — yigirma yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "129 − 121 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma toʻqqiz ayiruv yuz yigirma bir",
+      "uzbek": "8",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "129 − 121 = 8",
+      "example_uz": "129 − 121 = 8 (Yuz yigirma toʻqqiz ayiruv yuz yigirma bir — sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "126 − 87 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma olti ayiruv sakson yetti",
+      "uzbek": "39",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "126 − 87 = 39",
+      "example_uz": "126 − 87 = 39 (Yuz yigirma olti ayiruv sakson yetti — oʻttiz toʻqqiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "134 − 106 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz toʻrt ayiruv yuz olti",
+      "uzbek": "28",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "134 − 106 = 28",
+      "example_uz": "134 − 106 = 28 (Yuz oʻttiz toʻrt ayiruv yuz olti — yigirma sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "54 − 49 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻrt ayiruv qirq toʻqqiz",
+      "uzbek": "5",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "54 − 49 = 5",
+      "example_uz": "54 − 49 = 5 (Ellik toʻrt ayiruv qirq toʻqqiz — besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "87 − 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson yetti ayiruv yigirma olti",
+      "uzbek": "61",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "87 − 26 = 61",
+      "example_uz": "87 − 26 = 61 (Sakson yetti ayiruv yigirma olti — oltmish bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "47 − 18 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq yetti ayiruv oʻn sakkiz",
+      "uzbek": "29",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "47 − 18 = 29",
+      "example_uz": "47 − 18 = 29 (Qirq yetti ayiruv oʻn sakkiz — yigirma toʻqqiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "53 − 29 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik uch ayiruv yigirma toʻqqiz",
+      "uzbek": "24",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "53 − 29 = 24",
+      "example_uz": "53 − 29 = 24 (Ellik uch ayiruv yigirma toʻqqiz — yigirma toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "57 − 22 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik yetti ayiruv yigirma ikki",
+      "uzbek": "35",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "57 − 22 = 35",
+      "example_uz": "57 − 22 = 35 (Ellik yetti ayiruv yigirma ikki — oʻttiz besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "87 − 29 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson yetti ayiruv yigirma toʻqqiz",
+      "uzbek": "58",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "87 − 29 = 58",
+      "example_uz": "87 − 29 = 58 (Sakson yetti ayiruv yigirma toʻqqiz — ellik sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "61 − 46 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish bir ayiruv qirq olti",
+      "uzbek": "15",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "61 − 46 = 15",
+      "example_uz": "61 − 46 = 15 (Oltmish bir ayiruv qirq olti — oʻn besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "75 − 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish besh ayiruv oltmish",
+      "uzbek": "15",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "75 − 60 = 15",
+      "example_uz": "75 − 60 = 15 (Yetmish besh ayiruv oltmish — oʻn besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "98 − 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson sakkiz ayiruv qirq",
+      "uzbek": "58",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "98 − 40 = 58",
+      "example_uz": "98 − 40 = 58 (Toʻqson sakkiz ayiruv qirq — ellik sakkiz)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "143 − 76 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq uch ayiruv yetmish olti",
+      "uzbek": "67",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "143 − 76 = 67",
+      "example_uz": "143 − 76 = 67 (Yuz qirq uch ayiruv yetmish olti — oltmish yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "50 − 34 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik ayiruv oʻttiz toʻrt",
+      "uzbek": "16",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "50 − 34 = 16",
+      "example_uz": "50 − 34 = 16 (Ellik ayiruv oʻttiz toʻrt — oʻn olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "58 − 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik sakkiz ayiruv oʻn besh",
+      "uzbek": "43",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "58 − 15 = 43",
+      "example_uz": "58 − 15 = 43 (Ellik sakkiz ayiruv oʻn besh — qirq uch)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "99 − 47 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson toʻqqiz ayiruv qirq yetti",
+      "uzbek": "52",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "99 − 47 = 52",
+      "example_uz": "99 − 47 = 52 (Toʻqson toʻqqiz ayiruv qirq yetti — ellik ikki)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "36 − 29 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz olti ayiruv yigirma toʻqqiz",
+      "uzbek": "7",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "36 − 29 = 7",
+      "example_uz": "36 − 29 = 7 (Oʻttiz olti ayiruv yigirma toʻqqiz — yetti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "141 − 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq bir ayiruv oʻn yetti",
+      "uzbek": "124",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "141 − 17 = 124",
+      "example_uz": "141 − 17 = 124 (Yuz qirq bir ayiruv oʻn yetti — yuz yigirma toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "78 − 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish sakkiz ayiruv yigirma toʻrt",
+      "uzbek": "54",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "78 − 24 = 54",
+      "example_uz": "78 − 24 = 54 (Yetmish sakkiz ayiruv yigirma toʻrt — ellik toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "83 − 62 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson uch ayiruv oltmish ikki",
+      "uzbek": "21",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "83 − 62 = 21",
+      "example_uz": "83 − 62 = 21 (Sakson uch ayiruv oltmish ikki — yigirma bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "78 − 63 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish sakkiz ayiruv oltmish uch",
+      "uzbek": "15",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "78 − 63 = 15",
+      "example_uz": "78 − 63 = 15 (Yetmish sakkiz ayiruv oltmish uch — oʻn besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "138 − 62 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz sakkiz ayiruv oltmish ikki",
+      "uzbek": "76",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "138 − 62 = 76",
+      "example_uz": "138 − 62 = 76 (Yuz oʻttiz sakkiz ayiruv oltmish ikki — yetmish olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "84 − 64 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson toʻrt ayiruv oltmish toʻrt",
+      "uzbek": "20",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "84 − 64 = 20",
+      "example_uz": "84 − 64 = 20 (Sakson toʻrt ayiruv oltmish toʻrt — yigirma)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "139 − 58 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz toʻqqiz ayiruv ellik sakkiz",
+      "uzbek": "81",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "139 − 58 = 81",
+      "example_uz": "139 − 58 = 81 (Yuz oʻttiz toʻqqiz ayiruv ellik sakkiz — sakson bir)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "58 − 13 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik sakkiz ayiruv oʻn uch",
+      "uzbek": "45",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "58 − 13 = 45",
+      "example_uz": "58 − 13 = 45 (Ellik sakkiz ayiruv oʻn uch — qirq besh)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "82 − 62 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson ikki ayiruv oltmish ikki",
+      "uzbek": "20",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "82 − 62 = 20",
+      "example_uz": "82 − 62 = 20 (Sakson ikki ayiruv oltmish ikki — yigirma)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "133 − 67 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻttiz uch ayiruv oltmish yetti",
+      "uzbek": "66",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "133 − 67 = 66",
+      "example_uz": "133 − 67 = 66 (Yuz oʻttiz uch ayiruv oltmish yetti — oltmish olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "64 − 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish toʻrt ayiruv oʻttiz",
+      "uzbek": "34",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "64 − 30 = 34",
+      "example_uz": "64 − 30 = 34 (Oltmish toʻrt ayiruv oʻttiz — oʻttiz toʻrt)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "144 − 68 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq toʻrt ayiruv oltmish sakkiz",
+      "uzbek": "76",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "144 − 68 = 76",
+      "example_uz": "144 − 68 = 76 (Yuz qirq toʻrt ayiruv oltmish sakkiz — yetmish olti)",
+      "category": "Ayirish"
+    },
+    {
+      "english": "118 − 103 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oʻn sakkiz ayiruv yuz uch",
+      "uzbek": "15",
+      "pos": "Ayirish • Aqliy hisob",
+      "example_en": "118 − 103 = 15",
+      "example_uz": "118 − 103 = 15 (Yuz oʻn sakkiz ayiruv yuz uch — oʻn besh)",
+      "category": "Ayirish"
+    }
+  ]
+}

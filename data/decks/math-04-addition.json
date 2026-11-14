@@ -1,0 +1,1508 @@
+{
+  "title": "Qoʻshish (Tezkor aqliy hisoblash)",
+  "category": "Qoʻshish (Tezkor aqliy hisoblash)",
+  "group": "math",
+  "badge": "+",
+  "words": [
+    {
+      "english": "15 + 28 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn besh qoʻshuv yigirma sakkiz",
+      "uzbek": "43",
+      "pos": "Qoʻshish amali",
+      "example_en": "15 + 28 = 43",
+      "example_uz": "15 + 28 = 43 (Oʻn besh qoʻshuv yigirma sakkiz — qirq uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "27 + 36 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma yetti qoʻshuv oʻttiz olti",
+      "uzbek": "63",
+      "pos": "Qoʻshish amali",
+      "example_en": "27 + 36 = 63",
+      "example_uz": "27 + 36 = 63 (Yigirma yetti qoʻshuv oʻttiz olti — oltmish uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "38 + 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz sakkiz qoʻshuv qirq besh",
+      "uzbek": "83",
+      "pos": "Qoʻshish amali",
+      "example_en": "38 + 45 = 83",
+      "example_uz": "38 + 45 = 83 (Oʻttiz sakkiz qoʻshuv qirq besh — sakson uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "47 + 38 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq yetti qoʻshuv oʻttiz sakkiz",
+      "uzbek": "85",
+      "pos": "Qoʻshish amali",
+      "example_en": "47 + 38 = 85",
+      "example_uz": "47 + 38 = 85 (Qirq yetti qoʻshuv oʻttiz sakkiz — sakson besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "56 + 78 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik olti qoʻshuv yetmish sakkiz",
+      "uzbek": "134",
+      "pos": "Qoʻshish amali",
+      "example_en": "56 + 78 = 134",
+      "example_uz": "56 + 78 = 134 (Ellik olti qoʻshuv yetmish sakkiz — yuz oʻttiz toʻrt)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "69 + 47 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish toʻqqiz qoʻshuv qirq yetti",
+      "uzbek": "116",
+      "pos": "Qoʻshish amali",
+      "example_en": "69 + 47 = 116",
+      "example_uz": "69 + 47 = 116 (Oltmish toʻqqiz qoʻshuv qirq yetti — yuz oʻn olti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "88 + 49 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson sakkiz qoʻshuv qirq toʻqqiz",
+      "uzbek": "137",
+      "pos": "Qoʻshish amali",
+      "example_en": "88 + 49 = 137",
+      "example_uz": "88 + 49 = 137 (Sakson sakkiz qoʻshuv qirq toʻqqiz — yuz oʻttiz yetti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "79 + 86 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish toʻqqiz qoʻshuv sakson olti",
+      "uzbek": "165",
+      "pos": "Qoʻshish amali",
+      "example_en": "79 + 86 = 165",
+      "example_uz": "79 + 86 = 165 (Yetmish toʻqqiz qoʻshuv sakson olti — yuz oltmish besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "95 + 68 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson besh qoʻshuv oltmish sakkiz",
+      "uzbek": "163",
+      "pos": "Qoʻshish amali",
+      "example_en": "95 + 68 = 163",
+      "example_uz": "95 + 68 = 163 (Toʻqson besh qoʻshuv oltmish sakkiz — yuz oltmish uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "34 + 57 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz toʻrt qoʻshuv ellik yetti",
+      "uzbek": "91",
+      "pos": "Qoʻshish amali",
+      "example_en": "34 + 57 = 91",
+      "example_uz": "34 + 57 = 91 (Oʻttiz toʻrt qoʻshuv ellik yetti — toʻqson bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "46 + 68 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq olti qoʻshuv oltmish sakkiz",
+      "uzbek": "114",
+      "pos": "Qoʻshish amali",
+      "example_en": "46 + 68 = 114",
+      "example_uz": "46 + 68 = 114 (Qirq olti qoʻshuv oltmish sakkiz — yuz oʻn toʻrt)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "58 + 74 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik sakkiz qoʻshuv yetmish toʻrt",
+      "uzbek": "132",
+      "pos": "Qoʻshish amali",
+      "example_en": "58 + 74 = 132",
+      "example_uz": "58 + 74 = 132 (Ellik sakkiz qoʻshuv yetmish toʻrt — yuz oʻttiz ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "67 + 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish yetti qoʻshuv sakson besh",
+      "uzbek": "152",
+      "pos": "Qoʻshish amali",
+      "example_en": "67 + 85 = 152",
+      "example_uz": "67 + 85 = 152 (Oltmish yetti qoʻshuv sakson besh — yuz ellik ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "78 + 93 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish sakkiz qoʻshuv toʻqson uch",
+      "uzbek": "171",
+      "pos": "Qoʻshish amali",
+      "example_en": "78 + 93 = 171",
+      "example_uz": "78 + 93 = 171 (Yetmish sakkiz qoʻshuv toʻqson uch — yuz yetmish bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "25 + 38 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma besh qoʻshuv oʻttiz sakkiz",
+      "uzbek": "63",
+      "pos": "Qoʻshish amali",
+      "example_en": "25 + 38 = 63",
+      "example_uz": "25 + 38 = 63 (Yigirma besh qoʻshuv oʻttiz sakkiz — oltmish uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "48 + 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq sakkiz qoʻshuv oʻttiz besh",
+      "uzbek": "83",
+      "pos": "Qoʻshish amali",
+      "example_en": "48 + 35 = 83",
+      "example_uz": "48 + 35 = 83 (Qirq sakkiz qoʻshuv oʻttiz besh — sakson uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "89 + 54 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson toʻqqiz qoʻshuv ellik toʻrt",
+      "uzbek": "143",
+      "pos": "Qoʻshish amali",
+      "example_en": "89 + 54 = 143",
+      "example_uz": "89 + 54 = 143 (Sakson toʻqqiz qoʻshuv ellik toʻrt — yuz qirq uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "64 + 49 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish toʻrt qoʻshuv qirq toʻqqiz",
+      "uzbek": "113",
+      "pos": "Qoʻshish amali",
+      "example_en": "64 + 49 = 113",
+      "example_uz": "64 + 49 = 113 (Oltmish toʻrt qoʻshuv qirq toʻqqiz — yuz oʻn uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "57 + 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik yetti qoʻshuv oltmish besh",
+      "uzbek": "122",
+      "pos": "Qoʻshish amali",
+      "example_en": "57 + 65 = 122",
+      "example_uz": "57 + 65 = 122 (Ellik yetti qoʻshuv oltmish besh — yuz yigirma ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "76 + 58 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish olti qoʻshuv ellik sakkiz",
+      "uzbek": "134",
+      "pos": "Qoʻshish amali",
+      "example_en": "76 + 58 = 134",
+      "example_uz": "76 + 58 = 134 (Yetmish olti qoʻshuv ellik sakkiz — yuz oʻttiz toʻrt)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "87 + 46 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson yetti qoʻshuv qirq olti",
+      "uzbek": "133",
+      "pos": "Qoʻshish amali",
+      "example_en": "87 + 46 = 133",
+      "example_uz": "87 + 46 = 133 (Sakson yetti qoʻshuv qirq olti — yuz oʻttiz uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "94 + 38 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson toʻrt qoʻshuv oʻttiz sakkiz",
+      "uzbek": "132",
+      "pos": "Qoʻshish amali",
+      "example_en": "94 + 38 = 132",
+      "example_uz": "94 + 38 = 132 (Toʻqson toʻrt qoʻshuv oʻttiz sakkiz — yuz oʻttiz ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "63 + 79 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish uch qoʻshuv yetmish toʻqqiz",
+      "uzbek": "142",
+      "pos": "Qoʻshish amali",
+      "example_en": "63 + 79 = 142",
+      "example_uz": "63 + 79 = 142 (Oltmish uch qoʻshuv yetmish toʻqqiz — yuz qirq ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "72 + 89 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish ikki qoʻshuv sakson toʻqqiz",
+      "uzbek": "161",
+      "pos": "Qoʻshish amali",
+      "example_en": "72 + 89 = 161",
+      "example_uz": "72 + 89 = 161 (Yetmish ikki qoʻshuv sakson toʻqqiz — yuz oltmish bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "85 + 96 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson besh qoʻshuv toʻqson olti",
+      "uzbek": "181",
+      "pos": "Qoʻshish amali",
+      "example_en": "85 + 96 = 181",
+      "example_uz": "85 + 96 = 181 (Sakson besh qoʻshuv toʻqson olti — yuz sakson bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "49 + 73 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq toʻqqiz qoʻshuv yetmish uch",
+      "uzbek": "122",
+      "pos": "Qoʻshish amali",
+      "example_en": "49 + 73 = 122",
+      "example_uz": "49 + 73 = 122 (Qirq toʻqqiz qoʻshuv yetmish uch — yuz yigirma ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "53 + 88 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik uch qoʻshuv sakson sakkiz",
+      "uzbek": "141",
+      "pos": "Qoʻshish amali",
+      "example_en": "53 + 88 = 141",
+      "example_uz": "53 + 88 = 141 (Ellik uch qoʻshuv sakson sakkiz — yuz qirq bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "66 + 77 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish olti qoʻshuv yetmish yetti",
+      "uzbek": "143",
+      "pos": "Qoʻshish amali",
+      "example_en": "66 + 77 = 143",
+      "example_uz": "66 + 77 = 143 (Oltmish olti qoʻshuv yetmish yetti — yuz qirq uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "18 + 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn sakkiz qoʻshuv qirq besh",
+      "uzbek": "63",
+      "pos": "Qoʻshish amali",
+      "example_en": "18 + 45 = 63",
+      "example_uz": "18 + 45 = 63 (Oʻn sakkiz qoʻshuv qirq besh — oltmish uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "29 + 63 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻqqiz qoʻshuv oltmish uch",
+      "uzbek": "92",
+      "pos": "Qoʻshish amali",
+      "example_en": "29 + 63 = 92",
+      "example_uz": "29 + 63 = 92 (Yigirma toʻqqiz qoʻshuv oltmish uch — toʻqson ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "37 + 54 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz yetti qoʻshuv ellik toʻrt",
+      "uzbek": "91",
+      "pos": "Qoʻshish amali",
+      "example_en": "37 + 54 = 91",
+      "example_uz": "37 + 54 = 91 (Oʻttiz yetti qoʻshuv ellik toʻrt — toʻqson bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "48 + 67 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq sakkiz qoʻshuv oltmish yetti",
+      "uzbek": "115",
+      "pos": "Qoʻshish amali",
+      "example_en": "48 + 67 = 115",
+      "example_uz": "48 + 67 = 115 (Qirq sakkiz qoʻshuv oltmish yetti — yuz oʻn besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "59 + 72 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻqqiz qoʻshuv yetmish ikki",
+      "uzbek": "131",
+      "pos": "Qoʻshish amali",
+      "example_en": "59 + 72 = 131",
+      "example_uz": "59 + 72 = 131 (Ellik toʻqqiz qoʻshuv yetmish ikki — yuz oʻttiz bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "68 + 83 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish sakkiz qoʻshuv sakson uch",
+      "uzbek": "151",
+      "pos": "Qoʻshish amali",
+      "example_en": "68 + 83 = 151",
+      "example_uz": "68 + 83 = 151 (Oltmish sakkiz qoʻshuv sakson uch — yuz ellik bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "74 + 59 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish toʻrt qoʻshuv ellik toʻqqiz",
+      "uzbek": "133",
+      "pos": "Qoʻshish amali",
+      "example_en": "74 + 59 = 133",
+      "example_uz": "74 + 59 = 133 (Yetmish toʻrt qoʻshuv ellik toʻqqiz — yuz oʻttiz uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "75 + 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish besh qoʻshuv yigirma besh",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "75 + 25 = 100",
+      "example_uz": "75 + 25 = 100 (Yetmish besh qoʻshuv yigirma besh — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "65 + 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish besh qoʻshuv oʻttiz besh",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "65 + 35 = 100",
+      "example_uz": "65 + 35 = 100 (Oltmish besh qoʻshuv oʻttiz besh — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "55 + 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik besh qoʻshuv qirq besh",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "55 + 45 = 100",
+      "example_uz": "55 + 45 = 100 (Ellik besh qoʻshuv qirq besh — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "85 + 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson besh qoʻshuv oʻn besh",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "85 + 15 = 100",
+      "example_uz": "85 + 15 = 100 (Sakson besh qoʻshuv oʻn besh — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "95 + 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson besh qoʻshuv besh",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "95 + 5 = 100",
+      "example_uz": "95 + 5 = 100 (Toʻqson besh qoʻshuv besh — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "68 + 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish sakkiz qoʻshuv oʻttiz ikki",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "68 + 32 = 100",
+      "example_uz": "68 + 32 = 100 (Oltmish sakkiz qoʻshuv oʻttiz ikki — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "74 + 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish toʻrt qoʻshuv yigirma olti",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "74 + 26 = 100",
+      "example_uz": "74 + 26 = 100 (Yetmish toʻrt qoʻshuv yigirma olti — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "58 + 42 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik sakkiz qoʻshuv qirq ikki",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "58 + 42 = 100",
+      "example_uz": "58 + 42 = 100 (Ellik sakkiz qoʻshuv qirq ikki — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "63 + 37 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish uch qoʻshuv oʻttiz yetti",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "63 + 37 = 100",
+      "example_uz": "63 + 37 = 100 (Oltmish uch qoʻshuv oʻttiz yetti — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "71 + 29 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish bir qoʻshuv yigirma toʻqqiz",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "71 + 29 = 100",
+      "example_uz": "71 + 29 = 100 (Yetmish bir qoʻshuv yigirma toʻqqiz — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "83 + 17 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson uch qoʻshuv oʻn yetti",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "83 + 17 = 100",
+      "example_uz": "83 + 17 = 100 (Sakson uch qoʻshuv oʻn yetti — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "77 + 23 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish yetti qoʻshuv yigirma uch",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "77 + 23 = 100",
+      "example_uz": "77 + 23 = 100 (Yetmish yetti qoʻshuv yigirma uch — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "89 + 11 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson toʻqqiz qoʻshuv oʻn bir",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "89 + 11 = 100",
+      "example_uz": "89 + 11 = 100 (Sakson toʻqqiz qoʻshuv oʻn bir — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "92 + 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson ikki qoʻshuv sakkiz",
+      "uzbek": "100",
+      "pos": "Qoʻshish amali",
+      "example_en": "92 + 8 = 100",
+      "example_uz": "92 + 8 = 100 (Toʻqson ikki qoʻshuv sakkiz — yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "125 + 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma besh qoʻshuv yetmish besh",
+      "uzbek": "200",
+      "pos": "Qoʻshish amali",
+      "example_en": "125 + 75 = 200",
+      "example_uz": "125 + 75 = 200 (Yuz yigirma besh qoʻshuv yetmish besh — ikki yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "145 + 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq besh qoʻshuv ellik besh",
+      "uzbek": "200",
+      "pos": "Qoʻshish amali",
+      "example_en": "145 + 55 = 200",
+      "example_uz": "145 + 55 = 200 (Yuz qirq besh qoʻshuv ellik besh — ikki yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "168 + 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oltmish sakkiz qoʻshuv oʻttiz ikki",
+      "uzbek": "200",
+      "pos": "Qoʻshish amali",
+      "example_en": "168 + 32 = 200",
+      "example_uz": "168 + 32 = 200 (Yuz oltmish sakkiz qoʻshuv oʻttiz ikki — ikki yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "185 + 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz sakson besh qoʻshuv qirq besh",
+      "uzbek": "230",
+      "pos": "Qoʻshish amali",
+      "example_en": "185 + 45 = 230",
+      "example_uz": "185 + 45 = 230 (Yuz sakson besh qoʻshuv qirq besh — ikki yuz oʻttiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "235 + 65 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz oʻttiz besh qoʻshuv oltmish besh",
+      "uzbek": "300",
+      "pos": "Qoʻshish amali",
+      "example_en": "235 + 65 = 300",
+      "example_uz": "235 + 65 = 300 (Ikki yuz oʻttiz besh qoʻshuv oltmish besh — uch yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "275 + 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz yetmish besh qoʻshuv qirq besh",
+      "uzbek": "320",
+      "pos": "Qoʻshish amali",
+      "example_en": "275 + 45 = 320",
+      "example_uz": "275 + 45 = 320 (Ikki yuz yetmish besh qoʻshuv qirq besh — uch yuz yigirma)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "345 + 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz qirq besh qoʻshuv ellik besh",
+      "uzbek": "400",
+      "pos": "Qoʻshish amali",
+      "example_en": "345 + 55 = 400",
+      "example_uz": "345 + 55 = 400 (Uch yuz qirq besh qoʻshuv ellik besh — toʻrt yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "380 + 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz sakson qoʻshuv qirq besh",
+      "uzbek": "425",
+      "pos": "Qoʻshish amali",
+      "example_en": "380 + 45 = 425",
+      "example_uz": "380 + 45 = 425 (Uch yuz sakson qoʻshuv qirq besh — toʻrt yuz yigirma besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "425 + 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz yigirma besh qoʻshuv yetmish besh",
+      "uzbek": "500",
+      "pos": "Qoʻshish amali",
+      "example_en": "425 + 75 = 500",
+      "example_uz": "425 + 75 = 500 (Toʻrt yuz yigirma besh qoʻshuv yetmish besh — besh yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "480 + 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz sakson qoʻshuv yigirma besh",
+      "uzbek": "505",
+      "pos": "Qoʻshish amali",
+      "example_en": "480 + 25 = 505",
+      "example_uz": "480 + 25 = 505 (Toʻrt yuz sakson qoʻshuv yigirma besh — besh yuz besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "520 + 80 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz yigirma qoʻshuv sakson",
+      "uzbek": "600",
+      "pos": "Qoʻshish amali",
+      "example_en": "520 + 80 = 600",
+      "example_uz": "520 + 80 = 600 (Besh yuz yigirma qoʻshuv sakson — olti yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "565 + 35 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz oltmish besh qoʻshuv oʻttiz besh",
+      "uzbek": "600",
+      "pos": "Qoʻshish amali",
+      "example_en": "565 + 35 = 600",
+      "example_uz": "565 + 35 = 600 (Besh yuz oltmish besh qoʻshuv oʻttiz besh — olti yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "615 + 85 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz oʻn besh qoʻshuv sakson besh",
+      "uzbek": "700",
+      "pos": "Qoʻshish amali",
+      "example_en": "615 + 85 = 700",
+      "example_uz": "615 + 85 = 700 (Olti yuz oʻn besh qoʻshuv sakson besh — yetti yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "680 + 40 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz sakson qoʻshuv qirq",
+      "uzbek": "720",
+      "pos": "Qoʻshish amali",
+      "example_en": "680 + 40 = 720",
+      "example_uz": "680 + 40 = 720 (Olti yuz sakson qoʻshuv qirq — yetti yuz yigirma)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "725 + 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz yigirma besh qoʻshuv yetmish besh",
+      "uzbek": "800",
+      "pos": "Qoʻshish amali",
+      "example_en": "725 + 75 = 800",
+      "example_uz": "725 + 75 = 800 (Yetti yuz yigirma besh qoʻshuv yetmish besh — sakkiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "790 + 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz toʻqson qoʻshuv oʻttiz",
+      "uzbek": "820",
+      "pos": "Qoʻshish amali",
+      "example_en": "790 + 30 = 820",
+      "example_uz": "790 + 30 = 820 (Yetti yuz toʻqson qoʻshuv oʻttiz — sakkiz yuz yigirma)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "845 + 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz qirq besh qoʻshuv ellik besh",
+      "uzbek": "900",
+      "pos": "Qoʻshish amali",
+      "example_en": "845 + 55 = 900",
+      "example_uz": "845 + 55 = 900 (Sakkiz yuz qirq besh qoʻshuv ellik besh — toʻqqiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "875 + 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz yetmish besh qoʻshuv yigirma besh",
+      "uzbek": "900",
+      "pos": "Qoʻshish amali",
+      "example_en": "875 + 25 = 900",
+      "example_uz": "875 + 25 = 900 (Sakkiz yuz yetmish besh qoʻshuv yigirma besh — toʻqqiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "910 + 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz yuz oʻn qoʻshuv toʻqson",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "910 + 90 = 1000",
+      "example_uz": "910 + 90 = 1000 (Toʻqqiz yuz oʻn qoʻshuv toʻqson — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "950 + 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz yuz ellik qoʻshuv ellik",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "950 + 50 = 1000",
+      "example_uz": "950 + 50 = 1000 (Toʻqqiz yuz ellik qoʻshuv ellik — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "125 + 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma besh qoʻshuv yuz yigirma besh",
+      "uzbek": "250",
+      "pos": "Qoʻshish amali",
+      "example_en": "125 + 125 = 250",
+      "example_uz": "125 + 125 = 250 (Yuz yigirma besh qoʻshuv yuz yigirma besh — ikki yuz ellik)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "150 + 150 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ellik qoʻshuv yuz ellik",
+      "uzbek": "300",
+      "pos": "Qoʻshish amali",
+      "example_en": "150 + 150 = 300",
+      "example_uz": "150 + 150 = 300 (Yuz ellik qoʻshuv yuz ellik — uch yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "175 + 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yetmish besh qoʻshuv yuz yigirma besh",
+      "uzbek": "300",
+      "pos": "Qoʻshish amali",
+      "example_en": "175 + 125 = 300",
+      "example_uz": "175 + 125 = 300 (Yuz yetmish besh qoʻshuv yuz yigirma besh — uch yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "225 + 175 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz yigirma besh qoʻshuv yuz yetmish besh",
+      "uzbek": "400",
+      "pos": "Qoʻshish amali",
+      "example_en": "225 + 175 = 400",
+      "example_uz": "225 + 175 = 400 (Ikki yuz yigirma besh qoʻshuv yuz yetmish besh — toʻrt yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "240 + 380 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz qirq qoʻshuv uch yuz sakson",
+      "uzbek": "620",
+      "pos": "Qoʻshish amali",
+      "example_en": "240 + 380 = 620",
+      "example_uz": "240 + 380 = 620 (Ikki yuz qirq qoʻshuv uch yuz sakson — olti yuz yigirma)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "250 + 250 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ellik qoʻshuv ikki yuz ellik",
+      "uzbek": "500",
+      "pos": "Qoʻshish amali",
+      "example_en": "250 + 250 = 500",
+      "example_uz": "250 + 250 = 500 (Ikki yuz ellik qoʻshuv ikki yuz ellik — besh yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "275 + 225 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz yetmish besh qoʻshuv ikki yuz yigirma besh",
+      "uzbek": "500",
+      "pos": "Qoʻshish amali",
+      "example_en": "275 + 225 = 500",
+      "example_uz": "275 + 225 = 500 (Ikki yuz yetmish besh qoʻshuv ikki yuz yigirma besh — besh yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "320 + 280 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz yigirma qoʻshuv ikki yuz sakson",
+      "uzbek": "600",
+      "pos": "Qoʻshish amali",
+      "example_en": "320 + 280 = 600",
+      "example_uz": "320 + 280 = 600 (Uch yuz yigirma qoʻshuv ikki yuz sakson — olti yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "345 + 180 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz qirq besh qoʻshuv yuz sakson",
+      "uzbek": "525",
+      "pos": "Qoʻshish amali",
+      "example_en": "345 + 180 = 525",
+      "example_uz": "345 + 180 = 525 (Uch yuz qirq besh qoʻshuv yuz sakson — besh yuz yigirma besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "350 + 270 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz ellik qoʻshuv ikki yuz yetmish",
+      "uzbek": "620",
+      "pos": "Qoʻshish amali",
+      "example_en": "350 + 270 = 620",
+      "example_uz": "350 + 270 = 620 (Uch yuz ellik qoʻshuv ikki yuz yetmish — olti yuz yigirma)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "375 + 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz yetmish besh qoʻshuv yuz yigirma besh",
+      "uzbek": "500",
+      "pos": "Qoʻshish amali",
+      "example_en": "375 + 125 = 500",
+      "example_uz": "375 + 125 = 500 (Uch yuz yetmish besh qoʻshuv yuz yigirma besh — besh yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "420 + 380 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz yigirma qoʻshuv uch yuz sakson",
+      "uzbek": "800",
+      "pos": "Qoʻshish amali",
+      "example_en": "420 + 380 = 800",
+      "example_uz": "420 + 380 = 800 (Toʻrt yuz yigirma qoʻshuv uch yuz sakson — sakkiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "450 + 350 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz ellik qoʻshuv uch yuz ellik",
+      "uzbek": "800",
+      "pos": "Qoʻshish amali",
+      "example_en": "450 + 350 = 800",
+      "example_uz": "450 + 350 = 800 (Toʻrt yuz ellik qoʻshuv uch yuz ellik — sakkiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "475 + 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz yetmish besh qoʻshuv yuz yigirma besh",
+      "uzbek": "600",
+      "pos": "Qoʻshish amali",
+      "example_en": "475 + 125 = 600",
+      "example_uz": "475 + 125 = 600 (Toʻrt yuz yetmish besh qoʻshuv yuz yigirma besh — olti yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "520 + 480 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz yigirma qoʻshuv toʻrt yuz sakson",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "520 + 480 = 1000",
+      "example_uz": "520 + 480 = 1000 (Besh yuz yigirma qoʻshuv toʻrt yuz sakson — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "550 + 450 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz ellik qoʻshuv toʻrt yuz ellik",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "550 + 450 = 1000",
+      "example_uz": "550 + 450 = 1000 (Besh yuz ellik qoʻshuv toʻrt yuz ellik — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "580 + 220 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz sakson qoʻshuv ikki yuz yigirma",
+      "uzbek": "800",
+      "pos": "Qoʻshish amali",
+      "example_en": "580 + 220 = 800",
+      "example_uz": "580 + 220 = 800 (Besh yuz sakson qoʻshuv ikki yuz yigirma — sakkiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "620 + 380 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz yigirma qoʻshuv uch yuz sakson",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "620 + 380 = 1000",
+      "example_uz": "620 + 380 = 1000 (Olti yuz yigirma qoʻshuv uch yuz sakson — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "650 + 350 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz ellik qoʻshuv uch yuz ellik",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "650 + 350 = 1000",
+      "example_uz": "650 + 350 = 1000 (Olti yuz ellik qoʻshuv uch yuz ellik — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "675 + 225 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz yetmish besh qoʻshuv ikki yuz yigirma besh",
+      "uzbek": "900",
+      "pos": "Qoʻshish amali",
+      "example_en": "675 + 225 = 900",
+      "example_uz": "675 + 225 = 900 (Olti yuz yetmish besh qoʻshuv ikki yuz yigirma besh — toʻqqiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "680 + 320 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz sakson qoʻshuv uch yuz yigirma",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "680 + 320 = 1000",
+      "example_uz": "680 + 320 = 1000 (Olti yuz sakson qoʻshuv uch yuz yigirma — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "720 + 280 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz yigirma qoʻshuv ikki yuz sakson",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "720 + 280 = 1000",
+      "example_uz": "720 + 280 = 1000 (Yetti yuz yigirma qoʻshuv ikki yuz sakson — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "750 + 250 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz ellik qoʻshuv ikki yuz ellik",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "750 + 250 = 1000",
+      "example_uz": "750 + 250 = 1000 (Yetti yuz ellik qoʻshuv ikki yuz ellik — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "775 + 125 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz yetmish besh qoʻshuv yuz yigirma besh",
+      "uzbek": "900",
+      "pos": "Qoʻshish amali",
+      "example_en": "775 + 125 = 900",
+      "example_uz": "775 + 125 = 900 (Yetti yuz yetmish besh qoʻshuv yuz yigirma besh — toʻqqiz yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "820 + 180 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz yigirma qoʻshuv yuz sakson",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "820 + 180 = 1000",
+      "example_uz": "820 + 180 = 1000 (Sakkiz yuz yigirma qoʻshuv yuz sakson — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "850 + 150 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz ellik qoʻshuv yuz ellik",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "850 + 150 = 1000",
+      "example_uz": "850 + 150 = 1000 (Sakkiz yuz ellik qoʻshuv yuz ellik — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "880 + 120 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz sakson qoʻshuv yuz yigirma",
+      "uzbek": "1000",
+      "pos": "Qoʻshish amali",
+      "example_en": "880 + 120 = 1000",
+      "example_uz": "880 + 120 = 1000 (Sakkiz yuz sakson qoʻshuv yuz yigirma — ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "950 + 150 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz yuz ellik qoʻshuv yuz ellik",
+      "uzbek": "1100",
+      "pos": "Qoʻshish amali",
+      "example_en": "950 + 150 = 1100",
+      "example_uz": "950 + 150 = 1100 (Toʻqqiz yuz ellik qoʻshuv yuz ellik — ming yuz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "1200 + 800 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ikki yuz qoʻshuv sakkiz yuz",
+      "uzbek": "2000",
+      "pos": "Qoʻshish amali",
+      "example_en": "1200 + 800 = 2000",
+      "example_uz": "1200 + 800 = 2000 (Ming ikki yuz qoʻshuv sakkiz yuz — ikki ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "1500 + 1500 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming besh yuz qoʻshuv ming besh yuz",
+      "uzbek": "3000",
+      "pos": "Qoʻshish amali",
+      "example_en": "1500 + 1500 = 3000",
+      "example_uz": "1500 + 1500 = 3000 (Ming besh yuz qoʻshuv ming besh yuz — uch ming)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "35 + 24 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz besh qoʻshuv yigirma toʻrt",
+      "uzbek": "59",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "35 + 24 = 59",
+      "example_uz": "35 + 24 = 59 (Oʻttiz besh qoʻshuv yigirma toʻrt — ellik toʻqqiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "56 + 52 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik olti qoʻshuv ellik ikki",
+      "uzbek": "108",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "56 + 52 = 108",
+      "example_uz": "56 + 52 = 108 (Ellik olti qoʻshuv ellik ikki — yuz sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "49 + 38 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq toʻqqiz qoʻshuv oʻttiz sakkiz",
+      "uzbek": "87",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "49 + 38 = 87",
+      "example_uz": "49 + 38 = 87 (Qirq toʻqqiz qoʻshuv oʻttiz sakkiz — sakson yetti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "34 + 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz toʻrt qoʻshuv toʻqson",
+      "uzbek": "124",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "34 + 90 = 124",
+      "example_uz": "34 + 90 = 124 (Oʻttiz toʻrt qoʻshuv toʻqson — yuz yigirma toʻrt)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "32 + 96 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz ikki qoʻshuv toʻqson olti",
+      "uzbek": "128",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "32 + 96 = 128",
+      "example_uz": "32 + 96 = 128 (Oʻttiz ikki qoʻshuv toʻqson olti — yuz yigirma sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "24 + 32 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻrt qoʻshuv oʻttiz ikki",
+      "uzbek": "56",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "24 + 32 = 56",
+      "example_uz": "24 + 32 = 56 (Yigirma toʻrt qoʻshuv oʻttiz ikki — ellik olti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "48 + 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq sakkiz qoʻshuv ellik",
+      "uzbek": "98",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "48 + 50 = 98",
+      "example_uz": "48 + 50 = 98 (Qirq sakkiz qoʻshuv ellik — toʻqson sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "85 + 98 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson besh qoʻshuv toʻqson sakkiz",
+      "uzbek": "183",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "85 + 98 = 183",
+      "example_uz": "85 + 98 = 183 (Sakson besh qoʻshuv toʻqson sakkiz — yuz sakson uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "24 + 92 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻrt qoʻshuv toʻqson ikki",
+      "uzbek": "116",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "24 + 92 = 116",
+      "example_uz": "24 + 92 = 116 (Yigirma toʻrt qoʻshuv toʻqson ikki — yuz oʻn olti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "46 + 90 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq olti qoʻshuv toʻqson",
+      "uzbek": "136",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "46 + 90 = 136",
+      "example_uz": "46 + 90 = 136 (Qirq olti qoʻshuv toʻqson — yuz oʻttiz olti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "74 + 49 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish toʻrt qoʻshuv qirq toʻqqiz",
+      "uzbek": "123",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "74 + 49 = 123",
+      "example_uz": "74 + 49 = 123 (Yetmish toʻrt qoʻshuv qirq toʻqqiz — yuz yigirma uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "78 + 96 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish sakkiz qoʻshuv toʻqson olti",
+      "uzbek": "174",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "78 + 96 = 174",
+      "example_uz": "78 + 96 = 174 (Yetmish sakkiz qoʻshuv toʻqson olti — yuz yetmish toʻrt)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "56 + 21 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik olti qoʻshuv yigirma bir",
+      "uzbek": "77",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "56 + 21 = 77",
+      "example_uz": "56 + 21 = 77 (Ellik olti qoʻshuv yigirma bir — yetmish yetti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "41 + 75 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq bir qoʻshuv yetmish besh",
+      "uzbek": "116",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "41 + 75 = 116",
+      "example_uz": "41 + 75 = 116 (Qirq bir qoʻshuv yetmish besh — yuz oʻn olti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "64 + 56 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish toʻrt qoʻshuv ellik olti",
+      "uzbek": "120",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "64 + 56 = 120",
+      "example_uz": "64 + 56 = 120 (Oltmish toʻrt qoʻshuv ellik olti — yuz yigirma)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "40 + 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq qoʻshuv qirq sakkiz",
+      "uzbek": "88",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "40 + 48 = 88",
+      "example_uz": "40 + 48 = 88 (Qirq qoʻshuv qirq sakkiz — sakson sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "64 + 34 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish toʻrt qoʻshuv oʻttiz toʻrt",
+      "uzbek": "98",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "64 + 34 = 98",
+      "example_uz": "64 + 34 = 98 (Oltmish toʻrt qoʻshuv oʻttiz toʻrt — toʻqson sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "32 + 69 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz ikki qoʻshuv oltmish toʻqqiz",
+      "uzbek": "101",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "32 + 69 = 101",
+      "example_uz": "32 + 69 = 101 (Oʻttiz ikki qoʻshuv oltmish toʻqqiz — yuz bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "33 + 66 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz uch qoʻshuv oltmish olti",
+      "uzbek": "99",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "33 + 66 = 99",
+      "example_uz": "33 + 66 = 99 (Oʻttiz uch qoʻshuv oltmish olti — toʻqson toʻqqiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "65 + 98 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish besh qoʻshuv toʻqson sakkiz",
+      "uzbek": "163",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "65 + 98 = 163",
+      "example_uz": "65 + 98 = 163 (Oltmish besh qoʻshuv toʻqson sakkiz — yuz oltmish uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "54 + 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻrt qoʻshuv yigirma olti",
+      "uzbek": "80",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "54 + 26 = 80",
+      "example_uz": "54 + 26 = 80 (Ellik toʻrt qoʻshuv yigirma olti — sakson)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "79 + 89 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish toʻqqiz qoʻshuv sakson toʻqqiz",
+      "uzbek": "168",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "79 + 89 = 168",
+      "example_uz": "79 + 89 = 168 (Yetmish toʻqqiz qoʻshuv sakson toʻqqiz — yuz oltmish sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "36 + 69 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz olti qoʻshuv oltmish toʻqqiz",
+      "uzbek": "105",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "36 + 69 = 105",
+      "example_uz": "36 + 69 = 105 (Oʻttiz olti qoʻshuv oltmish toʻqqiz — yuz besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "31 + 91 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz bir qoʻshuv toʻqson bir",
+      "uzbek": "122",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "31 + 91 = 122",
+      "example_uz": "31 + 91 = 122 (Oʻttiz bir qoʻshuv toʻqson bir — yuz yigirma ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "58 + 67 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik sakkiz qoʻshuv oltmish yetti",
+      "uzbek": "125",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "58 + 67 = 125",
+      "example_uz": "58 + 67 = 125 (Ellik sakkiz qoʻshuv oltmish yetti — yuz yigirma besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "94 + 45 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson toʻrt qoʻshuv qirq besh",
+      "uzbek": "139",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "94 + 45 = 139",
+      "example_uz": "94 + 45 = 139 (Toʻqson toʻrt qoʻshuv qirq besh — yuz oʻttiz toʻqqiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "29 + 26 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻqqiz qoʻshuv yigirma olti",
+      "uzbek": "55",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "29 + 26 = 55",
+      "example_uz": "29 + 26 = 55 (Yigirma toʻqqiz qoʻshuv yigirma olti — ellik besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "50 + 58 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik qoʻshuv ellik sakkiz",
+      "uzbek": "108",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "50 + 58 = 108",
+      "example_uz": "50 + 58 = 108 (Ellik qoʻshuv ellik sakkiz — yuz sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "31 + 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz bir qoʻshuv ellik",
+      "uzbek": "81",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "31 + 50 = 81",
+      "example_uz": "31 + 50 = 81 (Oʻttiz bir qoʻshuv ellik — sakson bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "33 + 69 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz uch qoʻshuv oltmish toʻqqiz",
+      "uzbek": "102",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "33 + 69 = 102",
+      "example_uz": "33 + 69 = 102 (Oʻttiz uch qoʻshuv oltmish toʻqqiz — yuz ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "56 + 79 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik olti qoʻshuv yetmish toʻqqiz",
+      "uzbek": "135",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "56 + 79 = 135",
+      "example_uz": "56 + 79 = 135 (Ellik olti qoʻshuv yetmish toʻqqiz — yuz oʻttiz besh)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "67 + 41 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish yetti qoʻshuv qirq bir",
+      "uzbek": "108",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "67 + 41 = 108",
+      "example_uz": "67 + 41 = 108 (Oltmish yetti qoʻshuv qirq bir — yuz sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "68 + 66 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish sakkiz qoʻshuv oltmish olti",
+      "uzbek": "134",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "68 + 66 = 134",
+      "example_uz": "68 + 66 = 134 (Oltmish sakkiz qoʻshuv oltmish olti — yuz oʻttiz toʻrt)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "47 + 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq yetti qoʻshuv ellik besh",
+      "uzbek": "102",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "47 + 55 = 102",
+      "example_uz": "47 + 55 = 102 (Qirq yetti qoʻshuv ellik besh — yuz ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "30 + 98 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz qoʻshuv toʻqson sakkiz",
+      "uzbek": "128",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "30 + 98 = 128",
+      "example_uz": "30 + 98 = 128 (Oʻttiz qoʻshuv toʻqson sakkiz — yuz yigirma sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "42 + 89 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq ikki qoʻshuv sakson toʻqqiz",
+      "uzbek": "131",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "42 + 89 = 131",
+      "example_uz": "42 + 89 = 131 (Qirq ikki qoʻshuv sakson toʻqqiz — yuz oʻttiz bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "52 + 41 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik ikki qoʻshuv qirq bir",
+      "uzbek": "93",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "52 + 41 = 93",
+      "example_uz": "52 + 41 = 93 (Ellik ikki qoʻshuv qirq bir — toʻqson uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "80 + 69 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson qoʻshuv oltmish toʻqqiz",
+      "uzbek": "149",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "80 + 69 = 149",
+      "example_uz": "80 + 69 = 149 (Sakson qoʻshuv oltmish toʻqqiz — yuz qirq toʻqqiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "55 + 92 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik besh qoʻshuv toʻqson ikki",
+      "uzbek": "147",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "55 + 92 = 147",
+      "example_uz": "55 + 92 = 147 (Ellik besh qoʻshuv toʻqson ikki — yuz qirq yetti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "49 + 62 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq toʻqqiz qoʻshuv oltmish ikki",
+      "uzbek": "111",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "49 + 62 = 111",
+      "example_uz": "49 + 62 = 111 (Qirq toʻqqiz qoʻshuv oltmish ikki — yuz oʻn bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "28 + 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma sakkiz qoʻshuv ellik",
+      "uzbek": "78",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "28 + 50 = 78",
+      "example_uz": "28 + 50 = 78 (Yigirma sakkiz qoʻshuv ellik — yetmish sakkiz)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "25 + 61 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma besh qoʻshuv oltmish bir",
+      "uzbek": "86",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "25 + 61 = 86",
+      "example_uz": "25 + 61 = 86 (Yigirma besh qoʻshuv oltmish bir — sakson olti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "72 + 55 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish ikki qoʻshuv ellik besh",
+      "uzbek": "127",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "72 + 55 = 127",
+      "example_uz": "72 + 55 = 127 (Yetmish ikki qoʻshuv ellik besh — yuz yigirma yetti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "29 + 48 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻqqiz qoʻshuv qirq sakkiz",
+      "uzbek": "77",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "29 + 48 = 77",
+      "example_uz": "29 + 48 = 77 (Yigirma toʻqqiz qoʻshuv qirq sakkiz — yetmish yetti)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "93 + 61 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson uch qoʻshuv oltmish bir",
+      "uzbek": "154",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "93 + 61 = 154",
+      "example_uz": "93 + 61 = 154 (Toʻqson uch qoʻshuv oltmish bir — yuz ellik toʻrt)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "48 + 84 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq sakkiz qoʻshuv sakson toʻrt",
+      "uzbek": "132",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "48 + 84 = 132",
+      "example_uz": "48 + 84 = 132 (Qirq sakkiz qoʻshuv sakson toʻrt — yuz oʻttiz ikki)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "71 + 79 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish bir qoʻshuv yetmish toʻqqiz",
+      "uzbek": "150",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "71 + 79 = 150",
+      "example_uz": "71 + 79 = 150 (Yetmish bir qoʻshuv yetmish toʻqqiz — yuz ellik)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "39 + 54 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz toʻqqiz qoʻshuv ellik toʻrt",
+      "uzbek": "93",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "39 + 54 = 93",
+      "example_uz": "39 + 54 = 93 (Oʻttiz toʻqqiz qoʻshuv ellik toʻrt — toʻqson uch)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "38 + 52 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz sakkiz qoʻshuv ellik ikki",
+      "uzbek": "90",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "38 + 52 = 90",
+      "example_uz": "38 + 52 = 90 (Oʻttiz sakkiz qoʻshuv ellik ikki — toʻqson)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "92 + 89 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson ikki qoʻshuv sakson toʻqqiz",
+      "uzbek": "181",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "92 + 89 = 181",
+      "example_uz": "92 + 89 = 181 (Toʻqson ikki qoʻshuv sakson toʻqqiz — yuz sakson bir)",
+      "category": "Qoʻshish"
+    },
+    {
+      "english": "54 + 95 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻrt qoʻshuv toʻqson besh",
+      "uzbek": "149",
+      "pos": "Qoʻshish • Aqliy hisob",
+      "example_en": "54 + 95 = 149",
+      "example_uz": "54 + 95 = 149 (Ellik toʻrt qoʻshuv toʻqson besh — yuz qirq toʻqqiz)",
+      "category": "Qoʻshish"
+    }
+  ]
+}

@@ -1,0 +1,1508 @@
+{
+  "title": "Boʻlish (Jadval & Aqliy hisoblash)",
+  "category": "Boʻlish (Jadval & Aqliy hisoblash)",
+  "group": "math",
+  "badge": "÷",
+  "words": [
+    {
+      "english": "2 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki boʻlingan ikki",
+      "uzbek": "1",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "2 ÷ 2 = 1",
+      "example_uz": "2 ÷ 2 = 1 (Ikki boʻlingan ikki — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "4 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt boʻlingan ikki",
+      "uzbek": "2",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "4 ÷ 2 = 2",
+      "example_uz": "4 ÷ 2 = 2 (Toʻrt boʻlingan ikki — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "6 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti boʻlingan ikki",
+      "uzbek": "3",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "6 ÷ 2 = 3",
+      "example_uz": "6 ÷ 2 = 3 (Olti boʻlingan ikki — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "8 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz boʻlingan ikki",
+      "uzbek": "4",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "8 ÷ 2 = 4",
+      "example_uz": "8 ÷ 2 = 4 (Sakkiz boʻlingan ikki — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "10 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn boʻlingan ikki",
+      "uzbek": "5",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "10 ÷ 2 = 5",
+      "example_uz": "10 ÷ 2 = 5 (Oʻn boʻlingan ikki — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "12 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn ikki boʻlingan ikki",
+      "uzbek": "6",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "12 ÷ 2 = 6",
+      "example_uz": "12 ÷ 2 = 6 (Oʻn ikki boʻlingan ikki — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "14 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn toʻrt boʻlingan ikki",
+      "uzbek": "7",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "14 ÷ 2 = 7",
+      "example_uz": "14 ÷ 2 = 7 (Oʻn toʻrt boʻlingan ikki — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "16 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn olti boʻlingan ikki",
+      "uzbek": "8",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "16 ÷ 2 = 8",
+      "example_uz": "16 ÷ 2 = 8 (Oʻn olti boʻlingan ikki — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "18 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn sakkiz boʻlingan ikki",
+      "uzbek": "9",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "18 ÷ 2 = 9",
+      "example_uz": "18 ÷ 2 = 9 (Oʻn sakkiz boʻlingan ikki — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "20 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma boʻlingan ikki",
+      "uzbek": "10",
+      "pos": "Boʻlish • 2 ga boʻlish",
+      "example_en": "20 ÷ 2 = 10",
+      "example_uz": "20 ÷ 2 = 10 (Yigirma boʻlingan ikki — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "3 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch boʻlingan uch",
+      "uzbek": "1",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "3 ÷ 3 = 1",
+      "example_uz": "3 ÷ 3 = 1 (Uch boʻlingan uch — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "6 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti boʻlingan uch",
+      "uzbek": "2",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "6 ÷ 3 = 2",
+      "example_uz": "6 ÷ 3 = 2 (Olti boʻlingan uch — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "9 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz boʻlingan uch",
+      "uzbek": "3",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "9 ÷ 3 = 3",
+      "example_uz": "9 ÷ 3 = 3 (Toʻqqiz boʻlingan uch — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "12 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn ikki boʻlingan uch",
+      "uzbek": "4",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "12 ÷ 3 = 4",
+      "example_uz": "12 ÷ 3 = 4 (Oʻn ikki boʻlingan uch — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "15 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn besh boʻlingan uch",
+      "uzbek": "5",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "15 ÷ 3 = 5",
+      "example_uz": "15 ÷ 3 = 5 (Oʻn besh boʻlingan uch — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "18 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn sakkiz boʻlingan uch",
+      "uzbek": "6",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "18 ÷ 3 = 6",
+      "example_uz": "18 ÷ 3 = 6 (Oʻn sakkiz boʻlingan uch — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "21 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma bir boʻlingan uch",
+      "uzbek": "7",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "21 ÷ 3 = 7",
+      "example_uz": "21 ÷ 3 = 7 (Yigirma bir boʻlingan uch — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "24 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻrt boʻlingan uch",
+      "uzbek": "8",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "24 ÷ 3 = 8",
+      "example_uz": "24 ÷ 3 = 8 (Yigirma toʻrt boʻlingan uch — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "27 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma yetti boʻlingan uch",
+      "uzbek": "9",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "27 ÷ 3 = 9",
+      "example_uz": "27 ÷ 3 = 9 (Yigirma yetti boʻlingan uch — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "30 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz boʻlingan uch",
+      "uzbek": "10",
+      "pos": "Boʻlish • 3 ga boʻlish",
+      "example_en": "30 ÷ 3 = 10",
+      "example_uz": "30 ÷ 3 = 10 (Oʻttiz boʻlingan uch — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "4 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt boʻlingan toʻrt",
+      "uzbek": "1",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "4 ÷ 4 = 1",
+      "example_uz": "4 ÷ 4 = 1 (Toʻrt boʻlingan toʻrt — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "8 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz boʻlingan toʻrt",
+      "uzbek": "2",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "8 ÷ 4 = 2",
+      "example_uz": "8 ÷ 4 = 2 (Sakkiz boʻlingan toʻrt — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "12 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn ikki boʻlingan toʻrt",
+      "uzbek": "3",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "12 ÷ 4 = 3",
+      "example_uz": "12 ÷ 4 = 3 (Oʻn ikki boʻlingan toʻrt — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "16 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn olti boʻlingan toʻrt",
+      "uzbek": "4",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "16 ÷ 4 = 4",
+      "example_uz": "16 ÷ 4 = 4 (Oʻn olti boʻlingan toʻrt — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "20 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma boʻlingan toʻrt",
+      "uzbek": "5",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "20 ÷ 4 = 5",
+      "example_uz": "20 ÷ 4 = 5 (Yigirma boʻlingan toʻrt — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "24 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻrt boʻlingan toʻrt",
+      "uzbek": "6",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "24 ÷ 4 = 6",
+      "example_uz": "24 ÷ 4 = 6 (Yigirma toʻrt boʻlingan toʻrt — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "28 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma sakkiz boʻlingan toʻrt",
+      "uzbek": "7",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "28 ÷ 4 = 7",
+      "example_uz": "28 ÷ 4 = 7 (Yigirma sakkiz boʻlingan toʻrt — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "32 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz ikki boʻlingan toʻrt",
+      "uzbek": "8",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "32 ÷ 4 = 8",
+      "example_uz": "32 ÷ 4 = 8 (Oʻttiz ikki boʻlingan toʻrt — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "36 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz olti boʻlingan toʻrt",
+      "uzbek": "9",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "36 ÷ 4 = 9",
+      "example_uz": "36 ÷ 4 = 9 (Oʻttiz olti boʻlingan toʻrt — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "40 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq boʻlingan toʻrt",
+      "uzbek": "10",
+      "pos": "Boʻlish • 4 ga boʻlish",
+      "example_en": "40 ÷ 4 = 10",
+      "example_uz": "40 ÷ 4 = 10 (Qirq boʻlingan toʻrt — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "5 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh boʻlingan besh",
+      "uzbek": "1",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "5 ÷ 5 = 1",
+      "example_uz": "5 ÷ 5 = 1 (Besh boʻlingan besh — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "10 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn boʻlingan besh",
+      "uzbek": "2",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "10 ÷ 5 = 2",
+      "example_uz": "10 ÷ 5 = 2 (Oʻn boʻlingan besh — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "15 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn besh boʻlingan besh",
+      "uzbek": "3",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "15 ÷ 5 = 3",
+      "example_uz": "15 ÷ 5 = 3 (Oʻn besh boʻlingan besh — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "20 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma boʻlingan besh",
+      "uzbek": "4",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "20 ÷ 5 = 4",
+      "example_uz": "20 ÷ 5 = 4 (Yigirma boʻlingan besh — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "25 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma besh boʻlingan besh",
+      "uzbek": "5",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "25 ÷ 5 = 5",
+      "example_uz": "25 ÷ 5 = 5 (Yigirma besh boʻlingan besh — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "30 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz boʻlingan besh",
+      "uzbek": "6",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "30 ÷ 5 = 6",
+      "example_uz": "30 ÷ 5 = 6 (Oʻttiz boʻlingan besh — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "35 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz besh boʻlingan besh",
+      "uzbek": "7",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "35 ÷ 5 = 7",
+      "example_uz": "35 ÷ 5 = 7 (Oʻttiz besh boʻlingan besh — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "40 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq boʻlingan besh",
+      "uzbek": "8",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "40 ÷ 5 = 8",
+      "example_uz": "40 ÷ 5 = 8 (Qirq boʻlingan besh — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "45 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq besh boʻlingan besh",
+      "uzbek": "9",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "45 ÷ 5 = 9",
+      "example_uz": "45 ÷ 5 = 9 (Qirq besh boʻlingan besh — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "50 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik boʻlingan besh",
+      "uzbek": "10",
+      "pos": "Boʻlish • 5 ga boʻlish",
+      "example_en": "50 ÷ 5 = 10",
+      "example_uz": "50 ÷ 5 = 10 (Ellik boʻlingan besh — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "6 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti boʻlingan olti",
+      "uzbek": "1",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "6 ÷ 6 = 1",
+      "example_uz": "6 ÷ 6 = 1 (Olti boʻlingan olti — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "12 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn ikki boʻlingan olti",
+      "uzbek": "2",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "12 ÷ 6 = 2",
+      "example_uz": "12 ÷ 6 = 2 (Oʻn ikki boʻlingan olti — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "18 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn sakkiz boʻlingan olti",
+      "uzbek": "3",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "18 ÷ 6 = 3",
+      "example_uz": "18 ÷ 6 = 3 (Oʻn sakkiz boʻlingan olti — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "24 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻrt boʻlingan olti",
+      "uzbek": "4",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "24 ÷ 6 = 4",
+      "example_uz": "24 ÷ 6 = 4 (Yigirma toʻrt boʻlingan olti — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "30 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz boʻlingan olti",
+      "uzbek": "5",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "30 ÷ 6 = 5",
+      "example_uz": "30 ÷ 6 = 5 (Oʻttiz boʻlingan olti — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "36 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz olti boʻlingan olti",
+      "uzbek": "6",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "36 ÷ 6 = 6",
+      "example_uz": "36 ÷ 6 = 6 (Oʻttiz olti boʻlingan olti — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "42 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq ikki boʻlingan olti",
+      "uzbek": "7",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "42 ÷ 6 = 7",
+      "example_uz": "42 ÷ 6 = 7 (Qirq ikki boʻlingan olti — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "48 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq sakkiz boʻlingan olti",
+      "uzbek": "8",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "48 ÷ 6 = 8",
+      "example_uz": "48 ÷ 6 = 8 (Qirq sakkiz boʻlingan olti — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "54 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻrt boʻlingan olti",
+      "uzbek": "9",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "54 ÷ 6 = 9",
+      "example_uz": "54 ÷ 6 = 9 (Ellik toʻrt boʻlingan olti — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "60 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish boʻlingan olti",
+      "uzbek": "10",
+      "pos": "Boʻlish • 6 ga boʻlish",
+      "example_en": "60 ÷ 6 = 10",
+      "example_uz": "60 ÷ 6 = 10 (Oltmish boʻlingan olti — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "7 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti boʻlingan yetti",
+      "uzbek": "1",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "7 ÷ 7 = 1",
+      "example_uz": "7 ÷ 7 = 1 (Yetti boʻlingan yetti — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "14 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn toʻrt boʻlingan yetti",
+      "uzbek": "2",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "14 ÷ 7 = 2",
+      "example_uz": "14 ÷ 7 = 2 (Oʻn toʻrt boʻlingan yetti — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "21 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma bir boʻlingan yetti",
+      "uzbek": "3",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "21 ÷ 7 = 3",
+      "example_uz": "21 ÷ 7 = 3 (Yigirma bir boʻlingan yetti — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "28 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma sakkiz boʻlingan yetti",
+      "uzbek": "4",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "28 ÷ 7 = 4",
+      "example_uz": "28 ÷ 7 = 4 (Yigirma sakkiz boʻlingan yetti — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "35 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz besh boʻlingan yetti",
+      "uzbek": "5",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "35 ÷ 7 = 5",
+      "example_uz": "35 ÷ 7 = 5 (Oʻttiz besh boʻlingan yetti — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "42 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq ikki boʻlingan yetti",
+      "uzbek": "6",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "42 ÷ 7 = 6",
+      "example_uz": "42 ÷ 7 = 6 (Qirq ikki boʻlingan yetti — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "49 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq toʻqqiz boʻlingan yetti",
+      "uzbek": "7",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "49 ÷ 7 = 7",
+      "example_uz": "49 ÷ 7 = 7 (Qirq toʻqqiz boʻlingan yetti — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "56 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik olti boʻlingan yetti",
+      "uzbek": "8",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "56 ÷ 7 = 8",
+      "example_uz": "56 ÷ 7 = 8 (Ellik olti boʻlingan yetti — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "63 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish uch boʻlingan yetti",
+      "uzbek": "9",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "63 ÷ 7 = 9",
+      "example_uz": "63 ÷ 7 = 9 (Oltmish uch boʻlingan yetti — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "70 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish boʻlingan yetti",
+      "uzbek": "10",
+      "pos": "Boʻlish • 7 ga boʻlish",
+      "example_en": "70 ÷ 7 = 10",
+      "example_uz": "70 ÷ 7 = 10 (Yetmish boʻlingan yetti — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "8 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz boʻlingan sakkiz",
+      "uzbek": "1",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "8 ÷ 8 = 1",
+      "example_uz": "8 ÷ 8 = 1 (Sakkiz boʻlingan sakkiz — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "16 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn olti boʻlingan sakkiz",
+      "uzbek": "2",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "16 ÷ 8 = 2",
+      "example_uz": "16 ÷ 8 = 2 (Oʻn olti boʻlingan sakkiz — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "24 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma toʻrt boʻlingan sakkiz",
+      "uzbek": "3",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "24 ÷ 8 = 3",
+      "example_uz": "24 ÷ 8 = 3 (Yigirma toʻrt boʻlingan sakkiz — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "32 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz ikki boʻlingan sakkiz",
+      "uzbek": "4",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "32 ÷ 8 = 4",
+      "example_uz": "32 ÷ 8 = 4 (Oʻttiz ikki boʻlingan sakkiz — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "40 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq boʻlingan sakkiz",
+      "uzbek": "5",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "40 ÷ 8 = 5",
+      "example_uz": "40 ÷ 8 = 5 (Qirq boʻlingan sakkiz — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "48 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq sakkiz boʻlingan sakkiz",
+      "uzbek": "6",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "48 ÷ 8 = 6",
+      "example_uz": "48 ÷ 8 = 6 (Qirq sakkiz boʻlingan sakkiz — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "56 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik olti boʻlingan sakkiz",
+      "uzbek": "7",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "56 ÷ 8 = 7",
+      "example_uz": "56 ÷ 8 = 7 (Ellik olti boʻlingan sakkiz — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "64 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish toʻrt boʻlingan sakkiz",
+      "uzbek": "8",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "64 ÷ 8 = 8",
+      "example_uz": "64 ÷ 8 = 8 (Oltmish toʻrt boʻlingan sakkiz — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "72 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish ikki boʻlingan sakkiz",
+      "uzbek": "9",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "72 ÷ 8 = 9",
+      "example_uz": "72 ÷ 8 = 9 (Yetmish ikki boʻlingan sakkiz — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "80 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson boʻlingan sakkiz",
+      "uzbek": "10",
+      "pos": "Boʻlish • 8 ga boʻlish",
+      "example_en": "80 ÷ 8 = 10",
+      "example_uz": "80 ÷ 8 = 10 (Sakson boʻlingan sakkiz — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "9 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz boʻlingan toʻqqiz",
+      "uzbek": "1",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "9 ÷ 9 = 1",
+      "example_uz": "9 ÷ 9 = 1 (Toʻqqiz boʻlingan toʻqqiz — bir)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "18 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn sakkiz boʻlingan toʻqqiz",
+      "uzbek": "2",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "18 ÷ 9 = 2",
+      "example_uz": "18 ÷ 9 = 2 (Oʻn sakkiz boʻlingan toʻqqiz — ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "27 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yigirma yetti boʻlingan toʻqqiz",
+      "uzbek": "3",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "27 ÷ 9 = 3",
+      "example_uz": "27 ÷ 9 = 3 (Yigirma yetti boʻlingan toʻqqiz — uch)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "36 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz olti boʻlingan toʻqqiz",
+      "uzbek": "4",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "36 ÷ 9 = 4",
+      "example_uz": "36 ÷ 9 = 4 (Oʻttiz olti boʻlingan toʻqqiz — toʻrt)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "45 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq besh boʻlingan toʻqqiz",
+      "uzbek": "5",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "45 ÷ 9 = 5",
+      "example_uz": "45 ÷ 9 = 5 (Qirq besh boʻlingan toʻqqiz — besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "54 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ellik toʻrt boʻlingan toʻqqiz",
+      "uzbek": "6",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "54 ÷ 9 = 6",
+      "example_uz": "54 ÷ 9 = 6 (Ellik toʻrt boʻlingan toʻqqiz — olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "63 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oltmish uch boʻlingan toʻqqiz",
+      "uzbek": "7",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "63 ÷ 9 = 7",
+      "example_uz": "63 ÷ 9 = 7 (Oltmish uch boʻlingan toʻqqiz — yetti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "72 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetmish ikki boʻlingan toʻqqiz",
+      "uzbek": "8",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "72 ÷ 9 = 8",
+      "example_uz": "72 ÷ 9 = 8 (Yetmish ikki boʻlingan toʻqqiz — sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "81 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakson bir boʻlingan toʻqqiz",
+      "uzbek": "9",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "81 ÷ 9 = 9",
+      "example_uz": "81 ÷ 9 = 9 (Sakson bir boʻlingan toʻqqiz — toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "90 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqson boʻlingan toʻqqiz",
+      "uzbek": "10",
+      "pos": "Boʻlish • 9 ga boʻlish",
+      "example_en": "90 ÷ 9 = 10",
+      "example_uz": "90 ÷ 9 = 10 (Toʻqson boʻlingan toʻqqiz — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "100 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz boʻlingan toʻrt",
+      "uzbek": "25",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "100 ÷ 4 = 25",
+      "example_uz": "100 ÷ 4 = 25 (Yuz boʻlingan toʻrt — yigirma besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "100 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz boʻlingan besh",
+      "uzbek": "20",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "100 ÷ 5 = 20",
+      "example_uz": "100 ÷ 5 = 20 (Yuz boʻlingan besh — yigirma)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "120 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma boʻlingan uch",
+      "uzbek": "40",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "120 ÷ 3 = 40",
+      "example_uz": "120 ÷ 3 = 40 (Yuz yigirma boʻlingan uch — qirq)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "120 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma boʻlingan toʻrt",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "120 ÷ 4 = 30",
+      "example_uz": "120 ÷ 4 = 30 (Yuz yigirma boʻlingan toʻrt — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "120 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz yigirma boʻlingan olti",
+      "uzbek": "20",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "120 ÷ 6 = 20",
+      "example_uz": "120 ÷ 6 = 20 (Yuz yigirma boʻlingan olti — yigirma)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "144 ÷ 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz qirq toʻrt boʻlingan oʻn ikki",
+      "uzbek": "12",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "144 ÷ 12 = 12",
+      "example_uz": "144 ÷ 12 = 12 (Yuz qirq toʻrt boʻlingan oʻn ikki — oʻn ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "150 ÷ 3 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ellik boʻlingan uch",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "150 ÷ 3 = 50",
+      "example_uz": "150 ÷ 3 = 50 (Yuz ellik boʻlingan uch — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "150 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz ellik boʻlingan besh",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "150 ÷ 5 = 30",
+      "example_uz": "150 ÷ 5 = 30 (Yuz ellik boʻlingan besh — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "160 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz oltmish boʻlingan toʻrt",
+      "uzbek": "40",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "160 ÷ 4 = 40",
+      "example_uz": "160 ÷ 4 = 40 (Yuz oltmish boʻlingan toʻrt — qirq)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "180 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz sakson boʻlingan olti",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "180 ÷ 6 = 30",
+      "example_uz": "180 ÷ 6 = 30 (Yuz sakson boʻlingan olti — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "180 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yuz sakson boʻlingan toʻqqiz",
+      "uzbek": "20",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "180 ÷ 9 = 20",
+      "example_uz": "180 ÷ 9 = 20 (Yuz sakson boʻlingan toʻqqiz — yigirma)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "200 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz boʻlingan toʻrt",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "200 ÷ 4 = 50",
+      "example_uz": "200 ÷ 4 = 50 (Ikki yuz boʻlingan toʻrt — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "200 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz boʻlingan besh",
+      "uzbek": "40",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "200 ÷ 5 = 40",
+      "example_uz": "200 ÷ 5 = 40 (Ikki yuz boʻlingan besh — qirq)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "200 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz boʻlingan sakkiz",
+      "uzbek": "25",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "200 ÷ 8 = 25",
+      "example_uz": "200 ÷ 8 = 25 (Ikki yuz boʻlingan sakkiz — yigirma besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "225 ÷ 15 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz yigirma besh boʻlingan oʻn besh",
+      "uzbek": "15",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "225 ÷ 15 = 15",
+      "example_uz": "225 ÷ 15 = 15 (Ikki yuz yigirma besh boʻlingan oʻn besh — oʻn besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "240 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz qirq boʻlingan olti",
+      "uzbek": "40",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "240 ÷ 6 = 40",
+      "example_uz": "240 ÷ 6 = 40 (Ikki yuz qirq boʻlingan olti — qirq)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "240 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz qirq boʻlingan sakkiz",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "240 ÷ 8 = 30",
+      "example_uz": "240 ÷ 8 = 30 (Ikki yuz qirq boʻlingan sakkiz — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "250 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ellik boʻlingan besh",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "250 ÷ 5 = 50",
+      "example_uz": "250 ÷ 5 = 50 (Ikki yuz ellik boʻlingan besh — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "250 ÷ 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz ellik boʻlingan yigirma besh",
+      "uzbek": "10",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "250 ÷ 25 = 10",
+      "example_uz": "250 ÷ 25 = 10 (Ikki yuz ellik boʻlingan yigirma besh — oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "270 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki yuz yetmish boʻlingan toʻqqiz",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "270 ÷ 9 = 30",
+      "example_uz": "270 ÷ 9 = 30 (Ikki yuz yetmish boʻlingan toʻqqiz — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "300 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz boʻlingan besh",
+      "uzbek": "60",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "300 ÷ 5 = 60",
+      "example_uz": "300 ÷ 5 = 60 (Uch yuz boʻlingan besh — oltmish)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "300 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz boʻlingan olti",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "300 ÷ 6 = 50",
+      "example_uz": "300 ÷ 6 = 50 (Uch yuz boʻlingan olti — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "320 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz yigirma boʻlingan sakkiz",
+      "uzbek": "40",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "320 ÷ 8 = 40",
+      "example_uz": "320 ÷ 8 = 40 (Uch yuz yigirma boʻlingan sakkiz — qirq)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "350 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz ellik boʻlingan yetti",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "350 ÷ 7 = 50",
+      "example_uz": "350 ÷ 7 = 50 (Uch yuz ellik boʻlingan yetti — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "360 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz oltmish boʻlingan olti",
+      "uzbek": "60",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "360 ÷ 6 = 60",
+      "example_uz": "360 ÷ 6 = 60 (Uch yuz oltmish boʻlingan olti — oltmish)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "360 ÷ 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch yuz oltmish boʻlingan oʻn ikki",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "360 ÷ 12 = 30",
+      "example_uz": "360 ÷ 12 = 30 (Uch yuz oltmish boʻlingan oʻn ikki — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "400 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz boʻlingan sakkiz",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "400 ÷ 8 = 50",
+      "example_uz": "400 ÷ 8 = 50 (Toʻrt yuz boʻlingan sakkiz — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "400 ÷ 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz boʻlingan yigirma besh",
+      "uzbek": "16",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "400 ÷ 25 = 16",
+      "example_uz": "400 ÷ 25 = 16 (Toʻrt yuz boʻlingan yigirma besh — oʻn olti)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "450 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz ellik boʻlingan toʻqqiz",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "450 ÷ 9 = 50",
+      "example_uz": "450 ÷ 9 = 50 (Toʻrt yuz ellik boʻlingan toʻqqiz — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "480 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt yuz sakson boʻlingan olti",
+      "uzbek": "80",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "480 ÷ 6 = 80",
+      "example_uz": "480 ÷ 6 = 80 (Toʻrt yuz sakson boʻlingan olti — sakson)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "500 ÷ 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz boʻlingan oʻn",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "500 ÷ 10 = 50",
+      "example_uz": "500 ÷ 10 = 50 (Besh yuz boʻlingan oʻn — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "500 ÷ 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz boʻlingan yigirma",
+      "uzbek": "25",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "500 ÷ 20 = 25",
+      "example_uz": "500 ÷ 20 = 25 (Besh yuz boʻlingan yigirma — yigirma besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "500 ÷ 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh yuz boʻlingan yigirma besh",
+      "uzbek": "20",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "500 ÷ 25 = 20",
+      "example_uz": "500 ÷ 25 = 20 (Besh yuz boʻlingan yigirma besh — yigirma)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "600 ÷ 12 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz boʻlingan oʻn ikki",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "600 ÷ 12 = 50",
+      "example_uz": "600 ÷ 12 = 50 (Olti yuz boʻlingan oʻn ikki — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "600 ÷ 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz boʻlingan yigirma",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "600 ÷ 20 = 30",
+      "example_uz": "600 ÷ 20 = 30 (Olti yuz boʻlingan yigirma — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "625 ÷ 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz yigirma besh boʻlingan yigirma besh",
+      "uzbek": "25",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "625 ÷ 25 = 25",
+      "example_uz": "625 ÷ 25 = 25 (Olti yuz yigirma besh boʻlingan yigirma besh — yigirma besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "640 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "olti yuz qirq boʻlingan sakkiz",
+      "uzbek": "80",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "640 ÷ 8 = 80",
+      "example_uz": "640 ÷ 8 = 80 (Olti yuz qirq boʻlingan sakkiz — sakson)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "700 ÷ 7 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz boʻlingan yetti",
+      "uzbek": "100",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "700 ÷ 7 = 100",
+      "example_uz": "700 ÷ 7 = 100 (Yetti yuz boʻlingan yetti — yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "720 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz yigirma boʻlingan sakkiz",
+      "uzbek": "90",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "720 ÷ 8 = 90",
+      "example_uz": "720 ÷ 8 = 90 (Yetti yuz yigirma boʻlingan sakkiz — toʻqson)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "720 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz yigirma boʻlingan toʻqqiz",
+      "uzbek": "80",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "720 ÷ 9 = 80",
+      "example_uz": "720 ÷ 9 = 80 (Yetti yuz yigirma boʻlingan toʻqqiz — sakson)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "750 ÷ 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "yetti yuz ellik boʻlingan yigirma besh",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "750 ÷ 25 = 30",
+      "example_uz": "750 ÷ 25 = 30 (Yetti yuz ellik boʻlingan yigirma besh — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "800 ÷ 16 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz boʻlingan oʻn olti",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "800 ÷ 16 = 50",
+      "example_uz": "800 ÷ 16 = 50 (Sakkiz yuz boʻlingan oʻn olti — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "800 ÷ 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz boʻlingan yigirma besh",
+      "uzbek": "32",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "800 ÷ 25 = 32",
+      "example_uz": "800 ÷ 25 = 32 (Sakkiz yuz boʻlingan yigirma besh — oʻttiz ikki)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "810 ÷ 9 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz oʻn boʻlingan toʻqqiz",
+      "uzbek": "90",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "810 ÷ 9 = 90",
+      "example_uz": "810 ÷ 9 = 90 (Sakkiz yuz oʻn boʻlingan toʻqqiz — toʻqson)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "880 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "sakkiz yuz sakson boʻlingan sakkiz",
+      "uzbek": "110",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "880 ÷ 8 = 110",
+      "example_uz": "880 ÷ 8 = 110 (Sakkiz yuz sakson boʻlingan sakkiz — yuz oʻn)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "900 ÷ 30 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻqqiz yuz boʻlingan oʻttiz",
+      "uzbek": "30",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "900 ÷ 30 = 30",
+      "example_uz": "900 ÷ 30 = 30 (Toʻqqiz yuz boʻlingan oʻttiz — oʻttiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan ikki",
+      "uzbek": "500",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 2 = 500",
+      "example_uz": "1000 ÷ 2 = 500 (Ming boʻlingan ikki — besh yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan toʻrt",
+      "uzbek": "250",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 4 = 250",
+      "example_uz": "1000 ÷ 4 = 250 (Ming boʻlingan toʻrt — ikki yuz ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan besh",
+      "uzbek": "200",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 5 = 200",
+      "example_uz": "1000 ÷ 5 = 200 (Ming boʻlingan besh — ikki yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan sakkiz",
+      "uzbek": "125",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 8 = 125",
+      "example_uz": "1000 ÷ 8 = 125 (Ming boʻlingan sakkiz — yuz yigirma besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 10 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan oʻn",
+      "uzbek": "100",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 10 = 100",
+      "example_uz": "1000 ÷ 10 = 100 (Ming boʻlingan oʻn — yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 20 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan yigirma",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 20 = 50",
+      "example_uz": "1000 ÷ 20 = 50 (Ming boʻlingan yigirma — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 25 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan yigirma besh",
+      "uzbek": "40",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 25 = 40",
+      "example_uz": "1000 ÷ 25 = 40 (Ming boʻlingan yigirma besh — qirq)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1000 ÷ 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming boʻlingan ellik",
+      "uzbek": "20",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1000 ÷ 50 = 20",
+      "example_uz": "1000 ÷ 50 = 20 (Ming boʻlingan ellik — yigirma)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1200 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ikki yuz boʻlingan toʻrt",
+      "uzbek": "300",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1200 ÷ 4 = 300",
+      "example_uz": "1200 ÷ 4 = 300 (Ming ikki yuz boʻlingan toʻrt — uch yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1200 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming ikki yuz boʻlingan olti",
+      "uzbek": "200",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1200 ÷ 6 = 200",
+      "example_uz": "1200 ÷ 6 = 200 (Ming ikki yuz boʻlingan olti — ikki yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1500 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming besh yuz boʻlingan besh",
+      "uzbek": "300",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1500 ÷ 5 = 300",
+      "example_uz": "1500 ÷ 5 = 300 (Ming besh yuz boʻlingan besh — uch yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "1600 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ming olti yuz boʻlingan toʻrt",
+      "uzbek": "400",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "1600 ÷ 4 = 400",
+      "example_uz": "1600 ÷ 4 = 400 (Ming olti yuz boʻlingan toʻrt — toʻrt yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "2000 ÷ 4 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki ming boʻlingan toʻrt",
+      "uzbek": "500",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "2000 ÷ 4 = 500",
+      "example_uz": "2000 ÷ 4 = 500 (Ikki ming boʻlingan toʻrt — besh yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "2000 ÷ 5 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki ming boʻlingan besh",
+      "uzbek": "400",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "2000 ÷ 5 = 400",
+      "example_uz": "2000 ÷ 5 = 400 (Ikki ming boʻlingan besh — toʻrt yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "2500 ÷ 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "ikki ming besh yuz boʻlingan ellik",
+      "uzbek": "50",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "2500 ÷ 50 = 50",
+      "example_uz": "2500 ÷ 50 = 50 (Ikki ming besh yuz boʻlingan ellik — ellik)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "3000 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch ming boʻlingan olti",
+      "uzbek": "500",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "3000 ÷ 6 = 500",
+      "example_uz": "3000 ÷ 6 = 500 (Uch ming boʻlingan olti — besh yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "3600 ÷ 60 = ?",
+      "ipa": "",
+      "pronunciation_uz": "uch ming olti yuz boʻlingan oltmish",
+      "uzbek": "60",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "3600 ÷ 60 = 60",
+      "example_uz": "3600 ÷ 60 = 60 (Uch ming olti yuz boʻlingan oltmish — oltmish)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "4000 ÷ 8 = ?",
+      "ipa": "",
+      "pronunciation_uz": "toʻrt ming boʻlingan sakkiz",
+      "uzbek": "500",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "4000 ÷ 8 = 500",
+      "example_uz": "4000 ÷ 8 = 500 (Toʻrt ming boʻlingan sakkiz — besh yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "5000 ÷ 50 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh ming boʻlingan ellik",
+      "uzbek": "100",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "5000 ÷ 50 = 100",
+      "example_uz": "5000 ÷ 50 = 100 (Besh ming boʻlingan ellik — yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "5334 ÷ 6 = ?",
+      "ipa": "",
+      "pronunciation_uz": "besh ming uch yuz oʻttiz toʻrt boʻlingan olti",
+      "uzbek": "889",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "5334 ÷ 6 = 889",
+      "example_uz": "5334 ÷ 6 = 889 (Besh ming uch yuz oʻttiz toʻrt boʻlingan olti — sakkiz yuz sakson toʻqqiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "10000 ÷ 100 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻn ming boʻlingan yuz",
+      "uzbek": "100",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "10000 ÷ 100 = 100",
+      "example_uz": "10000 ÷ 100 = 100 (Oʻn ming boʻlingan yuz — yuz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "30 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz boʻlingan ikki",
+      "uzbek": "15",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "30 ÷ 2 = 15",
+      "example_uz": "30 ÷ 2 = 15 (Oʻttiz boʻlingan ikki — oʻn besh)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "36 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "oʻttiz olti boʻlingan ikki",
+      "uzbek": "18",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "36 ÷ 2 = 18",
+      "example_uz": "36 ÷ 2 = 18 (Oʻttiz olti boʻlingan ikki — oʻn sakkiz)",
+      "category": "Boʻlish"
+    },
+    {
+      "english": "44 ÷ 2 = ?",
+      "ipa": "",
+      "pronunciation_uz": "qirq toʻrt boʻlingan ikki",
+      "uzbek": "22",
+      "pos": "Aqliy boʻlish amali",
+      "example_en": "44 ÷ 2 = 22",
+      "example_uz": "44 ÷ 2 = 22 (Qirq toʻrt boʻlingan ikki — yigirma ikki)",
+      "category": "Boʻlish"
+    }
+  ]
+}
