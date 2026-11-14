@@ -1,0 +1,207 @@
+{
+  "title": "3-kitob: 3.3-bob",
+  "category": "3-kitob: 3.3-bob",
+  "badge": "3.3",
+  "words": [
+    {
+      "english": "alien",
+      "ipa": "/ˈeɪ.li.ən/",
+      "pronunciation_uz": "eyliyen",
+      "uzbek": "begona, yot",
+      "pos": "adj",
+      "example_en": "The strange customs felt completely alien to him.",
+      "example_uz": "Gʻalati urf-odatlar unga mutlaqo yot tuyuldi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "among",
+      "ipa": "/əˈmʌŋ/",
+      "pronunciation_uz": "emang",
+      "uzbek": "oʻrtasida, ichida",
+      "pos": "prep",
+      "example_en": "The hidden cottage stood quietly among tall pine trees.",
+      "example_uz": "Yashirin kulba baland qaragʻaylar orasida xomush turardi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "chart",
+      "ipa": "/tʃɑːt/",
+      "pronunciation_uz": "chart",
+      "uzbek": "xarita, chizma",
+      "pos": "noun",
+      "example_en": "The captain studied the navigational sea chart.",
+      "example_uz": "Kapitan dengiz navigatsiyasi xaritasini oʻrgandi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "cloud",
+      "ipa": "/klaʊd/",
+      "pronunciation_uz": "klaud",
+      "uzbek": "bulut qatlami",
+      "pos": "noun",
+      "example_en": "Thick storm clouds covered the mountain peak.",
+      "example_uz": "Qalin boʻron bulutlari togʻ choʻqqisini qopladi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "comprehend",
+      "ipa": "/ˌkɒm.prɪˈhend/",
+      "pronunciation_uz": "komprihend",
+      "uzbek": "anglamoq, idrok etmoq",
+      "pos": "verb",
+      "example_en": "He could not comprehend why the experiment failed.",
+      "example_uz": "U nega tajriba muvaffaqiyatsiz boʻlganini tushuna olmadi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "describe",
+      "ipa": "/dɪˈskraɪb/",
+      "pronunciation_uz": "deskrayb",
+      "uzbek": "taʼriflamoq",
+      "pos": "verb",
+      "example_en": "The witness described the suspect accurately.",
+      "example_uz": "Guvoh gumondorni aniq tasvirlab berdi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "ever",
+      "ipa": "/ˈev.ər/",
+      "pronunciation_uz": "ever",
+      "uzbek": "hech, umrida",
+      "pos": "adv",
+      "example_en": "No one ever expected such an incredible result.",
+      "example_uz": "Hech kim bunday ajoyib natijani kutmagan edi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "fail",
+      "ipa": "/feɪl/",
+      "pronunciation_uz": "feyl",
+      "uzbek": "ish bermaslik, yiqilmoq",
+      "pos": "verb",
+      "example_en": "The old generator failed during the sudden freeze.",
+      "example_uz": "Eski generator toʻsatdan sovuq tushganda ishlamay qoldi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "pronunciation_uz": "frendli",
+      "uzbek": "xushmuomala",
+      "pos": "adj",
+      "example_en": "The shop owner gave us a warm and friendly smile.",
+      "example_uz": "Doʻkon egasi bizga samimiy va xushmuomala tabassum qildi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "grade",
+      "ipa": "/ɡreɪd/",
+      "pronunciation_uz": "greyd",
+      "uzbek": "saralamoq, sifat darajasi",
+      "pos": "noun",
+      "example_en": "Inspectors checked the grade of the building materials.",
+      "example_uz": "Nazoratchilar qurilish materiallarining sifat darajasini tekshirdilar.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "instead",
+      "ipa": "/ɪnˈsted/",
+      "pronunciation_uz": "insted",
+      "uzbek": "badaliga, oʻrniga",
+      "pos": "adv",
+      "example_en": "We chose to walk through the park instead.",
+      "example_uz": "Biz buning oʻrniga park boʻylab yurishni tanladik.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "library",
+      "ipa": "/ˈlaɪ.brər.i/",
+      "pronunciation_uz": "laybreri",
+      "uzbek": "kutubxona binosi",
+      "pos": "noun",
+      "example_en": "The national library preserves priceless manuscripts.",
+      "example_uz": "Milliy kutubxona bebaho qoʻlyozmalarni saqlaydi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "planet",
+      "ipa": "/ˈplæn.ɪt/",
+      "pronunciation_uz": "planet",
+      "uzbek": "sayyora jismi",
+      "pos": "noun",
+      "example_en": "Jupiter is the largest planet in our solar system.",
+      "example_uz": "Yupiter quyosh tizimidagi eng katta sayyoradir.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "report",
+      "ipa": "/rɪˈpɔːt/",
+      "pronunciation_uz": "riport",
+      "uzbek": "xabarnoma, maʼruza",
+      "pos": "noun",
+      "example_en": "She presented her scientific report at the seminar.",
+      "example_uz": "U seminarda oʻz ilmiy maʼruzasini taqdim etdi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "several",
+      "ipa": "/ˈsev.ər.əl/",
+      "pronunciation_uz": "sevral",
+      "uzbek": "ancha, bir necha",
+      "pos": "adj",
+      "example_en": "Several witnesses confirmed the sequence of events.",
+      "example_uz": "Bir necha guvoh voqealar ketma-ketligini tasdiqladi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "solve",
+      "ipa": "/sɒlv/",
+      "pronunciation_uz": "solv",
+      "uzbek": "yechim topmoq",
+      "pos": "verb",
+      "example_en": "Detectives worked tirelessly to solve the mystery.",
+      "example_uz": "Tergovchilar sirni yechish uchun tinimsiz ishladilar.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "suddenly",
+      "ipa": "/ˈsʌd.ən.li/",
+      "pronunciation_uz": "sadenli",
+      "uzbek": "kutilmaganda",
+      "pos": "adv",
+      "example_en": "A sudden gust of wind blew the paperwork away.",
+      "example_uz": "Kutilmagan shamol hujjatlarni uchirib yubordi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "suppose",
+      "ipa": "/səˈpəʊz/",
+      "pronunciation_uz": "sepouz",
+      "uzbek": "taxmin qilmoq",
+      "pos": "verb",
+      "example_en": "Suppose you win the scholarship, where would you go?",
+      "example_uz": "Faraz qiling, stipendiyani yutib oldingiz, qayerga borgan boʻlardingiz?",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "universe",
+      "ipa": "/ˈjuː.nɪ.vɜːs/",
+      "pronunciation_uz": "yunivers",
+      "uzbek": "butun borliq",
+      "pos": "noun",
+      "example_en": "Cosmologists study the origins of the observable universe.",
+      "example_uz": "Kosmologlar kuzatiladigan borliqning kelib chiqishini oʻrganishadi.",
+      "category": "3-kitob: 3.3-bob"
+    },
+    {
+      "english": "view",
+      "ipa": "/vjuː/",
+      "pronunciation_uz": "vyu",
+      "uzbek": "qarash, nuqtai nazar",
+      "pos": "noun",
+      "example_en": "He shared his insightful view on international politics.",
+      "example_uz": "U xalqaro siyosat boʻyicha oʻzining chuqur qarashlarini bildirdi.",
+      "category": "3-kitob: 3.3-bob"
+    }
+  ]
+}

@@ -35,6 +35,9 @@ MATH_PALETTES = [
     {"accentIndex": 5, "badge": "÷"},  # Teal
     {"accentIndex": 6, "badge": "+"},  # Emerald
     {"accentIndex": 3, "badge": "−"},  # Rose
+    {"accentIndex": 2, "badge": "%"},  # Amber (Percentages)
+    {"accentIndex": 7, "badge": "√x"}, # Cyan (Roots & Powers)
+    {"accentIndex": 8, "badge": "½"},  # Orange (Fractions)
 ]
 
 
@@ -196,8 +199,8 @@ def build_index() -> dict[str, Any]:
         math_presets.append(
             {
                 "id": "math-all",
-                "title": "Barcha matematika (Karra, Boʻlish, Qoʻshish, Ayirish)",
-                "category": "Arifmetika va aqliy hisob",
+                "title": "Barcha matematika (Karra, Arifmetika, Foiz, Ildiz, Kasr)",
+                "category": "Tezkor aqliy hisob va mantiq",
                 "group": "math",
                 "badge": "MAT",
                 "wordCount": math_words_count,

@@ -1,0 +1,207 @@
+{
+  "title": "4-kitob: 4.3-bob",
+  "category": "4-kitob: 4.3-bob",
+  "badge": "4.3",
+  "words": [
+    {
+      "english": "arise",
+      "ipa": "/əˈraɪz/",
+      "pronunciation_uz": "erayz",
+      "uzbek": "paydo boʻlmoq, yuzaga kelmoq",
+      "pos": "verb",
+      "example_en": "Difficult questions may arise during the negotiations.",
+      "example_uz": "Muzokaralar chogʻida qiyin savollar yuzaga kelishi mumkin.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "benefactor",
+      "ipa": "/ˈben.ɪ.fæk.tər/",
+      "pronunciation_uz": "benefakter",
+      "uzbek": "homiy, xayrixoh",
+      "pos": "noun",
+      "example_en": "An anonymous benefactor donated funds for the new library.",
+      "example_uz": "Nomaʼlum homiy yangi kutubxona uchun mablagʻ xayriya qildi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "blacksmith",
+      "ipa": "/ˈblæk.smɪθ/",
+      "pronunciation_uz": "bleksmit",
+      "uzbek": "temirchi",
+      "pos": "noun",
+      "example_en": "The village blacksmith shaped hot steel on the anvil.",
+      "example_uz": "Qishloq temirchisi qizigan poʻlatni sandonda bolgʻaladi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "charitable",
+      "ipa": "/ˈtʃær.ɪ.tə.bəl/",
+      "pronunciation_uz": "cheritebl",
+      "uzbek": "saxiy, xayr-ehsonli",
+      "pos": "adj",
+      "example_en": "The organization supports charitable projects worldwide.",
+      "example_uz": "Tashkilot butun dunyo boʻylab xayriya loyihalarini qoʻllab-quvvatlaydi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "chimney",
+      "ipa": "/ˈtʃɪm.ni/",
+      "pronunciation_uz": "chimni",
+      "uzbek": "moʻri, quvur",
+      "pos": "noun",
+      "example_en": "Smoke curled upwards from the brick chimney.",
+      "example_uz": "Gʻishtin moʻridan tutun yuqoriga buralib chiqdi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "compensate",
+      "ipa": "/ˈkɒm.pən.seɪt/",
+      "pronunciation_uz": "kompenseyt",
+      "uzbek": "qoplamoq, tovon toʻlamoq",
+      "pos": "verb",
+      "example_en": "The company will compensate workers for extra hours.",
+      "example_uz": "Kompaniya ishchilarga ortiqcha ishlagan soatlari uchun haq toʻlaydi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "encounter",
+      "ipa": "/ɪŋˈkaʊn.tər/",
+      "pronunciation_uz": "enkaunter",
+      "uzbek": "toʻqnash kelmoq, uchratmoq",
+      "pos": "verb",
+      "example_en": "Travelers may encounter wild animals along the forest trail.",
+      "example_uz": "Sayohatchilar oʻrmon yoʻlida yovvoyi hayvonlarga duch kelishi mumkin.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "exceed",
+      "ipa": "/ɪkˈsiːd/",
+      "pronunciation_uz": "eksiyd",
+      "uzbek": "oshib ketmoq, oʻtib ketmoq",
+      "pos": "verb",
+      "example_en": "Never exceed the posted highway speed limit.",
+      "example_uz": "Hech qachon belgilangan yoʻl tezligidan oshib ketmang.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "forge",
+      "ipa": "/fɔːdʒ/",
+      "pronunciation_uz": "fordj",
+      "uzbek": "temirchilik doʻkoni, bolgʻalamoq",
+      "pos": "noun",
+      "example_en": "The smith hammered glowing horseshoes in the forge.",
+      "example_uz": "Temirchi ustaxonada qizigan taqalarni bolgʻaladi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "humble",
+      "ipa": "/ˈhʌm.bəl/",
+      "pronunciation_uz": "hambl",
+      "uzbek": "kamtarin, oddiy",
+      "pos": "adj",
+      "example_en": "Despite great fame he remained a humble man.",
+      "example_uz": "Katta shuhratiga qaramay, u kamtarin inson boʻlib qoldi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "iron",
+      "ipa": "/ˈaɪən/",
+      "pronunciation_uz": "ayren",
+      "uzbek": "temir",
+      "pos": "noun",
+      "example_en": "Wrought iron was used to build the ornate gate.",
+      "example_uz": "Nafis darvozani yasashda qattiq temir ishlatildi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "ladder",
+      "ipa": "/ˈlæd.ər/",
+      "pronunciation_uz": "ladder",
+      "uzbek": "narvon",
+      "pos": "noun",
+      "example_en": "He climbed the tall ladder to repair the roof.",
+      "example_uz": "U tomni tuzatish uchun baland narvonga chiqdi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "modest",
+      "ipa": "/ˈmɒd.ɪst/",
+      "pronunciation_uz": "modest",
+      "uzbek": "kamtar, moʻtadil",
+      "pos": "adj",
+      "example_en": "They live in a modest apartment on the city outskirts.",
+      "example_uz": "Ular shahar chetidagi kamtarona kvartirada yashashadi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "occupy",
+      "ipa": "/ˈɒk.jə.paɪ/",
+      "pronunciation_uz": "okyupay",
+      "uzbek": "egallamoq, band qilmoq",
+      "pos": "verb",
+      "example_en": "Books occupy every available shelf in his study.",
+      "example_uz": "Kitoblar uning ish xonasidagi barcha boʻsh javonlarni egallagan.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "penny",
+      "ipa": "/ˈpen.i/",
+      "pronunciation_uz": "penni",
+      "uzbek": "penni, chaqa",
+      "pos": "noun",
+      "example_en": "He saved every penny to buy a bicycle.",
+      "example_uz": "U velosiped sotib olish uchun har bir tiyinini tejadi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "preach",
+      "ipa": "/priːtʃ/",
+      "pronunciation_uz": "priych",
+      "uzbek": "vaʼz qilmoq, nasihat qilmoq",
+      "pos": "verb",
+      "example_en": "Leaders should preach peace and tolerance.",
+      "example_uz": "Yetakchilar tinchlik va bagʻrikenglikni targʻib qilishlari kerak.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "prosper",
+      "ipa": "/ˈprɒs.pər/",
+      "pronunciation_uz": "prosper",
+      "uzbek": "ravnaq topmoq, gullab-yashnamoq",
+      "pos": "verb",
+      "example_en": "The trade town continued to prosper under fair laws.",
+      "example_uz": "Savdo shaharchasi adolatli qonunlar ostida ravnaq topishda davom etdi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "province",
+      "ipa": "/ˈprɒv.ɪns/",
+      "pronunciation_uz": "provins",
+      "uzbek": "viloyat, provinsiya",
+      "pos": "noun",
+      "example_en": "The northern province produces abundant fruit and wheat.",
+      "example_uz": "Shimoliy viloyat moʻl-koʻl meva va bugʻdoy yetishtiradi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "satisfaction",
+      "ipa": "/ˌsæt.ɪsˈfæk.ʃən/",
+      "pronunciation_uz": "setisfekshen",
+      "uzbek": "qoniqish, mamnunlik",
+      "pos": "noun",
+      "example_en": "Finishing the painting gave her immense satisfaction.",
+      "example_uz": "Rasmni tugatish unga cheksiz mamnuniyat bagʻishladi.",
+      "category": "4-kitob: 4.3-bob"
+    },
+    {
+      "english": "sustain",
+      "ipa": "/səˈsteɪn/",
+      "pronunciation_uz": "sesteyn",
+      "uzbek": "saqlab turmoq, taʼminlamoq",
+      "pos": "verb",
+      "example_en": "Oasis springs sustain life throughout the dry desert.",
+      "example_uz": "Voha buloqlari qurgʻoqchil choʻlda hayotni saqlab turadi.",
+      "category": "4-kitob: 4.3-bob"
+    }
+  ]
+}

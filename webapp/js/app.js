@@ -436,7 +436,11 @@
       (word.category.includes("karra") ||
         word.category.includes("Boʻlish") ||
         word.category.includes("Qoʻshish") ||
-        word.category.includes("Ayirish"))
+        word.category.includes("Ayirish") ||
+        word.category.includes("Foiz") ||
+        word.category.includes("Ildiz") ||
+        word.category.includes("Daraja") ||
+        word.category.includes("Kasr"))
     );
   }
 

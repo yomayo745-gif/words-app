@@ -1,0 +1,207 @@
+{
+  "title": "1-kitob: 1.4-bob",
+  "category": "1-kitob: 1.4-bob",
+  "badge": "1.4",
+  "words": [
+    {
+      "english": "approach",
+      "ipa": "/əˈprəʊtʃ/",
+      "pronunciation_uz": "eprouch",
+      "uzbek": "yaqinlashmoq",
+      "pos": "verb",
+      "example_en": "The storm began to approach the coast.",
+      "example_uz": "Boʻron qirgʻoqqa yaqinlasha boshladi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "pronunciation_uz": "kefeli",
+      "uzbek": "ehtiyotkorlik bilan",
+      "pos": "adv",
+      "example_en": "Read the instructions carefully before starting.",
+      "example_uz": "Boshlashdan oldin koʻrsatmalarni ehtiyotkorlik bilan oʻqing.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "chemical",
+      "ipa": "/ˈkem.ɪ.kəl/",
+      "pronunciation_uz": "kemikl",
+      "uzbek": "kimyoviy modda",
+      "pos": "noun",
+      "example_en": "Do not mix this dangerous chemical with water.",
+      "example_uz": "Ushbu xavfli kimyoviy moddani suv bilan aralashtirmang.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "create",
+      "ipa": "/kriˈeɪt/",
+      "pronunciation_uz": "krieyt",
+      "uzbek": "yaratmoq, barpo etmoq",
+      "pos": "verb",
+      "example_en": "Artists create beautiful paintings.",
+      "example_uz": "Rassomlar goʻzal rasmlar yaratishadi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "evil",
+      "ipa": "/ˈiː.vəl/",
+      "pronunciation_uz": "iyvl",
+      "uzbek": "yovuz, yomon",
+      "pos": "adj",
+      "example_en": "The evil king ruled the land with fear.",
+      "example_uz": "Yovuz podshoh yurtni qoʻrquv bilan boshqardi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "experiment",
+      "ipa": "/ɪkˈsper.ɪ.mənt/",
+      "pronunciation_uz": "eksperiment",
+      "uzbek": "tajriba, sinov",
+      "pos": "noun",
+      "example_en": "The science experiment was successful.",
+      "example_uz": "Ilmiy tajriba muvaffaqiyatli boʻldi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "kill",
+      "ipa": "/kɪl/",
+      "pronunciation_uz": "kil",
+      "uzbek": "oʻldirmoq",
+      "pos": "verb",
+      "example_en": "Extreme cold can kill sensitive plants.",
+      "example_uz": "Qattiq sovuq nozik oʻsimliklarni nobud qilishi mumkin.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "laboratory",
+      "ipa": "/ləˈbɒr.ə.tər.i/",
+      "pronunciation_uz": "leboretri",
+      "uzbek": "laboratoriya",
+      "pos": "noun",
+      "example_en": "Scientists work inside a sterile laboratory.",
+      "example_uz": "Olimlar toza laboratoriya ichida ishlashadi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "among",
+      "ipa": "/əˈmʌŋ/",
+      "pronunciation_uz": "emang",
+      "uzbek": "orasida, oʻrtasida",
+      "pos": "prep",
+      "example_en": "She sat among her closest friends.",
+      "example_uz": "U eng yaqin doʻstlari orasida oʻtirdi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "chart",
+      "ipa": "/tʃɑːt/",
+      "pronunciation_uz": "chart",
+      "uzbek": "jadval, diagramma",
+      "pos": "noun",
+      "example_en": "The teacher drew a progress chart on the board.",
+      "example_uz": "Oʻqituvchi doskaga oʻsish jadvalini chizdi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "nervous",
+      "ipa": "/ˈnɜː.vəs/",
+      "pronunciation_uz": "nerves",
+      "uzbek": "hayajonlangan, asabiy",
+      "pos": "adj",
+      "example_en": "He was nervous before the big exam.",
+      "example_uz": "U katta imtihon oldidan hayajonlangan edi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "noise",
+      "ipa": "/nɔɪz/",
+      "pronunciation_uz": "noyz",
+      "uzbek": "shovqin, sas",
+      "pos": "noun",
+      "example_en": "The engine made a strange clicking noise.",
+      "example_uz": "Dvigatel gʻalati taqillagan ovoz chiqardi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "project",
+      "ipa": "/ˈprɒdʒ.ekt/",
+      "pronunciation_uz": "proyekt",
+      "uzbek": "loyiha",
+      "pos": "noun",
+      "example_en": "Our team finished the school project on time.",
+      "example_uz": "Jamoamiz maktab loyihasini oʻz vaqtida tugatdi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "scare",
+      "ipa": "/skeər/",
+      "pronunciation_uz": "skeer",
+      "uzbek": "qoʻrqitmoq",
+      "pos": "verb",
+      "example_en": "The loud thunder scared the young children.",
+      "example_uz": "Baland momaqaldiroq yosh bolalarni qoʻrqitdi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "secret",
+      "ipa": "/ˈsiː.krət/",
+      "pronunciation_uz": "siykret",
+      "uzbek": "sir, sirli narsa",
+      "pos": "noun",
+      "example_en": "Can you keep an important secret?",
+      "example_uz": "Muhim sirni saqlay olasizmi?",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "shout",
+      "ipa": "/ʃaʊt/",
+      "pronunciation_uz": "shaut",
+      "uzbek": "baqirmoq, qichqirmoq",
+      "pos": "verb",
+      "example_en": "Do not shout in the library.",
+      "example_uz": "Kutubxonada baqirmang.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "smell",
+      "ipa": "/smel/",
+      "pronunciation_uz": "smel",
+      "uzbek": "hidlamoq, hid chiqarmoq",
+      "pos": "verb",
+      "example_en": "These fresh flowers smell wonderful.",
+      "example_uz": "Bu yangi gullar ajoyib hid taratmoqda.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "terrible",
+      "ipa": "/ˈter.ə.bəl/",
+      "pronunciation_uz": "terribl",
+      "uzbek": "dahshatli, juda yomon",
+      "pos": "adj",
+      "example_en": "The traffic was terrible this morning.",
+      "example_uz": "Bugun ertalab tirbandlik juda dahshatli edi.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "worse",
+      "ipa": "/wɜːs/",
+      "pronunciation_uz": "vors",
+      "uzbek": "yomonroq",
+      "pos": "adj",
+      "example_en": "The weather today is worse than yesterday.",
+      "example_uz": "Bugungi ob-havo kechagidan yomonroq.",
+      "category": "1-kitob: 1.4-bob"
+    },
+    {
+      "english": "alien",
+      "ipa": "/ˈeɪ.li.ən/",
+      "pronunciation_uz": "eyliyen",
+      "uzbek": "oʻzga sayyoralik, begona",
+      "pos": "noun",
+      "example_en": "The movie was about an alien visiting Earth.",
+      "example_uz": "Film Yerga tashrif buyurgan oʻzga sayyoralik haqida edi.",
+      "category": "1-kitob: 1.4-bob"
+    }
+  ]
+}

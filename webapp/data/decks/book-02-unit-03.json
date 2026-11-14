@@ -1,0 +1,207 @@
+{
+  "title": "2-kitob: 2.3-bob",
+  "category": "2-kitob: 2.3-bob",
+  "badge": "2.3",
+  "words": [
+    {
+      "english": "accept",
+      "ipa": "/əkˈsept/",
+      "pronunciation_uz": "eksept",
+      "uzbek": "qabul qilmoq",
+      "pos": "verb",
+      "example_en": "She was pleased to accept the invitation.",
+      "example_uz": "U taklifni mamnuniyat bilan qabul qildi.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "arrange",
+      "ipa": "/əˈreɪndʒ/",
+      "pronunciation_uz": "ereyndj",
+      "uzbek": "tartibga solmoq, kelishmoq",
+      "pos": "verb",
+      "example_en": "They arranged the books on the shelves.",
+      "example_uz": "Ular kitoblarni javonlarga tartib bilan terishdi.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "attend",
+      "ipa": "/əˈtend/",
+      "pronunciation_uz": "etend",
+      "uzbek": "qatnashmoq, bormoq",
+      "pos": "verb",
+      "example_en": "Many guests attended the wedding.",
+      "example_uz": "Koʻplab mehmonlar toʻyda qatnashdilar.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "balance",
+      "ipa": "/ˈbæl.əns/",
+      "pronunciation_uz": "balans",
+      "uzbek": "muvozanat",
+      "pos": "noun",
+      "example_en": "Tightrope walkers must have perfect balance.",
+      "example_uz": "Dorbozlar mukammal muvozanatga ega boʻlishi kerak.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "contrast",
+      "ipa": "/ˈkɒn.trɑːst/",
+      "pronunciation_uz": "kontrast",
+      "uzbek": "taqqos, farq",
+      "pos": "noun",
+      "example_en": "There is a sharp contrast between day and night temperatures.",
+      "example_uz": "Kunduzgi va tungi haroratlar oʻrtasida keskin farq bor.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "encourage",
+      "ipa": "/ɪnˈkʌr.ɪdʒ/",
+      "pronunciation_uz": "inkaridj",
+      "uzbek": "ruhlandirmoq, dalda bermoq",
+      "pos": "verb",
+      "example_en": "Teachers encourage students to read widely.",
+      "example_uz": "Oʻqituvchilar talabalarni koʻp oʻqishga ruhlantiradilar.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "familiar",
+      "ipa": "/fəˈmɪl.i.ər/",
+      "pronunciation_uz": "femiliyer",
+      "uzbek": "tanish, maʼlum",
+      "pos": "adj",
+      "example_en": "His voice sounded familiar to me.",
+      "example_uz": "Uning ovozi menga tanish eshitildi.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "grab",
+      "ipa": "/ɡræb/",
+      "pronunciation_uz": "greb",
+      "uzbek": "ushlab olmoq, changallamoq",
+      "pos": "verb",
+      "example_en": "Grab your coat before running outside.",
+      "example_uz": "Tashqariga chiqishdan oldin paltoingizni oling.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "hang",
+      "ipa": "/hæŋ/",
+      "pronunciation_uz": "heng",
+      "uzbek": "osmoq, ilmoq",
+      "pos": "verb",
+      "example_en": "Hang your jacket on the coat rack.",
+      "example_uz": "Nimchangizni kiyim ilgichga osing.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "huge",
+      "ipa": "/hjuːdʒ/",
+      "pronunciation_uz": "hyudj",
+      "uzbek": "ulkan, bahaybat",
+      "pos": "adj",
+      "example_en": "An elephant is a huge mammal.",
+      "example_uz": "Fil ulkan sutemizuvchidir.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "necessary",
+      "ipa": "/ˈnes.ə.ser.i/",
+      "pronunciation_uz": "neseseri",
+      "uzbek": "zarur, kerakli",
+      "pos": "adj",
+      "example_en": "Water is necessary for all living things.",
+      "example_uz": "Suv barcha tirik mavjudotlar uchun zarurdir.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "pattern",
+      "ipa": "/ˈpæt.ən/",
+      "pronunciation_uz": "petten",
+      "uzbek": "andoza, naqsh, tartib",
+      "pos": "noun",
+      "example_en": "The fabric has a colorful geometric pattern.",
+      "example_uz": "Matoda rang-barang geometrik naqsh bor.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "propose",
+      "ipa": "/prəˈpəʊz/",
+      "pronunciation_uz": "prepouz",
+      "uzbek": "taklif qilmoq",
+      "pos": "verb",
+      "example_en": "He proposed a new schedule for our team.",
+      "example_uz": "U jamoamiz uchun yangi jadval taklif qildi.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "purpose",
+      "ipa": "/ˈpɜː.pəs/",
+      "pronunciation_uz": "porpes",
+      "uzbek": "maqsad, niyat",
+      "pos": "noun",
+      "example_en": "The purpose of this meeting is to plan our budget.",
+      "example_uz": "Ushbu uchrashuvning maqsadi byudjetimizni rejalashtirishdir.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "release",
+      "ipa": "/rɪˈliːs/",
+      "pronunciation_uz": "riliys",
+      "uzbek": "qoʻyib yubormoq, chiqarmoq",
+      "pos": "verb",
+      "example_en": "They decided to release the bird from the cage.",
+      "example_uz": "Ular qushni qafasdan qoʻyib yuborishga qaror qildilar.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "require",
+      "ipa": "/rɪˈkwaɪər/",
+      "pronunciation_uz": "rikvayer",
+      "uzbek": "talab qilmoq",
+      "pos": "verb",
+      "example_en": "The university requires proof of graduation.",
+      "example_uz": "Universitet bitirganlik toʻgʻrisida guvohnoma talab qiladi.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "single",
+      "ipa": "/ˈsɪŋ.ɡəl/",
+      "pronunciation_uz": "singl",
+      "uzbek": "yagona, bir dona",
+      "pos": "adj",
+      "example_en": "Not a single word was spoken in the quiet room.",
+      "example_uz": "Tinch xonada birorta ham soʻz aytilmadi.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "success",
+      "ipa": "/səkˈses/",
+      "pronunciation_uz": "sekses",
+      "uzbek": "muvaffaqiyat, yutuq",
+      "pos": "noun",
+      "example_en": "Hard work is the key to lasting success.",
+      "example_uz": "Mehnatsevarlik barqaror muvaffaqiyatning kalitidir.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "tear",
+      "ipa": "/teər/",
+      "pronunciation_uz": "teer",
+      "uzbek": "yirtmoq",
+      "pos": "verb",
+      "example_en": "Be careful not to tear the delicate paper.",
+      "example_uz": "Nozik qogʻozni yirtib yubormaslik uchun ehtiyot boʻling.",
+      "category": "2-kitob: 2.3-bob"
+    },
+    {
+      "english": "theory",
+      "ipa": "/ˈθɪə.ri/",
+      "pronunciation_uz": "fiyeri",
+      "uzbek": "nazariya",
+      "pos": "noun",
+      "example_en": "Scientists tested Einstein's theory of relativity.",
+      "example_uz": "Olimlar Eynshteynning nisbiylik nazariyasini sinab koʻrishdi.",
+      "category": "2-kitob: 2.3-bob"
+    }
+  ]
+}

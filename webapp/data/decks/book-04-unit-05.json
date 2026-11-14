@@ -1,0 +1,207 @@
+{
+  "title": "4-kitob: 4.5-bob",
+  "category": "4-kitob: 4.5-bob",
+  "badge": "4.5",
+  "words": [
+    {
+      "english": "alley",
+      "ipa": "/ˈæl.i/",
+      "pronunciation_uz": "elli",
+      "uzbek": "tor koʻcha, xiyoboncha",
+      "pos": "noun",
+      "example_en": "A narrow cobblestone alley led behind the historic theater.",
+      "example_uz": "Tor toshkoʻcha tarixiy teatr orqasiga olib bordi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "ax",
+      "ipa": "/æks/",
+      "pronunciation_uz": "eks",
+      "uzbek": "bolta",
+      "pos": "noun",
+      "example_en": "The lumberjack chopped dry firewood with a sharp ax.",
+      "example_uz": "Oʻtinchi oʻtkir bolta bilan quruq oʻtin yordi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "bunch",
+      "ipa": "/bʌntʃ/",
+      "pronunciation_uz": "banch",
+      "uzbek": "dasta, shingil",
+      "pos": "noun",
+      "example_en": "She bought a fresh bunch of sweet grapes at the market.",
+      "example_uz": "U bozordan bir shingil shirin uzum sotib oldi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "chore",
+      "ipa": "/tʃɔːr/",
+      "pronunciation_uz": "chor",
+      "uzbek": "uy yumushi, kundalik vazifa",
+      "pos": "noun",
+      "example_en": "Washing the dinner dishes was his assigned evening chore.",
+      "example_uz": "Kechki idishlarni yuvish unga topshirilgan vazifa edi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "decent",
+      "ipa": "/ˈdiː.sənt/",
+      "pronunciation_uz": "diysent",
+      "uzbek": "tuzuk, risoladagidek",
+      "pos": "adj",
+      "example_en": "They earned a decent salary through honest skilled labor.",
+      "example_uz": "Ular halol mehnati bilan risoladagidek maosh oldilar.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "disgrace",
+      "ipa": "/dɪsˈɡreɪs/",
+      "pronunciation_uz": "disgreys",
+      "uzbek": "sharmandalik, dogʻ",
+      "pos": "noun",
+      "example_en": "Cheating on an honor code brings disgrace to the institution.",
+      "example_uz": "Or-nomus qoidalarini buzish muassasaga sharmandalik keltiradi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "elbow",
+      "ipa": "/ˈel.bəʊ/",
+      "pronunciation_uz": "elbou",
+      "uzbek": "tirsak",
+      "pos": "noun",
+      "example_en": "He rested his elbow on the desk while thinking.",
+      "example_uz": "U oʻyga choʻmib tirsagini stolga tiradi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "grateful",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "pronunciation_uz": "greytful",
+      "uzbek": "minnatdor, roziligini bildiruvchi",
+      "pos": "adj",
+      "example_en": "We are deeply grateful for your generous medical aid.",
+      "example_uz": "Saxiy tibbiy yordamingiz uchun chuqur minnatdormiz.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "irritate",
+      "ipa": "/ˈɪr.ɪ.teɪt/",
+      "pronunciation_uz": "irriteyt",
+      "uzbek": "gʻashiga tegmoq, qitiqlamoq",
+      "pos": "verb",
+      "example_en": "Loud construction noise can irritate neighborhood residents.",
+      "example_uz": "Baland qurilish shovqini mahalla aholisining gʻashiga tegishi mumkin.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "kid",
+      "ipa": "/kɪd/",
+      "pronunciation_uz": "kid",
+      "uzbek": "hazillashmoq, yosh bola",
+      "pos": "verb",
+      "example_en": "Don't take it personally, he was only kidding.",
+      "example_uz": "Koʻnglingizga olmang, u shunchaki hazillashayotgan edi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "loose",
+      "ipa": "/luːs/",
+      "pronunciation_uz": "luws",
+      "uzbek": "boʻsh, keng",
+      "pos": "adj",
+      "example_en": "Wear loose cotton clothing in the hot summer months.",
+      "example_uz": "Issiq yoz oylarida keng paxtali kiyim kiying.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "offend",
+      "ipa": "/əˈfend/",
+      "pronunciation_uz": "offend",
+      "uzbek": "xafa qilmoq, ranjitmoq",
+      "pos": "verb",
+      "example_en": "I did not mean to offend your religious beliefs.",
+      "example_uz": "Diniy eʼtiqodingizni xafa qilish niyatim yoʻq edi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "overnight",
+      "ipa": "/ˌəʊ.vəˈnaɪt/",
+      "pronunciation_uz": "overnayt",
+      "uzbek": "bir kechada, tunda",
+      "pos": "adv",
+      "example_en": "The sleeper train traveled overnight to the capital.",
+      "example_uz": "Yotoqli poyezd bir kechada poytaxtga yetib bordi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "persist",
+      "ipa": "/pəˈsɪst/",
+      "pronunciation_uz": "persist",
+      "uzbek": "qaysarlik bilan davom etmoq",
+      "pos": "verb",
+      "example_en": "If symptoms persist for three days, consult a physician.",
+      "example_uz": "Agar alomatlar uch kun davom etsa, shifokorga murojaat qiling.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "pine",
+      "ipa": "/paɪn/",
+      "pronunciation_uz": "payn",
+      "uzbek": "qaragʻay daraxti",
+      "pos": "noun",
+      "example_en": "The scent of wild pine filled the crisp mountain air.",
+      "example_uz": "Yovvoyi qaragʻay hidi toza togʻ havosini toʻldirdi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "scar",
+      "ipa": "/skɑːr/",
+      "pronunciation_uz": "skar",
+      "uzbek": "chandiq, jarohat izi",
+      "pos": "noun",
+      "example_en": "A faint surgical scar remained on his left knee.",
+      "example_uz": "Uning chap tizzasida xira jarrohlik chandigʻi qoldi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "sensation",
+      "ipa": "/senˈseɪ.ʃən/",
+      "pronunciation_uz": "senseyshen",
+      "uzbek": "sezgi, tuygʻu",
+      "pos": "noun",
+      "example_en": "Walking on soft sand produced a pleasant sensation.",
+      "example_uz": "Yumshoq qum ustida yurish yoqimli tuygʻu uygʻotdi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "sled",
+      "ipa": "/sled/",
+      "pronunciation_uz": "sled",
+      "uzbek": "chana",
+      "pos": "noun",
+      "example_en": "Excited children pulled a red wooden sled up the snowy hill.",
+      "example_uz": "Hayajonlangan bolalar qorli tepalikka qizil yogʻoch chanani tortib chiqdilar.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "tease",
+      "ipa": "/tiːz/",
+      "pronunciation_uz": "tiyz",
+      "uzbek": "mazax qilmoq, tegishmoq",
+      "pos": "verb",
+      "example_en": "Brothers often playfully tease each other at home.",
+      "example_uz": "Aka-ukalar uyda koʻpincha bir-birlariga hazillashib tegishishadi.",
+      "category": "4-kitob: 4.5-bob"
+    },
+    {
+      "english": "valentine",
+      "ipa": "/ˈvæl.ən.taɪn/",
+      "pronunciation_uz": "valentayn",
+      "uzbek": "sevgi tabriknomasi",
+      "pos": "noun",
+      "example_en": "He anonymously sent a sweet handwritten valentine card.",
+      "example_uz": "U anonim tarzda qoʻlda yozilgan shirin sevgi xatini yubordi.",
+      "category": "4-kitob: 4.5-bob"
+    }
+  ]
+}
