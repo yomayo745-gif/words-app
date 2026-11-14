@@ -1,0 +1,207 @@
+{
+  "title": "1-kitob: 1.5-bob",
+  "category": "1-kitob: 1.5-bob",
+  "badge": "1.5",
+  "words": [
+    {
+      "english": "cloud",
+      "ipa": "/klaʊd/",
+      "pronunciation_uz": "klaud",
+      "uzbek": "bulut",
+      "pos": "noun",
+      "example_en": "A dark cloud covered the sun.",
+      "example_uz": "Qora bulut quyoshni toʻsib qoʻydi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "comprehend",
+      "ipa": "/ˌkɒm.prɪˈhend/",
+      "pronunciation_uz": "komprihend",
+      "uzbek": "tushunmoq, idrok etmoq",
+      "pos": "verb",
+      "example_en": "He could not comprehend the complex problem.",
+      "example_uz": "U murakkab masalani tushuna olmadi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "describe",
+      "ipa": "/dɪˈskraɪb/",
+      "pronunciation_uz": "deskrayb",
+      "uzbek": "tasvirlamoq",
+      "pos": "verb",
+      "example_en": "Can you describe the person you saw?",
+      "example_uz": "Siz koʻrgan odamni tasvirlab bera olasizmi?",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "ever",
+      "ipa": "/ˈev.ər/",
+      "pronunciation_uz": "ever",
+      "uzbek": "qachondir, sira",
+      "pos": "adv",
+      "example_en": "Have you ever traveled to another country?",
+      "example_uz": "Siz qachondir boshqa mamlakatga borganmisiz?",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "fail",
+      "ipa": "/feɪl/",
+      "pronunciation_uz": "feyl",
+      "uzbek": "yiqilmoq, muvaffaqiyatsiz boʻlmoq",
+      "pos": "verb",
+      "example_en": "If you study hard, you will not fail the test.",
+      "example_uz": "Agar qattiq oʻqisangiz, imtihondan yiqilmaysiz.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "pronunciation_uz": "frendli",
+      "uzbek": "doʻstona, ochiqkoʻngil",
+      "pos": "adj",
+      "example_en": "Our new neighbors are very friendly.",
+      "example_uz": "Yangi qoʻshnilarimiz juda doʻstona.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "grade",
+      "ipa": "/ɡreɪd/",
+      "pronunciation_uz": "greyd",
+      "uzbek": "baho, daraja",
+      "pos": "noun",
+      "example_en": "She got an excellent grade on her essay.",
+      "example_uz": "U inshosidan aʼlo baho oldi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "instead",
+      "ipa": "/ɪnˈsted/",
+      "pronunciation_uz": "insted",
+      "uzbek": "oʻrniga",
+      "pos": "adv",
+      "example_en": "Drink fresh water instead of soda.",
+      "example_uz": "Gazli ichimlik oʻrniga toza suv iching.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "library",
+      "ipa": "/ˈlaɪ.brər.i/",
+      "pronunciation_uz": "laybreri",
+      "uzbek": "kutubxona",
+      "pos": "noun",
+      "example_en": "Students borrow books from the university library.",
+      "example_uz": "Talabalar universitet kutubxonasidan kitob olishadi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "planet",
+      "ipa": "/ˈplæn.ɪt/",
+      "pronunciation_uz": "planet",
+      "uzbek": "sayyora",
+      "pos": "noun",
+      "example_en": "Earth is the third planet from the sun.",
+      "example_uz": "Yer quyoshdan uchinchi sayyoradir.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "report",
+      "ipa": "/rɪˈpɔːt/",
+      "pronunciation_uz": "riport",
+      "uzbek": "hisobot, hisobot bermoq",
+      "pos": "noun",
+      "example_en": "He submitted the financial report on Monday.",
+      "example_uz": "U moliyaviy hisobotni dushanba kuni topshirdi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "several",
+      "ipa": "/ˈsev.ər.əl/",
+      "pronunciation_uz": "sevral",
+      "uzbek": "bir necha, bir nechta",
+      "pos": "adj",
+      "example_en": "I have visited that museum several times.",
+      "example_uz": "Men u muzeyga bir necha bor borganman.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "solve",
+      "ipa": "/sɒlv/",
+      "pronunciation_uz": "solv",
+      "uzbek": "yechmoq, hal qilmoq",
+      "pos": "verb",
+      "example_en": "They worked together to solve the math puzzle.",
+      "example_uz": "Ular matematik jumboqni yechish uchun birgalikda ishladilar.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "suddenly",
+      "ipa": "/ˈsʌd.ən.li/",
+      "pronunciation_uz": "sadenli",
+      "uzbek": "toʻsatdan, birdaniga",
+      "pos": "adv",
+      "example_en": "Suddenly the lights went out.",
+      "example_uz": "Toʻsatdan chiroqlar oʻchib qoldi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "suppose",
+      "ipa": "/səˈpəʊz/",
+      "pronunciation_uz": "sepouz",
+      "uzbek": "faraz qilmoq, deb oʻylamoq",
+      "pos": "verb",
+      "example_en": "I suppose we should leave early to avoid traffic.",
+      "example_uz": "Menimcha, tirbandlikka tushmaslik uchun erta ketishimiz kerak.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "universe",
+      "ipa": "/ˈjuː.nɪ.vɜːs/",
+      "pronunciation_uz": "yunivers",
+      "uzbek": "koinot, olam",
+      "pos": "noun",
+      "example_en": "Telescopes allow us to explore the vast universe.",
+      "example_uz": "Teleskoplar bizga ulkan koinotni tadqiq qilish imkonini beradi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "view",
+      "ipa": "/vjuː/",
+      "pronunciation_uz": "vyu",
+      "uzbek": "manzara, koʻrinish",
+      "pos": "noun",
+      "example_en": "The hotel room has a magnificent view of the mountains.",
+      "example_uz": "Mehmonxona xonasidan togʻlarning ajoyib manzarasi koʻrinadi.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "appropriate",
+      "ipa": "/əˈprəʊ.pri.ət/",
+      "pronunciation_uz": "eproupriyet",
+      "uzbek": "mos, munosib",
+      "pos": "adj",
+      "example_en": "Wear appropriate clothes for the job interview.",
+      "example_uz": "Ish suhbati uchun munosib kiyim kiying.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "avoid",
+      "ipa": "/əˈvɔɪd/",
+      "pronunciation_uz": "evoyd",
+      "uzbek": "chetlanmoq, qochmoq",
+      "pos": "verb",
+      "example_en": "Drivers should avoid dangerous potholes.",
+      "example_uz": "Haydovchilar xavfli chuqurlardan qochishlari kerak.",
+      "category": "1-kitob: 1.5-bob"
+    },
+    {
+      "english": "behave",
+      "ipa": "/bɪˈheɪv/",
+      "pronunciation_uz": "biheyv",
+      "uzbek": "oʻzini odobli tutmoq",
+      "pos": "verb",
+      "example_en": "Children behave politely during dinner.",
+      "example_uz": "Bolalar kechki ovqat paytida oʻzlarini odobli tutishadi.",
+      "category": "1-kitob: 1.5-bob"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "title": "1-kitob: 1.3-bob",
+  "category": "1-kitob: 1.3-bob",
+  "badge": "1.3",
+  "words": [
+    {
+      "english": "afraid",
+      "ipa": "/əˈfreɪd/",
+      "pronunciation_uz": "efreyd",
+      "uzbek": "qoʻrqqan, choʻchigan",
+      "pos": "adj",
+      "example_en": "The little dog was afraid of thunder.",
+      "example_uz": "Kichkina kuchuk momaqaldiroqdan qoʻrqdi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "agree",
+      "ipa": "/əˈɡriː/",
+      "pronunciation_uz": "egriy",
+      "uzbek": "rozi boʻlmoq, qoʻshilmoq",
+      "pos": "verb",
+      "example_en": "I agree with your suggestion completely.",
+      "example_uz": "Men sizning taklifingizga toʻliq qoʻshilaman.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "arrive",
+      "ipa": "/əˈraɪv/",
+      "pronunciation_uz": "erayv",
+      "uzbek": "yetib kelmoq",
+      "pos": "verb",
+      "example_en": "The train will arrive at five o'clock.",
+      "example_uz": "Poyezd soat beshda yetib keladi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "attack",
+      "ipa": "/əˈtæk/",
+      "pronunciation_uz": "etek",
+      "uzbek": "hujum qilmoq",
+      "pos": "verb",
+      "example_en": "The wild animal attacked without warning.",
+      "example_uz": "Yovvoyi hayvon ogohlantirishsiz hujum qildi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "bottom",
+      "ipa": "/ˈbɒt.əm/",
+      "pronunciation_uz": "botem",
+      "uzbek": "tub, eng pastki qism",
+      "pos": "noun",
+      "example_en": "Coins lay at the bottom of the fountain.",
+      "example_uz": "Favvoraning tubida tangalar yotardi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "clever",
+      "ipa": "/ˈklev.ər/",
+      "pronunciation_uz": "klever",
+      "uzbek": "aqlli, zukko",
+      "pos": "adj",
+      "example_en": "She had a clever plan to solve the puzzle.",
+      "example_uz": "Topishmoqni yechish uchun uning zukko rejasi bor edi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "cruel",
+      "ipa": "/ˈkruː.əl/",
+      "pronunciation_uz": "kruel",
+      "uzbek": "shafqatsiz, zolim",
+      "pos": "adj",
+      "example_en": "It is cruel to leave pets out in the freezing cold.",
+      "example_uz": "Uy hayvonlarini qahraton sovuqda qoldirish shafqatsizlikdir.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "finally",
+      "ipa": "/ˈfaɪ.nəl.i/",
+      "pronunciation_uz": "fayneli",
+      "uzbek": "nihoyat, oxir-oqibat",
+      "pos": "adv",
+      "example_en": "They finally finished the long journey.",
+      "example_uz": "Ular nihoyat uzoq safarni yakunladilar.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "hide",
+      "ipa": "/haɪd/",
+      "pronunciation_uz": "hayd",
+      "uzbek": "yashirmoq, yashirinmoq",
+      "pos": "verb",
+      "example_en": "The children like to hide behind the large tree.",
+      "example_uz": "Bolalar katta daraxt orqasiga yashirinishni yoqtirishadi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "hunt",
+      "ipa": "/hʌnt/",
+      "pronunciation_uz": "hant",
+      "uzbek": "ov qilmoq",
+      "pos": "verb",
+      "example_en": "Lions hunt in groups to catch food.",
+      "example_uz": "Sherlar ozuqa tutish uchun toʻda boʻlib ov qilishadi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "lot",
+      "ipa": "/lɒt/",
+      "pronunciation_uz": "lot",
+      "uzbek": "koʻp, koʻp miqdor",
+      "pos": "noun",
+      "example_en": "There is a lot of apples on the table.",
+      "example_uz": "Stol ustida juda koʻp olma bor.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "middle",
+      "ipa": "/ˈmɪd.əl/",
+      "pronunciation_uz": "midl",
+      "uzbek": "oʻrta, oʻrtasi",
+      "pos": "noun",
+      "example_en": "Stand in the middle of the room.",
+      "example_uz": "Xonaning oʻrtasida turing.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "moment",
+      "ipa": "/ˈməʊ.mənt/",
+      "pronunciation_uz": "moument",
+      "uzbek": "lahza, fursat",
+      "pos": "noun",
+      "example_en": "Please wait a moment while I check the file.",
+      "example_uz": "Faylni tekshirgunimcha bir lahza kuting.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "pleased",
+      "ipa": "/pliːzd/",
+      "pronunciation_uz": "pliyzd",
+      "uzbek": "mamnun, xursand",
+      "pos": "adj",
+      "example_en": "The teacher was pleased with our good results.",
+      "example_uz": "Oʻqituvchi bizning yaxshi natijalarimizdan mamnun boʻldi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "promise",
+      "ipa": "/ˈprɒm.ɪs/",
+      "pronunciation_uz": "promis",
+      "uzbek": "vaʼda bermoq",
+      "pos": "verb",
+      "example_en": "I promise to return your book tomorrow.",
+      "example_uz": "Kitobingizni ertaga qaytarishga vaʼda beraman.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "reply",
+      "ipa": "/rɪˈplaɪ/",
+      "pronunciation_uz": "riplay",
+      "uzbek": "javob bermoq",
+      "pos": "verb",
+      "example_en": "He did not reply to my text message.",
+      "example_uz": "U mening xabarimga javob bermadi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "safe",
+      "ipa": "/seɪf/",
+      "pronunciation_uz": "seyf",
+      "uzbek": "xavfsiz, omon",
+      "pos": "adj",
+      "example_en": "Fasten your seatbelt to stay safe.",
+      "example_uz": "Xavfsiz boʻlish uchun xavfsizlik kamarini taqing.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "trick",
+      "ipa": "/trɪk/",
+      "pronunciation_uz": "trik",
+      "uzbek": "hiyla, nayrang",
+      "pos": "noun",
+      "example_en": "The magician performed an amazing coin trick.",
+      "example_uz": "Koʻzboylogʻich tanga bilan ajoyib nayrang koʻrsatdi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "well",
+      "ipa": "/wel/",
+      "pronunciation_uz": "vel",
+      "uzbek": "yaxshi, durust",
+      "pos": "adv",
+      "example_en": "She speaks English very well.",
+      "example_uz": "U ingliz tilida juda yaxshi gapiradi.",
+      "category": "1-kitob: 1.3-bob"
+    },
+    {
+      "english": "adventure",
+      "ipa": "/ədˈven.tʃər/",
+      "pronunciation_uz": "edvencher",
+      "uzbek": "sarguzasht",
+      "pos": "noun",
+      "example_en": "Traveling to distant islands is a great adventure.",
+      "example_uz": "Olis orollarga sayohat qilish ajoyib sarguzashtdir.",
+      "category": "1-kitob: 1.3-bob"
+    }
+  ]
+}

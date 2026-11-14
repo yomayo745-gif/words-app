@@ -1,0 +1,207 @@
+{
+  "title": "2-kitob: 2.4-bob",
+  "category": "2-kitob: 2.4-bob",
+  "badge": "2.4",
+  "words": [
+    {
+      "english": "against",
+      "ipa": "/əˈɡenst/",
+      "pronunciation_uz": "egenst",
+      "uzbek": "qarshi",
+      "pos": "prep",
+      "example_en": "They played a tough match against the champions.",
+      "example_uz": "Ular chempionlarga qarshi qiyin oʻyin oʻtkazdilar.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "beach",
+      "ipa": "/biːtʃ/",
+      "pronunciation_uz": "biych",
+      "uzbek": "plyaj, sohil",
+      "pos": "noun",
+      "example_en": "We spent all afternoon walking along the sandy beach.",
+      "example_uz": "Biz butun tushdan keyinni qumli sohil boʻylab sayr qilib oʻtkazdik.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "damage",
+      "ipa": "/ˈdæm.ɪdʒ/",
+      "pronunciation_uz": "demidj",
+      "uzbek": "zarar yetkazmoq, ziyon",
+      "pos": "verb",
+      "example_en": "The hail caused heavy damage to the crops.",
+      "example_uz": "Doʻl ekinlarga katta zarar yetkazdi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "discover",
+      "ipa": "/dɪˈskʌv.ər/",
+      "pronunciation_uz": "diskover",
+      "uzbek": "kashf qilmoq, topmoq",
+      "pos": "verb",
+      "example_en": "Explorers discovered an ancient cave in the forest.",
+      "example_uz": "Sayyohlar oʻrmonda qadimiy gʻorni kashf qilishdi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "emotion",
+      "ipa": "/ɪˈməʊ.ʃən/",
+      "pronunciation_uz": "emoushen",
+      "uzbek": "his-tuygʻu, emotsiya",
+      "pos": "noun",
+      "example_en": "Music can evoke strong emotion.",
+      "example_uz": "Musiqa kuchli his-tuygʻularni uygʻotishi mumkin.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "fix",
+      "ipa": "/fɪks/",
+      "pronunciation_uz": "fiks",
+      "uzbek": "tuzatmoq, taʼmirlamoq",
+      "pos": "verb",
+      "example_en": "The mechanic will fix the broken car engine.",
+      "example_uz": "Usta buzilgan avtomobil dvigatelini tuzatadi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "frank",
+      "ipa": "/fræŋk/",
+      "pronunciation_uz": "frenk",
+      "uzbek": "samimiy, ochiqkoʻngil",
+      "pos": "adj",
+      "example_en": "He gave a frank opinion during the discussion.",
+      "example_uz": "U muhokama davomida samimiy fikr bildirdi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "identify",
+      "ipa": "/aɪˈden.tɪ.faɪ/",
+      "pronunciation_uz": "aydentifay",
+      "uzbek": "aniqlamoq, tanib olmoq",
+      "pos": "verb",
+      "example_en": "Can you identify the species of this bird?",
+      "example_uz": "Siz bu qushning turini aniqlay olasizmi?",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "island",
+      "ipa": "/ˈaɪ.lənd/",
+      "pronunciation_uz": "aylend",
+      "uzbek": "orol",
+      "pos": "noun",
+      "example_en": "They sailed to a peaceful tropical island.",
+      "example_uz": "Ular tinch tropik orolga suzib borishdi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "ocean",
+      "ipa": "/ˈəʊ.ʃən/",
+      "pronunciation_uz": "oushen",
+      "uzbek": "okean",
+      "pos": "noun",
+      "example_en": "Whales travel across the open ocean.",
+      "example_uz": "Kitlar ochiq okean boʻylab suzishadi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "perhaps",
+      "ipa": "/pəˈhæps/",
+      "pronunciation_uz": "perheps",
+      "uzbek": "balki, ehtimol",
+      "pos": "adv",
+      "example_en": "Perhaps we will arrive before it begins to rain.",
+      "example_uz": "Balki yomgʻir yogʻishidan oldin yetib borarmiz.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "pleasant",
+      "ipa": "/ˈplez.ənt/",
+      "pronunciation_uz": "plezent",
+      "uzbek": "yoqimli, yoqimtoy",
+      "pos": "adj",
+      "example_en": "We had a pleasant dinner with our guests.",
+      "example_uz": "Biz mehmonlarimiz bilan yoqimli kechki ovqat tanovul qildik.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "prevent",
+      "ipa": "/prɪˈvent/",
+      "pronunciation_uz": "privent",
+      "uzbek": "oldini olmoq",
+      "pos": "verb",
+      "example_en": "Regular exercise can prevent many illnesses.",
+      "example_uz": "Muntazam jismoniy mashqlar koʻplab kasalliklarning oldini oladi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "rock",
+      "ipa": "/rɒk/",
+      "pronunciation_uz": "rok",
+      "uzbek": "qoya, tosh",
+      "pos": "noun",
+      "example_en": "Waves crashed against the sharp rock.",
+      "example_uz": "Toʻlqinlar oʻtkir qoyaga urildi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "save",
+      "ipa": "/seɪv/",
+      "pronunciation_uz": "seyv",
+      "uzbek": "qutqarmoq, tejamoq",
+      "pos": "verb",
+      "example_en": "The lifeguard jumped in to save the swimmer.",
+      "example_uz": "Qutqaruvchi suzuvchini qutqarish uchun suvga sakradi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "step",
+      "ipa": "/step/",
+      "pronunciation_uz": "step",
+      "uzbek": "qadam tashlamoq, qadam",
+      "pos": "verb",
+      "example_en": "Watch your step when descending the stairs.",
+      "example_uz": "Zinadan tushayotganda qadamingizga ehtiyot boʻling.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "still",
+      "ipa": "/stɪl/",
+      "pronunciation_uz": "stil",
+      "uzbek": "hali ham, hanuz",
+      "pos": "adv",
+      "example_en": "Even at midnight he was still reading his book.",
+      "example_uz": "Hatto yarim tunda ham u hali kitob oʻqiyotgan edi.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "taste",
+      "ipa": "/teɪst/",
+      "pronunciation_uz": "teyst",
+      "uzbek": "taʼtmoq, taʼm",
+      "pos": "verb",
+      "example_en": "Taste this soup to see if it needs more salt.",
+      "example_uz": "Shoʻrvaga tuz yetarlimi yoki yoʻqligini bilish uchun undan tatib koʻring.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "throw",
+      "ipa": "/θrəʊ/",
+      "pronunciation_uz": "frou",
+      "uzbek": "uloqtirmoq, tashlamoq",
+      "pos": "verb",
+      "example_en": "Throw the ball to your teammate.",
+      "example_uz": "Toʻpni jamoadoshingizga uloqtiring.",
+      "category": "2-kitob: 2.4-bob"
+    },
+    {
+      "english": "wave",
+      "ipa": "/weɪv/",
+      "pronunciation_uz": "veyv",
+      "uzbek": "toʻlqin, qoʻl silkitmoq",
+      "pos": "noun",
+      "example_en": "Surfers rode the massive ocean wave.",
+      "example_uz": "Syorfingchilar ulkan okean toʻlqinida uchishdi.",
+      "category": "2-kitob: 2.4-bob"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "title": "2-kitob: 2.5-bob",
+  "category": "2-kitob: 2.5-bob",
+  "badge": "2.5",
+  "words": [
+    {
+      "english": "benefit",
+      "ipa": "/ˈben.ɪ.fɪt/",
+      "pronunciation_uz": "benefit",
+      "uzbek": "foyda, naf",
+      "pos": "noun",
+      "example_en": "Regular walking brings great benefit to heart health.",
+      "example_uz": "Muntazam piyoda yurish yurak salomatligiga katta foyda keltiradi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "certain",
+      "ipa": "/ˈsɜː.tən/",
+      "pronunciation_uz": "serten",
+      "uzbek": "aniq, shubhasiz",
+      "pos": "adj",
+      "example_en": "I am certain that the train departs at noon.",
+      "example_uz": "Poyezd tushda joʻnashiga toʻliq ishonchim komil.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "chance",
+      "ipa": "/tʃɑːns/",
+      "pronunciation_uz": "chans",
+      "uzbek": "imkoniyat, imkon",
+      "pos": "noun",
+      "example_en": "This competition gives young writers a chance to shine.",
+      "example_uz": "Ushbu tanlov yosh yozuvchilarga oʻzlarini koʻrsatish imkoniyatini beradi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "effect",
+      "ipa": "/ɪˈfekt/",
+      "pronunciation_uz": "effekt",
+      "uzbek": "taʼsir, oqibat",
+      "pos": "noun",
+      "example_en": "The medicine had an immediate healing effect.",
+      "example_uz": "Dori darhol shifobaxsh taʼsir koʻrsatdi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "essential",
+      "ipa": "/ɪˈsen.ʃəl/",
+      "pronunciation_uz": "essenshl",
+      "uzbek": "juda muhim, zaruriy",
+      "pos": "adj",
+      "example_en": "Good sleep is essential for physical recovery.",
+      "example_uz": "Yaxshi uyqu jismoniy tiklanish uchun juda zarur.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "far",
+      "ipa": "/fɑːr/",
+      "pronunciation_uz": "far",
+      "uzbek": "uzoq, olis",
+      "pos": "adv",
+      "example_en": "They traveled far into the northern mountains.",
+      "example_uz": "Ular shimoliy togʻlarning olis qismiga sayohat qildilar.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "focus",
+      "ipa": "/ˈfəʊ.kəs/",
+      "pronunciation_uz": "foukes",
+      "uzbek": "diqqatni qaratmoq",
+      "pos": "verb",
+      "example_en": "Please focus on completing the urgent assignment.",
+      "example_uz": "Iltimos, diqqatingizni shoshilinch vazifani bajarishga qarating.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "function",
+      "ipa": "/ˈfʌŋk.ʃən/",
+      "pronunciation_uz": "fankshen",
+      "uzbek": "vazifa, faoliyat",
+      "pos": "noun",
+      "example_en": "The main function of the heart is to pump blood.",
+      "example_uz": "Yurakning asosiy vazifasi qon haydashdir.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "grass",
+      "ipa": "/ɡrɑːs/",
+      "pronunciation_uz": "gras",
+      "uzbek": "oʻt, maysazor",
+      "pos": "noun",
+      "example_en": "Children played happily on the green grass.",
+      "example_uz": "Bolalar yashil maysazorda xursand boʻlib oʻynashdi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "guard",
+      "ipa": "/ɡɑːd/",
+      "pronunciation_uz": "gard",
+      "uzbek": "qoʻriqlamoq, soqchi",
+      "pos": "verb",
+      "example_en": "Trained dogs guard the entrance at night.",
+      "example_uz": "Oʻrgatilgan itlar tunda kirish joyini qoʻriqlaydi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "image",
+      "ipa": "/ˈɪm.ɪdʒ/",
+      "pronunciation_uz": "imidj",
+      "uzbek": "tasvir, qiyofa",
+      "pos": "noun",
+      "example_en": "The satellite captured a clear image of the storm.",
+      "example_uz": "Sunʼiy yoʻldosh boʻronning aniq tasvirini oldi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "immediate",
+      "ipa": "/ɪˈmiː.di.ət/",
+      "pronunciation_uz": "immidiyet",
+      "uzbek": "darhol, tezkor",
+      "pos": "adj",
+      "example_en": "The doctor demanded an immediate medical response.",
+      "example_uz": "Shifokor darhol tibbiy javob berilishini talab qildi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "primary",
+      "ipa": "/ˈpraɪ.mər.i/",
+      "pronunciation_uz": "praymeri",
+      "uzbek": "birlamchi, asosiy",
+      "pos": "adj",
+      "example_en": "Safety is our primary concern on the construction site.",
+      "example_uz": "Xavfsizlik qurilish maydonidagi asosiy tashvishimizdir.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "proud",
+      "ipa": "/praʊd/",
+      "pronunciation_uz": "praud",
+      "uzbek": "faxrlangan, gʻururli",
+      "pos": "adj",
+      "example_en": "The parents were proud of their daughter's achievement.",
+      "example_uz": "Ota-onalar qizlarining yutugʻidan faxrlandilar.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "remain",
+      "ipa": "/rɪˈmeɪn/",
+      "pronunciation_uz": "rimeyn",
+      "uzbek": "qolmoq, oʻzgarmay qolmoq",
+      "pos": "verb",
+      "example_en": "Please remain seated until the plane stops fully.",
+      "example_uz": "Samolyot toʻliq toʻxtamaguncha oʻrningizda qoling.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "rest",
+      "ipa": "/rest/",
+      "pronunciation_uz": "rest",
+      "uzbek": "dam olmoq, dam",
+      "pos": "verb",
+      "example_en": "You need to rest after running the marathon.",
+      "example_uz": "Marafonda yugurgandan keyin dam olishingiz kerak.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "separate",
+      "ipa": "/ˈsep.ər.ət/",
+      "pronunciation_uz": "sepreyt",
+      "uzbek": "alohida, boʻlak",
+      "pos": "adj",
+      "example_en": "Each team member has a separate office room.",
+      "example_uz": "Har bir jamoa aʼzosining alohida ish xonasi bor.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "site",
+      "ipa": "/saɪt/",
+      "pronunciation_uz": "sayt",
+      "uzbek": "joy, maydoncha",
+      "pos": "noun",
+      "example_en": "Workers inspected the historic archaeological site.",
+      "example_uz": "Ishchilar tarixiy arxeologik joyni koʻzdan kechirdilar.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "tail",
+      "ipa": "/teɪl/",
+      "pronunciation_uz": "teyl",
+      "uzbek": "dum",
+      "pos": "noun",
+      "example_en": "The friendly puppy wagged its tail enthusiastically.",
+      "example_uz": "Doʻstona kuchukcha dumini quvonch bilan likillatdi.",
+      "category": "2-kitob: 2.5-bob"
+    },
+    {
+      "english": "trouble",
+      "ipa": "/ˈtrʌb.əl/",
+      "pronunciation_uz": "trabl",
+      "uzbek": "muammo, tashvish",
+      "pos": "noun",
+      "example_en": "He ran into serious trouble when the car broke down.",
+      "example_uz": "Mashina buzilib qolganda u jiddiy muammoga duch keldi.",
+      "category": "2-kitob: 2.5-bob"
+    }
+  ]
+}

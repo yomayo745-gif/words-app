@@ -1,0 +1,207 @@
+{
+  "title": "3-kitob: 3.5-bob",
+  "category": "3-kitob: 3.5-bob",
+  "badge": "3.5",
+  "words": [
+    {
+      "english": "belong",
+      "ipa": "/bɪˈlɒŋ/",
+      "pronunciation_uz": "bilong",
+      "uzbek": "tegishli boʻlmoq",
+      "pos": "verb",
+      "example_en": "This antique violin belongs to a famous soloist.",
+      "example_uz": "Bu qadimiy skripka mashhur yakkaxonga tegishli.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "continue",
+      "ipa": "/kənˈtɪn.juː/",
+      "pronunciation_uz": "kontinyu",
+      "uzbek": "davom ettirmoq",
+      "pos": "verb",
+      "example_en": "Please continue your presentation despite the interruption.",
+      "example_uz": "Xalal berishga qaramay, taqdimotingizni davom ettiring.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "error",
+      "ipa": "/ˈer.ər/",
+      "pronunciation_uz": "error",
+      "uzbek": "xato, yanglishish",
+      "pos": "noun",
+      "example_en": "The accountant corrected a calculation error.",
+      "example_uz": "Hisobchi hisob-kitobdagi xatoni tuzatdi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "experience",
+      "ipa": "/ɪkˈspɪə.ri.əns/",
+      "pronunciation_uz": "ekspiriens",
+      "uzbek": "tajriba, kechinma",
+      "pos": "noun",
+      "example_en": "Volunteering was a valuable life experience.",
+      "example_uz": "Koʻngillilik qimmatli hayotiy tajriba boʻldi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "field",
+      "ipa": "/fiːld/",
+      "pronunciation_uz": "fiyld",
+      "uzbek": "dala, soha",
+      "pos": "noun",
+      "example_en": "Cattle grazed in the wide green field.",
+      "example_uz": "Keng yashil dalada mollar oʻtlardi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "judgment",
+      "ipa": "/ˈdʒʌdʒ.mənt/",
+      "pronunciation_uz": "jadjment",
+      "uzbek": "hukm, xulosa",
+      "pos": "noun",
+      "example_en": "Trust your own judgment when making career choices.",
+      "example_uz": "Kasb tanlashda oʻz xulosangizga ishoning.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "likely",
+      "ipa": "/ˈlaɪ.kli/",
+      "pronunciation_uz": "laykli",
+      "uzbek": "ehtimolli, boʻlishi mumkin",
+      "pos": "adj",
+      "example_en": "Rain is likely later this evening.",
+      "example_uz": "Kechqurun yomgʻir yogʻishi ehtimoli yuqori.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "normal",
+      "ipa": "/ˈnɔː.məl/",
+      "pronunciation_uz": "norml",
+      "uzbek": "odatiy, meʼyoriy",
+      "pos": "adj",
+      "example_en": "His body temperature returned to normal.",
+      "example_uz": "Uning tana harorati meʼyoriga qaytdi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "rare",
+      "ipa": "/reər/",
+      "pronunciation_uz": "reer",
+      "uzbek": "noyob, kamyob",
+      "pos": "adj",
+      "example_en": "Astronomers witnessed a rare celestial alignment.",
+      "example_uz": "Astronomlar sayyoralarning noyob joylashuviga guvoh boʻlishdi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "relax",
+      "ipa": "/rɪˈlæks/",
+      "pronunciation_uz": "rileks",
+      "uzbek": "hordiq chiqarmoq",
+      "pos": "verb",
+      "example_en": "Listening to classical music helps me relax.",
+      "example_uz": "Klassik musiqa tinglash menga dam olishga yordam beradi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "request",
+      "ipa": "/rɪˈkwest/",
+      "pronunciation_uz": "rikvest",
+      "uzbek": "iltimos qilmoq, soʻrov",
+      "pos": "verb",
+      "example_en": "Passengers may request a special diet meal.",
+      "example_uz": "Yoʻlovchilar maxsus parhez taomini soʻrashlari mumkin.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "reside",
+      "ipa": "/rɪˈzaɪd/",
+      "pronunciation_uz": "rizayd",
+      "uzbek": "istiqomat qilmoq",
+      "pos": "verb",
+      "example_en": "Many diplomats reside in the capital city.",
+      "example_uz": "Koʻplab diplomatlar poytaxtda istiqomat qilishadi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "roll",
+      "ipa": "/rəʊl/",
+      "pronunciation_uz": "roul",
+      "uzbek": "dumalatmoq, aylanmoq",
+      "pos": "verb",
+      "example_en": "Roll the ball toward the pins.",
+      "example_uz": "Toʻpni keglilar tomon dumalating.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "since",
+      "ipa": "/sɪns/",
+      "pronunciation_uz": "sins",
+      "uzbek": "beri, -dan buyon",
+      "pos": "prep",
+      "example_en": "I haven't seen him since last summer.",
+      "example_uz": "Men uni oʻtgan yozdan beri koʻrmaganman.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "visible",
+      "ipa": "/ˈvɪz.ə.bəl/",
+      "pronunciation_uz": "vizibl",
+      "uzbek": "koʻrinadigan, koʻrinarli",
+      "pos": "adj",
+      "example_en": "The lighthouse was visible through the thick sea mist.",
+      "example_uz": "Qalin dengiz tumanida mayoq koʻrinib turardi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "advantage",
+      "ipa": "/ədˈvɑːn.tɪdʒ/",
+      "pronunciation_uz": "edvantidj",
+      "uzbek": "afzallik, ustunlik",
+      "pos": "noun",
+      "example_en": "Speaking two languages gives you a major advantage.",
+      "example_uz": "Ikki tilni bilish sizga katta ustunlik beradi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "cause",
+      "ipa": "/kɔːz/",
+      "pronunciation_uz": "koz",
+      "uzbek": "sabab boʻlmoq, vaj",
+      "pos": "verb",
+      "example_en": "Heavy storms cause widespread travel delays.",
+      "example_uz": "Kuchli boʻronlar safarlarning keng kechikishiga sabab boʻladi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "face",
+      "ipa": "/feɪs/",
+      "pronunciation_uz": "feys",
+      "uzbek": "roʻpara kelmoq, yuzlanmoq",
+      "pos": "verb",
+      "example_en": "Athletes must face strong competition with confidence.",
+      "example_uz": "Sportchilar kuchli raqobatga ishonch bilan roʻpara kelishlari kerak.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "fellow",
+      "ipa": "/ˈfel.əʊ/",
+      "pronunciation_uz": "fellou",
+      "uzbek": "safdosh, hamkasb",
+      "pos": "noun",
+      "example_en": "He consulted with his fellow researchers on the paper.",
+      "example_uz": "U maqola boʻyicha tadqiqotchi safdoshlari bilan maslahatlashdi.",
+      "category": "3-kitob: 3.5-bob"
+    },
+    {
+      "english": "motion",
+      "ipa": "/ˈməʊ.ʃən/",
+      "pronunciation_uz": "moushen",
+      "uzbek": "harakat, qoʻzgʻalish",
+      "pos": "noun",
+      "example_en": "The gentle rocking motion of the boat helped him sleep.",
+      "example_uz": "Qayiqning mayin tebranish harakati unga uxlab qolishga yordam berdi.",
+      "category": "3-kitob: 3.5-bob"
+    }
+  ]
+}

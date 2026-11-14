@@ -1,0 +1,207 @@
+{
+  "title": "4-kitob: 4.4-bob",
+  "category": "4-kitob: 4.4-bob",
+  "badge": "4.4",
+  "words": [
+    {
+      "english": "acquire",
+      "ipa": "/əˈkwaɪər/",
+      "pronunciation_uz": "ekvayer",
+      "uzbek": "orttirmoq, qoʻlga kiritmoq",
+      "pos": "verb",
+      "example_en": "Students acquire deep knowledge through dedicated practice.",
+      "example_uz": "Talabalar astoydil mashq qilish orqali chuqur bilimga ega boʻladilar.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "awkward",
+      "ipa": "/ˈɔː.kwəd/",
+      "pronunciation_uz": "okverd",
+      "uzbek": "noqulay, oʻngʻaysiz",
+      "pos": "adj",
+      "example_en": "There was an awkward silence in the crowded room.",
+      "example_uz": "Gavjum xonada noqulay sukunat paydo boʻldi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "caretaker",
+      "ipa": "/ˈkeəˌteɪ.kər/",
+      "pronunciation_uz": "kerteyker",
+      "uzbek": "qorovul, nazoratchi",
+      "pos": "noun",
+      "example_en": "The caretaker maintains the school garden and grounds.",
+      "example_uz": "Qorovul maktab bogʻi va hovlisini parvarish qiladi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "deceive",
+      "ipa": "/dɪˈsiːv/",
+      "pronunciation_uz": "disiyv",
+      "uzbek": "aldamoq, chalgʻitmoq",
+      "pos": "verb",
+      "example_en": "Dishonest sellers attempt to deceive customers.",
+      "example_uz": "Insofsiz sotuvchilar mijozlarni aldashga urinishadi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "discourage",
+      "ipa": "/dɪˈskʌr.ɪdʒ/",
+      "pronunciation_uz": "diskaridj",
+      "uzbek": "shashtini qaytarmoq",
+      "pos": "verb",
+      "example_en": "Do not let early setbacks discourage you from pursuing your goal.",
+      "example_uz": "Dastlabki muvaffaqiyatsizliklar maqsadingizdan qaytarmasin.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "fake",
+      "ipa": "/feɪk/",
+      "pronunciation_uz": "feyk",
+      "uzbek": "soxta, yasama",
+      "pos": "adj",
+      "example_en": "Experts recognized the antique painting was a fake.",
+      "example_uz": "Mutaxassislar qadimiy rasm soxta ekanligini aniqladilar.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "hatred",
+      "ipa": "/ˈheɪ.trɪd/",
+      "pronunciation_uz": "heytrid",
+      "uzbek": "nafrat, adovat",
+      "pos": "noun",
+      "example_en": "Education helps eliminate prejudice and hatred.",
+      "example_uz": "Taʼlim xurofot va nafratni yoʻq qilishga yordam beradi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "hut",
+      "ipa": "/hʌt/",
+      "pronunciation_uz": "hat",
+      "uzbek": "kulba, kapa",
+      "pos": "noun",
+      "example_en": "Hikers found shelter in a rustic wooden hut.",
+      "example_uz": "Sayyohlar yogʻoch kulbadan boshpana topdilar.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "inferior",
+      "ipa": "/ɪnˈfɪə.ri.ər/",
+      "pronunciation_uz": "inferiyer",
+      "uzbek": "pastroq, sifatsizroq",
+      "pos": "adj",
+      "example_en": "These cheap imitation goods are of inferior quality.",
+      "example_uz": "Ushbu arzon taqlid mollar sifatsizroqdir.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "lodge",
+      "ipa": "/lɒdʒ/",
+      "pronunciation_uz": "lodj",
+      "uzbek": "ovchilar uyi, qoʻnoq",
+      "pos": "noun",
+      "example_en": "We stayed at a cozy mountain lodge during our ski trip.",
+      "example_uz": "Changʻi sayohati paytida shinam togʻ mehmonxonasida qoldik.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "neglect",
+      "ipa": "/nɪˈɡlekt/",
+      "pronunciation_uz": "niglekt",
+      "uzbek": "eʼtiborsiz qoldirmoq",
+      "pos": "verb",
+      "example_en": "Never neglect your physical health while studying.",
+      "example_uz": "Oʻqish paytida jismoniy sogʻligʻingizni hech qachon eʼtiborsiz qoldirmang.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "newcomer",
+      "ipa": "/ˈnjuːˌkʌm.ər/",
+      "pronunciation_uz": "nyukamer",
+      "uzbek": "yangi kelgan odam",
+      "pos": "noun",
+      "example_en": "The community warmly welcomed every newcomer.",
+      "example_uz": "Mahalla har bir yangi kelgan odamni iliq kutib oldi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "offense",
+      "ipa": "/əˈfens/",
+      "pronunciation_uz": "offens",
+      "uzbek": "huquqbuzarlik, ranjish",
+      "pos": "noun",
+      "example_en": "Stealing is a punishable criminal offense.",
+      "example_uz": "Oʻgʻrilik jazolanadigan jinoiy huquqbuzarlikdir.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "overlook",
+      "ipa": "/ˌəʊ.vəˈlʊk/",
+      "pronunciation_uz": "overluk",
+      "uzbek": "koʻzdan qochirmoq, qaramoq",
+      "pos": "verb",
+      "example_en": "Do not overlook the small details in the contract.",
+      "example_uz": "Shartnomadagi mayda tafsilotlarni koʻzdan qochirmang.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "repay",
+      "ipa": "/rɪˈpeɪ/",
+      "pronunciation_uz": "ripey",
+      "uzbek": "qaytarib toʻlamoq",
+      "pos": "verb",
+      "example_en": "I will repay the borrowed money by Friday.",
+      "example_uz": "Qarzga olingan pulni juma kunigacha toʻlayman.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "ridiculous",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "pronunciation_uz": "ridikyules",
+      "uzbek": "kulgili, bemaʼni",
+      "pos": "adj",
+      "example_en": "Charging fifty dollars for a small sandwich is ridiculous.",
+      "example_uz": "Kichkina buterbrod uchun ellik dollar soʻrash bemaʼnilikdir.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "satisfactory",
+      "ipa": "/ˌsæt.ɪsˈfæk.tər.i/",
+      "pronunciation_uz": "setisfekteri",
+      "uzbek": "qoniqarli",
+      "pos": "adj",
+      "example_en": "The repair work was completed to a satisfactory standard.",
+      "example_uz": "Taʼmirlash ishlari qoniqarli darajada yakunlandi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "shepherd",
+      "ipa": "/ˈʃep.əd/",
+      "pronunciation_uz": "shepherd",
+      "uzbek": "choʻpon",
+      "pos": "noun",
+      "example_en": "The loyal shepherd watched his sheep on the hillside.",
+      "example_uz": "Sadoqatli choʻpon adirda qoʻylarini boqdi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "venture",
+      "ipa": "/ˈven.tʃər/",
+      "pronunciation_uz": "vencher",
+      "uzbek": "tavakkal ish, qadam bosmoq",
+      "pos": "noun",
+      "example_en": "Starting an online store was a bold business venture.",
+      "example_uz": "Onlayn doʻkon ochish jasoratli tadbirkorlik tashabbusi boʻldi.",
+      "category": "4-kitob: 4.4-bob"
+    },
+    {
+      "english": "wheat",
+      "ipa": "/wiːt/",
+      "pronunciation_uz": "viyt",
+      "uzbek": "bugʻdoy",
+      "pos": "noun",
+      "example_en": "Golden wheat rippled in the gentle autumn breeze.",
+      "example_uz": "Mayin kuz shabadasida tilla rang bugʻdoy toʻlqinlandi.",
+      "category": "4-kitob: 4.4-bob"
+    }
+  ]
+}

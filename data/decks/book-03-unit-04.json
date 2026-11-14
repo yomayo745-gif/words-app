@@ -1,0 +1,207 @@
+{
+  "title": "3-kitob: 3.4-bob",
+  "category": "3-kitob: 3.4-bob",
+  "badge": "3.4",
+  "words": [
+    {
+      "english": "appropriate",
+      "ipa": "/əˈprəʊ.pri.ət/",
+      "pronunciation_uz": "eproupriyet",
+      "uzbek": "loyiq, munosib",
+      "pos": "adj",
+      "example_en": "Formal attire is appropriate for the gala dinner.",
+      "example_uz": "Rasmiy kiyim tantanali kechki ovqat uchun munosibdir.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "avoid",
+      "ipa": "/əˈvɔɪd/",
+      "pronunciation_uz": "evoyd",
+      "uzbek": "chetlanmoq, qochmoq",
+      "pos": "verb",
+      "example_en": "Drivers should avoid icy roads in winter.",
+      "example_uz": "Haydovchilar qishda muzli yoʻllardan qochishlari kerak.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "behave",
+      "ipa": "/bɪˈheɪv/",
+      "pronunciation_uz": "biheyv",
+      "uzbek": "oʻzini tutmoq",
+      "pos": "verb",
+      "example_en": "Children were taught to behave politely at the table.",
+      "example_uz": "Bolalarga stolda oʻzlarini odobli tutish oʻrgatildi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "calm",
+      "ipa": "/kɑːm/",
+      "pronunciation_uz": "kam",
+      "uzbek": "xotirjam, bosiq",
+      "pos": "adj",
+      "example_en": "The captain remained calm during the storm.",
+      "example_uz": "Boʻron paytida kapitan bosiq boʻlib qoldi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "concern",
+      "ipa": "/kənˈsɜːn/",
+      "pronunciation_uz": "konsern",
+      "uzbek": "tashvish, qaygʻurish",
+      "pos": "noun",
+      "example_en": "Rising pollution is a major concern for scientists.",
+      "example_uz": "Ifloslanishning kuchayishi olimlar uchun katta tashvishdir.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "content",
+      "ipa": "/kənˈtent/",
+      "pronunciation_uz": "kontent",
+      "uzbek": "rozi, qanoatlangan",
+      "pos": "adj",
+      "example_en": "He was content with his simple village life.",
+      "example_uz": "U oʻzining oddiy qishloq hayotidan mamnun edi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "expect",
+      "ipa": "/ɪkˈspekt/",
+      "pronunciation_uz": "ekspekt",
+      "uzbek": "kutmoq, umid qilmoq",
+      "pos": "verb",
+      "example_en": "We expect hundreds of visitors at the exhibition.",
+      "example_uz": "Koʻrgazmada yuzlab mehmonlarni kutyapmiz.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "frequently",
+      "ipa": "/ˈfriː.kwənt.li/",
+      "pronunciation_uz": "friykwentli",
+      "uzbek": "tez-tez, bot-bot",
+      "pos": "adv",
+      "example_en": "She frequently travels to Madrid for business.",
+      "example_uz": "U ish yuzasidan tez-tez Madridga boradi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "habit",
+      "ipa": "/ˈhæb.ɪt/",
+      "pronunciation_uz": "hebit",
+      "uzbek": "odat, koʻnikma",
+      "pos": "noun",
+      "example_en": "Early morning running became her daily habit.",
+      "example_uz": "Ertalab yugurish uning kundalik odatiga aylandi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "instruct",
+      "ipa": "/ɪnˈstrʌkt/",
+      "pronunciation_uz": "instrakt",
+      "uzbek": "yoʻl-yoʻriq koʻrsatmoq",
+      "pos": "verb",
+      "example_en": "The coach instructed the players before the game.",
+      "example_uz": "Murabbiy oʻyin oldidan oʻyinchilarga koʻrsatmalar berdi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "issue",
+      "ipa": "/ˈɪʃ.uː/",
+      "pronunciation_uz": "ishyu",
+      "uzbek": "masala, muammo",
+      "pos": "noun",
+      "example_en": "Water shortage is a pressing global issue.",
+      "example_uz": "Suv tanqisligi dolzarb global muammodir.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "none",
+      "ipa": "/nʌn/",
+      "pronunciation_uz": "nan",
+      "uzbek": "hech qaysisi",
+      "pos": "pron",
+      "example_en": "None of the applicants met all the requirements.",
+      "example_uz": "Nomzodlarning hech biri barcha talablarga javob bermadi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "patient",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "pronunciation_uz": "peyshent",
+      "uzbek": "sabirli, bardoshli",
+      "pos": "adj",
+      "example_en": "Teachers must be patient with young learners.",
+      "example_uz": "Oʻqituvchilar yosh oʻquvchilarga nisbatan sabrli boʻlishi kerak.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "positive",
+      "ipa": "/ˈpɒz.ə.tɪv/",
+      "pronunciation_uz": "pozitiv",
+      "uzbek": "ijobiy, umidbaxsh",
+      "pos": "adj",
+      "example_en": "Try to maintain a positive attitude under pressure.",
+      "example_uz": "Bosim ostida ham ijobiy kayfiyatni saqlashga harakat qiling.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "punish",
+      "ipa": "/ˈpʌn.ɪʃ/",
+      "pronunciation_uz": "panish",
+      "uzbek": "jazolamoq",
+      "pos": "verb",
+      "example_en": "Laws exist to punish those who commit crimes.",
+      "example_uz": "Qonunlar jinoyat sodir etganlarni jazolash uchun mavjuddir.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "represent",
+      "ipa": "/ˌrep.rɪˈzent/",
+      "pronunciation_uz": "reprizent",
+      "uzbek": "vakillik qilmoq",
+      "pos": "verb",
+      "example_en": "Lawyers represent their clients in a court of law.",
+      "example_uz": "Advokatlar sudda oʻz mijozlarining manfaatlarini ifodalaydilar.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "spread",
+      "ipa": "/spred/",
+      "pronunciation_uz": "spred",
+      "uzbek": "tarqalmoq, yoyilmoq",
+      "pos": "verb",
+      "example_en": "News of the discovery spread across the country rapidly.",
+      "example_uz": "Kashfiyot haqidagi xabar butun mamlakat boʻylab tez tarqaldi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "village",
+      "ipa": "/ˈvɪl.ɪdʒ/",
+      "pronunciation_uz": "vilidj",
+      "uzbek": "qishloq",
+      "pos": "noun",
+      "example_en": "They live in a quiet fishing village near the sea.",
+      "example_uz": "Ular dengiz yaqinidagi tinch baliqchilar qishlogʻida yashashadi.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "aware",
+      "ipa": "/əˈweər/",
+      "pronunciation_uz": "eveer",
+      "uzbek": "xabardor, ogoh",
+      "pos": "adj",
+      "example_en": "Citizens should be aware of environmental changes.",
+      "example_uz": "Fuqarolar atrof-muhit oʻzgarishlaridan xabardor boʻlishlari kerak.",
+      "category": "3-kitob: 3.4-bob"
+    },
+    {
+      "english": "badly",
+      "ipa": "/ˈbæd.li/",
+      "pronunciation_uz": "bedli",
+      "uzbek": "juda yomon, qattiq",
+      "pos": "adv",
+      "example_en": "His leg was badly injured in the fall.",
+      "example_uz": "Yiqilganda uning oyogʻi qattiq jarohatlandi.",
+      "category": "3-kitob: 3.4-bob"
+    }
+  ]
+}
