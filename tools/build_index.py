@@ -29,6 +29,14 @@ BOOK_PALETTES = [
     {"accentIndex": 3, "badge": "K4"}, # Rose
 ]
 
+MATH_PALETTES = [
+    {"accentIndex": 0, "badge": "2-9"}, # Indigo
+    {"accentIndex": 1, "badge": "×+"}, # Violet
+    {"accentIndex": 5, "badge": "÷"},  # Teal
+    {"accentIndex": 6, "badge": "+"},  # Emerald
+    {"accentIndex": 3, "badge": "−"},  # Rose
+]
+
 
 def format_uzbek_apostrophes(text: str) -> str:
     res = re.sub(r"([oOgG])['’ʼʻ`]", lambda m: f"{m.group(1)}\u02bb", text.strip())
@@ -52,7 +60,7 @@ def infer_deck_metadata(
         cat = payload.get("category")
         grp = payload.get("group")
         if isinstance(title, str) and title.strip():
-            inferred_grp = str(grp) if grp else ("book" if slug.startswith("book-") else ("freq" if slug.startswith(("freq-", "top-")) else "topic"))
+            inferred_grp = str(grp) if grp else ("book" if slug.startswith("book-") else ("math" if slug.startswith("math-") else ("freq" if slug.startswith(("freq-", "top-")) else "topic")))
             return (
                 format_uzbek_apostrophes(title),
                 str(cat or title).strip(),
@@ -62,6 +70,8 @@ def infer_deck_metadata(
     first_cat = words[0].get("category", "").strip() if words else ""
     if slug.startswith("book-"):
         group = "book"
+    elif slug.startswith("math-"):
+        group = "math"
     elif slug.startswith(("freq-", "top-")):
         group = "freq"
     else:
@@ -78,11 +88,13 @@ def build_index() -> dict[str, Any]:
 
     general_decks_manifest: list[dict[str, Any]] = []
     book_decks_manifest: list[dict[str, Any]] = []
+    math_decks_manifest: list[dict[str, Any]] = []
 
     freq_file_names: list[str] = []
     topic_file_names: list[str] = []
     general_words_count = 0
     book_words_count = 0
+    math_words_count = 0
 
     for idx, deck_file in enumerate(deck_files):
         raw = json.loads(deck_file.read_text(encoding="utf-8"))
@@ -97,7 +109,6 @@ def build_index() -> dict[str, Any]:
 
         if group == "book":
             book_words_count += count
-            # Determine badge: e.g. "book-01-unit-01" -> "1.1"
             m = re.match(r"book-0?(\d+)-unit-0?(\d+)", slug)
             badge = f"{m.group(1)}.{m.group(2)}" if m else "KITOB"
             b_idx = int(m.group(1)) - 1 if m else 0
@@ -112,6 +123,22 @@ def build_index() -> dict[str, Any]:
                     "badge": badge,
                     "wordCount": count,
                     "accentIndex": accent_idx,
+                    "files": [rel_file],
+                }
+            )
+        elif group == "math":
+            math_words_count += count
+            m_idx = len(math_decks_manifest)
+            meta = MATH_PALETTES[m_idx % len(MATH_PALETTES)]
+            math_decks_manifest.append(
+                {
+                    "id": slug,
+                    "title": title_uz,
+                    "category": category_label,
+                    "group": "math",
+                    "badge": raw.get("badge") or meta["badge"],
+                    "wordCount": count,
+                    "accentIndex": meta["accentIndex"],
                     "files": [rel_file],
                 }
             )
@@ -134,7 +161,7 @@ def build_index() -> dict[str, Any]:
                 }
             )
 
-    # General files for "Hammasi" mode (books are strictly excluded from Hammasi)
+    # General files for "Hammasi" mode (books and math are strictly excluded from Hammasi)
     ordered_general_files = freq_file_names + topic_file_names
 
     # Book composite presets (Kitob 1..4 Barcha boblar)
@@ -159,9 +186,28 @@ def build_index() -> dict[str, Any]:
                 "isBookSummary": True,
             }
         )
-        # Add unit decks for this book right after the book summary
         for u in b_units:
             book_presets.append(u)
+
+    # Math composite presets
+    math_presets: list[dict[str, Any]] = []
+    if math_decks_manifest:
+        math_all_files = [d["files"][0] for d in math_decks_manifest]
+        math_presets.append(
+            {
+                "id": "math-all",
+                "title": "Barcha matematika (Karra, Boʻlish, Qoʻshish, Ayirish)",
+                "category": "Arifmetika va aqliy hisob",
+                "group": "math",
+                "badge": "MAT",
+                "wordCount": math_words_count,
+                "accentIndex": 0,
+                "files": math_all_files,
+                "isMathSummary": True,
+            }
+        )
+        for m in math_decks_manifest:
+            math_presets.append(m)
 
     # Frequency Milestone Decks ("Top 500", "Top 1000", "Top 2000", "Top 3000", "Top 5000")
     file_word_counts = {d["files"][0]: d["wordCount"] for d in general_decks_manifest}
@@ -197,14 +243,16 @@ def build_index() -> dict[str, Any]:
             }
         )
 
-    all_selectable_decks = book_presets + milestone_presets + general_decks_manifest
+    all_selectable_decks = book_presets + milestone_presets + general_decks_manifest + math_presets
 
     manifest = {
-        "version": 3,
+        "version": 4,
         "totalWords": general_words_count,
         "bookWords": book_words_count,
+        "mathWords": math_words_count,
         "totalDeckFiles": len(general_decks_manifest),
         "totalBookFiles": len(book_decks_manifest),
+        "totalMathFiles": len(math_decks_manifest),
         "allFiles": ordered_general_files,
         "decks": all_selectable_decks,
     }
@@ -216,6 +264,7 @@ def build_index() -> dict[str, Any]:
     print(f"Generated {INDEX_JSON_PATH} ({size_kb:.1f} KB)")
     print(f"General Decks: {len(general_decks_manifest)} | General Words (Hammasi): {general_words_count}")
     print(f"Book Decks: {len(book_decks_manifest)} | Book Words (Kitoblar 1-4): {book_words_count}")
+    print(f"Math Decks: {len(math_decks_manifest)} | Math Cards (Karra & Arifmetika): {math_words_count}")
     print(f"Total Selectable Decks in manifest: {len(manifest['decks'])}")
     return manifest
 

@@ -55,10 +55,12 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
 
     seen_english_general: dict[str, tuple[str, int]] = {}
     seen_english_per_book: dict[str, dict[str, tuple[str, int]]] = {}
+    seen_math_per_deck: dict[str, dict[str, tuple[str, int]]] = {}
     deck_summaries: list[tuple[str, int, str]] = []
     errors: list[str] = []
     general_total = 0
     books_total = 0
+    math_total = 0
 
     for deck_file in deck_files:
         try:
@@ -79,12 +81,15 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
             continue
 
         is_book = deck_file.name.startswith("book-") or (isinstance(payload, dict) and payload.get("group") == "book")
+        is_math = deck_file.name.startswith("math-") or (isinstance(payload, dict) and payload.get("group") == "math")
         book_key = "general"
         if is_book:
             book_match = re.match(r"(book-\d+)", deck_file.name)
             book_key = book_match.group(1) if book_match else "book"
             if book_key not in seen_english_per_book:
                 seen_english_per_book[book_key] = {}
+        elif is_math:
+            seen_math_per_deck[deck_file.name] = {}
 
         for idx, entry in enumerate(words, start=1):
             if not isinstance(entry, dict):
@@ -92,6 +97,8 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
                 continue
 
             for field in REQUIRED_FIELDS:
+                if field == "ipa" and is_math:
+                    continue
                 val = entry.get(field)
                 if not isinstance(val, str) or not val.strip():
                     errors.append(
@@ -112,6 +119,16 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
                         )
                     else:
                         book_seen[en_norm] = (deck_file.name, idx)
+                elif is_math:
+                    math_seen = seen_math_per_deck[deck_file.name]
+                    if en_norm in math_seen:
+                        prev_deck, prev_idx = math_seen[en_norm]
+                        errors.append(
+                            f"[DUPLICATE IN MATH] '{en_raw.strip()}' in {deck_file.name} (#{idx}) "
+                            f"already exists in {prev_deck} (#{prev_idx})."
+                        )
+                    else:
+                        math_seen[en_norm] = (deck_file.name, idx)
                 else:
                     if en_norm in seen_english_general:
                         prev_deck, prev_idx = seen_english_general[en_norm]
@@ -123,10 +140,12 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
                         seen_english_general[en_norm] = (deck_file.name, idx)
 
         count = len(words)
-        grp_type = "book" if is_book else "general"
+        grp_type = "book" if is_book else ("math" if is_math else "general")
         deck_summaries.append((deck_file.name, count, grp_type))
         if is_book:
             books_total += count
+        elif is_math:
+            math_total += count
         else:
             general_total += count
 
@@ -141,7 +160,8 @@ def validate_all_decks(decks_dir: Path = DECKS_DIR, min_total: int = 5000) -> tu
     print(f"Total Decks: {len(deck_summaries)}")
     print(f"General Unique Words (Hammasi): {general_total}")
     print(f"Book Words (Kitoblar 1-4): {books_total}")
-    print(f"Grand Total Words: {general_total + books_total}")
+    print(f"Math Cards (Matematika & Karra): {math_total}")
+    print(f"Grand Total Entries: {general_total + books_total + math_total}")
     print("=" * 72)
 
     if errors:

@@ -270,8 +270,9 @@
     else if (enLen >= 8) enSize = 38;
     dom.englishWord.style.fontSize = `${enSize}px`;
 
+    const isMath = isMathWord(word);
     const uzLen = word.uzbek.length;
-    let uzSize = 31;
+    let uzSize = isMath && uzLen <= 6 ? 44 : 31;
     if (uzLen >= 28) uzSize = 20;
     else if (uzLen >= 22) uzSize = 23;
     else if (uzLen >= 16) uzSize = 26;
@@ -426,6 +427,19 @@
   // =========================================================================
   // Rendering the Single Screen
   // =========================================================================
+  function isMathWord(word) {
+    if (!word) return false;
+    const desc = getActiveDeckDescriptor();
+    if (desc && desc.group === "math") return true;
+    return !!(
+      word.category &&
+      (word.category.includes("karra") ||
+        word.category.includes("Boʻlish") ||
+        word.category.includes("Qoʻshish") ||
+        word.category.includes("Ayirish"))
+    );
+  }
+
   function render() {
     const desc = getActiveDeckDescriptor();
     const total = state.expectedTotal || state.activeWords.length || 1;
@@ -458,6 +472,13 @@
     const catTag = currentWord.category || desc.title;
     const formattedIndex = `#${String(displayNum).padStart(3, "0")}`;
 
+    const isMath = isMathWord(currentWord);
+
+    // Audio controls & IPA visibility based on whether it is Math (per user request: no audio for math)
+    if (dom.speakBtn) dom.speakBtn.classList.toggle("hidden", isMath);
+    if (dom.exampleSpeakBtn) dom.exampleSpeakBtn.classList.toggle("hidden", isMath);
+    if (dom.ipaPill) dom.ipaPill.classList.toggle("hidden", isMath);
+
     // Front Face
     dom.frontCategoryTag.textContent = catTag;
     dom.frontIndexBadge.textContent = formattedIndex;
@@ -469,13 +490,13 @@
     dom.posBadge.textContent = POS_LABELS[currentWord.pos] || currentWord.pos;
 
     // Back Face
-    dom.backCategoryTag.textContent = `${catTag} • Tarjima`;
+    dom.backCategoryTag.textContent = isMath ? `${catTag} • Javob` : `${catTag} • Tarjima`;
     dom.backIndexBadge.textContent = formattedIndex;
     dom.uzbekWord.textContent = currentWord.uzbek;
     dom.exampleEn.textContent = currentWord.example_en;
     dom.exampleUz.textContent = currentWord.example_uz;
-    const ipaOrUz = currentWord.ipa || `[ ${currentWord.pronunciation_uz} ]`;
-    dom.backPosBadge.textContent = `${currentWord.english} • ${ipaOrUz}`;
+    const ipaOrUz = currentWord.ipa ? ` • ${currentWord.ipa}` : (isMath ? "" : ` • [ ${currentWord.pronunciation_uz} ]`);
+    dom.backPosBadge.textContent = `${currentWord.english.replace(/\s*=\s*\?$/, "")} = ${currentWord.uzbek}${ipaOrUz}`;
 
     fitCardTypography(currentWord);
     dom.prevBtn.disabled = state.currentIndex <= 0;
@@ -707,6 +728,23 @@
 
       matchedTopics.forEach((d, idx) => {
         dom.categoryList.appendChild(createDeckRow(d, String(idx + 1).padStart(2, "0")));
+        renderedCount += 1;
+      });
+    }
+
+    // Matematika & Karra jadvali (strictly at the very bottom)
+    const mathDecks = state.manifest.decks.filter((d) => d.group === "math");
+    const matchedMath = mathDecks.filter(matchesSearch);
+    if (matchedMath.length > 0) {
+      const hdr = document.createElement("div");
+      hdr.className = "sheet-section-header";
+      hdr.textContent = `Matematika & Karra jadvali (${matchedMath.length})`;
+      dom.categoryList.appendChild(hdr);
+
+      matchedMath.forEach((d) => {
+        const badge = d.badge || getDeckShortCode(d);
+        const isSub = !d.isMathSummary;
+        dom.categoryList.appendChild(createDeckRow(d, badge, isSub));
         renderedCount += 1;
       });
     }
@@ -1012,7 +1050,7 @@
       dom.speakBtn.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) playNativeAudio(word.english, dom.speakBtn);
+        if (word && !isMathWord(word)) playNativeAudio(word.english, dom.speakBtn);
       });
     }
 
@@ -1020,7 +1058,7 @@
       dom.ipaPill.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) playNativeAudio(word.english, dom.speakBtn);
+        if (word && !isMathWord(word)) playNativeAudio(word.english, dom.speakBtn);
       });
     }
 
@@ -1028,7 +1066,7 @@
       dom.pronunciationPill.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) playNativeAudio(word.english, dom.speakBtn);
+        if (word && !isMathWord(word)) playNativeAudio(word.english, dom.speakBtn);
       });
     }
 
@@ -1036,7 +1074,7 @@
       dom.exampleSpeakBtn.addEventListener("click", (e) => {
         e.stopPropagation();
         const word = state.activeWords[state.currentIndex];
-        if (word) playNativeAudio(word.example_en, dom.exampleSpeakBtn);
+        if (word && !isMathWord(word)) playNativeAudio(word.example_en, dom.exampleSpeakBtn);
       });
     }
 
@@ -1101,6 +1139,7 @@
       const urlIndex = params.get("index");
       const urlFlipped = params.get("flip");
       const urlPicker = params.get("picker");
+      const urlSearch = params.get("search");
 
       if (urlDeck && (state.decksById[urlDeck] || urlDeck === ALL_DECK_ID)) {
         state.selectedDeckId = urlDeck;
@@ -1115,7 +1154,15 @@
         setTimeout(toggleFlip, 300);
       }
       if (urlPicker === "1" || urlPicker === "true") {
-        setTimeout(openCategorySheet, 150);
+        setTimeout(() => {
+          openCategorySheet();
+          if (urlSearch) {
+            state.searchQuery = urlSearch;
+            dom.deckSearchInput.value = urlSearch;
+            dom.clearSearchBtn.classList.remove("hidden");
+            renderCategoryList();
+          }
+        }, 150);
       }
     });
   }
