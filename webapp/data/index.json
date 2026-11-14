@@ -2,7 +2,7 @@
   "version": 4,
   "totalWords": 7226,
   "bookWords": 160,
-  "mathWords": 730,
+  "mathWords": 4080,
   "totalDeckFiles": 54,
   "totalBookFiles": 8,
   "totalMathFiles": 5,
@@ -957,7 +957,7 @@
       "category": "Arifmetika va aqliy hisob",
       "group": "math",
       "badge": "MAT",
-      "wordCount": 730,
+      "wordCount": 4080,
       "accentIndex": 0,
       "files": [
         "data/decks/math-01-multiplication-table.json",
@@ -986,7 +986,7 @@
       "category": "Murakkab karra (Katta sonlar)",
       "group": "math",
       "badge": "×+",
-      "wordCount": 200,
+      "wordCount": 1000,
       "accentIndex": 1,
       "files": [
         "data/decks/math-02-advanced-multiplication.json"
@@ -998,7 +998,7 @@
       "category": "Boʻlish (Jadval & Aqliy hisoblash)",
       "group": "math",
       "badge": "÷",
-      "wordCount": 150,
+      "wordCount": 1000,
       "accentIndex": 5,
       "files": [
         "data/decks/math-03-division.json"
@@ -1010,7 +1010,7 @@
       "category": "Qoʻshish (Tezkor aqliy hisoblash)",
       "group": "math",
       "badge": "+",
-      "wordCount": 150,
+      "wordCount": 1000,
       "accentIndex": 6,
       "files": [
         "data/decks/math-04-addition.json"
@@ -1022,7 +1022,7 @@
       "category": "Ayirish (Tezkor aqliy hisoblash)",
       "group": "math",
       "badge": "−",
-      "wordCount": 150,
+      "wordCount": 1000,
       "accentIndex": 3,
       "files": [
         "data/decks/math-05-subtraction.json"
